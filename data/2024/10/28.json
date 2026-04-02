@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 41941451,
+    "title": "Using Rust in non-Rust servers to improve performance",
+    "url": "https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 41945918,
+    "title": "Care Doesn't Scale",
+    "url": "https://stevenscrawls.com/care-doesnt-scale/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 41961034,
+    "title": "Crossing the USA by Train",
+    "url": "https://blinry.org/coast-to-coast/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 41963932,
+    "title": "NewPipe on Linux, Using Android_translation_layer",
+    "url": "https://flathub.org/apps/net.newpipe.NewPipe",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 41964980,
+    "title": "NotebookLlama: An open source version of NotebookLM",
+    "url": "https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 41966114,
+    "title": "Ask HN: What Are You Working On? (October 2024)",
+    "url": "https://news.ycombinator.com/item?id=41966114",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 41971726,
+    "title": "New iMac with M4",
+    "url": "https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 41973065,
+    "title": "Buy payphones and retire",
+    "url": "https://computer.rip/2024-10-26-buy-payphones-and-retire.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 41974637,
+    "title": "So long WordPress",
+    "url": "https://chriswiegman.com/2024/10/so-long-wordpress/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 41975047,
+    "title": "We're forking Flutter",
+    "url": "https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 41963259,
+    "title": "A comparison of Rust\u2019s borrow checker to the one in C#",
+    "url": "https://em-tg.github.io/csborrow/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 41980894,
+    "title": "AI Flame Graphs",
+    "url": "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 41995730,
+    "title": "Pushing the frontiers of audio generation",
+    "url": "https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 41996156,
+    "title": "Cooking with black plastic is particularly crucial to avoid",
+    "url": "https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 41999340,
+    "title": "Chain-of-thought can hurt performance on tasks where thinking makes humans worse",
+    "url": "https://arxiv.org/abs/2410.21333",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 42000784,
+    "title": "OpenZFS deduplication is good now and you shouldn't use it",
+    "url": "https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 42001642,
+    "title": "It might be possible to detect gravitons after all",
+    "url": "https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 42004206,
+    "title": "SSH Remoting",
+    "url": "https://zed.dev/blog/remote-development",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 42008569,
+    "title": "ChatGPT Search",
+    "url": "https://openai.com/index/introducing-chatgpt-search/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 42011193,
+    "title": "Wait Until 8th",
+    "url": "https://www.waituntil8th.org",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

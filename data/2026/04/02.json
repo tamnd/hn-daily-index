@@ -16,7 +16,7 @@
     "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
     "score": 24,
     "by": "bundie",
-    "descendants": 22,
+    "descendants": 23,
     "time": 1775122988
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
     "score": 939,
     "by": "apitman",
-    "descendants": 801,
+    "descendants": 802,
     "time": 1775063491
   },
   {
@@ -44,7 +44,7 @@
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-    "score": 40,
+    "score": 41,
     "by": "luu",
     "descendants": 17,
     "time": 1774933899
@@ -81,6 +81,16 @@
   },
   {
     "rank": 9,
+    "id": 47611921,
+    "title": "Significant Raise of Reports",
+    "url": "https://lwn.net/Articles/1065620/",
+    "score": 10,
+    "by": "stratos123",
+    "descendants": 4,
+    "time": 1775121258
+  },
+  {
+    "rank": 10,
     "id": 47608495,
     "title": "Quantum computing bombshells that are not April Fools",
     "url": "https://scottaaronson.blog/?p=9665",
@@ -88,15 +98,5 @@
     "by": "Strilanc",
     "descendants": 60,
     "time": 1775089483
-  },
-  {
-    "rank": 10,
-    "id": 47602832,
-    "title": "EmDash \u2013 A spiritual successor to WordPress that solves plugin security",
-    "url": "https://blog.cloudflare.com/emdash-wordpress/",
-    "score": 580,
-    "by": "elithrar",
-    "descendants": 429,
-    "time": 1775060078
   }
 ]
