@@ -4,99 +4,99 @@
     "id": 13235654,
     "title": "Why time management is ruining our lives",
     "url": "https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "eoin_murphy",
+    "descendants": 203,
+    "time": 1482392899
   },
   {
     "rank": 2,
     "id": 13244538,
     "title": "Principles",
     "url": "https://www.principles.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "ingve",
+    "descendants": 85,
+    "time": 1482498894
   },
   {
     "rank": 3,
     "id": 13245396,
     "title": "Hedge Fund Math: Heads We Win, Tails You Lose",
     "url": "http://www.nytimes.com/2016/12/22/business/hedge-fund-fees-returns.html?emc=edit_dk_20161223&nl=dealbook&nlid=65508833&ref=dealbook&te=1&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "JumpCrisscross",
+    "descendants": 117,
+    "time": 1482509274
   },
   {
     "rank": 4,
     "id": 13247548,
     "title": "Things I learnt making a fast website",
     "url": "https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.1y8odu3s7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "inian",
+    "descendants": 108,
+    "time": 1482532231
   },
   {
     "rank": 5,
     "id": 13247858,
     "title": "Writing web applications using only the Go Standard Library",
     "url": "https://golang.org/doc/articles/wiki/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "xorbox",
+    "descendants": 68,
+    "time": 1482536705
   },
   {
     "rank": 6,
     "id": 13248207,
     "title": "\u201cChildren of Men\u201d's vision of the future is now disturbingly familiar",
     "url": "http://www.bbc.com/culture/story/20161215-why-children-of-men-has-never-been-as-shocking-as-it-is-now",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "cmrdporcupine",
+    "descendants": 210,
+    "time": 1482544485
   },
   {
     "rank": 7,
     "id": 13248344,
     "title": "Deep Learning Enables You to Hide Screen When Your Boss Is Approaching",
     "url": "http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "kawera",
+    "descendants": 103,
+    "time": 1482548233
   },
   {
     "rank": 8,
     "id": 13248862,
     "title": "The Scientist and Engineer's Guide to Digital Signal Processing (1997)",
     "url": "http://www.dspguide.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "kimburgess",
+    "descendants": 63,
+    "time": 1482560390
   },
   {
     "rank": 9,
     "id": 13249307,
     "title": "Cyanogen services shutting down",
     "url": "https://cyngn.com/blog/cyanogen-services-shutting-down",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "robin_reala",
+    "descendants": 73,
+    "time": 1482576266
   },
   {
     "rank": 10,
     "id": 13249675,
     "title": "Computer Science from the Bottom Up (2013)",
     "url": "https://www.bottomupcs.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 516,
+    "by": "Chesco_",
+    "descendants": 156,
+    "time": 1482585665
   }
 ]

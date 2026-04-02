@@ -4,99 +4,99 @@
     "id": 13263038,
     "title": "Finger Trees: A Simple General-Purpose Data Structure (2006)",
     "url": "http://www.staff.city.ac.uk/~ross/papers/FingerTree.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "tosh",
+    "descendants": 75,
+    "time": 1482845768
   },
   {
     "rank": 2,
     "id": 13263894,
     "title": "Police seek Amazon Echo data in murder case",
     "url": "https://www.engadget.com/2016/12/27/amazon-echo-audio-data-murder-case/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "gscott",
+    "descendants": 221,
+    "time": 1482854795
   },
   {
     "rank": 3,
     "id": 13264079,
     "title": "The best board games of 2016",
     "url": "http://arstechnica.com/gaming/2016/12/game-on-the-best-board-games-of-2016/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "kevlar1818",
+    "descendants": 80,
+    "time": 1482856521
   },
   {
     "rank": 4,
     "id": 13264102,
     "title": "Top-down learning path: Machine Learning for Software Engineers",
     "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "zuzoovn",
+    "descendants": 29,
+    "time": 1482856728
   },
   {
     "rank": 5,
     "id": 13264952,
     "title": "WebRTC: the future of web games",
     "url": "https://getkey.eu/blog/5862b0cf/webrtc:-the-future-of-web-games",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "getkey",
+    "descendants": 163,
+    "time": 1482863580
   },
   {
     "rank": 6,
     "id": 13267108,
     "title": "About Those Air Cushions in Amazon Packages",
     "url": "https://www.theatlantic.com/business/archive/2016/12/air-cushions/511487/?single_page=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "atombender",
+    "descendants": 230,
+    "time": 1482880466
   },
   {
     "rank": 7,
     "id": 13268580,
     "title": "Tesla footage of braking before crash ahead [video]",
     "url": "https://www.youtube.com/watch?v=M_c5kB1qbjY",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "simonsarris",
+    "descendants": 375,
+    "time": 1482902187
   },
   {
     "rank": 8,
     "id": 13269990,
     "title": "Live display of CO2 emitted to produce electricity in European countries",
     "url": "http://electricitymap.tmrow.co/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "caio1982",
+    "descendants": 181,
+    "time": 1482926686
   },
   {
     "rank": 9,
     "id": 13272474,
     "title": "Rust is more than safety",
     "url": "http://words.steveklabnik.com/rust-is-more-than-safety",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "anp",
+    "descendants": 292,
+    "time": 1482949749
   },
   {
     "rank": 10,
     "id": 13272840,
     "title": "Lessons from 3,000 technical interviews",
     "url": "http://blog.interviewing.io/lessons-from-3000-technical-interviews/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 692,
+    "by": "leeny",
+    "descendants": 311,
+    "time": 1482952639
   }
 ]

@@ -4,99 +4,99 @@
     "id": 13344071,
     "title": "The Riemann Hypothesis, explained",
     "url": "https://medium.com/@JorgenVeisdal/the-riemann-hypothesis-explained-fa01c1f75d3f#.9hp0wrml3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "seycombi",
+    "descendants": 61,
+    "time": 1483796448
   },
   {
     "rank": 2,
     "id": 13344318,
     "title": "\u201cReclaim Windows 10\u201d Powershell Script",
     "url": "https://gist.github.com/alirobe/7f3b34ad89a159e6daa1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "maxt",
+    "descendants": 261,
+    "time": 1483800071
   },
   {
     "rank": 3,
     "id": 13345947,
     "title": "Online databases dropping like flies, with 10,000 falling to ransomware",
     "url": "http://arstechnica.co.uk/security/2017/01/more-than-10000-online-databases-taken-hostage-by-ransomware-attackers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "SQL2219",
+    "descendants": 149,
+    "time": 1483816284
   },
   {
     "rank": 4,
     "id": 13346104,
     "title": "King \u2013 man + woman is queen; but why?",
     "url": "http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "stared",
+    "descendants": 101,
+    "time": 1483817776
   },
   {
     "rank": 5,
     "id": 13346866,
     "title": "GitHub Enterprise SQL Injection",
     "url": "http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "urig",
+    "descendants": 51,
+    "time": 1483826205
   },
   {
     "rank": 6,
     "id": 13347058,
     "title": "Every time we lift a pallet from the shipping room, the server times out (2006)",
     "url": "https://www.reddit.com/r/reddit.com/comments/vunp/the_case_of_the_500mile_email/cvw60/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "raldi",
+    "descendants": 82,
+    "time": 1483828453
   },
   {
     "rank": 7,
     "id": 13347852,
     "title": "Car allergic to vanilla ice cream (2000)",
     "url": "http://www.cgl.uwaterloo.ca/smann/IceCream/humor.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 753,
+    "by": "kornish",
+    "descendants": 133,
+    "time": 1483841588
   },
   {
     "rank": 8,
     "id": 13348672,
     "title": "Poet: I can\u2019t answer questions on Texas standardized tests about my own poems",
     "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2017/01/07/poet-i-cant-answer-questions-on-texas-standardized-tests-about-my-own-poems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "danso",
+    "descendants": 215,
+    "time": 1483858450
   },
   {
     "rank": 9,
     "id": 13348870,
     "title": "The Piston image library is now pure Rust",
     "url": "http://blog.piston.rs/2017/01/08/the-image-library-is-now-pure-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "tekacs",
+    "descendants": 125,
+    "time": 1483863588
   },
   {
     "rank": 10,
     "id": 13349211,
     "title": "Dd is not a disk writing tool (2015)",
     "url": "http://www.vidarholen.net/contents/blog/?p=479",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "Ianvdl",
+    "descendants": 198,
+    "time": 1483873308
   }
 ]

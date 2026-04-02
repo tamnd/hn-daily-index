@@ -4,99 +4,99 @@
     "id": 13764231,
     "title": "Nintendo Switch review: pure potential",
     "url": "http://www.theverge.com/2017/3/1/14772530/nintendo-switch-review-zelda-breath-of-the-wild",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "Tomte",
+    "descendants": 363,
+    "time": 1488381078
   },
   {
     "rank": 2,
     "id": 13766933,
     "title": "New GitHub Terms of Service require removing many open-source works",
     "url": "https://www.mirbsd.org/wlog-10_all.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "gamache",
+    "descendants": 244,
+    "time": 1488394359
   },
   {
     "rank": 3,
     "id": 13767245,
     "title": "Leaked Snapchat emails: Anti-gun group told to pay or NRA ads may appear",
     "url": "https://mic.com/articles/170019/leaked-snapchat-emails-anti-gun-charity-told-to-pay-or-nra-ads-may-appear-on-videos",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "davidbarker",
+    "descendants": 249,
+    "time": 1488396069
   },
   {
     "rank": 4,
     "id": 13768152,
     "title": "Dilution",
     "url": "https://blog.ycombinator.com/dilution/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "firloop",
+    "descendants": 123,
+    "time": 1488401440
   },
   {
     "rank": 5,
     "id": 13769727,
     "title": "Operation Rosehub \u2013 patching thousands of open-source projects",
     "url": "https://opensource.googleblog.com/2017/03/operation-rosehub.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 727,
+    "by": "fhoffa",
+    "descendants": 117,
+    "time": 1488411084
   },
   {
     "rank": 6,
     "id": 13771292,
     "title": "Facebook releases 300-dimensional pretrained Fasttext vectors for 90 languages",
     "url": "https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "sandGorgon",
+    "descendants": 70,
+    "time": 1488427142
   },
   {
     "rank": 7,
     "id": 13771421,
     "title": "Lyft Is Said to Seek New Funding as Its Rival Uber Stumbles",
     "url": "https://www.nytimes.com/2017/03/01/technology/lyft-funding-uber.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "uladzislau",
+    "descendants": 505,
+    "time": 1488428762
   },
   {
     "rank": 8,
     "id": 13773127,
     "title": "Deep Forest: Towards an Alternative to Deep Neural Networks",
     "url": "https://arxiv.org/abs/1702.08835",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "kercker",
+    "descendants": 92,
+    "time": 1488451633
   },
   {
     "rank": 9,
     "id": 13774006,
     "title": "AMD Zen and Ryzen 7 Review: A Deep Dive",
     "url": "http://www.anandtech.com/show/11170/the-amd-zen-and-ryzen-7-review-a-deep-dive-on-1800x-1700x-and-1700",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "jsheard",
+    "descendants": 342,
+    "time": 1488463231
   },
   {
     "rank": 10,
     "id": 13775667,
     "title": "Summary of the Amazon S3 Service Disruption",
     "url": "https://aws.amazon.com/message/41926/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1246,
+    "by": "oscarwao",
+    "descendants": 515,
+    "time": 1488473702
   }
 ]

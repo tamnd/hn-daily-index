@@ -4,99 +4,99 @@
     "id": 13427670,
     "title": "My Go Resolutions for 2017",
     "url": "https://research.swtch.com/go2017",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "mitchellh",
+    "descendants": 197,
+    "time": 1484757527
   },
   {
     "rank": 2,
     "id": 13428595,
     "title": "Welcoming Fabric to Google",
     "url": "https://firebase.googleblog.com/2017/01/FabricJoinsGoogle17.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "mayop100",
+    "descendants": 125,
+    "time": 1484762706
   },
   {
     "rank": 3,
     "id": 13429314,
     "title": "Caching at Reddit",
     "url": "https://redditblog.com/2017/1/17/caching-at-reddit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "d23",
+    "descendants": 166,
+    "time": 1484766594
   },
   {
     "rank": 4,
     "id": 13430222,
     "title": "U.S. sues Oracle, alleges salary and hiring discrimination",
     "url": "http://www.reuters.com/article/us-oracle-usa-labor-idUSKBN1522O6?il=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "monocasa",
+    "descendants": 471,
+    "time": 1484773176
   },
   {
     "rank": 5,
     "id": 13431806,
     "title": "Too much sitting, too little exercise may accelerate biological aging",
     "url": "http://sciencebulletin.org/archives/9448.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "devinp",
+    "descendants": 311,
+    "time": 1484785058
   },
   {
     "rank": 6,
     "id": 13432881,
     "title": "Staying with the US Digital Service",
     "url": "https://www.mattcutts.com/blog/join-the-us-digital-service/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "Matt_Cutts",
+    "descendants": 236,
+    "time": 1484798314
   },
   {
     "rank": 7,
     "id": 13433729,
     "title": "Japanese toilet industry agrees to standardize complex bidet controls",
     "url": "http://www.theverge.com/2017/1/17/14306464/japanese-toilet-control-icons-meaning-standard",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "lxm",
+    "descendants": 229,
+    "time": 1484809371
   },
   {
     "rank": 8,
     "id": 13433927,
     "title": "Removing Python 2.x support from Django for version 2.0",
     "url": "https://github.com/django/django/pull/7867/files",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 720,
+    "by": "ReticentMonkey",
+    "descendants": 392,
+    "time": 1484812230
   },
   {
     "rank": 9,
     "id": 13435634,
     "title": "Stepping into math: Open-sourcing our step-by-step solver",
     "url": "https://blog.socratic.org/stepping-into-math-open-sourcing-our-step-by-step-solver-9b5da066ae36",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 554,
+    "by": "shreyans",
+    "descendants": 176,
+    "time": 1484833141
   },
   {
     "rank": 10,
     "id": 13437905,
     "title": "NHTSA\u2019s full investigation into Tesla\u2019s Autopilot shows 40% crash rate reduction",
     "url": "https://techcrunch.com/2017/01/19/nhtsas-full-final-investigation-into-teslas-autopilot-shows-40-crash-rate-reduction/?ncid=rss",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 808,
+    "by": "fmihaila",
+    "descendants": 314,
+    "time": 1484849356
   }
 ]

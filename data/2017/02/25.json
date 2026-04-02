@@ -4,99 +4,99 @@
     "id": 13723892,
     "title": "SHA-1 collider: Make your own colliding PDFs",
     "url": "https://alf.nu/SHA1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "ascorbic",
+    "descendants": 98,
+    "time": 1487946525
   },
   {
     "rank": 2,
     "id": 13724759,
     "title": "Google Cloud Platform is the first cloud provider to offer Intel Skylake",
     "url": "https://cloudplatform.googleblog.com/2017/02/Google-Cloud-Platform-is-the-first-cloud-provider-to-offer-Intel-Skylake.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "rey12rey",
+    "descendants": 206,
+    "time": 1487951859
   },
   {
     "rank": 3,
     "id": 13725093,
     "title": "Adding a SHA1 collision vulnerability test hoses WebKit's source repository",
     "url": "https://bugs.webkit.org/show_bug.cgi?id=168774&comment=c27#c27",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "raingrove",
+    "descendants": 59,
+    "time": 1487953937
   },
   {
     "rank": 4,
     "id": 13726270,
     "title": "Amazon guts affiliate program, cuts fees for electronics in half",
     "url": "https://affiliate-program.amazon.com/help/operating/compare?ref_=pe_2511080_224596230",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "Domenic_S",
+    "descendants": 227,
+    "time": 1487961184
   },
   {
     "rank": 5,
     "id": 13726274,
     "title": "FCC weakens net neutrality rule in a prelude to larger rollbacks",
     "url": "https://techcrunch.com/2017/02/23/fcc-weakens-net-neutrality-rule-in-a-prelude-to-larger-rollbacks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 550,
+    "by": "vivekmgeorge",
+    "descendants": 306,
+    "time": 1487961221
   },
   {
     "rank": 6,
     "id": 13728197,
     "title": "How to Be a Stoic",
     "url": "http://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "Tomte",
+    "descendants": 237,
+    "time": 1487972582
   },
   {
     "rank": 7,
     "id": 13729517,
     "title": "Cloudflare data still in Bing caches",
     "url": "https://news.ycombinator.com/item?id=13727279",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 649,
+    "by": "neonate",
+    "descendants": 246,
+    "time": 1487987532
   },
   {
     "rank": 8,
     "id": 13729979,
     "title": "Amazon Deforestation, Once Tamed, Comes Roaring Back",
     "url": "https://www.nytimes.com/2017/02/24/business/energy-environment/deforestation-brazil-bolivia-south-america.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "blondie9x",
+    "descendants": 113,
+    "time": 1487995398
   },
   {
     "rank": 9,
     "id": 13731408,
     "title": "Warren Buffett's Annual Letter to Berkshire Hathaway Shareholders [pdf]",
     "url": "http://berkshirehathaway.com/letters/2016ltr.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "grellas",
+    "descendants": 310,
+    "time": 1488028173
   },
   {
     "rank": 10,
     "id": 13732288,
     "title": "Machine Learning from scratch: Bare bones implementations in Python",
     "url": "https://github.com/eriklindernoren/ML-From-Scratch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 694,
+    "by": "eriklindernoren",
+    "descendants": 63,
+    "time": 1488040721
   }
 ]

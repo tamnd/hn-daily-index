@@ -4,99 +4,99 @@
     "id": 13151790,
     "title": "Spaced repetition",
     "url": "https://www.gwern.net/Spaced%20repetition",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "ergot",
+    "descendants": 115,
+    "time": 1481474208
   },
   {
     "rank": 2,
     "id": 13153539,
     "title": "Things You Notice When You Quit the News",
     "url": "http://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 891,
+    "by": "ysarbabi",
+    "descendants": 487,
+    "time": 1481493088
   },
   {
     "rank": 3,
     "id": 13153620,
     "title": "uBlock Origin for Microsoft Edge",
     "url": "https://www.microsoft.com/en-us/store/p/ublock-origin/9nblggh444l4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "ggregoire",
+    "descendants": 204,
+    "time": 1481493774
   },
   {
     "rank": 4,
     "id": 13153664,
     "title": "All of Richard Feynman\u2019s physics lectures are now available free online (2014)",
     "url": "http://www.sciencealert.com/all-of-richard-feynmans-physics-lectures-are-now-available-free-online?utm_source=Article&utm_medium=Website&utm_campaign=InArticleReadMoreAll",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "mpweiher",
+    "descendants": 38,
+    "time": 1481494252
   },
   {
     "rank": 5,
     "id": 13154878,
     "title": "What Makes a Senior Software Developer?",
     "url": "http://blog.professorbeekums.com/2016/12/what-makes-senior-software-developer.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 536,
+    "by": "beekums",
+    "descendants": 238,
+    "time": 1481506946
   },
   {
     "rank": 6,
     "id": 13155146,
     "title": "Bill Gates et. al. launch massive clean-energy fund to fight climate change",
     "url": "http://qz.com/859860/bill-gates-is-leading-a-new-1-billion-fund-focused-on-combatting-climate-change-through-innovation/?linkId=32225791",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "jseliger",
+    "descendants": 139,
+    "time": 1481511253
   },
   {
     "rank": 7,
     "id": 13155589,
     "title": "Ask HN: What is something you do for clients that consistently blows them away?",
     "url": "https://news.ycombinator.com/item?id=13155589",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "fapi1974",
+    "descendants": 273,
+    "time": 1481517595
   },
   {
     "rank": 8,
     "id": 13155894,
     "title": "Why Google Pixel lags 10x more than Moto Z",
     "url": "http://taras.glek.net/post/Moto-Z-has-10x-less-lag-than-pixel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "tapper",
+    "descendants": 197,
+    "time": 1481521837
   },
   {
     "rank": 9,
     "id": 13157497,
     "title": "VimWiki \u2013 A personal wiki for Vim",
     "url": "http://vimwiki.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 515,
+    "by": "type0",
+    "descendants": 120,
+    "time": 1481544787
   },
   {
     "rank": 10,
     "id": 13159451,
     "title": "Hyper 1.0.0",
     "url": "https://github.com/zeit/hyper/releases/tag/1.0.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "montogeek",
+    "descendants": 210,
+    "time": 1481561268
   }
 ]

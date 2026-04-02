@@ -4,99 +4,99 @@
     "id": 13462136,
     "title": "Lane Following Autopilot with Keras and Tensorflow",
     "url": "https://wroscoe.github.io/keras-lane-following-autopilot.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "yconst",
+    "descendants": 72,
+    "time": 1485179647
   },
   {
     "rank": 2,
     "id": 13464496,
     "title": "Learn TensorFlow and deep learning, without a Ph.D.",
     "url": "https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 720,
+    "by": "ShanaM",
+    "descendants": 43,
+    "time": 1485196031
   },
   {
     "rank": 3,
     "id": 13465467,
     "title": "Google AMP Is Not a Good Thing",
     "url": "https://danielmiessler.com/blog/google-amp-not-good-thing/#gs.IsZQ8YE",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "danielrm26",
+    "descendants": 163,
+    "time": 1485202049
   },
   {
     "rank": 4,
     "id": 13465955,
     "title": "Charles Bukowski: The Slavery of the 9 to 5",
     "url": "https://medium.com/personal-growth/charles-bukowski-the-slavery-of-the-9-to-5-ae6778ce3731",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "DiabloD3",
+    "descendants": 224,
+    "time": 1485205174
   },
   {
     "rank": 5,
     "id": 13468261,
     "title": "KeepassXC \u2013 A cross-platform community fork of KeepassX",
     "url": "https://keepassxreboot.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "karlgrz",
+    "descendants": 228,
+    "time": 1485223761
   },
   {
     "rank": 6,
     "id": 13469935,
     "title": "Systemd v228 local root exploit",
     "url": "http://www.openwall.com/lists/oss-security/2017/01/24/4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "papey",
+    "descendants": 152,
+    "time": 1485250086
   },
   {
     "rank": 7,
     "id": 13470425,
     "title": "Show HN: Math Attack \u2013 My side project of 3 years",
     "url": "https://play.google.com/store/apps/details?id=com.DawnSprite.MathAttack",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "Sanctor",
+    "descendants": 113,
+    "time": 1485255877
   },
   {
     "rank": 8,
     "id": 13471486,
     "title": "Sony and LG stop making 3D TV sets",
     "url": "http://www.fiercecable.com/cable/3d-tv-officially-dead-as-sony-and-lg-stop-making-sets",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "walterbell",
+    "descendants": 432,
+    "time": 1485267780
   },
   {
     "rank": 9,
     "id": 13471543,
     "title": "Chrome will aggressively throttle background tabs",
     "url": "http://blog.strml.net/2017/01/chrome-56-now-aggressively-throttles.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 811,
+    "by": "callumlocke",
+    "descendants": 389,
+    "time": 1485268268
   },
   {
     "rank": 10,
     "id": 13475172,
     "title": "Wine 2.0 released",
     "url": "https://www.winehq.org/announce/2.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 896,
+    "by": "coldpie",
+    "descendants": 303,
+    "time": 1485289832
   }
 ]

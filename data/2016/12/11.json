@@ -4,99 +4,99 @@
     "id": 13147042,
     "title": "Neurogenesis linked to aerobic exercise",
     "url": "http://nymag.com/scienceofus/2016/04/how-neuroscientists-explain-the-mind-clearing-magic-of-running.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "hecubus",
+    "descendants": 80,
+    "time": 1481394517
   },
   {
     "rank": 2,
     "id": 13148319,
     "title": "Tips for Self-Learning Programming",
     "url": "http://blog.hiphipjorge.com/tips-for-learning-programming/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "hiphipjorge",
+    "descendants": 53,
+    "time": 1481409403
   },
   {
     "rank": 3,
     "id": 13148725,
     "title": "The short, tormented life of computer genius Phil Katz (2000)",
     "url": "http://www.bbsdocumentary.com/library/CONTROVERSY/LAWSUITS/SEA/katzbio.txt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "sanimal",
+    "descendants": 122,
+    "time": 1481414591
   },
   {
     "rank": 4,
     "id": 13149635,
     "title": "Learning Advanced JavaScript (2008)",
     "url": "http://ejohn.org/apps/learn/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "kparaju",
+    "descendants": 55,
+    "time": 1481431634
   },
   {
     "rank": 5,
     "id": 13149902,
     "title": "Confirmation of the topology of the Wendelstein 7-X stellarator\u2019s magnetic field",
     "url": "http://www.nature.com/articles/ncomms13493",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "bcaulfield",
+    "descendants": 113,
+    "time": 1481438280
   },
   {
     "rank": 6,
     "id": 13150144,
     "title": "Ask HN: What was your best passive income in 2016?",
     "url": "https://news.ycombinator.com/item?id=13150144",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 779,
+    "by": "djadmin",
+    "descendants": 678,
+    "time": 1481444489
   },
   {
     "rank": 7,
     "id": 13150639,
     "title": "German judges explain their decision that ad-blocking software is legal",
     "url": "http://arstechnica.com/tech-policy/2016/12/german-judges-explain-why-adblock-plus-is-legal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "Tomte",
+    "descendants": 269,
+    "time": 1481456334
   },
   {
     "rank": 8,
     "id": 13151317,
     "title": "Why we chose Vue.js over React",
     "url": "http://pixeljets.com/blog/why-we-chose-vuejs-over-react",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "jetter",
+    "descendants": 249,
+    "time": 1481468527
   },
   {
     "rank": 9,
     "id": 13151566,
     "title": "Run Unix processes inside your browser",
     "url": "https://browsix.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "corv",
+    "descendants": 124,
+    "time": 1481471904
   },
   {
     "rank": 10,
     "id": 13153031,
     "title": "Proposed server purchase for GitLab.com",
     "url": "https://about.gitlab.com/2016/12/11/proposed-server-purchase-for-gitlab-com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "jfreax",
+    "descendants": 320,
+    "time": 1481488336
   }
 ]

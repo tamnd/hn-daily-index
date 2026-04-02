@@ -4,99 +4,99 @@
     "id": 13559415,
     "title": "Nullsoft: The death of the last maverick tech company (2004)",
     "url": "http://www.slate.com/articles/technology/webhead/2004/11/nullsoft_19972004.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "diggan",
+    "descendants": 168,
+    "time": 1486126311
   },
   {
     "rank": 2,
     "id": 13566951,
     "title": "Blockchain Demo [video]",
     "url": "https://anders.com/blockchain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 723,
+    "by": "spaceboy",
+    "descendants": 147,
+    "time": 1486216134
   },
   {
     "rank": 3,
     "id": 13567901,
     "title": "Using tmux properly",
     "url": "http://danielallendeutsch.com/blog/16-using-tmux-properly.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "cmmn_nighthawk",
+    "descendants": 215,
+    "time": 1486229813
   },
   {
     "rank": 4,
     "id": 13569555,
     "title": "FBI Is Building a Watchlist That Gives Companies Real Time Updates on Employees",
     "url": "https://theintercept.com/2017/02/04/the-fbi-is-building-a-national-watchlist-that-gives-companies-real-time-updates-on-employees/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "grey-area",
+    "descendants": 291,
+    "time": 1486248548
   },
   {
     "rank": 5,
     "id": 13569742,
     "title": "Interactive command line HTTP inspector written in Go",
     "url": "https://github.com/asciimoo/wuzz",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "tartpac",
+    "descendants": 32,
+    "time": 1486251127
   },
   {
     "rank": 6,
     "id": 13571847,
     "title": "Ask HN: What is the most exciting development in your field right now?",
     "url": "https://news.ycombinator.com/item?id=13571847",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 516,
+    "by": "yellow_viper",
+    "descendants": 424,
+    "time": 1486292974
   },
   {
     "rank": 7,
     "id": 13571893,
     "title": "\u201cWe have decided to disable IMDb's message boards\u201d",
     "url": "http://www.imdb.com/board/announcement",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "ivank",
+    "descendants": 324,
+    "time": 1486294215
   },
   {
     "rank": 8,
     "id": 13572416,
     "title": "The State of Go",
     "url": "https://talks.golang.org/2017/state-of-go.slide#1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "dotmanish",
+    "descendants": 388,
+    "time": 1486302873
   },
   {
     "rank": 9,
     "id": 13573702,
     "title": "A DIY M&Ms and Skittles sorting machine",
     "url": "https://willemm.nl/mm-skittles-sorting-machine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 581,
+    "by": "joeguilmette",
+    "descendants": 121,
+    "time": 1486319488
   },
   {
     "rank": 10,
     "id": 13574003,
     "title": "The open-office trend is destroying the workplace",
     "url": "https://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?tid=ss_tw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "makwarth",
+    "descendants": 226,
+    "time": 1486322331
   }
 ]

@@ -4,99 +4,99 @@
     "id": 13206438,
     "title": "Making SQL Server run on Linux",
     "url": "https://blogs.technet.microsoft.com/dataplatforminsider/2016/12/16/sql-server-on-linux-how-introduction/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "kogir",
+    "descendants": 140,
+    "time": 1482080017
   },
   {
     "rank": 2,
     "id": 13207268,
     "title": "Ask HN: How do I get freelance developer jobs?",
     "url": "https://news.ycombinator.com/item?id=13207268",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "jamesmp98",
+    "descendants": 108,
+    "time": 1482090808
   },
   {
     "rank": 3,
     "id": 13207825,
     "title": "Gimli Glider",
     "url": "https://en.wikipedia.org/wiki/Gimli_Glider",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "numlocked",
+    "descendants": 198,
+    "time": 1482097408
   },
   {
     "rank": 4,
     "id": 13208986,
     "title": "Beware of Developers Who Do Negative Work",
     "url": "http://blog.professorbeekums.com/2016/12/beware-of-developers-who-do-negative.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "beekums",
+    "descendants": 259,
+    "time": 1482112947
   },
   {
     "rank": 5,
     "id": 13209575,
     "title": "The Crystal Programming Language",
     "url": "https://github.com/crystal-lang/crystal",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "sndean",
+    "descendants": 193,
+    "time": 1482123703
   },
   {
     "rank": 6,
     "id": 13210687,
     "title": "Skip Lists Done Right",
     "url": "http://ticki.github.io/blog/skip-lists-done-right/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "signa11",
+    "descendants": 82,
+    "time": 1482145314
   },
   {
     "rank": 7,
     "id": 13210849,
     "title": "Cancelable Promises: Why was this proposal withdrawn?",
     "url": "https://github.com/tc39/proposal-cancelable-promises/issues/70",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "xatxat",
+    "descendants": 213,
+    "time": 1482148352
   },
   {
     "rank": 8,
     "id": 13212976,
     "title": "Building Jarvis",
     "url": "https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1164,
+    "by": "tosh",
+    "descendants": 251,
+    "time": 1482167741
   },
   {
     "rank": 9,
     "id": 13213871,
     "title": "Bootstrapping a SaaS Startup from Scratch\u200a",
     "url": "https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.qf7sgvbhu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 735,
+    "by": "batina",
+    "descendants": 104,
+    "time": 1482173474
   },
   {
     "rank": 10,
     "id": 13213902,
     "title": "So you want to expose Go on the Internet",
     "url": "https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "imauld",
+    "descendants": 140,
+    "time": 1482173633
   }
 ]

@@ -4,99 +4,99 @@
     "id": 13559615,
     "title": "The Gray-1, a homebrew CPU exclusively composed of memory",
     "url": "http://2x-1.net/ob/gray1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "jsnell",
+    "descendants": 48,
+    "time": 1486128366
   },
   {
     "rank": 2,
     "id": 13559764,
     "title": "The Purpose of Sleep? To Forget, Scientists Say",
     "url": "https://www.nytimes.com/2017/02/02/science/sleep-memory-brain-forgetting.html?_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "azuajef",
+    "descendants": 110,
+    "time": 1486130166
   },
   {
     "rank": 3,
     "id": 13559980,
     "title": "Whonix \u2013 A desktop operating system designed for advanced security and privacy",
     "url": "https://www.whonix.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "koolba",
+    "descendants": 55,
+    "time": 1486132168
   },
   {
     "rank": 4,
     "id": 13560978,
     "title": "Use of Ad-Blocking Software Rises by 30% Worldwide",
     "url": "https://www.nytimes.com/2017/01/31/technology/ad-blocking-internet.html?mabReward=A3&recp=0&action=click&pgtype=Homepage&region=CColumn&module=Recommendation&src=rechp&WT.nav=RecEngine&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "t23",
+    "descendants": 321,
+    "time": 1486139582
   },
   {
     "rank": 5,
     "id": 13563577,
     "title": "Breakdown of a Simple Ray Tracer",
     "url": "http://mrl.nyu.edu/~perlin/raytrace1_breakdown/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "rhema",
+    "descendants": 48,
+    "time": 1486158140
   },
   {
     "rank": 6,
     "id": 13565955,
     "title": "More than one million requests per second in Node.js",
     "url": "https://github.com/uWebSockets/uWebSockets/wiki/(More-than)-one-million-requests-per-second-in-Node.js",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "_e3th",
+    "descendants": 86,
+    "time": 1486190389
   },
   {
     "rank": 7,
     "id": 13566716,
     "title": "Network programming with Go (2012)",
     "url": "https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "amzans",
+    "descendants": 41,
+    "time": 1486210548
   },
   {
     "rank": 8,
     "id": 13567594,
     "title": "Appleseed \u2013 a modern, open source, physically-based rendering engine",
     "url": "http://appleseedhq.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "generic_user",
+    "descendants": 80,
+    "time": 1486226518
   },
   {
     "rank": 9,
     "id": 13567940,
     "title": "YouTube removes hundreds of the best climate science videos from the Internet",
     "url": "http://climatestate.com/2017/02/03/youtube-removes-hundreds-of-the-best-climate-science-videos-from-the-internet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "r3bl",
+    "descendants": 115,
+    "time": 1486230224
   },
   {
     "rank": 10,
     "id": 13568394,
     "title": "Facebook is terrifying",
     "url": "https://medium.com/@jitbit/facebook-is-terrifying-8dc4a016b64b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "jitbit",
+    "descendants": 281,
+    "time": 1486234801
   }
 ]

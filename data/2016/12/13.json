@@ -4,99 +4,99 @@
     "id": 13159908,
     "title": "Ask HN: Where is AI/ML actually adding value at your company?",
     "url": "https://news.ycombinator.com/item?id=13159908",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "mkrecny",
+    "descendants": 195,
+    "time": 1481564080
   },
   {
     "rank": 2,
     "id": 13161155,
     "title": "YC's Winter Reading List",
     "url": "http://blog.ycombinator.com/ycs-winter-reading-list/?re=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "yurisagalov",
+    "descendants": 214,
+    "time": 1481571500
   },
   {
     "rank": 3,
     "id": 13161505,
     "title": "How Discord handles over a million requests per minute with Elixir\u2019s GenStage",
     "url": "https://discord.engineering/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4#.lb9vf1xt5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "Sikul",
+    "descendants": 161,
+    "time": 1481573756
   },
   {
     "rank": 4,
     "id": 13161538,
     "title": "Why I still won\u2019t review for or publish with Elsevier",
     "url": "http://www.talyarkoni.org/blog/2016/12/12/why-i-still-wont-review-for-or-publish-with-elsevier-and-think-you-shouldnt-either/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "geospeck",
+    "descendants": 140,
+    "time": 1481573968
   },
   {
     "rank": 5,
     "id": 13163895,
     "title": "Uber employees used the platform to stalk celebrities and their exes",
     "url": "http://www.businessinsider.com/uber-employees-stalked-celebrities-ex-employee-claims-2016-12",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "kevcampb",
+    "descendants": 236,
+    "time": 1481594663
   },
   {
     "rank": 6,
     "id": 13164058,
     "title": "Radio Garden \u2013 Listen to world radio by navigating an interactive globe",
     "url": "http://radio.garden/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 527,
+    "by": "gamma_raj",
+    "descendants": 110,
+    "time": 1481597526
   },
   {
     "rank": 7,
     "id": 13165517,
     "title": "The Rule of Silence (2006)",
     "url": "http://www.linfo.org/rule_of_silence.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "riansanderson",
+    "descendants": 310,
+    "time": 1481619650
   },
   {
     "rank": 8,
     "id": 13165919,
     "title": "Why Kakoune\u2009\u2013\u2009The quest for a better code editor",
     "url": "http://kakoune.org/why-kakoune/why-kakoune.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 631,
+    "by": "petepete",
+    "descendants": 327,
+    "time": 1481625724
   },
   {
     "rank": 9,
     "id": 13166032,
     "title": "Microsoft\u2019s Surface Hub is now apparently a billion-dollar business",
     "url": "http://arstechnica.com/information-technology/2016/12/microsofts-surface-hub-sales-surprisingly-strong-its-a-huge-hardware-hit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "Tomte",
+    "descendants": 182,
+    "time": 1481627980
   },
   {
     "rank": 10,
     "id": 13168888,
     "title": "Waymo: Google's self-driving car company",
     "url": "http://waymo.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 785,
+    "by": "_khwc",
+    "descendants": 748,
+    "time": 1481652027
   }
 ]

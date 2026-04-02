@@ -4,99 +4,99 @@
     "id": 13645227,
     "title": "Inferring Your Mobile Phone Password via WiFi Signals",
     "url": "http://fermatslibrary.com/s/when-csi-meets-public-wifi-inferring-your-mobile-phone-password-via-wifi-signals",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "pogba101",
+    "descendants": 64,
+    "time": 1487093087
   },
   {
     "rank": 2,
     "id": 13646438,
     "title": "SNES preservation project on hold due to missing $10,000 package",
     "url": "https://byuu.org/emulation/preservation/lost-package/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "coldpie",
+    "descendants": 143,
+    "time": 1487101035
   },
   {
     "rank": 3,
     "id": 13647146,
     "title": "Pathfinder, a fast GPU-based font rasterizer in Rust",
     "url": "http://pcwalton.github.io/blog/2017/02/14/pathfinder/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "mmastrac",
+    "descendants": 101,
+    "time": 1487106143
   },
   {
     "rank": 4,
     "id": 13647927,
     "title": "The Biggest and Weirdest Commits in Linux Kernel Git History",
     "url": "https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "gary_bernhardt",
+    "descendants": 51,
+    "time": 1487111765
   },
   {
     "rank": 5,
     "id": 13648449,
     "title": "Warren Buffett\u2019s Best Investment",
     "url": "https://www.gatesnotes.com/2017-Annual-Letter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 659,
+    "by": "jonbaer",
+    "descendants": 204,
+    "time": 1487116262
   },
   {
     "rank": 6,
     "id": 13649523,
     "title": "Google\u2019s not-so-secret new OS",
     "url": "https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 634,
+    "by": "techenthusiast",
+    "descendants": 538,
+    "time": 1487130370
   },
   {
     "rank": 7,
     "id": 13649996,
     "title": "PSLV-C37 Successfully Launches 104 Satellites in a Single Flight",
     "url": "http://www.isro.gov.in/update/15-feb-2017/pslv-c37-cartosat-2-series-mission-accomplished-successfully",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "happy-go-lucky",
+    "descendants": 43,
+    "time": 1487137255
   },
   {
     "rank": 8,
     "id": 13650818,
     "title": "GitHub commit search: \u201cremove password\u201d",
     "url": "https://github.com/search?utf8=%E2%9C%93&q=remove+password&type=Commits&ref=searchresults",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 861,
+    "by": "rsc-dev",
+    "descendants": 257,
+    "time": 1487151745
   },
   {
     "rank": 9,
     "id": 13653669,
     "title": "Algorithms",
     "url": "https://www.khanacademy.org/computing/computer-science/algorithms/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 624,
+    "by": "rsandhu",
+    "descendants": 156,
+    "time": 1487179805
   },
   {
     "rank": 10,
     "id": 13653819,
     "title": "TensorFlow 1.0 Released",
     "url": "https://developers.googleblog.com/2017/02/announcing-tensorflow-10.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 647,
+    "by": "plexicle",
+    "descendants": 71,
+    "time": 1487180834
   }
 ]

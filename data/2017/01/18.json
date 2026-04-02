@@ -4,99 +4,99 @@
     "id": 13417616,
     "title": "Nylas Mail is now free",
     "url": "https://blog.nylas.com/nylas-mail-is-now-free-8350d6a1044d#.7cykx2z49",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "jalada",
+    "descendants": 319,
+    "time": 1484662287
   },
   {
     "rank": 2,
     "id": 13419665,
     "title": "Mo.js: motion graphics toolbelt for the web",
     "url": "https://github.com/legomushroom/mojs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "hunvreus",
+    "descendants": 62,
+    "time": 1484676471
   },
   {
     "rank": 3,
     "id": 13420092,
     "title": "Pixie \u2013 A small, fast, native Lisp",
     "url": "http://pixielang.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "throwaway7645",
+    "descendants": 157,
+    "time": 1484679633
   },
   {
     "rank": 4,
     "id": 13421608,
     "title": "RethinkDB Postmortem",
     "url": "https://github.com/coffeemug/defstartup/blob/master/_drafts/why-rethinkdb-failed.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 948,
+    "by": "v3ss0n",
+    "descendants": 267,
+    "time": 1484689518
   },
   {
     "rank": 5,
     "id": 13421927,
     "title": "Standard Notes \u2013 A notes app with a focus on longevity, portability, and privacy",
     "url": "https://standardnotes.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 673,
+    "by": "mikecarlton",
+    "descendants": 282,
+    "time": 1484691138
   },
   {
     "rank": 6,
     "id": 13423629,
     "title": "Show HN: Privacy-focused, ad-free, non-tracking torrent search engine",
     "url": "https://www.skytorrents.in",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1183,
+    "by": "kasumis_",
+    "descendants": 346,
+    "time": 1484708480
   },
   {
     "rank": 7,
     "id": 13426494,
     "title": "What I Wish I'd Known About Equity Before Joining a Unicorn",
     "url": "https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1382,
+    "by": "yossorion",
+    "descendants": 558,
+    "time": 1484749936
   },
   {
     "rank": 8,
     "id": 13426896,
     "title": "Ask HN: Are we overcomplicating software development?",
     "url": "https://news.ycombinator.com/item?id=13426896",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 639,
+    "by": "ian0",
+    "descendants": 368,
+    "time": 1484752838
   },
   {
     "rank": 9,
     "id": 13428098,
     "title": "PyTorch \u2013 Tensors and Dynamic neural networks in Python",
     "url": "http://pytorch.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "programnature",
+    "descendants": 88,
+    "time": 1484759899
   },
   {
     "rank": 10,
     "id": 13430108,
     "title": "Rust vs. Go",
     "url": "https://blog.ntpsec.org/2017/01/18/rust-vs-go.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 481,
+    "by": "ingve",
+    "descendants": 580,
+    "time": 1484772149
   }
 ]

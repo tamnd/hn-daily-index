@@ -4,99 +4,99 @@
     "id": 13138237,
     "title": "Intake \u2013 American's largest psychiatric chain",
     "url": "https://www.buzzfeed.com/rosalindadams/intake",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "andy",
+    "descendants": 94,
+    "time": 1481284655
   },
   {
     "rank": 2,
     "id": 13139638,
     "title": "Ask HN: What problem in your industry is a potential startup?",
     "url": "https://news.ycombinator.com/item?id=13139638",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 658,
+    "by": "takinola",
+    "descendants": 705,
+    "time": 1481300744
   },
   {
     "rank": 3,
     "id": 13142285,
     "title": "AMD responds to Linux kernel maintainer's rejection of AMDGPU patch",
     "url": "https://lists.freedesktop.org/archives/dri-devel/2016-December/126684.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "belltaco",
+    "descendants": 271,
+    "time": 1481321354
   },
   {
     "rank": 4,
     "id": 13142327,
     "title": "Developers\u2019 side projects",
     "url": "https://www.joelonsoftware.com/2016/12/09/developers-side-projects/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1052,
+    "by": "grabeh",
+    "descendants": 389,
+    "time": 1481321723
   },
   {
     "rank": 5,
     "id": 13142372,
     "title": "Ask HN: Maybe I kind of suck as a programmer \u2013 how do I supercharge my work?",
     "url": "https://news.ycombinator.com/item?id=13142372",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "tastyface",
+    "descendants": 121,
+    "time": 1481322073
   },
   {
     "rank": 6,
     "id": 13144483,
     "title": "Let your kids lose: Success inhibits preschoolers\u2019 ability to trust",
     "url": "https://www.sciencedaily.com/releases/2016/12/161206125158.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "chriskanan",
+    "descendants": 111,
+    "time": 1481353828
   },
   {
     "rank": 7,
     "id": 13144713,
     "title": "Why I'm Making Python 2.8",
     "url": "https://www.naftaliharris.com/blog/why-making-python-2.8/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "cpeterso",
+    "descendants": 379,
+    "time": 1481358424
   },
   {
     "rank": 8,
     "id": 13145216,
     "title": "LIGO black hole echoes hint at general-relativity breakdown",
     "url": "http://www.nature.com/news/ligo-black-hole-echoes-hint-at-general-relativity-breakdown-1.21135",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "privong",
+    "descendants": 96,
+    "time": 1481370092
   },
   {
     "rank": 9,
     "id": 13145400,
     "title": "My Pixel has a manufacturing defect",
     "url": "https://9to5google.com/2016/12/09/google-pixel-screen-peeling-support/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "ivank",
+    "descendants": 344,
+    "time": 1481373574
   },
   {
     "rank": 10,
     "id": 13145781,
     "title": "Generals.io \u2013 Capture enemy generals to defeat them",
     "url": "http://generals.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "progval",
+    "descendants": 157,
+    "time": 1481380446
   }
 ]

@@ -4,99 +4,99 @@
     "id": 13688556,
     "title": "How we built a back end system for Uber-like maps with animated cars",
     "url": "https://blog.maddevs.io/how-we-built-a-backend-system-for-uber-like-map-with-animated-cars-on-it-using-go-29d5dcd517a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "dcu",
+    "descendants": 39,
+    "time": 1487608180
   },
   {
     "rank": 2,
     "id": 13689697,
     "title": "Cross-Site Request Forgery is dead",
     "url": "https://scotthelme.co.uk/csrf-is-dead/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "edward",
+    "descendants": 76,
+    "time": 1487615697
   },
   {
     "rank": 3,
     "id": 13691050,
     "title": "Signal can now be used without Google Play Services",
     "url": "https://github.com/WhisperSystems/Signal-Android/commit/1669731329bcc32c84e33035a67a2fc22444c24b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "marco1",
+    "descendants": 164,
+    "time": 1487625853
   },
   {
     "rank": 4,
     "id": 13691303,
     "title": "Ruby `reject!`",
     "url": "http://accidentallyquadratic.tumblr.com/post/157496054437/ruby-reject",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "dmit",
+    "descendants": 141,
+    "time": 1487627548
   },
   {
     "rank": 5,
     "id": 13692825,
     "title": "Development content accidentally shipped on a DOS CD-ROM game from 1993",
     "url": "https://github.com/Fortyseven/RA_1993",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "fortyseven",
+    "descendants": 198,
+    "time": 1487644894
   },
   {
     "rank": 6,
     "id": 13694031,
     "title": "Welcome to the New AWS AI Blog",
     "url": "https://aws.amazon.com/blogs/ai/welcome-to-the-new-aws-ai-blog/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "phodo",
+    "descendants": 93,
+    "time": 1487663278
   },
   {
     "rank": 7,
     "id": 13696004,
     "title": "Why I Don\u2019t Talk to Google Recruiters",
     "url": "http://www.yegor256.com/2017/02/21/say-no-to-google-recruiters.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 892,
+    "by": "kesor",
+    "descendants": 652,
+    "time": 1487689657
   },
   {
     "rank": 8,
     "id": 13696196,
     "title": "Anagram Scoring",
     "url": "http://blog.plover.com/lang/anagram-scoring.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "panic",
+    "descendants": 106,
+    "time": 1487691197
   },
   {
     "rank": 9,
     "id": 13697480,
     "title": "Introducing Netflix Stethoscope",
     "url": "http://techblog.netflix.com/2017/02/introducing-netflix-stethoscope.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "dustinmoris",
+    "descendants": 154,
+    "time": 1487698488
   },
   {
     "rank": 10,
     "id": 13697666,
     "title": "GPUs Are Now Available for Google Compute Engine and Cloud Machine Learning",
     "url": "https://cloudplatform.googleblog.com/2017/02/GPUs-are-now-available-for-Google-Compute-Engine-and-Cloud-Machine-Learning.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "boulos",
+    "descendants": 148,
+    "time": 1487699682
   }
 ]

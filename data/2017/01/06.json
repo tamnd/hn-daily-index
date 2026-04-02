@@ -4,99 +4,99 @@
     "id": 13329108,
     "title": "Irssi 1.0.0 Released",
     "url": "https://irssi.org/2017/01/05/irssi-1.0.0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "raimue",
+    "descendants": 130,
+    "time": 1483636929
   },
   {
     "rank": 2,
     "id": 13330233,
     "title": "The Reality of Developer Burnout",
     "url": "https://www.kennethreitz.org/essays/the-reality-of-developer-burnout",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "kenneth_reitz",
+    "descendants": 176,
+    "time": 1483642852
   },
   {
     "rank": 3,
     "id": 13332138,
     "title": "Lessons learned as a React contractor",
     "url": "https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "prostoalex",
+    "descendants": 168,
+    "time": 1483656206
   },
   {
     "rank": 4,
     "id": 13333210,
     "title": "Graphviz in the browser",
     "url": "http://mdaines.github.io/viz.js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "TAForObvReasons",
+    "descendants": 69,
+    "time": 1483666593
   },
   {
     "rank": 5,
     "id": 13333265,
     "title": "My Watch Runs GNU/Linux",
     "url": "https://learntemail.sam.today/blog/my-watch-runs-gnu-linux-and-it-is-amazing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "BuuQu9hu",
+    "descendants": 234,
+    "time": 1483667398
   },
   {
     "rank": 6,
     "id": 13333605,
     "title": "Compute Card, a Credit Card-Sized Compute Platform",
     "url": "https://newsroom.intel.com/news/intel-unveils-intel-compute-card-credit-card-sized-compute-platform/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "clumsysmurf",
+    "descendants": 167,
+    "time": 1483672220
   },
   {
     "rank": 7,
     "id": 13334168,
     "title": "A Tourist\u2019s Guide to the LLVM Source Code",
     "url": "http://blog.regehr.org/archives/1453",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "zdw",
+    "descendants": 44,
+    "time": 1483680110
   },
   {
     "rank": 8,
     "id": 13334480,
     "title": "Ask HN: If you were to switch career, what would you do?",
     "url": "https://news.ycombinator.com/item?id=13334480",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "bsvalley",
+    "descendants": 833,
+    "time": 1483685813
   },
   {
     "rank": 9,
     "id": 13338441,
     "title": "FTC sues D-Link over router and camera security flaws",
     "url": "https://www.consumer.ftc.gov/blog/ftc-sues-d-link-over-router-and-camera-security-flaws",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "kposehn",
+    "descendants": 193,
+    "time": 1483725278
   },
   {
     "rank": 10,
     "id": 13338592,
     "title": "Show HN: Alacritty, a GPU-accelerated terminal emulator written in Rust",
     "url": "http://blog.jwilm.io/announcing-alacritty/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1170,
+    "by": "jwilm",
+    "descendants": 476,
+    "time": 1483726099
   }
 ]
