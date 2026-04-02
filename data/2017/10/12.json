@@ -4,99 +4,99 @@
     "id": 15450594,
     "title": "Ansible open-sources Ansible Tower with AWX",
     "url": "https://www.jeffgeerling.com/blog/2017/ansible-open-sources-ansible-tower-awx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "sciurus",
+    "descendants": 111,
+    "time": 1507736302
   },
   {
     "rank": 2,
     "id": 15451442,
     "title": "Ask HN: What non-work task have you automated?",
     "url": "https://news.ycombinator.com/item?id=15451442",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "Kevin_S",
+    "descendants": 704,
+    "time": 1507742723
   },
   {
     "rank": 3,
     "id": 15451584,
     "title": "Competitive Self-Play",
     "url": "https://blog.openai.com/competitive-self-play/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "gdb",
+    "descendants": 138,
+    "time": 1507743845
   },
   {
     "rank": 4,
     "id": 15453974,
     "title": "Please take care of my plant",
     "url": "http://www.pleasetakecareofmyplant.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 660,
+    "by": "mooreds",
+    "descendants": 179,
+    "time": 1507759884
   },
   {
     "rank": 5,
     "id": 15454352,
     "title": "A Little Story About the `yes` Unix Command",
     "url": "https://matthias-endler.de/2017/yes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 452,
+    "by": "mre",
+    "descendants": 172,
+    "time": 1507763319
   },
   {
     "rank": 6,
     "id": 15455920,
     "title": "Containers and Distributed Systems: Where They Came from and Where They\u2019re Going",
     "url": "https://mesosphere.com/blog/containers-distributed-systems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "florianleibert",
+    "descendants": 41,
+    "time": 1507787205
   },
   {
     "rank": 7,
     "id": 15456221,
     "title": "Equifax website hacked again, this time to redirect to fake Flash update",
     "url": "https://arstechnica.com/information-technology/2017/10/equifax-website-hacked-again-this-time-to-redirect-to-fake-flash-update/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "Larrikin",
+    "descendants": 96,
+    "time": 1507792413
   },
   {
     "rank": 8,
     "id": 15457076,
     "title": "Exploding Git Repositories",
     "url": "https://kate.io/blog/git-bomb/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "ingve",
+    "descendants": 73,
+    "time": 1507806101
   },
   {
     "rank": 9,
     "id": 15457767,
     "title": "Hyperloop One Becomes \u2018Virgin Hyperloop One\u2019",
     "url": "https://techcrunch.com/2017/10/12/hyperloop-one-becomes-virgin-hyperloop-one-with-virgin-group-investment/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "mpweiher",
+    "descendants": 503,
+    "time": 1507814942
   },
   {
     "rank": 10,
     "id": 15460354,
     "title": "Google commits $1B in grants to train U.S. workers for high-tech jobs",
     "url": "https://techcrunch.com/2017/10/12/google-commits-1-billion-in-grants-to-train-u-s-workers-for-high-tech-jobs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "thesanerguy",
+    "descendants": 351,
+    "time": 1507834552
   }
 ]

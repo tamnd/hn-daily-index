@@ -4,99 +4,99 @@
     "id": 15371597,
     "title": "Interesting Codebases",
     "url": "https://medium.com/@markpapadakis/interesting-codebases-159fec5a8cc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "markpapadakis",
+    "descendants": 45,
+    "time": 1506753707
   },
   {
     "rank": 2,
     "id": 15379418,
     "title": "Ask HN: Where do I get started on ASICs, FPGA, RTL, Verilog et. al?",
     "url": "https://news.ycombinator.com/item?id=15379418",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "bharatkhatri14",
+    "descendants": 109,
+    "time": 1506886952
   },
   {
     "rank": 3,
     "id": 15379660,
     "title": "Whom the Gods Would Destroy, They First Give Real-Time Analytics (2013)",
     "url": "http://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "irfansharif",
+    "descendants": 70,
+    "time": 1506890168
   },
   {
     "rank": 4,
     "id": 15380479,
     "title": "Hacker News Clone Using GraphQL and React",
     "url": "https://github.com/clintonwoo/hackernews-react-graphql",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "alana99",
+    "descendants": 181,
+    "time": 1506899904
   },
   {
     "rank": 5,
     "id": 15380681,
     "title": "Facebook Blocks Chinese Billionaire Who Tells Tales of Corruption",
     "url": "https://www.nytimes.com/2017/10/01/business/facebook-china-guo-wengui.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "Jerry2",
+    "descendants": 80,
+    "time": 1506903026
   },
   {
     "rank": 6,
     "id": 15381886,
     "title": "Text Editor: Data Structures",
     "url": "http://www.averylaird.com/programming/editor/2017/09/30/the-piece-table/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 664,
+    "by": "LaSombra",
+    "descendants": 121,
+    "time": 1506922441
   },
   {
     "rank": 7,
     "id": 15382009,
     "title": "IMF Head Foresees the End of Banking and the Triumph of Cryptocurrency",
     "url": "https://fee.org/articles/imf-head-predicts-the-end-of-banking-and-the-triumph-of-cryptocurrency/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "imartin2k",
+    "descendants": 157,
+    "time": 1506925186
   },
   {
     "rank": 8,
     "id": 15384262,
     "title": "Ask HN: Who is hiring? (October 2017)",
     "url": "https://news.ycombinator.com/item?id=15384262",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 678,
+    "by": "whoishiring",
+    "descendants": 1123,
+    "time": 1506956414
   },
   {
     "rank": 9,
     "id": 15384351,
     "title": "Diminishing returns of static typing",
     "url": "https://blog.merovius.de/2017/09/12/diminishing-returns-of-static-typing.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "robgering",
+    "descendants": 617,
+    "time": 1506956965
   },
   {
     "rank": 10,
     "id": 15384396,
     "title": "Streams: a new general purpose data structure in Redis",
     "url": "http://antirez.com/news/114",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 588,
+    "by": "darwhy",
+    "descendants": 147,
+    "time": 1506957245
   }
 ]

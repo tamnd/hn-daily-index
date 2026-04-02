@@ -4,99 +4,99 @@
     "id": 15440170,
     "title": "Elliptic Curve Cryptography for Beginners",
     "url": "http://blog.wesleyac.com/posts/elliptic-curves",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "deafcalculus",
+    "descendants": 30,
+    "time": 1507623109
   },
   {
     "rank": 2,
     "id": 15445006,
     "title": "Pencil and Paper Games",
     "url": "http://www.papg.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "aethertap",
+    "descendants": 48,
+    "time": 1507666607
   },
   {
     "rank": 3,
     "id": 15446049,
     "title": "Google Data Studio",
     "url": "https://www.google.com/analytics/data-studio",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "mkalygin",
+    "descendants": 228,
+    "time": 1507677049
   },
   {
     "rank": 4,
     "id": 15446217,
     "title": "The End of the DreamHost vs. DOJ privacy case",
     "url": "http://www.dreamhost.com/blog/the-end-of-the-road/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "yoda_sl",
+    "descendants": 135,
+    "time": 1507679610
   },
   {
     "rank": 5,
     "id": 15446295,
     "title": "Israel Hacked Kaspersky, Then Tipped NSA Its Tools Had Been Breached",
     "url": "https://www.washingtonpost.com/world/national-security/israel-hacked-kaspersky-then-tipped-the-nsa-that-its-tools-had-been-breached/2017/10/10/d48ce774-aa95-11e7-850e-2bdd1236be5d_story.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 537,
+    "by": "tptacek",
+    "descendants": 284,
+    "time": 1507680703
   },
   {
     "rank": 6,
     "id": 15446364,
     "title": "Ask HN: My house might burn down in the next 24 hours. Suggestions?",
     "url": "https://news.ycombinator.com/item?id=15446364",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "kbenson",
+    "descendants": 333,
+    "time": 1507681590
   },
   {
     "rank": 7,
     "id": 15447706,
     "title": "Spotify\u2019s Discover Weekly: How machine learning finds new music",
     "url": "https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 551,
+    "by": "kiyanwang",
+    "descendants": 269,
+    "time": 1507703848
   },
   {
     "rank": 8,
     "id": 15448996,
     "title": "Firefox Send: Private, Encrypted File Sharing",
     "url": "https://send.firefox.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 856,
+    "by": "networked",
+    "descendants": 275,
+    "time": 1507723132
   },
   {
     "rank": 9,
     "id": 15451060,
     "title": "The Depression Thing",
     "url": "http://zachholman.com/posts/the-depression-thing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 841,
+    "by": "darwhy",
+    "descendants": 328,
+    "time": 1507740006
   },
   {
     "rank": 10,
     "id": 15452138,
     "title": "RIP the Broccoli Tree",
     "url": "https://kottke.org/17/09/rip-the-broccoli-tree",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "panic",
+    "descendants": 131,
+    "time": 1507747251
   }
 ]

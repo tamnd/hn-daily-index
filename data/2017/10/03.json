@@ -4,99 +4,99 @@
     "id": 15384046,
     "title": "ZeroNet: Decentralized websites using Bitcoin crypto and the BitTorrent network",
     "url": "https://zeronet.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "csantini",
+    "descendants": 74,
+    "time": 1506954478
   },
   {
     "rank": 2,
     "id": 15386321,
     "title": "Y Combinator's Founding Principles",
     "url": "http://www.ycombinator.com/principles/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "craigkerstiens",
+    "descendants": 105,
+    "time": 1506967983
   },
   {
     "rank": 3,
     "id": 15387672,
     "title": "What's been wrought using the Piece Table? (2014)",
     "url": "https://web.archive.org/web/20160308183811/http://1017.songtrellisopml.com/whatsbeenwroughtusingpiecetables",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "punnerud",
+    "descendants": 83,
+    "time": 1506976332
   },
   {
     "rank": 4,
     "id": 15389113,
     "title": "Google and Facebook Have Failed Us",
     "url": "https://www.theatlantic.com/amp/article/541794/?single_page=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "DLay",
+    "descendants": 179,
+    "time": 1506990693
   },
   {
     "rank": 5,
     "id": 15389727,
     "title": "Guacamole \u2013 A clientless remote desktop gateway",
     "url": "https://guacamole.incubator.apache.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1096,
+    "by": "mutin-sa",
+    "descendants": 216,
+    "time": 1506998668
   },
   {
     "rank": 6,
     "id": 15391282,
     "title": "The Nobel Prize in Physics 2017",
     "url": "https://www.nobelprize.org/nobel_prizes/physics/laureates/2017/press.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "runesoerensen",
+    "descendants": 112,
+    "time": 1507024402
   },
   {
     "rank": 7,
     "id": 15391933,
     "title": "Facebook Lies",
     "url": "https://iain.learmonth.me/blog/2017/2017w402/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "JoshTriplett",
+    "descendants": 194,
+    "time": 1507034020
   },
   {
     "rank": 8,
     "id": 15393270,
     "title": "How the Elderly Lose Their Rights",
     "url": "https://www.newyorker.com/magazine/2017/10/09/how-the-elderly-lose-their-rights?mbid=social_facebook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 726,
+    "by": "CommieBobDole",
+    "descendants": 251,
+    "time": 1507045978
   },
   {
     "rank": 9,
     "id": 15393396,
     "title": "Cloud Firestore: A New Document Database for Apps",
     "url": "https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "crb",
+    "descendants": 165,
+    "time": 1507046769
   },
   {
     "rank": 10,
     "id": 15394066,
     "title": "Paul S. Otellini has died",
     "url": "https://newsroom.intel.com/news-releases/paul-s-otellini-1950-2017/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "DarkContinent",
+    "descendants": 118,
+    "time": 1507051008
   }
 ]

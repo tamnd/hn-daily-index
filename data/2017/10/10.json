@@ -4,99 +4,99 @@
     "id": 15436716,
     "title": "Librem 5 Phone Funded",
     "url": "https://puri.sm/shop/librem-5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "mike-cardwell",
+    "descendants": 171,
+    "time": 1507577344
   },
   {
     "rank": 2,
     "id": 15438894,
     "title": "Dangers of CSV Injection",
     "url": "http://georgemauer.net/2017/10/07/csv-injection.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 645,
+    "by": "rpenm",
+    "descendants": 188,
+    "time": 1507603077
   },
   {
     "rank": 3,
     "id": 15439321,
     "title": "First detection of the missing half of normal matter in our universe",
     "url": "https://www.newscientist.com/article/2149742-half-the-universes-missing-matter-has-just-been-finally-found/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "curtis",
+    "descendants": 10,
+    "time": 1507609182
   },
   {
     "rank": 4,
     "id": 15439346,
     "title": "What happened when I opened a restaurant in Portland",
     "url": "http://www.wweek.com/restaurants/2016/09/30/heres-what-happened-when-i-opened-a-restaurant-in-portland/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "phyller",
+    "descendants": 323,
+    "time": 1507609565
   },
   {
     "rank": 5,
     "id": 15439967,
     "title": "150 days of living and coding in a van",
     "url": "https://ruby-on-wheels.github.io/blog/the-first-150-days-of-van-life/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 720,
+    "by": "hwartig",
+    "descendants": 436,
+    "time": 1507620123
   },
   {
     "rank": 6,
     "id": 15440482,
     "title": "OnePlus OxygenOS built-in analytics",
     "url": "https://www.chrisdcmoore.co.uk/post/oneplus-analytics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "os7borne",
+    "descendants": 180,
+    "time": 1507627606
   },
   {
     "rank": 7,
     "id": 15441537,
     "title": "iOS Privacy: Easily get a user's Apple ID password, just by asking",
     "url": "https://krausefx.com/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 867,
+    "by": "krausefx",
+    "descendants": 320,
+    "time": 1507641953
   },
   {
     "rank": 8,
     "id": 15442636,
     "title": "CircleCI trusts 8 analytics companies with your source code and API tokens",
     "url": "https://kev.inburke.com/kevin/circleci-is-hopelessly-insecure/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 508,
+    "by": "tomwas54",
+    "descendants": 190,
+    "time": 1507649561
   },
   {
     "rank": 9,
     "id": 15442676,
     "title": "The web at maximum FPS: How WebRender gets rid of jank",
     "url": "https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 853,
+    "by": "bpierre",
+    "descendants": 207,
+    "time": 1507649855
   },
   {
     "rank": 10,
     "id": 15444607,
     "title": "Disabling the Intel Management Engine",
     "url": "https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 707,
+    "by": "marksamman",
+    "descendants": 219,
+    "time": 1507663486
   }
 ]
