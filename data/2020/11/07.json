@@ -4,99 +4,99 @@
     "id": 25008748,
     "title": "Standing on our own two feet",
     "url": "https://letsencrypt.org/2020/11/06/own-two-feet.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 584,
+    "by": "gpff",
+    "descendants": 197,
+    "time": 1604679690
   },
   {
     "rank": 2,
     "id": 25008941,
     "title": "A Linux sysadmin's introduction to cgroups",
     "url": "https://www.redhat.com/sysadmin/cgroups-part-one",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "FedericoRazzoli",
+    "descendants": 69,
+    "time": 1604680896
   },
   {
     "rank": 3,
     "id": 25010280,
     "title": "Iron, How Did They Make It, Addendum: Crucible Steel and Cast Iron",
     "url": "https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "jrott",
+    "descendants": 25,
+    "time": 1604690193
   },
   {
     "rank": 4,
     "id": 25010462,
     "title": "Gimp 2.99.2 \u2013 GTK3 user interface toolkit",
     "url": "https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "constantinum",
+    "descendants": 179,
+    "time": 1604691639
   },
   {
     "rank": 5,
     "id": 25013003,
     "title": "Severe brain injury and paralysis temporarily reversed with a sleeping pill",
     "url": "https://www.sciencedirect.com/science/article/pii/S0010945220303130",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "ptbello",
+    "descendants": 179,
+    "time": 1604719083
   },
   {
     "rank": 6,
     "id": 25014025,
     "title": "Raspberry Pi 400 \u2013 First Impressions",
     "url": "https://martinpeck.com/blog/2020/11/06/Raspberry-Pi-400/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "martinpeck",
+    "descendants": 144,
+    "time": 1604740755
   },
   {
     "rank": 7,
     "id": 25014582,
     "title": "Why not use GraphQL?",
     "url": "https://wundergraph.com/blog/why_not_use_graphql",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "jensneuse",
+    "descendants": 456,
+    "time": 1604750226
   },
   {
     "rank": 8,
     "id": 25015186,
     "title": "Voters rejecting the war on drugs is a win for public health",
     "url": "https://arstechnica.com/science/2020/11/voters-rejecting-the-war-on-drugs-is-a-win-for-public-health/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "nnx",
+    "descendants": 283,
+    "time": 1604758648
   },
   {
     "rank": 9,
     "id": 25015967,
     "title": "Biden wins White House, vowing new direction for divided U.S.",
     "url": "https://apnews.com/article/joe-biden-wins-white-house-ap-fd58df73aa677acb74fce2a69adb71f9",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 3089,
+    "by": "granzymes",
+    "descendants": 4576,
+    "time": 1604766347
   },
   {
     "rank": 10,
     "id": 25017167,
     "title": "SpotifyKeyDumper \u2013 Dump song decryption keys from the Windows Spotify client",
     "url": "https://gitlab.com/fuck-capitalism/spotifykeydumper",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "ffpip",
+    "descendants": 194,
+    "time": 1604773813
   }
 ]

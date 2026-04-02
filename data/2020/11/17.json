@@ -4,99 +4,99 @@
     "id": 25115746,
     "title": "What G\u00f6del Discovered",
     "url": "https://stopa.io/post/269",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1000,
+    "by": "stopachka",
+    "descendants": 259,
+    "time": 1605554131
   },
   {
     "rank": 2,
     "id": 25115754,
     "title": "Twitter names famed hacker 'Mudge' as head of security",
     "url": "https://www.reuters.com/article/idUSKBN27W2MB",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "longdefeat",
+    "descendants": 172,
+    "time": 1605554143
   },
   {
     "rank": 3,
     "id": 25117362,
     "title": "Airbnb S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 595,
+    "by": "xoxoy",
+    "descendants": 457,
+    "time": 1605563169
   },
   {
     "rank": 4,
     "id": 25121253,
     "title": "\u201cYou Have Zero Privacy\u201d Says Internal Royal Canadian Mounted Police Presentation",
     "url": "https://thetyee.ca/News/2020/11/16/You-Have-Zero-Privacy-RCMP-Web-Spying/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "emptybits",
+    "descendants": 185,
+    "time": 1605600650
   },
   {
     "rank": 5,
     "id": 25121416,
     "title": "Git is too hard",
     "url": "https://changelog.com/posts/git-is-simply-too-hard",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "ingve",
+    "descendants": 792,
+    "time": 1605602600
   },
   {
     "rank": 6,
     "id": 25121604,
     "title": "Firefox 83 introduces HTTPS-Only Mode",
     "url": "https://blog.mozilla.org/security/2020/11/17/firefox-83-introduces-https-only-mode/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 950,
+    "by": "tomwas54",
+    "descendants": 508,
+    "time": 1605604638
   },
   {
     "rank": 7,
     "id": 25121705,
     "title": "Graphics for JVM",
     "url": "https://tonsky.me/blog/skija/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 564,
+    "by": "agluszak",
+    "descendants": 365,
+    "time": 1605605397
   },
   {
     "rank": 8,
     "id": 25123869,
     "title": "2020 Mac Mini \u2013 Putting Apple Silicon M1 To The Test",
     "url": "https://www.anandtech.com/show/16252/mac-mini-apple-m1-tested",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 724,
+    "by": "kissiel",
+    "descendants": 748,
+    "time": 1605622154
   },
   {
     "rank": 9,
     "id": 25124211,
     "title": "ReMarkable tablet open source tools and hacks",
     "url": "https://github.com/reHackable/awesome-reMarkable",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 627,
+    "by": "ChrisLTD",
+    "descendants": 253,
+    "time": 1605624092
   },
   {
     "rank": 10,
     "id": 25125325,
     "title": "Servo\u2019s new home",
     "url": "https://blog.servo.org/2020/11/17/servo-home/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1025,
+    "by": "g0xA52A2A",
+    "descendants": 309,
+    "time": 1605629082
   }
 ]

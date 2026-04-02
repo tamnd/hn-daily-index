@@ -4,99 +4,99 @@
     "id": 25302527,
     "title": "Billionaires Build",
     "url": "http://paulgraham.com/ace.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "okgabr",
+    "descendants": 916,
+    "time": 1607092171
   },
   {
     "rank": 2,
     "id": 25304257,
     "title": "CLI Guidelines \u2013 A guide to help you write better command-line programs",
     "url": "https://clig.dev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 564,
+    "by": "bfirsh",
+    "descendants": 212,
+    "time": 1607099616
   },
   {
     "rank": 3,
     "id": 25306088,
     "title": "No, DeepMind has not solved protein folding",
     "url": "http://occamstypewriter.org/scurry/2020/12/02/no-deepmind-has-not-solved-protein-folding/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "jocker12",
+    "descendants": 154,
+    "time": 1607107701
   },
   {
     "rank": 4,
     "id": 25307674,
     "title": "Sight restored by turning back the epigenetic clock",
     "url": "https://www.nature.com/articles/d41586-020-03119-1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "evo_9",
+    "descendants": 114,
+    "time": 1607114799
   },
   {
     "rank": 5,
     "id": 25310206,
     "title": "Teddit: a free and open-source Reddit front end focused on privacy",
     "url": "https://teddit.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 716,
+    "by": "oftenwrong",
+    "descendants": 293,
+    "time": 1607127612
   },
   {
     "rank": 6,
     "id": 25310779,
     "title": "This is Real, That's Not",
     "url": "https://streetlifesolutions.blogspot.com/2020/12/this-is-real-thats-not.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "DoreenMichele",
+    "descendants": 339,
+    "time": 1607132351
   },
   {
     "rank": 7,
     "id": 25313010,
     "title": "Radicle: A peer-to-peer alternative to GitHub",
     "url": "http://radicle.xyz#/beta",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 864,
+    "by": "dweberz",
+    "descendants": 255,
+    "time": 1607159603
   },
   {
     "rank": 8,
     "id": 25313480,
     "title": "72% of smart TVs and 46% of game consoles hardcode DNS settings",
     "url": "https://labzilla.io/blog/force-dns-pihole",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 546,
+    "by": "boramalper",
+    "descendants": 650,
+    "time": 1607165195
   },
   {
     "rank": 9,
     "id": 25313776,
     "title": "Your Smart TV is probably ignoring your PiHole",
     "url": "https://labzilla.io/blog/force-dns-pihole",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "giuliomagnifico",
+    "descendants": 2,
+    "time": 1607168292
   },
   {
     "rank": 10,
     "id": 25315524,
     "title": "The Game UI Database, a comprehensive reference of game interface design",
     "url": "https://www.gameuidatabase.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 609,
+    "by": "homarp",
+    "descendants": 101,
+    "time": 1607184442
   }
 ]

@@ -4,99 +4,99 @@
     "id": 25326450,
     "title": "A tool for recovering passwords from pixelized screenshots",
     "url": "https://github.com/beurtschipper/Depix",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "maydemir",
+    "descendants": 124,
+    "time": 1607287484
   },
   {
     "rank": 2,
     "id": 25326552,
     "title": "Linus Torvalds' good taste argument for linked lists, explained",
     "url": "https://github.com/mkirchner/linked-list-good-taste",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 717,
+    "by": "mkirchner",
+    "descendants": 326,
+    "time": 1607288258
   },
   {
     "rank": 3,
     "id": 25328622,
     "title": "Show HN: Boltstream \u2013 Self-hosted full end-to-end live video streaming platform",
     "url": "https://github.com/benwilber/boltstream",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 510,
+    "by": "benwilber0",
+    "descendants": 93,
+    "time": 1607305983
   },
   {
     "rank": 4,
     "id": 25330182,
     "title": "How to Make Your Code Reviewer Fall in Love with You",
     "url": "https://mtlynch.io/code-review-love/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "kiyanwang",
+    "descendants": 169,
+    "time": 1607327666
   },
   {
     "rank": 5,
     "id": 25330835,
     "title": "Analog TV Station on ESP8266",
     "url": "https://github.com/cnlohr/channel3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "dvfjsdhgfv",
+    "descendants": 73,
+    "time": 1607336254
   },
   {
     "rank": 6,
     "id": 25331407,
     "title": "Zero-click, wormable, cross-platform remote code execution in Microsoft Teams",
     "url": "https://github.com/oskarsve/ms-teams-rce",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1307,
+    "by": "Tomte",
+    "descendants": 317,
+    "time": 1607343199
   },
   {
     "rank": 7,
     "id": 25333219,
     "title": "With Proton and Steam Play, many Windows games now work on Linux",
     "url": "https://www.protondb.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 938,
+    "by": "OJFord",
+    "descendants": 544,
+    "time": 1607355815
   },
   {
     "rank": 8,
     "id": 25333350,
     "title": "A Modern JavaScript Tutorial",
     "url": "https://javascript.info/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 893,
+    "by": "ivanche",
+    "descendants": 292,
+    "time": 1607356563
   },
   {
     "rank": 9,
     "id": 25333694,
     "title": "Tech elites leaving San Francisco threaten Silicon Valley's supremacy",
     "url": "https://www.businessinsider.com/tech-elites-leaving-san-francisco-threaten-silicon-valley-supremacy-2020-11",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "jacksonpollock",
+    "descendants": 948,
+    "time": 1607358715
   },
   {
     "rank": 10,
     "id": 25334246,
     "title": "Gitter now speaks Matrix",
     "url": "https://matrix.org/blog/2020/12/07/gitter-now-speaks-matrix",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "Arathorn",
+    "descendants": 114,
+    "time": 1607361492
   }
 ]

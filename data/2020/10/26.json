@@ -4,99 +4,99 @@
     "id": 24877034,
     "title": "A one-line change decreased our build times by 99%",
     "url": "https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "luord",
+    "descendants": 243,
+    "time": 1603515009
   },
   {
     "rank": 2,
     "id": 24888234,
     "title": "The RIAA\u2019s attack on YouTube-dl is not a DMCA 512 infringement",
     "url": "https://joindiaspora.com/posts/808cf690f8e801381778002590d8e506",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 530,
+    "by": "URfejk",
+    "descendants": 217,
+    "time": 1603648002
   },
   {
     "rank": 3,
     "id": 24889488,
     "title": "I am seriously considering going back to desktop computers",
     "url": "http://misc-stuff.terraaeon.com/articles/locked-down-computers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 618,
+    "by": "sT370ma2",
+    "descendants": 673,
+    "time": 1603656698
   },
   {
     "rank": 4,
     "id": 24890988,
     "title": "New nuclear engine concept could help realize 3-month trips to Mars",
     "url": "https://newatlas.com/space/nuclear-thermal-propulsion-ntp-nasa-unsc-tech-deep-space-travel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "bookofjoe",
+    "descendants": 252,
+    "time": 1603667672
   },
   {
     "rank": 5,
     "id": 24892297,
     "title": "An Intuition for Lisp Syntax",
     "url": "https://stopa.io/post/265",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 551,
+    "by": "simonpure",
+    "descendants": 197,
+    "time": 1603679214
   },
   {
     "rank": 6,
     "id": 24894248,
     "title": "\u2018Culture wars\u2019 are fought by tiny minority \u2013 UK study",
     "url": "https://www.theguardian.com/society/2020/oct/24/culture-wars-are-fought-by-tiny-minority-uk-study",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "archiepeach",
+    "descendants": 637,
+    "time": 1603704193
   },
   {
     "rank": 7,
     "id": 24894622,
     "title": "Vaccine hopes rise as Oxford jab prompts immune response among old and young",
     "url": "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-vaccin/oxford-covid-19-vaccine-prompts-immune-response-among-adults-old-and-young-astrazeneca-says-idUSKBN27B0IV",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 879,
+    "by": "pseudolus",
+    "descendants": 674,
+    "time": 1603708499
   },
   {
     "rank": 8,
     "id": 24897641,
     "title": "Fastly hires entire Wasmtime team from Mozilla",
     "url": "https://bytecodealliance.org/articles/1-year-update#the-lucet-and-wasmtime-teams-join-forces",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 813,
+    "by": "swyx",
+    "descendants": 135,
+    "time": 1603728393
   },
   {
     "rank": 9,
     "id": 24899186,
     "title": "Twitter still hasn't unlocked the New York Post's account",
     "url": "https://www.melovedata.com/twitter-still-hasnt-unlocked-the-new-york-posts-account/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 632,
+    "by": "dsaavy",
+    "descendants": 705,
+    "time": 1603735955
   },
   {
     "rank": 10,
     "id": 24899863,
     "title": "How journalists use youtube-dl",
     "url": "https://freedom.press/news/riaa-github-youtube-dl-journalist-tool/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1651,
+    "by": "thisisparker",
+    "descendants": 328,
+    "time": 1603738990
   }
 ]
