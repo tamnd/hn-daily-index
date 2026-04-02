@@ -4,99 +4,99 @@
     "id": 38080951,
     "title": "Grist is a modern, relational spreadsheet",
     "url": "https://github.com/gristlabs/grist-core",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "protontypes",
+    "descendants": 173,
+    "time": 1698733245
   },
   {
     "rank": 2,
     "id": 38101328,
     "title": "Asahi Linux goes from Apple Silicon port project to macOS bug hunters",
     "url": "https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "Bender",
+    "descendants": 148,
+    "time": 1698858458
   },
   {
     "rank": 3,
     "id": 38102083,
     "title": "My rude-ass car",
     "url": "https://www.neverbeclever.org/blog/my-rude-ass-car/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "isoprophlex",
+    "descendants": 505,
+    "time": 1698861125
   },
   {
     "rank": 4,
     "id": 38108873,
     "title": "Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario",
     "url": "https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 799,
+    "by": "g42gregory",
+    "descendants": 843,
+    "time": 1698897921
   },
   {
     "rank": 5,
     "id": 38109494,
     "title": "Last Chance to fix eIDAS: Secret EU law threatens Internet security",
     "url": "https://last-chance-for-eidas.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 548,
+    "by": "mnot",
+    "descendants": 299,
+    "time": 1698904662
   },
   {
     "rank": 6,
     "id": 38110072,
     "title": "Talk-Llama",
     "url": "https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "plurby",
+    "descendants": 140,
+    "time": 1698910353
   },
   {
     "rank": 7,
     "id": 38110286,
     "title": "Tracking SQLite Database Changes in Git",
     "url": "https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "vldr",
+    "descendants": 110,
+    "time": 1698912102
   },
   {
     "rank": 8,
     "id": 38111483,
     "title": "EU data regulator bans personalised advertising on Facebook and Instagram",
     "url": "https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 697,
+    "by": "pbrw",
+    "descendants": 735,
+    "time": 1698921266
   },
   {
     "rank": 9,
     "id": 38112951,
     "title": "Confusing Git Terminology",
     "url": "https://jvns.ca/blog/2023/11/01/confusing-git-terminology/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "soheilpro",
+    "descendants": 307,
+    "time": 1698930333
   },
   {
     "rank": 10,
     "id": 38118627,
     "title": "An experimental Android WebView Media Integrity API early next year",
     "url": "https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "brycewray",
+    "descendants": 229,
+    "time": 1698952784
   }
 ]

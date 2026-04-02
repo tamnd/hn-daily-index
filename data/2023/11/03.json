@@ -4,99 +4,99 @@
     "id": 38113525,
     "title": "Raspberry Pi receives strategic investment from Arm",
     "url": "https://newsroom.arm.com/news/raspberry-pi-investment",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "geerlingguy",
+    "descendants": 196,
+    "time": 1698933164
   },
   {
     "rank": 2,
     "id": 38117556,
     "title": "Light can make water evaporate without heat",
     "url": "https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "Tomte",
+    "descendants": 188,
+    "time": 1698947997
   },
   {
     "rank": 3,
     "id": 38119861,
     "title": "One sleepless night can rapidly reverse depression for several days in mice",
     "url": "https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "clouddrover",
+    "descendants": 297,
+    "time": 1698957798
   },
   {
     "rank": 4,
     "id": 38121250,
     "title": "In 1886, the US commissioned watercolor paintings of every known fruit (2019)",
     "url": "https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 633,
+    "by": "perihelions",
+    "descendants": 150,
+    "time": 1698964208
   },
   {
     "rank": 5,
     "id": 38121994,
     "title": "Google Abandons Web Environment Integrity API",
     "url": "https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "jjgreen",
+    "descendants": 154,
+    "time": 1698968492
   },
   {
     "rank": 6,
     "id": 38122061,
     "title": "Sam Bankman-Fried Convicted",
     "url": "https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1993,
+    "by": "donohoe",
+    "descendants": 1735,
+    "time": 1698968957
   },
   {
     "rank": 7,
     "id": 38125348,
     "title": "Bringing garbage collected programming languages efficiently to WebAssembly",
     "url": "https://v8.dev/blog/wasm-gc-porting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "kiyanwang",
+    "descendants": 257,
+    "time": 1698994231
   },
   {
     "rank": 8,
     "id": 38128699,
     "title": "No dogs were harmed in the making of this app",
     "url": "https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "ShMcK",
+    "descendants": 198,
+    "time": 1699019273
   },
   {
     "rank": 9,
     "id": 38130418,
     "title": "YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]",
     "url": "https://www.youtube.com/watch?v=dWzz3NeDz3E",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 696,
+    "by": "donpott",
+    "descendants": 322,
+    "time": 1699025931
   },
   {
     "rank": 10,
     "id": 38132016,
     "title": "As I retire, my goal now is to release 40+ years of source code",
     "url": "https://dunfield.themindfactory.com/dnldsrc.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1227,
+    "by": "elvis70",
+    "descendants": 323,
+    "time": 1699032376
   }
 ]

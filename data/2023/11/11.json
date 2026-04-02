@@ -4,99 +4,99 @@
     "id": 38217355,
     "title": "Moving our Encrypted DNS servers to run in RAM",
     "url": "https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "kisamoto",
+    "descendants": 144,
+    "time": 1699613508
   },
   {
     "rank": 2,
     "id": 38218667,
     "title": "Nordic is getting involved in RISC-V",
     "url": "https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "hasheddan",
+    "descendants": 119,
+    "time": 1699623741
   },
   {
     "rank": 3,
     "id": 38221552,
     "title": "Don't build AI products the way everyone else is doing it",
     "url": "https://www.builder.io/blog/build-ai",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "tortilla",
+    "descendants": 248,
+    "time": 1699636808
   },
   {
     "rank": 4,
     "id": 38224245,
     "title": "How to boss without being bossy",
     "url": "https://www.jeffwofford.com/?p=2089",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "putzdown",
+    "descendants": 197,
+    "time": 1699648929
   },
   {
     "rank": 5,
     "id": 38224950,
     "title": "Apple discriminated against US citizens in hiring, DOJ says",
     "url": "https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "nataz",
+    "descendants": 261,
+    "time": 1699652738
   },
   {
     "rank": 6,
     "id": 38226743,
     "title": "Debugging tricks in the browser",
     "url": "https://alan.norbauer.com/articles/browser-debugging-tricks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 646,
+    "by": "bkudria",
+    "descendants": 122,
+    "time": 1699666517
   },
   {
     "rank": 7,
     "id": 38228649,
     "title": "Gnome Receives \u20ac1M from German Government",
     "url": "https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "denysonique",
+    "descendants": 279,
+    "time": 1699693348
   },
   {
     "rank": 8,
     "id": 38229231,
     "title": "How I got here",
     "url": "https://pthorpe92.github.io/intro/my-story/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 925,
+    "by": "low_tech_love",
+    "descendants": 346,
+    "time": 1699700691
   },
   {
     "rank": 9,
     "id": 38230325,
     "title": "Show HN: I spent 6 months building a C debugger as a 17-year-old",
     "url": "https://github.com/d4ckard/spray",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "thasso",
+    "descendants": 129,
+    "time": 1699711156
   },
   {
     "rank": 10,
     "id": 38232767,
     "title": "It's still easy for anyone to become you at Experian",
     "url": "https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 874,
+    "by": "todsacerdoti",
+    "descendants": 331,
+    "time": 1699725958
   }
 ]

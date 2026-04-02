@@ -4,99 +4,99 @@
     "id": 38150606,
     "title": "Why banks are suddenly closing down customer accounts",
     "url": "https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "ljosa",
+    "descendants": 872,
+    "time": 1699187759
   },
   {
     "rank": 2,
     "id": 38155544,
     "title": "Show HN: WireHub \u2013 easily create and share WireGuard networks",
     "url": "https://www.wirehub.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "rudasn",
+    "descendants": 72,
+    "time": 1699217673
   },
   {
     "rank": 3,
     "id": 38156030,
     "title": "A brain injury removed my ability to perceive time",
     "url": "https://www.salon.com/2023/11/05/a-brain-injury-removed-my-ability-to-perceive-time-heres-what-its-like-in-a-world-without-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "mgerdts",
+    "descendants": 169,
+    "time": 1699221201
   },
   {
     "rank": 4,
     "id": 38160703,
     "title": "FFmpeg is getting multithreaded transcoding pipelines",
     "url": "https://twitter.com/FFmpeg/status/1721275669336707152",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "raybb",
+    "descendants": 87,
+    "time": 1699265554
   },
   {
     "rank": 5,
     "id": 38161016,
     "title": "The first stable release of a memory safe sudo implementation",
     "url": "https://www.memorysafety.org/blog/sudo-first-stable-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "goranmoomin",
+    "descendants": 249,
+    "time": 1699268304
   },
   {
     "rank": 6,
     "id": 38161452,
     "title": "Show HN: Ladder, open source alternative to 12ft.io and 1ft.io",
     "url": "https://github.com/kubero-dev/ladder",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "2cpu1container",
+    "descendants": 150,
+    "time": 1699272284
   },
   {
     "rank": 7,
     "id": 38162435,
     "title": "Mastering DOM manipulation with vanilla JavaScript",
     "url": "https://phuoc.ng/collection/html-dom/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "srirangr",
+    "descendants": 130,
+    "time": 1699278090
   },
   {
     "rank": 8,
     "id": 38166420,
     "title": "New models and developer products",
     "url": "https://openai.com/blog/new-models-and-developer-products-announced-at-devday",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1146,
+    "by": "kevin_hu",
+    "descendants": 545,
+    "time": 1699294678
   },
   {
     "rank": 9,
     "id": 38166431,
     "title": "GPTs: Custom versions of ChatGPT",
     "url": "https://openai.com/blog/introducing-gpts",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 555,
+    "by": "davidbarker",
+    "descendants": 329,
+    "time": 1699294724
   },
   {
     "rank": 10,
     "id": 38169504,
     "title": "Bored Ape conference attendees wake up with eye pain, vision loss",
     "url": "https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 537,
+    "by": "anigbrowl",
+    "descendants": 397,
+    "time": 1699307326
   }
 ]

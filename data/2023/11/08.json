@@ -4,99 +4,99 @@
     "id": 38181346,
     "title": "Go, Containers, and the Linux Scheduler",
     "url": "https://www.riverphillips.dev/blog/go-cfs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "rbanffy",
+    "descendants": 138,
+    "time": 1699384204
   },
   {
     "rank": 2,
     "id": 38183454,
     "title": "Gleam: a type safe language on the Erlang VM",
     "url": "https://gleam.run/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "ljlolel",
+    "descendants": 236,
+    "time": 1699394009
   },
   {
     "rank": 3,
     "id": 38186190,
     "title": "Antidepressants or Tolkien",
     "url": "https://antidepressantsortolkien.vercel.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "mdturnerphys",
+    "descendants": 99,
+    "time": 1699412000
   },
   {
     "rank": 4,
     "id": 38188162,
     "title": "Home Assistant blocked from integrating with Garage Door opener API",
     "url": "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1181,
+    "by": "eamonnsullivan",
+    "descendants": 640,
+    "time": 1699434258
   },
   {
     "rank": 5,
     "id": 38188614,
     "title": "Chamberlain blocks smart garage door opener from working with smart homes",
     "url": "https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "vintagedave",
+    "descendants": 189,
+    "time": 1699439145
   },
   {
     "rank": 6,
     "id": 38188689,
     "title": "Hard-to-swallow truths they won't tell you about software engineer job",
     "url": "https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 796,
+    "by": "thunderbong",
+    "descendants": 758,
+    "time": 1699440095
   },
   {
     "rank": 7,
     "id": 38189790,
     "title": "EU's concealment of secret 'expert list' on CSAM regulation is maladministration",
     "url": "https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "charleyablaze",
+    "descendants": 199,
+    "time": 1699448453
   },
   {
     "rank": 8,
     "id": 38189840,
     "title": "Spain lives in flats: why we have built our cities vertically",
     "url": "https://especiales.eldiario.es/spain-lives-in-flats/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "altilunium",
+    "descendants": 436,
+    "time": 1699448883
   },
   {
     "rank": 9,
     "id": 38189878,
     "title": "How Wikipedia became the last good place on the internet",
     "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 524,
+    "by": "bawolff",
+    "descendants": 611,
+    "time": 1699449221
   },
   {
     "rank": 10,
     "id": 38190401,
     "title": "Major outages across ChatGPT and API",
     "url": "https://status.openai.com/incidents/00fpy0yxrx1q",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 537,
+    "by": "d99kris",
+    "descendants": 566,
+    "time": 1699452159
   }
 ]

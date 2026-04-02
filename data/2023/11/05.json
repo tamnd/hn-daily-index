@@ -4,99 +4,99 @@
     "id": 38114943,
     "title": "Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel",
     "url": "https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "scrlk",
+    "descendants": 211,
+    "time": 1698939114
   },
   {
     "rank": 2,
     "id": 38122679,
     "title": "A new F# compiler feature: graph-based type-checking",
     "url": "https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "soheilpro",
+    "descendants": 112,
+    "time": 1698971962
   },
   {
     "rank": 3,
     "id": 38139687,
     "title": "A 6 channel GPS receiver from 1993",
     "url": "https://mastodon.sdf.org/@keelan/111349948124943603",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "edent",
+    "descendants": 75,
+    "time": 1699093638
   },
   {
     "rank": 4,
     "id": 38145625,
     "title": "Bubble sort in pure CSS",
     "url": "https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "andai",
+    "descendants": 66,
+    "time": 1699135260
   },
   {
     "rank": 5,
     "id": 38148396,
     "title": "Grok is an AI modeled after the Hitchhiker\u2019s Guide to the Galaxy",
     "url": "https://twitter.com/xai/status/1721027348970238035",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "zone411",
+    "descendants": 226,
+    "time": 1699160553
   },
   {
     "rank": 6,
     "id": 38149093,
     "title": "Exclusive access for LLM companies to largest Chinese nonfiction book collection",
     "url": "https://annas-blog.org/duxiu-exclusive.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "sillysaurusx",
+    "descendants": 141,
+    "time": 1699169400
   },
   {
     "rank": 7,
     "id": 38150096,
     "title": "Email obfuscation rendered almost ineffective against ChatGPT",
     "url": "https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "skeetmtp",
+    "descendants": 200,
+    "time": 1699182732
   },
   {
     "rank": 8,
     "id": 38150833,
     "title": "Building a high performance JSON parser",
     "url": "https://dave.cheney.net/paste/gophercon-sg-2023.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "davecheney",
+    "descendants": 189,
+    "time": 1699189843
   },
   {
     "rank": 9,
     "id": 38152534,
     "title": "Dengue rates plunged after release of lab-altered mosquitoes",
     "url": "https://www.dw.com/en/dengue-rates-plummeted-in-colombia-after-lab-infected-mosquito-release/a-67268943",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "cxrlosfx",
+    "descendants": 72,
+    "time": 1699201475
   },
   {
     "rank": 10,
     "id": 38153573,
     "title": "Why Cities: Skylines 2 performs poorly",
     "url": "https://blog.paavo.me/cities-skylines-2-performance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 901,
+    "by": "paavohtl",
+    "descendants": 563,
+    "time": 1699206847
   }
 ]
