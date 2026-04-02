@@ -6,28 +6,28 @@
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
     "score": 117,
     "by": "bonzini",
-    "descendants": 70,
+    "descendants": 71,
     "time": 1775119724
   },
   {
     "rank": 2,
+    "id": 47611481,
+    "title": "Bringing Clojure programming to Enterprise (2021)",
+    "url": "https://blogit.michelin.io/clojure-programming/",
+    "score": 86,
+    "by": "smartmic",
+    "descendants": 18,
+    "time": 1775117951
+  },
+  {
+    "rank": 3,
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
     "score": 116,
     "by": "novaRom",
-    "descendants": 55,
+    "descendants": 56,
     "time": 1775127000
-  },
-  {
-    "rank": 3,
-    "id": 47611481,
-    "title": "Bringing Clojure programming to Enterprise (2021)",
-    "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 85,
-    "by": "smartmic",
-    "descendants": 18,
-    "time": 1775117951
   },
   {
     "rank": 4,
@@ -36,7 +36,7 @@
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
     "score": 968,
     "by": "apitman",
-    "descendants": 818,
+    "descendants": 819,
     "time": 1775063491
   },
   {
@@ -74,9 +74,9 @@
     "id": 47596739,
     "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 69,
+    "score": 70,
     "by": "jackson-mcd",
-    "descendants": 21,
+    "descendants": 22,
     "time": 1775016881
   },
   {
