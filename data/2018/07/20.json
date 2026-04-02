@@ -4,99 +4,99 @@
     "id": 17564692,
     "title": "Inside the Windows Console",
     "url": "https://blogs.msdn.microsoft.com/commandline/2018/07/10/windows-command-line-inside-the-windows-console/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "pmarin",
+    "descendants": 252,
+    "time": 1531989354
   },
   {
     "rank": 2,
     "id": 17567693,
     "title": "SRE Fundamentals: SLIs, SLAs and SLOs",
     "url": "https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "nealmueller",
+    "descendants": 83,
+    "time": 1532016741
   },
   {
     "rank": 3,
     "id": 17568149,
     "title": "1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond",
     "url": "https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php?print=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "tosh",
+    "descendants": 95,
+    "time": 1532019108
   },
   {
     "rank": 4,
     "id": 17569069,
     "title": "Google Cloud Downtime Postmortem",
     "url": "https://status.cloud.google.com/incident/cloud-networking/18012?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "tosh",
+    "descendants": 82,
+    "time": 1532024853
   },
   {
     "rank": 5,
     "id": 17569294,
     "title": "Show HN: Learn how to work remotely from people doing it every day",
     "url": "http://remotehabits.com/?ref=hackernews",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "Jasber",
+    "descendants": 76,
+    "time": 1532026589
   },
   {
     "rank": 6,
     "id": 17569391,
     "title": "Work less, get more: New Zealand firm's four-day week an 'unmitigated success'",
     "url": "https://www.theguardian.com/world/2018/jul/19/work-less-get-more-new-zealand-firms-four-day-week-an-unmitigated-success",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "GordonS",
+    "descendants": 178,
+    "time": 1532027407
   },
   {
     "rank": 7,
     "id": 17569848,
     "title": "JavaScript fundamentals before learning React",
     "url": "https://www.robinwieruch.de/javascript-fundamentals-react-requirements/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "rwieruch",
+    "descendants": 70,
+    "time": 1532031357
   },
   {
     "rank": 8,
     "id": 17575585,
     "title": "The Octonion Math That Could Underpin Physics",
     "url": "https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "jonbaer",
+    "descendants": 188,
+    "time": 1532099354
   },
   {
     "rank": 9,
     "id": 17576024,
     "title": "Show HN: Kanban for E-Mail",
     "url": "https://kanbanmail.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "humbfool2",
+    "descendants": 135,
+    "time": 1532101912
   },
   {
     "rank": 10,
     "id": 17577372,
     "title": "PeerTube, the \u201cDecentralized YouTube\u201d, succeeds in crowdfunding",
     "url": "https://quariety.com/2018/07/20/peertube-the-decentralized-youtube-succeeds-in-crowdfunding/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 576,
+    "by": "Roccan",
+    "descendants": 298,
+    "time": 1532110047
   }
 ]

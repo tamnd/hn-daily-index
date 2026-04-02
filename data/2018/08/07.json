@@ -4,99 +4,99 @@
     "id": 17696023,
     "title": "Where Vim Came From",
     "url": "https://twobithistory.org/2018/08/05/where-vim-came-from.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "janvdberg",
+    "descendants": 259,
+    "time": 1533545059
   },
   {
     "rank": 2,
     "id": 17696397,
     "title": "Pi-Hole: Why You Need a Network-Wide Ad-Blocker",
     "url": "https://blog.cryptoaustralia.org.au/2018/08/06/why-you-need-network-wide-ad-blocker-pi-hole/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "gszathmari",
+    "descendants": 288,
+    "time": 1533551045
   },
   {
     "rank": 3,
     "id": 17700360,
     "title": "Horrors of Using Azure Kubernetes Service in Production",
     "url": "https://movingfulcrum.com/horrors-of-using-azure-kubernetes-service-in-production/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "pdeva1",
+    "descendants": 136,
+    "time": 1533581143
   },
   {
     "rank": 4,
     "id": 17700753,
     "title": "The Structure of Stand-Up Comedy",
     "url": "https://pudding.cool/2018/02/stand-up/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "nniroclax",
+    "descendants": 93,
+    "time": 1533582965
   },
   {
     "rank": 5,
     "id": 17702545,
     "title": "FCC admits it was never actually hacked",
     "url": "https://techcrunch.com/2018/08/06/fcc-admits-it-was-never-actually-hacked/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "placatedmayhem",
+    "descendants": 148,
+    "time": 1533596782
   },
   {
     "rank": 6,
     "id": 17704479,
     "title": "Seaweed could be scrubbing more carbon from the atmosphere than expected (2017)",
     "url": "https://oceana.org/blog/seaweed-could-be-scrubbing-way-more-carbon-atmosphere-we-expected",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "propman",
+    "descendants": 159,
+    "time": 1533626883
   },
   {
     "rank": 7,
     "id": 17706551,
     "title": "EPA is allowing asbestos back into manufacturing",
     "url": "https://archpaper.com/2018/08/epa-asbestos-manufacturing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "okket",
+    "descendants": 338,
+    "time": 1533649953
   },
   {
     "rank": 8,
     "id": 17706830,
     "title": "How I gained commit access to Homebrew in 30 minutes",
     "url": "https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "bgentry",
+    "descendants": 85,
+    "time": 1533651592
   },
   {
     "rank": 9,
     "id": 17706997,
     "title": "Facebook Wanted Gizmodo to Kill Investigative Tool",
     "url": "https://gizmodo.com/facebook-wanted-us-to-kill-this-investigative-tool-1826620111",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 580,
+    "by": "uptown",
+    "descendants": 167,
+    "time": 1533652599
   },
   {
     "rank": 10,
     "id": 17707292,
     "title": "Facebook Field Guide to Machine Learning \u2013 video series",
     "url": "https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "tosh",
+    "descendants": 63,
+    "time": 1533654594
   }
 ]

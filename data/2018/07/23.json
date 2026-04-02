@@ -4,99 +4,99 @@
     "id": 17587684,
     "title": "BPG Image format",
     "url": "https://bellard.org/bpg/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "jhabdas",
+    "descendants": 101,
+    "time": 1532278932
   },
   {
     "rank": 2,
     "id": 17589075,
     "title": "Secret Life of an Autistic Stripper",
     "url": "http://narrative.ly/secret-life-of-an-autistic-stripper/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "mercutio2",
+    "descendants": 140,
+    "time": 1532295724
   },
   {
     "rank": 3,
     "id": 17589482,
     "title": "Ask HN: Got a CS degree, but I\u2019m unable to be programmer. What can I do?",
     "url": "https://news.ycombinator.com/item?id=17589482",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "Tmp1234",
+    "descendants": 315,
+    "time": 1532302673
   },
   {
     "rank": 4,
     "id": 17590704,
     "title": "What was it like to be a software engineer at NeXT?",
     "url": "https://www.quora.com/What-was-it-like-to-be-a-software-engineer-at-NeXT-Did-workers-interact-with-Steve-Jobs/answer/Paul-King-2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "Nuance",
+    "descendants": 246,
+    "time": 1532322438
   },
   {
     "rank": 5,
     "id": 17591405,
     "title": "Devhints: A collection of developer cheatsheets",
     "url": "https://devhints.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "jhabdas",
+    "descendants": 29,
+    "time": 1532335589
   },
   {
     "rank": 6,
     "id": 17591677,
     "title": "Show HN: Checklist of over 100 directories to submit your startup",
     "url": "https://www.eggradients.com/startup-directory",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "serhadiletir",
+    "descendants": 67,
+    "time": 1532340309
   },
   {
     "rank": 7,
     "id": 17592167,
     "title": "Our experience launching a paid, proprietary product on Linux",
     "url": "https://blog.hiri.com/a-year-on-our-experience-launching-a-paid-proprietary-product-on-linux-db4f9116be08",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 450,
+    "by": "kevkav",
+    "descendants": 382,
+    "time": 1532348255
   },
   {
     "rank": 8,
     "id": 17592422,
     "title": "Google: Security Keys Neutralized Employee Phishing",
     "url": "https://krebsonsecurity.com/2018/07/google-security-keys-neutered-employee-phishing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 775,
+    "by": "sohkamyung",
+    "descendants": 409,
+    "time": 1532351005
   },
   {
     "rank": 9,
     "id": 17592560,
     "title": "Xv6, a simple Unix-like teaching operating system",
     "url": "https://pdos.csail.mit.edu/6.828/2017/xv6.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "rspivak",
+    "descendants": 79,
+    "time": 1532352582
   },
   {
     "rank": 10,
     "id": 17595611,
     "title": "Machine Learning Guides",
     "url": "https://developers.google.com/machine-learning/guides/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 708,
+    "by": "_ntka",
+    "descendants": 54,
+    "time": 1532377137
   }
 ]

@@ -4,99 +4,99 @@
     "id": 17423373,
     "title": "AntiPolygraph.org appears to have been \u201cde-listed\u201d from Google on key searches",
     "url": "https://antipolygraph.org/blog/2018/06/28/google-de-lists-antipolygraph-org-on-key-search-terms/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "giles_corey",
+    "descendants": 139,
+    "time": 1530263599
   },
   {
     "rank": 2,
     "id": 17424057,
     "title": "Reverse Engineering for Beginners",
     "url": "https://www.begin.re/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "jacquesm",
+    "descendants": 27,
+    "time": 1530274915
   },
   {
     "rank": 3,
     "id": 17426219,
     "title": "Massive Comcast Outage Hits the US",
     "url": "http://www.newsweek.com/comcast-xfinity-down-outage-not-working-internet-my-area-1002278",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "crazysane",
+    "descendants": 218,
+    "time": 1530294843
   },
   {
     "rank": 4,
     "id": 17426390,
     "title": "Against privacy defeatism: why browsers can still stop fingerprinting",
     "url": "https://freedom-to-tinker.com/2018/06/29/against-privacy-defeatism-why-browsers-can-still-stop-fingerprinting/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "randomwalker",
+    "descendants": 103,
+    "time": 1530296039
   },
   {
     "rank": 5,
     "id": 17427560,
     "title": "Darpa invests $100M in a silicon compiler",
     "url": "https://www.eetimes.com/document.asp?doc_id=1333422",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "adapteva",
+    "descendants": 257,
+    "time": 1530303781
   },
   {
     "rank": 6,
     "id": 17427853,
     "title": "Data Structures Reference",
     "url": "https://www.interviewcake.com/data-structures-reference",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "typpo",
+    "descendants": 86,
+    "time": 1530306187
   },
   {
     "rank": 7,
     "id": 17429381,
     "title": "Instead of \u2018finding your passion,\u2019 try developing it, Stanford scholars say",
     "url": "https://news.stanford.edu/2018/06/18/find-passion-may-bad-advice/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "mengledowl",
+    "descendants": 75,
+    "time": 1530330556
   },
   {
     "rank": 8,
     "id": 17429435,
     "title": "Google Downranks 65,000 Pirate Sites in Search Results",
     "url": "https://torrentfreak.com/google-downranks-65000-pirate-sites-in-search-results-180629/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "Jerry2",
+    "descendants": 253,
+    "time": 1530331944
   },
   {
     "rank": 9,
     "id": 17430952,
     "title": "Rust pointers for C programmers",
     "url": "http://blahg.josefsipek.net/?p=580",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "eatonphil",
+    "descendants": 72,
+    "time": 1530368573
   },
   {
     "rank": 10,
     "id": 17431609,
     "title": "Why you should not use Google Cloud",
     "url": "https://medium.com/@serverpunch/why-you-should-not-use-google-cloud-75ea2aec00de",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 895,
+    "by": "samdung",
+    "descendants": 357,
+    "time": 1530378353
   }
 ]

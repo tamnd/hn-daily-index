@@ -4,99 +4,99 @@
     "id": 17612540,
     "title": "Removing jQuery from GitHub.com frontend",
     "url": "https://twitter.com/mislav/status/1022058279000842240",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "andyonthewings",
+    "descendants": 250,
+    "time": 1532550741
   },
   {
     "rank": 2,
     "id": 17612667,
     "title": "Elixir v1.7 released",
     "url": "https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "josevalim",
+    "descendants": 168,
+    "time": 1532551591
   },
   {
     "rank": 3,
     "id": 17613442,
     "title": "Facebook stock drops more than 20% after revenue forecast misses",
     "url": "https://www.marketwatch.com/story/facebook-stock-crushed-after-revenue-user-growth-miss-2018-07-25",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 618,
+    "by": "noncoml",
+    "descendants": 388,
+    "time": 1532557124
   },
   {
     "rank": 4,
     "id": 17614578,
     "title": "GPS is shockingly vulnerable to interference",
     "url": "https://www.bloomberg.com/news/features/2018-07-25/the-world-economy-runs-on-gps-it-needs-a-backup-plan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "jedwhite",
+    "descendants": 225,
+    "time": 1532570708
   },
   {
     "rank": 5,
     "id": 17616459,
     "title": "Is WebAssembly the Return of Java Applets and Flash?",
     "url": "https://words.steveklabnik.com/is-webassembly-the-return-of-java-applets-flash",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "Vinnl",
+    "descendants": 399,
+    "time": 1532602706
   },
   {
     "rank": 6,
     "id": 17616937,
     "title": "Ask HN: Any good examples of learning through games/puzzles, for adults?",
     "url": "https://news.ycombinator.com/item?id=17616937",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "justaguyhere",
+    "descendants": 137,
+    "time": 1532608784
   },
   {
     "rank": 7,
     "id": 17617825,
     "title": "The Best Textbooks on Every Subject",
     "url": "https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 823,
+    "by": "Ibethewalrus",
+    "descendants": 186,
+    "time": 1532615891
   },
   {
     "rank": 8,
     "id": 17618059,
     "title": "Show HN: Layoutit \u2013 An interactive CSS Grid generator",
     "url": "http://layoutit.com/grid",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "rofko",
+    "descendants": 71,
+    "time": 1532617780
   },
   {
     "rank": 9,
     "id": 17619352,
     "title": "Stripe Issuing \u2013 An API for creating physical and virtual cards",
     "url": "https://stripe.com/issuing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 742,
+    "by": "zuck9",
+    "descendants": 215,
+    "time": 1532627496
   },
   {
     "rank": 10,
     "id": 17620543,
     "title": "Slack Is Buying HipChat from Atlassian",
     "url": "https://www.bloomberg.com/news/articles/2018-07-26/slack-and-atlassian-team-up-to-take-on-microsoft-in-chat-software",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1006,
+    "by": "uptown",
+    "descendants": 710,
+    "time": 1532635972
   }
 ]

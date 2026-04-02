@@ -4,99 +4,99 @@
     "id": 17408451,
     "title": "The Surface Book 2 is everything the MacBook Pro should be",
     "url": "https://char.gd/blog/2018/the-surface-book-2-is-everything-the-macbook-pro-should-be-and-then-some",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "ChrisLTD",
+    "descendants": 450,
+    "time": 1530110249
   },
   {
     "rank": 2,
     "id": 17410196,
     "title": "How my role as CTO has changed as we've grown from 1 to 100 engineers",
     "url": "https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "edawerd",
+    "descendants": 137,
+    "time": 1530121471
   },
   {
     "rank": 3,
     "id": 17411689,
     "title": "Exposing the secret Office 365 detailed activity logs and forensics tool",
     "url": "https://lmgsecurity.com/exposing-the-secret-office-365-forensics-tool/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "fanf2",
+    "descendants": 37,
+    "time": 1530132184
   },
   {
     "rank": 4,
     "id": 17412060,
     "title": "Don't Provide Your References to a Recruiter Until After Your Last Interview",
     "url": "https://kvonhorn.github.io//2018/06/27/dont_provide_contacts_until_last_interview.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "kvonhorn",
+    "descendants": 213,
+    "time": 1530135659
   },
   {
     "rank": 5,
     "id": 17413572,
     "title": "Apple Engineers Its Own Downfall with the Macbook Pro Keyboard",
     "url": "https://ifixit.org/blog/10229/macbook-pro-keyboard/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1183,
+    "by": "andrewke",
+    "descendants": 897,
+    "time": 1530152299
   },
   {
     "rank": 6,
     "id": 17414383,
     "title": "How not to structure database-backed web apps: performance bugs in the wild",
     "url": "https://blog.acolyer.org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "godelmachine",
+    "descendants": 308,
+    "time": 1530164756
   },
   {
     "rank": 7,
     "id": 17415321,
     "title": "Keras vs PyTorch",
     "url": "https://deepsense.ai/keras-or-pytorch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "Raf_",
+    "descendants": 117,
+    "time": 1530177950
   },
   {
     "rank": 8,
     "id": 17416676,
     "title": "Django Newbie Mistakes",
     "url": "https://code.djangoproject.com/wiki/NewbieMistakes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "tosh",
+    "descendants": 221,
+    "time": 1530192684
   },
   {
     "rank": 9,
     "id": 17417282,
     "title": "Amazon buys PillPack, an online pharmacy, for just under $1B",
     "url": "https://techcrunch.com/2018/06/28/amazon-buys-pillpack-an-online-pharmacy-that-was-rumored-to-be-talking-to-walmart/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 576,
+    "by": "dogichow",
+    "descendants": 318,
+    "time": 1530197413
   },
   {
     "rank": 10,
     "id": 17418645,
     "title": "We Should Be Building Cities for People, Not Cars (2016)",
     "url": "http://devonzuegel.com/post/we-should-be-building-cities-for-people-not-cars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "mrzool",
+    "descendants": 335,
+    "time": 1530205515
   }
 ]

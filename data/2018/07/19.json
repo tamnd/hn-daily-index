@@ -4,99 +4,99 @@
     "id": 17553371,
     "title": "\u2018Star Citizen\u2019 Court Case Reveals the Messy Reality of Crowdfunding a $200M Game",
     "url": "https://motherboard.vice.com/en_us/article/ne5n7b/star-citizen-court-documents-reveal-the-messy-reality-of-crowdfunding-a-dollar200-million-game",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "danso",
+    "descendants": 326,
+    "time": 1531861518
   },
   {
     "rank": 2,
     "id": 17563851,
     "title": "REST was never about CRUD",
     "url": "https://tyk.io/blog/rest-never-crud/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "elkinthewoods",
+    "descendants": 207,
+    "time": 1531972685
   },
   {
     "rank": 3,
     "id": 17564185,
     "title": "Ask HN: What are the things keep in mind while giving/preparing for a tech talk?",
     "url": "https://news.ycombinator.com/item?id=17564185",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "scarecrowx",
+    "descendants": 166,
+    "time": 1531979705
   },
   {
     "rank": 4,
     "id": 17565508,
     "title": "Ask HN: Were you happy moving your API from REST to GraphQL?",
     "url": "https://news.ycombinator.com/item?id=17565508",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "glenscott1",
+    "descendants": 175,
+    "time": 1532002394
   },
   {
     "rank": 5,
     "id": 17565565,
     "title": "Simone Giertz \u2013 Back from brain surgery [video]",
     "url": "https://www.youtube.com/watch?v=-INz4XVeyJ4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 548,
+    "by": "lentil_soup",
+    "descendants": 144,
+    "time": 1532002953
   },
   {
     "rank": 6,
     "id": 17565652,
     "title": "The Java type system is broken",
     "url": "http://wouter.coekaerts.be/2018/java-type-system-broken",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "tdurden",
+    "descendants": 155,
+    "time": 1532004189
   },
   {
     "rank": 7,
     "id": 17566164,
     "title": "Best Buy Is Thriving in the Age of Amazon",
     "url": "https://www.bloomberg.com/news/features/2018-07-19/best-buy-should-be-dead-but-it-s-thriving-in-the-age-of-amazon",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "cohaagen",
+    "descendants": 446,
+    "time": 1532007850
   },
   {
     "rank": 8,
     "id": 17567355,
     "title": "San Francisco's zoning makes it illegal to build apartments in 73.5% of the city",
     "url": "https://sfzoning.deapthoughts.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "oftenwrong",
+    "descendants": 438,
+    "time": 1532014996
   },
   {
     "rank": 9,
     "id": 17567418,
     "title": "Fukushima\u2019s nuclear signature found in California wine",
     "url": "https://www.technologyreview.com/s/611654/fukushimas-nuclear-signature-found-in-california-wine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "tmandry",
+    "descendants": 153,
+    "time": 1532015381
   },
   {
     "rank": 10,
     "id": 17570029,
     "title": "Farewell, Google Maps",
     "url": "https://www.inderapotheke.de/blog/farewell-google-maps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1747,
+    "by": "ScottWRobinson",
+    "descendants": 527,
+    "time": 1532032598
   }
 ]

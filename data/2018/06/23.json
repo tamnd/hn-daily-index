@@ -4,99 +4,99 @@
     "id": 17373227,
     "title": "Inside a Heist of American Chip Designs, as China Bids for Tech Power",
     "url": "https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "f3f3_",
+    "descendants": 205,
+    "time": 1529668118
   },
   {
     "rank": 2,
     "id": 17373545,
     "title": "Gravity \u2013 An embeddable programming language",
     "url": "http://gravity-lang.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "marcobambini",
+    "descendants": 172,
+    "time": 1529671834
   },
   {
     "rank": 3,
     "id": 17378673,
     "title": "A sad update about a scissors maker that went viral",
     "url": "https://kottke.org/18/06/a-sad-update-about-a-scissors-maker-that-went-viral",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "zdw",
+    "descendants": 127,
+    "time": 1529713714
   },
   {
     "rank": 4,
     "id": 17378749,
     "title": "Ask HN: Have you shipped anything serious with a \u201cserverless\u201d architecture?",
     "url": "https://news.ycombinator.com/item?id=17378749",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "freedomben",
+    "descendants": 201,
+    "time": 1529715097
   },
   {
     "rank": 5,
     "id": 17379300,
     "title": "GitLab 11 released",
     "url": "https://about.gitlab.com/2018/06/22/gitlab-11-0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "markdog12",
+    "descendants": 180,
+    "time": 1529723411
   },
   {
     "rank": 6,
     "id": 17379724,
     "title": "Poverty reduces brainpower needed for navigating other areas of life (2013)",
     "url": "https://www.princeton.edu/news/2013/08/29/poor-concentration-poverty-reduces-brainpower-needed-navigating-other-areas-life",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "known",
+    "descendants": 166,
+    "time": 1529732404
   },
   {
     "rank": 7,
     "id": 17381184,
     "title": "Filezilla installer is suspicious again",
     "url": "https://forum.filezilla-project.org/viewtopic.php?f=2&t=48441",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "stevekemp",
+    "descendants": 241,
+    "time": 1529760755
   },
   {
     "rank": 8,
     "id": 17381235,
     "title": "Sleep Scientist Warns Against Walking Through Life 'In an Underslept State'",
     "url": "https://www.npr.org/sections/health-shots/2017/10/16/558058812/sleep-scientist-warns-against-walking-through-life-in-an-underslept-state",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "laurex",
+    "descendants": 180,
+    "time": 1529761396
   },
   {
     "rank": 9,
     "id": 17382400,
     "title": "A world of free movement would be $78T richer",
     "url": "https://www.economist.com/the-world-if/2017/07/13/a-world-of-free-movement-would-be-78-trillion-richer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "deegles",
+    "descendants": 371,
+    "time": 1529776358
   },
   {
     "rank": 10,
     "id": 17382686,
     "title": "Facebook JavaScript SDK is often illegal under GDPR",
     "url": "https://markssoftware.com/2018/06/23/facebook-javascript-sdk-is-often-illegal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "markarichards",
+    "descendants": 92,
+    "time": 1529779143
   }
 ]

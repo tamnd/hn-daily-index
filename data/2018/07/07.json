@@ -4,99 +4,99 @@
     "id": 17470426,
     "title": "How the Blog Broke the Web",
     "url": "https://stackingthebricks.com/how-blogs-broke-the-web/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "tempodox",
+    "descendants": 128,
+    "time": 1530874929
   },
   {
     "rank": 2,
     "id": 17470496,
     "title": "Roadmap to becoming a React developer in 2018",
     "url": "https://github.com/adam-golab/react-developer-roadmap",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "onra87",
+    "descendants": 147,
+    "time": 1530875865
   },
   {
     "rank": 3,
     "id": 17472168,
     "title": "Uganda Bans VPNs to Prevent Users from Dodging Its New Social Media Tax",
     "url": "https://www.techdirt.com/articles/20180702/12431840157/uganda-bans-vpns-to-prevent-users-dodging-absurd-new-social-media-tax.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "benryon",
+    "descendants": 166,
+    "time": 1530890746
   },
   {
     "rank": 4,
     "id": 17472761,
     "title": "The Horrors of Upgrading Etcd Beneath Kubernetes",
     "url": "https://gravitational.com/blog/kubernetes-and-offline-etcd-upgrades?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "twakefield",
+    "descendants": 76,
+    "time": 1530894758
   },
   {
     "rank": 5,
     "id": 17472907,
     "title": "The State of Rust on Haiku",
     "url": "https://www.haiku-os.org/blog/nielx/2018-07-05_the_state_of_rust_on_haiku/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "squiguy7",
+    "descendants": 84,
+    "time": 1530895635
   },
   {
     "rank": 6,
     "id": 17474359,
     "title": "Yes, Amazon Is Tracking People",
     "url": "https://www.cato.org/publications/commentary/yes-amazon-tracking-people",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "hudon",
+    "descendants": 197,
+    "time": 1530905090
   },
   {
     "rank": 7,
     "id": 17474646,
     "title": "Ask HN: What are your favorite statistics and probability textbooks?",
     "url": "https://news.ycombinator.com/item?id=17474646",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 452,
+    "by": "newguynewguy",
+    "descendants": 85,
+    "time": 1530907283
   },
   {
     "rank": 8,
     "id": 17476873,
     "title": "MacOS Mojave removes subpixel anti-aliasing, making non-retina displays blurry",
     "url": "https://reddit.com/r/apple/comments/8wpk18/macos_mojave_nukes_subpixel_antialiasing_making/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "laurentdc",
+    "descendants": 473,
+    "time": 1530935412
   },
   {
     "rank": 9,
     "id": 17478133,
     "title": "Guidelines for Brutalist Web Design",
     "url": "https://brutalist-web.design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 730,
+    "by": "andyjohnson0",
+    "descendants": 312,
+    "time": 1530964911
   },
   {
     "rank": 10,
     "id": 17478489,
     "title": "Learn C and Build Your Own Lisp (2014)",
     "url": "http://www.buildyourownlisp.com/contents",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 603,
+    "by": "AlexeyBrin",
+    "descendants": 86,
+    "time": 1530971483
   }
 ]

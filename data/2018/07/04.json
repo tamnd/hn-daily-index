@@ -4,99 +4,99 @@
     "id": 17448187,
     "title": "The impact of the \u2018open\u2019 workspace on human collaboration",
     "url": "http://rstb.royalsocietypublishing.org/content/373/1753/20170239",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "tosh",
+    "descendants": 281,
+    "time": 1530602525
   },
   {
     "rank": 2,
     "id": 17448439,
     "title": "PEP 572: Python assignment expressions has been accepted",
     "url": "https://groups.google.com/d/msg/dev-python/egS7A22oJgE/Ar6TfdrQCAAJ",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "est",
+    "descendants": 351,
+    "time": 1530606610
   },
   {
     "rank": 3,
     "id": 17449903,
     "title": "Google to developers: We take down your extension because we can",
     "url": "https://palant.de/2018/07/03/google-to-developers-we-take-down-your-extension-because-we-can",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "KwanEsq",
+    "descendants": 176,
+    "time": 1530624076
   },
   {
     "rank": 4,
     "id": 17451779,
     "title": "AdamW and Super-convergence is now the fastest way to train neural nets",
     "url": "http://www.fast.ai/2018/07/02/adam-weight-decay/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "tim_sw",
+    "descendants": 37,
+    "time": 1530637060
   },
   {
     "rank": 5,
     "id": 17452476,
     "title": "Polish charity gets huge phone bill thanks to stork",
     "url": "https://www.bbc.com/news/blogs-news-from-elsewhere-44645217",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "tlrobinson",
+    "descendants": 129,
+    "time": 1530641733
   },
   {
     "rank": 6,
     "id": 17453554,
     "title": "Booze, Sex, and the Dark Art of Dealmaking in China (2015)",
     "url": "http://www.chinafile.com/reporting-opinion/postcard/bro-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "johnny313",
+    "descendants": 243,
+    "time": 1530651406
   },
   {
     "rank": 7,
     "id": 17453982,
     "title": "Latest Text of EU Copyright Directive Shows It's Even Worse Than Expected",
     "url": "https://www.techdirt.com/articles/20180703/01343440162/latest-text-eu-copyright-directive-shows-even-worse-than-expected-must-be-stopped.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "sqdbps",
+    "descendants": 130,
+    "time": 1530655917
   },
   {
     "rank": 8,
     "id": 17455351,
     "title": "React Native: A retrospective from the mobile-engineering team at Udacity",
     "url": "https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "phaedryx",
+    "descendants": 194,
+    "time": 1530680260
   },
   {
     "rank": 9,
     "id": 17456289,
     "title": "Police search homes of Zwiebelfreunde board members and OpenLab in Augsburg",
     "url": "https://www.ccc.de/en/updates/2018/hausdurchsuchungen-bei-vereinsvorstanden-der-zwiebelfreunde-und-im-openlab-augsburg",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "meskio",
+    "descendants": 128,
+    "time": 1530699151
   },
   {
     "rank": 10,
     "id": 17457633,
     "title": "Plans for OCaml 4.08",
     "url": "https://blog.janestreet.com/plans-for-ocaml-408/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "girvo",
+    "descendants": 89,
+    "time": 1530716710
   }
 ]

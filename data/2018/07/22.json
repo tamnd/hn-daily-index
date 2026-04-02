@@ -4,99 +4,99 @@
     "id": 17581536,
     "title": "Autopsy of a deep learning paper",
     "url": "https://blog.piekniewski.info/2018/07/14/autopsy-dl-paper/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "ognyankulev",
+    "descendants": 54,
+    "time": 1532168942
   },
   {
     "rank": 2,
     "id": 17582199,
     "title": "NetBSD 8.0 released",
     "url": "https://www.netbsd.org/releases/formal-8/NetBSD-8.0.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "algorithm314",
+    "descendants": 111,
+    "time": 1532184961
   },
   {
     "rank": 3,
     "id": 17582238,
     "title": "Psychedelics Promote Structural and Functional Neural Plasticity",
     "url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(18)30755-1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "lainon",
+    "descendants": 149,
+    "time": 1532185695
   },
   {
     "rank": 4,
     "id": 17584275,
     "title": "The Allure of Small Towns for Big City Freelancers",
     "url": "https://slate.com/human-interest/2018/07/big-city-freelancers-look-to-small-cities-to-lower-cost-of-living.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "wallflower",
+    "descendants": 241,
+    "time": 1532213353
   },
   {
     "rank": 5,
     "id": 17584563,
     "title": "Ex-Valve employee describes internal politics at 'self-organizing' companies",
     "url": "https://www.pcgamer.com/ex-valve-employee-describes-ruthless-industry-politics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "mepian",
+    "descendants": 159,
+    "time": 1532218226
   },
   {
     "rank": 6,
     "id": 17585137,
     "title": "p-Hacking and False Discovery in A/B Testing",
     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3204791",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "gwern",
+    "descendants": 104,
+    "time": 1532229963
   },
   {
     "rank": 7,
     "id": 17585357,
     "title": "Conflating pointers with arrays: C's biggest mistake? (2009)",
     "url": "https://www.digitalmars.com/articles/b44.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "etrevino",
+    "descendants": 254,
+    "time": 1532235634
   },
   {
     "rank": 8,
     "id": 17585589,
     "title": "Rockstar: A programming language where programs are also song lyrics",
     "url": "https://github.com/dylanbeattie/rockstar",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "ingve",
+    "descendants": 44,
+    "time": 1532242558
   },
   {
     "rank": 9,
     "id": 17586251,
     "title": "A new digital divide: Young people who can\u2019t use keyboards",
     "url": "http://www.asahi.com/ajw/articles/AJ201803290068.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "paralelogram",
+    "descendants": 356,
+    "time": 1532259087
   },
   {
     "rank": 10,
     "id": 17586547,
     "title": "Intel patches new ME vulnerabilities",
     "url": "http://blog.ptsecurity.com/2018/07/intel-patches-new-me-vulnerabilities.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 633,
+    "by": "nh2",
+    "descendants": 327,
+    "time": 1532264983
   }
 ]

@@ -4,99 +4,99 @@
     "id": 17513576,
     "title": "Ask HN: 2018 Summer Reading List?",
     "url": "https://news.ycombinator.com/item?id=17513576",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 746,
+    "by": "gozzoo",
+    "descendants": 391,
+    "time": 1531395252
   },
   {
     "rank": 2,
     "id": 17513770,
     "title": "Toml: Tom's Obvious, Minimal Language",
     "url": "https://github.com/toml-lang/toml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "wheresvic1",
+    "descendants": 195,
+    "time": 1531398400
   },
   {
     "rank": 3,
     "id": 17516706,
     "title": "Why Kubernetes Is the New Application Server",
     "url": "https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "rterzi",
+    "descendants": 199,
+    "time": 1531416013
   },
   {
     "rank": 4,
     "id": 17517155,
     "title": "Web Architecture 101",
     "url": "https://engineering.videoblocks.com/web-architecture-101-a3224e126947/?ref=abhimanyu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "aksxna",
+    "descendants": 47,
+    "time": 1531419106
   },
   {
     "rank": 5,
     "id": 17518616,
     "title": "Postmortem for Malicious Packages Published on July 12th, 2018",
     "url": "https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "ingve",
+    "descendants": 155,
+    "time": 1531429602
   },
   {
     "rank": 6,
     "id": 17519138,
     "title": "The Spiral Language",
     "url": "https://github.com/mrakgr/The-Spiral-Language",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "Nelkins",
+    "descendants": 110,
+    "time": 1531434443
   },
   {
     "rank": 7,
     "id": 17519591,
     "title": "Foundations Machine Learning",
     "url": "https://bloomberg.github.io/foml/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "gohwell",
+    "descendants": 60,
+    "time": 1531439984
   },
   {
     "rank": 8,
     "id": 17522362,
     "title": "Learn how to design large-scale systems",
     "url": "https://github.com/donnemartin/system-design-primer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1273,
+    "by": "donnemartin",
+    "descendants": 185,
+    "time": 1531485299
   },
   {
     "rank": 9,
     "id": 17523056,
     "title": "Digital Exile: How I Got Banned for Life from AirBnB",
     "url": "https://medium.com/@jacksoncunningham/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 632,
+    "by": "ancarda",
+    "descendants": 311,
+    "time": 1531490677
   },
   {
     "rank": 10,
     "id": 17523978,
     "title": "Microsoft Urges Congress to Regulate Use of Facial Recognition",
     "url": "https://www.nytimes.com/2018/07/13/technology/microsoft-facial-recognition.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "doener",
+    "descendants": 116,
+    "time": 1531497115
   }
 ]

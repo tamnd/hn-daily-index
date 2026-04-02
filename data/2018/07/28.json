@@ -4,99 +4,99 @@
     "id": 17624158,
     "title": "The death of a TLD",
     "url": "https://blog.benjojo.co.uk/post/the-death-of-a-tld",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "janvdberg",
+    "descendants": 165,
+    "time": 1532676842
   },
   {
     "rank": 2,
     "id": 17624778,
     "title": "Membrane Framework \u2013 An Elixir framework for multimedia streaming applications",
     "url": "https://www.membraneframework.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "thibaut_barrere",
+    "descendants": 40,
+    "time": 1532685250
   },
   {
     "rank": 3,
     "id": 17624917,
     "title": "ActivityPub could be the future",
     "url": "https://blog.digitalscofflaw.com/articles/activitypub-could-be-the-future/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "jaywink",
+    "descendants": 128,
+    "time": 1532687551
   },
   {
     "rank": 4,
     "id": 17626737,
     "title": "MoviePass couldn\u2019t afford to pay for movie tickets on Thursday",
     "url": "https://money.cnn.com/2018/07/27/media/moviepass-service-outage/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "gbear605",
+    "descendants": 270,
+    "time": 1532705796
   },
   {
     "rank": 5,
     "id": 17626915,
     "title": "How did Google get so big?",
     "url": "https://www.cbsnews.com/news/how-did-google-get-so-big/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "jonwachob91",
+    "descendants": 396,
+    "time": 1532707101
   },
   {
     "rank": 6,
     "id": 17629173,
     "title": "Adobe Flash\u2019s Gaming Legacy and My Efforts To Save It",
     "url": "https://blog.usejournal.com/adobe-flashs-gaming-legacy-thousands-upon-thousands-of-titles-and-my-efforts-to-save-it-58c14811558a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "bdz",
+    "descendants": 129,
+    "time": 1532724049
   },
   {
     "rank": 7,
     "id": 17629497,
     "title": "Why restaurants became so loud",
     "url": "https://www.vox.com/2018/4/18/17168504/restaurants-noise-levels-loud-decibels",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "curtis",
+    "descendants": 189,
+    "time": 1532726361
   },
   {
     "rank": 8,
     "id": 17631326,
     "title": "Keep a Changelog",
     "url": "https://keepachangelog.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "privong",
+    "descendants": 71,
+    "time": 1532747933
   },
   {
     "rank": 9,
     "id": 17632999,
     "title": "Sonic Pi: Compose electronic music with code",
     "url": "https://sonic-pi.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "liamdanielduffy",
+    "descendants": 61,
+    "time": 1532783593
   },
   {
     "rank": 10,
     "id": 17634547,
     "title": "iTerm2 has a new drawing engine that uses Metal 2",
     "url": "https://gitlab.com/gnachman/iterm2/wikis/Metal-Renderer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 480,
+    "by": "CharlesW",
+    "descendants": 254,
+    "time": 1532805931
   }
 ]

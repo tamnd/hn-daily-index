@@ -4,99 +4,99 @@
     "id": 17706119,
     "title": "Unix Syscalls",
     "url": "https://john-millikin.com/unix-syscalls",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "rspivak",
+    "descendants": 13,
+    "time": 1533646879
   },
   {
     "rank": 2,
     "id": 17706776,
     "title": "To Remember Everything You Learn, Surrender to This Algorithm (2008)",
     "url": "https://www.wired.com/2008/04/ff-wozniak/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 740,
+    "by": "colinprince",
+    "descendants": 208,
+    "time": 1533651313
   },
   {
     "rank": 3,
     "id": 17706849,
     "title": "Voting system to be used in West Virginia elections is vulnerable",
     "url": "https://twitter.com/GossiTheDog/status/1026603800365330432",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "grey-area",
+    "descendants": 154,
+    "time": 1533651681
   },
   {
     "rank": 4,
     "id": 17708469,
     "title": "Startup School 2018 \u2013 Curriculum",
     "url": "https://blog.ycombinator.com/startup-school-2018-curriculum/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "katm",
+    "descendants": 61,
+    "time": 1533661897
   },
   {
     "rank": 5,
     "id": 17709068,
     "title": "Musk mulls taking Tesla private, Saudi sovereign fund builds $2B stake",
     "url": "https://www.bloomberg.com/news/articles/2018-08-07/tesla-jumps-on-report-of-saudis-building-about-2-billion-stake",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "fludlight",
+    "descendants": 327,
+    "time": 1533665625
   },
   {
     "rank": 6,
     "id": 17709922,
     "title": "Power Worth Less Than Zero Spreads as Green Energy Floods the Grid",
     "url": "https://www.bloomberg.com/news/articles/2018-08-06/negative-prices-in-power-market-as-wind-solar-cut-electricity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 537,
+    "by": "bumholio",
+    "descendants": 407,
+    "time": 1533670985
   },
   {
     "rank": 7,
     "id": 17712276,
     "title": "Snap\u2019s Drop in Active Users Could Signal a Social Media Peak",
     "url": "https://www.nytimes.com/2018/08/07/technology/snapchat-users.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "gk1",
+    "descendants": 285,
+    "time": 1533689229
   },
   {
     "rank": 8,
     "id": 17716542,
     "title": "Show HN: Pts.js \u2013 A library for visualization and creative coding",
     "url": "https://ptsjs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 611,
+    "by": "wmnn",
+    "descendants": 71,
+    "time": 1533740872
   },
   {
     "rank": 9,
     "id": 17717241,
     "title": "Google AMP\u200a\u2013\u200aA 70% drop in our conversion rate",
     "url": "https://medium.com/the-set-list/google-amp-a-70-drop-in-our-conversion-rate-35fe3cb69c59",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 948,
+    "by": "nate",
+    "descendants": 386,
+    "time": 1533745698
   },
   {
     "rank": 10,
     "id": 17717386,
     "title": "GLB: GitHub's open source load balancer",
     "url": "https://githubengineering.com/glb-director-open-source-load-balancer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 478,
+    "by": "csteinbe",
+    "descendants": 62,
+    "time": 1533746975
   }
 ]

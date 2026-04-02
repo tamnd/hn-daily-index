@@ -4,99 +4,99 @@
     "id": 17527702,
     "title": "The moving sofa problem",
     "url": "https://en.wikipedia.org/wiki/Moving_sofa_problem",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "franzb",
+    "descendants": 51,
+    "time": 1531524537
   },
   {
     "rank": 2,
     "id": 17529780,
     "title": "How to scale a distributed system [pdf]",
     "url": "https://cdn.oreillystatic.com/en/assets/1/event/244/How%20to%20scale%20a%20distributed%20system%20Presentation.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "HenryR",
+    "descendants": 10,
+    "time": 1531565442
   },
   {
     "rank": 3,
     "id": 17531875,
     "title": "The everything-is-a-file principle \u2013 Linus Torvalds",
     "url": "https://yarchive.net/comp/linux/everything_is_file.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "majke",
+    "descendants": 217,
+    "time": 1531595828
   },
   {
     "rank": 4,
     "id": 17532094,
     "title": "Ask HN: Favorite note-taking software?",
     "url": "https://news.ycombinator.com/item?id=17532094",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "brownguy",
+    "descendants": 429,
+    "time": 1531598860
   },
   {
     "rank": 5,
     "id": 17532360,
     "title": "Cognitive Distortions of People Who Get Stuff Done (2012) [pdf]",
     "url": "https://pdfs.semanticscholar.org/presentation/1a59/7a9ca8b03d86ae9a2f86dd90e7bbff481fab.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "bleigh0",
+    "descendants": 151,
+    "time": 1531602119
   },
   {
     "rank": 6,
     "id": 17532682,
     "title": "The hotel bathroom puzzle",
     "url": "https://nevalalee.wordpress.com/2015/11/27/the-hotel-bathroom-puzzle/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 561,
+    "by": "tlrobinson",
+    "descendants": 260,
+    "time": 1531606541
   },
   {
     "rank": 7,
     "id": 17533341,
     "title": "Lisp and Haskell (2017)",
     "url": "https://markkarpov.com/post/lisp-and-haskell.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "sridca",
+    "descendants": 151,
+    "time": 1531617952
   },
   {
     "rank": 8,
     "id": 17534923,
     "title": "Taking Go modules for a spin",
     "url": "https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "101km",
+    "descendants": 71,
+    "time": 1531657076
   },
   {
     "rank": 9,
     "id": 17535861,
     "title": "How to take 7 years to ship a beta",
     "url": "https://medium.com/@eigenbom/how-to-take-7-years-to-ship-a-beta-4fcfc2428d88",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "fmavituna",
+    "descendants": 56,
+    "time": 1531671790
   },
   {
     "rank": 10,
     "id": 17536441,
     "title": "Async and Await in Rust: a full proposal",
     "url": "https://boats.gitlab.io/blog/post/2018-04-06-async-await-final/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "19h",
+    "descendants": 190,
+    "time": 1531680723
   }
 ]
