@@ -4,99 +4,99 @@
     "id": 8635543,
     "title": "The Unbalanced Design of Super Smash Bros",
     "url": "http://forrestthewoods.com/unbalanced-design-of-super-smash-brothers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "wgx",
+    "descendants": 79,
+    "time": 1416489728
   },
   {
     "rank": 2,
     "id": 8636758,
     "title": "APIs.io \u2013\u00a0The API search engine",
     "url": "http://apis.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "picsoung",
+    "descendants": 84,
+    "time": 1416503343
   },
   {
     "rank": 3,
     "id": 8637493,
     "title": "The Rust community's crate host",
     "url": "https://crates.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "steveklabnik",
+    "descendants": 139,
+    "time": 1416510933
   },
   {
     "rank": 4,
     "id": 8637751,
     "title": "Say No",
     "url": "http://boz.com/articles/say-no.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "wyclif",
+    "descendants": 91,
+    "time": 1416513145
   },
   {
     "rank": 5,
     "id": 8638352,
     "title": "CotEditor \u2013 Text Editor for OS X",
     "url": "http://coteditor.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "uchooseyourself",
+    "descendants": 194,
+    "time": 1416519849
   },
   {
     "rank": 6,
     "id": 8638977,
     "title": "Lecture 18: Legal and Accounting Basics for Startups",
     "url": "http://startupclass.samaltman.com/courses/lec18/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "sama",
+    "descendants": 92,
+    "time": 1416527764
   },
   {
     "rank": 7,
     "id": 8639317,
     "title": "Systemd redux: The end of Linux",
     "url": "http://blog.lusis.org/blog/2014/11/20/systemd-redux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "bcantrill",
+    "descendants": 446,
+    "time": 1416533611
   },
   {
     "rank": 8,
     "id": 8640415,
     "title": "Monkey Island \u2013 Insult Swordfighting Game",
     "url": "http://www.int33h.com/test/mi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "ddb",
+    "descendants": 70,
+    "time": 1416559699
   },
   {
     "rank": 9,
     "id": 8640756,
     "title": "Let's Encrypt: How It Works",
     "url": "https://letsencrypt.org/howitworks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "espadrine",
+    "descendants": 121,
+    "time": 1416568366
   },
   {
     "rank": 10,
     "id": 8641867,
     "title": "Open Sourcing a Failed Startup",
     "url": "http://nirvdrum.com/2014/11/20/open-sourcing-mogotest.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "nirvdrum",
+    "descendants": 159,
+    "time": 1416586471
   }
 ]

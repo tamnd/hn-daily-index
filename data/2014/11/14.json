@@ -4,99 +4,99 @@
     "id": 8601456,
     "title": "Facebook Go Libraries",
     "url": "https://github.com/facebookgo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "akavel",
+    "descendants": 92,
+    "time": 1415886670
   },
   {
     "rank": 2,
     "id": 8604489,
     "title": "Handmade Hero: C game from scratch",
     "url": "http://handmadehero.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "janvdberg",
+    "descendants": 55,
+    "time": 1415916833
   },
   {
     "rank": 3,
     "id": 8604533,
     "title": "Google Lifts the Turing Award into Nobel Territory",
     "url": "http://bits.blogs.nytimes.com/2014/11/13/google-lifts-the-turing-award-into-nobel-territory/?ref=technology",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "gordon_freeman",
+    "descendants": 65,
+    "time": 1415917310
   },
   {
     "rank": 4,
     "id": 8604626,
     "title": "Americans\u2019 Cellphones Targeted in Secret U.S. Spy Program",
     "url": "http://online.wsj.com/news/article_email/americans-cellphones-targeted-in-secret-u-s-spy-program-1415917533-lMyQjAxMTI0NTEwMzAxMTMwWj",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "dshibarshin",
+    "descendants": 67,
+    "time": 1415918308
   },
   {
     "rank": 5,
     "id": 8604814,
     "title": "Alexander Grothendieck has died",
     "url": "http://www.liberation.fr/sciences/2014/11/13/alexandre-grothendieck-ou-la-mort-d-un-genie-qui-voulait-se-faire-oublier_1142614",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "hokkos",
+    "descendants": 52,
+    "time": 1415920860
   },
   {
     "rank": 6,
     "id": 8605204,
     "title": "Go is moving to GitHub",
     "url": "https://groups.google.com/forum/#!topic/golang-dev/sckirqOWepg",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 686,
+    "by": "davecheney",
+    "descendants": 236,
+    "time": 1415926359
   },
   {
     "rank": 7,
     "id": 8605847,
     "title": "Why Did Yishan Wong Resign as Reddit CEO?",
     "url": "http://www.quora.com/Why-did-Yishan-Wong-resign-as-Reddit-CEO/answer/Yishan-Wong?srid=X&amp;share=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "wyclif",
+    "descendants": 97,
+    "time": 1415940259
   },
   {
     "rank": 8,
     "id": 8607366,
     "title": "MetricsGraphics.js \u2013 D3-based library optimized for visualizing time-series data",
     "url": "http://metricsgraphicsjs.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "bog-bog-bog",
+    "descendants": 76,
+    "time": 1415976956
   },
   {
     "rank": 9,
     "id": 8608358,
     "title": "Show HN: Explained Visually",
     "url": "http://setosa.io/ev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "vicapow",
+    "descendants": 45,
+    "time": 1415986767
   },
   {
     "rank": 10,
     "id": 8608941,
     "title": "On the Effectiveness of Traffic Analysis Against Tor Networks Using Flow Records [pdf]",
     "url": "https://mice.cs.columbia.edu/getTechreport.php?techreportID=1545&amp;format=pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "uptown",
+    "descendants": 82,
+    "time": 1415992741
   }
 ]

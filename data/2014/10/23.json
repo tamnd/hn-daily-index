@@ -4,99 +4,99 @@
     "id": 8492395,
     "title": "Docker Development Patterns",
     "url": "http://www.hokstad.com/docker/patterns",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "ingve",
+    "descendants": 30,
+    "time": 1413981524
   },
   {
     "rank": 2,
     "id": 8493179,
     "title": "How Wizards of the Coast distributed equity as a startup",
     "url": "http://www.peteradkison.com/blog-entry-3-wizards-of-the-coast-equity-distributions-part-2/?2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "gwern",
+    "descendants": 123,
+    "time": 1413992277
   },
   {
     "rank": 3,
     "id": 8495067,
     "title": "Mark Zuckerberg Answers Q&A in Mandarin at Chinese University",
     "url": "https://www.facebook.com/video.php?v=10101708164336771",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "patangay",
+    "descendants": 174,
+    "time": 1414011263
   },
   {
     "rank": 4,
     "id": 8495786,
     "title": "My adventures in CNC robotics",
     "url": "http://lcamtuf.coredump.cx/rstory/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "zaroth",
+    "descendants": 49,
+    "time": 1414020211
   },
   {
     "rank": 5,
     "id": 8496581,
     "title": "\u201cDid you mean?\u201d Experience in Ruby",
     "url": "http://www.yukinishijima.net/2014/10/21/did-you-mean-experience-in-ruby.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "yuki2448",
+    "descendants": 181,
+    "time": 1414034653
   },
   {
     "rank": 6,
     "id": 8496797,
     "title": "Fingerprints Are Usernames, Not Passwords (2013)",
     "url": "http://blog.dustinkirkland.com/2013/10/fingerprints-are-user-names-not.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "sc90",
+    "descendants": 102,
+    "time": 1414041503
   },
   {
     "rank": 7,
     "id": 8497178,
     "title": "Ten years of Ubuntu",
     "url": "http://arstechnica.com/information-technology/2014/10/ten-years-of-ubuntu-how-linuxs-beloved-newcomer-became-its-criticized-king/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "hpaavola",
+    "descendants": 170,
+    "time": 1414052545
   },
   {
     "rank": 8,
     "id": 8497906,
     "title": "AWS Frankfurt, Germany Region",
     "url": "http://aws.amazon.com/blogs/aws/aws-region-germany/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "ostrowski",
+    "descendants": 107,
+    "time": 1414069813
   },
   {
     "rank": 9,
     "id": 8498199,
     "title": "Vatican Library Puts 4,000 Ancient Manuscripts Available Online for Free",
     "url": "http://www.messagetoeagle.com/vaticanlibrary.php#.VEkMGhZ0Yim",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "Shivetya",
+    "descendants": 134,
+    "time": 1414073612
   },
   {
     "rank": 10,
     "id": 8498782,
     "title": "1984 v. Brave New World",
     "url": "http://www.lettersofnote.com/2012/03/1984-v-brave-new-world.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "moritzfelipe",
+    "descendants": 195,
+    "time": 1414079281
   }
 ]

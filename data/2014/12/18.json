@@ -4,99 +4,99 @@
     "id": 8762219,
     "title": "Dissent \u2013 Accountable anonymous group communication",
     "url": "http://dedis.cs.yale.edu/dissent",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "geographomics",
+    "descendants": 25,
+    "time": 1418823401
   },
   {
     "rank": 2,
     "id": 8763942,
     "title": "Linux kernel: multiple x86_64 vulnerabilities",
     "url": "http://seclists.org/oss-sec/2014/q4/1052",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "jgeralnik",
+    "descendants": 64,
+    "time": 1418845922
   },
   {
     "rank": 3,
     "id": 8764509,
     "title": "Theater Chains Decline to Show Sony\u2019s \u2018The Interview,\u2019 Citing Threats",
     "url": "http://www.nytimes.com/2014/12/18/business/theater-chains-decline-to-show-sonys-the-interview-citing-threats-.html?partner=rss&amp;emc=rss",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "greenburger",
+    "descendants": 256,
+    "time": 1418852205
   },
   {
     "rank": 4,
     "id": 8765870,
     "title": "Reaction to the Sony Hack Is 'Beyond the Realm of Stupid'",
     "url": "http://motherboard.vice.com/read/reaction-to-the-sony-hack-is-beyond-the-realm-of-stupid?utm_source=mbtwitter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "wglb",
+    "descendants": 100,
+    "time": 1418874136
   },
   {
     "rank": 5,
     "id": 8766215,
     "title": "Why the Sony hack is unlikely to be the work of North Korea",
     "url": "http://marcrogers.org/2014/12/18/why-the-sony-hack-is-unlikely-to-be-the-work-of-north-korea/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "rdl",
+    "descendants": 198,
+    "time": 1418883464
   },
   {
     "rank": 6,
     "id": 8766845,
     "title": "How Pipedrive went from 0 to 10,000 paying customers in SaaS",
     "url": "http://purde.net/2014/12/how-to-get-from-0-to-10000-paying-customers-in-saas/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "standrews",
+    "descendants": 62,
+    "time": 1418902864
   },
   {
     "rank": 7,
     "id": 8767203,
     "title": "EFF in Court to Argue NSA Collection from Internet Backbone Is Unconstitutional",
     "url": "https://www.eff.org/press/releases/eff-court-argue-nsa-data-collection-internet-backbone-unconstitutional",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 808,
+    "by": "etr71115",
+    "descendants": 169,
+    "time": 1418911327
   },
   {
     "rank": 8,
     "id": 8767449,
     "title": "Amazon Unveils One-Hour Delivery Service",
     "url": "http://www.wsj.com/articles/amazon-com-launches-superfast-delivery-in-nyc-1418903192?mod=e2tw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "spew",
+    "descendants": 157,
+    "time": 1418914742
   },
   {
     "rank": 9,
     "id": 8767475,
     "title": "PostgreSQL 9.4 Released",
     "url": "http://www.postgresql.org/about/news/1557/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 744,
+    "by": "petercooper",
+    "descendants": 188,
+    "time": 1418915011
   },
   {
     "rank": 10,
     "id": 8769667,
     "title": "Git client vulnerability announced",
     "url": "https://github.com/blog/1938-git-client-vulnerability-announced",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 818,
+    "by": "polemic",
+    "descendants": 177,
+    "time": 1418937483
   }
 ]

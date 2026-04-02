@@ -4,99 +4,99 @@
     "id": 8445908,
     "title": "Manipulate audio with a simple Python library",
     "url": "http://pydub.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "coppolaemilio",
+    "descendants": 43,
+    "time": 1413134843
   },
   {
     "rank": 2,
     "id": 8446575,
     "title": "Since 2010, trolls have made 3 times as much money in court as real companies",
     "url": "https://gigaom.com/2014/10/08/patent-trolling-pays-since-2010-trolls-have-made-3-times-as-much-money-in-court-as-real-companies/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "prostoalex",
+    "descendants": 39,
+    "time": 1413147471
   },
   {
     "rank": 3,
     "id": 8446923,
     "title": "Why your first Rust FizzBuzz implementation may not work",
     "url": "http://chrismorgan.info/blog/rust-fizzbuzz.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "chrismorgan",
+    "descendants": 129,
+    "time": 1413156550
   },
   {
     "rank": 4,
     "id": 8446932,
     "title": "Rolling Shutters",
     "url": "http://jasmcole.com/2014/10/12/rolling-shutters/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 708,
+    "by": "hazz",
+    "descendants": 41,
+    "time": 1413156824
   },
   {
     "rank": 5,
     "id": 8447479,
     "title": "The Space Shuttle\u2019s Controversial Launch Abort Plan",
     "url": "http://www.tested.com/science/space/460233-space-shuttles-controversial-launch-abort-plan/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 148,
+    "by": "ironchief",
+    "descendants": 42,
+    "time": 1413174648
   },
   {
     "rank": 6,
     "id": 8447699,
     "title": "Building Web Apps with Go",
     "url": "http://codegangsta.gitbooks.io/building-web-apps-with-go/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "linhmtran168",
+    "descendants": 40,
+    "time": 1413181436
   },
   {
     "rank": 7,
     "id": 8448617,
     "title": "The Emails Snowden Sent to First Introduce His NSA Leaks",
     "url": "http://www.wired.com/2014/10/snowdens-first-emails-to-poitras/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "secfirstmd",
+    "descendants": 108,
+    "time": 1413207274
   },
   {
     "rank": 8,
     "id": 8448929,
     "title": "How Wolves Change Rivers [video]",
     "url": "https://vimeo.com/86466357",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "enraged_camel",
+    "descendants": 54,
+    "time": 1413212160
   },
   {
     "rank": 9,
     "id": 8449313,
     "title": "Show HN: Snapception \u2013 Intercept all snapchats received over the network",
     "url": "https://github.com/thebradbain/snapception",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "thebradbain",
+    "descendants": 80,
+    "time": 1413217153
   },
   {
     "rank": 10,
     "id": 8450147,
     "title": "My Philosophy on Alerting: Observations of a Site Reliability Engineer at Google",
     "url": "https://docs.google.com/a/gravitant.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview?sle=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "ismavis",
+    "descendants": 119,
+    "time": 1413228706
   }
 ]

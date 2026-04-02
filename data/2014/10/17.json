@@ -4,99 +4,99 @@
     "id": 8465956,
     "title": "How Unreliable is UDP?",
     "url": "http://openmymind.net/How-Unreliable-Is-UDP/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "thefreeman",
+    "descendants": 110,
+    "time": 1413478545
   },
   {
     "rank": 2,
     "id": 8466453,
     "title": "OS X Yosemite",
     "url": "http://www.apple.com/osx/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "sc90",
+    "descendants": 103,
+    "time": 1413484033
   },
   {
     "rank": 3,
     "id": 8466454,
     "title": "Apple Mac Mini",
     "url": "https://www.apple.com/mac-mini/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "computerjunkie",
+    "descendants": 129,
+    "time": 1413484036
   },
   {
     "rank": 4,
     "id": 8467196,
     "title": "Apple Built A SIM Card That Lets You Switch Between AT&T, Sprint, And T-Mobile",
     "url": "http://techcrunch.com/2014/10/16/apple-sim/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "calvin_c",
+    "descendants": 185,
+    "time": 1413488972
   },
   {
     "rank": 5,
     "id": 8467261,
     "title": "Tor Browser 4.0 is released",
     "url": "https://blog.torproject.org/blog/tor-browser-40-released",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "conductor",
+    "descendants": 102,
+    "time": 1413489573
   },
   {
     "rank": 6,
     "id": 8467743,
     "title": "Why Germany Is Better at Training Its Workers",
     "url": "http://www.theatlantic.com/business/archive/2014/10/why-germany-is-so-much-better-at-training-its-workers/381550/?single_page=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "zwieback",
+    "descendants": 161,
+    "time": 1413493703
   },
   {
     "rank": 7,
     "id": 8469802,
     "title": "A Raw Deal in Michigan",
     "url": "http://www.teslamotors.com/blog/raw-deal-michigan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "lalwanivikas",
+    "descendants": 194,
+    "time": 1413530778
   },
   {
     "rank": 8,
     "id": 8470206,
     "title": "Ask HN: How do you use Docker in production?",
     "url": "http://news.ycombinator.com/item?id=8470206",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "valevk",
+    "descendants": 151,
+    "time": 1413541545
   },
   {
     "rank": 9,
     "id": 8470754,
     "title": "Vitesse Data: Postgres + LLVM",
     "url": "http://vitessedata.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "yangyang",
+    "descendants": 37,
+    "time": 1413551906
   },
   {
     "rank": 10,
     "id": 8471877,
     "title": "FFS SSL",
     "url": "http://wingolog.org/archives/2014/10/17/ffs-ssl",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "jashkenas",
+    "descendants": 152,
+    "time": 1413564514
   }
 ]

@@ -4,99 +4,99 @@
     "id": 8572600,
     "title": "Why do we need modules at all? (2011)",
     "url": "http://erlang.org/pipermail/erlang-questions/2011-May/058768.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "thomas11",
+    "descendants": 76,
+    "time": 1415370497
   },
   {
     "rank": 2,
     "id": 8572810,
     "title": "Receiving Dead Satellites with the RTL-SDR",
     "url": "http://www.rtl-sdr.com/receiving-dead-satellites-rtl-sdr/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 162,
+    "by": "pavel_lishin",
+    "descendants": 54,
+    "time": 1415373050
   },
   {
     "rank": 3,
     "id": 8574080,
     "title": "Google's phone number handling library",
     "url": "https://code.google.com/p/libphonenumber/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "wslh",
+    "descendants": 42,
+    "time": 1415386954
   },
   {
     "rank": 4,
     "id": 8574184,
     "title": "Rust and Go",
     "url": "https://medium.com/@adamhjk/rust-and-go-e18d511fbd95",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "mperham",
+    "descendants": 302,
+    "time": 1415388298
   },
   {
     "rank": 5,
     "id": 8574558,
     "title": "AudioKit: Open-source audio synthesis, processing, and analysis platform",
     "url": "http://audiokit.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "adamnemecek",
+    "descendants": 13,
+    "time": 1415392712
   },
   {
     "rank": 6,
     "id": 8574616,
     "title": "Why Broken Sleep Is a Golden Time for Creativity",
     "url": "http://aeon.co/magazine/psychology/why-broken-sleep-is-a-golden-time-for-creativity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "benbreen",
+    "descendants": 64,
+    "time": 1415394344
   },
   {
     "rank": 7,
     "id": 8575623,
     "title": "OpenBazaar is a decentralized Dark Net market that's 'untouchable' by police",
     "url": "http://www.dailydot.com/politics/openbazaar-is-next-after-silk-road-2-falls/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "dil8",
+    "descendants": 107,
+    "time": 1415409559
   },
   {
     "rank": 8,
     "id": 8576411,
     "title": "Julia: A fresh approach to numerical computing",
     "url": "http://arxiv.org/abs/1411.1607",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "sveme",
+    "descendants": 138,
+    "time": 1415438087
   },
   {
     "rank": 9,
     "id": 8576707,
     "title": "Almost Everything in \u201cDr. Strangelove\u201d Was Based on Fact",
     "url": "http://www.newyorker.com/news/news-desk/almost-everything-in-dr-strangelove-was-true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "ux-app",
+    "descendants": 160,
+    "time": 1415450831
   },
   {
     "rank": 10,
     "id": 8576936,
     "title": "Computer Scientists Ask Supreme Court to Rule APIs Can\u2019t Be Copyrighted",
     "url": "https://www.eff.org/press/releases/computer-scientists-ask-supreme-court-rule-apis-cant-be-copyrighted",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "jrochkind1",
+    "descendants": 164,
+    "time": 1415456853
   }
 ]

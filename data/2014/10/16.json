@@ -4,99 +4,99 @@
     "id": 8458039,
     "title": "Passwordless authentication: Secure, simple, and fast to deploy",
     "url": "https://hacks.mozilla.org/2014/10/passwordless-authentication-secure-simple-and-fast-to-deploy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "bpierre",
+    "descendants": 116,
+    "time": 1413375406
   },
   {
     "rank": 2,
     "id": 8460670,
     "title": "Launch of the 3rd Edition of the Ruby on Rails Tutorial Book",
     "url": "http://news.railstutorial.org/rails_tutorial_3rd_ed_screencast_access/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "mhartl",
+    "descendants": 65,
+    "time": 1413397765
   },
   {
     "rank": 3,
     "id": 8461667,
     "title": "Quora Keeps the World's Knowledge for Itself",
     "url": "https://konklone.com/post/quora-keeps-the-worlds-knowledge-for-itself",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "luu",
+    "descendants": 123,
+    "time": 1413406606
   },
   {
     "rank": 4,
     "id": 8462586,
     "title": "Reddit Acquires Alien Blue, the Most Popular Unofficial Reddit App",
     "url": "http://techcrunch.com/2014/10/15/reddit-acquires-alien-blue-the-most-popular-unofficial-reddit-app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 439,
+    "by": "ajacksified",
+    "descendants": 171,
+    "time": 1413418328
   },
   {
     "rank": 5,
     "id": 8462825,
     "title": "EditorConfig",
     "url": "http://editorconfig.org/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "Jonanin",
+    "descendants": 38,
+    "time": 1413423052
   },
   {
     "rank": 6,
     "id": 8463471,
     "title": "How Google Works",
     "url": "http://www.slideshare.net/ericschmidt76/how-google-works-final-1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "anvarik",
+    "descendants": 108,
+    "time": 1413436272
   },
   {
     "rank": 7,
     "id": 8464074,
     "title": "Show HN: RemoteCoder.io \u2013 A jobsite for remote programmers",
     "url": "https://remotecoder.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "hiddentao",
+    "descendants": 136,
+    "time": 1413451446
   },
   {
     "rank": 8,
     "id": 8464532,
     "title": "Why Inequality Matters",
     "url": "http://www.gatesnotes.com/Books/Why-Inequality-Matters-Capital-in-21st-Century-Review?new#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 603,
+    "by": "mhb",
+    "descendants": 451,
+    "time": 1413462693
   },
   {
     "rank": 9,
     "id": 8466437,
     "title": "iMac with Retina 5K display",
     "url": "http://www.apple.com/imac-with-retina/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 615,
+    "by": "davidbarker",
+    "descendants": 415,
+    "time": 1413483939
   },
   {
     "rank": 10,
     "id": 8466812,
     "title": "OS X 10.10 Yosemite: The Ars Technica Review",
     "url": "http://arstechnica.com/apple/2014/10/os-x-10-10/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "Braasch",
+    "descendants": 225,
+    "time": 1413486279
   }
 ]

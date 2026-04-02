@@ -4,99 +4,99 @@
     "id": 8803235,
     "title": "The Real-time Web: How to Get Millisecond Updates with REST",
     "url": "http://engineering.imvu.com/2014/12/27/the-real-time-web-in-rest-services-at-imvu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "jwatte",
+    "descendants": 23,
+    "time": 1419702205
   },
   {
     "rank": 2,
     "id": 8803498,
     "title": "Masscan: Scan the entire Internet in under 5 minutes",
     "url": "https://github.com/robertdavidgraham/masscan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "pmoriarty",
+    "descendants": 29,
+    "time": 1419706531
   },
   {
     "rank": 3,
     "id": 8804127,
     "title": "How Colonel Sanders Became Father Christmas in Japan",
     "url": "http://talkingpointsmemo.com/ts/kfc-christmas-in-japan-colonel-sanders-history-12-23-2014",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "gscott",
+    "descendants": 49,
+    "time": 1419717862
   },
   {
     "rank": 4,
     "id": 8804624,
     "title": "James Golick has died",
     "url": "https://twitter.com/jill380/status/548978785404874753",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "waffle_ss",
+    "descendants": 41,
+    "time": 1419727453
   },
   {
     "rank": 5,
     "id": 8804934,
     "title": "On Immigration, Engineers Simply Don\u2019t Trust VCs",
     "url": "http://techcrunch.com/2014/12/27/on-immigration-engineers-simply-dont-trust-vcs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "frostmatthew",
+    "descendants": 190,
+    "time": 1419734117
   },
   {
     "rank": 6,
     "id": 8805053,
     "title": "Look, no hands",
     "url": "http://looknohands.me/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "jamesisaac",
+    "descendants": 140,
+    "time": 1419737448
   },
   {
     "rank": 7,
     "id": 8806146,
     "title": "Chrome DevTools outside of the browser",
     "url": "https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "gidea",
+    "descendants": 28,
+    "time": 1419770660
   },
   {
     "rank": 8,
     "id": 8806835,
     "title": "Neat Algorithms: Paxos",
     "url": "http://harry.me/blog/2014/12/27/neat-algorithms-paxos/?hn=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "hbrundage",
+    "descendants": 38,
+    "time": 1419789309
   },
   {
     "rank": 9,
     "id": 8807040,
     "title": "MozJPEG 3.0",
     "url": "http://calendar.perfplanet.com/2014/mozjpeg-3-0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "ssttoo",
+    "descendants": 64,
+    "time": 1419793872
   },
   {
     "rank": 10,
     "id": 8807318,
     "title": "Inside the NSA's War on Internet Security",
     "url": "http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 595,
+    "by": "FabianBeiner",
+    "descendants": 165,
+    "time": 1419798203
   }
 ]

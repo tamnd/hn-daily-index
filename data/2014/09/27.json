@@ -4,99 +4,99 @@
     "id": 8371852,
     "title": "HFT in my backyard \u2013 II",
     "url": "http://sniperinmahwah.wordpress.com/2014/09/25/hft-in-my-backyard-ii/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "liotier",
+    "descendants": 65,
+    "time": 1411720350
   },
   {
     "rank": 2,
     "id": 8372015,
     "title": "The economics of a web-based book",
     "url": "http://practicaltypography.com/economics-year-one.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "_dps",
+    "descendants": 73,
+    "time": 1411725069
   },
   {
     "rank": 3,
     "id": 8373294,
     "title": "Juno: A free environment for the Julia language",
     "url": "http://junolab.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "yarapavan",
+    "descendants": 30,
+    "time": 1411747654
   },
   {
     "rank": 4,
     "id": 8373394,
     "title": "My $300 Home Cloud Server",
     "url": "http://xrds.acm.org/blog/2014/09/my-300-home-cloud-server-a-story-of-blood-sweat-and-ebay/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "theonewolf",
+    "descendants": 121,
+    "time": 1411748638
   },
   {
     "rank": 5,
     "id": 8374263,
     "title": "Clojure Distilled",
     "url": "http://yogthos.github.io/ClojureDistilled.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 168,
+    "by": "nickmain",
+    "descendants": 51,
+    "time": 1411757929
   },
   {
     "rank": 6,
     "id": 8374810,
     "title": "Why the Z-80's data pins are scrambled",
     "url": "http://www.righto.com/2014/09/why-z-80s-data-pins-are-scrambled.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "zdw",
+    "descendants": 37,
+    "time": 1411765129
   },
   {
     "rank": 7,
     "id": 8375668,
     "title": "iPhone 6 and 6 Plus not as bendy as believed",
     "url": "http://www.consumerreports.org/cro/news/2014/09/consumer-reports-tests-iphone-6-bendgate/index.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "eglover",
+    "descendants": 175,
+    "time": 1411779711
   },
   {
     "rank": 8,
     "id": 8376064,
     "title": "PostgreSQL Outperforms MongoDB in New Round of Tests",
     "url": "http://blogs.enterprisedb.com/2014/09/24/postgres-outperforms-mongodb-and-ushers-in-new-developer-reality/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "wslh",
+    "descendants": 160,
+    "time": 1411791331
   },
   {
     "rank": 9,
     "id": 8376376,
     "title": "Not a bash bug",
     "url": "http://paste.lisp.org/display/143864",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "informatimago",
+    "descendants": 185,
+    "time": 1411804222
   },
   {
     "rank": 10,
     "id": 8377591,
     "title": "Twitter image bots stuck in an automated loop",
     "url": "https://twitter.com/a_quilt_bot/status/514483044724776960",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "zvanness",
+    "descendants": 24,
+    "time": 1411838647
   }
 ]

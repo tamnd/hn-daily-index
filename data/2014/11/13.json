@@ -4,99 +4,99 @@
     "id": 8596511,
     "title": "Introducing Visual Studio\u2019s Emulator for Android",
     "url": "http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/introducing-visual-studio-s-emulator-for-android.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "AaronFriel",
+    "descendants": 102,
+    "time": 1415811016
   },
   {
     "rank": 2,
     "id": 8596878,
     "title": "Introducing the Photon",
     "url": "https://www.spark.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "loisaidasam",
+    "descendants": 97,
+    "time": 1415814060
   },
   {
     "rank": 3,
     "id": 8596900,
     "title": "Aurora - New MySQL-Compatible Database Engine",
     "url": "http://aws.amazon.com/blogs/aws/highly-scalable-mysql-compat-rds-db-engine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "ak217",
+    "descendants": 131,
+    "time": 1415814256
   },
   {
     "rank": 4,
     "id": 8600174,
     "title": "F# 4.0 Preview",
     "url": "http://blogs.msdn.com/b/fsharpteam/archive/2014/11/12/announcing-a-preview-of-f-4-0-and-the-visual-f-tools-in-vs-2015.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "noblethrasher",
+    "descendants": 71,
+    "time": 1415858654
   },
   {
     "rank": 5,
     "id": 8600716,
     "title": "Letter to Amazon Board from Fired Ad Exec",
     "url": "https://www.scribd.com/embeds/245561031/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-UEZdQ4D9zd883gw8tn3D&amp;show_recommendations=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1257,
+    "by": "kvargs",
+    "descendants": 558,
+    "time": 1415872301
   },
   {
     "rank": 6,
     "id": 8600830,
     "title": "Welcome to a comet",
     "url": "http://www.esa.int/spaceinimages/Images/2014/11/Welcome_to_a_comet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "jbogp",
+    "descendants": 78,
+    "time": 1415875148
   },
   {
     "rank": 7,
     "id": 8601774,
     "title": "0h h1 \u2013 A little logic game",
     "url": "http://0hh1.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "mrtnkl",
+    "descendants": 152,
+    "time": 1415890502
   },
   {
     "rank": 8,
     "id": 8602872,
     "title": "AWS EC2 Container Service",
     "url": "http://aws.amazon.com/blogs/aws/cloud-container-management/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "nitinag",
+    "descendants": 84,
+    "time": 1415901092
   },
   {
     "rank": 9,
     "id": 8602936,
     "title": "AWS Lambda",
     "url": "http://aws.amazon.com/lambda/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 526,
+    "by": "cpenner461",
+    "descendants": 158,
+    "time": 1415901729
   },
   {
     "rank": 10,
     "id": 8603845,
     "title": "A new team at Reddit",
     "url": "http://blog.samaltman.com/a-new-team-at-reddit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "gatsby",
+    "descendants": 352,
+    "time": 1415910553
   }
 ]

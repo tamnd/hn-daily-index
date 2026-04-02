@@ -4,99 +4,99 @@
     "id": 8606842,
     "title": "Generators in Firefox now 22 times faster",
     "url": "https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "jsnell",
+    "descendants": 39,
+    "time": 1415968769
   },
   {
     "rank": 2,
     "id": 8606968,
     "title": "After Docker: Unikernels and Immutable Infrastructure",
     "url": "https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "axelfontaine",
+    "descendants": 69,
+    "time": 1415971560
   },
   {
     "rank": 3,
     "id": 8607499,
     "title": "Inmates at California\u2019s San Quentin prison learn to code",
     "url": "http://arstechnica.com/tech-policy/2014/11/how-18-inmates-at-californias-notorious-san-quentin-prison-learn-to-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "correctifier",
+    "descendants": 53,
+    "time": 1415978466
   },
   {
     "rank": 4,
     "id": 8607648,
     "title": "What's New in C# 6.0 [video]",
     "url": "http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/116",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "chton",
+    "descendants": 142,
+    "time": 1415980027
   },
   {
     "rank": 5,
     "id": 8608424,
     "title": "Why we use HTTPS for every .gov website we make",
     "url": "https://18f.gsa.gov/2014/11/13/why-we-use-https-in-every-gov-website-we-make/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "konklone",
+    "descendants": 82,
+    "time": 1415987568
   },
   {
     "rank": 6,
     "id": 8609203,
     "title": "Philae status, a day later",
     "url": "http://elakdawalla.tumblr.com/post/102544296955/philae-status-a-day-later",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "ilyagr",
+    "descendants": 86,
+    "time": 1415995578
   },
   {
     "rank": 7,
     "id": 8609936,
     "title": "How a Shrimp Treadmill Became a Political Plaything",
     "url": "http://chronicle.com/blogs/conversation/2014/11/13/how-a-47-shrimp-treadmill-became-a-3-million-political-plaything/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "benbreen",
+    "descendants": 124,
+    "time": 1416004676
   },
   {
     "rank": 8,
     "id": 8611198,
     "title": "Our lander\u2019s asleep",
     "url": "http://blogs.esa.int/rosetta/2014/11/15/our-landers-asleep/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "jonnyscholes",
+    "descendants": 160,
+    "time": 1416039880
   },
   {
     "rank": 9,
     "id": 8611468,
     "title": "Chemistry of Cast Iron Seasoning (2010)",
     "url": "http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "mzehrer",
+    "descendants": 142,
+    "time": 1416051147
   },
   {
     "rank": 10,
     "id": 8611719,
     "title": "The Man Who Made the UK Say \u201cI\u2019m Sorry for What We Did to Turing.\u201d",
     "url": "https://medium.com/backchannel/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "jgrahamc",
+    "descendants": 53,
+    "time": 1416061435
   }
 ]

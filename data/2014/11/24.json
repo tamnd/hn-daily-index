@@ -4,99 +4,99 @@
     "id": 8649534,
     "title": "Why Plan 9 is not dead yet and what we can learn from it (2005) [pdf]",
     "url": "http://www.cs.unm.edu/~fastos/05meeting/PLAN9NOTDEADYET.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "nisa",
+    "descendants": 79,
+    "time": 1416769564
   },
   {
     "rank": 2,
     "id": 8650103,
     "title": "Magnus Carlsen Repeats at World Chess Championship",
     "url": "http://blogs.wsj.com/dailyfix/2014/11/23/magnus-carlsen-repeats-at-world-chess-championship/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "sethbannon",
+    "descendants": 95,
+    "time": 1416780115
   },
   {
     "rank": 3,
     "id": 8650483,
     "title": "Git's initial commit",
     "url": "http://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "olalonde",
+    "descendants": 121,
+    "time": 1416788284
   },
   {
     "rank": 4,
     "id": 8650895,
     "title": "GitHub dropped Pygments",
     "url": "http://www.greghendershott.com/2014/11/github-dropped-pygments.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "mkonecny",
+    "descendants": 129,
+    "time": 1416798861
   },
   {
     "rank": 5,
     "id": 8650952,
     "title": "On Linux, 'less' can probably get you owned",
     "url": "http://seclists.org/fulldisclosure/2014/Nov/74",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "adamnemecek",
+    "descendants": 130,
+    "time": 1416800385
   },
   {
     "rank": 6,
     "id": 8651499,
     "title": "Kill init by touching a bunch of files",
     "url": "http://rachelbythebay.com/w/2014/11/24/touch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "omnibrain",
+    "descendants": 123,
+    "time": 1416818049
   },
   {
     "rank": 7,
     "id": 8651599,
     "title": "My boys love 1986 computing",
     "url": "http://changelog.complete.org/archives/9269-my-boys-love-1986-computing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "interesse",
+    "descendants": 65,
+    "time": 1416821168
   },
   {
     "rank": 8,
     "id": 8651641,
     "title": "2 years with Angular",
     "url": "http://www.fse.guru/2-years-with-angular",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "robin_reala",
+    "descendants": 207,
+    "time": 1416822143
   },
   {
     "rank": 9,
     "id": 8653416,
     "title": "What We Learned From 40 Female YC Founders",
     "url": "http://blog.ycombinator.com/what-we-learned-from-40-female-yc-founders",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "katm",
+    "descendants": 277,
+    "time": 1416849863
   },
   {
     "rank": 10,
     "id": 8654831,
     "title": "Gates Foundation to require immediate free access for journal articles",
     "url": "http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles?utm_content=buffer26432&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1079,
+    "by": "philip1209",
+    "descendants": 147,
+    "time": 1416864442
   }
 ]

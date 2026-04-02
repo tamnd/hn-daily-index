@@ -4,99 +4,99 @@
     "id": 8641004,
     "title": "The Next Chapter",
     "url": "http://blog.aereo.com/2014/11/next-chapter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "sc90",
+    "descendants": 179,
+    "time": 1416574294
   },
   {
     "rank": 2,
     "id": 8642035,
     "title": "Representing Trees in PostgreSQL",
     "url": "http://woss.name/articles/representing-trees-in-postgresql/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "mathie",
+    "descendants": 58,
+    "time": 1416588665
   },
   {
     "rank": 3,
     "id": 8642988,
     "title": "The Algorithm Design Manual",
     "url": "http://www.algorist.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "johnwards",
+    "descendants": 44,
+    "time": 1416599119
   },
   {
     "rank": 4,
     "id": 8643428,
     "title": "Why I do not want to work at Google (2011)",
     "url": "https://www.mail-archive.com/kragen-tol@canonical.org/msg00268.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "luu",
+    "descendants": 112,
+    "time": 1416604721
   },
   {
     "rank": 5,
     "id": 8644080,
     "title": "Rides of Glory \u2013 Uber Blog (2012)",
     "url": "https://web.archive.org/web/20140827195715/http://blog.uber.com/ridesofglory",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "t0dd",
+    "descendants": 112,
+    "time": 1416613974
   },
   {
     "rank": 6,
     "id": 8644175,
     "title": "How to reward skilled coders with something other than people management",
     "url": "http://lizthedeveloper.com/how-to-reward-skilled-coders-with-something-other-than-people-management",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "koopajah",
+    "descendants": 153,
+    "time": 1416615940
   },
   {
     "rank": 7,
     "id": 8645188,
     "title": "FreeBSD: the next 10 years",
     "url": "http://www.slideshare.net/iXsystems/jordan-hubbard-free-bsd-the-next-10-years",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "microtonal",
+    "descendants": 171,
+    "time": 1416648113
   },
   {
     "rank": 8,
     "id": 8645287,
     "title": "Reduction in Garbage Collection Pause Time in Ruby 2.2",
     "url": "https://www.omniref.com/blog/blog/2014/11/18/ko1-at-rubyconf-2014-massive-garbage-collection-speedup-in-ruby-2-dot-2/?hn=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "mparramon",
+    "descendants": 50,
+    "time": 1416652706
   },
   {
     "rank": 9,
     "id": 8645443,
     "title": "Ask HN: Can we talk about FreeBSD vs. Linux?",
     "url": "http://news.ycombinator.com/item?id=8645443",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "bjackman",
+    "descendants": 214,
+    "time": 1416660321
   },
   {
     "rank": 10,
     "id": 8645504,
     "title": "Quantum OS - OS based on Linux which conforms to Material Design guidelines",
     "url": "http://quantum-os.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "turrini",
+    "descendants": 163,
+    "time": 1416662697
   }
 ]

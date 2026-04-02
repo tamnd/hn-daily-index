@@ -4,99 +4,99 @@
     "id": 8377321,
     "title": "Shell Shock Exploitation Vectors",
     "url": "https://www.dfranke.us/posts/2014-09-27-shell-shock-exploitation-vectors.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 142,
+    "by": "dfranke",
+    "descendants": 55,
+    "time": 1411833046
   },
   {
     "rank": 2,
     "id": 8377680,
     "title": "Quantum mechanics as a generalization of probability (2007)",
     "url": "http://www.scottaaronson.com/democritus/lec9.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "ascertain",
+    "descendants": 79,
+    "time": 1411840353
   },
   {
     "rank": 3,
     "id": 8378065,
     "title": "Counting bytes fast",
     "url": "http://fastcompression.blogspot.com/2014/09/counting-bytes-fast-little-trick-from.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 128,
+    "by": "walrus",
+    "descendants": 47,
+    "time": 1411848941
   },
   {
     "rank": 4,
     "id": 8378819,
     "title": "Material Design for Bootstrap",
     "url": "https://fezvrasta.github.io/bootstrap-material-design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "necrodome",
+    "descendants": 63,
+    "time": 1411873679
   },
   {
     "rank": 5,
     "id": 8378894,
     "title": "How does SQLite work? Part 1: Pages",
     "url": "http://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "jvns",
+    "descendants": 18,
+    "time": 1411877152
   },
   {
     "rank": 6,
     "id": 8379247,
     "title": "Building OS X Apps with JavaScript",
     "url": "http://tylergaw.com/articles/building-osx-apps-with-js",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 166,
+    "by": "snyp",
+    "descendants": 60,
+    "time": 1411892973
   },
   {
     "rank": 7,
     "id": 8379542,
     "title": "Dear clueless assholes: stop bashing bash and GNU",
     "url": "https://weev.livejournal.com/409835.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "radmuzom",
+    "descendants": 105,
+    "time": 1411906550
   },
   {
     "rank": 8,
     "id": 8379792,
     "title": "LibreSSL: More Than 30 Days Later",
     "url": "http://www.openbsd.org/papers/eurobsdcon2014-libressl.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "lflux",
+    "descendants": 104,
+    "time": 1411914150
   },
   {
     "rank": 9,
     "id": 8379973,
     "title": "The downfall of Quora (2013)",
     "url": "http://thegoodones.quora.com/Interesting-read",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "anbala",
+    "descendants": 120,
+    "time": 1411918357
   },
   {
     "rank": 10,
     "id": 8380110,
     "title": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
     "url": "http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 653,
+    "by": "omnibrain",
+    "descendants": 103,
+    "time": 1411921273
   }
 ]

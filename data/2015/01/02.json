@@ -4,99 +4,99 @@
     "id": 8823150,
     "title": "What is going to happen in 2015",
     "url": "http://avc.com/2015/01/what-is-going-to-happen/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "kernelv",
+    "descendants": 122,
+    "time": 1420125840
   },
   {
     "rank": 2,
     "id": 8823443,
     "title": "Elasticsearch for Beginners: Indexing Your GMail Inbox",
     "url": "https://github.com/oliver006/elasticsearch-gmail",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "SuperKlaus",
+    "descendants": 32,
+    "time": 1420131917
   },
   {
     "rank": 3,
     "id": 8823733,
     "title": "Rise of the Scientific Programmer",
     "url": "http://byterot.blogspot.com/2015/01/future-of-programming-rise-of-the-scientific-developer-bigdata-datascience-machine-learning-and-fall-of-the-craftsman.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "StylifyYourBlog",
+    "descendants": 142,
+    "time": 1420137420
   },
   {
     "rank": 4,
     "id": 8823938,
     "title": "Show HN: Snabbt.js \u2013 a minimalistic animation library",
     "url": "http://daniel-lundin.github.io/snabbt.js/cards.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "sBUWK",
+    "descendants": 47,
+    "time": 1420140530
   },
   {
     "rank": 5,
     "id": 8824691,
     "title": "Ai Weiwei Is Living in Our Future",
     "url": "https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 514,
+    "by": "dirtyaura",
+    "descendants": 170,
+    "time": 1420153639
   },
   {
     "rank": 6,
     "id": 8825308,
     "title": "Show HN: A curated list of remote jobs",
     "url": "https://github.com/lukasz-madon/awesome-remote-job/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "lukasm",
+    "descendants": 55,
+    "time": 1420166884
   },
   {
     "rank": 7,
     "id": 8825375,
     "title": "A Dangerous and Costly Photo in Japan",
     "url": "https://news.vice.com/article/best-of-vice-news-2014-this-may-be-the-most-dangerous-and-most-costly-photo-in-japan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "curiously",
+    "descendants": 105,
+    "time": 1420169295
   },
   {
     "rank": 8,
     "id": 8826024,
     "title": "Environment Variables Considered Harmful for Your Secrets",
     "url": "http://movingfast.io/articles/environment-variables-considered-harmful/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "pwim",
+    "descendants": 109,
+    "time": 1420186807
   },
   {
     "rank": 9,
     "id": 8826659,
     "title": "My Resume Is Total Fiction",
     "url": "http://www.chrisbaglieri.com/blog/2015/1/1/my-resume-is-fiction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "chrisbaglieri",
+    "descendants": 90,
+    "time": 1420205267
   },
   {
     "rank": 10,
     "id": 8827600,
     "title": "Clojure 2014 Year in Review",
     "url": "http://stuartsierra.com/2015/01/02/clojure-2014-year-in-review",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "fogus",
+    "descendants": 115,
+    "time": 1420219980
   }
 ]

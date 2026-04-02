@@ -4,99 +4,99 @@
     "id": 8729420,
     "title": "Databases at 14.4Mhz",
     "url": "http://blog.foundationdb.com/databases-at-14.4mhz",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "chton",
+    "descendants": 81,
+    "time": 1418223234
   },
   {
     "rank": 2,
     "id": 8729714,
     "title": "Elm 0.14 \u2013 Simpler Core, Better Tools",
     "url": "http://elm-lang.org/blog/announce/0.14.elm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "teamonkey",
+    "descendants": 70,
+    "time": 1418226145
   },
   {
     "rank": 3,
     "id": 8730825,
     "title": "Magnus Carlsen \u2013 \u201cI am chaotic and lazy\u201d (2010)",
     "url": "http://en.chessbase.com/post/magnus-carlsen-on-his-che-career",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "radovanb",
+    "descendants": 87,
+    "time": 1418236715
   },
   {
     "rank": 4,
     "id": 8731107,
     "title": "Rosetta finds comet's water vapour to be significantly different from Earth's",
     "url": "http://www.esa.int/Our_Activities/Space_Science/Rosetta/Rosetta_fuels_debate_on_origin_of_Earth_s_oceans",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "twowo",
+    "descendants": 53,
+    "time": 1418239385
   },
   {
     "rank": 5,
     "id": 8732859,
     "title": "Google News to shut down in Spain",
     "url": "http://googlepolicyeurope.blogspot.com/2014/12/an-update-on-google-news-in-spain.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "apsec112",
+    "descendants": 259,
+    "time": 1418264614
   },
   {
     "rank": 6,
     "id": 8733352,
     "title": "Go 1.4 is released",
     "url": "https://blog.golang.org/go1.4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "ahochhaus",
+    "descendants": 257,
+    "time": 1418276117
   },
   {
     "rank": 7,
     "id": 8733368,
     "title": "Microsoft accepting Bitcoin",
     "url": "https://commerce.microsoft.com/PaymentHub/Help/Right?helppagename=CSV_BitcoinHowTo.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "DavidSJ",
+    "descendants": 148,
+    "time": 1418276567
   },
   {
     "rank": 8,
     "id": 8734204,
     "title": "Peter Sunde: 'I went to jail for my cause. What did you do?'",
     "url": "http://www.wired.co.uk/news/archive/2014-12/11/peter-sunde",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "butwhy",
+    "descendants": 357,
+    "time": 1418296950
   },
   {
     "rank": 9,
     "id": 8735892,
     "title": "Streem \u2013 a new programming language from Matz",
     "url": "http://github.com/matz/streem",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "tree_of_item",
+    "descendants": 189,
+    "time": 1418318404
   },
   {
     "rank": 10,
     "id": 8735912,
     "title": "Margaret Hamilton, lead software engineer, Project Apollo",
     "url": "http://threefingeredfox.net/?p=143",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 485,
+    "by": "adrianhoward",
+    "descendants": 93,
+    "time": 1418318623
   }
 ]

@@ -4,99 +4,99 @@
     "id": 8692627,
     "title": "Why my book can be downloaded for free",
     "url": "http://blog.plover.com/2014/12/01/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "draegtun",
+    "descendants": 64,
+    "time": 1417597986
   },
   {
     "rank": 2,
     "id": 8695316,
     "title": "6 GHz frequency modulated radar",
     "url": "http://hforsten.com/6-ghz-frequency-modulated-radar.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "paulgerhardt",
+    "descendants": 84,
+    "time": 1417630190
   },
   {
     "rank": 3,
     "id": 8696255,
     "title": "Extending Van Gogh\u2019s Starry Night with Inpainting",
     "url": "http://blog.wolfram.com/2014/12/01/extending-van-goghs-starry-night-with-inpainting/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "lelf",
+    "descendants": 43,
+    "time": 1417639848
   },
   {
     "rank": 4,
     "id": 8696975,
     "title": "Hy \u2013\u00a0A dialect of Lisp that\u2019s embedded in Python",
     "url": "http://docs.hylang.org/en/latest/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "colinprince",
+    "descendants": 77,
+    "time": 1417648495
   },
   {
     "rank": 5,
     "id": 8697590,
     "title": "Apple Deleted Rivals\u2019 Songs from Users\u2019 iPods",
     "url": "http://m.wsj.com/articles/BL-DGB-39221",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "kenjackson",
+    "descendants": 216,
+    "time": 1417660324
   },
   {
     "rank": 6,
     "id": 8697772,
     "title": "Ask HN: How or where to begin learning mathematics from first principles?",
     "url": "http://news.ycombinator.com/item?id=8697772",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "smtucker",
+    "descendants": 123,
+    "time": 1417665620
   },
   {
     "rank": 7,
     "id": 8699167,
     "title": "Show HN: Front-end framework optimized for internal apps",
     "url": "http://getflakes.com/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "khet",
+    "descendants": 93,
+    "time": 1417701036
   },
   {
     "rank": 8,
     "id": 8699957,
     "title": "Announcing Docker Machine, Swarm, and Compose for Orchestrating Distributed Apps",
     "url": "http://blog.docker.com/2014/12/announcing-docker-machine-swarm-and-compose-for-orchestrating-distributed-apps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "KenCochrane",
+    "descendants": 189,
+    "time": 1417709786
   },
   {
     "rank": 9,
     "id": 8701228,
     "title": "Duktape: an embeddable JavaScript engine",
     "url": "http://duktape.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "bpierre",
+    "descendants": 129,
+    "time": 1417722417
   },
   {
     "rank": 10,
     "id": 8701696,
     "title": "Wyden Introduces Bill To Ban Government Backdoors Into Cellphones and Computers",
     "url": "http://www.wyden.senate.gov/news/press-releases/wyden-introduces-bill-to-ban-government-mandated-backdoors-into-americans-cellphones-and-computers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "sethbannon",
+    "descendants": 62,
+    "time": 1417727833
   }
 ]

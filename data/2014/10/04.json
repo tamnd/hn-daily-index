@@ -4,99 +4,99 @@
     "id": 8405443,
     "title": "Show HN: JuliusJS \u2013 Speech recognition in JavaScript",
     "url": "https://github.com/zzmp/juliusjs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "zzmp",
+    "descendants": 52,
+    "time": 1412343357
   },
   {
     "rank": 2,
     "id": 8405458,
     "title": "The Magic CmdLine and how I got it back",
     "url": "http://users.softlab.ece.ntua.gr/~ttsiod/bashheimer.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "ttsiodras",
+    "descendants": 76,
+    "time": 1412343552
   },
   {
     "rank": 3,
     "id": 8405769,
     "title": "Why is 0x00400000 the default base address for an executable?",
     "url": "http://blogs.msdn.com/b/oldnewthing/archive/2014/10/03/10562176.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 145,
+    "by": "ingve",
+    "descendants": 13,
+    "time": 1412347998
   },
   {
     "rank": 4,
     "id": 8406161,
     "title": "Mistakes AngularJS Developers Make",
     "url": "http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "davidkellis",
+    "descendants": 73,
+    "time": 1412353133
   },
   {
     "rank": 5,
     "id": 8406384,
     "title": "IRIS+",
     "url": "http://3drobotics.com/iris-plus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "flippyhead",
+    "descendants": 170,
+    "time": 1412355984
   },
   {
     "rank": 6,
     "id": 8406764,
     "title": "Refactoring Ruby with Monads",
     "url": "http://codon.com/refactoring-ruby-with-monads",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 136,
+    "by": "wasd",
+    "descendants": 39,
+    "time": 1412359767
   },
   {
     "rank": 7,
     "id": 8406770,
     "title": "Aboard a Cargo Colossus: Maersk\u2019s New Container Ships",
     "url": "http://www.nytimes.com/2014/10/05/business/international/aboard-a-cargo-colossus-maersks-new-container-ships.html?hp&amp;action=click&amp;pgtype=Homepage&amp;version=HpSumSmallMediaHigh&amp;module=second-column-region&amp;region=top-news&amp;WT.nav=top-news&amp;_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 135,
+    "by": "mhb",
+    "descendants": 97,
+    "time": 1412359806
   },
   {
     "rank": 8,
     "id": 8408394,
     "title": "As Many as 5K .Com\u2019s Taken Away by Sealed Court Order by Verisign",
     "url": "http://www.thedomains.com/2014/10/02/as-many-as-5k-coms-taken-away-by-sealed-court-order-by-verisign-including-some-of-mine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "ESBoston",
+    "descendants": 70,
+    "time": 1412383693
   },
   {
     "rank": 9,
     "id": 8408452,
     "title": "Haskell, Monads and Purity",
     "url": "http://jelv.is/blog/Haskell-Monads-and-Purity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 141,
+    "by": "akerl_",
+    "descendants": 123,
+    "time": 1412385393
   },
   {
     "rank": 10,
     "id": 8409020,
     "title": "Ask HN: How to price yourself?",
     "url": "http://news.ycombinator.com/item?id=8409020",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "gdiocarez",
+    "descendants": 165,
+    "time": 1412408590
   }
 ]

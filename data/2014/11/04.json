@@ -4,99 +4,99 @@
     "id": 8551724,
     "title": "How To Scroll",
     "url": "http://bost.ocks.org/mike/scroll/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "mbostock",
+    "descendants": 75,
+    "time": 1415032949
   },
   {
     "rank": 2,
     "id": 8552487,
     "title": "Why Silicon Valley Works",
     "url": "http://blog.samaltman.com/why-silicon-valley-works",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "philip1209",
+    "descendants": 236,
+    "time": 1415039238
   },
   {
     "rank": 3,
     "id": 8553023,
     "title": "A clock that can detect tiny shifts in the flow of time itself",
     "url": "http://www.npr.org/2014/11/03/361069820/new-clock-may-end-time-as-we-know-it",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "rrauenza",
+    "descendants": 149,
+    "time": 1415044328
   },
   {
     "rank": 4,
     "id": 8553307,
     "title": "Hacker's Guide to Neural Networks",
     "url": "http://karpathy.github.io/neuralnets/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 450,
+    "by": "bernatfp",
+    "descendants": 34,
+    "time": 1415046926
   },
   {
     "rank": 5,
     "id": 8554084,
     "title": "A programming language in 450 lines of JavaScript",
     "url": "http://jsfiddle.net/osfnzyfd/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "breuleux",
+    "descendants": 70,
+    "time": 1415055060
   },
   {
     "rank": 6,
     "id": 8554882,
     "title": "New NSA Documents Shine More Light into Black Box of Executive Order 12333",
     "url": "https://www.aclu.org/blog/national-security/new-nsa-documents-shine-more-light-black-box-executive-order-12333",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "mo",
+    "descendants": 44,
+    "time": 1415068396
   },
   {
     "rank": 7,
     "id": 8555550,
     "title": "Please grow your buffers exponentially",
     "url": "http://blog.mozilla.org/nnethercote/2014/11/04/please-grow-your-buffers-exponentially/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "AndrewDucker",
+    "descendants": 156,
+    "time": 1415088624
   },
   {
     "rank": 8,
     "id": 8555998,
     "title": "The hammer-feather drop in the world\u2019s biggest vacuum chamber [video]",
     "url": "http://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "ColinWright",
+    "descendants": 118,
+    "time": 1415099725
   },
   {
     "rank": 9,
     "id": 8556987,
     "title": "Dropbox is in your Office",
     "url": "https://blog.dropbox.com/2014/11/dropbox-microsoft-office-partnership/?utm_source=twitter&amp;utm_medium=promoted-update&amp;utm_term=English&amp;utm_content=announcement&amp;utm_campaign=microsoft-dropbox-partnership",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "ben336",
+    "descendants": 195,
+    "time": 1415115274
   },
   {
     "rank": 10,
     "id": 8558822,
     "title": "C4 \u2013 C in 4 functions",
     "url": "https://github.com/rswier/c4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "petercooper",
+    "descendants": 138,
+    "time": 1415132398
   }
 ]
