@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 11670162,
+    "title": "Redis Loadable Modules System",
+    "url": "http://www.antirez.com/news/106",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 11671199,
+    "title": "Introducing WhatsApp's Desktop App",
+    "url": "https://blog.whatsapp.com/10000621/Introducing-WhatsApps-desktop-app",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 11671985,
+    "title": "Essential C (2003) [pdf]",
+    "url": "http://cslibrary.stanford.edu/101/EssentialC.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 11672590,
+    "title": "Back door found in Allwinner Linux kernels",
+    "url": "http://www.theregister.co.uk/2016/05/09/allwinners_allloser_custom_kernel_has_a_nasty_root_backdoor/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 11673103,
+    "title": "Introducing unlimited private repositories",
+    "url": "https://github.com/blog/2164-introducing-unlimited-private-repositories",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 11673118,
+    "title": "Electron 1.0 is here",
+    "url": "https://github.com/blog/2167-electron-1-0-is-here",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 11674808,
+    "title": "After reading \u201cRails is yesterday\u2019s software\u201d, I need to reply",
+    "url": "http://www.codethinked.com/it-takes-all-kinds",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 11675299,
+    "title": "Concerns for global spread of Zika mean Rio de Janeiro Olympics must not proceed",
+    "url": "http://harvardpublichealthreview.org/off-the-podium-why-rios-2016-olympic-games-must-not-proceed/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 11677987,
+    "title": "Scala Native",
+    "url": "https://github.com/scala-native/scala-native",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 11678516,
+    "title": "Save Firefox",
+    "url": "https://www.eff.org/deeplinks/2016/04/save-firefox",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

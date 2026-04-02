@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 11620706,
+    "title": "OpenSSL Security Advisory",
+    "url": "https://www.openssl.org/news/secadv/20160503.txt",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 11620890,
+    "title": "Stack Overflow: How We Do Deployment",
+    "url": "http://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 11622039,
+    "title": "Scientists say sudden oak death epidemic is no longer stoppable",
+    "url": "https://www.washingtonpost.com/news/energy-environment/wp/2016/05/02/this-disease-has-killed-a-million-trees-in-california-and-scientists-say-its-basically-unstoppable/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 11625585,
+    "title": "Uvloop: Fast Python networking",
+    "url": "http://magic.io/blog/uvloop-blazing-fast-python-networking/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 11626793,
+    "title": "I wrote a small piece on planned death",
+    "url": "http://hintjens.com/blog:116",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 11626967,
+    "title": "Google: End of the Online Advertising Bubble",
+    "url": "https://kalkis-research.com/google-end-of-the-online-advertising-bubble",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 11627213,
+    "title": "Medical error is third biggest cause of death in the US, experts say",
+    "url": "http://www.theguardian.com/society/2016/may/03/cause-of-death-united-states-medical-error",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 11627965,
+    "title": "New Record Bid Set for World's Cheapest Solar, Undercutting Coal",
+    "url": "http://www.bloomberg.com/news/articles/2016-05-03/solar-developers-undercut-coal-with-another-record-set-in-dubai",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 11628080,
+    "title": "Programming by poking: why MIT stopped teaching SICP",
+    "url": "http://www.posteriorscience.net/?p=206",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 11628511,
+    "title": "Nine years of censorship",
+    "url": "http://www.nature.com/news/nine-years-of-censorship-1.19842",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

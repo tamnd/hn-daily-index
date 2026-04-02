@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 11916620,
+    "title": "PG Casts \u2013 Postgres Screencasts",
+    "url": "https://www.pgcasts.com/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 11917685,
+    "title": "Generative Models",
+    "url": "https://openai.com/blog/generative-models/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 11918741,
+    "title": "Antarctic CO2 Hit 400 PPM for First Time in 4M Years",
+    "url": "http://www.scientificamerican.com/article/antarctic-co2-hit-400-ppm-for-first-time-in-4-million-years/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 11920451,
+    "title": "Migrating a 10,000-line legacy JavaScript codebase to TypeScript",
+    "url": "http://www.pgbovine.net/migrating-legacy-codebase-to-typescript.htm",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 11921208,
+    "title": "Serverless Architectures",
+    "url": "http://martinfowler.com/articles/serverless.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 11921216,
+    "title": "The DAO is currently being attacked, over 2M Ethereum missing so far",
+    "url": "http://etherscan.io/address/0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 11921900,
+    "title": "Critical Update on DAO Vulnerability",
+    "url": "https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 11922299,
+    "title": "The Children's Illustrated Guide to Kubernetes",
+    "url": "https://deis.com/blog/2016/kubernetes-illustrated-guide/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 11922453,
+    "title": "How are zlib, gzip and Zip related? (2013)",
+    "url": "http://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they/20765054#20765054",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 11922740,
+    "title": "Home Depot Files Antitrust Lawsuit Against Visa, MasterCard",
+    "url": "http://www.wsj.com/articles/home-depot-u-s-credit-card-firms-slow-to-upgrade-security-1466000734",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

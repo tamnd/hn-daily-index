@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 12154888,
+    "title": "Linux 4.7 Released",
+    "url": "https://lkml.org/lkml/2016/7/24/151",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 12155273,
+    "title": "The Raspberry Pi Has Revolutionized Emulation",
+    "url": "https://blog.codinghorror.com/the-raspberry-pi-has-revolutionized-emulation/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 12156234,
+    "title": "Don't add your 2 cents",
+    "url": "http://sivers.org/2c",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 12156523,
+    "title": "9th Circuit: It\u2019s a crime to visit a website after being told not to visit it",
+    "url": "https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/07/12/9th-circuit-its-a-federal-crime-to-visit-a-website-after-being-told-not-to-visit-it/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 12157993,
+    "title": "Valve \u2013 Handbook for New Employees (2012) [pdf]",
+    "url": "http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 12158068,
+    "title": "64-bit ARM desktop hardware?",
+    "url": "https://marcin.juszkiewicz.com.pl/2016/07/25/aarch64-desktop-hardware/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 12158191,
+    "title": "Resources for Amateur Compiler Writers",
+    "url": "http://c9x.me/compile/bib/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 12159942,
+    "title": "UK surveillance bill includes powers to limit end-to-end encryption",
+    "url": "https://techcrunch.com/2016/07/15/uk-surveillance-bill-includes-powers-to-limit-end-to-end-encryption/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 12160297,
+    "title": "Introduction to Zipline: A Trading Library for Python",
+    "url": "http://www.quantinsti.com/blog/introduction-zipline-python/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 12160709,
+    "title": "Humans once opposed coffee and refrigeration: why we often hate new stuff",
+    "url": "https://www.washingtonpost.com/news/innovations/wp/2016/07/21/humans-once-opposed-coffee-and-refrigeration-heres-why-we-often-hate-new-stuff/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

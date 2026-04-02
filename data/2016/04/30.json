@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 11595223,
+    "title": "Infosec's Jerk Problem (2013)",
+    "url": "http://adversari.es/blog/2013/06/19/cant-we-all-just-get-along/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 11595398,
+    "title": "Myths about Integer Overflow in Rust",
+    "url": "http://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 11597545,
+    "title": "Google rolls out \u201cIf This Then That\u201d support for its $200 OnHub router",
+    "url": "http://arstechnica.com/gadgets/2016/04/googles-onhub-router-finally-gets-some-smart-home-features-via-ifttt/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 11598033,
+    "title": "GNU LibreJS",
+    "url": "https://www.gnu.org/software/librejs/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 11598245,
+    "title": "ES6, ES7, and beyond",
+    "url": "http://v8project.blogspot.com/2016/04/es6-es7-and-beyond.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 11598284,
+    "title": "Bitcoin's $137k Jackpot",
+    "url": "http://hackingdistributed.com/2016/04/29/bitcoins-137k-jackpot/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 11599599,
+    "title": "You probably don't need a JavaScript framework",
+    "url": "https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 11599632,
+    "title": "Intel's Changing Future: Smartphone SoCs Broxton and SoFIA Officially Cancelled",
+    "url": "http://www.anandtech.com/show/10288/intel-broxton-sofia-smartphone-socs-cancelled",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 11599991,
+    "title": "Ask HN: Can the \u201cWho is Hiring?\u201d post include a bit about the interview process?",
+    "url": "https://news.ycombinator.com/item?id=11599991",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 11601763,
+    "title": "Neural Networks Are Impressively Good at Compression",
+    "url": "https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

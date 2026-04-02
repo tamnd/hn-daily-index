@@ -2,6 +2,18 @@
 
 Top 10 Hacker News stories for each day in April 2016.
 
+- [2016-04-30 (Saturday)](#2016-04-30)
+- [2016-04-29 (Friday)](#2016-04-29)
+- [2016-04-28 (Thursday)](#2016-04-28)
+- [2016-04-27 (Wednesday)](#2016-04-27)
+- [2016-04-26 (Tuesday)](#2016-04-26)
+- [2016-04-25 (Monday)](#2016-04-25)
+- [2016-04-24 (Sunday)](#2016-04-24)
+- [2016-04-23 (Saturday)](#2016-04-23)
+- [2016-04-22 (Friday)](#2016-04-22)
+- [2016-04-21 (Thursday)](#2016-04-21)
+- [2016-04-20 (Wednesday)](#2016-04-20)
+- [2016-04-19 (Tuesday)](#2016-04-19)
 - [2016-04-18 (Monday)](#2016-04-18)
 - [2016-04-17 (Sunday)](#2016-04-17)
 - [2016-04-16 (Saturday)](#2016-04-16)
@@ -22,6 +34,186 @@ Top 10 Hacker News stories for each day in April 2016.
 - [2016-04-01 (Friday)](#2016-04-01)
 
 ---
+
+## 2016-04-30
+
+*Saturday*
+
+1. [Infosec's Jerk Problem (2013)](http://adversari.es/blog/2013/06/19/cant-we-all-just-get-along/) (adversari.es) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11595223)
+2. [Myths about Integer Overflow in Rust](http://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/) (huonw.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11595398)
+3. [Google rolls out “If This Then That” support for its $200 OnHub router](http://arstechnica.com/gadgets/2016/04/googles-onhub-router-finally-gets-some-smart-home-features-via-ifttt/) (arstechnica.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11597545)
+4. [GNU LibreJS](https://www.gnu.org/software/librejs/) (gnu.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11598033)
+5. [ES6, ES7, and beyond](http://v8project.blogspot.com/2016/04/es6-es7-and-beyond.html) (v8project.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11598245)
+6. [Bitcoin's $137k Jackpot](http://hackingdistributed.com/2016/04/29/bitcoins-137k-jackpot/) (hackingdistributed.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11598284)
+7. [You probably don't need a JavaScript framework](https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da) (slack-files.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11599599)
+8. [Intel's Changing Future: Smartphone SoCs Broxton and SoFIA Officially Cancelled](http://www.anandtech.com/show/10288/intel-broxton-sofia-smartphone-socs-cancelled) (anandtech.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11599632)
+9. [Ask HN: Can the “Who is Hiring?” post include a bit about the interview process?](https://news.ycombinator.com/item?id=11599991) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11599991)
+10. [Neural Networks Are Impressively Good at Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/) (probablydance.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11601763)
+
+## 2016-04-29
+
+*Friday*
+
+1. [On the (Small) Number of Atoms in the Universe](http://norvig.com/atoms.html) (norvig.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11588918)
+2. [ACM 2015 Technical Award Recipients](http://www.acm.org/awards/2015-technical-awards) (acm.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11591815)
+3. [Teen birth rate hits all-time low, led by 50% decline among Hispanics and blacks](https://www.washingtonpost.com/news/to-your-health/wp/2016/04/28/teen-birth-rate-hits-all-time-low-led-by-50-percent-decline-among-hispanics-and-blacks/?hpid=hp_hp-top-table-main_teen-births-115pm%3Ahomepage%2Fstory) (washingtonpost.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11592130)
+4. [SpaceX undercut ULA rocket launch pricing by 40 percent: U.S. Air Force](http://www.reuters.com/article/us-space-spacex-launch-ula-idUSKCN0XP2T2) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11592738)
+5. [Who's downloading pirated papers? Everyone](http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone) (sciencemag.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11593532)
+6. [Hello Lua](http://haxe.org/blog/hello-lua) (haxe.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11593550)
+7. [Infinit announces Project Dropboxe](http://blog.infinit.one/infinit-announces-project-dropboxe/) (blog.infinit.one) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11594816)
+8. [Unmasking the Men Behind Zero Hedge](http://www.bloomberg.com/news/articles/2016-04-29/unmasking-the-men-behind-zero-hedge-wall-street-s-renegade-blog) (bloomberg.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11595084)
+9. [Why you shouldn't exercise to lose weight](http://www.vox.com/2016/4/28/11518804/weight-loss-exercise-myth-burn-calories?utm_source=pocket&utm_medium=email&utm_campaign=pockethits) (vox.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11595967)
+10. [DeepMind moves to TensorFlow](http://googleresearch.blogspot.com/2016/04/deepmind-moves-to-tensorflow.html) (googleresearch.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11596574)
+
+## 2016-04-28
+
+*Thursday*
+
+1. [OpenAI Gym: Toolkit for developing, comparing reinforcement learning algorithms](https://gym.openai.com/) (gym.openai.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11582345)
+2. [Never trust the client](http://gafferongames.com/2016/04/25/never-trust-the-client/) (gafferongames.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11583008)
+3. [CV of Failures [pdf]](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf) (princeton.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11583900)
+4. [Note from Mark Zuckerberg](http://newsroom.fb.com/news/2016/04/marknote/) (newsroom.fb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11584143)
+5. [Email privacy bill unanimously passes U.S. House](http://www.reuters.com/article/us-usa-congress-email-idUSKCN0XO1J7) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11585156)
+6. [Rube Goldberg machine in HTML forms](http://sebastianlyserena.dk/) (sebastianlyserena.dk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11585662)
+7. [Who Was Ramanujan?](https://backchannel.com/who-was-ramanujan-83b4d5b05665?source=linkShare-1b4595cbd64d-1461823459) (backchannel.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11586812)
+8. [Show HN: Jam API, turn any site into a JSON api using CSS selectors](http://www.jamapi.xyz/) (jamapi.xyz) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11587468)
+9. [Steam now accepts Bitcoin for purchases](https://blog.bitpay.com/load-your-steam-wallet-using-bitcoin/) (blog.bitpay.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11587778)
+10. [Atari co-founder: mobile games make me want to throw my phone](https://www.theguardian.com/technology/2016/apr/28/atari-co-founder-nolan-bushnell-mobile-games-make-me-want-to-throw-my-phone) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11588772)
+
+## 2016-04-27
+
+*Wednesday*
+
+1. [Elixir RAM and the Template of Doom](http://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html) (evanmiller.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11571756)
+2. [‘Laws’ of Software Development](http://www.exceptionnotfound.net/fundamental-laws-of-software-development/) (exceptionnotfound.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11574715)
+3. [Have Software Developers Given Up?](http://blog.dantup.com/2016/04/have-software-developers-given-up/) (blog.dantup.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11575155)
+4. [iPhone Sales Drop, and Apple’s 13-Year Surge Ebbs](http://www.nytimes.com/2016/04/27/technology/apple-q2-earnings-iphone.html) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11575497)
+5. [WebKit is moving away from prefixes](https://webkit.org/blog/6131/updating-our-prefixing-policy/) (webkit.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11576700)
+6. [The FBI faked an entire field of forensic science (2015)](http://www.slate.com/articles/news_and_politics/jurisprudence/2015/04/fbi_s_flawed_forensics_expert_testimony_hair_analysis_bite_marks_fingerprints.html) (slate.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11578240)
+7. [Compiling an application for use in highly radio-active environments](http://stackoverflow.com/q/36827659/563941) (stackoverflow.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11579428)
+8. [Xamarin Open-Sourced](http://open.xamarin.com/) (open.xamarin.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11580217)
+9. [Introducing MIR](http://blog.rust-lang.org/2016/04/19/MIR.html) (blog.rust-lang.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11581681)
+10. [SpaceX plans to debut Red Dragon with 2018 Mars mission](https://www.nasaspaceflight.com/2016/04/spacex-debut-red-dragon-2018-mars-mission/) (nasaspaceflight.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11582605)
+
+## 2016-04-26
+
+*Tuesday*
+
+1. [Do not talk about pricing](https://medium.com/fluxx-studio-notes/the-first-rule-of-pricing-is-you-do-not-talk-about-pricing-1875caa39b89#.de5evml08) (medium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11563378)
+2. [Uncanny Valley](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/) (nplusonemag.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11565691)
+3. [BYOT: Bring your own team](https://stripe.com/blog/bring-your-own-team) (stripe.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11567135)
+4. [The driverless truck is coming, and it’s going to automate millions of jobs](http://techcrunch.com/2016/04/25/the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11568699)
+5. [The Al-Qaeda Leader Who Wasn’t: The Shameful Ordeal of Abu Zubaydah](http://www.tomdispatch.com/post/176132/tomgram%3A_rebecca_gordon%2C_exhibit_one_in_any_future_american_war_crimes_trial/) (tomdispatch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11569657)
+6. [Being a Developer After 40](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c) (medium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11569726)
+7. [Dropbox Project Infinite](https://blogs.dropbox.com/business/2016/04/announcing-project-infinite/) (blogs.dropbox.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11570888)
+8. [Mosh: the mobile shell](https://mosh.mit.edu/) (mosh.mit.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11572146)
+9. [Chez Scheme is now free](https://github.com/cisco/ChezScheme) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11572516)
+10. [Node.js v6.0 Released](https://nodejs.org/en/blog/announcements/v6-release/?release) (nodejs.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11574705)
+
+## 2016-04-25
+
+*Monday*
+
+1. [An integer formula for Fibonacci numbers](http://paulhankin.github.io/Fibonacci/) (paulhankin.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11560122)
+2. [Personal info of 93M Mexicans exposed on AWS](http://www.databreaches.net/personal-info-of-93-4-million-mexicans-exposed-on-amazon/) (databreaches.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11561331)
+3. [/dev/random – a new approach](http://lwn.net/Articles/684568/) (lwn.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11561340)
+4. [How Kalman Filters Work](http://www.anuncommonlab.com/articles/how-kalman-filters-work/) (anuncommonlab.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11561770)
+5. [Dark Patterns by the Boston Globe](https://rationalconspiracy.com/2016/04/24/dark-patterns-by-the-boston-globe/) (rationalconspiracy.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11562414)
+6. [Half Your Brain Stands Guard When Sleeping in a New Place](http://www.npr.org/sections/health-shots/2016/04/21/474691141/half-your-brain-stands-guard-when-sleeping-in-a-new-place) (npr.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11563092)
+7. [Chart.js 2.0 Released](http://www.chartjs.org/) (chartjs.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11563714)
+8. [Dropbox as a Git Server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/) (anishathalye.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11564712)
+9. [Gentoo Tesla – T2 Edition](http://www.su-tesla.space/2016/04/gentoo-tesla-t2-edition.html) (su-tesla.space) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11565911)
+10. [Homebrew now sends usage information to Google Analytics](https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Analytics.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11566720)
+
+## 2016-04-24
+
+*Sunday*
+
+1. [Iranians Are Using Satellite TV to Beam in Banned Internet](http://www.wired.com/2016/04/ingenious-way-iranians-using-satellite-tv-beam-banned-data/) (wired.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11552423)
+2. [Aphantasia: How It Feels to Be Blind in Your Mind](https://www.facebook.com/notes/blake-ross/aphantasia-how-it-feels-to-be-blind-in-your-mind/10156834777480504) (facebook.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11554894)
+3. [Interview with Scott Aaronson](http://blogs.scientificamerican.com/cross-check/scott-aaronson-answers-every-ridiculously-big-question-i-throw-at-him/) (blogs.scientificamerican.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11555306)
+4. [Show HN: QBE – a new compiler back end](http://c9x.me/compile/) (c9x.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11555527)
+5. [Reversing the Petya ransomware with constraint solvers](http://0xec.blogspot.com/2016/04/reversing-petya-ransomware-with.html) (0xec.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11556088)
+6. [The impact of Prince’s death on Wikipedia](https://blog.wikimedia.org/2016/04/22/prince-death-wikipedia/) (blog.wikimedia.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11556873)
+7. [Bots won't replace apps, only better apps will replace apps](http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html) (dangrover.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11557166)
+8. [For What It’s Worth: A Review of Wu-Tang Clan’s “Once Upon a Time in Shaolin”](http://www.dancohen.org/2016/01/04/for-what-its-worth-a-review-of-the-wu-tang-clans-once-upon-a-time-in-shaolin/) (dancohen.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11558086)
+9. [Telomere lengthening via gene therapy in a human individual](http://www.neuroscientistnews.com/research-news/first-gene-therapy-successful-against-human-aging) (neuroscientistnews.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11559684)
+10. [The Science of Making Friends](http://www.wsj.com/articles/the-science-of-making-friends-1460992572) (wsj.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11560147)
+
+## 2016-04-23
+
+*Saturday*
+
+1. [The Arctic Suicides: It's Not the Dark That Kills You](http://www.npr.org/sections/goatsandsoda/2016/04/21/474847921/the-arctic-suicides-its-not-the-dark-that-kills-you) (npr.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11547900)
+2. [U.S. Suicide Rate Surges to a 30-Year High](http://www.nytimes.com/2016/04/22/health/us-suicide-rate-surges-to-a-30-year-high.html) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11550275)
+3. [Glot.io: Open Source pastebin with runnable snippets and API](https://glot.io/) (glot.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11550380)
+4. [Concerned about veteran with PTSD, judge serves time with him](http://www.abajournal.com/news/article/concerned_about_veteran_with_ptsd_judge_orders_him_to_jail_and_serves_the_t) (abajournal.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11550545)
+5. [The Looting of ShapeShift](https://news.bitcoin.com/looting-fox-sabotage-shapeshift/) (news.bitcoin.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11550765)
+6. [Edward Snowden: The Internet Is Broken](http://www.popsci.com/edward-snowden-internet-is-broken) (popsci.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11550913)
+7. [Secret Court Takes Another Bite Out of the Fourth Amendment](https://www.eff.org/deeplinks/2016/04/secret-court-takes-another-bite-out-fourth-amendment) (eff.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11551432)
+8. [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/?target=_blank) (mathiasbynens.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11553740)
+9. [When to Rewrite from Scratch – Autopsy of Failed Software](http://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/) (codeahoy.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11553813)
+10. [AMD stock up 52%](http://www.nasdaq.com/symbol/amd) (nasdaq.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11554492)
+
+## 2016-04-22
+
+*Friday*
+
+1. [Eyes Everywhere: Encryption programmer Paul Le Roux and his commando kill squad](https://mastermind.atavist.com/eyes-everywhere) (mastermind.atavist.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11541971)
+2. [Jarvis: an Amazon Echo clone in your browser](https://iceddev.com/blog/jarvis-an-amazon-echo-clone-in-your-browser/) (iceddev.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11543258)
+3. [Why the S.E.C. didn't hit Goldman Sachs harder](http://www.newyorker.com/business/currency/why-the-s-e-c-didnt-hit-goldman-sachs-harder) (newyorker.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11544016)
+4. [FBI Paid More Than $1M to Hack San Bernardino iPhone](http://www.wsj.com/articles/comey-fbi-paid-more-than-1-million-to-hack-san-bernardino-iphone-1461266641) (wsj.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11544988)
+5. [Amazon open-sources Ion – a binary and text interchangable, typed JSON-superset](https://github.com/amznlabs/ion-java) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11546098)
+6. [A Protocol for Dying](http://hintjens.com/blog:115) (hintjens.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11547212)
+7. [Boaty McBoatface and the False Promise of Democracy](http://www.theatlantic.com/international/archive/2016/04/boaty-mcboatface-britain-democracy/479088/?single_page=true) (theatlantic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11547410)
+8. [The average size of Web pages is now the average size of a Doom install](https://mobiforge.com/research-analysis/the-web-is-doom) (mobiforge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11548816)
+9. [1M People Use Facebook Over Tor](https://www.facebook.com/notes/facebook-over-tor/1-million-people-use-facebook-over-tor/865624066877648) (facebook.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11549839)
+10. [San Francisco Is Requiring Solar Panels on All New Buildings](https://nextcity.org/daily/entry/san-francisco-require-solar-panels-buildings) (nextcity.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11550305)
+
+## 2016-04-21
+
+*Thursday*
+
+1. [Off the Grid](http://www.stephenfry.com/2016/04/off-the-grid/) (stephenfry.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11533528)
+2. [Deadly animal prion disease appears in Europe](http://www.nature.com/news/deadly-animal-prion-disease-appears-in-europe-1.19759) (nature.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11533846)
+3. [Got a Hot Seller on Amazon? Prepare for Amazon to Make One Too](http://www.bloomberg.com/news/articles/2016-04-20/got-a-hot-seller-on-amazon-prepare-for-e-tailer-to-make-one-too) (bloomberg.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11533973)
+4. [Curious Link Between the Fly-By Anomaly and the “Impossible” EmDrive Thruster](https://www.technologyreview.com/s/601299/the-curious-link-between-the-fly-by-anomaly-and-the-impossible-emdrive-thruster/) (technologyreview.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11536758)
+5. [Arduino in the size of a AA battery](http://techcrunch.com/2016/04/19/aaduino/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11538042)
+6. [How I Hacked Facebook and Found Someone's Backdoor Script](http://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script-eng-ver/) (devco.re) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11540747)
+7. [Ubuntu 16.04 (Xenial Xerus)](http://releases.ubuntu.com/xenial/) (releases.ubuntu.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11541017)
+8. [BootStrap 4 cheatsheet](http://hackerthemes.com/bootstrap-cheatsheet#dropdown) (hackerthemes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11541992)
+9. [Show HN: I made an interactive Bootstrap 4 cheat sheet](http://hackerthemes.com/bootstrap-cheatsheet) (hackerthemes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11542005)
+10. [Drone believed to have hit British Airways flight 'may have been a plastic bag'](http://www.telegraph.co.uk/news/2016/04/21/drone-believed-to-have-hit-british-airways-flight-may-have-been/) (telegraph.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11543083)
+
+## 2016-04-20
+
+*Wednesday*
+
+1. [AP: South Korea covered up mass abuse, killings of 'vagrants'](http://bigstory.ap.org/urn:publicid:ap.org:c22de3a565fe4e85a0508bbbd72c3c1b) (bigstory.ap.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11528051)
+2. [GitLab Partners with DigitalOcean to make CI more affordable](https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/) (about.gitlab.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11529245)
+3. [Curing Our Slack Addiction](https://blog.agilebits.com/2016/04/19/curing-our-slack-addiction/) (blog.agilebits.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11529277)
+4. [What convolutional neural networks look at when they see nudity](http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity/) (blog.clarifai.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11530304)
+5. [Git Tips](http://www.alexkras.com/19-git-tips-for-everyday-use/) (alexkras.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11532281)
+6. [Detecting the use of “curl – bash” server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/) (idontplaydarts.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11532599)
+7. [Open Source Project – View 689 Salaries Posted on Hacker News, Share Yours](https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/) (blog.step.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11534310)
+8. [Let's Kill All the Mosquitoes](http://www.slate.com/articles/health_and_science/science/2016/01/zika_carrying_mosquitoes_are_a_global_scourge_and_must_be_stopped.html) (slate.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11536074)
+9. [Canada to introduce legislation to legalize recreational cannabis](http://www.theguardian.com/world/2016/apr/20/canada-legislation-decriminalize-recreational-cannabis-weed-marijuana) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11536492)
+10. [Almost Nothing About the ‘Apple Harvests Gold from iPhones’ Story Is True](http://motherboard.vice.com/read/apple-does-not-melt-iphones-into-gold) (motherboard.vice.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11536543)
+
+## 2016-04-19
+
+*Tuesday*
+
+1. [Silicon Valley’s Legendary ‘Coach’ Bill Campbell Has Died](http://recode.net/2016/04/18/silicon-valleys-legendary-coach-bill-campbell-has-died/) (recode.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11521079)
+2. [Thermal camera footage allegedly shows pro cyclists using motors](http://fittish.deadspin.com/secret-thermal-camera-footage-allegedly-shows-seven-pro-1771492666) (fittish.deadspin.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11521113)
+3. [Nuklear: A small ANSI C GUI toolkit](https://github.com/vurtun/nuklear) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11522452)
+4. [Google CDN Beta is already one of the fastest CDNs](http://blog.speedchecker.xyz/2016/04/18/google-cdn-beta-is-here-and-it-brings-more-than-meets-the-eye/) (blog.speedchecker.xyz) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11523151)
+5. [Theranos Is Subject of Criminal Probe by U.S](http://www.wsj.com/articles/theranos-is-subject-of-criminal-probe-by-u-s-1461019055) (wsj.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11523644)
+6. [Solar now cheaper than coal in India -energy minister:“reality is changing fast”](http://www.climatechangenews.com/2016/04/18/solar-is-now-cheaper-than-coal-says-india-energy-minister/) (climatechangenews.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11524918)
+7. [Google.com partially dangerous](https://www.google.com/transparencyreport/safebrowsing/diagnostic/index.html?hl=en-US#url=google.com) (google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11525514)
+8. [Lesser-Known Python Data Analysis Libraries](http://jyotiska.github.io/blog/posts/python_libraries.html) (jyotiska.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11526563)
+9. [Clojure, the Good Parts](https://rasterize.io/blog/clojure-the-good-parts.html) (rasterize.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11528177)
+10. [Intel cutting 11% of workforce](http://www.bloomberg.com/news/articles/2016-04-19/intel-to-cutting-up-to-12-000-jobs-or-11-of-employees) (bloomberg.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=11529855)
 
 ## 2016-04-18
 
