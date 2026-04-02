@@ -4,99 +4,99 @@
     "id": 39649732,
     "title": "1brc merykitty's magic SWAR: 8 lines of code explained in 3k words",
     "url": "https://questdb.io/blog/1brc-merykittys-magic-swar/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "signa11",
+    "descendants": 83,
+    "time": 1709963861
   },
   {
     "rank": 2,
     "id": 39651710,
     "title": "4D Knit Dress",
     "url": "https://selfassemblylab.mit.edu/4d-knit-dress",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "geox",
+    "descendants": 80,
+    "time": 1709993959
   },
   {
     "rank": 3,
     "id": 39651926,
     "title": "An all-optical general-purpose CPU and optical computer architecture",
     "url": "https://arxiv.org/abs/2403.00045",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "PaulHoule",
+    "descendants": 103,
+    "time": 1709995793
   },
   {
     "rank": 4,
     "id": 39653431,
     "title": "Bypassing Safari 17's advanced audio fingerprinting protection",
     "url": "https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "valventin",
+    "descendants": 236,
+    "time": 1710006863
   },
   {
     "rank": 5,
     "id": 39653517,
     "title": "What Monks Know about Focus",
     "url": "https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "ingve",
+    "descendants": 81,
+    "time": 1710007326
   },
   {
     "rank": 6,
     "id": 39656455,
     "title": "U.S. is said to open criminal inquiry into Boeing",
     "url": "https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 639,
+    "by": "carabiner",
+    "descendants": 544,
+    "time": 1710040547
   },
   {
     "rank": 7,
     "id": 39656657,
     "title": "S3 is files, but not a filesystem",
     "url": "https://calpaterson.com/s3.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "todsacerdoti",
+    "descendants": 430,
+    "time": 1710043886
   },
   {
     "rank": 8,
     "id": 39657675,
     "title": "Numbers every programmer should know",
     "url": "https://samwho.dev/numbers/?fo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "iamwil",
+    "descendants": 128,
+    "time": 1710060525
   },
   {
     "rank": 9,
     "id": 39658787,
     "title": "Tenstorrent unveils Grayskull, its RISC-V answer to GPUs",
     "url": "https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "Brajeshwar",
+    "descendants": 126,
+    "time": 1710076503
   },
   {
     "rank": 10,
     "id": 39660592,
     "title": "DBeaver \u2013 open-source database client",
     "url": "https://github.com/dbeaver/dbeaver",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "saikatsg",
+    "descendants": 155,
+    "time": 1710089541
   }
 ]

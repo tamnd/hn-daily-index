@@ -4,99 +4,99 @@
     "id": 39384731,
     "title": "Every default macOS wallpaper",
     "url": "https://512pixels.net/projects/default-mac-wallpapers-in-5k/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 538,
+    "by": "jorgesborges",
+    "descendants": 176,
+    "time": 1708014579
   },
   {
     "rank": 2,
     "id": 39385228,
     "title": "Three virtues of a great programmer",
     "url": "https://thethreevirtues.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "tosh",
+    "descendants": 137,
+    "time": 1708017015
   },
   {
     "rank": 3,
     "id": 39387850,
     "title": "Building an LLM from Scratch: Automatic Differentiation (2023)",
     "url": "https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "netwrt",
+    "descendants": 17,
+    "time": 1708027312
   },
   {
     "rank": 4,
     "id": 39390965,
     "title": "Happy Birthday Lemmings",
     "url": "https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "Timothee",
+    "descendants": 140,
+    "time": 1708040934
   },
   {
     "rank": 5,
     "id": 39391458,
     "title": "Video generation models as world simulators",
     "url": "https://openai.com/research/video-generation-models-as-world-simulators",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "linksbro",
+    "descendants": 168,
+    "time": 1708043900
   },
   {
     "rank": 6,
     "id": 39391688,
     "title": "Magika: AI powered fast and efficient file type identification",
     "url": "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 695,
+    "by": "alphabetting",
+    "descendants": 251,
+    "time": 1708045356
   },
   {
     "rank": 7,
     "id": 39392881,
     "title": "Think Python, 3rd Edition",
     "url": "https://allendowney.github.io/ThinkPython/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 553,
+    "by": "beefman",
+    "descendants": 125,
+    "time": 1708054340
   },
   {
     "rank": 8,
     "id": 39394060,
     "title": "Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page",
     "url": "https://kagi.com/changelog#3179",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "goplayoutside",
+    "descendants": 220,
+    "time": 1708066744
   },
   {
     "rank": 9,
     "id": 39395631,
     "title": "Alexei Navalny has died",
     "url": "https://www.reuters.com/world/europe/jailed-russian-opposition-leader-navalny-dead-prison-service-2024-02-16/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1641,
+    "by": "0xdeafbeef",
+    "descendants": 1541,
+    "time": 1708083261
   },
   {
     "rank": 10,
     "id": 39398009,
     "title": "My sixth year as a bootstrapped founder",
     "url": "https://mtlynch.io/solo-developer-year-6/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1071,
+    "by": "mtlynch",
+    "descendants": 321,
+    "time": 1708096035
   }
 ]

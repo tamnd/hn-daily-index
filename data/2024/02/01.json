@@ -4,99 +4,99 @@
     "id": 39204918,
     "title": "The Far Side \u2013 By Gary Larson",
     "url": "https://www.thefarside.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "keepamovin",
+    "descendants": 153,
+    "time": 1706714826
   },
   {
     "rank": 2,
     "id": 39206529,
     "title": "Sega AI",
     "url": "https://www.smspower.org/SegaAI/Index",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "bpierre",
+    "descendants": 55,
+    "time": 1706721768
   },
   {
     "rank": 3,
     "id": 39208673,
     "title": "I moved my blog from IPFS to a server",
     "url": "https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "neiman",
+    "descendants": 166,
+    "time": 1706731622
   },
   {
     "rank": 4,
     "id": 39210458,
     "title": "MobileDiffusion: Rapid text-to-image generation on-device",
     "url": "https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "jasondavies",
+    "descendants": 62,
+    "time": 1706740969
   },
   {
     "rank": 5,
     "id": 39210507,
     "title": "Making a PDF that's larger than Germany",
     "url": "https://alexwlchan.net/2024/big-pdf/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 712,
+    "by": "alexwlchan",
+    "descendants": 149,
+    "time": 1706741267
   },
   {
     "rank": 6,
     "id": 39214743,
     "title": "Show HN: filippo.io/mlkem768 \u2013 Post-Quantum Cryptography for the Go Ecosystem",
     "url": "https://words.filippo.io/dispatches/mlkem768/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "FiloSottile",
+    "descendants": 97,
+    "time": 1706785858
   },
   {
     "rank": 7,
     "id": 39215846,
     "title": "Damn Small Linux 2024",
     "url": "https://www.damnsmalllinux.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "abbbi",
+    "descendants": 179,
+    "time": 1706795268
   },
   {
     "rank": 8,
     "id": 39217149,
     "title": "My favourite Git commit (2019)",
     "url": "https://dhwthompson.com/2019/my-favourite-git-commit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 714,
+    "by": "karagenit",
+    "descendants": 398,
+    "time": 1706802375
   },
   {
     "rank": 9,
     "id": 39217310,
     "title": "Ask HN: Who is hiring? (February 2024)",
     "url": "https://news.ycombinator.com/item?id=39217310",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "whoishiring",
+    "descendants": 537,
+    "time": 1706803208
   },
   {
     "rank": 10,
     "id": 39220528,
     "title": "Thanksgiving 2023 security incident",
     "url": "https://blog.cloudflare.com/thanksgiving-2023-security-incident",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 643,
+    "by": "nomaxx117",
+    "descendants": 322,
+    "time": 1706817564
   }
 ]

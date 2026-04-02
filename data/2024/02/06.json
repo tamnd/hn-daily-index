@@ -4,99 +4,99 @@
     "id": 39261486,
     "title": "Show HN: Natural-SQL-7B, a strong text-to-SQL model",
     "url": "https://github.com/cfahlgren1/natural-sql",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "thecalebf",
+    "descendants": 168,
+    "time": 1707142956
   },
   {
     "rank": 2,
     "id": 39262650,
     "title": "Weaveworks is shutting down",
     "url": "https://www.linkedin.com/posts/richardsonalexis_hi-everyone-i-am-very-sad-to-announce-activity-7160295096825860096-ZS67",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "candiddevmike",
+    "descendants": 252,
+    "time": 1707149210
   },
   {
     "rank": 3,
     "id": 39269327,
     "title": "Companies embracing SMS for account logins should be blamed for SIM-swap attacks",
     "url": "https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "spenvo",
+    "descendants": 321,
+    "time": 1707180517
   },
   {
     "rank": 4,
     "id": 39269949,
     "title": "Mozilla's abandoned web engine 'Servo' project is getting a reboot",
     "url": "https://news.itsfoss.com/servo-rust-web-engine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "worez",
+    "descendants": 135,
+    "time": 1707185686
   },
   {
     "rank": 5,
     "id": 39273932,
     "title": "Command line interface guidelines (2021)",
     "url": "https://clig.dev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "petercooper",
+    "descendants": 201,
+    "time": 1707225934
   },
   {
     "rank": 6,
     "id": 39273954,
     "title": "PostgreSQL is enough",
     "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "cpursley",
+    "descendants": 316,
+    "time": 1707226107
   },
   {
     "rank": 7,
     "id": 39274882,
     "title": "Bluesky signups are now open to the public",
     "url": "https://bsky.social/about/blog/02-06-2024-join-bluesky",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "jakebsky",
+    "descendants": 273,
+    "time": 1707231688
   },
   {
     "rank": 8,
     "id": 39274918,
     "title": "Better Call GPT: Comparing large language models against lawyers [pdf]",
     "url": "https://arxiv.org/abs/2401.16212",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "vinnyglennon",
+    "descendants": 264,
+    "time": 1707231879
   },
   {
     "rank": 9,
     "id": 39277767,
     "title": "\\\"Fake Chinese income\\\" mortgages fuel Toronto real estate bubble: HSBC bank leaks",
     "url": "https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "eswat",
+    "descendants": 395,
+    "time": 1707241951
   },
   {
     "rank": 10,
     "id": 39278631,
     "title": "The world is awful. The world is much better. The world can be much better",
     "url": "https://ourworldindata.org/much-better-awful-can-be-better",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "colonCapitalDee",
+    "descendants": 335,
+    "time": 1707245185
   }
 ]
