@@ -2,6 +2,8 @@
 
 Top 10 Hacker News stories for each day in January 2021.
 
+- [2021-01-31 (Sunday)](#2021-01-31)
+- [2021-01-30 (Saturday)](#2021-01-30)
 - [2021-01-29 (Friday)](#2021-01-29)
 - [2021-01-28 (Thursday)](#2021-01-28)
 - [2021-01-27 (Wednesday)](#2021-01-27)
@@ -33,6 +35,36 @@ Top 10 Hacker News stories for each day in January 2021.
 - [2021-01-01 (Friday)](#2021-01-01)
 
 ---
+
+## 2021-01-31
+
+*Sunday*
+
+1. [Personal experiences bridge moral and political divides better than facts](https://www.pnas.org/content/118/6/e2008389118) (pnas.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25963589)
+2. [Offline Algorithms in Low-Frequency Trading](https://queue.acm.org/detail.cfm?id=3448307) (queue.acm.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25968348)
+3. [Regular afternoon naps linked to improved cognitive function](https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/) (sciencefocus.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25972342)
+4. [Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/) (simplecto.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25973242)
+5. [My 90s TV: Browse 90s Television](https://my90stv.com) (my90stv.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25973955)
+6. [CDC website built by Deloitte at a cost of $44M is abandoned due to bugs](https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/) (technologyreview.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25975110)
+7. [How to Turn an IKEA Coffee Table into a DIY Server Rack](https://wiki.eth0.nl/index.php/LackRack) (wiki.eth0.nl) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25978013)
+8. [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) (writing.kemitchell.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25979584)
+9. [Why Robinhood disabled buys but not sells](https://stu2b50.dev/posts/why-robinhood-d3580b) (stu2b50.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25979673)
+10. [GitHub Should Start an App Store](https://www.ankshilp.com/time_for_github_app_store/) (ankshilp.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25979774)
+
+## 2021-01-30
+
+*Saturday*
+
+1. [PyO3: Rust Bindings for the Python Interpreter](https://github.com/PyO3/pyo3) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25956502)
+2. [Uniwidth Typefaces for Interface Design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7) (uxdesign.cc) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25956652)
+3. [Achieving 11M IOPS and 66 GB/S IO on a Single ThreadRipper Workstation](https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/) (tanelpoder.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25956670)
+4. [Pony – High-Performance Safe Actor Programming](https://www.ponylang.io/discover/) (ponylang.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25957307)
+5. [u/DeepFuckingValue and the GameStop Reddit mania](https://www.wsj.com/articles/keith-gill-drove-the-gamestop-reddit-mania-he-talked-to-the-journal-11611931696) (wsj.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25957923)
+6. [Robinhood denies claims that it sold GameStop shares out from under its traders](https://www.theverge.com/2021/1/28/22254857/robinhood-gamestop-amc-shares-sold-surprised-users) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25958639)
+7. [Can you make a basic web app without Googling? I can’t](https://web.eecs.utk.edu/~azh/blog/webappwithoutgoogling.html) (web.eecs.utk.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25961420)
+8. [Element (Matrix chat app) suspended from the Google Play Store](https://twitter.com/element_hq/status/1355290296947499013) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25964226)
+9. [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites (2019)](https://webtransparency.cs.princeton.edu/dark-patterns/) (webtransparency.cs.princeton.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25968531)
+10. [Website Fingerprinting on Early QUIC Traffic](https://arxiv.org/abs/2101.11871) (arxiv.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25969886)
 
 ## 2021-01-29
 

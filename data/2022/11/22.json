@@ -4,99 +4,99 @@
     "id": 33692661,
     "title": "Betting on things that never change (2017)",
     "url": "https://collabfund.com/blog/betting-on-things-that-never-change/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "Brajeshwar",
+    "descendants": 114,
+    "time": 1669040053
   },
   {
     "rank": 2,
     "id": 33692947,
     "title": "The genius of binary space partitioning in Doom (2019)",
     "url": "https://twobithistory.org/2019/11/06/doom-bsp.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "lispybanana",
+    "descendants": 159,
+    "time": 1669041557
   },
   {
     "rank": 3,
     "id": 33698094,
     "title": "Is wine fake?",
     "url": "https://asteriskmag.com/issues/1/is-wine-fake",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 514,
+    "by": "ctoth",
+    "descendants": 542,
+    "time": 1669065657
   },
   {
     "rank": 4,
     "id": 33701371,
     "title": "Why Twitter didn\u2019t go down: From a real Twitter SRE",
     "url": "https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1009,
+    "by": "mtejo",
+    "descendants": 1351,
+    "time": 1669087220
   },
   {
     "rank": 5,
     "id": 33704254,
     "title": "D2, a diagram scripting language that turns text to diagrams, is now open source",
     "url": "https://github.com/terrastruct/d2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 629,
+    "by": "alixanderwang",
+    "descendants": 155,
+    "time": 1669113431
   },
   {
     "rank": 6,
     "id": 33704297,
     "title": "Extremely Linear Git History",
     "url": "https://westling.dev/b/extremely-linear-git",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "zegl",
+    "descendants": 358,
+    "time": 1669113810
   },
   {
     "rank": 7,
     "id": 33706117,
     "title": "Improving Firefox stability on Windows by retrying failed memory allocation",
     "url": "https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "TangerineDream",
+    "descendants": 324,
+    "time": 1669127202
   },
   {
     "rank": 8,
     "id": 33706750,
     "title": "CICERO: An AI agent that negotiates, persuades, and cooperates with people",
     "url": "https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "tuzongyu",
+    "descendants": 285,
+    "time": 1669130657
   },
   {
     "rank": 9,
     "id": 33707022,
     "title": "High-documentation, low-meeting work culture",
     "url": "https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 841,
+    "by": "seltzerboys",
+    "descendants": 501,
+    "time": 1669132226
   },
   {
     "rank": 10,
     "id": 33711253,
     "title": "Dwarf Fortress \u2013 randomly generated, persistent fantasy world",
     "url": "http://www.bay12games.com/dwarves/features.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 527,
+    "by": "loa_in_",
+    "descendants": 142,
+    "time": 1669149912
   }
 ]
