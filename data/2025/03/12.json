@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 43308278,
+    "title": "Open-UI: Maintain an open standard for UI and promote its adherence and adoption",
+    "url": "https://github.com/openui/open-ui",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 43330900,
+    "title": "What makes code hard to read: Visual patterns of complexity (2023)",
+    "url": "https://seeinglogic.com/posts/visual-readability-patterns/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 43334644,
+    "title": "New tools for building agents",
+    "url": "https://openai.com/index/new-tools-for-building-agents/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 43337703,
+    "title": "The Startup CTO's Handbook",
+    "url": "https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 43340491,
+    "title": "Gemma 3 Technical Report [pdf]",
+    "url": "https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 43342178,
+    "title": "The Future Is Niri",
+    "url": "https://ersei.net/en/blog/niri",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 43342361,
+    "title": "Peer-to-peer file transfers in the browser",
+    "url": "https://github.com/kern/filepizza",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 43342712,
+    "title": "The DuckDB Local UI",
+    "url": "https://duckdb.org/2025/03/12/duckdb-ui.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 43344082,
+    "title": "Gemini Robotics",
+    "url": "https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 43347662,
+    "title": "Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died",
+    "url": "https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
