@@ -830,7 +830,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 97 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [48 comments](https://news.ycombinator.com/item?id=47611721)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 97 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [49 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 70 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [9 comments](https://news.ycombinator.com/item?id=47611481)
 3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 953 points by [apitman](https://news.ycombinator.com/user?id=apitman), [811 comments](https://news.ycombinator.com/item?id=47603657)
 4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 58 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [13 comments](https://news.ycombinator.com/item?id=47612601)
@@ -839,7 +839,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 7. [Reinventing the Pull Request](https://lubeno.dev/blog/reinventing-the-pull-request) (lubeno.dev) - 11 points by [bkolobara](https://news.ycombinator.com/user?id=bkolobara), [3 comments](https://news.ycombinator.com/item?id=47540441)
 8. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 167 points by [jaden](https://news.ycombinator.com/user?id=jaden), [48 comments](https://news.ycombinator.com/item?id=47609694)
 9. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 62 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [20 comments](https://news.ycombinator.com/item?id=47596739)
-10. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 195 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [63 comments](https://news.ycombinator.com/item?id=47608495)
+10. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 195 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [64 comments](https://news.ycombinator.com/item?id=47608495)
 
 ## 2026-04-01
 
