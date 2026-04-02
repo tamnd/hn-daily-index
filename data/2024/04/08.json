@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 39959946,
+    "title": "Did any processor implement an integer square root instruction?",
+    "url": "https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 39960537,
+    "title": "Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests",
+    "url": "https://github.com/stackframe-projects/pgmock",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 39960645,
+    "title": "Blog posts, sorted by sleep",
+    "url": "https://breckyunits.com/sleepWriting.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 39960717,
+    "title": "Mixture-of-Depths: Dynamically allocating compute in transformers",
+    "url": "https://arxiv.org/abs/2404.02258",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 39962023,
+    "title": "PumpkinOS, a Re-Implementation of PalmOS",
+    "url": "https://github.com/migueletto/PumpkinOS",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 39966743,
+    "title": "Spotify demonetizes all tracks under 1k streams",
+    "url": "https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 39966918,
+    "title": "How much faster are the Gnome 46 terminals?",
+    "url": "https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 39968761,
+    "title": "Notepad++: Help us to take down the parasite website",
+    "url": "https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 39970915,
+    "title": "Lore Harp McGovern built a microcomputer empire from her suburban home",
+    "url": "https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 39973467,
+    "title": "Llm.c \u2013 LLM training in simple, pure C/CUDA",
+    "url": "https://github.com/karpathy/llm.c",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
