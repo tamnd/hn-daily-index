@@ -4,99 +4,99 @@
     "id": 17309883,
     "title": "Backdoored images downloaded 5M times removed from Docker Hub",
     "url": "https://arstechnica.com/information-technology/2018/06/backdoored-images-downloaded-5-million-times-finally-removed-from-docker-hub/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "fn1",
+    "descendants": 95,
+    "time": 1528959605
   },
   {
     "rank": 2,
     "id": 17311005,
     "title": "Earliest images of the moon were much better than we realised",
     "url": "http://www.worldofindie.co.uk/?p=682",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 976,
+    "by": "theindieg",
+    "descendants": 194,
+    "time": 1528978201
   },
   {
     "rank": 3,
     "id": 17313087,
     "title": "Elixir at PagerDuty",
     "url": "https://www.pagerduty.com/blog/elixir-at-pagerduty/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "romanhn",
+    "descendants": 184,
+    "time": 1528995218
   },
   {
     "rank": 4,
     "id": 17314000,
     "title": "Not Only Is the Mac Mini Outdated, It's No Longer Mini",
     "url": "https://daringfireball.net/linked/2018/06/14/snellintosh",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "okket",
+    "descendants": 275,
+    "time": 1529000256
   },
   {
     "rank": 5,
     "id": 17314315,
     "title": "State of React Native 2018",
     "url": "https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "acemarke",
+    "descendants": 246,
+    "time": 1529002262
   },
   {
     "rank": 6,
     "id": 17314858,
     "title": "Blot \u2013 a blogging platform with no interface",
     "url": "https://blot.im",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "firloop",
+    "descendants": 120,
+    "time": 1529006480
   },
   {
     "rank": 7,
     "id": 17316487,
     "title": "Let's code a TCP/IP stack, 1: Ethernet & ARP (2016)",
     "url": "http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "maastaar",
+    "descendants": 47,
+    "time": 1529022010
   },
   {
     "rank": 8,
     "id": 17317157,
     "title": "Bing Maps Streetside Imagery Now Integrated into OpenStreetMap iD Editor",
     "url": "https://blogs.bing.com/maps/2018-06/bing-maps-streetside-imagery-now-integrated-into-openstreetmap-id-editor",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "wangyjx",
+    "descendants": 46,
+    "time": 1529030722
   },
   {
     "rank": 9,
     "id": 17321921,
     "title": "GitLab Web IDE",
     "url": "https://about.gitlab.com/2018/06/15/introducing-gitlab-s-integrated-development-environment/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 776,
+    "by": "Shinkirou",
+    "descendants": 273,
+    "time": 1529085182
   },
   {
     "rank": 10,
     "id": 17323485,
     "title": "U.S. Files Criminal Charges Against Theranos\u2019s Elizabeth Holmes, Ramesh Balwani",
     "url": "https://www.wsj.com/articles/u-s-files-criminal-charges-against-theranoss-elizabeth-holmes-ramesh-balwani-1529096005",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "dcgudeman",
+    "descendants": 500,
+    "time": 1529096123
   }
 ]

@@ -4,99 +4,99 @@
     "id": 17318998,
     "title": "RetroBSD: Unix for microcontrollers",
     "url": "http://retrobsd.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "fanf2",
+    "descendants": 54,
+    "time": 1529062645
   },
   {
     "rank": 2,
     "id": 17320434,
     "title": "White House announces 25 percent tariff on Chinese tech goods",
     "url": "https://www.theverge.com/2018/6/15/17467864/china-tariff-trade-war-trump-white-house",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "aaronbrethorst",
+    "descendants": 363,
+    "time": 1529076602
   },
   {
     "rank": 3,
     "id": 17320739,
     "title": "Pregnancy Discrimination Is Rampant Inside America\u2019s Biggest Companies",
     "url": "https://www.nytimes.com/interactive/2018/06/15/business/pregnancy-discrimination.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "rafaelc",
+    "descendants": 456,
+    "time": 1529078347
   },
   {
     "rank": 4,
     "id": 17322097,
     "title": "Blooming Password \u2013 A banned password check using a bloom filter",
     "url": "https://www.bloomingpassword.fun/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "vuln",
+    "descendants": 137,
+    "time": 1529086386
   },
   {
     "rank": 5,
     "id": 17322412,
     "title": "Why you should learn just a little Awk (2010)",
     "url": "https://gregable.com/2010/09/why-you-should-know-just-little-awk.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 684,
+    "by": "mason55",
+    "descendants": 244,
+    "time": 1529088490
   },
   {
     "rank": 6,
     "id": 17323525,
     "title": "Ask HN: Who has started a business because they couldn't get hired for work?",
     "url": "https://news.ycombinator.com/item?id=17323525",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "ccajas",
+    "descendants": 179,
+    "time": 1529096458
   },
   {
     "rank": 7,
     "id": 17323737,
     "title": "FBI Recovers WhatsApp, Signal Data Stored on Michael Cohen\u2019s BlackBerry",
     "url": "https://arstechnica.com/information-technology/2018/06/fbi-recovered-hundreds-of-encrypted-messages-from-michael-cohens-phone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "mikece",
+    "descendants": 128,
+    "time": 1529098229
   },
   {
     "rank": 8,
     "id": 17323753,
     "title": "What do Unix command names stand for?",
     "url": "http://www.unixguide.net/unix/faq/1.3.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "Pete_D",
+    "descendants": 153,
+    "time": 1529098345
   },
   {
     "rank": 9,
     "id": 17324841,
     "title": "Yam, cultivate and cook",
     "url": "https://primitivetechnology.wordpress.com/2018/06/15/yam-cultivate-and-cook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "nikolay",
+    "descendants": 87,
+    "time": 1529107590
   },
   {
     "rank": 10,
     "id": 17327771,
     "title": "Amazon Is Complicit in Online Sales of Counterfeit Goods: Report",
     "url": "http://www.ipwatchdog.com/2018/06/15/amazon-ceo-bezos-knowingly-complicit-online-sales-counterfeit-goods-according-report/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "vezycash",
+    "descendants": 195,
+    "time": 1529163042
   }
 ]

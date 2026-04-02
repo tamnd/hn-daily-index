@@ -4,99 +4,99 @@
     "id": 16976697,
     "title": "Lobe \u2013 Deep Learning Made Simple",
     "url": "https://lobe.ai",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "adammenges",
+    "descendants": 73,
+    "time": 1525268219
   },
   {
     "rank": 2,
     "id": 16978544,
     "title": "'Anti-authority' tech rebels take on ISPs, connect NYC with cheap Wi-Fi",
     "url": "http://www.cbc.ca/news/technology/wifi-nyc-mesh-new-york-city-1.4617106",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "standeven",
+    "descendants": 228,
+    "time": 1525278211
   },
   {
     "rank": 3,
     "id": 16980166,
     "title": "Google Maps Platform",
     "url": "https://cloud.google.com/maps-platform/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "petethomas",
+    "descendants": 257,
+    "time": 1525287950
   },
   {
     "rank": 4,
     "id": 16980292,
     "title": "AT&T updates firmware to block access to 1.1.1.1",
     "url": "https://www.dslreports.com/forum/r31901625-New-BGW-210-700-Firmware-1-5-11",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 999,
+    "by": "antoinefink",
+    "descendants": 367,
+    "time": 1525288857
   },
   {
     "rank": 5,
     "id": 16981069,
     "title": "Tesla beats expectations with $3.4B in revenue",
     "url": "https://techcrunch.com/2018/05/02/tesla-earnings-q1-2018/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "GW150914",
+    "descendants": 172,
+    "time": 1525294422
   },
   {
     "rank": 6,
     "id": 16983195,
     "title": "Is there a fix for impostor syndrome?",
     "url": "http://interactions.acm.org/archive/view/may-june-2018/is-there-a-fix-for-impostor-syndrome",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "snaky",
+    "descendants": 332,
+    "time": 1525318921
   },
   {
     "rank": 7,
     "id": 16986100,
     "title": "High Speed Networking: Open Sourcing our Kernel Bypass Work",
     "url": "https://www.bbc.co.uk/rd/blog/2018-04-high-speed-networking-open-source-kernel-bypass",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "XzetaU8",
+    "descendants": 105,
+    "time": 1525356134
   },
   {
     "rank": 8,
     "id": 16986701,
     "title": "Fake it till you make it: the wolves of Instagram",
     "url": "https://www.theguardian.com/news/2018/apr/19/wolves-of-instagram-jordan-belmont-social-media-traders",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "kawera",
+    "descendants": 255,
+    "time": 1525360084
   },
   {
     "rank": 9,
     "id": 16987229,
     "title": "Stripe to donate $1M to California Yimby",
     "url": "https://nytimes.com/2018/05/03/us/california-today-stripe-yimby-housing.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "dcgudeman",
+    "descendants": 598,
+    "time": 1525363941
   },
   {
     "rank": 10,
     "id": 16989534,
     "title": "Twitter urges users to change passwords after computer 'glitch'",
     "url": "https://www.reuters.com/article/us-twitter-passwords/twitter-says-glitch-exposed-substantial-number-of-users-passwords-idUSKBN1I42JG?il=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 661,
+    "by": "petethomas",
+    "descendants": 462,
+    "time": 1525378756
   }
 ]

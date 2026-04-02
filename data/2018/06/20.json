@@ -4,99 +4,99 @@
     "id": 17346307,
     "title": "Bootstrapping an Online Fabric Shop and Growing to $20k per month",
     "url": "https://www.starterstory.com/stories/fridays-off-fabric-shop",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "patwalls",
+    "descendants": 132,
+    "time": 1529414491
   },
   {
     "rank": 2,
     "id": 17347078,
     "title": "DensePose \u2013 Dense Human Pose Estimation in the Wild",
     "url": "https://github.com/facebookresearch/DensePose",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "calahad",
+    "descendants": 86,
+    "time": 1529419194
   },
   {
     "rank": 3,
     "id": 17348215,
     "title": "React Native at Airbnb",
     "url": "https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "msoad",
+    "descendants": 248,
+    "time": 1529426651
   },
   {
     "rank": 4,
     "id": 17349758,
     "title": "Microsoft ports Windows 10, Linux to homegrown \u201cE2\u201d CPU design",
     "url": "https://www.theregister.co.uk/2018/06/18/microsoft_e2_edge_windows_10/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "cpeterso",
+    "descendants": 73,
+    "time": 1529437788
   },
   {
     "rank": 5,
     "id": 17350278,
     "title": "OpenBSD disables Intel's hyperthreading due to security concerns",
     "url": "https://www.mail-archive.com/source-changes@openbsd.org/msg99141.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 478,
+    "by": "mereel",
+    "descendants": 145,
+    "time": 1529442299
   },
   {
     "rank": 6,
     "id": 17350645,
     "title": "The Machine Fired Me",
     "url": "https://idiallo.com/blog/when-a-machine-fired-me",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1471,
+    "by": "foxfired",
+    "descendants": 554,
+    "time": 1529445771
   },
   {
     "rank": 7,
     "id": 17351600,
     "title": "Canada legalises recreational cannabis use",
     "url": "https://www.bbc.co.uk/news/world-us-canada-44543286",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 822,
+    "by": "pmoriarty",
+    "descendants": 406,
+    "time": 1529456819
   },
   {
     "rank": 8,
     "id": 17354442,
     "title": "European parliament committee approves vote on \u2018disastrous\u2019 copyright bill",
     "url": "https://www.bbc.com/news/technology-44546620",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 675,
+    "by": "sebst",
+    "descendants": 390,
+    "time": 1529495397
   },
   {
     "rank": 9,
     "id": 17358103,
     "title": "YAML: probably not so great after all (2017)",
     "url": "https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 673,
+    "by": "tlb",
+    "descendants": 394,
+    "time": 1529518853
   },
   {
     "rank": 10,
     "id": 17358339,
     "title": "Certificates for localhost",
     "url": "https://letsencrypt.org/docs/certificates-for-localhost/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 684,
+    "by": "colinprince",
+    "descendants": 152,
+    "time": 1529519986
   }
 ]

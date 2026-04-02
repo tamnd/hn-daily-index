@@ -4,99 +4,99 @@
     "id": 16966271,
     "title": "A Mass of Copyrighted Works Will Soon Enter the Public Domain",
     "url": "https://www.theatlantic.com/technology/archive/2018/04/copywritten-so-dont-copy-me/557420/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "punnerud",
+    "descendants": 150,
+    "time": 1525175880
   },
   {
     "rank": 2,
     "id": 16967664,
     "title": "TIC-80, a fantasy computer to learn programming",
     "url": "https://tic.computer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "zeveb",
+    "descendants": 72,
+    "time": 1525187554
   },
   {
     "rank": 3,
     "id": 16967865,
     "title": "Introducing .app, a more secure home for apps on the web",
     "url": "https://www.blog.google/topics/developers/introducing-app-more-secure-home-apps-web/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "magicalblob",
+    "descendants": 366,
+    "time": 1525188623
   },
   {
     "rank": 4,
     "id": 16969189,
     "title": "Facebook is launching a dating feature",
     "url": "https://www.cnbc.com/2018/05/01/facebook-is-launching-a-dating-app.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "mendelk",
+    "descendants": 303,
+    "time": 1525195700
   },
   {
     "rank": 5,
     "id": 16975096,
     "title": "I've spent the last two years building a new email client",
     "url": "https://ivelope.com/invite/InviteHNv0914",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 874,
+    "by": "muszc-master",
+    "descendants": 593,
+    "time": 1525250907
   },
   {
     "rank": 6,
     "id": 16975706,
     "title": "Open-sourcing gVisor, a sandboxed container runtime",
     "url": "https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 448,
+    "by": "rbanffy",
+    "descendants": 114,
+    "time": 1525258221
   },
   {
     "rank": 7,
     "id": 16976830,
     "title": "Jupyter Receives the ACM Software System Award",
     "url": "https://blog.jupyter.org/jupyter-receives-the-acm-software-system-award-d433b0dfe3a2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 714,
+    "by": "williamstein",
+    "descendants": 133,
+    "time": 1525269109
   },
   {
     "rank": 8,
     "id": 16977035,
     "title": "Both in rich and poor countries, universal health care brings huge benefits",
     "url": "https://www.economist.com/news/special-report/21740873-argument-universal-health-care-clear-getting-there-difficult-says-john",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "nopinsight",
+    "descendants": 523,
+    "time": 1525270315
   },
   {
     "rank": 9,
     "id": 16978901,
     "title": "Proton Native \u2013 React Native for the desktop",
     "url": "https://proton-native.js.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 575,
+    "by": "zengid",
+    "descendants": 283,
+    "time": 1525280236
   },
   {
     "rank": 10,
     "id": 16978932,
     "title": "Python startup time: milliseconds matter",
     "url": "https://mail.python.org/pipermail/python-dev/2018-May/153296.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 662,
+    "by": "vanni",
+    "descendants": 378,
+    "time": 1525280441
   }
 ]

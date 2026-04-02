@@ -4,99 +4,99 @@
     "id": 17196415,
     "title": "A cartoon intro to DNS over HTTPS",
     "url": "https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "johannh",
+    "descendants": 134,
+    "time": 1527775834
   },
   {
     "rank": 2,
     "id": 17196888,
     "title": "Amazon follows Google and Apple and bans system-wide ad blockers on app store",
     "url": "https://adguard.com/en/blog/goodbye-amazon/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "ameshkov",
+    "descendants": 292,
+    "time": 1527779559
   },
   {
     "rank": 3,
     "id": 17197817,
     "title": "Telegram App Says Apple Is Blocking Updates Over Dispute with Russia",
     "url": "https://www.nytimes.com/2018/05/31/technology/telegram-apple-russia.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "Anon1096",
+    "descendants": 245,
+    "time": 1527785281
   },
   {
     "rank": 4,
     "id": 17200996,
     "title": "America\u2019s Teens Are Choosing YouTube Over Facebook",
     "url": "https://www.bloomberg.com/news/articles/2018-05-31/america-s-teens-are-choosing-youtube-over-facebook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "doener",
+    "descendants": 353,
+    "time": 1527806880
   },
   {
     "rank": 5,
     "id": 17201830,
     "title": "1.1.1.1 outage explanation",
     "url": "https://blog.cloudflare.com/today-we-mitigated-1-1-1-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 459,
+    "by": "adamch",
+    "descendants": 84,
+    "time": 1527816061
   },
   {
     "rank": 6,
     "id": 17202179,
     "title": "Leaked Emails Show Google Expected Military Drone AI Work to Grow Exponentially",
     "url": "https://theintercept.com/2018/05/31/google-leaked-emails-drone-ai-pentagon-lucrative/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 535,
+    "by": "raleighm",
+    "descendants": 496,
+    "time": 1527820689
   },
   {
     "rank": 7,
     "id": 17202950,
     "title": "Markets are efficient if and only if P = NP (2010)",
     "url": "https://arxiv.org/abs/1002.2284",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "perculis",
+    "descendants": 191,
+    "time": 1527833099
   },
   {
     "rank": 8,
     "id": 17203304,
     "title": "How to get rich without getting lucky",
     "url": "https://threadreaderapp.com/thread/1002103360646823936.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 647,
+    "by": "madmax108",
+    "descendants": 506,
+    "time": 1527838002
   },
   {
     "rank": 9,
     "id": 17205441,
     "title": "Mozilla Project Fusion: Tor Integration into Firefox",
     "url": "https://trac.torproject.org/projects/tor/wiki/org/meetings/2018Rome/Notes/FusionProject",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 757,
+    "by": "jerheinze",
+    "descendants": 239,
+    "time": 1527862181
   },
   {
     "rank": 10,
     "id": 17205865,
     "title": "Ask HN: Who is hiring? (June 2018)",
     "url": "https://news.ycombinator.com/item?id=17205865",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 450,
+    "by": "whoishiring",
+    "descendants": 898,
+    "time": 1527865272
   }
 ]
