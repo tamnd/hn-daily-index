@@ -217,7 +217,7 @@ def _render_month_calendar(
                 row.append(f"[**{day_num}**](#{ds})")
             else:
                 row.append(
-                    f"[**{day_num}**](data/{d.year}/{d.month:02d}/#{ds})"
+                    f"[**{day_num}**](data/{d.year}/{d.month:02d}/README.md#{ds})"
                 )
         else:
             row.append(day_num)
@@ -297,7 +297,7 @@ def _generate_readme() -> str:
                 )
                 lines.append("")
         else:
-            # Older years: compact month list, no daily calendars
+            # Older years: collapsed calendar for each month
             for month_key in month_keys:
                 month_dates = months[month_key]
                 month_label = month_dates[0].strftime("%B")
@@ -305,12 +305,14 @@ def _generate_readme() -> str:
                 month_covered = sum(1 for d in month_dates if d.isoformat() in available)
                 month_total = len(month_dates)
 
-                lines.append(
-                    f"[{month_label}](data/{year}/{month_num:02d}/) "
-                    f"({month_covered}/{month_total}) "
+                lines.append(f"<details><summary>[<b>{month_label}</b>](data/{year}/{month_num:02d}/) ({month_covered}/{month_total})</summary>")
+                lines.append("")
+                lines.extend(
+                    _render_month_calendar(month_dates, available, inline=False)
                 )
-
-            lines.append("")
+                lines.append("")
+                lines.append("</details>")
+                lines.append("")
 
     lines.append("---")
     lines.append("")
