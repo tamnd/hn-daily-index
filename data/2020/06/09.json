@@ -4,99 +4,99 @@
     "id": 23459963,
     "title": "Wuhan hospital traffic, search engine data indicate virus activity in Fall 2019",
     "url": "https://dash.harvard.edu/handle/1/42669767",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "abc-xyz",
+    "descendants": 304,
+    "time": 1591645158
   },
   {
     "rank": 2,
     "id": 23459978,
     "title": "Potential organized fraud in ACM/IEEE computer architecture conferences",
     "url": "https://medium.com/@tnvijayk/potential-organized-fraud-in-acm-ieee-computer-architecture-conferences-ccd61169370d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "bmc7505",
+    "descendants": 193,
+    "time": 1591645261
   },
   {
     "rank": 3,
     "id": 23460066,
     "title": "Container technologies at Coinbase: Why Kubernetes is not part of our stack",
     "url": "https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 778,
+    "by": "arkadiyt",
+    "descendants": 397,
+    "time": 1591645846
   },
   {
     "rank": 4,
     "id": 23461326,
     "title": "Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job",
     "url": "https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "erict15",
+    "descendants": 215,
+    "time": 1591653927
   },
   {
     "rank": 5,
     "id": 23462568,
     "title": "IBM no longer offers general purpose facial recognition or analysis software",
     "url": "https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "TakakiTohno",
+    "descendants": 200,
+    "time": 1591664851
   },
   {
     "rank": 6,
     "id": 23465087,
     "title": "CapRover: Build your own PaaS",
     "url": "https://caprover.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "vincent_s",
+    "descendants": 176,
+    "time": 1591694928
   },
   {
     "rank": 7,
     "id": 23466470,
     "title": "Thank HN: My startup was born here and is now 10 years old",
     "url": "https://news.ycombinator.com/item?id=23466470",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 937,
+    "by": "paraschopra",
+    "descendants": 128,
+    "time": 1591709283
   },
   {
     "rank": 8,
     "id": 23466564,
     "title": "Playing around with the Fuchsia operating system",
     "url": "https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "tapper",
+    "descendants": 272,
+    "time": 1591710169
   },
   {
     "rank": 9,
     "id": 23466795,
     "title": "New inline assembly syntax available in Rust nightly",
     "url": "https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "dagenix",
+    "descendants": 222,
+    "time": 1591711812
   },
   {
     "rank": 10,
     "id": 23467301,
     "title": "Britain has gone two months without burning coal to generate power",
     "url": "https://www.bbc.com/news/science-environment-52973089",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "willvarfar",
+    "descendants": 345,
+    "time": 1591715360
   }
 ]

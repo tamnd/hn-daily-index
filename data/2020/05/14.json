@@ -4,99 +4,99 @@
     "id": 23166554,
     "title": "OTP 23",
     "url": "http://www.erlang.org/news/140",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "nifoc",
+    "descendants": 119,
+    "time": 1589375649
   },
   {
     "rank": 2,
     "id": 23170881,
     "title": "Ask HN: What's your quarantine side project?",
     "url": "https://news.ycombinator.com/item?id=23170881",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1336,
+    "by": "dhr",
+    "descendants": 2248,
+    "time": 1589398724
   },
   {
     "rank": 3,
     "id": 23172483,
     "title": "Deno 1.0",
     "url": "https://deno.land/v1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2081,
+    "by": "0xedb",
+    "descendants": 583,
+    "time": 1589408294
   },
   {
     "rank": 4,
     "id": 23172870,
     "title": "Senate narrowly rejects plan to require a warrant for Americans\u2019 browsing data",
     "url": "https://techcrunch.com/2020/05/13/senate-warrant-americans-web-browsing-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 566,
+    "by": "MLEnthusiast",
+    "descendants": 271,
+    "time": 1589410823
   },
   {
     "rank": 5,
     "id": 23173018,
     "title": "92 of top 500 subreddits controlled by same 5 people",
     "url": "https://www.reddit.com/r/interestingasfuck/comments/gitwbo/pointing_out_how_much_power_few_people_have_gets/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1077,
+    "by": "DeusExMachina",
+    "descendants": 626,
+    "time": 1589411998
   },
   {
     "rank": 6,
     "id": 23175207,
     "title": "Coming to Chrome: a new way to use tabs",
     "url": "https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "bkudria",
+    "descendants": 382,
+    "time": 1589429709
   },
   {
     "rank": 7,
     "id": 23178123,
     "title": "Patriot Act ammendment needing a warrant for browsing history fails",
     "url": "https://www.theregister.co.uk/2020/05/13/us_spying_laws/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "thinkingemote",
+    "descendants": 175,
+    "time": 1589455176
   },
   {
     "rank": 8,
     "id": 23178950,
     "title": "Nvidia CEO Introduces Nvidia Ampere Architecture, Nvidia A100 GPU",
     "url": "https://blogs.nvidia.com/blog/2020/05/14/gtc-2020-keynote/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "bcaulfield",
+    "descendants": 333,
+    "time": 1589461368
   },
   {
     "rank": 9,
     "id": 23180975,
     "title": "Security Flaws in Adobe Acrobat Reader Allow Gaining Root on macOS Silently",
     "url": "https://rekken.github.io/2020/05/14/Security-Flaws-in-Adobe-Acrobat-Reader-Allow-Malicious-Program-to-Gain-Root-on-macOS-Silently/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 871,
+    "by": "feross",
+    "descendants": 418,
+    "time": 1589471425
   },
   {
     "rank": 10,
     "id": 23185131,
     "title": "Do not Draw a Penis",
     "url": "https://donotdrawapenis.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 969,
+    "by": "dvt",
+    "descendants": 367,
+    "time": 1589488927
   }
 ]

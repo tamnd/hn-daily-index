@@ -4,99 +4,99 @@
     "id": 23438930,
     "title": "Ask HN: Side projects that are making money, but you'd not talk about them?",
     "url": "https://news.ycombinator.com/item?id=23438930",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "whoisret",
+    "descendants": 461,
+    "time": 1591449009
   },
   {
     "rank": 2,
     "id": 23439788,
     "title": "How we use HashiCorp Nomad",
     "url": "https://blog.cloudflare.com/how-we-use-hashicorp-nomad",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "jen20",
+    "descendants": 160,
+    "time": 1591457067
   },
   {
     "rank": 3,
     "id": 23440752,
     "title": "Building the most inaccessible site with a perfect Lighthouse score (2019)",
     "url": "https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "darccio",
+    "descendants": 78,
+    "time": 1591464189
   },
   {
     "rank": 4,
     "id": 23444594,
     "title": "Choose Boring Technology (2015)",
     "url": "https://mcfunley.com/choose-boring-technology",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 459,
+    "by": "dpcx",
+    "descendants": 282,
+    "time": 1591501485
   },
   {
     "rank": 5,
     "id": 23444864,
     "title": "Google Chromium, sans integration with Google",
     "url": "https://github.com/Eloston/ungoogled-chromium",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "niksmac",
+    "descendants": 266,
+    "time": 1591505724
   },
   {
     "rank": 6,
     "id": 23445546,
     "title": "C implementation of Tic-Tac-Toe in a single call to printf",
     "url": "https://github.com/carlini/printf-tac-toe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "Megabeets",
+    "descendants": 82,
+    "time": 1591515851
   },
   {
     "rank": 7,
     "id": 23445742,
     "title": "Zettelkasten note-taking in 10 minutes",
     "url": "https://blog.viktomas.com/posts/slip-box/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "vicek22",
+    "descendants": 124,
+    "time": 1591518305
   },
   {
     "rank": 8,
     "id": 23445944,
     "title": "Ideas That Changed My Life",
     "url": "https://www.perell.com/blog/50-ideas-that-changed-my-life",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "Tomte",
+    "descendants": 158,
+    "time": 1591521227
   },
   {
     "rank": 9,
     "id": 23448489,
     "title": "Most tech content is bullshit",
     "url": "https://www.aleksandra.codes/tech-content-consumer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 709,
+    "by": "velmu",
+    "descendants": 461,
+    "time": 1591547284
   },
   {
     "rank": 10,
     "id": 23449512,
     "title": "America is giving up on the pandemic?",
     "url": "https://www.theatlantic.com/science/archive/2020/06/america-giving-up-on-pandemic/612796/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 514,
+    "by": "jbegley",
+    "descendants": 968,
+    "time": 1591555026
   }
 ]
