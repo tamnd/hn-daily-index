@@ -4,99 +4,99 @@
     "id": 10009472,
     "title": "Shotcut \u2013 A free, open-source, cross-platform video editor",
     "url": "https://github.com/mltframework/shotcut",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "oridecon",
+    "descendants": 47,
+    "time": 1438780706
   },
   {
     "rank": 2,
     "id": 10010783,
     "title": "Apache Kafka, Samza, and the Unix Philosophy of Distributed Data",
     "url": "http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "gmalay",
+    "descendants": 37,
+    "time": 1438790976
   },
   {
     "rank": 3,
     "id": 10011799,
     "title": "Things I would build if I worked at GitHub",
     "url": "https://kevin.is/committed-to-github/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "holic",
+    "descendants": 143,
+    "time": 1438799655
   },
   {
     "rank": 4,
     "id": 10012625,
     "title": "Training a Neural Net to Generate CSS",
     "url": "http://www.gwern.net/AB%20testing#training-a-neural-net-to-generate-css",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "Moshe_Silnorin",
+    "descendants": 31,
+    "time": 1438806673
   },
   {
     "rank": 5,
     "id": 10013598,
     "title": "Hawaii Bans Non-Compete and Non-Solicit Clauses in High-Tech Employment",
     "url": "https://casetext.com/posts/hawaii-bans-non-compete-and-non-solicit-clauses-in-high-tech-employment",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 533,
+    "by": "lutesfuentes",
+    "descendants": 173,
+    "time": 1438817233
   },
   {
     "rank": 6,
     "id": 10014325,
     "title": "Insufficient Sleep Is a Public Health Epidemic",
     "url": "http://www.cdc.gov/features/dssleep/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "dpflan",
+    "descendants": 223,
+    "time": 1438830289
   },
   {
     "rank": 7,
     "id": 10014724,
     "title": "From a million miles away, NASA camera shows moon crossing face of Earth",
     "url": "http://www.nasa.gov/feature/goddard/from-a-million-miles-away-nasa-camera-shows-moon-crossing-face-of-earth/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "dnetesn",
+    "descendants": 153,
+    "time": 1438839154
   },
   {
     "rank": 8,
     "id": 10017778,
     "title": "Privacy Badger \u2013 Block spying ads and invisible trackers",
     "url": "https://www.eff.org/pb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "swartzcr",
+    "descendants": 109,
+    "time": 1438880285
   },
   {
     "rank": 9,
     "id": 10018208,
     "title": "Windows Bridge for iOS",
     "url": "https://github.com/Microsoft/WinObjC",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "jmsaunders",
+    "descendants": 142,
+    "time": 1438884147
   },
   {
     "rank": 10,
     "id": 10018767,
     "title": "Tesla unveils new car-charging robo-snake",
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2015/08/06/tesla-unveils-weird-new-car-charging-robo-snake/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "daegloe",
+    "descendants": 197,
+    "time": 1438889116
   }
 ]

@@ -4,99 +4,99 @@
     "id": 10178544,
     "title": "SICP Distilled: An idiosyncratic tour of SICP in Clojure",
     "url": "http://www.sicpdistilled.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "jboynyc",
+    "descendants": 20,
+    "time": 1441564992
   },
   {
     "rank": 2,
     "id": 10178989,
     "title": "Tell HN: Paywalls with workarounds are OK; paywall complaints are off topic",
     "url": "https://news.ycombinator.com/item?id=10178989",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "dang",
+    "descendants": 160,
+    "time": 1441573404
   },
   {
     "rank": 3,
     "id": 10179161,
     "title": "Slipping Away: Jo Aubin Has  Alzheimer's. He's 38",
     "url": "http://site.macleans.ca/longform/alzheimers/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "benbreen",
+    "descendants": 50,
+    "time": 1441575978
   },
   {
     "rank": 4,
     "id": 10179467,
     "title": "India's Forgotten Stepwells",
     "url": "http://www.archdaily.com/395363/india-s-forgotten-stepwells",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "juanplusjuan",
+    "descendants": 36,
+    "time": 1441581252
   },
   {
     "rank": 5,
     "id": 10179894,
     "title": "The Founder of Firefox Wrote His Own Screenplay for HBO\u2019s Silicon Valley",
     "url": "http://techcrunch.com/2015/09/04/the-founder-of-firefox-wrote-his-own-screenplay-for-hbos-silicon-valley-and-its-hilarious/?ncid=rss&utm_source=dlvr.it&utm_medium=twitter&utm_campaign=techglance",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "bobajeff",
+    "descendants": 50,
+    "time": 1441595139
   },
   {
     "rank": 6,
     "id": 10180005,
     "title": "Fixing Twitter",
     "url": "http://dcurt.is/twitter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "rkudeshi",
+    "descendants": 133,
+    "time": 1441598172
   },
   {
     "rank": 7,
     "id": 10180209,
     "title": "Show HN: HTML5 version of StarCraft",
     "url": "https://github.com/gloomyson/StarCraft",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "gloomyson",
+    "descendants": 96,
+    "time": 1441604405
   },
   {
     "rank": 8,
     "id": 10180608,
     "title": "The Pixel Factory",
     "url": "http://acko.net/files/gltalks/pixelfactory/online.html#0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 739,
+    "by": "bpierre",
+    "descendants": 47,
+    "time": 1441616104
   },
   {
     "rank": 9,
     "id": 10180728,
     "title": "Better and worse ways to spot a liar",
     "url": "http://www.bbc.com/future/story/20150906-the-best-and-worst-ways-to-spot-a-liar?ocid=fbfut",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "williamhpark",
+    "descendants": 139,
+    "time": 1441618703
   },
   {
     "rank": 10,
     "id": 10181556,
     "title": "The Internet of Way Too Many Things",
     "url": "http://www.nytimes.com/2015/09/06/opinion/sunday/allison-arieff-the-internet-of-way-too-many-things.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "prostoalex",
+    "descendants": 257,
+    "time": 1441636415
   }
 ]

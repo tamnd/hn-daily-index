@@ -4,99 +4,99 @@
     "id": 10084449,
     "title": "How does a relational database work?",
     "url": "http://coding-geek.com/how-databases-work/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "mgachka",
+    "descendants": 60,
+    "time": 1439976911
   },
   {
     "rank": 2,
     "id": 10085920,
     "title": "Google loses data as lightning strikes",
     "url": "http://www.bbc.com/news/technology-33989384",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "adventured",
+    "descendants": 135,
+    "time": 1439996259
   },
   {
     "rank": 3,
     "id": 10089092,
     "title": "A Course on Automata Theory",
     "url": "https://www.coursera.org/course/automata",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "brudgers",
+    "descendants": 30,
+    "time": 1440024747
   },
   {
     "rank": 4,
     "id": 10089913,
     "title": "Work Hard, Live Well",
     "url": "https://medium.com/@moskov/work-hard-live-well-ead679cb506d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "sethbannon",
+    "descendants": 160,
+    "time": 1440041672
   },
   {
     "rank": 5,
     "id": 10090520,
     "title": "Test versions of IE from 6 through 11 and Microsoft Edge using virtual machines",
     "url": "http://dev.modern.ie/tools/vms/windows/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "mfontani",
+    "descendants": 121,
+    "time": 1440058417
   },
   {
     "rank": 6,
     "id": 10090542,
     "title": "Finland considers basic income to reform welfare system",
     "url": "http://www.bbc.com/news/world-europe-33977636",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "pierre-renaux",
+    "descendants": 233,
+    "time": 1440058733
   },
   {
     "rank": 7,
     "id": 10091454,
     "title": "Imba \u2013\u00a0A new programming language for the web",
     "url": "http://imba.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "judofyr",
+    "descendants": 171,
+    "time": 1440074746
   },
   {
     "rank": 8,
     "id": 10092662,
     "title": "July 2015 was warmest month ever recorded",
     "url": "http://www.ncdc.noaa.gov/sotc/summary-info/global/201507",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "yawz",
+    "descendants": 195,
+    "time": 1440086205
   },
   {
     "rank": 9,
     "id": 10093026,
     "title": "The Post-YC Slump",
     "url": "http://blog.samaltman.com/the-post-yc-slump",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "moritzplassnig",
+    "descendants": 169,
+    "time": 1440089261
   },
   {
     "rank": 10,
     "id": 10093152,
     "title": "Designing and Building Stockfighter, Our Programming Game",
     "url": "http://www.kalzumeus.com/2015/08/20/designing-and-building-stockfighter-our-programming-game/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "jsnell",
+    "descendants": 155,
+    "time": 1440090270
   }
 ]

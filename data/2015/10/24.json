@@ -4,99 +4,99 @@
     "id": 10438273,
     "title": "Swarm vs. Fleet vs. Kubernetes vs. Mesos",
     "url": "http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "amouat",
+    "descendants": 83,
+    "time": 1445605330
   },
   {
     "rank": 2,
     "id": 10438634,
     "title": "How to Get Press for Your Startup",
     "url": "https://medium.com/user-acquisition-for-hackers/how-to-get-press-for-your-startup-the-complete-guide-b79c57318113#.8gvv4jvzn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 151,
+    "by": "austenallred",
+    "descendants": 64,
+    "time": 1445609566
   },
   {
     "rank": 3,
     "id": 10438937,
     "title": "Dechoker medical device could end deaths by choking",
     "url": "http://insiderlouisville.com/startups/cool-stuff/game-changer-dechoker-medical-device-end-deaths-choking/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "alvinktai",
+    "descendants": 104,
+    "time": 1445612084
   },
   {
     "rank": 4,
     "id": 10440293,
     "title": "Use this instead of press releases",
     "url": "http://mbites.com/2015/07/01/the-press-release-is-dead/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "audace",
+    "descendants": 53,
+    "time": 1445623834
   },
   {
     "rank": 5,
     "id": 10440502,
     "title": "Tell HN: Full Hacker News dataset now available on BigQuery",
     "url": "https://news.ycombinator.com/item?id=10440502",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "minimaxir",
+    "descendants": 43,
+    "time": 1445625745
   },
   {
     "rank": 6,
     "id": 10441426,
     "title": "Social Anxiety",
     "url": "http://inessential.com/2015/10/23/social_anxiety",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "ingve",
+    "descendants": 112,
+    "time": 1445636141
   },
   {
     "rank": 7,
     "id": 10441937,
     "title": "Dolphins often seem to want to befriend us",
     "url": "http://www.independent.co.uk/environment/nature/dolphins-often-seem-to-want-to-befriend-us--do-they-know-something-we-dont-10493809.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "pshaw",
+    "descendants": 68,
+    "time": 1445646622
   },
   {
     "rank": 8,
     "id": 10442369,
     "title": "Mozilla Launches Open-Source Support Program",
     "url": "https://blog.lizardwrangler.com/2015/10/23/mozilla-launches-open-source-support-program/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "fabrice_d",
+    "descendants": 18,
+    "time": 1445658922
   },
   {
     "rank": 9,
     "id": 10442504,
     "title": "Andrew Ng on Life, Creativity, and Failure",
     "url": "http://www.huffingtonpost.com.au/2015/05/13/andrew-ng_n_7267682.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "igonvalue",
+    "descendants": 28,
+    "time": 1445662977
   },
   {
     "rank": 10,
     "id": 10442789,
     "title": "Stop forcing arbitrary password rules",
     "url": "http://ryanwinchester.ca/post/stop-forcing-your-arbitrary-password-rules-on-me",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "bemmu",
+    "descendants": 186,
+    "time": 1445671731
   }
 ]

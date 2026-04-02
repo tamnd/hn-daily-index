@@ -4,99 +4,99 @@
     "id": 10318541,
     "title": "Mapzen Search: An open source geocoding api built on open data",
     "url": "https://mapzen.com/projects/search",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 150,
+    "by": "riordan",
+    "descendants": 12,
+    "time": 1443794288
   },
   {
     "rank": 2,
     "id": 10318729,
     "title": "Surprisingly Turing-Complete",
     "url": "http://www.gwern.net/Turing-complete",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "kushti",
+    "descendants": 61,
+    "time": 1443795899
   },
   {
     "rank": 3,
     "id": 10319289,
     "title": "Show HN: Dtab \u2013 Spreadsheet for Data Science",
     "url": "http://dtab.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "_7fvc",
+    "descendants": 67,
+    "time": 1443800992
   },
   {
     "rank": 4,
     "id": 10319564,
     "title": "LibreSSL, and the new libtls API",
     "url": "http://www.openbsd.org/papers/libtls-fsec-2015/mgp00001.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "glass-",
+    "descendants": 66,
+    "time": 1443803766
   },
   {
     "rank": 5,
     "id": 10319681,
     "title": "World map of the difference between solar and clock time",
     "url": "http://blog.poormansmath.net/the-time-it-takes-to-change-the-time/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "gmac",
+    "descendants": 39,
+    "time": 1443804878
   },
   {
     "rank": 6,
     "id": 10320551,
     "title": "Lessons learned writing highly available code",
     "url": "https://medium.com/imgur-engineering/lessons-learned-writing-highly-available-code-7eaf3d7aae00",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "_jomo",
+    "descendants": 59,
+    "time": 1443812647
   },
   {
     "rank": 7,
     "id": 10322189,
     "title": "I met you in the rain on the last day of 1972",
     "url": "http://boston.craigslist.org/gbs/mis/5237173491.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "brandonmenc",
+    "descendants": 96,
+    "time": 1443834527
   },
   {
     "rank": 8,
     "id": 10323226,
     "title": "Using htop to generate a live website background",
     "url": "http://drunken-security.at/archives/41",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "trampi",
+    "descendants": 59,
+    "time": 1443864226
   },
   {
     "rank": 9,
     "id": 10323573,
     "title": "Windows 10 and .NET Native",
     "url": "http://www.anandtech.com/show/9661/windows-10-feature-focus-net-native",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "WhitneyLand",
+    "descendants": 107,
+    "time": 1443874329
   },
   {
     "rank": 10,
     "id": 10324480,
     "title": "Losing Sight",
     "url": "http://tink.uk/losing-sight/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 564,
+    "by": "robin_reala",
+    "descendants": 93,
+    "time": 1443891482
   }
 ]

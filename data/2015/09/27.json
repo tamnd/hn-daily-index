@@ -4,99 +4,99 @@
     "id": 10283502,
     "title": "Utron: Go MVC framework for fast, scalable and robust database-driven web apps",
     "url": "https://github.com/gernest/utron",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "ingve",
+    "descendants": 19,
+    "time": 1443285036
   },
   {
     "rank": 2,
     "id": 10283532,
     "title": "Clarifications about Redis and Memcached",
     "url": "http://antirez.com/news/94",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "juanfatas",
+    "descendants": 38,
+    "time": 1443285528
   },
   {
     "rank": 3,
     "id": 10283990,
     "title": "\u201cTsundoku,\u201d the Japanese Word for the New Books That Pile Up on Our Shelves",
     "url": "http://www.openculture.com/2014/07/tsundoku-should-enter-the-english-language.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 163,
+    "by": "ColinWright",
+    "descendants": 83,
+    "time": 1443292689
   },
   {
     "rank": 4,
     "id": 10284202,
     "title": "Always bet on text (2014)",
     "url": "http://graydon2.dreamwidth.org/193447.html?HN2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 156,
+    "by": "ColinWright",
+    "descendants": 69,
+    "time": 1443296900
   },
   {
     "rank": 5,
     "id": 10285040,
     "title": "TempleOS: x86_64 HolyC Compiler/Assembler/Unassembler [video]",
     "url": "https://www.youtube.com/watch?v=v9yctup6bIw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 110,
+    "by": "adamnemecek",
+    "descendants": 77,
+    "time": 1443316359
   },
   {
     "rank": 6,
     "id": 10285151,
     "title": "Google fixes nearly decade-old Linux kernel TCP bug",
     "url": "http://bitsup.blogspot.com/2015/09/thanks-google-tcp-team-for-open-source.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "tim_sw",
+    "descendants": 46,
+    "time": 1443319577
   },
   {
     "rank": 7,
     "id": 10285337,
     "title": "Nix the Tricks: Math tricks defeat understanding",
     "url": "http://www.nixthetricks.com/#hn-repost",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 139,
+    "by": "tokenadult",
+    "descendants": 84,
+    "time": 1443324504
   },
   {
     "rank": 8,
     "id": 10285726,
     "title": "Mobile browser traffic is 2X bigger than app traffic, and growing faster",
     "url": "http://venturebeat.com/2015/09/25/wait-what-mobile-browser-traffic-is-2x-bigger-than-app-traffic-and-growing-faster/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "AnbeSivam",
+    "descendants": 136,
+    "time": 1443337577
   },
   {
     "rank": 9,
     "id": 10286470,
     "title": "How I hacked my IP camera, and found this backdoor account",
     "url": "http://jumpespjump.blogspot.com/2015/09/how-i-hacked-my-ip-camera-and-found.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "dsr12",
+    "descendants": 21,
+    "time": 1443361831
   },
   {
     "rank": 10,
     "id": 10287313,
     "title": "The International Flag of Planet Earth",
     "url": "http://www.flagofplanetearth.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 148,
+    "by": "apo",
+    "descendants": 106,
+    "time": 1443377272
   }
 ]

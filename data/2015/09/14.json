@@ -4,99 +4,99 @@
     "id": 10212582,
     "title": "How to Write a Git Commit Message",
     "url": "http://chris.beams.io/posts/git-commit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "pwg",
+    "descendants": 89,
+    "time": 1442173922
   },
   {
     "rank": 2,
     "id": 10212770,
     "title": "System XVI: A replacement for systemd",
     "url": "https://github.com/ServiceManager/ServiceManager/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "vmorgulis",
+    "descendants": 142,
+    "time": 1442177817
   },
   {
     "rank": 3,
     "id": 10213070,
     "title": "Reverse engineering an ancient wireless security keypad using RTL-SDR",
     "url": "http://fatsquirrel.org/oldfartsalmanac/random/reverse-engineering-a-vintage-wireless-keypad-with-an-rtl-sdr/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 189,
+    "by": "ursusarcanum",
+    "descendants": 21,
+    "time": 1442185066
   },
   {
     "rank": 4,
     "id": 10214024,
     "title": "3D reproduction of TSA master keys",
     "url": "https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "monort",
+    "descendants": 79,
+    "time": 1442217329
   },
   {
     "rank": 5,
     "id": 10214776,
     "title": "Python Decorators in 12 Steps (2012)",
     "url": "http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "terminalcommand",
+    "descendants": 32,
+    "time": 1442234679
   },
   {
     "rank": 6,
     "id": 10214856,
     "title": "37 rental cars \u2013 2 days \u2013 185,000 miles earned",
     "url": "http://www.flyertalk.com/forum/trip-reports/1708084-37-rental-cars-2-days-185-000-miles.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "rplnt",
+    "descendants": 230,
+    "time": 1442236305
   },
   {
     "rank": 7,
     "id": 10216129,
     "title": "Stripe: Relay",
     "url": "https://stripe.com/relay",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "coloneltcb",
+    "descendants": 77,
+    "time": 1442250903
   },
   {
     "rank": 8,
     "id": 10216234,
     "title": "React Native for Android",
     "url": "https://code.facebook.com/posts/1189117404435352/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 907,
+    "by": "Kajdav",
+    "descendants": 240,
+    "time": 1442251844
   },
   {
     "rank": 9,
     "id": 10216786,
     "title": "Important Win for Fair Use in \u2018Dancing Baby\u2019 Lawsuit",
     "url": "https://www.eff.org/press/releases/important-win-fair-use-dancing-baby-lawsuit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "sinak",
+    "descendants": 79,
+    "time": 1442257239
   },
   {
     "rank": 10,
     "id": 10217470,
     "title": "Our First Certificate Is Now Live",
     "url": "https://letsencrypt.org/2015/09/14/our-first-cert.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1131,
+    "by": "joshmoz",
+    "descendants": 255,
+    "time": 1442264867
   }
 ]

@@ -4,99 +4,99 @@
     "id": 10217290,
     "title": "Relay: Declarative data for React applications",
     "url": "https://code.facebook.com/posts/622382554568759/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "yungsters",
+    "descendants": 46,
+    "time": 1442262755
   },
   {
     "rank": 2,
     "id": 10217460,
     "title": "Even the LastPass Will Be Stolen",
     "url": "https://www.blackhat.com/eu-15/briefings.html#even-the-lastpass-will-be-stolen-deal-with-it",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "icadariu",
+    "descendants": 153,
+    "time": 1442264757
   },
   {
     "rank": 3,
     "id": 10217555,
     "title": "Federal Court Invalidates Gag Order on National Security Letter Recipient",
     "url": "https://www.calyxinstitute.org/news/federal-court-invalidates-11-year-old-fbi-gag-order-national-security-letter-recipient-nicholas",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "jeo1234",
+    "descendants": 44,
+    "time": 1442265839
   },
   {
     "rank": 4,
     "id": 10217887,
     "title": "GraphQL: A data query language",
     "url": "https://code.facebook.com/posts/1691455094417024",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "dschafer",
+    "descendants": 80,
+    "time": 1442269066
   },
   {
     "rank": 5,
     "id": 10219003,
     "title": "Tmux Resurrect \u2013 Persists tmux environment across system restarts",
     "url": "https://github.com/tmux-plugins/tmux-resurrect",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "andars",
+    "descendants": 55,
+    "time": 1442292888
   },
   {
     "rank": 6,
     "id": 10219666,
     "title": "Flowchart.js \u2013 Simple SVG flow chart diagrams from textual representation",
     "url": "http://adrai.github.io/flowchart.js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "dola",
+    "descendants": 24,
+    "time": 1442308930
   },
   {
     "rank": 7,
     "id": 10219727,
     "title": "US Navy limits 'whale-harming' sonar in Pacific",
     "url": "http://www.bbc.com/news/world-us-canada-34252058",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "chesterfield",
+    "descendants": 69,
+    "time": 1442310398
   },
   {
     "rank": 8,
     "id": 10221165,
     "title": "Cisco routers in at least 4 countries infected by highly stealthy backdoor",
     "url": "http://arstechnica.com/security/2015/09/attackers-install-highly-stealthy-backdoors-in-cisco-routers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "Deinos",
+    "descendants": 75,
+    "time": 1442330762
   },
   {
     "rank": 9,
     "id": 10221269,
     "title": "Adrian Frutiger has died",
     "url": "http://www.swissinfo.ch/eng/master-of-the-univers_swiss-font-legend-adrian-frutiger-dies/41659284",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "acdanger",
+    "descendants": 53,
+    "time": 1442331786
   },
   {
     "rank": 10,
     "id": 10222590,
     "title": "Nine of the World\u2019s Biggest Banks Form Blockchain Partnership",
     "url": "https://recode.net/2015/09/15/nine-of-the-worlds-biggest-banks-form-blockchain-partnership/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "uptown",
+    "descendants": 274,
+    "time": 1442344595
   }
 ]

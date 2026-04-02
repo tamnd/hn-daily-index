@@ -4,99 +4,99 @@
     "id": 10244619,
     "title": "\u201cWe don\u2019t do autism\u201d",
     "url": "https://medium.com/@AutismJohnDoe/we-don-t-do-autism-d6de9d4f8913",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "thinkcomp",
+    "descendants": 86,
+    "time": 1442678842
   },
   {
     "rank": 2,
     "id": 10244950,
     "title": "Statistics for Hackers",
     "url": "https://speakerdeck.com/jakevdp/statistics-for-hackers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "tomaskazemekas",
+    "descendants": 54,
+    "time": 1442684439
   },
   {
     "rank": 3,
     "id": 10245673,
     "title": "Better Java \u2013 Resources for Writing Modern Java",
     "url": "https://github.com/cxxr/better-java",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "networked",
+    "descendants": 188,
+    "time": 1442700131
   },
   {
     "rank": 4,
     "id": 10245836,
     "title": "PaperBack \u2013 How to store data on a single A4/Letter sheet",
     "url": "http://ollydbg.de/Paperbak/#1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "jguegant",
+    "descendants": 114,
+    "time": 1442703477
   },
   {
     "rank": 5,
     "id": 10246656,
     "title": "Improved Digital Certificate Security",
     "url": "http://googleonlinesecurity.blogspot.com/2015/09/improved-digital-certificate-security.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 141,
+    "by": "mikecarlton",
+    "descendants": 48,
+    "time": 1442726906
   },
   {
     "rank": 6,
     "id": 10247307,
     "title": "AWS US East is experiencing high error rates on several services",
     "url": "https://news.ycombinator.com/item?id=10247307",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "oliverfriedmann",
+    "descendants": 170,
+    "time": 1442752975
   },
   {
     "rank": 7,
     "id": 10248084,
     "title": "AVG can sell your browsing and search history to advertisers",
     "url": "http://www.wired.co.uk/news/archive/2015-09/17/avg-privacy-policy-browser-search-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "SimplyUseless",
+    "descendants": 132,
+    "time": 1442766648
   },
   {
     "rank": 8,
     "id": 10248465,
     "title": "Elephants Shot with Poison Arrows Travel to Humans for Help",
     "url": "https://www.thedodo.com/elephants-travel-humans-help-1353631970.html#elephants-travel-humans-help-1353631970.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "ghosh",
+    "descendants": 72,
+    "time": 1442773628
   },
   {
     "rank": 9,
     "id": 10248773,
     "title": "Show HN: Hacker News Simulator",
     "url": "http://news.ycombniator.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 572,
+    "by": "orf",
+    "descendants": 163,
+    "time": 1442778611
   },
   {
     "rank": 10,
     "id": 10249362,
     "title": "Show HN: %%30%30: A Game",
     "url": "https://github.com/szhu/3030/tree/master",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 608,
+    "by": "szhu",
+    "descendants": 89,
+    "time": 1442786886
   }
 ]

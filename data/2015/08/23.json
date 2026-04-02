@@ -4,99 +4,99 @@
     "id": 10102858,
     "title": "Feynman's Public Lectures on Quantum Electrodynamics",
     "url": "http://vega.org.uk/video/subseries/8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 108,
+    "by": "evanb",
+    "descendants": 20,
+    "time": 1440260037
   },
   {
     "rank": 2,
     "id": 10103083,
     "title": "How to Fold a Julia Fractal",
     "url": "http://acko.net/blog/how-to-fold-a-julia-fractal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "rosstex",
+    "descendants": 29,
+    "time": 1440265139
   },
   {
     "rank": 3,
     "id": 10103695,
     "title": "SQLite timeline items related to \\\"json\\\"",
     "url": "http://www.sqlite.org/src/timeline?r=json",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 100,
+    "by": "coleifer",
+    "descendants": 22,
+    "time": 1440276399
   },
   {
     "rank": 4,
     "id": 10104648,
     "title": "Polari, the Lost Gay English Dialect",
     "url": "http://www.slate.com/blogs/outward/2015/07/28/polari_the_gay_dialect_can_be_heard_in_this_great_short_film_putting_on.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 101,
+    "by": "peteforde",
+    "descendants": 22,
+    "time": 1440302760
   },
   {
     "rank": 5,
     "id": 10104939,
     "title": "Cat purr generator",
     "url": "http://mynoise.net/NoiseMachines/catPurrNoiseGenerator.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "kleer001",
+    "descendants": 47,
+    "time": 1440315207
   },
   {
     "rank": 6,
     "id": 10104949,
     "title": "A collection of debugging stories",
     "url": "https://github.com/danluu/debugging-stories",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "luu",
+    "descendants": 16,
+    "time": 1440315491
   },
   {
     "rank": 7,
     "id": 10104984,
     "title": "It is now easy to edit the genomes of plants, animals and humans",
     "url": "http://www.economist.com/news/briefing/21661799-it-now-easy-edit-genomes-plants-animals-and-humans-age-red-pen",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 92,
+    "by": "thomasrossi",
+    "descendants": 75,
+    "time": 1440316595
   },
   {
     "rank": 8,
     "id": 10105429,
     "title": "Up in the Air: Escaping from East Germany",
     "url": "http://www.damninteresting.com/up-in-the-air/#read-more",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "vinnyglennon",
+    "descendants": 87,
+    "time": 1440336361
   },
   {
     "rank": 9,
     "id": 10105899,
     "title": "A Western Kid Living in Communist Poland (2014)",
     "url": "http://jacquesmattheij.com/a-western-kid-living-in-communist-poland/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 135,
+    "by": "ash",
+    "descendants": 87,
+    "time": 1440347311
   },
   {
     "rank": 10,
     "id": 10106026,
     "title": "The New York Times Makes 17k Recipes Available Online",
     "url": "http://www.openculture.com/2015/08/the-new-york-times-makes-17000-tasty-recipes-available-online.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "edward",
+    "descendants": 94,
+    "time": 1440349681
   }
 ]

@@ -4,99 +4,99 @@
     "id": 10324366,
     "title": "The Decline of \u2018Big Soda\u2019",
     "url": "http://www.nytimes.com/2015/10/04/upshot/soda-industry-struggles-as-consumer-tastes-change.html?_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "coloneltcb",
+    "descendants": 235,
+    "time": 1443889026
   },
   {
     "rank": 2,
     "id": 10324377,
     "title": "How to Analyze Every Reddit Submission and Comment, in Seconds, for Free",
     "url": "http://minimaxir.com/2015/10/reddit-bigquery/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 138,
+    "by": "minimaxir",
+    "descendants": 65,
+    "time": 1443889459
   },
   {
     "rank": 3,
     "id": 10324782,
     "title": "Beautiful People Are the Hardest to Draw: Interview with a Courtroom Artist",
     "url": "http://ratter.com/ratter/all/inverse-published/213837-courtroom-artist-l-d-chukman",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 123,
+    "by": "dwwoelfel",
+    "descendants": 30,
+    "time": 1443895765
   },
   {
     "rank": 4,
     "id": 10324921,
     "title": "Erlang/OTP architectures: Cowboy",
     "url": "https://medium.com/@kansi/erlang-otp-architectures-cowboy-7e5e011a7c4f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "kansi",
+    "descendants": 49,
+    "time": 1443897840
   },
   {
     "rank": 5,
     "id": 10325670,
     "title": "007, a small experimental language with a license to macro",
     "url": "https://github.com/masak/007",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 121,
+    "by": "jsnell",
+    "descendants": 14,
+    "time": 1443911922
   },
   {
     "rank": 6,
     "id": 10326084,
     "title": "ShareX \u2013 Open-source screenshare software",
     "url": "http://getsharex.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "zhte415",
+    "descendants": 52,
+    "time": 1443923667
   },
   {
     "rank": 7,
     "id": 10326434,
     "title": "The Benefits of a Quiet Ego",
     "url": "http://www.quietrev.com/the-surprising-benefits-of-a-quiet-ego/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 189,
+    "by": "gull",
+    "descendants": 104,
+    "time": 1443932189
   },
   {
     "rank": 8,
     "id": 10326450,
     "title": "Web Fonts Collateral Damage of Ad Blockers",
     "url": "http://miranj.in/blog/2015/collateral-damage",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 127,
+    "by": "morisy",
+    "descendants": 147,
+    "time": 1443932860
   },
   {
     "rank": 9,
     "id": 10327409,
     "title": "Probability, Paradox, and the Reasonable Person Principle",
     "url": "http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "yomritoyj",
+    "descendants": 71,
+    "time": 1443963671
   },
   {
     "rank": 10,
     "id": 10327485,
     "title": "Google Cloud Shell",
     "url": "https://cloud.google.com/cloud-shell/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "mikecb",
+    "descendants": 159,
+    "time": 1443966321
   }
 ]

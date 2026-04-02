@@ -4,99 +4,99 @@
     "id": 10071695,
     "title": "Locking the Web Open: A Call for a Distributed Web",
     "url": "http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "hachiya",
+    "descendants": 97,
+    "time": 1439796419
   },
   {
     "rank": 2,
     "id": 10074773,
     "title": "What does it take to make Google work at scale?",
     "url": "https://docs.google.com/presentation/d/1OvJStE8aohGeI3y5BcYX8bBHwoHYCPu99A3KTTZElr0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "mrry",
+    "descendants": 130,
+    "time": 1439833498
   },
   {
     "rank": 3,
     "id": 10075078,
     "title": "Intermediate Python",
     "url": "http://book.pythontips.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "heyalexej",
+    "descendants": 78,
+    "time": 1439836088
   },
   {
     "rank": 4,
     "id": 10076919,
     "title": "Decertifying the worst voting machine in the US",
     "url": "https://freedom-to-tinker.com/blog/jeremyepstein/decertifying-the-worst-voting-machine-in-the-us/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "germinalphrase",
+    "descendants": 201,
+    "time": 1439856749
   },
   {
     "rank": 5,
     "id": 10076974,
     "title": "We are barely halfway done",
     "url": "http://ascii.textfiles.com/archives/4711",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "pmorici",
+    "descendants": 74,
+    "time": 1439857805
   },
   {
     "rank": 6,
     "id": 10078237,
     "title": "How I came to find Linux",
     "url": "http://ianmurdock.com/post/how-i-came-to-find-linux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "pythonist",
+    "descendants": 115,
+    "time": 1439890324
   },
   {
     "rank": 7,
     "id": 10078967,
     "title": "Multiple Vulnerabilities in Pocket",
     "url": "https://www.gnu.gl/blog/Posts/multiple-vulnerabilities-in-pocket/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 533,
+    "by": "ers35",
+    "descendants": 154,
+    "time": 1439903273
   },
   {
     "rank": 8,
     "id": 10079832,
     "title": "FCC Fines Smart City $750K for Blocking Wi-Fi",
     "url": "https://www.fcc.gov/document/fcc-fines-smart-city-750k-blocking-wi-fi-0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "pdabbadabba",
+    "descendants": 180,
+    "time": 1439913017
   },
   {
     "rank": 9,
     "id": 10080065,
     "title": "OnHub",
     "url": "https://on.google.com/hub/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 984,
+    "by": "ropiku",
+    "descendants": 615,
+    "time": 1439914877
   },
   {
     "rank": 10,
     "id": 10080731,
     "title": "Show HN: Tonic \u2013\u00a0A data visualizing REPL for Node.js",
     "url": "https://tonicdev.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "boucher",
+    "descendants": 79,
+    "time": 1439919437
   }
 ]

@@ -4,99 +4,99 @@
     "id": 10181042,
     "title": "Bypassing the Linux kernel for high-performance packet filtering",
     "url": "https://blog.cloudflare.com/kernel-bypass/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "jgrahamc",
+    "descendants": 90,
+    "time": 1441626223
   },
   {
     "rank": 2,
     "id": 10182727,
     "title": "Operating Systems: Three Easy Pieces",
     "url": "http://pages.cs.wisc.edu/~remzi/OSTEP/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "acdanger",
+    "descendants": 35,
+    "time": 1441654827
   },
   {
     "rank": 3,
     "id": 10183725,
     "title": "Immersive Linear Algebra \u2013 A free interactive online book",
     "url": "http://immersivemath.com/ila/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "samlittlewood",
+    "descendants": 78,
+    "time": 1441674021
   },
   {
     "rank": 4,
     "id": 10184510,
     "title": "Raspberry Pi touch display",
     "url": "https://www.raspberrypi.org/blog/the-eagerly-awaited-raspberry-pi-display/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "benn_88",
+    "descendants": 177,
+    "time": 1441699374
   },
   {
     "rank": 5,
     "id": 10184701,
     "title": "Httpbin \u2013 HTTP Client Testing Service",
     "url": "http://httpbin.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "pandog",
+    "descendants": 38,
+    "time": 1441703942
   },
   {
     "rank": 6,
     "id": 10184866,
     "title": "Sslip.io: A Valid SSL Certificate for Every IP Address",
     "url": "http://blog.pivotal.io/labs/labs/sslip-io-a-valid-ssl-certificate-for-every-ip-address",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "arianvanp",
+    "descendants": 112,
+    "time": 1441707506
   },
   {
     "rank": 7,
     "id": 10185041,
     "title": "Inside Popcorn Time \u2013 the world's fastest growing piracy site",
     "url": "http://www.dn.no/magasinet/2015/09/07/1606/Popcorn-Time/inside-popcorn-time--the-worlds-fastest-growing-piracy-site",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "sleepyhead",
+    "descendants": 336,
+    "time": 1441711795
   },
   {
     "rank": 8,
     "id": 10185102,
     "title": "TSA Master Keys",
     "url": "https://www.schneier.com/blog/archives/2015/09/tsa_master_keys.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "privong",
+    "descendants": 142,
+    "time": 1441712583
   },
   {
     "rank": 9,
     "id": 10186234,
     "title": "A Beginner\u2019s Guide to Recurrent Networks and LSTMs",
     "url": "http://deeplearning4j.org/lstm.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "vonnik",
+    "descendants": 10,
+    "time": 1441725769
   },
   {
     "rank": 10,
     "id": 10187596,
     "title": "Node v4.0.0",
     "url": "https://nodejs.org/en/blog/release/v4.0.0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1248,
+    "by": "mmebane",
+    "descendants": 267,
+    "time": 1441739547
   }
 ]

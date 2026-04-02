@@ -4,99 +4,99 @@
     "id": 10416062,
     "title": "Chrome Devtools Tips and Tricks",
     "url": "http://mo.github.io/2015/10/19/chrome-devtools.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "molsson",
+    "descendants": 37,
+    "time": 1445291538
   },
   {
     "rank": 2,
     "id": 10417120,
     "title": "The Trading Game",
     "url": "http://www.bloomberg.com/features/2015-stock-chart-trading-game/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "scottkduncan",
+    "descendants": 99,
+    "time": 1445309137
   },
   {
     "rank": 3,
     "id": 10417206,
     "title": "Let's Encrypt is Trusted",
     "url": "https://letsencrypt.org/2015/10/19/lets-encrypt-is-trusted.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1260,
+    "by": "coffeecheque",
+    "descendants": 311,
+    "time": 1445310846
   },
   {
     "rank": 4,
     "id": 10418860,
     "title": "Google\u2019s growing problem: 50% of people do zero searches per day on mobile",
     "url": "https://theoverspill.wordpress.com/2015/10/19/searches-average-mobile-google-problem/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "adidash",
+    "descendants": 237,
+    "time": 1445346289
   },
   {
     "rank": 5,
     "id": 10418879,
     "title": "The NYPD Is Using Mobile X-Ray Vans to Spy on Unknown Targets",
     "url": "http://www.theatlantic.com/politics/archive/2015/10/the-nypd-is-using-mobile-x-rays-to-spy-on-unknown-targets/411181/?single_page=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 515,
+    "by": "sergeant3",
+    "descendants": 283,
+    "time": 1445346668
   },
   {
     "rank": 6,
     "id": 10418882,
     "title": "Httpie: A CLI http client",
     "url": "http://radek.io/2015/10/20/httpie/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "astro-",
+    "descendants": 49,
+    "time": 1445346711
   },
   {
     "rank": 7,
     "id": 10419300,
     "title": "OpenStreetMap is the Most Important thing in Geo",
     "url": "http://www.gisdoctor.com/site/2015/10/12/reasons-openstreetmap/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 529,
+    "by": "liotier",
+    "descendants": 138,
+    "time": 1445351014
   },
   {
     "rank": 8,
     "id": 10420241,
     "title": "Goodbye CoffeeScript, Hello TypeScript",
     "url": "http://blog.heapanalytics.com/goodbye-coffeescript-hello-typescript/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "matm",
+    "descendants": 256,
+    "time": 1445359594
   },
   {
     "rank": 9,
     "id": 10420328,
     "title": "BoringSSL",
     "url": "https://www.imperialviolet.org/2015/10/17/boringssl.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "tptacek",
+    "descendants": 112,
+    "time": 1445360288
   },
   {
     "rank": 10,
     "id": 10420878,
     "title": "Guide to Sending Email Like a Startup",
     "url": "https://www.sendwithus.com/resources/guide/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "mrmch",
+    "descendants": 41,
+    "time": 1445365956
   }
 ]

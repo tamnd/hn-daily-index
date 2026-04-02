@@ -4,99 +4,99 @@
     "id": 9995148,
     "title": "Pixar Online Library",
     "url": "http://graphics.pixar.com/library/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "shocks",
+    "descendants": 11,
+    "time": 1438603782
   },
   {
     "rank": 2,
     "id": 9997918,
     "title": "Python Wheels",
     "url": "http://pythonwheels.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "T-A",
+    "descendants": 103,
+    "time": 1438622454
   },
   {
     "rank": 3,
     "id": 10000428,
     "title": "My Life Unmasking British Eavesdroppers",
     "url": "https://firstlook.org/theintercept/2015/08/03/life-unmasking-british-eavesdroppers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "aarkay",
+    "descendants": 106,
+    "time": 1438642200
   },
   {
     "rank": 4,
     "id": 10001364,
     "title": "Twitter Contest Winning as a Service",
     "url": "http://www.hscott.net/twitter-contest-winning-as-a-service/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 578,
+    "by": "zeckalpha",
+    "descendants": 97,
+    "time": 1438656495
   },
   {
     "rank": 5,
     "id": 10001866,
     "title": "A Plan to Turn Engineers into Managers",
     "url": "http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "prawn",
+    "descendants": 191,
+    "time": 1438666924
   },
   {
     "rank": 6,
     "id": 10003413,
     "title": "How to get gmail.com banned (2011)",
     "url": "http://mailinator.blogspot.com/2011/05/how-to-get-gmailcom-banned-not-that-i.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "makmanalp",
+    "descendants": 60,
+    "time": 1438696900
   },
   {
     "rank": 7,
     "id": 10004678,
     "title": "Show HN: My SSH server knows who you are",
     "url": "https://blog.filippo.io/ssh-whoami-filippo-io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 836,
+    "by": "FiloSottile",
+    "descendants": 245,
+    "time": 1438707793
   },
   {
     "rank": 8,
     "id": 10005355,
     "title": "Federal Judge Strikes Down Idaho \u2018Ag-Gag Law\u2019",
     "url": "http://shadowproof.com/2015/08/03/federal-judge-strikes-down-idaho-ag-gag-law-defends-undercover-investigations-of-food-industry/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "chesterfield",
+    "descendants": 152,
+    "time": 1438713699
   },
   {
     "rank": 9,
     "id": 10005415,
     "title": "Show HN: JAWS \u2013 A JavaScript and AWS Stack",
     "url": "https://github.com/servant-app/JAWS",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "ac360",
+    "descendants": 124,
+    "time": 1438714190
   },
   {
     "rank": 10,
     "id": 10005577,
     "title": "Linus Torvalds did not commit this",
     "url": "https://github.com/amoffat/masquerade/commit/9b0562595cc479ac8696110cb0a2d33f8f2b7d29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "daenz",
+    "descendants": 184,
+    "time": 1438715755
   }
 ]

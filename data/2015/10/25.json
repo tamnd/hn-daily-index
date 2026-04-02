@@ -4,99 +4,99 @@
     "id": 10443932,
     "title": "The Plum-O-Meter: Weighing Plums Using 3D Touch in Swift",
     "url": "http://flexmonkey.blogspot.com/2015/10/the-plum-o-meter-weighing-plums-using.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 132,
+    "by": "NSFlexMonkey",
+    "descendants": 25,
+    "time": 1445701879
   },
   {
     "rank": 2,
     "id": 10444760,
     "title": "FE-Schrift \u2013 forgery-impeding typeface",
     "url": "https://en.wikipedia.org/wiki/FE-Schrift",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "alcari",
+    "descendants": 27,
+    "time": 1445718880
   },
   {
     "rank": 3,
     "id": 10444795,
     "title": "Japan's hidden caste of untouchables",
     "url": "http://www.bbc.com/news/world-asia-34615972",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 140,
+    "by": "rglovejoy",
+    "descendants": 124,
+    "time": 1445719513
   },
   {
     "rank": 4,
     "id": 10444957,
     "title": "Visualizing popular machine learning algorithms",
     "url": "http://jsfiddle.net/wybiral/3bdkp5c0/embedded/result/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "ingve",
+    "descendants": 38,
+    "time": 1445722860
   },
   {
     "rank": 5,
     "id": 10445129,
     "title": "What PostgreSQL has over other open source SQL databases: Part II",
     "url": "https://www.compose.io/articles/what-postgresql-has-over-other-open-source-sql-databases-part-ii/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "postila",
+    "descendants": 93,
+    "time": 1445726002
   },
   {
     "rank": 6,
     "id": 10445380,
     "title": "Show HN: Freeze \u2013 Amazon Glacier GUI Client for Mac OS X",
     "url": "https://freezeapp.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "sebcode",
+    "descendants": 50,
+    "time": 1445731690
   },
   {
     "rank": 7,
     "id": 10445927,
     "title": "Do you know how much your computer can do in a second?",
     "url": "http://computers-are-fast.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "luu",
+    "descendants": 174,
+    "time": 1445745652
   },
   {
     "rank": 8,
     "id": 10446835,
     "title": "Uber Using Driver Phones as a Backup Datacenter",
     "url": "http://highscalability.com/blog/2015/9/21/uber-goes-unconventional-using-driver-phones-as-a-backup-dat.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "antman",
+    "descendants": 123,
+    "time": 1445780277
   },
   {
     "rank": 9,
     "id": 10448136,
     "title": "Writing an OS in Rust",
     "url": "http://blog.phil-opp.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "jfreax",
+    "descendants": 34,
+    "time": 1445803084
   },
   {
     "rank": 10,
     "id": 10448445,
     "title": "Write like you talk",
     "url": "http://paulgraham.com/talk.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 647,
+    "by": "bakztfuture",
+    "descendants": 272,
+    "time": 1445807498
   }
 ]

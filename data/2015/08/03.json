@@ -4,99 +4,99 @@
     "id": 9991538,
     "title": "More Dirty Coding Tricks from Game Developers (2010)",
     "url": "http://www.gamasutra.com/view/news/249475/More_dirty_coding_tricks_from_game_developers.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "maccard",
+    "descendants": 134,
+    "time": 1438537697
   },
   {
     "rank": 2,
     "id": 9993171,
     "title": "\u201cGoogles 'vertical center div css' for the 100th time. reads for 7 minutes\u201d",
     "url": "http://www.bleonard.com/blog/2015/08/01/teaching-css/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "sebkomianos",
+    "descendants": 111,
+    "time": 1438563469
   },
   {
     "rank": 3,
     "id": 9993237,
     "title": "Postgres Guide",
     "url": "http://www.postgresguide.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "craigkerstiens",
+    "descendants": 51,
+    "time": 1438565163
   },
   {
     "rank": 4,
     "id": 9994246,
     "title": "Hello Ruby \u2013\u00a0Almost there",
     "url": "http://blog.helloruby.com/post/123541664623/almost-there",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "yorak",
+    "descendants": 122,
+    "time": 1438586533
   },
   {
     "rank": 5,
     "id": 9994276,
     "title": "The Fastest Blog in the World",
     "url": "http://jacquesmattheij.com/the-fastest-blog-in-the-world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "eugenparaschiv",
+    "descendants": 125,
+    "time": 1438587310
   },
   {
     "rank": 6,
     "id": 9994653,
     "title": "The Web We Have to Save",
     "url": "https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 760,
+    "by": "e12e",
+    "descendants": 238,
+    "time": 1438594114
   },
   {
     "rank": 7,
     "id": 9994899,
     "title": "The Unemployable Programmer",
     "url": "http://unemployable.pen.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "fuligo",
+    "descendants": 449,
+    "time": 1438599469
   },
   {
     "rank": 8,
     "id": 9996333,
     "title": "Ask HN: Who is hiring? (August 2015)",
     "url": "",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "whoishiring",
+    "descendants": 970,
+    "time": 1438614037
   },
   {
     "rank": 9,
     "id": 9997722,
     "title": "Joining a Different YC",
     "url": "http://blog.ycombinator.com/joining-a-different-yc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "liseman",
+    "descendants": 132,
+    "time": 1438621219
   },
   {
     "rank": 10,
     "id": 9998140,
     "title": "LLVM for Grad Students",
     "url": "http://adriansampson.net/blog/llvm.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 439,
+    "by": "samps",
+    "descendants": 50,
+    "time": 1438623768
   }
 ]

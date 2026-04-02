@@ -4,99 +4,99 @@
     "id": 10254511,
     "title": "Introducing Lemur",
     "url": "http://techblog.netflix.com/2015/09/introducing-lemur.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "vquemener",
+    "descendants": 22,
+    "time": 1442863134
   },
   {
     "rank": 2,
     "id": 10256170,
     "title": "Researchers Could Have Uncovered Volkswagen\u2019s Emissions Cheat If Not for DMCA",
     "url": "https://www.eff.org/deeplinks/2015/09/researchers-could-have-uncovered-volkswagens-emissions-cheat-if-not-hindered-dmca",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 641,
+    "by": "panarky",
+    "descendants": 158,
+    "time": 1442885510
   },
   {
     "rank": 3,
     "id": 10256419,
     "title": "Fukushima",
     "url": "http://www.podniesinski.pl/portal/fukushima/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "JoshGlazebrook",
+    "descendants": 211,
+    "time": 1442890871
   },
   {
     "rank": 4,
     "id": 10257305,
     "title": "Introducing Brotli: a new compression algorithm for the internet",
     "url": "http://google-opensource.blogspot.com/2015/09/introducing-brotli-new-compression.html?m=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "rey12rey",
+    "descendants": 145,
+    "time": 1442909660
   },
   {
     "rank": 5,
     "id": 10257595,
     "title": "GitLab 8.0 released with new looks and integrated CI",
     "url": "https://about.gitlab.com/2015/09/22/gitlab-8-0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "jobvandervoort",
+    "descendants": 131,
+    "time": 1442915358
   },
   {
     "rank": 6,
     "id": 10258475,
     "title": "Groupon Is Laying Off 1,100, Shutters Operations in 7 Countries",
     "url": "http://techcrunch.com/2015/09/22/groupon-is-laying-off-1100-at-a-cost-of-35m-shutters-operations-in-7-countries/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "kp25",
+    "descendants": 242,
+    "time": 1442929626
   },
   {
     "rank": 7,
     "id": 10259501,
     "title": "Announcing Meteor 1.2 \u2013 ES2015, Angular, React, and More",
     "url": "http://info.meteor.com/blog/announcing-meteor-1.2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "jonbaer",
+    "descendants": 132,
+    "time": 1442938111
   },
   {
     "rank": 8,
     "id": 10259507,
     "title": "Backblaze B2 Cloud Storage",
     "url": "https://www.backblaze.com/blog/b2-cloud-storage-provider/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "SudoAlex",
+    "descendants": 225,
+    "time": 1442938144
   },
   {
     "rank": 9,
     "id": 10261245,
     "title": "A critical Windows component expires in 25 hours",
     "url": "http://hexatomium.github.io/2015/09/22/expires-25h/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "svenfaw",
+    "descendants": 42,
+    "time": 1442951928
   },
   {
     "rank": 10,
     "id": 10261825,
     "title": "When Your Former Boss Sues You for Starting a Startup",
     "url": "https://medium.com/@michaeldouble/when-your-former-boss-sues-you-for-starting-a-startup-7a1a40e565a0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 767,
+    "by": "katm",
+    "descendants": 233,
+    "time": 1442957302
   }
 ]

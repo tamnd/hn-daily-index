@@ -4,99 +4,99 @@
     "id": 9974736,
     "title": "Preferred number",
     "url": "https://en.wikipedia.org/wiki/Preferred_number",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "twic",
+    "descendants": 40,
+    "time": 1438262499
   },
   {
     "rank": 2,
     "id": 9977342,
     "title": "The story of .io",
     "url": "http://citizen-ex.com/stories/io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "ingve",
+    "descendants": 75,
+    "time": 1438284292
   },
   {
     "rank": 3,
     "id": 9979683,
     "title": "How to create NBA shot charts in Python",
     "url": "http://savvastjortjoglou.com/nba-shot-sharts.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "ryanb",
+    "descendants": 28,
+    "time": 1438311527
   },
   {
     "rank": 4,
     "id": 9979834,
     "title": "Guido on Python",
     "url": "https://lwn.net/Articles/651967/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "vezzy-fnord",
+    "descendants": 125,
+    "time": 1438314834
   },
   {
     "rank": 5,
     "id": 9980264,
     "title": "Becoming a contractor programmer in the UK",
     "url": "https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "timooo",
+    "descendants": 159,
+    "time": 1438324620
   },
   {
     "rank": 6,
     "id": 9981282,
     "title": "Chaos Computer Club congratulates Netzpolitik.org",
     "url": "https://www.ccc.de/de/updates/2015/ccc-verratsdatenspeicherung",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "muhpirat",
+    "descendants": 58,
+    "time": 1438345714
   },
   {
     "rank": 7,
     "id": 9981745,
     "title": "GravityLight: Generate light with gravity",
     "url": "http://gravitylight.org/gravitylight",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "dimitrideag",
+    "descendants": 126,
+    "time": 1438350850
   },
   {
     "rank": 8,
     "id": 9981805,
     "title": "FFmpeg's future and resigning as leader",
     "url": "http://ffmpeg.org/pipermail/ffmpeg-devel/2015-July/176489.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "ux",
+    "descendants": 144,
+    "time": 1438351527
   },
   {
     "rank": 9,
     "id": 9982170,
     "title": "How Does Voxel Quest Work Now?",
     "url": "http://www.voxelquest.com/news/how-does-voxel-quest-work-now-august-2015-update",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "gavanwoolery",
+    "descendants": 88,
+    "time": 1438354923
   },
   {
     "rank": 10,
     "id": 9983204,
     "title": "ClojureScript 1.7: ClojureScript can compile itself",
     "url": "http://swannodette.github.io/2015/07/29/clojurescript-17/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 536,
+    "by": "programnature",
+    "descendants": 106,
+    "time": 1438365395
   }
 ]

@@ -4,99 +4,99 @@
     "id": 10059249,
     "title": "Oxford University Machine Learning Course",
     "url": "https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "jcr",
+    "descendants": 18,
+    "time": 1439543815
   },
   {
     "rank": 2,
     "id": 10060168,
     "title": "CS224d: Deep Learning for Natural Language Processing",
     "url": "http://cs224d.stanford.edu/syllabus.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "andreaespinosa",
+    "descendants": 30,
+    "time": 1439561491
   },
   {
     "rank": 3,
     "id": 10061172,
     "title": "DEFCON 23 Badge Challenge",
     "url": "http://potatohatsecurity.tumblr.com/post/126411303994/defcon-23-badge-challenge",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "zioto",
+    "descendants": 44,
+    "time": 1439570848
   },
   {
     "rank": 4,
     "id": 10061391,
     "title": "How California Is Winning the Drought",
     "url": "http://www.nytimes.com/2015/08/16/opinion/sunday/how-california-is-winning-the-drought.html?action=click&pgtype=Homepage&module=opinion-c-col-right-region&region=opinion-c-col-right-region&WT.nav=opinion-c-col-right-region&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 148,
+    "by": "kevin",
+    "descendants": 191,
+    "time": 1439572842
   },
   {
     "rank": 5,
     "id": 10061700,
     "title": "Apes may be closer to speaking than many scientists think",
     "url": "http://news.wisc.edu/23941",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "adamnemecek",
+    "descendants": 103,
+    "time": 1439575523
   },
   {
     "rank": 6,
     "id": 10063107,
     "title": "A Simple Fix for Drunken Driving: Modest, Immediate Penalties",
     "url": "http://www.wsj.com/articles/a-simple-fix-for-drunken-driving-1439564251",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "nradov",
+    "descendants": 249,
+    "time": 1439588379
   },
   {
     "rank": 7,
     "id": 10063659,
     "title": "I Will Kill You [video]",
     "url": "https://www.youtube.com/watch?v=9FdHq3WfJgs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 159,
+    "by": "nnd",
+    "descendants": 16,
+    "time": 1439595963
   },
   {
     "rank": 8,
     "id": 10064565,
     "title": "Saving 25,000 Manuals",
     "url": "http://ascii.textfiles.com/archives/4683",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "Doubleguitars",
+    "descendants": 68,
+    "time": 1439621063
   },
   {
     "rank": 9,
     "id": 10065243,
     "title": "Inside Amazon: Wrestling Big Ideas in a Bruising Workplace",
     "url": "http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 708,
+    "by": "IBM",
+    "descendants": 424,
+    "time": 1439643047
   },
   {
     "rank": 10,
     "id": 10066014,
     "title": "AT&T Helped N.S.A. Spy on an Array of Internet Traffic",
     "url": "http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "tchalla",
+    "descendants": 117,
+    "time": 1439659141
   }
 ]

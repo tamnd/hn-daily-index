@@ -4,99 +4,99 @@
     "id": 10409979,
     "title": "Structor \u2013 UI Builder for React",
     "url": "http://helmetrex.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "ipselon",
+    "descendants": 28,
+    "time": 1445205520
   },
   {
     "rank": 2,
     "id": 10410046,
     "title": "React Desktop \u2013 React UI Components for OS X El Capitan and Windows 10",
     "url": "https://github.com/gabrielbull/react-desktop",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "dalailambda",
+    "descendants": 73,
+    "time": 1445206542
   },
   {
     "rank": 3,
     "id": 10410833,
     "title": "Facebook iOS App Scrapes Your Clipboard?",
     "url": "https://un-excogitate.org/facebook-ios-clipboard/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "chillaxtian",
+    "descendants": 124,
+    "time": 1445222939
   },
   {
     "rank": 4,
     "id": 10410879,
     "title": "Trix: A rich text editor for everyday writing",
     "url": "https://github.com/basecamp/trix",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 510,
+    "by": "kqdreger",
+    "descendants": 130,
+    "time": 1445224084
   },
   {
     "rank": 5,
     "id": 10412030,
     "title": "Ogo, a new take on personal transportation",
     "url": "http://ogotechnology.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 588,
+    "by": "prawn",
+    "descendants": 182,
+    "time": 1445249483
   },
   {
     "rank": 6,
     "id": 10412284,
     "title": "How Can We Achieve Age Diversity in Silicon Valley?",
     "url": "https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "steven",
+    "descendants": 502,
+    "time": 1445255491
   },
   {
     "rank": 7,
     "id": 10412401,
     "title": "iOS Apps Using Private APIs",
     "url": "https://sourcedna.com/blog/20151018/ios-apps-using-private-apis.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "tptacek",
+    "descendants": 79,
+    "time": 1445257344
   },
   {
     "rank": 8,
     "id": 10412751,
     "title": "What The New York Times Didn\u2019t Say About Amazon",
     "url": "https://medium.com/@jaycarney/what-the-new-york-times-didn-t-tell-you-a1128aa78931",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "samhoggnz",
+    "descendants": 260,
+    "time": 1445261356
   },
   {
     "rank": 9,
     "id": 10413861,
     "title": "First chapter of Kernighan and Donovan's new Go book [pdf]",
     "url": "http://www.gopl.io/ch1.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "rexignis",
+    "descendants": 227,
+    "time": 1445271638
   },
   {
     "rank": 10,
     "id": 10415509,
     "title": "OpenSSH for Windows update",
     "url": "http://blogs.msdn.com/b/powershell/archive/2015/10/19/openssh-for-windows-update.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "ghurlman",
+    "descendants": 138,
+    "time": 1445286732
   }
 ]

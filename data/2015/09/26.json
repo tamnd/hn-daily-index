@@ -4,99 +4,99 @@
     "id": 10278774,
     "title": "How Chromium Works",
     "url": "https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "aboodman",
+    "descendants": 71,
+    "time": 1443195868
   },
   {
     "rank": 2,
     "id": 10278973,
     "title": "Urbit: an operating function",
     "url": "http://urbit.org/preview/~2015.9.25/materials/whitepaper",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "privong",
+    "descendants": 169,
+    "time": 1443197709
   },
   {
     "rank": 3,
     "id": 10279030,
     "title": "Google voice search: faster and more accurate",
     "url": "http://googleresearch.blogspot.com/2015/09/google-voice-search-faster-and-more.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "gok",
+    "descendants": 67,
+    "time": 1443198172
   },
   {
     "rank": 4,
     "id": 10280282,
     "title": "I Have Read Prop F",
     "url": "https://medium.com/@emeyerson/prop-f-is-worse-than-you-think-17e395ca8761",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "_sentient",
+    "descendants": 170,
+    "time": 1443210627
   },
   {
     "rank": 5,
     "id": 10280324,
     "title": "Keybase's New Key Model",
     "url": "https://keybase.io/blog/keybase-new-key-model",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "aston",
+    "descendants": 79,
+    "time": 1443211051
   },
   {
     "rank": 6,
     "id": 10282121,
     "title": "The Greatest Regex Trick Ever (2014)",
     "url": "http://www.rexegg.com/regex-best-trick.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "user_235711",
+    "descendants": 131,
+    "time": 1443242467
   },
   {
     "rank": 7,
     "id": 10282230,
     "title": "Terence Tao solves the Erd\u0151s Discrepancy Problem",
     "url": "http://www.nature.com/news/maths-whiz-solves-a-master-s-riddle-1.18441",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "jonbaer",
+    "descendants": 27,
+    "time": 1443246041
   },
   {
     "rank": 8,
     "id": 10282523,
     "title": "Lazy Redis is better Redis",
     "url": "http://antirez.com/news/93",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "mostafah",
+    "descendants": 22,
+    "time": 1443254982
   },
   {
     "rank": 9,
     "id": 10283327,
     "title": "The real anti-Facebook is good old email",
     "url": "http://www.wired.com/2015/09/sorry-ello-real-anti-facebook-good-old-email/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "Alex3917",
+    "descendants": 155,
+    "time": 1443281239
   },
   {
     "rank": 10,
     "id": 10284321,
     "title": "Show HN: I spent a year making an electro-mechanical prototype of a liquid clock",
     "url": "http://www.hellorhei.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 681,
+    "by": "damjanstankovic",
+    "descendants": 103,
+    "time": 1443299350
   }
 ]

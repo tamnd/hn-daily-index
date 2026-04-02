@@ -4,99 +4,99 @@
     "id": 10165395,
     "title": "Madoko \u2013 Write full-blown academic articles in Markdown",
     "url": "https://www.madoko.net",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "talles",
+    "descendants": 89,
+    "time": 1441293468
   },
   {
     "rank": 2,
     "id": 10165716,
     "title": "Neural Networks, Types, and Functional Programming",
     "url": "http://colah.github.io/posts/2015-09-NN-Types-FP/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "burningion",
+    "descendants": 28,
+    "time": 1441296485
   },
   {
     "rank": 3,
     "id": 10168734,
     "title": "The Mystery of Devil's Kettle Falls",
     "url": "http://www.mnn.com/lifestyle/eco-tourism/stories/the-mystery-of-devils-kettle-falls",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "oskenso",
+    "descendants": 89,
+    "time": 1441338662
   },
   {
     "rank": 4,
     "id": 10169129,
     "title": "Happy Birthday Monkey Island",
     "url": "http://grumpygamer.com/monkey25",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "alblue",
+    "descendants": 119,
+    "time": 1441350587
   },
   {
     "rank": 5,
     "id": 10169417,
     "title": "Responsive CSS grid, reordered with native HTML5 drag and drop",
     "url": "https://clippings.github.io/layout-grid/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "seer",
+    "descendants": 32,
+    "time": 1441358289
   },
   {
     "rank": 6,
     "id": 10169782,
     "title": "Don\u2019t Build a Billion-Dollar Business",
     "url": "https://www.backblaze.com/blog/dont-build-a-billion-dollar-business-really/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 476,
+    "by": "discreditable",
+    "descendants": 267,
+    "time": 1441366742
   },
   {
     "rank": 7,
     "id": 10170089,
     "title": "How JetBrains Lost Years of Customer Loyalty in Just a Few Hours",
     "url": "http://bytecrafter.blogspot.com/2015/09/how-jetbrains-lost-years-of-customer.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "rograndom",
+    "descendants": 490,
+    "time": 1441371547
   },
   {
     "rank": 8,
     "id": 10171469,
     "title": "CS Unplugged: Computer Science Without a Computer",
     "url": "http://csunplugged.org/activities/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "avinassh",
+    "descendants": 87,
+    "time": 1441384466
   },
   {
     "rank": 9,
     "id": 10171606,
     "title": "How Secure Channels Attempted to Intimidate a Critic and Failed Spectacularly",
     "url": "http://popehat.com/2015/09/04/how-secure-channels-attempted-to-intimidate-a-critic-and-failed-spectacularly/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Popehat+%28Popehat%29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "tptacek",
+    "descendants": 26,
+    "time": 1441385941
   },
   {
     "rank": 10,
     "id": 10171942,
     "title": "Call Me Maybe: MariaDB Galera Cluster",
     "url": "https://aphyr.com/posts/327-call-me-maybe-mariadb-galera-cluster",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "akerl_",
+    "descendants": 97,
+    "time": 1441389619
   }
 ]

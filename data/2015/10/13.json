@@ -4,99 +4,99 @@
     "id": 10374593,
     "title": "Node.js: Some quick optimization advice",
     "url": "https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "SanderMak",
+    "descendants": 72,
+    "time": 1444659257
   },
   {
     "rank": 2,
     "id": 10377489,
     "title": "Appeals court hits largest public patent troll with $1.4M fee",
     "url": "http://arstechnica.com/tech-policy/2015/10/netapps-1-4m-fee-smackdown-against-patent-troll-holds-up-on-appeal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "solveforall",
+    "descendants": 49,
+    "time": 1444692779
   },
   {
     "rank": 3,
     "id": 10379279,
     "title": "Complete LiDAR Scan of England Publicly Available",
     "url": "https://environmentagency.blog.gov.uk/2015/09/18/laser-surveys-light-up-open-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "alibarber",
+    "descendants": 67,
+    "time": 1444727592
   },
   {
     "rank": 4,
     "id": 10379948,
     "title": "Twitter announces layoffs",
     "url": "https://www.sec.gov/Archives/edgar/data/1418091/000156459015008360/twtr-ex991_6.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 582,
+    "by": "uptown",
+    "descendants": 381,
+    "time": 1444739833
   },
   {
     "rank": 5,
     "id": 10380018,
     "title": "MH17 Report",
     "url": "http://www.bbc.co.uk/news/live/world-europe-34514727",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "nns",
+    "descendants": 140,
+    "time": 1444740717
   },
   {
     "rank": 6,
     "id": 10380251,
     "title": "Laser Razor suspended by Kickstarter",
     "url": "http://www.bbc.com/news/technology-34516907#?utm_medium=twitter&utm_source=twitterfeed",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "aram",
+    "descendants": 124,
+    "time": 1444742705
   },
   {
     "rank": 7,
     "id": 10380661,
     "title": "Auto-Generating Clickbait with Recurrent Neural Networks",
     "url": "http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "lars",
+    "descendants": 64,
+    "time": 1444746441
   },
   {
     "rank": 8,
     "id": 10381015,
     "title": "Flux is the new WndProc",
     "url": "http://bitquabit.com/post/the-more-things-change/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "gecko",
+    "descendants": 126,
+    "time": 1444749397
   },
   {
     "rank": 9,
     "id": 10381821,
     "title": "The world needs at least 600M new jobs in the next decade for young people",
     "url": "http://www.bloomberg.com/news/articles/2015-10-13/if-you-re-young-the-job-outlook-is-grim-no-matter-where-you-live",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "cryoshon",
+    "descendants": 477,
+    "time": 1444755968
   },
   {
     "rank": 10,
     "id": 10381914,
     "title": "Emacs maintainer steps down",
     "url": "https://lists.gnu.org/archive/html/emacs-devel/2015-09/msg00849.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "zeveb",
+    "descendants": 71,
+    "time": 1444756600
   }
 ]

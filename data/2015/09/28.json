@@ -4,99 +4,99 @@
     "id": 10288242,
     "title": "Procedural City Generation in Python",
     "url": "https://josauder.github.io/procedural_city_generation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "eatonphil",
+    "descendants": 19,
+    "time": 1443395269
   },
   {
     "rank": 2,
     "id": 10288552,
     "title": "Netflix Switch \u2013 dim lights, turn on the TV, order food, and silence your phone",
     "url": "http://makeit.netflix.com/the-switch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "PascLeRasc",
+    "descendants": 84,
+    "time": 1443403747
   },
   {
     "rank": 3,
     "id": 10289220,
     "title": "Full Reddit Submission Corpus now available for 2006 thru August 2015",
     "url": "https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "voltagex_",
+    "descendants": 92,
+    "time": 1443423635
   },
   {
     "rank": 4,
     "id": 10289764,
     "title": "Sex, Circuits and Deep House",
     "url": "http://www.bunniestudios.com/blog/?p=4484",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "etiam",
+    "descendants": 26,
+    "time": 1443437813
   },
   {
     "rank": 5,
     "id": 10290073,
     "title": "Shaky: ASCII Diagram to PNG",
     "url": "http://shaky.github.bushong.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "tambourine_man",
+    "descendants": 70,
+    "time": 1443443616
   },
   {
     "rank": 6,
     "id": 10290436,
     "title": "Kotlin: A New Hope in a Java 6 Wasteland",
     "url": "https://realm.io/news/droidcon-michael-pardo-kotlin/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "ingve",
+    "descendants": 223,
+    "time": 1443448282
   },
   {
     "rank": 7,
     "id": 10290793,
     "title": "Signs of Liquid Water Found on Surface of Mars, Study Says",
     "url": "http://www.nytimes.com/2015/09/29/science/space/mars-life-liquid-water.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1011,
+    "by": "uptown",
+    "descendants": 178,
+    "time": 1443452528
   },
   {
     "rank": 8,
     "id": 10291070,
     "title": "Why Airbnb is dead to me",
     "url": "http://drupaler.drupalgardens.com/content/why-airbnb-dead-me",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "longwave",
+    "descendants": 230,
+    "time": 1443455700
   },
   {
     "rank": 9,
     "id": 10291777,
     "title": "Nomad, a cluster manager and scheduler",
     "url": "https://www.hashicorp.com/blog/nomad.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "craneca0",
+    "descendants": 46,
+    "time": 1443462155
   },
   {
     "rank": 10,
     "id": 10291778,
     "title": "Otto, the successor to Vagrant",
     "url": "https://www.hashicorp.com/blog/otto.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 772,
+    "by": "agonzalezro",
+    "descendants": 177,
+    "time": 1443462171
   }
 ]
