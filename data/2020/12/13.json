@@ -4,99 +4,99 @@
     "id": 25398429,
     "title": "Earnestness",
     "url": "http://paulgraham.com/earnest.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "jger15",
+    "descendants": 439,
+    "time": 1607783591
   },
   {
     "rank": 2,
     "id": 25399058,
     "title": "Become Shell Literate",
     "url": "https://drewdevault.com/2020/12/12/Shell-literacy.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "als0",
+    "descendants": 330,
+    "time": 1607789037
   },
   {
     "rank": 3,
     "id": 25401294,
     "title": "I Hacked into Facebook's Legal Department Admin Panel",
     "url": "https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 669,
+    "by": "hackerpain",
+    "descendants": 290,
+    "time": 1607804232
   },
   {
     "rank": 4,
     "id": 25403163,
     "title": "Why radio receivers won\u2019t tune 800-900 MHz",
     "url": "https://computer.rip/2020-11-28%20the%20verboten%20band.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 439,
+    "by": "jtakkala",
+    "descendants": 165,
+    "time": 1607819546
   },
   {
     "rank": 5,
     "id": 25405259,
     "title": "Show HN: An anti-book recommendation tool, to help you escape your echo chamber",
     "url": "https://abooklikefoo.com/escape/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "padolsey",
+    "descendants": 254,
+    "time": 1607850316
   },
   {
     "rank": 6,
     "id": 25405737,
     "title": "Goodreads plans to retire API access, disables existing API keys",
     "url": "https://joealcorn.co.uk/blog/2020/goodreads-retiring-API",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 869,
+    "by": "buttscicles",
+    "descendants": 422,
+    "time": 1607857676
   },
   {
     "rank": 7,
     "id": 25406211,
     "title": "If-then-else had to be invented",
     "url": "https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "fanf2",
+    "descendants": 248,
+    "time": 1607863391
   },
   {
     "rank": 8,
     "id": 25407583,
     "title": "The fraying of the U.S. global currency reserve system",
     "url": "https://www.lynalden.com/fraying-petrodollar-system/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "paulsb",
+    "descendants": 344,
+    "time": 1607876318
   },
   {
     "rank": 9,
     "id": 25408853,
     "title": "ARM MacBook vs. Intel MacBook: A SIMD Benchmark",
     "url": "https://lemire.me/blog/2020/12/13/arm-macbook-vs-intel-macbook-a-simd-benchmark/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "todsacerdoti",
+    "descendants": 212,
+    "time": 1607884456
   },
   {
     "rank": 10,
     "id": 25409416,
     "title": "U.S. Treasury breached by hackers backed by foreign government \u2013 sources",
     "url": "https://www.reuters.com/article/us-usa-cyber-amazon-com-exclsuive/u-s-treasury-breached-by-hackers-backed-by-foreign-government-sources-idUSKBN28N0PG",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 773,
+    "by": "re_re",
+    "descendants": 362,
+    "time": 1607888268
   }
 ]

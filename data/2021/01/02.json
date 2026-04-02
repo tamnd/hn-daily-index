@@ -4,99 +4,99 @@
     "id": 25605156,
     "title": "Peer-reviewed papers are getting increasingly boring",
     "url": "https://lemire.me/blog/2021/01/01/peer-reviewed-papers-are-getting-increasingly-boring/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "ingve",
+    "descendants": 204,
+    "time": 1609524301
   },
   {
     "rank": 2,
     "id": 25605470,
     "title": "Artichoke is a Ruby made with Rust that compiles to WebAssembly",
     "url": "https://github.com/artichoke/artichoke",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "ibraheemdev",
+    "descendants": 49,
+    "time": 1609526420
   },
   {
     "rank": 3,
     "id": 25609321,
     "title": "Horrifying PDF Experiments",
     "url": "https://github.com/osnr/horrifying-pdf-experiments",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "thesephist",
+    "descendants": 180,
+    "time": 1609551189
   },
   {
     "rank": 4,
     "id": 25610741,
     "title": "A half-hour to learn Rust",
     "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1444,
+    "by": "selvan",
+    "descendants": 330,
+    "time": 1609566639
   },
   {
     "rank": 5,
     "id": 25611883,
     "title": "US passes anti-corruption law that effectively bans anonymous shell companies",
     "url": "https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 554,
+    "by": "gscott",
+    "descendants": 305,
+    "time": 1609584339
   },
   {
     "rank": 6,
     "id": 25612223,
     "title": "Open Source Smartwatch",
     "url": "https://www.pine64.org/pinetime/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "sytelus",
+    "descendants": 246,
+    "time": 1609589178
   },
   {
     "rank": 7,
     "id": 25612786,
     "title": "Facebook's advertising integrity chief leaves company",
     "url": "https://www.reuters.com/article/us-facebook-executive-idUSKBN2962M6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "elsewhen",
+    "descendants": 229,
+    "time": 1609595122
   },
   {
     "rank": 8,
     "id": 25612962,
     "title": "WSL2 corrupting Git repositories and shell history",
     "url": "https://github.com/microsoft/WSL2-Linux-Kernel/issues/168",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 614,
+    "by": "delduca",
+    "descendants": 408,
+    "time": 1609597064
   },
   {
     "rank": 9,
     "id": 25613937,
     "title": "Atlassian Cloud ToS section 3.3(I) prohibits discussing performance issues",
     "url": "https://www.atlassian.com/legal/cloud-terms-of-service",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "dmitriid",
+    "descendants": 293,
+    "time": 1609605313
   },
   {
     "rank": 10,
     "id": 25614167,
     "title": "Show HN: I shot high-res stitched panoramas in Iceland using a thermal camera",
     "url": "https://petapixel.com/2019/07/13/shooting-high-res-thermal-photos-of-iceland-to-show-nature-at-work/?q=5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 753,
+    "by": "dheera",
+    "descendants": 95,
+    "time": 1609606842
   }
 ]

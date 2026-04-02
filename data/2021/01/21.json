@@ -4,99 +4,99 @@
     "id": 25845201,
     "title": "Linux Running on Apple M1",
     "url": "https://twitter.com/cmwdotme/status/1351838924621099008",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "ig0r0",
+    "descendants": 275,
+    "time": 1611142749
   },
   {
     "rank": 2,
     "id": 25849679,
     "title": "FedEx shipping damage creates fractured artworks",
     "url": "https://kottke.org/21/01/fedex-shipping-damage-creates-fractured-artworks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "talonx",
+    "descendants": 167,
+    "time": 1611165969
   },
   {
     "rank": 3,
     "id": 25849800,
     "title": "I tried creating a web browser and Google blocked me (2019)",
     "url": "https://blog.samuelmaddock.com/posts/google-widevine-blocked-my-browser/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "gu5",
+    "descendants": 186,
+    "time": 1611166428
   },
   {
     "rank": 4,
     "id": 25850739,
     "title": "Ask HN: Anyone know any funny programming jokes?",
     "url": "https://news.ycombinator.com/item?id=25850739",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 740,
+    "by": "arthurcolle",
+    "descendants": 852,
+    "time": 1611170670
   },
   {
     "rank": 5,
     "id": 25853699,
     "title": "Google Blocking Web Privacy Proposals at W3C (2019)",
     "url": "https://www.cpomagazine.com/data-privacy/google-blocking-web-privacy-proposals-at-w3c/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 592,
+    "by": "crazypython",
+    "descendants": 173,
+    "time": 1611188270
   },
   {
     "rank": 6,
     "id": 25854523,
     "title": "Select a muscle and it provides the exercises to workout the selected muscle",
     "url": "https://musclewiki.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2019,
+    "by": "punkspider",
+    "descendants": 329,
+    "time": 1611195335
   },
   {
     "rank": 7,
     "id": 25856291,
     "title": "Raspberry Pi Pico and RP2040 Microcontroller",
     "url": "https://www.raspberrypi.org/products/raspberry-pi-pico/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "schappim",
+    "descendants": 258,
+    "time": 1611212405
   },
   {
     "rank": 8,
     "id": 25858750,
     "title": "New Intel CEO Making Waves: Rehiring Retired CPU Architects",
     "url": "https://www.anandtech.com/show/16438/new-intel-ceo-making-waves-rehiring-retired-cpu-architects",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 747,
+    "by": "rbanffy",
+    "descendants": 532,
+    "time": 1611237190
   },
   {
     "rank": 9,
     "id": 25862291,
     "title": "Rust for Windows",
     "url": "https://github.com/microsoft/windows-rs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 785,
+    "by": "dsr12",
+    "descendants": 293,
+    "time": 1611254250
   },
   {
     "rank": 10,
     "id": 25865094,
     "title": "AWS announces forks of Elasticsearch and Kibana",
     "url": "https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1314,
+    "by": "ke4qqq",
+    "descendants": 935,
+    "time": 1611266878
   }
 ]

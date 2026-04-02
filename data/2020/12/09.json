@@ -4,99 +4,99 @@
     "id": 25345428,
     "title": "CentOS Project shifts focus to CentOS Stream",
     "url": "https://lists.centos.org/pipermail/centos-announce/2020-December/048208.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 521,
+    "by": "rwky",
+    "descendants": 628,
+    "time": 1607437226
   },
   {
     "rank": 2,
     "id": 25346456,
     "title": "Ask HN: What's the best paper you've read in 2020?",
     "url": "https://news.ycombinator.com/item?id=25346456",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 705,
+    "by": "luizfelberti",
+    "descendants": 192,
+    "time": 1607441359
   },
   {
     "rank": 3,
     "id": 25349068,
     "title": "CSS in GitHub Readmes",
     "url": "https://github.com/sindresorhus/css-in-readme-like-wat",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "MH15",
+    "descendants": 193,
+    "time": 1607450730
   },
   {
     "rank": 4,
     "id": 25352385,
     "title": "Show HN: This website is valid JSON",
     "url": "https://webdatarender.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 604,
+    "by": "gpnt",
+    "descendants": 229,
+    "time": 1607466811
   },
   {
     "rank": 5,
     "id": 25357409,
     "title": "Why is the Google Cloud UI so slow?",
     "url": "https://www.debugbear.com/blog/slow-google-cloud-ui",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "mostlystatic",
+    "descendants": 384,
+    "time": 1607512139
   },
   {
     "rank": 6,
     "id": 25358111,
     "title": "EU countries team up for semiconductor push",
     "url": "https://www.reuters.com/article/eu-tech-semiconductor-idUSKBN28H1HV",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 633,
+    "by": "rvieira",
+    "descendants": 647,
+    "time": 1607519654
   },
   {
     "rank": 7,
     "id": 25359003,
     "title": "YouTube to remove content that alleges widespread election fraud",
     "url": "https://blog.youtube/news-and-events/supporting-the-2020-us-election",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1183,
+    "by": "1cvmask",
+    "descendants": 3065,
+    "time": 1607525415
   },
   {
     "rank": 8,
     "id": 25359144,
     "title": "Elon Musk moves to Texas",
     "url": "https://www.ktvu.com/news/tesla-ceo-elon-musk-critical-of-california-leaves-the-state-and-moves-to-texas",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 499,
+    "by": "cft",
+    "descendants": 1099,
+    "time": 1607526080
   },
   {
     "rank": 9,
     "id": 25363366,
     "title": "FTC Sues Facebook for Illegal Monopolization",
     "url": "https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1752,
+    "by": "minimaxir",
+    "descendants": 709,
+    "time": 1607542535
   },
   {
     "rank": 10,
     "id": 25363981,
     "title": "Hyundai to acquire Boston Dynamics",
     "url": "https://www.therobotreport.com/hyundai-acquires-boston-dynamics-for-921m/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 748,
+    "by": "tazlor",
+    "descendants": 248,
+    "time": 1607544514
   }
 ]

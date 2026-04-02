@@ -4,99 +4,99 @@
     "id": 25475037,
     "title": "Cyberpunk 2077: How 2020\u2019s biggest video game launch turned into a shambles",
     "url": "https://www.theguardian.com/games/2020/dec/18/cyberpunk-2077-how-2020s-biggest-video-game-launch-turned-into-a-shambles",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "helsinkiandrew",
+    "descendants": 438,
+    "time": 1608352185
   },
   {
     "rank": 2,
     "id": 25481143,
     "title": "Ryzen 5800X vs. M1: Programming benchmarks",
     "url": "https://github.com/tuhdo/tuhdo.github.io/blob/master/emacs-tutor/zen3_vs_m1.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "tuhdo",
+    "descendants": 301,
+    "time": 1608411564
   },
   {
     "rank": 3,
     "id": 25482410,
     "title": "Back to the '70s with Serverless",
     "url": "http://evrl.com/devops/cloud/2020/12/18/serverless.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "pjmlp",
+    "descendants": 298,
+    "time": 1608421490
   },
   {
     "rank": 4,
     "id": 25482883,
     "title": "Windows 10 20H2: ChkDsk damages filesystem on SSDs with KB4592438 installed",
     "url": "https://borncity.com/win/2020/12/18/windows-10-20h2-chkdsk-damages-file-system-on-ssds-with-update-kb4592438-installed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "xeeeeeeeeeeenu",
+    "descendants": 294,
+    "time": 1608425908
   },
   {
     "rank": 5,
     "id": 25482927,
     "title": "All problems stem from man's inability to sit quietly in a room alone (2014)",
     "url": "https://www.theguardian.com/lifeandstyle/2014/jul/19/change-your-life-sit-down-and-think",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 826,
+    "by": "chesterfield",
+    "descendants": 446,
+    "time": 1608426393
   },
   {
     "rank": 6,
     "id": 25483010,
     "title": "Apple M1 foreshadows Rise of RISC-V",
     "url": "https://erik-engheim.medium.com/apple-m1-foreshadows-risc-v-dd63a62b2562",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "socialdemocrat",
+    "descendants": 305,
+    "time": 1608427335
   },
   {
     "rank": 7,
     "id": 25485428,
     "title": "Raspberry Pi Server Mark III",
     "url": "https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "homarp",
+    "descendants": 166,
+    "time": 1608462487
   },
   {
     "rank": 8,
     "id": 25485651,
     "title": "The web is 30 years old today",
     "url": "https://home.cern/science/computing/birth-web",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 754,
+    "by": "Anon84",
+    "descendants": 163,
+    "time": 1608465259
   },
   {
     "rank": 9,
     "id": 25485966,
     "title": "Starting Sunday, cable companies can no longer \u2018rent\u2019 you the router you own",
     "url": "https://www.theverge.com/2020/12/19/22191096/internet-modem-router-rental-fee-fix-television-viewer-protection-act-tvpa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "pseudolus",
+    "descendants": 178,
+    "time": 1608469581
   },
   {
     "rank": 10,
     "id": 25487711,
     "title": "FFmpeg is 20 years old today",
     "url": "https://twitter.com/ffmpeg/status/1340698413143224320",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "Daemon404",
+    "descendants": 93,
+    "time": 1608484144
   }
 ]
