@@ -4,7 +4,7 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 78,
+    "score": 79,
     "by": "bonzini",
     "descendants": 41,
     "time": 1775119724
@@ -14,9 +14,9 @@
     "id": 47612127,
     "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
     "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
-    "score": 28,
+    "score": 29,
     "by": "bundie",
-    "descendants": 34,
+    "descendants": 36,
     "time": 1775122988
   },
   {
@@ -44,23 +44,13 @@
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-    "score": 45,
+    "score": 46,
     "by": "luu",
     "descendants": 20,
     "time": 1774933899
   },
   {
     "rank": 6,
-    "id": 47611921,
-    "title": "Significant Raise of Reports",
-    "url": "https://lwn.net/Articles/1065620/",
-    "score": 14,
-    "by": "stratos123",
-    "descendants": 4,
-    "time": 1775121258
-  },
-  {
-    "rank": 7,
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
@@ -68,6 +58,16 @@
     "by": "jaden",
     "descendants": 44,
     "time": 1775100933
+  },
+  {
+    "rank": 7,
+    "id": 47611921,
+    "title": "Significant Raise of Reports",
+    "url": "https://lwn.net/Articles/1065620/",
+    "score": 14,
+    "by": "stratos123",
+    "descendants": 4,
+    "time": 1775121258
   },
   {
     "rank": 8,
