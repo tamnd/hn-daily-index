@@ -16,7 +16,7 @@
     "url": "https://blogit.michelin.io/clojure-programming/",
     "score": 79,
     "by": "smartmic",
-    "descendants": 15,
+    "descendants": 16,
     "time": 1775117951
   },
   {
@@ -26,7 +26,7 @@
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
     "score": 102,
     "by": "novaRom",
-    "descendants": 46,
+    "descendants": 47,
     "time": 1775127000
   },
   {
@@ -41,6 +41,16 @@
   },
   {
     "rank": 5,
+    "id": 47611921,
+    "title": "Significant Raise of Reports",
+    "url": "https://lwn.net/Articles/1065620/",
+    "score": 41,
+    "by": "stratos123",
+    "descendants": 14,
+    "time": 1775121258
+  },
+  {
+    "rank": 6,
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
@@ -50,21 +60,11 @@
     "time": 1774933899
   },
   {
-    "rank": 6,
-    "id": 47611921,
-    "title": "Significant Raise of Reports",
-    "url": "https://lwn.net/Articles/1065620/",
-    "score": 39,
-    "by": "stratos123",
-    "descendants": 14,
-    "time": 1775121258
-  },
-  {
     "rank": 7,
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 177,
+    "score": 178,
     "by": "jaden",
     "descendants": 55,
     "time": 1775100933
