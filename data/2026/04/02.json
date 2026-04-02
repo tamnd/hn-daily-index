@@ -4,9 +4,9 @@
     "id": 47613981,
     "title": "LinkedIn Is Illegally Searching Your Computer",
     "url": "https://browsergate.eu/",
-    "score": 168,
+    "score": 179,
     "by": "digitalWestie",
-    "descendants": 66,
+    "descendants": 71,
     "time": 1775135349
   },
   {
@@ -14,7 +14,7 @@
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 121,
+    "score": 122,
     "by": "AbuAssar",
     "descendants": 28,
     "time": 1775127891
@@ -24,7 +24,7 @@
     "id": 47613078,
     "title": "Inside Nepal's Fake Rescue Racket",
     "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 80,
+    "score": 81,
     "by": "lode",
     "descendants": 21,
     "time": 1775130041
@@ -34,9 +34,9 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 268,
+    "score": 270,
     "by": "novaRom",
-    "descendants": 146,
+    "descendants": 147,
     "time": 1775127000
   },
   {
@@ -44,7 +44,7 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 160,
+    "score": 161,
     "by": "bonzini",
     "descendants": 95,
     "time": 1775119724
@@ -66,7 +66,7 @@
     "url": "https://blogit.michelin.io/clojure-programming/",
     "score": 107,
     "by": "smartmic",
-    "descendants": 46,
+    "descendants": 48,
     "time": 1775117951
   },
   {
@@ -96,7 +96,7 @@
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
     "score": 213,
     "by": "jaden",
-    "descendants": 66,
+    "descendants": 67,
     "time": 1775100933
   }
 ]
