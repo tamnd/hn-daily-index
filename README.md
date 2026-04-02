@@ -54,7 +54,7 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 | [**19**](#2026-01-19) | [**20**](#2026-01-20) | [**21**](#2026-01-21) | [**22**](#2026-01-22) | [**23**](#2026-01-23) | [**24**](#2026-01-24) | [**25**](#2026-01-25) |
 | [**26**](#2026-01-26) | [**27**](#2026-01-27) | [**28**](#2026-01-28) | [**29**](#2026-01-29) | [**30**](#2026-01-30) | [**31**](#2026-01-31) |  |
 
-### [2025](data/2025/) (60/365 days)
+### [2025](data/2025/) (90/365 days)
 
 [**December**](data/2025/12/) (30/31)
 
@@ -76,15 +76,15 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 | [**17**](data/2025/11/#2025-11-17) | [**18**](data/2025/11/#2025-11-18) | [**19**](data/2025/11/#2025-11-19) | [**20**](data/2025/11/#2025-11-20) | [**21**](data/2025/11/#2025-11-21) | [**22**](data/2025/11/#2025-11-22) | [**23**](data/2025/11/#2025-11-23) |
 | [**24**](data/2025/11/#2025-11-24) | [**25**](data/2025/11/#2025-11-25) | [**26**](data/2025/11/#2025-11-26) | [**27**](data/2025/11/#2025-11-27) | [**28**](data/2025/11/#2025-11-28) | [**29**](data/2025/11/#2025-11-29) | [**30**](data/2025/11/#2025-11-30) |
 
-[**October**](data/2025/10/) (0/31)
+[**October**](data/2025/10/) (30/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  | 1 | 2 | 3 | 4 | 5 |
-| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
-| 27 | 28 | 29 | 30 | 31 |  |  |
+|  |  | [**1**](data/2025/10/#2025-10-01) | [**2**](data/2025/10/#2025-10-02) | [**3**](data/2025/10/#2025-10-03) | [**4**](data/2025/10/#2025-10-04) | [**5**](data/2025/10/#2025-10-05) |
+| [**6**](data/2025/10/#2025-10-06) | [**7**](data/2025/10/#2025-10-07) | [**8**](data/2025/10/#2025-10-08) | [**9**](data/2025/10/#2025-10-09) | [**10**](data/2025/10/#2025-10-10) | [**11**](data/2025/10/#2025-10-11) | [**12**](data/2025/10/#2025-10-12) |
+| [**13**](data/2025/10/#2025-10-13) | [**14**](data/2025/10/#2025-10-14) | [**15**](data/2025/10/#2025-10-15) | [**16**](data/2025/10/#2025-10-16) | [**17**](data/2025/10/#2025-10-17) | [**18**](data/2025/10/#2025-10-18) | [**19**](data/2025/10/#2025-10-19) |
+| [**20**](data/2025/10/#2025-10-20) | [**21**](data/2025/10/#2025-10-21) | [**22**](data/2025/10/#2025-10-22) | [**23**](data/2025/10/#2025-10-23) | [**24**](data/2025/10/#2025-10-24) | [**25**](data/2025/10/#2025-10-25) | 26 |
+| [**27**](data/2025/10/#2025-10-27) | [**28**](data/2025/10/#2025-10-28) | [**29**](data/2025/10/#2025-10-29) | [**30**](data/2025/10/#2025-10-30) | [**31**](data/2025/10/#2025-10-31) |  |  |
 
 [**September**](data/2025/09/) (0/30)
 
@@ -185,11 +185,11 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 *Thursday*
 
 1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 73 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [32 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 18 points by [bundie](https://news.ycombinator.com/user?id=bundie), [4 comments](https://news.ycombinator.com/item?id=47612127)
+2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 20 points by [bundie](https://news.ycombinator.com/user?id=bundie), [5 comments](https://news.ycombinator.com/item?id=47612127)
 3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 54 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 937 points by [apitman](https://news.ycombinator.com/user?id=apitman), [801 comments](https://news.ycombinator.com/item?id=47603657)
 5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 37 points by [luu](https://news.ycombinator.com/user?id=luu), [17 comments](https://news.ycombinator.com/item?id=47582987)
-6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 150 points by [jaden](https://news.ycombinator.com/user?id=jaden), [43 comments](https://news.ycombinator.com/item?id=47609694)
+6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 150 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
 7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 52 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [16 comments](https://news.ycombinator.com/item?id=47596739)
 8. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 414 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [194 comments](https://news.ycombinator.com/item?id=47609564)
 9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 181 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
