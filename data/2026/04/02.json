@@ -4,7 +4,7 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 134,
+    "score": 135,
     "by": "bonzini",
     "descendants": 75,
     "time": 1775119724
@@ -16,7 +16,7 @@
     "url": "https://lemonade-server.ai",
     "score": 36,
     "by": "AbuAssar",
-    "descendants": 6,
+    "descendants": 8,
     "time": 1775127891
   },
   {
@@ -31,16 +31,6 @@
   },
   {
     "rank": 4,
-    "id": 47613351,
-    "title": "A Founder Tried to Pitch \u2013 and Got a Restraining Order",
-    "url": "https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan",
-    "score": 12,
-    "by": "elonmm",
-    "descendants": 3,
-    "time": 1775131846
-  },
-  {
-    "rank": 5,
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
@@ -50,7 +40,7 @@
     "time": 1775127000
   },
   {
-    "rank": 6,
+    "rank": 5,
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
@@ -60,17 +50,17 @@
     "time": 1775117951
   },
   {
-    "rank": 7,
+    "rank": 6,
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
     "score": 56,
     "by": "stratos123",
-    "descendants": 23,
+    "descendants": 24,
     "time": 1775121258
   },
   {
-    "rank": 8,
+    "rank": 7,
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
@@ -80,17 +70,17 @@
     "time": 1774933899
   },
   {
-    "rank": 9,
+    "rank": 8,
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
     "score": 189,
     "by": "jaden",
-    "descendants": 59,
+    "descendants": 60,
     "time": 1775100933
   },
   {
-    "rank": 10,
+    "rank": 9,
     "id": 47540441,
     "title": "Reinventing the Pull Request",
     "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
@@ -98,5 +88,15 @@
     "by": "bkolobara",
     "descendants": 19,
     "time": 1774602269
+  },
+  {
+    "rank": 10,
+    "id": 47596739,
+    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "score": 80,
+    "by": "jackson-mcd",
+    "descendants": 21,
+    "time": 1775016881
   }
 ]
