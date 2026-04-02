@@ -202,7 +202,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2024](data/2024/) (307/366 days)
+### [2024](data/2024/) (335/366 days)
 
 <details><summary>[<b>December</b>](data/2024/12/) (31/31)</summary>
 
@@ -326,15 +326,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-<details><summary>[<b>February</b>](data/2024/02/) (1/29)</summary>
+<details><summary>[<b>February</b>](data/2024/02/) (29/29)</summary>
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  |  | [**1**](data/2024/02/README.md#2024-02-01) | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 |  |  |  |
+|  |  |  | [**1**](data/2024/02/README.md#2024-02-01) | [**2**](data/2024/02/README.md#2024-02-02) | [**3**](data/2024/02/README.md#2024-02-03) | [**4**](data/2024/02/README.md#2024-02-04) |
+| [**5**](data/2024/02/README.md#2024-02-05) | [**6**](data/2024/02/README.md#2024-02-06) | [**7**](data/2024/02/README.md#2024-02-07) | [**8**](data/2024/02/README.md#2024-02-08) | [**9**](data/2024/02/README.md#2024-02-09) | [**10**](data/2024/02/README.md#2024-02-10) | [**11**](data/2024/02/README.md#2024-02-11) |
+| [**12**](data/2024/02/README.md#2024-02-12) | [**13**](data/2024/02/README.md#2024-02-13) | [**14**](data/2024/02/README.md#2024-02-14) | [**15**](data/2024/02/README.md#2024-02-15) | [**16**](data/2024/02/README.md#2024-02-16) | [**17**](data/2024/02/README.md#2024-02-17) | [**18**](data/2024/02/README.md#2024-02-18) |
+| [**19**](data/2024/02/README.md#2024-02-19) | [**20**](data/2024/02/README.md#2024-02-20) | [**21**](data/2024/02/README.md#2024-02-21) | [**22**](data/2024/02/README.md#2024-02-22) | [**23**](data/2024/02/README.md#2024-02-23) | [**24**](data/2024/02/README.md#2024-02-24) | [**25**](data/2024/02/README.md#2024-02-25) |
+| [**26**](data/2024/02/README.md#2024-02-26) | [**27**](data/2024/02/README.md#2024-02-27) | [**28**](data/2024/02/README.md#2024-02-28) | [**29**](data/2024/02/README.md#2024-02-29) |  |  |  |
 
 </details>
 
@@ -360,7 +360,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 28 points by [bundie](https://news.ycombinator.com/user?id=bundie), [34 comments](https://news.ycombinator.com/item?id=47612127)
 3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 58 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 942 points by [apitman](https://news.ycombinator.com/user?id=apitman), [804 comments](https://news.ycombinator.com/item?id=47603657)
-5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 45 points by [luu](https://news.ycombinator.com/user?id=luu), [19 comments](https://news.ycombinator.com/item?id=47582987)
+5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 45 points by [luu](https://news.ycombinator.com/user?id=luu), [20 comments](https://news.ycombinator.com/item?id=47582987)
 6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 14 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [4 comments](https://news.ycombinator.com/item?id=47611921)
 7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 151 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
 8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 55 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [17 comments](https://news.ycombinator.com/item?id=47596739)

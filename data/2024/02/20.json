@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 39435320,
+    "title": "Jeff Dean: Trends in Machine Learning [video]",
+    "url": "https://www.youtube.com/watch?v=oSCRZkSQ1CE",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 39436358,
+    "title": "I broke IKEA (2023)",
+    "url": "https://cohost.org/sirocyl/post/2891449-i-broke-ikea",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 39438908,
+    "title": "WebKit switching to Skia for 2d graphics rendering",
+    "url": "https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 39439655,
+    "title": "Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly",
+    "url": "https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 39440179,
+    "title": "In Defense of Simple Architectures (2022)",
+    "url": "https://danluu.com/simple-architectures/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 39442273,
+    "title": "Web Scraping in Python \u2013 The Complete Guide",
+    "url": "https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 39442429,
+    "title": "Microsoft Is Spying on Users of Its AI Tools",
+    "url": "https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 39443679,
+    "title": "SSDs have become fast, except in the cloud",
+    "url": "http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 39443965,
+    "title": "Let's Build the GPT Tokenizer [video]",
+    "url": "https://www.youtube.com/watch?v=zduSFxRajkE",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 39444500,
+    "title": "Keep your phone number private with Signal usernames",
+    "url": "https://signal.org/blog/phone-number-privacy-usernames/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
