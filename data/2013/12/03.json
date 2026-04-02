@@ -4,99 +4,99 @@
     "id": 6834705,
     "title": "How reddit tried to solve the \"new link\" problem. Why HN doesn't need a new algo",
     "url": "http://news.ycombinator.com/item?id=6834705",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "jedberg",
+    "descendants": 67,
+    "time": 1386002623
   },
   {
     "rank": 2,
     "id": 6835521,
     "title": "Dell introduces 28\" 4K Ultra HD Monitor for under $1K, shipping early 2014",
     "url": "http://www.dell.com/learn/us/en/uscorp1/secure/2013-12-2-dell-ultrasharp-ultra-hd-monitors?dgc=BA&amp;cid=271006&amp;lid=4970696&amp;acd=12309188680294295",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "hemancuso",
+    "descendants": 206,
+    "time": 1386009841
   },
   {
     "rank": 3,
     "id": 6836387,
     "title": "Why You Can't Build a Smartphone",
     "url": "http://joshondesign.com/2013/12/02/nosmartphone",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "joshmarinacci",
+    "descendants": 173,
+    "time": 1386017106
   },
   {
     "rank": 4,
     "id": 6836961,
     "title": "Will Google Kill my Blog on December 6th?",
     "url": "http://www.calculatedriskblog.com/2013/12/will-google-kill-my-blog-on-december-6th.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "MaysonL",
+    "descendants": 117,
+    "time": 1386022488
   },
   {
     "rank": 5,
     "id": 6836994,
     "title": "Meet the BRCK",
     "url": "http://www.brck.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "moubarak",
+    "descendants": 175,
+    "time": 1386022922
   },
   {
     "rank": 6,
     "id": 6838299,
     "title": "My Roommate's a Genius",
     "url": "http://www.farhadg.com/post/33834177117/genius-roommate",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 697,
+    "by": "FarhadG",
+    "descendants": 174,
+    "time": 1386041601
   },
   {
     "rank": 7,
     "id": 6840140,
     "title": "Linux Voice",
     "url": "http://www.raspberrypi.org/archives/5366",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 206,
+    "by": "hepha1979",
+    "descendants": 20,
+    "time": 1386078170
   },
   {
     "rank": 8,
     "id": 6840262,
     "title": "IntelliJ IDEA 13 is Released",
     "url": "http://blog.jetbrains.com/idea/2013/12/intellij-idea-13-is-released-work-miracles-in-java-and-beyond/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "rdemmer",
+    "descendants": 213,
+    "time": 1386079471
   },
   {
     "rank": 9,
     "id": 6840437,
     "title": "I found Prezi's source code",
     "url": "http://blog.shubh.am/prezi-bug-bounty/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 712,
+    "by": "psychboo",
+    "descendants": 255,
+    "time": 1386081094
   },
   {
     "rank": 10,
     "id": 6841557,
     "title": "Notch, WebGL, Dart, and ramping up quickly",
     "url": "http://blog.tojicode.com/2013/12/notch-webgl-dart-and-ramping-up-quickly.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "slackpad",
+    "descendants": 196,
+    "time": 1386090509
   }
 ]

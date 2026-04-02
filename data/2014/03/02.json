@@ -4,99 +4,99 @@
     "id": 7323844,
     "title": "SaaS Club",
     "url": "http://saasclub.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "charlieirish",
+    "descendants": 16,
+    "time": 1393669482
   },
   {
     "rank": 2,
     "id": 7324520,
     "title": "Firefox OS 1.3",
     "url": "https://developer.mozilla.org/en-US/Firefox_OS/Releases/1.3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "reirob",
+    "descendants": 62,
+    "time": 1393688036
   },
   {
     "rank": 3,
     "id": 7325534,
     "title": "A brief history of one line fixes",
     "url": "http://www.tedunangst.com/flak/post/a-brief-history-of-one-line-fixes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "coconutrandom",
+    "descendants": 154,
+    "time": 1393699670
   },
   {
     "rank": 4,
     "id": 7325988,
     "title": "Planning Algorithms",
     "url": "http://planning.cs.uiuc.edu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "kqr2",
+    "descendants": 16,
+    "time": 1393706262
   },
   {
     "rank": 5,
     "id": 7326214,
     "title": "Snap for Beginners: Haskell Web Development",
     "url": "http://snapforbeginners.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 159,
+    "by": "biscarch",
+    "descendants": 83,
+    "time": 1393709519
   },
   {
     "rank": 6,
     "id": 7326418,
     "title": "Y Combinator Female Founders Conference LiveStream ",
     "url": "https://www.youtube.com/watch?v=QDaqt9NzDUc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "ggreer",
+    "descendants": 278,
+    "time": 1393712748
   },
   {
     "rank": 7,
     "id": 7327728,
     "title": "Hum",
     "url": "https://letshum.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "jonkratz",
+    "descendants": 133,
+    "time": 1393735216
   },
   {
     "rank": 8,
     "id": 7329003,
     "title": "Idaho law criminalizes secretly filming on farms",
     "url": "http://america.aljazeera.com/articles/2014/2/28/idaho-gov-signs-aggagbillintolaw.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "keeshawn",
+    "descendants": 134,
+    "time": 1393765557
   },
   {
     "rank": 9,
     "id": 7329467,
     "title": "Windows 8 and the Microsoft Surface",
     "url": "http://ignorethecode.net/blog/2014/03/02/windows_8_surface/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "jfb",
+    "descendants": 158,
+    "time": 1393775046
   },
   {
     "rank": 10,
     "id": 7329540,
     "title": "What Did Not Happen At Mt. Gox",
     "url": "http://hackingdistributed.com/2014/03/01/what-did-not-happen-at-mtgox/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "hamdal",
+    "descendants": 92,
+    "time": 1393776442
   }
 ]

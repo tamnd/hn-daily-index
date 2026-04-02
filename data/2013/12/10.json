@@ -4,99 +4,99 @@
     "id": 6876636,
     "title": "The Mozilla Developer Network has a New Face",
     "url": "https://hacks.mozilla.org/2013/12/the-mozilla-developer-network-has-a-new-face/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "rnyman",
+    "descendants": 90,
+    "time": 1386620808
   },
   {
     "rank": 2,
     "id": 6877886,
     "title": "OK, Milt Olin, I'll start writing again",
     "url": "http://sivers.org/milt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 578,
+    "by": "revorad",
+    "descendants": 63,
+    "time": 1386632089
   },
   {
     "rank": 3,
     "id": 6878369,
     "title": "Reddit\u2019s empire is founded on a flawed algorithm",
     "url": "http://technotes.iangreenleaf.com/posts/2013-12-09-reddits-empire-is-built-on-a-flawed-algorithm.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "est",
+    "descendants": 131,
+    "time": 1386638485
   },
   {
     "rank": 4,
     "id": 6878565,
     "title": "Show HN: Minecraft clone in 2500 lines of C - even supports multiplayer online",
     "url": "https://github.com/fogleman/Craft",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "fogleman",
+    "descendants": 149,
+    "time": 1386641935
   },
   {
     "rank": 5,
     "id": 6879667,
     "title": "Turn any application that uses stdin/stdout into a WebSocket server",
     "url": "https://github.com/joewalnes/websocketd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "adito",
+    "descendants": 88,
+    "time": 1386665742
   },
   {
     "rank": 6,
     "id": 6880117,
     "title": "New US spy satellite logo features world-devouring octopus",
     "url": "http://arstechnica.com/tech-policy/2013/12/new-us-spy-satellite-features-world-devouring-octopus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "Eye_of_Mordor",
+    "descendants": 124,
+    "time": 1386675336
   },
   {
     "rank": 7,
     "id": 6880474,
     "title": "\u201cWe cannot trust\u201d Intel and Via\u2019s chip-based crypto, FreeBSD developers say",
     "url": "http://arstechnica.com/security/2013/12/we-cannot-trust-intel-and-vias-chip-based-crypto-freebsd-developers-say/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "robin_reala",
+    "descendants": 176,
+    "time": 1386681055
   },
   {
     "rank": 8,
     "id": 6880944,
     "title": "Firefox 26 is released",
     "url": "http://www.mozilla.org/en-US/firefox/26.0/releasenotes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "lambda_cube",
+    "descendants": 200,
+    "time": 1386686620
   },
   {
     "rank": 9,
     "id": 6881662,
     "title": "The Criminalization of Everyday Life",
     "url": "http://www.tomdispatch.com/blog/175781/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 482,
+    "by": "mankypro",
+    "descendants": 337,
+    "time": 1386693381
   },
   {
     "rank": 10,
     "id": 6882744,
     "title": "An Engineer\u2019s guide to Stock Options",
     "url": "http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 738,
+    "by": "olivercameron",
+    "descendants": 154,
+    "time": 1386701459
   }
 ]

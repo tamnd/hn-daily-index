@@ -39,16 +39,16 @@ Top 10 Hacker News stories for each day in November 2013.
 
 *Saturday*
 
-1. [Nimrod: A new approach to metaprogramming](http://nimrod-lang.org/talk01/slides.html) (nimrod-lang.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6820474)
-2. [Why are software development estimates regularly off by a factor of 2-3?](http://michaelrwolfe.com/2013/10/19/50/) (michaelrwolfe.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6820547)
-3. [Facebook reveals friends list even when it’s set to private](http://nakedsecurity.sophos.com/2013/11/25/facebook-reveals-friends-list-even-when-its-set-to-private/) (nakedsecurity.sophos.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6820724)
-4. [Announcing Scala.js v0.1](http://www.scala-lang.org/news/2013/11/29/announcing-scala-js-v0.1.html) (scala-lang.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6821145)
-5. ['Learn Ruby on Rails' is free today](http://learn-rails.com/download-offer.html) (learn-rails.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6821576)
-6. [RJS leaking vulnerability in multiple Rails applications](http://homakov.blogspot.com/2013/11/rjs-leaking-vulnerability-in-multiple.html) (homakov.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6821999)
-7. [Powerchair: A dad hacks a wheelchair for his disabled 2-year-old son](http://www.hackingsma.com/?p=257) (hackingsma.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6822757)
-8. [Fold the DOM like paper](http://oridomi.com/) (oridomi.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6822792)
-9. [Combine your Wi-Fi, Ethernet and 3G connections to increase your download speed](http://github.com/Morhaus/dispatch-proxy) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6823269)
-10. [Why I Wrote PGP (1999)](http://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) (philzimmermann.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=6823668)
+1. [Nimrod: A new approach to metaprogramming](http://nimrod-lang.org/talk01/slides.html) (nimrod-lang.org) - 218 points by [ryeguy](https://news.ycombinator.com/user?id=ryeguy), [57 comments](https://news.ycombinator.com/item?id=6820474)
+2. [Why are software development estimates regularly off by a factor of 2-3?](http://michaelrwolfe.com/2013/10/19/50/) (michaelrwolfe.com) - 311 points by [cviedmai](https://news.ycombinator.com/user?id=cviedmai), [168 comments](https://news.ycombinator.com/item?id=6820547)
+3. [Facebook reveals friends list even when it’s set to private](http://nakedsecurity.sophos.com/2013/11/25/facebook-reveals-friends-list-even-when-its-set-to-private/) (nakedsecurity.sophos.com) - 228 points by [ohjeez](https://news.ycombinator.com/user?id=ohjeez), [60 comments](https://news.ycombinator.com/item?id=6820724)
+4. [Announcing Scala.js v0.1](http://www.scala-lang.org/news/2013/11/29/announcing-scala-js-v0.1.html) (scala-lang.org) - 171 points by [llambda](https://news.ycombinator.com/user?id=llambda), [88 comments](https://news.ycombinator.com/item?id=6821145)
+5. ['Learn Ruby on Rails' is free today](http://learn-rails.com/download-offer.html) (learn-rails.com) - 172 points by [DanielKehoe](https://news.ycombinator.com/user?id=DanielKehoe), [63 comments](https://news.ycombinator.com/item?id=6821576)
+6. [RJS leaking vulnerability in multiple Rails applications](http://homakov.blogspot.com/2013/11/rjs-leaking-vulnerability-in-multiple.html) (homakov.blogspot.com) - 145 points by [homakov](https://news.ycombinator.com/user?id=homakov), [67 comments](https://news.ycombinator.com/item?id=6821999)
+7. [Powerchair: A dad hacks a wheelchair for his disabled 2-year-old son](http://www.hackingsma.com/?p=257) (hackingsma.com) - 265 points by [Aissen](https://news.ycombinator.com/user?id=Aissen), [33 comments](https://news.ycombinator.com/item?id=6822757)
+8. [Fold the DOM like paper](http://oridomi.com/) (oridomi.com) - 315 points by [aram](https://news.ycombinator.com/user?id=aram), [51 comments](https://news.ycombinator.com/item?id=6822792)
+9. [Combine your Wi-Fi, Ethernet and 3G connections to increase your download speed](http://github.com/Morhaus/dispatch-proxy) (github.com) - 247 points by [Morhaus](https://news.ycombinator.com/user?id=Morhaus), [62 comments](https://news.ycombinator.com/item?id=6823269)
+10. [Why I Wrote PGP (1999)](http://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) (philzimmermann.com) - 257 points by [numlocked](https://news.ycombinator.com/user?id=numlocked), [109 comments](https://news.ycombinator.com/item?id=6823668)
 
 ## 2013-11-29
 

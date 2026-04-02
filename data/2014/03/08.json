@@ -4,99 +4,99 @@
     "id": 7359992,
     "title": "Myths about /dev/urandom",
     "url": "http://www.2uo.de/myths-about-urandom/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "Tomte",
+    "descendants": 171,
+    "time": 1394198447
   },
   {
     "rank": 2,
     "id": 7360011,
     "title": "Did an F-15 airplane successfully land with just one wing?",
     "url": "http://skeptics.stackexchange.com/questions/9884/did-an-f-15-airplane-successfully-land-with-just-one-wing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "DiabloD3",
+    "descendants": 141,
+    "time": 1394198741
   },
   {
     "rank": 3,
     "id": 7360491,
     "title": "Ask HN: Looking for contributors?",
     "url": "http://news.ycombinator.com/item?id=7360491",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "basicallydan",
+    "descendants": 133,
+    "time": 1394203800
   },
   {
     "rank": 4,
     "id": 7361782,
     "title": "Turn a Raspberry Pi into an FM transmitter",
     "url": "http://makezine.com/projects/make-38-cameras-and-av/raspberry-pirate-radio/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "zaaaaz",
+    "descendants": 64,
+    "time": 1394216101
   },
   {
     "rank": 5,
     "id": 7361786,
     "title": "Open Data Stack Exchange",
     "url": "http://opendata.stackexchange.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 168,
+    "by": "jbcurtin2",
+    "descendants": 7,
+    "time": 1394216137
   },
   {
     "rank": 6,
     "id": 7362612,
     "title": "LHC Physics Center bans Powerpoint, switches to whiteboard-only forums",
     "url": "http://www.symmetrymagazine.org/article/march-2014/physics-by-hand",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "indus",
+    "descendants": 156,
+    "time": 1394225040
   },
   {
     "rank": 7,
     "id": 7363083,
     "title": "Understanding IP, TCP, and HTTP",
     "url": "http://www.objc.io/issue-10/ip-tcp-http.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "danieleggert",
+    "descendants": 61,
+    "time": 1394230224
   },
   {
     "rank": 8,
     "id": 7363115,
     "title": "Behind the stick of the\u00a0SR-71",
     "url": "http://www.sbnation.com/2014/3/7/5447310/sr-71-blackbird-pilot-interview",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "canistr",
+    "descendants": 91,
+    "time": 1394230738
   },
   {
     "rank": 9,
     "id": 7364997,
     "title": "Cunningham's Law",
     "url": "https://meta.wikimedia.org/wiki/Cunningham%27s_Law",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "Garbage",
+    "descendants": 107,
+    "time": 1394281740
   },
   {
     "rank": 10,
     "id": 7365410,
     "title": "Python Language Features and Tricks",
     "url": "http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "Bocker",
+    "descendants": 85,
+    "time": 1394292613
   }
 ]

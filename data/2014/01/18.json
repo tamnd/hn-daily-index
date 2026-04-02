@@ -4,99 +4,99 @@
     "id": 7076973,
     "title": "Operating Systems: Three Easy Pieces",
     "url": "http://pages.cs.wisc.edu/~remzi/OSTEP/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 189,
+    "by": "rubinelli",
+    "descendants": 35,
+    "time": 1389979006
   },
   {
     "rank": 2,
     "id": 7077234,
     "title": "Ask HN: How to find part-time developer work?",
     "url": "http://news.ycombinator.com/item?id=7077234",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "wasd",
+    "descendants": 118,
+    "time": 1389981119
   },
   {
     "rank": 3,
     "id": 7078302,
     "title": "Obama\u2019s Changes to Government Surveillance",
     "url": "http://www.nytimes.com/interactive/2014/01/17/us/nsa-changes-graphic.html?hp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "001sky",
+    "descendants": 183,
+    "time": 1389991791
   },
   {
     "rank": 4,
     "id": 7078751,
     "title": "Dropbox raises about $250 million at $10 billion valuation",
     "url": "http://online.wsj.com/news/articles/SB10001424052702303465004579327001976757542",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "dctoedt",
+    "descendants": 166,
+    "time": 1389996336
   },
   {
     "rank": 5,
     "id": 7078912,
     "title": "Chrome Is The New C Runtime",
     "url": "https://www.mobilespan.com/content/chrome-is-the-new-c-runtime",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "aagr",
+    "descendants": 142,
+    "time": 1389997885
   },
   {
     "rank": 6,
     "id": 7079427,
     "title": "What are the lesser known but useful data structures?",
     "url": "http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures?rq=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "mck-",
+    "descendants": 75,
+    "time": 1390004470
   },
   {
     "rank": 7,
     "id": 7079543,
     "title": "Ask PG: How would you fill out a YC application with YC as your idea?",
     "url": "http://news.ycombinator.com/item?id=7079543",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "trysomething",
+    "descendants": 29,
+    "time": 1390006726
   },
   {
     "rank": 8,
     "id": 7080075,
     "title": "Windows 3.1 written in JS/HTML",
     "url": "http://www.michaelv.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "shawndumas",
+    "descendants": 125,
+    "time": 1390019364
   },
   {
     "rank": 9,
     "id": 7081326,
     "title": "Cookie Bomb or Let's Break the Internet",
     "url": "http://homakov.blogspot.com/2014/01/cookie-bomb-or-lets-break-internet.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "paulmillr",
+    "descendants": 75,
+    "time": 1390063027
   },
   {
     "rank": 10,
     "id": 7081757,
     "title": "Success at Work, Failure at Home",
     "url": "http://scott.a16z.com/2014/01/17/success-at-work-failure-at-home/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "sethbannon",
+    "descendants": 165,
+    "time": 1390070614
   }
 ]

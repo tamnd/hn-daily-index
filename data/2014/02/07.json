@@ -4,99 +4,99 @@
     "id": 7190387,
     "title": "Money for Nothing",
     "url": "http://www.dansdata.com/gz146.htm ",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "simonsquiff",
+    "descendants": 77,
+    "time": 1391695392
   },
   {
     "rank": 2,
     "id": 7190664,
     "title": "Simple Dynamic Strings library for C",
     "url": "https://github.com/antirez/sds",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "antirez",
+    "descendants": 127,
+    "time": 1391698792
   },
   {
     "rank": 3,
     "id": 7190905,
     "title": "Stanford Scientists Put Free Text-Analysis Tool on the Web",
     "url": "http://engineering.stanford.edu/research-profile/stanford-scientists-put-free-text-analysis-tool-web",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "ninjin",
+    "descendants": 31,
+    "time": 1391701608
   },
   {
     "rank": 4,
     "id": 7191187,
     "title": "Show HN: I built this game alone \u2013 design, code, music, sound, marketing",
     "url": "http://www.toucheliss.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "phest",
+    "descendants": 76,
+    "time": 1391704472
   },
   {
     "rank": 5,
     "id": 7192265,
     "title": "Flappy Bird is proof that no one knows what the audience wants",
     "url": "http://www.polygon.com/2014/2/5/5382450/flappy-bird-is-proof-that-no-one-knows-what-the-audience-is-looking",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "bpierre",
+    "descendants": 144,
+    "time": 1391713785
   },
   {
     "rank": 6,
     "id": 7192320,
     "title": "Chromebox, now for simpler and better meetings",
     "url": "http://chrome.blogspot.com/2014/02/chromebox-now-for-simpler-and-better.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "slb",
+    "descendants": 153,
+    "time": 1391714286
   },
   {
     "rank": 7,
     "id": 7193093,
     "title": "Brackets, a code editor",
     "url": "http://brackets.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "ttty",
+    "descendants": 124,
+    "time": 1391722431
   },
   {
     "rank": 8,
     "id": 7193631,
     "title": "FBI Checks Wrong Box, Places Student on No-Fly List",
     "url": "http://www.wired.com/threatlevel/2014/02/no-fly-list-bungle/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "rosser",
+    "descendants": 131,
+    "time": 1391728966
   },
   {
     "rank": 9,
     "id": 7193937,
     "title": "NBC Story about Hacking at Sochi is 100% Fraudulent",
     "url": "http://blog.erratasec.com/2014/02/that-nbc-story-100-fraudulent.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "julespitt",
+    "descendants": 160,
+    "time": 1391732838
   },
   {
     "rank": 10,
     "id": 7197048,
     "title": "How I hacked Github again",
     "url": "http://homakov.blogspot.com/2014/02/how-i-hacked-github-again.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 911,
+    "by": "zhuzhuor",
+    "descendants": 190,
+    "time": 1391790505
   }
 ]

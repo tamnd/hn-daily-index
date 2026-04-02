@@ -4,99 +4,99 @@
     "id": 7030895,
     "title": "Lessons from working 6 months on a math problem and failing",
     "url": "http://alexandros.resin.io/lessons-from-working-6-months-on-a-math-problem-and-failing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "alexandros",
+    "descendants": 34,
+    "time": 1389280763
   },
   {
     "rank": 2,
     "id": 7031998,
     "title": "Implementing a JIT Compiled Language with Haskell and LLVM",
     "url": "http://www.stephendiehl.com/llvm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "rwosync",
+    "descendants": 23,
+    "time": 1389290383
   },
   {
     "rank": 3,
     "id": 7033234,
     "title": "Rust 0.9 released",
     "url": "https://mail.mozilla.org/pipermail/rust-dev/2014-January/007753.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "kibwen",
+    "descendants": 146,
+    "time": 1389301536
   },
   {
     "rank": 4,
     "id": 7033562,
     "title": "Lost city in Darfur",
     "url": "http://www.openstreetmap.org/user/bdiscoe/diary/20539",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "Noelkd",
+    "descendants": 70,
+    "time": 1389304563
   },
   {
     "rank": 5,
     "id": 7035030,
     "title": "4K is for programmers",
     "url": "http://tiamat.tsotech.com/4k-is-for-programmers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "bhauer",
+    "descendants": 335,
+    "time": 1389326581
   },
   {
     "rank": 6,
     "id": 7035163,
     "title": "Building an Open Source Laptop",
     "url": "http://www.makezine.com/magazine/building-an-open-source-laptop/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "jamesbritt",
+    "descendants": 53,
+    "time": 1389329381
   },
   {
     "rank": 7,
     "id": 7036770,
     "title": "Money and wealth",
     "url": "http://swombat.com/2014/1/10/money-and-wealth",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "swombat",
+    "descendants": 186,
+    "time": 1389365004
   },
   {
     "rank": 8,
     "id": 7037532,
     "title": "An Open Letter to HN from EFF, Demand Progress, and Cory Doctorow",
     "url": "http://news.ycombinator.com/item?id=7037532",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 681,
+    "by": "davidsegal",
+    "descendants": 101,
+    "time": 1389372224
   },
   {
     "rank": 9,
     "id": 7037548,
     "title": "The Day We Fight Back",
     "url": "https://thedaywefightback.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "sinak",
+    "descendants": 184,
+    "time": 1389372355
   },
   {
     "rank": 10,
     "id": 7039043,
     "title": "Female Founders",
     "url": "http://paulgraham.com/ff.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "ssclafani",
+    "descendants": 595,
+    "time": 1389384517
   }
 ]

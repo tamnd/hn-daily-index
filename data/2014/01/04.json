@@ -4,99 +4,99 @@
     "id": 7004927,
     "title": "How misaligning data can increase performance 12x by reducing cache misses",
     "url": "http://danluu.com/3c-conflict/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "luu",
+    "descendants": 29,
+    "time": 1388748244
   },
   {
     "rank": 2,
     "id": 7006412,
     "title": "Growing From $5,000 to $25,000 in MRR",
     "url": "http://blog.statuspage.io/growing-from-5000-to-25000-in-mrr",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "dannyolinsky",
+    "descendants": 16,
+    "time": 1388767832
   },
   {
     "rank": 3,
     "id": 7006848,
     "title": "How printers and Photoshop detect and refuse to process images of currency",
     "url": "http://www.cl.cam.ac.uk/~sjm217/projects/currency/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "kibwen",
+    "descendants": 116,
+    "time": 1388771728
   },
   {
     "rank": 4,
     "id": 7007351,
     "title": "Docker on Linode",
     "url": "https://blog.linode.com/2014/01/03/docker-on-linode/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "ljoshua",
+    "descendants": 66,
+    "time": 1388775994
   },
   {
     "rank": 5,
     "id": 7009318,
     "title": "The Builder's High",
     "url": "http://randsinrepose.com/archives/the-builders-high/#HN",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "guptaneil",
+    "descendants": 22,
+    "time": 1388796536
   },
   {
     "rank": 6,
     "id": 7009368,
     "title": "How I reverse engineered my bank's security token",
     "url": "http://valverde.me/2014/01/03/reverse-engineering-my-bank%27s-security-token",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "valverde",
+    "descendants": 63,
+    "time": 1388797483
   },
   {
     "rank": 7,
     "id": 7009995,
     "title": "Evernote, the bug-ridden elephant",
     "url": "http://jasonkincaid.net/2014/01/evernote-the-bug-ridden-elephant/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "ssclafani",
+    "descendants": 246,
+    "time": 1388810808
   },
   {
     "rank": 8,
     "id": 7010997,
     "title": "Rap Genius is Back on Google",
     "url": "http://news.rapgenius.com/Rap-genius-founders-rap-genius-is-back-on-google-lyrics",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "tomlemon",
+    "descendants": 188,
+    "time": 1388842611
   },
   {
     "rank": 9,
     "id": 7011228,
     "title": "If you move your mouse continually the query may not fail. Do not stop moving",
     "url": "http://support.microsoft.com/kb/168702",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "shawndumas",
+    "descendants": 163,
+    "time": 1388847938
   },
   {
     "rank": 10,
     "id": 7012648,
     "title": "Apple Acquires Rapid-Fire Camera App Developer SnappyLabs",
     "url": "http://techcrunch.com/2014/01/04/snappylabs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "nirvanatikku",
+    "descendants": 89,
+    "time": 1388865872
   }
 ]

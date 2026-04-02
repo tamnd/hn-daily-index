@@ -4,99 +4,99 @@
     "id": 7248829,
     "title": "Ask HN: What'd you do to get your first 100 users?",
     "url": "http://news.ycombinator.com/item?id=7248829",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "_g2lm",
+    "descendants": 153,
+    "time": 1392578887
   },
   {
     "rank": 2,
     "id": 7249193,
     "title": "HTTP 308 Incompetence Expected",
     "url": "http://insanecoding.blogspot.com/2014/02/http-308-incompetence-expected.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "aw3c2",
+    "descendants": 43,
+    "time": 1392583420
   },
   {
     "rank": 3,
     "id": 7249801,
     "title": "The Man Who Built Catan",
     "url": "http://www.newyorker.com/online/blogs/currency/2014/02/klaus-teuber-the-settlers-of-catan.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "route66",
+    "descendants": 111,
+    "time": 1392592963
   },
   {
     "rank": 4,
     "id": 7250505,
     "title": "The C10M problem",
     "url": "http://c10m.robertgraham.com/p/manifesto.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "z_",
+    "descendants": 114,
+    "time": 1392607951
   },
   {
     "rank": 5,
     "id": 7250604,
     "title": "Reporting From the Web\u2019s Underbelly",
     "url": "http://www.nytimes.com/2014/02/17/technology/reporting-from-the-webs-underbelly.html?hpw&amp;rref=technology&amp;_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 141,
+    "by": "hunterwalk",
+    "descendants": 33,
+    "time": 1392610512
   },
   {
     "rank": 6,
     "id": 7251211,
     "title": "Frequency",
     "url": "http://xkcd.com/1331/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "jaimebuelta",
+    "descendants": 82,
+    "time": 1392628206
   },
   {
     "rank": 7,
     "id": 7251509,
     "title": "Drawing as a programmer",
     "url": "http://gameofworlds.tumblr.com/post/76836176462/drawing-as-a-programmer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "cinskiy",
+    "descendants": 110,
+    "time": 1392635701
   },
   {
     "rank": 8,
     "id": 7251987,
     "title": "Why is the mouse cursor slightly tilted and not straight?",
     "url": "http://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "attheodo",
+    "descendants": 103,
+    "time": 1392644201
   },
   {
     "rank": 9,
     "id": 7253710,
     "title": "As much Stack Overflow as possible in 4096 bytes",
     "url": "http://danlec.com/blog/stackoverflow-in-4096-bytes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "df07",
+    "descendants": 72,
+    "time": 1392663428
   },
   {
     "rank": 10,
     "id": 7253711,
     "title": "Introducing Bing Code Search for C#",
     "url": "http://blogs.msdn.com/b/visualstudio/archive/2014/02/17/introducing-bing-code-search-for-c.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "vwilson",
+    "descendants": 230,
+    "time": 1392663434
   }
 ]
