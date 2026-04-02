@@ -4,99 +4,99 @@
     "id": 28458584,
     "title": "The 'megacomet' Bernardinelli-Bernstein is the find of a decade",
     "url": "https://www.space.com/giant-comet-bernardinelli-bernstein-discovery-size-activity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "wglb",
+    "descendants": 68,
+    "time": 1631115127
   },
   {
     "rank": 2,
     "id": 28462162,
     "title": "How We Went All In on sqlc/pgx for Postgres and Go",
     "url": "https://brandur.org/sqlc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "conroy",
+    "descendants": 155,
+    "time": 1631130670
   },
   {
     "rank": 3,
     "id": 28462495,
     "title": "How to Replace Docker with Podman on a Mac",
     "url": "https://www.redhat.com/sysadmin/replace-docker-podman-macos",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "molecule",
+    "descendants": 85,
+    "time": 1631132338
   },
   {
     "rank": 4,
     "id": 28465898,
     "title": "mRNA cancer therapy now in human trials after shrinking mouse tumours",
     "url": "https://www.newscientist.com/article/2289334-mrna-cancer-therapy-now-in-human-trials-after-shrinking-mouse-tumours/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "signa11",
+    "descendants": 105,
+    "time": 1631158399
   },
   {
     "rank": 5,
     "id": 28467397,
     "title": "OWASP Top 10 2021",
     "url": "https://owasp.org/Top10/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "chha",
+    "descendants": 70,
+    "time": 1631174535
   },
   {
     "rank": 6,
     "id": 28468739,
     "title": "California aims to ban recycling symbols on things that aren\u2019t recyclable",
     "url": "https://www.nytimes.com/2021/09/08/climate/arrows-recycling-symbol-california.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 574,
+    "by": "elliekelly",
+    "descendants": 286,
+    "time": 1631189101
   },
   {
     "rank": 7,
     "id": 28468751,
     "title": "60x speed-up of Linux \u201cperf\u201d",
     "url": "https://eighty-twenty.org/2021/09/09/perf-addr2line-speed-improvement",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 477,
+    "by": "tonyg",
+    "descendants": 215,
+    "time": 1631189198
   },
   {
     "rank": 8,
     "id": 28470125,
     "title": "Paid influencers must label some posts as ads, German court rules",
     "url": "https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 763,
+    "by": "DocFeind",
+    "descendants": 173,
+    "time": 1631198037
   },
   {
     "rank": 9,
     "id": 28472350,
     "title": "Tell HN: Thanks to thehodge and littlewarden.com, this site is up today",
     "url": "https://news.ycombinator.com/item?id=28472350",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1314,
+    "by": "dang",
+    "descendants": 78,
+    "time": 1631208945
   },
   {
     "rank": 10,
     "id": 28474123,
     "title": "Hong Kong: Police Raid Tiananmen Square Museum",
     "url": "https://www.bbc.co.uk/news/world-asia-china-58506598",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 860,
+    "by": "FridayoLeary",
+    "descendants": 501,
+    "time": 1631218425
   }
 ]

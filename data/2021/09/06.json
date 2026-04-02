@@ -4,99 +4,99 @@
     "id": 28423122,
     "title": "Dogs distinguish human intentional and unintentional action",
     "url": "https://www.nature.com/articles/s41598-021-94374-3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "sam345",
+    "descendants": 152,
+    "time": 1630838176
   },
   {
     "rank": 2,
     "id": 28426701,
     "title": "Art student\u2019s 407-piece hand-carved wooden clock (2016)",
     "url": "https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "_Microft",
+    "descendants": 74,
+    "time": 1630867866
   },
   {
     "rank": 3,
     "id": 28429596,
     "title": "ZFS is mysteriously eating my CPU",
     "url": "https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "mfrw",
+    "descendants": 102,
+    "time": 1630894500
   },
   {
     "rank": 4,
     "id": 28429650,
     "title": "Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines",
     "url": "https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "goranmoomin",
+    "descendants": 147,
+    "time": 1630895145
   },
   {
     "rank": 5,
     "id": 28431220,
     "title": "After six months on Mars, NASA's tiny copter is still flying high",
     "url": "https://phys.org/news/2021-09-months-mars-nasa-tiny-copter.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "Pikkie",
+    "descendants": 82,
+    "time": 1630912078
   },
   {
     "rank": 6,
     "id": 28431838,
     "title": "US Cybercom says mass exploitation of Atlassian Confluence vulnerability ongoing",
     "url": "https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 692,
+    "by": "daniaal",
+    "descendants": 336,
+    "time": 1630919659
   },
   {
     "rank": 7,
     "id": 28432736,
     "title": "Nevada cops use civil forfeiture to steal a veterans life savings",
     "url": "https://ij.org/press-release/highway-robbery-in-reno-nevada-cops-use-civil-forfeiture-to-steal-a-veterans-life-savings/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "tomohawk",
+    "descendants": 239,
+    "time": 1630928687
   },
   {
     "rank": 8,
     "id": 28433345,
     "title": "Germany wants smartphone makers to offer 7 years of software updates",
     "url": "https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 718,
+    "by": "underscore_ku",
+    "descendants": 351,
+    "time": 1630934184
   },
   {
     "rank": 9,
     "id": 28433601,
     "title": "Clarifications regarding arrest of climate activist",
     "url": "https://protonmail.com/blog/climate-activist-arrest/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "kdunglas",
+    "descendants": 285,
+    "time": 1630936247
   },
   {
     "rank": 10,
     "id": 28434012,
     "title": "Revolt: Open-source alternative to Discord",
     "url": "https://revolt.chat/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 642,
+    "by": "adamnemecek",
+    "descendants": 395,
+    "time": 1630938570
   }
 ]

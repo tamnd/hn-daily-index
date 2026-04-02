@@ -40,16 +40,16 @@ Top 10 Hacker News stories for each day in August 2021.
 
 *Tuesday*
 
-1. [The complicated reality of doing what you love](https://www.vox.com/the-highlight/22620178/hobby-job-leisure-labor) (vox.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28345821)
-2. [Facebook Is the AOL of 2021](https://www.zdnet.com/article/facebook-is-the-aol-of-2021/) (zdnet.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28359157)
-3. [Tech-savvy audiences block Google Analytics](https://plausible.io/blog/google-analytics-adblockers-missing-data) (plausible.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28365163)
-4. [Apple and Google must allow other payment systems, new Korean law declares](https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28366063)
-5. [Extreme Ironing](https://en.wikipedia.org/wiki/Extreme_ironing) (en.wikipedia.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28366395)
-6. [Docker Desktop no longer free for large companies](https://www.theregister.com/2021/08/31/docker_desktop_no_longer_free/) (theregister.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28369570)
-7. [Tor is a great sysadmin tool (2020)](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/) (jamieweb.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28370662)
-8. [Surveilance bill rushed through Australian parliament in 24 hours](https://tutanota.com/blog/posts/australia-surveillance-bill/) (tutanota.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28372049)
-9. [Apple banned a pay equity Slack channel](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28372506)
-10. [System76 Pangolin Linux-first laptop with AMD internals now in stock](https://system76.com/laptops/pangolin) (system76.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=28372771)
+1. [The complicated reality of doing what you love](https://www.vox.com/the-highlight/22620178/hobby-job-leisure-labor) (vox.com) - 343 points by [herbertl](https://news.ycombinator.com/user?id=herbertl), [183 comments](https://news.ycombinator.com/item?id=28345821)
+2. [Facebook Is the AOL of 2021](https://www.zdnet.com/article/facebook-is-the-aol-of-2021/) (zdnet.com) - 319 points by [afrcnc](https://news.ycombinator.com/user?id=afrcnc), [157 comments](https://news.ycombinator.com/item?id=28359157)
+3. [Tech-savvy audiences block Google Analytics](https://plausible.io/blog/google-analytics-adblockers-missing-data) (plausible.io) - 1.2k points by [robin_reala](https://news.ycombinator.com/user?id=robin_reala), [681 comments](https://news.ycombinator.com/item?id=28365163)
+4. [Apple and Google must allow other payment systems, new Korean law declares](https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes) (theverge.com) - 1.4k points by [commoner](https://news.ycombinator.com/user?id=commoner), [599 comments](https://news.ycombinator.com/item?id=28366063)
+5. [Extreme Ironing](https://en.wikipedia.org/wiki/Extreme_ironing) (en.wikipedia.org) - 411 points by [kulesh](https://news.ycombinator.com/user?id=kulesh), [172 comments](https://news.ycombinator.com/item?id=28366395)
+6. [Docker Desktop no longer free for large companies](https://www.theregister.com/2021/08/31/docker_desktop_no_longer_free/) (theregister.com) - 725 points by [alanwreath](https://news.ycombinator.com/user?id=alanwreath), [571 comments](https://news.ycombinator.com/item?id=28369570)
+7. [Tor is a great sysadmin tool (2020)](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/) (jamieweb.net) - 420 points by [azalemeth](https://news.ycombinator.com/user?id=azalemeth), [118 comments](https://news.ycombinator.com/item?id=28370662)
+8. [Surveilance bill rushed through Australian parliament in 24 hours](https://tutanota.com/blog/posts/australia-surveillance-bill/) (tutanota.com) - 508 points by [ghoda](https://news.ycombinator.com/user?id=ghoda), [361 comments](https://news.ycombinator.com/item?id=28372049)
+9. [Apple banned a pay equity Slack channel](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel) (theverge.com) - 402 points by [jbredeche](https://news.ycombinator.com/user?id=jbredeche), [325 comments](https://news.ycombinator.com/item?id=28372506)
+10. [System76 Pangolin Linux-first laptop with AMD internals now in stock](https://system76.com/laptops/pangolin) (system76.com) - 553 points by [sampling](https://news.ycombinator.com/user?id=sampling), [437 comments](https://news.ycombinator.com/item?id=28372771)
 
 ## 2021-08-30
 
