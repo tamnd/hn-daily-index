@@ -4,99 +4,99 @@
     "id": 40156534,
     "title": "Tribler: An attack-resilient micro-economy for media",
     "url": "https://github.com/Tribler/tribler/wiki",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "thunderbong",
+    "descendants": 133,
+    "time": 1714047231
   },
   {
     "rank": 2,
     "id": 40159278,
     "title": "Show HN: I made a programmable computer from NAND gates",
     "url": "https://github.com/ArhanChaudhary/NAND",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "ArchAndStarch",
+    "descendants": 73,
+    "time": 1714061285
   },
   {
     "rank": 3,
     "id": 40161697,
     "title": "Start Your Own ISP",
     "url": "https://startyourownisp.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "agomez314",
+    "descendants": 107,
+    "time": 1714072018
   },
   {
     "rank": 4,
     "id": 40161794,
     "title": "No Abstractions: our API design principle",
     "url": "https://increase.com/articles/no-abstractions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "jackflintermann",
+    "descendants": 133,
+    "time": 1714072511
   },
   {
     "rank": 5,
     "id": 40163405,
     "title": "Open Sourcing DOS 4",
     "url": "https://www.hanselman.com/blog/open-sourcing-dos-4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 809,
+    "by": "ndiddy",
+    "descendants": 368,
+    "time": 1714081326
   },
   {
     "rank": 6,
     "id": 40164199,
     "title": "Jeff Lawson buys The Onion",
     "url": "https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "coloneltcb",
+    "descendants": 292,
+    "time": 1714086674
   },
   {
     "rank": 7,
     "id": 40165998,
     "title": "Passkeys: A shattered dream",
     "url": "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 969,
+    "by": "nmjenkins",
+    "descendants": 773,
+    "time": 1714106199
   },
   {
     "rank": 8,
     "id": 40167163,
     "title": "I rewired my brain to become fluent in math (2014)",
     "url": "https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-235085/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "ColinWright",
+    "descendants": 199,
+    "time": 1714121083
   },
   {
     "rank": 9,
     "id": 40168519,
     "title": "I'm creating PBR Textures and 3D models since 2018 and sharing them for free",
     "url": "https://www.sharetextures.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 485,
+    "by": "tolgaarslan",
+    "descendants": 100,
+    "time": 1714134195
   },
   {
     "rank": 10,
     "id": 40172033,
     "title": "Leaving Rust gamedev after 3 years",
     "url": "https://loglog.games/blog/leaving-rust-gamedev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1484,
+    "by": "darthdeus",
+    "descendants": 972,
+    "time": 1714152836
   }
 ]

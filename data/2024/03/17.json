@@ -4,99 +4,99 @@
     "id": 39724312,
     "title": "Affordable Wheel Based Refreshable Braille Display",
     "url": "https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "jacquesm",
+    "descendants": 67,
+    "time": 1710579168
   },
   {
     "rank": 2,
     "id": 39725303,
     "title": "Cloudflare loses 22% of its domains in Freenom .tk shutdown",
     "url": "https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "speckx",
+    "descendants": 224,
+    "time": 1710591894
   },
   {
     "rank": 3,
     "id": 39726781,
     "title": "Show HN: Flash Attention in ~100 lines of CUDA",
     "url": "https://github.com/tspeterkim/flash-attention-minimal",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "tspeterkim",
+    "descendants": 39,
+    "time": 1710603119
   },
   {
     "rank": 4,
     "id": 39730962,
     "title": "Debloat non-rooted Android devices",
     "url": "https://github.com/0x192/universal-android-debloater",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "zikohh",
+    "descendants": 222,
+    "time": 1710637745
   },
   {
     "rank": 5,
     "id": 39731824,
     "title": "The return of the frame pointers",
     "url": "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 684,
+    "by": "mfiguiere",
+    "descendants": 251,
+    "time": 1710647947
   },
   {
     "rank": 6,
     "id": 39732116,
     "title": "How Microchips Work",
     "url": "https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "pbamotra",
+    "descendants": 36,
+    "time": 1710652642
   },
   {
     "rank": 7,
     "id": 39733275,
     "title": "LLM4Decompile: Decompiling Binary Code with LLM",
     "url": "https://github.com/albertan017/LLM4Decompile",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "Davidbrcz",
+    "descendants": 129,
+    "time": 1710670523
   },
   {
     "rank": 8,
     "id": 39735675,
     "title": "Nanofont3x4: Smallest readable 3x4 font with lowercase",
     "url": "https://github.com/Michaelangel007/nanofont3x4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "lsferreira42",
+    "descendants": 129,
+    "time": 1710693577
   },
   {
     "rank": 9,
     "id": 39735716,
     "title": "When Armor Met Lips",
     "url": "https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 519,
+    "by": "akkartik",
+    "descendants": 58,
+    "time": 1710693852
   },
   {
     "rank": 10,
     "id": 39737281,
     "title": "Grok",
     "url": "https://github.com/xai-org/grok",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1170,
+    "by": "pierre",
+    "descendants": 419,
+    "time": 1710704017
   }
 ]

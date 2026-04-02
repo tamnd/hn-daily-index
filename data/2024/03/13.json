@@ -4,99 +4,99 @@
     "id": 39678783,
     "title": "Weather forecasts have become more accurate",
     "url": "https://ourworldindata.org/weather-forecasts",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "sohkamyung",
+    "descendants": 188,
+    "time": 1710247355
   },
   {
     "rank": 2,
     "id": 39683455,
     "title": "How Mandelbrot set images are affected by floating point precision",
     "url": "https://github.com/ProfJski/FloatCompMandelbrot",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "todsacerdoti",
+    "descendants": 95,
+    "time": 1710270113
   },
   {
     "rank": 3,
     "id": 39684027,
     "title": "Bluesky's stackable approach to moderation",
     "url": "https://bsky.social/about/blog/03-12-2024-stackable-moderation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "steveklabnik",
+    "descendants": 192,
+    "time": 1710272598
   },
   {
     "rank": 4,
     "id": 39686585,
     "title": "Direct File officially opens in 12 pilot states",
     "url": "https://www.irs.gov/newsroom/direct-file-officially-opens-in-12-pilot-states-following-positive-early-reviews-eligible-taxpayers-can-file-online-directly-with-the-irs-for-free",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "lykahb",
+    "descendants": 190,
+    "time": 1710289605
   },
   {
     "rank": 5,
     "id": 39687132,
     "title": "Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs",
     "url": "https://github.com/Syllo/nvtop",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "alexzeitler",
+    "descendants": 85,
+    "time": 1710293774
   },
   {
     "rank": 6,
     "id": 39688545,
     "title": "JIT WireGuard",
     "url": "https://fly.io/blog/jit-wireguard-peers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 485,
+    "by": "Lwrless",
+    "descendants": 131,
+    "time": 1710310389
   },
   {
     "rank": 7,
     "id": 39691735,
     "title": "Paul Alexander, \u2018the man in the iron lung\u2019, has died",
     "url": "https://www.bbc.com/news/world-us-canada-68555051",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "palijer",
+    "descendants": 232,
+    "time": 1710340691
   },
   {
     "rank": 8,
     "id": 39691808,
     "title": "House passes bill to force TikTok sale from Chinese owner or ban the app",
     "url": "https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "jbegley",
+    "descendants": 1052,
+    "time": 1710341013
   },
   {
     "rank": 9,
     "id": 39692387,
     "title": "A generalist AI agent for 3D virtual environments",
     "url": "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 559,
+    "by": "nuz",
+    "descendants": 310,
+    "time": 1710343376
   },
   {
     "rank": 10,
     "id": 39692801,
     "title": "Show HN: Flox 1.0 \u2013 Open-source dev env as code with Nix",
     "url": "https://github.com/flox/flox",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "ronef",
+    "descendants": 192,
+    "time": 1710344669
   }
 ]

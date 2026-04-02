@@ -4,99 +4,99 @@
     "id": 39928681,
     "title": "Chisel: A fast TCP/UDP tunnel over HTTP",
     "url": "https://github.com/jpillora/chisel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "lyu07282",
+    "descendants": 59,
+    "time": 1712227671
   },
   {
     "rank": 2,
     "id": 39952902,
     "title": "Home insurers are dropping customers based on aerial images",
     "url": "https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "traviswingo",
+    "descendants": 680,
+    "time": 1712415128
   },
   {
     "rank": 3,
     "id": 39954422,
     "title": "Faces.js, a JavaScript library for generating vector-based cartoon faces",
     "url": "https://zengm.com/facesjs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "starkparker",
+    "descendants": 95,
+    "time": 1712428656
   },
   {
     "rank": 4,
     "id": 39955725,
     "title": "More Agents Is All You Need: LLMs performance scales with the number of agents",
     "url": "https://arxiv.org/abs/2402.05120",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "TaurenHunter",
+    "descendants": 206,
+    "time": 1712438750
   },
   {
     "rank": 5,
     "id": 39955944,
     "title": "Show HN: Online database diagram editor",
     "url": "https://github.com/drawdb-io/drawdb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "1ilit",
+    "descendants": 67,
+    "time": 1712440358
   },
   {
     "rank": 6,
     "id": 39956008,
     "title": "WinBtrfs \u2013 an open-source btrfs driver for Windows",
     "url": "https://github.com/maharmstone/btrfs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "frankjr",
+    "descendants": 113,
+    "time": 1712440771
   },
   {
     "rank": 7,
     "id": 39956455,
     "title": "The xz sshd backdoor rabbithole goes quite a bit deeper",
     "url": "https://twitter.com/bl4sty/status/1776691497506623562",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 452,
+    "by": "nathell",
+    "descendants": 286,
+    "time": 1712444365
   },
   {
     "rank": 8,
     "id": 39957607,
     "title": "Lago, Open-Source Stripe Alternative, banks $22M in funding",
     "url": "https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "Rafsark",
+    "descendants": 120,
+    "time": 1712456376
   },
   {
     "rank": 9,
     "id": 39958260,
     "title": "Is the frequency domain a real place?",
     "url": "https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "zdw",
+    "descendants": 149,
+    "time": 1712465559
   },
   {
     "rank": 10,
     "id": 39959368,
     "title": "How to found a company in Germany: 14 \\\"easy\\\" steps and lots of pain",
     "url": "https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 633,
+    "by": "olieidel",
+    "descendants": 998,
+    "time": 1712479880
   }
 ]

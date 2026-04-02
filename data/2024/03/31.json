@@ -4,99 +4,99 @@
     "id": 39873272,
     "title": "Prolog language for PostgreSQL proof of concept",
     "url": "https://github.com/tatut/pgprolog",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "triska",
+    "descendants": 77,
+    "time": 1711791413
   },
   {
     "rank": 2,
     "id": 39874404,
     "title": "Xz: Can you spot the single character that disabled Linux landlock?",
     "url": "https://git.tukaani.org/?p=xz.git;a=blobdiff;f=CMakeLists.txt;h=d2b1af7ab0ab759b6805ced3dff2555e2a4b3f8e;hp=76700591059711e3a4da5b45cf58474dac4e12a7;hb=328c52da8a2bbb81307644efdb58db2c422d9ba7;hpb=eb8ad59e9bab32a8d655796afd39597ea6dcc64d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 538,
+    "by": "dhx",
+    "descendants": 313,
+    "time": 1711803363
   },
   {
     "rank": 3,
     "id": 39875822,
     "title": "About the Tailscale.com outage on March 7, 2024",
     "url": "https://tailscale.com/blog/tls-outage-20240307",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "tatersolid",
+    "descendants": 123,
+    "time": 1711812898
   },
   {
     "rank": 4,
     "id": 39877391,
     "title": "Running OCR against PDFs and images directly in the browser",
     "url": "https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "simonw",
+    "descendants": 58,
+    "time": 1711823591
   },
   {
     "rank": 5,
     "id": 39878681,
     "title": "Xz/liblzma: Bash-stage Obfuscation Explained",
     "url": "https://gynvael.coldwind.pl/?lang=en&id=782",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 535,
+    "by": "ecliptik",
+    "descendants": 128,
+    "time": 1711832896
   },
   {
     "rank": 6,
     "id": 39879710,
     "title": "Xz: A microcosm of the interactions in open source projects",
     "url": "https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 526,
+    "by": "transpute",
+    "descendants": 341,
+    "time": 1711841690
   },
   {
     "rank": 7,
     "id": 39881962,
     "title": "Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic",
     "url": "https://www.documentcloud.org/documents/24520332-merged-fb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "wordhydrogen",
+    "descendants": 179,
+    "time": 1711866971
   },
   {
     "rank": 8,
     "id": 39882018,
     "title": "Guess my RGB",
     "url": "https://susam.net/myrgb.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 618,
+    "by": "talonx",
+    "descendants": 144,
+    "time": 1711867943
   },
   {
     "rank": 9,
     "id": 39883328,
     "title": "Shutting down the letsblock.it project and its official instance",
     "url": "https://github.com/letsblockit/letsblockit/discussions/663",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "imbnwa",
+    "descendants": 118,
+    "time": 1711885269
   },
   {
     "rank": 10,
     "id": 39883747,
     "title": "Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included",
     "url": "https://news.ycombinator.com/item?id=39883747",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "thih9",
+    "descendants": 322,
+    "time": 1711888954
   }
 ]

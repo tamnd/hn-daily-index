@@ -4,99 +4,99 @@
     "id": 39959946,
     "title": "Did any processor implement an integer square root instruction?",
     "url": "https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "rwallace",
+    "descendants": 72,
+    "time": 1712487310
   },
   {
     "rank": 2,
     "id": 39960537,
     "title": "Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests",
     "url": "https://github.com/stackframe-projects/pgmock",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "n2d4",
+    "descendants": 79,
+    "time": 1712495623
   },
   {
     "rank": 3,
     "id": 39960645,
     "title": "Blog posts, sorted by sleep",
     "url": "https://breckyunits.com/sleepWriting.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "breck",
+    "descendants": 68,
+    "time": 1712496747
   },
   {
     "rank": 4,
     "id": 39960717,
     "title": "Mixture-of-Depths: Dynamically allocating compute in transformers",
     "url": "https://arxiv.org/abs/2404.02258",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "milliondreams",
+    "descendants": 83,
+    "time": 1712497325
   },
   {
     "rank": 5,
     "id": 39962023,
     "title": "PumpkinOS, a Re-Implementation of PalmOS",
     "url": "https://github.com/migueletto/PumpkinOS",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "rickcarlino",
+    "descendants": 135,
+    "time": 1712508916
   },
   {
     "rank": 6,
     "id": 39966743,
     "title": "Spotify demonetizes all tracks under 1k streams",
     "url": "https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "buro9",
+    "descendants": 408,
+    "time": 1712557191
   },
   {
     "rank": 7,
     "id": 39966918,
     "title": "How much faster are the Gnome 46 terminals?",
     "url": "https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 521,
+    "by": "janvdberg",
+    "descendants": 283,
+    "time": 1712558999
   },
   {
     "rank": 8,
     "id": 39968761,
     "title": "Notepad++: Help us to take down the parasite website",
     "url": "https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "croes",
+    "descendants": 102,
+    "time": 1712577120
   },
   {
     "rank": 9,
     "id": 39970915,
     "title": "Lore Harp McGovern built a microcomputer empire from her suburban home",
     "url": "https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 551,
+    "by": "adrianhon",
+    "descendants": 141,
+    "time": 1712591328
   },
   {
     "rank": 10,
     "id": 39973467,
     "title": "Llm.c \u2013 LLM training in simple, pure C/CUDA",
     "url": "https://github.com/karpathy/llm.c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1050,
+    "by": "tosh",
+    "descendants": 168,
+    "time": 1712608729
   }
 ]

@@ -14,7 +14,7 @@
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 59,
+    "score": 60,
     "by": "smartmic",
     "descendants": 9,
     "time": 1775117951
@@ -51,6 +51,16 @@
   },
   {
     "rank": 6,
+    "id": 47609694,
+    "title": "Email obfuscation: What works in 2026?",
+    "url": "https://spencermortensen.com/articles/email-obfuscation/",
+    "score": 154,
+    "by": "jaden",
+    "descendants": 46,
+    "time": 1775100933
+  },
+  {
+    "rank": 7,
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
@@ -58,16 +68,6 @@
     "by": "novaRom",
     "descendants": 1,
     "time": 1775127000
-  },
-  {
-    "rank": 7,
-    "id": 47609694,
-    "title": "Email obfuscation: What works in 2026?",
-    "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 152,
-    "by": "jaden",
-    "descendants": 46,
-    "time": 1775100933
   },
   {
     "rank": 8,
@@ -84,7 +84,7 @@
     "id": 47609564,
     "title": "Steam on Linux Use Skyrocketed Above 5% in March",
     "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-    "score": 426,
+    "score": 427,
     "by": "hkmaxpro",
     "descendants": 201,
     "time": 1775099544
