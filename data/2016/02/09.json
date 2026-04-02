@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 11058500,
+    "title": "The Zen of Erlang",
+    "url": "http://ferd.ca/the-zen-of-erlang.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 11061689,
+    "title": "PayPal CTO Resigns",
+    "url": "http://www.sec.gov/Archives/edgar/data/1633917/000163391716000110/a8-kbarrese.htm",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 11061992,
+    "title": "Parker Conrad Steps Down as Zenefits CEO",
+    "url": "http://www.buzzfeed.com/williamalden/zenefits-ceo-parker-conrad-steps-down-after-compliance-failu#.isdWP3KWDR",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 11062217,
+    "title": "Yelp Posts Q4 Loss, CFO Resigns",
+    "url": "http://www.nasdaq.com/article/yelp-posts-q4-loss-cfo-rob-krolik-resigns-20160208-01009",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 11062729,
+    "title": "Will Bond (Package Control) Joins Sublime HQ",
+    "url": "https://www.sublimetext.com/blog/articles/sublime-text-3-build-3103",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 11062757,
+    "title": "GNU Social, a FLOSS alternative to Twitter",
+    "url": "http://gnu.io/social/try/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 11063514,
+    "title": "Hacker Publishes Personal Info of 20,000 FBI Agents",
+    "url": "http://motherboard.vice.com/read/hacker-publishes-personal-info-of-20000-fbi-agents",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 11063963,
+    "title": "Amazon Lumberyard: free AAA game engine with Oculus and AWS integration",
+    "url": "http://aws.amazon.com/lumberyard/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 11065251,
+    "title": "Funding Django is not an act of charity, it's an investment",
+    "url": "https://www.djangoproject.com/weblog/2016/feb/04/funding-testimonial-divio/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 11067050,
+    "title": "Gmail Will Warn If Message Is Not Authenticated/Encrypted",
+    "url": "http://gmailblog.blogspot.com/2016/02/making-email-safer-for-you-posted-by.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
