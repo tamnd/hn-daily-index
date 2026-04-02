@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 31083093,
+    "title": "Show HN: I built a simulator for personal finance",
+    "url": "https://projectionlab.com",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 31084147,
+    "title": "How we upgraded our 4TB Postgres database",
+    "url": "https://retool.com/blog/how-we-upgraded-postgresql-database/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 31087175,
+    "title": "HackerRank (YC S11) DMCA'ed the SymPy Docs [fixed]",
+    "url": "https://github.com/sympy/sympy_doc",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 31087795,
+    "title": "The absurd complexity of server-side rendering",
+    "url": "https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 31089677,
+    "title": "Framework Laptop Mainboard",
+    "url": "https://github.com/FrameworkComputer/Mainboard",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 31094130,
+    "title": "Ruby YJIT Ported to Rust",
+    "url": "https://github.com/ruby/ruby/pull/5826",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 31094361,
+    "title": "Ask HN: What\u2019s a good laptop for software development at around $2k?",
+    "url": "https://news.ycombinator.com/item?id=31094361",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 31095046,
+    "title": "Show HN: Favicons for HN",
+    "url": "https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 31096994,
+    "title": "How can I get my boyfriend to stop digging his tunnel?",
+    "url": "https://old.reddit.com/r/Advice/comments/u3qipy/how_can_i_get_my_boyfriend_to_stop_digging_his/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 31098822,
+    "title": "Changing std:sort at Google\u2019s scale and beyond",
+    "url": "https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

@@ -439,7 +439,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2022](data/2022/) (245/365 days)
+### [2022](data/2022/) (275/365 days)
 
 <details><summary>Show calendars</summary>
 
@@ -525,15 +525,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**23**](data/2022/05/README.md#2022-05-23) | [**24**](data/2022/05/README.md#2022-05-24) | [**25**](data/2022/05/README.md#2022-05-25) | [**26**](data/2022/05/README.md#2022-05-26) | [**27**](data/2022/05/README.md#2022-05-27) | [**28**](data/2022/05/README.md#2022-05-28) | [**29**](data/2022/05/README.md#2022-05-29) |
 | [**30**](data/2022/05/README.md#2022-05-30) | [**31**](data/2022/05/README.md#2022-05-31) |  |  |  |  |  |
 
-[**April**](data/2022/04/) (0/30)
+[**April**](data/2022/04/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  |  |  | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 |  |
+|  |  |  |  | [**1**](data/2022/04/README.md#2022-04-01) | [**2**](data/2022/04/README.md#2022-04-02) | [**3**](data/2022/04/README.md#2022-04-03) |
+| [**4**](data/2022/04/README.md#2022-04-04) | [**5**](data/2022/04/README.md#2022-04-05) | [**6**](data/2022/04/README.md#2022-04-06) | [**7**](data/2022/04/README.md#2022-04-07) | [**8**](data/2022/04/README.md#2022-04-08) | [**9**](data/2022/04/README.md#2022-04-09) | [**10**](data/2022/04/README.md#2022-04-10) |
+| [**11**](data/2022/04/README.md#2022-04-11) | [**12**](data/2022/04/README.md#2022-04-12) | [**13**](data/2022/04/README.md#2022-04-13) | [**14**](data/2022/04/README.md#2022-04-14) | [**15**](data/2022/04/README.md#2022-04-15) | [**16**](data/2022/04/README.md#2022-04-16) | [**17**](data/2022/04/README.md#2022-04-17) |
+| [**18**](data/2022/04/README.md#2022-04-18) | [**19**](data/2022/04/README.md#2022-04-19) | [**20**](data/2022/04/README.md#2022-04-20) | [**21**](data/2022/04/README.md#2022-04-21) | [**22**](data/2022/04/README.md#2022-04-22) | [**23**](data/2022/04/README.md#2022-04-23) | [**24**](data/2022/04/README.md#2022-04-24) |
+| [**25**](data/2022/04/README.md#2022-04-25) | [**26**](data/2022/04/README.md#2022-04-26) | [**27**](data/2022/04/README.md#2022-04-27) | [**28**](data/2022/04/README.md#2022-04-28) | [**29**](data/2022/04/README.md#2022-04-29) | [**30**](data/2022/04/README.md#2022-04-30) |  |
 
 [**March**](data/2022/03/) (0/31)
 
@@ -574,12 +574,12 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 87 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [46 comments](https://news.ycombinator.com/item?id=47611721)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 88 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [46 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 60 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [9 comments](https://news.ycombinator.com/item?id=47611481)
 3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 947 points by [apitman](https://news.ycombinator.com/user?id=apitman), [808 comments](https://news.ycombinator.com/item?id=47603657)
 4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 53 points by [luu](https://news.ycombinator.com/user?id=luu), [24 comments](https://news.ycombinator.com/item?id=47582987)
 5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 20 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [9 comments](https://news.ycombinator.com/item?id=47611921)
-6. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 36 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [3 comments](https://news.ycombinator.com/item?id=47612601)
+6. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 38 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [3 comments](https://news.ycombinator.com/item?id=47612601)
 7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 158 points by [jaden](https://news.ycombinator.com/user?id=jaden), [47 comments](https://news.ycombinator.com/item?id=47609694)
 8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 58 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [20 comments](https://news.ycombinator.com/item?id=47596739)
 9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 189 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [61 comments](https://news.ycombinator.com/item?id=47608495)
