@@ -11,9 +11,9 @@ Top 10 Hacker News stories for each day in April 2026.
 
 *Thursday*
 
-1. [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/) (browsergate.eu) - 270 points by [digitalWestie](https://news.ycombinator.com/user?id=digitalWestie), [110 comments](https://news.ycombinator.com/item?id=47613981)
+1. [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/) (browsergate.eu) - 272 points by [digitalWestie](https://news.ycombinator.com/user?id=digitalWestie), [111 comments](https://news.ycombinator.com/item?id=47613981)
 2. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 136 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [28 comments](https://news.ycombinator.com/item?id=47612724)
-3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 88 points by [lode](https://news.ycombinator.com/user?id=lode), [21 comments](https://news.ycombinator.com/item?id=47613078)
+3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 89 points by [lode](https://news.ycombinator.com/user?id=lode), [21 comments](https://news.ycombinator.com/item?id=47613078)
 4. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 168 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [98 comments](https://news.ycombinator.com/item?id=47611721)
 5. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 288 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [161 comments](https://news.ycombinator.com/item?id=47612601)
 6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 98 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [49 comments](https://news.ycombinator.com/item?id=47611921)
