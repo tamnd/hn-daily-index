@@ -11,8 +11,8 @@ Top 10 Hacker News stories for each day in April 2026.
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 127 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [72 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 150 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [73 comments](https://news.ycombinator.com/item?id=47612601)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 128 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [72 comments](https://news.ycombinator.com/item?id=47611721)
+2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 151 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [73 comments](https://news.ycombinator.com/item?id=47612601)
 3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 14 points by [lode](https://news.ycombinator.com/user?id=lode), [0 comments](https://news.ycombinator.com/item?id=47613078)
 4. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 19 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [4 comments](https://news.ycombinator.com/item?id=47612724)
 5. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 91 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [22 comments](https://news.ycombinator.com/item?id=47611481)

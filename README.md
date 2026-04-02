@@ -1081,7 +1081,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2017](data/2017/) (61/365 days)
+### [2017](data/2017/) (92/365 days)
 
 <details><summary>Show calendars</summary>
 
@@ -1105,16 +1105,16 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**20**](data/2017/11/README.md#2017-11-20) | [**21**](data/2017/11/README.md#2017-11-21) | [**22**](data/2017/11/README.md#2017-11-22) | [**23**](data/2017/11/README.md#2017-11-23) | [**24**](data/2017/11/README.md#2017-11-24) | [**25**](data/2017/11/README.md#2017-11-25) | [**26**](data/2017/11/README.md#2017-11-26) |
 | [**27**](data/2017/11/README.md#2017-11-27) | [**28**](data/2017/11/README.md#2017-11-28) | [**29**](data/2017/11/README.md#2017-11-29) | [**30**](data/2017/11/README.md#2017-11-30) |  |  |  |
 
-[**October**](data/2017/10/) (0/31)
+[**October**](data/2017/10/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  |  |  |  |  | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 |  |  |  |  |  |
+|  |  |  |  |  |  | [**1**](data/2017/10/README.md#2017-10-01) |
+| [**2**](data/2017/10/README.md#2017-10-02) | [**3**](data/2017/10/README.md#2017-10-03) | [**4**](data/2017/10/README.md#2017-10-04) | [**5**](data/2017/10/README.md#2017-10-05) | [**6**](data/2017/10/README.md#2017-10-06) | [**7**](data/2017/10/README.md#2017-10-07) | [**8**](data/2017/10/README.md#2017-10-08) |
+| [**9**](data/2017/10/README.md#2017-10-09) | [**10**](data/2017/10/README.md#2017-10-10) | [**11**](data/2017/10/README.md#2017-10-11) | [**12**](data/2017/10/README.md#2017-10-12) | [**13**](data/2017/10/README.md#2017-10-13) | [**14**](data/2017/10/README.md#2017-10-14) | [**15**](data/2017/10/README.md#2017-10-15) |
+| [**16**](data/2017/10/README.md#2017-10-16) | [**17**](data/2017/10/README.md#2017-10-17) | [**18**](data/2017/10/README.md#2017-10-18) | [**19**](data/2017/10/README.md#2017-10-19) | [**20**](data/2017/10/README.md#2017-10-20) | [**21**](data/2017/10/README.md#2017-10-21) | [**22**](data/2017/10/README.md#2017-10-22) |
+| [**23**](data/2017/10/README.md#2017-10-23) | [**24**](data/2017/10/README.md#2017-10-24) | [**25**](data/2017/10/README.md#2017-10-25) | [**26**](data/2017/10/README.md#2017-10-26) | [**27**](data/2017/10/README.md#2017-10-27) | [**28**](data/2017/10/README.md#2017-10-28) | [**29**](data/2017/10/README.md#2017-10-29) |
+| [**30**](data/2017/10/README.md#2017-10-30) | [**31**](data/2017/10/README.md#2017-10-31) |  |  |  |  |  |
 
 [**September**](data/2017/09/) (0/30)
 
@@ -1216,8 +1216,8 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 127 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [72 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 150 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [73 comments](https://news.ycombinator.com/item?id=47612601)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 128 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [72 comments](https://news.ycombinator.com/item?id=47611721)
+2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 151 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [73 comments](https://news.ycombinator.com/item?id=47612601)
 3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 14 points by [lode](https://news.ycombinator.com/user?id=lode), [0 comments](https://news.ycombinator.com/item?id=47613078)
 4. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 19 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [4 comments](https://news.ycombinator.com/item?id=47612724)
 5. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 91 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [22 comments](https://news.ycombinator.com/item?id=47611481)
