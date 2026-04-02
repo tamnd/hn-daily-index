@@ -2,6 +2,13 @@
 
 Top 10 Hacker News stories for each day in October 2020.
 
+- [2020-10-31 (Saturday)](#2020-10-31)
+- [2020-10-30 (Friday)](#2020-10-30)
+- [2020-10-29 (Thursday)](#2020-10-29)
+- [2020-10-28 (Wednesday)](#2020-10-28)
+- [2020-10-27 (Tuesday)](#2020-10-27)
+- [2020-10-26 (Monday)](#2020-10-26)
+- [2020-10-25 (Sunday)](#2020-10-25)
 - [2020-10-24 (Saturday)](#2020-10-24)
 - [2020-10-23 (Friday)](#2020-10-23)
 - [2020-10-22 (Thursday)](#2020-10-22)
@@ -28,6 +35,111 @@ Top 10 Hacker News stories for each day in October 2020.
 - [2020-10-01 (Thursday)](#2020-10-01)
 
 ---
+
+## 2020-10-31
+
+*Saturday*
+
+1. [I’m deaf, and this is what happens when I get on a Zoom call](https://www.fastcompany.com/90565930/im-deaf-and-this-is-what-happens-when-i-get-on-a-zoom-call) (fastcompany.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24940559)
+2. [From McDonald's to Google](https://www.protocol.com/kelsey-hightower-google-cloud) (protocol.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24942908)
+3. [Goodbye IFTTT](https://benjamincongdon.me/blog/2020/10/30/Goodbye-IFTTT/) (benjamincongdon.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24943685)
+4. [YC Startup School for future founders who aren't quite ready to start yet](https://blog.ycombinator.com/startup-school-for-future-founders/) (blog.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24944460)
+5. [Lobe.ai – A simple tool for training machine learning models](https://lobe.ai/) (lobe.ai) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24944814)
+6. [How to deal with extreme physical pain](https://www.hanselman.com/blog/how-to-deal-with-extreme-physical-pain) (hanselman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24947498)
+7. [Foundations of Software Engineering](https://cmu-313.github.io) (cmu-313.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24949322)
+8. [Governments Worldwide Consider Ditching Daylight Saving Time](https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/) (scientificamerican.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24950470)
+9. [Sean Connery has died](https://www.bbc.co.uk/news/entertainment-arts-54761824) (bbc.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24950897)
+10. [Photos from inside a Typhoon class submarine](https://ru-submarine.livejournal.com/17486.html) (ru-submarine.livejournal.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24951351)
+
+## 2020-10-30
+
+*Friday*
+
+1. [Ask HN: Jack-of-all-trades of HN, how do you approach job search?](https://news.ycombinator.com/item?id=24916016) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24916016)
+2. [I Hate Coordinate Systems](https://ihatecoordinatesystems.com/) (ihatecoordinatesystems.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24917394)
+3. [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) (lexaloffle.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24927001)
+4. [MDN Web Docs evolves: Lowdown on the upcoming new platform](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/) (hacks.mozilla.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24931862)
+5. [The Laptev Sea hasn't frozen](https://www.economist.com/graphic-detail/2020/10/28/more-bad-news-for-the-arctic-the-laptev-sea-hasnt-frozen) (economist.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24932466)
+6. [Ruby on Rails in a week](https://www.simplethread.com/ruby-on-rails-in-a-week/) (simplethread.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24934581)
+7. [Show HN: What would mechanical programming look like?](https://mockmechanics.com/) (mockmechanics.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24934722)
+8. [Intermittent fasting from dawn to sunset induces anticancer response](https://pubmed.ncbi.nlm.nih.gov/33110154/) (pubmed.ncbi.nlm.nih.gov) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24938639)
+9. [Edsger Dijkstra – The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders) (inference-review.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24942671)
+10. [Maine Becomes First State to Use Ranked-Choice Voting in a Presidential Election](https://www.wsj.com/articles/maine-becomes-first-state-to-use-ranked-choice-voting-in-a-presidential-election-11604062812) (wsj.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24943441)
+
+## 2020-10-29
+
+*Thursday*
+
+1. [That company whose name used to contain HTML script tags Ltd](https://find-and-update.company-information.service.gov.uk/company/12956509) (find-and-update.company-information.service.gov.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24919710)
+2. [AMD Reveals the Radeon RX 6000 Series, Coming November 18th](https://www.anandtech.com/show/16202/amd-reveals-the-radeon-rx-6000-series-rdna2-starts-at-the-highend-coming-november-18th) (anandtech.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24920758)
+3. [Graphical User Interface Using Flutter in Embedded Systems [pdf]](https://static.sched.com/hosted_files/osseu2020/e0/Oct%2027_Graphical%20User%20Interface%20Using%20Flutter%20in%20Embedded%20Systems_Hidenori%20Matsubayashi.pdf) (static.sched.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24921031)
+4. [Dr. Leonid Rogozov operating himself to remove his appendix in Antarctica, 1961](https://rarehistoricalphotos.com/leonid-rogozov-appendix-1961/) (rarehistoricalphotos.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24921716)
+5. [FBI, DHS, HHS Warn of Imminent Ransomware Threat Against U.S. Hospitals](https://krebsonsecurity.com/2020/10/fbi-dhs-hhs-warn-of-imminent-credible-ransomware-threat-against-u-s-hospitals/) (krebsonsecurity.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24925899)
+6. [I Violated a Code of Conduct](https://www.fast.ai/2020/10/28/code-of-conduct/) (fast.ai) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24926214)
+7. [Image Scaling Attacks](https://embracethered.com/blog/posts/2020/husky-ai-image-rescaling-attacks/) (embracethered.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24927655)
+8. [The Remarkable Number 1/89 (2004)](http://www2.math.ou.edu/~dmccullough/teaching/miscellanea/miner.html) (www2.math.ou.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24929726)
+9. [Grubhub sued for listing restaurants without permission](https://www.axios.com/grubhub-sued-restaurants-delivery-5fa51bda-73c4-44b0-93f7-314660d8b7af.html) (axios.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24930436)
+10. [My Resignation from the Intercept](https://greenwald.substack.com/p/my-resignation-from-the-intercept) (greenwald.substack.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24933054)
+
+## 2020-10-28
+
+*Wednesday*
+
+1. [A Guy Walks into an Apple Store](https://birchtree.me/blog/a-guy-walks-into-an-apple-store/) (birchtree.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24911413)
+2. [Over 80% of Covid-19 patients in a hospital study have Vitamin D deficiency](https://www.endocrine.org/news-and-advocacy/news-room/2020/study-finds-over-80-percent-of-covid19-patients-have-vitamin-d-deficiency) (endocrine.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24912172)
+3. [Google's new logos are bad](https://techcrunch.com/2020/10/06/googles-new-logos-are-bad/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24913960)
+4. [Amazon destroys $1.5m of sellers inventory – now homeless](https://www.smh.com.au/business/companies/ruined-my-life-after-going-all-in-on-amazon-a-merchant-says-he-lost-everything-20201028-p5697l.html) (smh.com.au) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24914501)
+5. [A Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html) (danuker.go.ro) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24915497)
+6. [Spy agency ducks questions about 'back doors' in tech products](https://www.reuters.com/article/us-usa-security-congress-insight/spy-agency-ducks-questions-about-back-doors-in-tech-products-idUSKBN27D1CS) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24918538)
+7. [Stripe Climate](https://stripe.com/climate) (stripe.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24919006)
+8. [Wikimedia is moving to Gitlab](https://www.mediawiki.org/wiki/GitLab_consultation#Outcome) (mediawiki.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24919569)
+9. [On Abandoning the X Server](https://ajaxnwnk.blogspot.com/2020/10/on-abandoning-x-server.html) (ajaxnwnk.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24920183)
+10. [Woman allegedly impersonated prosecutor, dropped charges against herself](https://www.unionleader.com/news/courts/woman-accused-of-impersonating-prosecutor-dropping-criminal-charges-against-herself/article_1fdb1551-147d-53dd-ad45-6680bfc556fa.html?block_id=897573) (unionleader.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24921518)
+
+## 2020-10-27
+
+*Tuesday*
+
+1. [Free Linear Algebra textbook](https://hefferon.net/linearalgebra/) (hefferon.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24892907)
+2. [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/) (dmitrysoshnikov.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24898210)
+3. [Apache Helix – Near-Realtime Rsync Replicated File System](https://helix.apache.org/0.6.8-docs/recipes/rsync_replicated_file_store.html) (helix.apache.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24898911)
+4. [Org Mode's new site](https://orgmode.org) (orgmode.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24903311)
+5. [Type in the exact number of machines to proceed](https://rachelbythebay.com/w/2020/10/26/num/) (rachelbythebay.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24904204)
+6. [AMD to Acquire Xilinx](https://www.amd.com/en/corporate/xilinx-acquisition) (amd.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24906151)
+7. [Mobilizon – A free, federated tool for events and groups](https://framablog.org/2020/10/27/mobilizon-your-events-your-groups-your-data/) (framablog.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24906218)
+8. [RIAA’s YouTube-dl takedown ticks off developers and GitHub’s CEO](https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027/) (torrentfreak.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24908695)
+9. [Next.js 10](https://nextjs.org/blog/next-10) (nextjs.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24908729)
+10. [Facebook has sent a cease-and-desist letter to researchers](https://twitter.com/AlexanderAbdo/status/1319761452832534531) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24909056)
+
+## 2020-10-26
+
+*Monday*
+
+1. [A one-line change decreased our build times by 99%](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370) (medium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24877034)
+2. [The RIAA’s attack on YouTube-dl is not a DMCA 512 infringement](https://joindiaspora.com/posts/808cf690f8e801381778002590d8e506) (joindiaspora.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24888234)
+3. [I am seriously considering going back to desktop computers](http://misc-stuff.terraaeon.com/articles/locked-down-computers.html) (misc-stuff.terraaeon.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24889488)
+4. [New nuclear engine concept could help realize 3-month trips to Mars](https://newatlas.com/space/nuclear-thermal-propulsion-ntp-nasa-unsc-tech-deep-space-travel/) (newatlas.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24890988)
+5. [An Intuition for Lisp Syntax](https://stopa.io/post/265) (stopa.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24892297)
+6. [‘Culture wars’ are fought by tiny minority – UK study](https://www.theguardian.com/society/2020/oct/24/culture-wars-are-fought-by-tiny-minority-uk-study) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24894248)
+7. [Vaccine hopes rise as Oxford jab prompts immune response among old and young](https://www.reuters.com/article/us-health-coronavirus-astrazeneca-vaccin/oxford-covid-19-vaccine-prompts-immune-response-among-adults-old-and-young-astrazeneca-says-idUSKBN27B0IV) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24894622)
+8. [Fastly hires entire Wasmtime team from Mozilla](https://bytecodealliance.org/articles/1-year-update#the-lucet-and-wasmtime-teams-join-forces) (bytecodealliance.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24897641)
+9. [Twitter still hasn't unlocked the New York Post's account](https://www.melovedata.com/twitter-still-hasnt-unlocked-the-new-york-posts-account/) (melovedata.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24899186)
+10. [How journalists use youtube-dl](https://freedom.press/news/riaa-github-youtube-dl-journalist-tool/) (freedom.press) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24899863)
+
+## 2020-10-25
+
+*Sunday*
+
+1. [The Coming Civil War over General Purpose Computing (2012)](https://boingboing.net/2012/08/23/civilwar.html) (boingboing.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24866279)
+2. [A small but complete JavaScript engine](https://bellard.org/quickjs/) (bellard.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24867103)
+3. [Pandoc – A universal document converter](https://pandoc.org/) (pandoc.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24882480)
+4. [Delete Facebook and You'll Lose All Oculus Games for Good](https://www.gamespot.com/articles/delete-facebook-and-youll-lose-all-oculus-games-for-good/1100-6483716/) (gamespot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24882812)
+5. [YouTube-dl is now part of GitHub/dmca.git](https://github.com/github/dmca/tree/416da574ec0df3388f652e44f7fe71b1e3a4701f) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24882921)
+6. [The X.Org Server Is Abandonware?](https://www.phoronix.com/scan.php?page=news_item&px=XServer-Abandonware) (phoronix.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24884988)
+7. [Hackers hijack and publish mental health data of hundreds of people](https://www.foreigner.fi/articulo/national/scandal-over-the-hijack-and-and-publication-of-private-mental-health-data/20201023121903008599.html) (foreigner.fi) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24886039)
+8. [Gitlab Blocked Iranians’ Access](https://ahmadhaghighi.com/blog/2020/gitlab/) (ahmadhaghighi.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24886102)
+9. [Washington crews destroy first U.S. “murder hornet” nest](https://www.axios.com/washington-state-murder-hornets-nest-photos-39e04acb-50da-4c3d-8a8d-4993e1fe2780.html) (axios.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24886909)
+10. [Zoom Deleted Events Discussing Zoom “Censorship”](https://www.buzzfeednews.com/article/janelytvynenko/zoom-deleted-events-censorship) (buzzfeednews.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=24887069)
 
 ## 2020-10-24
 
