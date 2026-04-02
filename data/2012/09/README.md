@@ -2,6 +2,10 @@
 
 Top 10 Hacker News stories for each day in September 2012.
 
+- [2012-09-30 (Sunday)](#2012-09-30)
+- [2012-09-29 (Saturday)](#2012-09-29)
+- [2012-09-28 (Friday)](#2012-09-28)
+- [2012-09-27 (Thursday)](#2012-09-27)
 - [2012-09-26 (Wednesday)](#2012-09-26)
 - [2012-09-25 (Tuesday)](#2012-09-25)
 - [2012-09-24 (Monday)](#2012-09-24)
@@ -30,6 +34,66 @@ Top 10 Hacker News stories for each day in September 2012.
 - [2012-09-01 (Saturday)](#2012-09-01)
 
 ---
+
+## 2012-09-30
+
+*Sunday*
+
+1. [Flowplayer 5.0.0](http://flowplayer.org/) (flowplayer.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4589361)
+2. [Persona - Mozilla's decentralized and secure authentication system](https://developer.mozilla.org/en-US/docs/Persona) (developer.mozilla.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4589554)
+3. [Slate: Tiling window management for OS X](https://github.com/jigish/slate) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4589658)
+4. [Fog of World](http://fogofworld.com) (fogofworld.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4590663)
+5. [How does SSL work?](http://security.stackexchange.com/questions/20803/how-does-ssl-work/20833) (security.stackexchange.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4590665)
+6. [Selfspy - Tool for Personal Data Analytics](https://github.com/gurgeh/selfspy) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4590987)
+7. [The Case for Abolishing Patents (Yes, All of Them) ](http://m.theatlantic.com/business/archive/2012/09/the-case-for-abolishing-patents-yes-all-of-them/262913/) (m.theatlantic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4591002)
+8. [Amazon now loaning capital to sellers](http://www.amazonstrategies.com/2012/09/amazon-lending-amazon-starts-loaning-capital-to-sellers-to-help-them-scale.html) (amazonstrategies.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4591612)
+9. [Why was a scam company able to raise $76 Million Series B?](http://news.ycombinator.com/item?id=4592778) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4592778)
+10. [Dave The Incredible Mindreader – How Does He Do It?](http://singularityhub.com/2012/09/28/dave-the-uncannily-accurate-mindreader-how-does-he-do-it/) (singularityhub.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4593087)
+
+## 2012-09-29
+
+*Saturday*
+
+1. [Show HN: Bubbles - my unfinished HTML5 Particle Game](http://www.fullstackoptimization.com/bubbles/) (fullstackoptimization.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4584865)
+2. [Google disables AdSense account of user for sharing free book via torrent](http://www.geekosystem.com/google-aggressive-ads/) (geekosystem.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4585043)
+3. [WTFM - Write The Freaking Manual](http://www.floopsy.com/post/32453280184/w-t-f-m-write-the-freaking-manual) (floopsy.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4585107)
+4. [WebGL Car Viewer](http://carvisualizer.plus360degrees.com/threejs/) (carvisualizer.plus360degrees.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4585622)
+5. [Use Zsh](http://fendrich.se/blog/2012/09/28/no/) (fendrich.se) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4585946)
+6. [Patio11 launches his lifecycle emails course](https://training.kalzumeus.com/lifecycle-emails) (training.kalzumeus.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4586434)
+7. [Alligator Eggs](http://worrydream.com/AlligatorEggs/) (worrydream.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4586692)
+8. [Stripe partners with Chilling Effects](https://stripe.com/blog/towards-transparency) (stripe.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4587634)
+9. [Bootstrap Maintainers Leave Twitter](http://blog.getbootstrap.com/2012/09/29/onward/) (blog.getbootstrap.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4588053)
+10. [Python 3.3.0 released](http://python.org/download/releases/3.3.0/) (python.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4589465)
+
+## 2012-09-28
+
+*Friday*
+
+1. [Did NSA Put a Secret Backdoor in New Encryption Standard? (2007)](http://www.schneier.com/essay-198.html) (schneier.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4580434)
+2. [Google Search Referrers Disappear In iOS 6](http://searchengineland.com/ios-6-removes-all-google-search-referer-data-134560) (searchengineland.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4580696)
+3. [What happens to our brains when we exercise and how it makes us happier](http://blog.bufferapp.com/why-exercising-makes-us-happier) (blog.bufferapp.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4580977)
+4. [NASA Rover Finds Old Streambed on Martian Surface ](http://www.jpl.nasa.gov/news/news.php?release=2012-305) (jpl.nasa.gov) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4583212)
+5. [Want To Disrupt An Industry? Try Actually Working In It First](http://www.fastcompany.com/3001334/want-disrupt-industry-try-actually-working-it-first#full) (fastcompany.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4583592)
+6. [Employers Banned From Asking For Social Media Passwords In California](http://techcrunch.com/2012/09/27/employers-banned-from-asking-for-social-media-passwords-in-california/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4583769)
+7. [Notch: "I'd rather have minecraft not run on win 8 at all than to play along."](http://kotaku.com/5947162/notch-id-rather-have-minecraft-not-run-on-win-8-at-all-than-to-play-along) (kotaku.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4583919)
+8. [California passes groundbreaking open textbook legislation](https://creativecommons.org/weblog/entry/34288) (creativecommons.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4584631)
+9. [Patent US6368227 - Method of swinging on a swing](http://www.google.co.uk/patents/US6368227) (google.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4585175)
+10. [A Letter from Tim Cook on Maps](http://www.apple.com/letter-from-tim-cook-on-maps/) (apple.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4585223)
+
+## 2012-09-27
+
+*Thursday*
+
+1. [Mathematics at Google ](http://research.google.com/pubs/pub38331.html) (research.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4575201)
+2. [MMO in loving tribute to xkcd-1110](http://1110.n01se.net/) (1110.n01se.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4576140)
+3. [Why I think Rust is the "language of the future" for systems programming](http://winningraceconditions.blogspot.com/2012/09/rust-0-index-and-conclusion.html) (winningraceconditions.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4577153)
+4. [A Conversation With Randall Munroe, the Creator of XKCD](http://www.theatlantic.com/technology/archive/2012/09/a-conversation-with-randall-munroe-the-creator-of-xkcd/262851/) (theatlantic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4578518)
+5. [Beta Late Than Never (Steam Linux Beta)](http://blogs.valvesoftware.com/linux/beta-late-than-never-3/) (blogs.valvesoftware.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4579053)
+6. [“iCloud Backup”](http://www.marco.org/2012/09/26/icloud-backup) (marco.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4579064)
+7. [How a random bug in Deep Blue may ultimately have led to Kasparov's defeat](http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/09/26/nate-silvers-the-signal-and-the-noise/) (washingtonpost.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4579623)
+8. [How to build a windmill](http://jacquesmattheij.com/how-to-build-a-windmill) (jacquesmattheij.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4579932)
+9. [Announcing the First Beta Release of Persona](http://identity.mozilla.com/post/32395255498/announcing-the-first-beta-release-of-persona) (identity.mozilla.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4580986)
+10. [StarCraft: Orcs in space go down in flames](http://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames) (codeofhonor.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4582123)
 
 ## 2012-09-26
 
