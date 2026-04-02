@@ -4,99 +4,99 @@
     "id": 19291654,
     "title": "Weekend \u2018catch-up sleep\u2019 is a lie",
     "url": "https://www.washingtonpost.com/health/2019/02/28/weekend-catch-up-sleep-is-lie/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "wallflower",
+    "descendants": 247,
+    "time": 1551567559
   },
   {
     "rank": 2,
     "id": 19310358,
     "title": "Introduction to Theoretical Computer Science",
     "url": "https://introtcs.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "lainon",
+    "descendants": 28,
+    "time": 1551792741
   },
   {
     "rank": 3,
     "id": 19315191,
     "title": "The Troika Laundromat",
     "url": "https://www.occrp.org/en/troikalaundromat/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "jumelles",
+    "descendants": 94,
+    "time": 1551828533
   },
   {
     "rank": 4,
     "id": 19315273,
     "title": "Ghidra, NSA's reverse-engineering tool",
     "url": "https://www.nsa.gov/ghidra",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1283,
+    "by": "twodayslate",
+    "descendants": 405,
+    "time": 1551829299
   },
   {
     "rank": 5,
     "id": 19316119,
     "title": "Democrats to push to reinstate repealed 'net neutrality' rules",
     "url": "https://www.reuters.com/article/us-usa-internet/democrats-to-push-to-reinstate-repealed-net-neutrality-rules-idUSKCN1QL1W0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "joeyespo",
+    "descendants": 170,
+    "time": 1551841559
   },
   {
     "rank": 6,
     "id": 19316161,
     "title": "European Parliament set to end EU-wide daylight savings",
     "url": "https://www.dw.com/en/european-parliament-set-to-end-eu-wide-daylight-savings/a-47775317",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "mattjaynes",
+    "descendants": 259,
+    "time": 1551842292
   },
   {
     "rank": 7,
     "id": 19319215,
     "title": "Facebook Still Tracks People on Yelp, Duolingo, Indeed",
     "url": "https://privacyinternational.org/blog/2758/guess-what-facebook-still-tracks-you-android-apps-even-if-you-dont-have-facebook-account",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 599,
+    "by": "hadrien01",
+    "descendants": 355,
+    "time": 1551883397
   },
   {
     "rank": 8,
     "id": 19320217,
     "title": "Implementing a Neural Network from Scratch in Python",
     "url": "https://victorzhou.com/blog/intro-to-neural-networks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 616,
+    "by": "vzhou842",
+    "descendants": 100,
+    "time": 1551890396
   },
   {
     "rank": 9,
     "id": 19321775,
     "title": "Serious Chrome zero-day",
     "url": "https://nakedsecurity.sophos.com/2019/03/06/serious-chrome-zero-day-google-says-update-right-this-minute/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 732,
+    "by": "Bender",
+    "descendants": 356,
+    "time": 1551900182
   },
   {
     "rank": 10,
     "id": 19322448,
     "title": "U.S. users are leaving Facebook by the millions, Edison Research says",
     "url": "https://www.marketplace.org/2019/03/06/tech/exclusive-look-numbers-showing-users-leaving-facebook-by-the-millions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1293,
+    "by": "rmason",
+    "descendants": 595,
+    "time": 1551904237
   }
 ]

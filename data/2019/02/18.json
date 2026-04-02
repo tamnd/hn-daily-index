@@ -4,99 +4,99 @@
     "id": 19184412,
     "title": "Hexagonal Grids (2013)",
     "url": "https://www.redblobgames.com/grids/hexagons/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "skilled",
+    "descendants": 46,
+    "time": 1550411099
   },
   {
     "rank": 2,
     "id": 19186657,
     "title": "On Being an Engineering Manager",
     "url": "https://nickmchardy.com/2019/02/on-being-an-engineering-manager.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "boyter",
+    "descendants": 76,
+    "time": 1550435240
   },
   {
     "rank": 3,
     "id": 19186795,
     "title": "WireGuard for MacOS",
     "url": "https://lists.zx2c4.com/pipermail/wireguard/2019-February/003853.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 575,
+    "by": "helper",
+    "descendants": 154,
+    "time": 1550436412
   },
   {
     "rank": 4,
     "id": 19187417,
     "title": "LD_PRELOAD: The Hero We Need and Deserve",
     "url": "https://blog.jessfraz.com/post/ld_preload/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "ingve",
+    "descendants": 139,
+    "time": 1550444088
   },
   {
     "rank": 5,
     "id": 19188642,
     "title": "Cache Eviction: When Are Randomized Algorithms Better Than LRU? (2014)",
     "url": "http://danluu.com/2choices-eviction/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "zwliew",
+    "descendants": 42,
+    "time": 1550464004
   },
   {
     "rank": 6,
     "id": 19189390,
     "title": "The shady economics of \u2018buy one, get one free\u2019 deals",
     "url": "https://thehustle.co/are-buy-one-get-one-free-deals-worth-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "zzaner",
+    "descendants": 239,
+    "time": 1550479879
   },
   {
     "rank": 7,
     "id": 19190153,
     "title": "I took 50,000 images of the night sky to make an 81 Megapixel image of the moon",
     "url": "https://www.reddit.com/r/space/comments/arer0k/i_took_nearly_50000_images_of_the_night_sky_to/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 873,
+    "by": "sohkamyung",
+    "descendants": 113,
+    "time": 1550492300
   },
   {
     "rank": 8,
     "id": 19190183,
     "title": "Magic Lantern",
     "url": "https://www.magiclantern.fm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 707,
+    "by": "chris_overseas",
+    "descendants": 234,
+    "time": 1550492869
   },
   {
     "rank": 9,
     "id": 19191178,
     "title": "A faster, more efficient cryptocurrency",
     "url": "http://news.mit.edu/2019/vault-faster-more-efficient-cryptocurrency-0124",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 584,
+    "by": "salvadormon",
+    "descendants": 815,
+    "time": 1550502782
   },
   {
     "rank": 10,
     "id": 19192676,
     "title": "Harder programming questions do a worse job of predicting outcomes",
     "url": "https://triplebyte.com/blog/interview-questions-are-too-hard-and-too-short",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "Harj",
+    "descendants": 511,
+    "time": 1550513049
   }
 ]

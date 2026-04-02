@@ -4,99 +4,99 @@
     "id": 19470945,
     "title": "Calculating the mean of a list of numbers (2016)",
     "url": "https://hypothesis.works/articles/calculating-the-mean/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "GregBuchholz",
+    "descendants": 94,
+    "time": 1553356596
   },
   {
     "rank": 2,
     "id": 19471471,
     "title": "Sonic: Fast, lightweight and schemaless search back end in Rust",
     "url": "https://github.com/valeriansaliou/sonic",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "louis-paul",
+    "descendants": 39,
+    "time": 1553363507
   },
   {
     "rank": 3,
     "id": 19474091,
     "title": "Dell Autism Hiring Program",
     "url": "https://jobs.dell.com/neurodiversity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "ra7",
+    "descendants": 185,
+    "time": 1553398460
   },
   {
     "rank": 4,
     "id": 19474853,
     "title": "Show HN: Editable, royalty-free SVG illustrations",
     "url": "https://gallery.manypixels.co",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "vinrob92",
+    "descendants": 43,
+    "time": 1553410357
   },
   {
     "rank": 5,
     "id": 19475218,
     "title": "On Learning Rust and Go: Migrating Away from Python",
     "url": "https://blog.liw.fi/posts/2019/03/24/on_learning_rust_and_go_migrating_away_from_python/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "edward",
+    "descendants": 337,
+    "time": 1553417074
   },
   {
     "rank": 6,
     "id": 19475254,
     "title": "Chrome \u201cclear cookies on exit\u201d feature does not work",
     "url": "https://superuser.com/questions/1298062/chrome-clear-cookies-on-exit-feature-does-not-work",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "rdslw",
+    "descendants": 77,
+    "time": 1553417853
   },
   {
     "rank": 7,
     "id": 19475273,
     "title": "KaTeX \u2013 Fast math typesetting library for the web",
     "url": "https://katex.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "tosh",
+    "descendants": 40,
+    "time": 1553418093
   },
   {
     "rank": 8,
     "id": 19476018,
     "title": "Man Stole $122M from Facebook and Google by Impersonating Quanta",
     "url": "https://boingboing.net/2019/03/24/evaldas-rimasauskas.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "paulgerhardt",
+    "descendants": 93,
+    "time": 1553431459
   },
   {
     "rank": 9,
     "id": 19477559,
     "title": "Engineer refusing to file/disclose patents",
     "url": "https://workplace.stackexchange.com/questions/132387/engineer-refusing-to-file-disclose-patents",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "chrisbennet",
+    "descendants": 226,
+    "time": 1553448902
   },
   {
     "rank": 10,
     "id": 19477868,
     "title": "Mathigon \u2013 an interactive, personalized mathematics textbook",
     "url": "https://mathigon.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 920,
+    "by": "mr_golyadkin",
+    "descendants": 92,
+    "time": 1553451785
   }
 ]

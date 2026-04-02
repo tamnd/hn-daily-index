@@ -4,99 +4,99 @@
     "id": 19318898,
     "title": "24/192 Music Downloads and why they make no sense (2012)",
     "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "zpiman",
+    "descendants": 314,
+    "time": 1551880825
   },
   {
     "rank": 2,
     "id": 19321070,
     "title": "Microservices, Containers and Kubernetes in Ten Minutes",
     "url": "https://gravitational.com/blog/microservices-containers-kubernetes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "old-gregg",
+    "descendants": 85,
+    "time": 1551895727
   },
   {
     "rank": 3,
     "id": 19321291,
     "title": "Experts cracked laptop of crypto CEO who died with $137M, but the money was gone",
     "url": "https://www.businessinsider.com/crypto-ceo-died-with-passwords-to-137-million-but-the-money-is-gone-2019-3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 649,
+    "by": "turtlegrids",
+    "descendants": 331,
+    "time": 1551897138
   },
   {
     "rank": 4,
     "id": 19323032,
     "title": "Firefox to add Tor Browser anti-fingerprinting technique called letterboxing",
     "url": "https://www.zdnet.com/article/firefox-to-add-tor-browser-anti-fingerprinting-technique-called-letterboxing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 720,
+    "by": "commoner",
+    "descendants": 209,
+    "time": 1551907915
   },
   {
     "rank": 5,
     "id": 19325302,
     "title": "Leaked Documents Show the U.S. Tracking Journalists Through a Secret Database",
     "url": "https://www.nbcsandiego.com/investigations/Source-Leaked-Documents-Show-the-US-Government-Tracking-Journalists-and-Advocates-Through-a-Secret-Database-506783231.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "jseliger",
+    "descendants": 175,
+    "time": 1551929010
   },
   {
     "rank": 6,
     "id": 19325436,
     "title": "Tesla \u2013 Introducing V3 Supercharging",
     "url": "https://www.tesla.com/blog/introducing-v3-supercharging",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "arturogarrido",
+    "descendants": 271,
+    "time": 1551931564
   },
   {
     "rank": 7,
     "id": 19325548,
     "title": "ARM processors like A12X are nearing performance parity with desktop processors",
     "url": "https://reveried.com/article/arm-processors-nearing-performance-parity-with-x86",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "kristianp",
+    "descendants": 238,
+    "time": 1551933723
   },
   {
     "rank": 8,
     "id": 19328085,
     "title": "PureOS is convergent",
     "url": "https://puri.sm/posts/converging-on-convergence-pureos-is-convergent-welcome-to-the-future/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "iBelieve",
+    "descendants": 293,
+    "time": 1551967784
   },
   {
     "rank": 9,
     "id": 19329330,
     "title": "Notepad++ drops code signing for its releases",
     "url": "https://notepad-plus-plus.org/news/notepad-7.6.4-released.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "pmh",
+    "descendants": 326,
+    "time": 1551976023
   },
   {
     "rank": 10,
     "id": 19330812,
     "title": "Airbnb to Acquire HotelTonight",
     "url": "https://press.airbnb.com/airbnb-signs-agreement-to-acquire-hoteltonight/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "c_t_montgomery",
+    "descendants": 365,
+    "time": 1551984184
   }
 ]

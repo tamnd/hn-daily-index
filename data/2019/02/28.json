@@ -4,99 +4,99 @@
     "id": 19254008,
     "title": "Ask HN: How to be productive with big existing code base",
     "url": "https://news.ycombinator.com/item?id=19254008",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "maheshs",
+    "descendants": 180,
+    "time": 1551187275
   },
   {
     "rank": 2,
     "id": 19263814,
     "title": "Heat Your House with a Water Brake Windmill",
     "url": "https://www.lowtechmagazine.com/2019/02/heat-your-house-with-a-water-brake-windmill.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "nyc111",
+    "descendants": 172,
+    "time": 1551281435
   },
   {
     "rank": 3,
     "id": 19266823,
     "title": "Reconstructing Twitter's Firehose",
     "url": "https://docs.google.com/document/d/1xVrPoNutyqTdQ04DXBEZW4ZW4A5RAQW2he7qIpTmG-M/edit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "minimaxir",
+    "descendants": 102,
+    "time": 1551300660
   },
   {
     "rank": 4,
     "id": 19268734,
     "title": "Formally Specifying UIs (2018)",
     "url": "https://www.hillelwayne.com/post/formally-specifying-uis/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "meistro",
+    "descendants": 45,
+    "time": 1551323634
   },
   {
     "rank": 5,
     "id": 19270646,
     "title": "Mozilla releases the largest to-date public domain transcribed voice dataset",
     "url": "https://blog.mozilla.org/blog/2019/02/28/sharing-our-common-voices-mozilla-releases-the-largest-to-date-public-domain-transcribed-voice-dataset/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 705,
+    "by": "Vinnl",
+    "descendants": 61,
+    "time": 1551353896
   },
   {
     "rank": 6,
     "id": 19270786,
     "title": "Liberapay \u2013 A recurrent donations platform",
     "url": "https://liberapay.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "NicoJuicy",
+    "descendants": 83,
+    "time": 1551355814
   },
   {
     "rank": 7,
     "id": 19271487,
     "title": "Implications of Rewriting a Browser Component in Rust",
     "url": "https://hacks.mozilla.org/2019/02/rewriting-a-browser-component-in-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "zwliew",
+    "descendants": 268,
+    "time": 1551364203
   },
   {
     "rank": 8,
     "id": 19273955,
     "title": "UC terminates subscriptions with Elsevier in push for open access",
     "url": "https://www.universityofcalifornia.edu/press-room/uc-terminates-subscriptions-worlds-largest-scientific-publisher-push-open-access-publicly",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1743,
+    "by": "tingletech",
+    "descendants": 233,
+    "time": 1551379871
   },
   {
     "rank": 9,
     "id": 19274406,
     "title": "YouTube bans comments on all videos of children",
     "url": "https://www.bbc.co.uk/news/technology-47408969",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 610,
+    "by": "_wmd",
+    "descendants": 530,
+    "time": 1551383120
   },
   {
     "rank": 10,
     "id": 19275755,
     "title": "$35,000 Tesla Model 3 Available Now",
     "url": "https://www.tesla.com/blog/35000-tesla-model-3-available-now",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 785,
+    "by": "felipemesquita",
+    "descendants": 713,
+    "time": 1551391737
   }
 ]

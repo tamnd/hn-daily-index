@@ -4,99 +4,99 @@
     "id": 19359602,
     "title": "Open Distro for Elasticsearch",
     "url": "https://opendistro.github.io/for-elasticsearch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "jeffbarr",
+    "descendants": 315,
+    "time": 1552317668
   },
   {
     "rank": 2,
     "id": 19362297,
     "title": "Major bank accidentally published a private package to the public NPM Registry",
     "url": "https://twitter.com/seldo/status/1105153287718723584",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "edward",
+    "descendants": 220,
+    "time": 1552334847
   },
   {
     "rank": 3,
     "id": 19363561,
     "title": "Facebook backtracks after removing Warren ads calling for Facebook breakup",
     "url": "https://www.politico.com/story/2019/03/11/facebook-removes-elizabeth-warren-ads-1216757",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "edward",
+    "descendants": 206,
+    "time": 1552343896
   },
   {
     "rank": 4,
     "id": 19363838,
     "title": "Tim Berners-Lee: 'Stop web's downward plunge to dysfunctional future'",
     "url": "https://www.bbc.co.uk/news/technology-47524474",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "pmoriarty",
+    "descendants": 305,
+    "time": 1552346206
   },
   {
     "rank": 5,
     "id": 19366079,
     "title": "30th Anniversary of the World Wide Web [video]",
     "url": "https://web30.web.cern.ch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "ntarocco",
+    "descendants": 75,
+    "time": 1552375645
   },
   {
     "rank": 6,
     "id": 19366524,
     "title": "Microsoft proves the critics right: We\u2019re heading toward a Chrome-only Web",
     "url": "https://arstechnica.com/gadgets/2019/03/microsofts-new-skype-for-web-client-an-early-taste-of-the-browser-monoculture",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "Vinnl",
+    "descendants": 352,
+    "time": 1552382885
   },
   {
     "rank": 7,
     "id": 19367149,
     "title": "A JavaScript-Free Front End",
     "url": "https://dev.to/winduptoy/a-javascript-free-frontend-2d3e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "bibyte",
+    "descendants": 210,
+    "time": 1552390608
   },
   {
     "rank": 8,
     "id": 19367850,
     "title": "Firefox Send: Free encrypted file transfer service",
     "url": "https://blog.mozilla.org/blog/2019/03/12/introducing-firefox-send-providing-free-file-transfers-while-keeping-your-personal-information-private/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2031,
+    "by": "dnlserrano",
+    "descendants": 512,
+    "time": 1552397082
   },
   {
     "rank": 9,
     "id": 19369485,
     "title": "E.U.\u2019s Biggest Economies Ban Boeing Max 8 Jets",
     "url": "https://www.nytimes.com/2019/03/12/world/africa/boeing-ethiopian-airlines-plane-crash.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "semigroupoid",
+    "descendants": 348,
+    "time": 1552406345
   },
   {
     "rank": 10,
     "id": 19370281,
     "title": "Graying Out",
     "url": "https://www.tbray.org/ongoing/When/201x/2019/03/11/Lights-Going-Out",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 706,
+    "by": "zdw",
+    "descendants": 312,
+    "time": 1552409710
   }
 ]

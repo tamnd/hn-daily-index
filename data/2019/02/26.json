@@ -4,99 +4,99 @@
     "id": 19247664,
     "title": "Practical Facts about the Human Brain",
     "url": "https://leowid.com/brain-facts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "LeonW",
+    "descendants": 71,
+    "time": 1551117293
   },
   {
     "rank": 2,
     "id": 19248723,
     "title": "Show HN: Automatically synchronize subtitles with video",
     "url": "https://github.com/smacke/subsync",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 583,
+    "by": "smacke",
+    "descendants": 124,
+    "time": 1551123976
   },
   {
     "rank": 3,
     "id": 19249703,
     "title": "Myths in Machine Learning Research",
     "url": "https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "crazyoscarchang",
+    "descendants": 53,
+    "time": 1551130750
   },
   {
     "rank": 4,
     "id": 19251188,
     "title": "Go 1.12 Released",
     "url": "https://blog.golang.org/go1.12",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "crawshaw",
+    "descendants": 119,
+    "time": 1551143590
   },
   {
     "rank": 5,
     "id": 19251755,
     "title": "Humans who are not concentrating are not general intelligences",
     "url": "https://srconstantin.wordpress.com/2019/02/25/humans-who-are-not-concentrating-are-not-general-intelligences/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "jseliger",
+    "descendants": 217,
+    "time": 1551151320
   },
   {
     "rank": 6,
     "id": 19252437,
     "title": "Universal Binaries Using WASM",
     "url": "https://github.com/wasmerio/wasmer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "grey-area",
+    "descendants": 229,
+    "time": 1551163144
   },
   {
     "rank": 7,
     "id": 19252952,
     "title": "Running a Bakery on Emacs and PostgreSQL",
     "url": "https://bofh.org.uk/2019/02/25/baking-with-emacs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "flocial",
+    "descendants": 191,
+    "time": 1551171978
   },
   {
     "rank": 8,
     "id": 19253072,
     "title": "Linux Desktop Setup",
     "url": "https://hookrace.net/blog/linux-desktop-setup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "def-",
+    "descendants": 226,
+    "time": 1551173992
   },
   {
     "rank": 9,
     "id": 19254828,
     "title": "Show HN: Zero Server \u2013 Zero configuration web framework",
     "url": "https://zeroserver.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "asadm",
+    "descendants": 245,
+    "time": 1551193680
   },
   {
     "rank": 10,
     "id": 19255603,
     "title": "Top ten most popular docker images each contain at least 30 vulnerabilities",
     "url": "https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "vinnyglennon",
+    "descendants": 159,
+    "time": 1551198281
   }
 ]

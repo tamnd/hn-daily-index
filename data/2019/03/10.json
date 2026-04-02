@@ -4,99 +4,99 @@
     "id": 19346321,
     "title": "Speedrunning Windows 95",
     "url": "https://hackaday.com/2019/03/09/speedrunning-windows-95/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "zdw",
+    "descendants": 89,
+    "time": 1552142603
   },
   {
     "rank": 2,
     "id": 19346342,
     "title": "What Happens Now That China Won't Take U.S. Recycling",
     "url": "https://www.theatlantic.com/technology/archive/2019/03/china-has-stopped-accepting-our-trash/584131/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "edward",
+    "descendants": 219,
+    "time": 1552142779
   },
   {
     "rank": 3,
     "id": 19346985,
     "title": "ArchiveBox: Open-source self-hosted web archive",
     "url": "https://github.com/pirate/ArchiveBox",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "based2",
+    "descendants": 59,
+    "time": 1552150111
   },
   {
     "rank": 4,
     "id": 19347848,
     "title": "Gotify \u2013 a self-hosted push-notifications service",
     "url": "https://github.com/gotify",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "adraenwan",
+    "descendants": 96,
+    "time": 1552158625
   },
   {
     "rank": 5,
     "id": 19349638,
     "title": "The Sad State of Logging Bugs for Apple",
     "url": "https://www.corbinstreehouse.com/blog/2019/03/the-sad-state-of-logging-bugs-for-apple/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "fireflies_",
+    "descendants": 88,
+    "time": 1552180997
   },
   {
     "rank": 6,
     "id": 19349660,
     "title": "GoFundMe CEO: \u2018Gigantic Gaps\u2019 in Health System Showing Up in Crowdfunding",
     "url": "https://khn.org/news/gofundme-ceo-gigantic-gaps-in-health-system-showing-up-in-crowdfunding/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "aaronbrethorst",
+    "descendants": 281,
+    "time": 1552181496
   },
   {
     "rank": 7,
     "id": 19349676,
     "title": "Ask HN: How to speak like a leader, not like an engineer?",
     "url": "https://news.ycombinator.com/item?id=19349676",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 511,
+    "by": "yogrish",
+    "descendants": 211,
+    "time": 1552181797
   },
   {
     "rank": 8,
     "id": 19349830,
     "title": "Hackers ransack Citrix, make off with 6TB+ of emails, biz docs, secrets",
     "url": "https://www.theregister.co.uk/2019/03/08/citrix_hacked_data_stolen/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 531,
+    "by": "cow9",
+    "descendants": 196,
+    "time": 1552185327
   },
   {
     "rank": 9,
     "id": 19351236,
     "title": "Goodbye Docker and Thanks for all the Fish",
     "url": "https://technodrone.blogspot.com/2019/02/goodbye-docker-and-thanks-for-all-fish.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "Corrado",
+    "descendants": 303,
+    "time": 1552211639
   },
   {
     "rank": 10,
     "id": 19353010,
     "title": "Winding down my Debian involvement",
     "url": "https://michael.stapelberg.ch/posts/2019-03-10-debian-winding-down/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "secure",
+    "descendants": 227,
+    "time": 1552238666
   }
 ]

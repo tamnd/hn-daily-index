@@ -4,99 +4,99 @@
     "id": 19500640,
     "title": "Storing UTC is not a silver bullet",
     "url": "https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "AndrewDucker",
+    "descendants": 162,
+    "time": 1553693650
   },
   {
     "rank": 2,
     "id": 19501649,
     "title": "How Spotify and Discover Weekly Earn Me $400/month",
     "url": "https://www.stevebenjamins.com/blog/spotify-and-discover-weekly",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "steve-benjamins",
+    "descendants": 159,
+    "time": 1553699698
   },
   {
     "rank": 3,
     "id": 19505880,
     "title": "Microsoft says encryption laws make companies wary of storing data in Australia",
     "url": "https://www.abc.net.au/news/2019-03-28/microsoft-says-companies-are-no-longer-comfortable-storing-data/10946494",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "technion",
+    "descendants": 276,
+    "time": 1553719758
   },
   {
     "rank": 4,
     "id": 19507225,
     "title": "Cisco Fixes RV320/RV325 Vulnerability by Banning \u201ccurl\u201d in User-Agent",
     "url": "https://twitter.com/RedTeamPT/status/1110843396657238016",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 734,
+    "by": "pjf",
+    "descendants": 310,
+    "time": 1553728475
   },
   {
     "rank": 5,
     "id": 19507447,
     "title": "IBM purged \u2018gray hairs\u2019 and \u2018old heads\u2019 as it launched Millennial Corps: lawsuit",
     "url": "https://www.mercurynews.com/2019/03/27/ibm-purged-gray-hairs-and-old-heads-as-it-launched-millennial-corps-lawsuit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "hanging",
+    "descendants": 300,
+    "time": 1553730082
   },
   {
     "rank": 6,
     "id": 19508616,
     "title": "I Built a Lisp Compiler",
     "url": "https://mpov.timmorgan.org/i-built-a-lisp-compiler/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "kristianp",
+    "descendants": 39,
+    "time": 1553740040
   },
   {
     "rank": 7,
     "id": 19508729,
     "title": "Mistakes, we\u2019ve drawn a few",
     "url": "https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "tysone",
+    "descendants": 83,
+    "time": 1553741310
   },
   {
     "rank": 8,
     "id": 19509281,
     "title": "YC Interviews in India",
     "url": "https://blog.ycombinator.com/yc-interviews-in-india/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "katm",
+    "descendants": 77,
+    "time": 1553747633
   },
   {
     "rank": 9,
     "id": 19509618,
     "title": "Software Won\u2019t Fix Boeing\u2019s \u2018Faulty\u2019 Airframe",
     "url": "https://www.eetimes.com/document.asp?doc_id=1334482",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "farseer",
+    "descendants": 401,
+    "time": 1553752370
   },
   {
     "rank": 10,
     "id": 19511917,
     "title": "Why Bother with What Three Words?",
     "url": "https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 948,
+    "by": "Tangiest",
+    "descendants": 323,
+    "time": 1553779515
   }
 ]

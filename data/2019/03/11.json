@@ -4,99 +4,99 @@
     "id": 19337689,
     "title": "Kdenlive: an open-source video editor",
     "url": "https://kdenlive.org/en/features/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "brudgers",
+    "descendants": 189,
+    "time": 1552055155
   },
   {
     "rank": 2,
     "id": 19353465,
     "title": "Peak California",
     "url": "https://medium.com/@byrnehobart/peak-california-7cf97baecaf0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "cobbzilla",
+    "descendants": 362,
+    "time": 1552242914
   },
   {
     "rank": 3,
     "id": 19356029,
     "title": "Daydreaming about the future instead of doing work today",
     "url": "https://www.howitactuallyworks.com/archives/future_you_masturbation.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 599,
+    "by": "trevmckendrick",
+    "descendants": 179,
+    "time": 1552268187
   },
   {
     "rank": 4,
     "id": 19356293,
     "title": "How the Internet Travels Across Oceans",
     "url": "https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "anuragsoni",
+    "descendants": 160,
+    "time": 1552272476
   },
   {
     "rank": 5,
     "id": 19357153,
     "title": "Wipe and reinstall a running Linux system via SSH (2017)",
     "url": "https://github.com/marcan/takeover.sh",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "1nvalid",
+    "descendants": 79,
+    "time": 1552287004
   },
   {
     "rank": 6,
     "id": 19358062,
     "title": "Nvidia to Acquire Mellanox for $6.9B",
     "url": "https://nvidianews.nvidia.com/news/nvidia-to-acquire-mellanox-for-6-9-billion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "vostok4",
+    "descendants": 218,
+    "time": 1552302905
   },
   {
     "rank": 7,
     "id": 19358465,
     "title": "Why I Quit Tech and Became a Therapist",
     "url": "http://glench.com/WhyIQuitTechAndBecameATherapist/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "Glench",
+    "descendants": 314,
+    "time": 1552307922
   },
   {
     "rank": 8,
     "id": 19359601,
     "title": "Sway 1.0",
     "url": "https://drewdevault.com/2019/03/11/Sway-1.0-released.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "ddevault",
+    "descendants": 252,
+    "time": 1552317665
   },
   {
     "rank": 9,
     "id": 19360660,
     "title": "DTrace on Windows",
     "url": "https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/DTrace-on-Windows/ba-p/362902",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "ingve",
+    "descendants": 172,
+    "time": 1552324138
   },
   {
     "rank": 10,
     "id": 19362326,
     "title": "Nginx to Be Acquired by F5 Networks",
     "url": "https://www.nginx.com/blog/nginx-joins-f5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1057,
+    "by": "eduren",
+    "descendants": 383,
+    "time": 1552335075
   }
 ]

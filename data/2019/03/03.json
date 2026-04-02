@@ -4,99 +4,99 @@
     "id": 19290069,
     "title": "An introduction to distributed systems (2017)",
     "url": "https://github.com/aphyr/distsys-class",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "yarapavan",
+    "descendants": 9,
+    "time": 1551547339
   },
   {
     "rank": 2,
     "id": 19291558,
     "title": "Teen Becomes First Hacker to Earn $1M Through Bug Bounties",
     "url": "https://digit.fyi/teen-hacker-earns-1m-via-bug-bounties/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 583,
+    "by": "ohjeez",
+    "descendants": 164,
+    "time": 1551566089
   },
   {
     "rank": 3,
     "id": 19291706,
     "title": "What Happened to OpenStack?",
     "url": "https://aeva.online/2019/03/what-happened-to-openstack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "kragniz",
+    "descendants": 87,
+    "time": 1551568268
   },
   {
     "rank": 4,
     "id": 19292067,
     "title": "Functional Programming in OCaml",
     "url": "http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "lelf",
+    "descendants": 144,
+    "time": 1551574312
   },
   {
     "rank": 5,
     "id": 19292382,
     "title": "Square Inc. Co-Founder Tristan O\u2019Tierney Dies at 35",
     "url": "https://www.bloomberg.com/news/articles/2019-03-02/square-inc-co-founder-tristan-o-tierney-dies-at-35",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "smaili",
+    "descendants": 227,
+    "time": 1551581060
   },
   {
     "rank": 6,
     "id": 19293129,
     "title": "Xkcd-Style Plots in Matplotlib (2012)",
     "url": "https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "TsukiZombina",
+    "descendants": 41,
+    "time": 1551595660
   },
   {
     "rank": 7,
     "id": 19293331,
     "title": "What you need may be \u201cpipeline +Unix commands\u201d only",
     "url": "https://nanxiao.me/en/what-you-need-may-be-pipeline-unix-commands-only/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "nanxiao",
+    "descendants": 177,
+    "time": 1551600147
   },
   {
     "rank": 8,
     "id": 19293916,
     "title": "SpaceX Crew Dragon Docks with International Space Station",
     "url": "https://www.bloomberg.com/news/articles/2019-03-03/spacex-crew-dragon-docks-with-international-space-station",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 755,
+    "by": "lultimouomo",
+    "descendants": 264,
+    "time": 1551612045
   },
   {
     "rank": 9,
     "id": 19294512,
     "title": "Case Study: Npm uses Rust for its CPU-bound bottlenecks [pdf]",
     "url": "https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "yarapavan",
+    "descendants": 292,
+    "time": 1551622674
   },
   {
     "rank": 10,
     "id": 19294799,
     "title": "Polar as a Personal Knowledge Repository",
     "url": "https://getpolarized.io/2019/03/01/polar-personal-knowledge-repository.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "burtonator",
+    "descendants": 110,
+    "time": 1551626145
   }
 ]

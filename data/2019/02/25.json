@@ -4,99 +4,99 @@
     "id": 19239674,
     "title": "Microsoft\u2019s HoloLens 2: a $3,500 mixed-reality headset for the factory",
     "url": "https://www.theverge.com/2019/2/24/18235460/microsoft-hololens-2-price-specs-mixed-reality-ar-vr-business-work-features-mwc-2019",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "T-A",
+    "descendants": 144,
+    "time": 1551031328
   },
   {
     "rank": 2,
     "id": 19239940,
     "title": "ICANN Calls for DNSSEC for All Domains Following Domain Hijacking Attempts",
     "url": "https://www.icann.org/news/announcement-2019-02-22-en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "teddyh",
+    "descendants": 200,
+    "time": 1551034245
   },
   {
     "rank": 3,
     "id": 19241427,
     "title": "Fearless Concurrency: Clojure, Rust, Pony, Erlang and Dart",
     "url": "https://sites.google.com/a/athaydes.com/renato-athaydes/posts/fearlessconcurrencyhowclojurerustponyerlanganddartletyouachievethat",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "pplonski86",
+    "descendants": 143,
+    "time": 1551051861
   },
   {
     "rank": 4,
     "id": 19241570,
     "title": "My Twitch Live Coding Setup",
     "url": "https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 606,
+    "by": "ingve",
+    "descendants": 113,
+    "time": 1551053344
   },
   {
     "rank": 5,
     "id": 19242058,
     "title": "Ask HN: What VPN service are you currently using?",
     "url": "https://news.ycombinator.com/item?id=19242058",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "_7bva",
+    "descendants": 331,
+    "time": 1551058878
   },
   {
     "rank": 6,
     "id": 19242698,
     "title": "FastMail loses customers, faces calls to move over anti-encryption laws",
     "url": "https://www.itnews.com.au/news/fastmail-loses-customers-faces-calls-to-move-over-anti-encryption-laws-519783",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "qzervaas",
+    "descendants": 278,
+    "time": 1551065982
   },
   {
     "rank": 7,
     "id": 19244570,
     "title": "Books I Recommend",
     "url": "https://blog.jessfraz.com/post/books/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 597,
+    "by": "ingve",
+    "descendants": 147,
+    "time": 1551090765
   },
   {
     "rank": 8,
     "id": 19244686,
     "title": "Sunlight through glass does not provide Vitamin D",
     "url": "https://www.nytimes.com/2019/02/08/well/live/does-sunlight-through-glass-provide-vitamin-d.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 601,
+    "by": "bookofjoe",
+    "descendants": 331,
+    "time": 1551092466
   },
   {
     "rank": 9,
     "id": 19245485,
     "title": "Famous Laws of Software Development",
     "url": "https://www.timsommer.be/famous-laws-of-software-development/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 450,
+    "by": "pplonski86",
+    "descendants": 195,
+    "time": 1551101812
   },
   {
     "rank": 10,
     "id": 19247374,
     "title": "The Gyllenhaal Experiment",
     "url": "https://pudding.cool/2019/02/gyllenhaal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "iron0013",
+    "descendants": 117,
+    "time": 1551115613
   }
 ]

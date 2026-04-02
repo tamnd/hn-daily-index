@@ -4,99 +4,99 @@
     "id": 19301159,
     "title": "W3C approves WebAuthn as the web standard for password-free logins",
     "url": "https://venturebeat.com/2019/03/04/w3c-approves-webauthn-as-the-web-standard-for-password-free-logins/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "markoa",
+    "descendants": 147,
+    "time": 1551707266
   },
   {
     "rank": 2,
     "id": 19303948,
     "title": "Google Employees Uncover Ongoing Work on Censored China Search",
     "url": "https://theintercept.com/2019/03/04/google-ongoing-project-dragonfly/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "jbegley",
+    "descendants": 286,
+    "time": 1551724919
   },
   {
     "rank": 3,
     "id": 19304802,
     "title": "Firefox Experiments I Would Have Liked to Try",
     "url": "http://www.ianbicking.org/blog/2019/03/firefox-experiments-i-would-have-liked.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 501,
+    "by": "ingve",
+    "descendants": 211,
+    "time": 1551729860
   },
   {
     "rank": 4,
     "id": 19304857,
     "title": "USB4 Specification Announced: Adopting Thunderbolt 3 Protocol for 40 Gbps USB",
     "url": "https://www.anandtech.com/show/14048/usb4-specification-40-gbps-type-c-tb3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "BogdanPetre",
+    "descendants": 271,
+    "time": 1551730178
   },
   {
     "rank": 5,
     "id": 19307160,
     "title": "HIV Is Reported Cured in a Second Patient",
     "url": "https://www.nytimes.com/2019/03/04/health/aids-cure-london-patient.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 935,
+    "by": "aaronbrethorst",
+    "descendants": 259,
+    "time": 1551746683
   },
   {
     "rank": 6,
     "id": 19307759,
     "title": "Studying the demise of historic civilisations",
     "url": "http://www.bbc.com/future/story/20190218-are-we-on-the-road-to-civilisation-collapse",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "pitzahoy",
+    "descendants": 346,
+    "time": 1551754947
   },
   {
     "rank": 7,
     "id": 19309378,
     "title": "A random dungeon generator in C, small enough to fit on a business card",
     "url": "https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "DyslexicAtheist",
+    "descendants": 2,
+    "time": 1551778955
   },
   {
     "rank": 8,
     "id": 19310638,
     "title": "Debian Buster will only be 54% reproducible, while we could be at 90%",
     "url": "https://lists.debian.org/debian-devel/2019/03/msg00017.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "JNRowe",
+    "descendants": 160,
+    "time": 1551795572
   },
   {
     "rank": 9,
     "id": 19311750,
     "title": "Achieving 100k connections per second with Elixir",
     "url": "https://stressgrid.com/blog/100k_cps_with_elixir/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "slashdotdash",
+    "descendants": 110,
+    "time": 1551804019
   },
   {
     "rank": 10,
     "id": 19312499,
     "title": "How badly are we being ripped off on eyewear? Former industry execs tell all",
     "url": "https://www.latimes.com/business/lazarus/la-fi-lazarus-glasses-lenscrafters-luxottica-monopoly-20190305-story.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "ilamont",
+    "descendants": 301,
+    "time": 1551808583
   }
 ]

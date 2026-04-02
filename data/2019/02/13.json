@@ -4,99 +4,99 @@
     "id": 19144280,
     "title": "This person does not exist",
     "url": "https://thispersondoesnotexist.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 872,
+    "by": "bpierre",
+    "descendants": 236,
+    "time": 1549985662
   },
   {
     "rank": 2,
     "id": 19147316,
     "title": "Reading in the Age of Constant Distraction",
     "url": "https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 488,
+    "by": "wormold",
+    "descendants": 170,
+    "time": 1550004332
   },
   {
     "rank": 3,
     "id": 19147466,
     "title": "Bootstrap 5 will remove jQuery as a dependency",
     "url": "https://github.com/twbs/bootstrap/pull/23586",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "bdcravens",
+    "descendants": 315,
+    "time": 1550005401
   },
   {
     "rank": 4,
     "id": 19148983,
     "title": "Activision-Blizzard layoffs after reporting record results",
     "url": "https://arstechnica.com/gaming/2019/02/activision-blizzard-lays-off-775-people-after-record-results-in-2018/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "tolien",
+    "descendants": 335,
+    "time": 1550015916
   },
   {
     "rank": 5,
     "id": 19149690,
     "title": "Show HN: DeskGap \u2013 Like Electron, but uses the system webview",
     "url": "https://deskgap.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "branchseer",
+    "descendants": 260,
+    "time": 1550023263
   },
   {
     "rank": 6,
     "id": 19149792,
     "title": "SQL: One of the most valuable skills",
     "url": "http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 821,
+    "by": "duck",
+    "descendants": 382,
+    "time": 1550024440
   },
   {
     "rank": 7,
     "id": 19153616,
     "title": "White space killed an enterprise app",
     "url": "https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 708,
+    "by": "kirkbackus",
+    "descendants": 435,
+    "time": 1550070513
   },
   {
     "rank": 8,
     "id": 19153953,
     "title": "The Tech Behind SpaceX\u2019s New Engine",
     "url": "https://hackaday.com/2019/02/13/the-impossible-tech-behind-spacexs-new-engine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "_JamesA_",
+    "descendants": 123,
+    "time": 1550073341
   },
   {
     "rank": 9,
     "id": 19155643,
     "title": "Why can\u2019t a bot tick the 'I'm not a robot' box?",
     "url": "https://www.quora.com/Why-can-t-a-bot-tick-the-Im-not-a-robot-box/answer/Oliver-Emberton?share=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1002,
+    "by": "grzm",
+    "descendants": 618,
+    "time": 1550084314
   },
   {
     "rank": 10,
     "id": 19155826,
     "title": "Nasa\u2019s Mars Rover Opportunity Concludes a 15-Year Mission",
     "url": "https://www.nytimes.com/2019/02/13/science/mars-opportunity-rover-dead.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 728,
+    "by": "jimktrains2",
+    "descendants": 221,
+    "time": 1550085414
   }
 ]
