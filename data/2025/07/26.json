@@ -4,99 +4,99 @@
     "id": 44657550,
     "title": "Open Sauce is a confoundingly brilliant Bay Area event",
     "url": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "rbanffy",
+    "descendants": 201,
+    "time": 1753266125
   },
   {
     "rank": 2,
     "id": 44682175,
     "title": "The future is not self-hosted",
     "url": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "drew_lytle",
+    "descendants": 448,
+    "time": 1753444805
   },
   {
     "rank": 3,
     "id": 44682465,
     "title": "Show HN: Price Per Token \u2013 LLM API Pricing Data",
     "url": "https://pricepertoken.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "alexellman",
+    "descendants": 130,
+    "time": 1753447181
   },
   {
     "rank": 4,
     "id": 44682964,
     "title": "It's a DE9, not a DB9 (but we know what you mean)",
     "url": "https://news.sparkfun.com/14298",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "jgrahamc",
+    "descendants": 298,
+    "time": 1753450509
   },
   {
     "rank": 5,
     "id": 44683682,
     "title": "Programming vehicles in games",
     "url": "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "Bogdanp",
+    "descendants": 73,
+    "time": 1753454463
   },
   {
     "rank": 6,
     "id": 44684373,
     "title": "Women dating safety app 'Tea' breached, users' IDs posted to 4chan",
     "url": "https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 567,
+    "by": "gloxkiqcza",
+    "descendants": 789,
+    "time": 1753457812
   },
   {
     "rank": 7,
     "id": 44688489,
     "title": "It's time for modern CSS to kill the SPA",
     "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 744,
+    "by": "tambourine_man",
+    "descendants": 492,
+    "time": 1753477680
   },
   {
     "rank": 8,
     "id": 44689059,
     "title": "Do not download the app, use the website",
     "url": "https://idiallo.com/blog/dont-download-apps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1347,
+    "by": "foxfired",
+    "descendants": 728,
+    "time": 1753481229
   },
   {
     "rank": 9,
     "id": 44690911,
     "title": "CCTV footage captures video of an earthquake fault in motion",
     "url": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "chrononaut",
+    "descendants": 88,
+    "time": 1753498483
   },
   {
     "rank": 10,
     "id": 44692876,
     "title": "Rust running on every GPU",
     "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 605,
+    "by": "littlestymaar",
+    "descendants": 205,
+    "time": 1753524489
   }
 ]
