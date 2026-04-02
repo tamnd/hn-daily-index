@@ -4,99 +4,99 @@
     "id": 43533715,
     "title": "Build an 8-bit computer from scratch (2016)",
     "url": "https://eater.net/8bit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "jcartw",
+    "descendants": 62,
+    "time": 1743420574
   },
   {
     "rank": 2,
     "id": 43568655,
     "title": "A university president makes a case against cowardice",
     "url": "https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "pseudolus",
+    "descendants": 847,
+    "time": 1743683348
   },
   {
     "rank": 3,
     "id": 43570324,
     "title": "Overengineered Anchor Links",
     "url": "https://thirty-five.com/overengineered-anchoring",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "matser",
+    "descendants": 153,
+    "time": 1743691001
   },
   {
     "rank": 4,
     "id": 43571099,
     "title": "Curl-impersonate: Special build of curl that can impersonate the major browsers",
     "url": "https://github.com/lwthiker/curl-impersonate",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "mmh0000",
+    "descendants": 155,
+    "time": 1743693889
   },
   {
     "rank": 5,
     "id": 43571851,
     "title": "AI 2027",
     "url": "https://ai-2027.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 949,
+    "by": "Tenoke",
+    "descendants": 621,
+    "time": 1743696782
   },
   {
     "rank": 6,
     "id": 43573465,
     "title": "The slow collapse of critical thinking in OSINT due to AI",
     "url": "https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "walterbell",
+    "descendants": 231,
+    "time": 1743704492
   },
   {
     "rank": 7,
     "id": 43575884,
     "title": "Microsoft\u2019s original source code",
     "url": "https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 617,
+    "by": "EvgeniyZh",
+    "descendants": 330,
+    "time": 1743716944
   },
   {
     "rank": 8,
     "id": 43580103,
     "title": "Gumroad\u2019s source is available",
     "url": "https://github.com/antiwork/gumroad",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "philipjoubert",
+    "descendants": 205,
+    "time": 1743760597
   },
   {
     "rank": 9,
     "id": 43580449,
     "title": "Bored of It",
     "url": "https://paulrobertlloyd.com/2025/087/a1/bored/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "NotInOurNames",
+    "descendants": 478,
+    "time": 1743764050
   },
   {
     "rank": 10,
     "id": 43581584,
     "title": "Nvidia adds native Python support to CUDA",
     "url": "https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "apples2apples",
+    "descendants": 192,
+    "time": 1743771278
   }
 ]

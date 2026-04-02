@@ -4,99 +4,99 @@
     "id": 43538853,
     "title": "New antibiotic that kills drug-resistant bacteria found in technician's garden",
     "url": "https://www.nature.com/articles/d41586-025-00945-z",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "ascorbic",
+    "descendants": 309,
+    "time": 1743449429
   },
   {
     "rank": 2,
     "id": 43555996,
     "title": "Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative",
     "url": "https://coolify.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "vanschelven",
+    "descendants": 180,
+    "time": 1743597719
   },
   {
     "rank": 3,
     "id": 43586073,
     "title": "Understanding Machine Learning: From Theory to Algorithms",
     "url": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "Anon84",
+    "descendants": 53,
+    "time": 1743791123
   },
   {
     "rank": 4,
     "id": 43586654,
     "title": "An interactive-speed Linux computer made of only 3 8-pin chips",
     "url": "https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "dmitrygr",
+    "descendants": 147,
+    "time": 1743794557
   },
   {
     "rank": 5,
     "id": 43587380,
     "title": "The blissful Zen of a good side project",
     "url": "https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 567,
+    "by": "ingve",
+    "descendants": 136,
+    "time": 1743799055
   },
   {
     "rank": 6,
     "id": 43589231,
     "title": "Trump's Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout",
     "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "perihelions",
+    "descendants": 743,
+    "time": 1743813719
   },
   {
     "rank": 7,
     "id": 43589776,
     "title": "Learn electricity and electronics fundamentals without taking a formal course",
     "url": "https://simonmonk.org/tyee7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "teleforce",
+    "descendants": 120,
+    "time": 1743817809
   },
   {
     "rank": 8,
     "id": 43591225,
     "title": "Nebula Sans",
     "url": "https://nebulasans.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "xucheng",
+    "descendants": 101,
+    "time": 1743833020
   },
   {
     "rank": 9,
     "id": 43595269,
     "title": "What If We Made Advertising Illegal?",
     "url": "https://simone.org/advertising/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1975,
+    "by": "smnrg",
+    "descendants": 1386,
+    "time": 1743875866
   },
   {
     "rank": 10,
     "id": 43595585,
     "title": "The Llama 4 herd",
     "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1235,
+    "by": "georgehill",
+    "descendants": 658,
+    "time": 1743878036
   }
 ]

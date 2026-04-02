@@ -4,99 +4,99 @@
     "id": 43433030,
     "title": "The earliest versions of the first C compiler known to exist",
     "url": "https://github.com/mortdeus/legacy-cc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "diginova",
+    "descendants": 173,
+    "time": 1742545039
   },
   {
     "rank": 2,
     "id": 43453582,
     "title": "A USB Interface to the \\\"Mother of All Demos\\\" Keyset",
     "url": "https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "zdw",
+    "descendants": 86,
+    "time": 1742743886
   },
   {
     "rank": 3,
     "id": 43454915,
     "title": "Show HN: LinkedIn sucks, so I built a better one",
     "url": "https://heyopenspot.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "fliellerjulian",
+    "descendants": 377,
+    "time": 1742755960
   },
   {
     "rank": 4,
     "id": 43456030,
     "title": "Show HN: My iOS app to practice sight reading (10 years in the App Store)",
     "url": "https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "rooster117",
+    "descendants": 131,
+    "time": 1742765108
   },
   {
     "rank": 5,
     "id": 43456723,
     "title": "Project Aardvark: reimagining AI weather prediction",
     "url": "https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "bentobean",
+    "descendants": 138,
+    "time": 1742772819
   },
   {
     "rank": 6,
     "id": 43457666,
     "title": "23andMe files for bankruptcy to sell itself",
     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 519,
+    "by": "healsdata",
+    "descendants": 404,
+    "time": 1742788104
   },
   {
     "rank": 7,
     "id": 43458509,
     "title": "Millions are visiting the European Alternatives site. What trends are we seeing?",
     "url": "https://plausible.io/blog/european-alternatives-trends-privacy-tech",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "themeaningist",
+    "descendants": 612,
+    "time": 1742803396
   },
   {
     "rank": 8,
     "id": 43461375,
     "title": "Goblin.tools: simple, single-task tools to help neurodivergent people with tasks",
     "url": "https://goblin.tools/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "ValentineC",
+    "descendants": 234,
+    "time": 1742825717
   },
   {
     "rank": 9,
     "id": 43461701,
     "title": "Triforce \u2013 a beamformer for Apple Silicon laptops",
     "url": "https://crates.io/crates/triforce-lv2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 591,
+    "by": "tosh",
+    "descendants": 210,
+    "time": 1742827534
   },
   {
     "rank": 10,
     "id": 43464068,
     "title": "Qwen2.5-VL-32B: Smarter and Lighter",
     "url": "https://qwenlm.github.io/blog/qwen2.5-vl-32b/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "tosh",
+    "descendants": 293,
+    "time": 1742841312
   }
 ]

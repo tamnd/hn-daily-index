@@ -4,99 +4,99 @@
     "id": 43502291,
     "title": "Xee: A Modern XPath and XSLT Engine in Rust",
     "url": "https://blog.startifact.com/posts/xee/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "robin_reala",
+    "descendants": 232,
+    "time": 1743144498
   },
   {
     "rank": 2,
     "id": 43503872,
     "title": "How to write blog posts that developers read",
     "url": "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 603,
+    "by": "rbanffy",
+    "descendants": 154,
+    "time": 1743159679
   },
   {
     "rank": 3,
     "id": 43507286,
     "title": "How Kerala got rich",
     "url": "https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "lordleft",
+    "descendants": 299,
+    "time": 1743179264
   },
   {
     "rank": 4,
     "id": 43509923,
     "title": "xAI has acquired X, xAI now valued at $80B",
     "url": "https://twitter.com/elonmusk/status/1905731750275510312",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 806,
+    "by": "rvz",
+    "descendants": 1269,
+    "time": 1743197022
   },
   {
     "rank": 5,
     "id": 43512589,
     "title": "Plain \u2013 a web framework for building products with Python",
     "url": "https://plainframework.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "brylie",
+    "descendants": 160,
+    "time": 1743220502
   },
   {
     "rank": 6,
     "id": 43513996,
     "title": "Postgres Language Server: Initial Release",
     "url": "https://github.com/supabase-community/postgres-language-server",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "steinroe",
+    "descendants": 52,
+    "time": 1743239623
   },
   {
     "rank": 7,
     "id": 43514308,
     "title": "Et Tu, Grammarly?",
     "url": "https://dbushell.com/2025/03/29/et-tu-grammarly/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "dbushell",
+    "descendants": 74,
+    "time": 1743244053
   },
   {
     "rank": 8,
     "id": 43514383,
     "title": "Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen",
     "url": "https://github.com/Rukenshia/pomodoro",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "rukenshia",
+    "descendants": 68,
+    "time": 1743244946
   },
   {
     "rank": 9,
     "id": 43517301,
     "title": "Why Apple's Severance gets edited over remote desktop software",
     "url": "https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "shortformblog",
+    "descendants": 342,
+    "time": 1743271248
   },
   {
     "rank": 10,
     "id": 43517337,
     "title": "Veloren \u2013 voxel action-adventure role-playing in Rust",
     "url": "https://veloren.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "tete",
+    "descendants": 91,
+    "time": 1743271508
   }
 ]

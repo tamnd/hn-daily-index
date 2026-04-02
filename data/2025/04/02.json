@@ -4,99 +4,99 @@
     "id": 43504940,
     "title": "Excitable cells",
     "url": "https://jenevoldsen.com/posts/excitable-cells/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "johannes_ne",
+    "descendants": 48,
+    "time": 1743167152
   },
   {
     "rank": 2,
     "id": 43537272,
     "title": "Stop syncing everything",
     "url": "https://sqlsync.dev/posts/stop-syncing-everything/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 656,
+    "by": "neilk",
+    "descendants": 126,
+    "time": 1743440864
   },
   {
     "rank": 3,
     "id": 43545349,
     "title": "CERN scientists find evidence of quantum entanglement in sheep",
     "url": "https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "mackopes",
+    "descendants": 107,
+    "time": 1743505714
   },
   {
     "rank": 4,
     "id": 43546004,
     "title": "Why F#?",
     "url": "https://batsov.com/articles/2025/03/30/why-fsharp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "bozhidar",
+    "descendants": 413,
+    "time": 1743510847
   },
   {
     "rank": 5,
     "id": 43546236,
     "title": "Bletchley code breaker Betty Webb dies aged 101",
     "url": "https://www.bbc.com/news/articles/c78jd30ywv8o",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "danso",
+    "descendants": 101,
+    "time": 1743512128
   },
   {
     "rank": 6,
     "id": 43551397,
     "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
     "url": "https://github.com/dfd-tud/deda",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "pavel_lishin",
+    "descendants": 99,
+    "time": 1743541903
   },
   {
     "rank": 7,
     "id": 43555334,
     "title": "RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)",
     "url": "https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "MPSimmons",
+    "descendants": 105,
+    "time": 1743590000
   },
   {
     "rank": 8,
     "id": 43557790,
     "title": "Porting Tailscale to Plan 9",
     "url": "https://tailscale.com/blog/plan9-port",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "adriangrigore",
+    "descendants": 92,
+    "time": 1743607754
   },
   {
     "rank": 9,
     "id": 43557873,
     "title": "Animals Made from 13 Circles (2016)",
     "url": "https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 662,
+    "by": "jihadjihad",
+    "descendants": 108,
+    "time": 1743608125
   },
   {
     "rank": 10,
     "id": 43558671,
     "title": "Tell HN: Announcing tomhow as a public moderator",
     "url": "https://news.ycombinator.com/item?id=43558671",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1825,
+    "by": "dang",
+    "descendants": 462,
+    "time": 1743612596
   }
 ]

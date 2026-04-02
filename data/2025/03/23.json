@@ -4,99 +4,99 @@
     "id": 43443640,
     "title": "Scallop \u2013 A Language for Neurosymbolic Programming",
     "url": "https://www.scallop-lang.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "andsoitis",
+    "descendants": 64,
+    "time": 1742618708
   },
   {
     "rank": 2,
     "id": 43445662,
     "title": "Landrun: Sandbox any Linux process using Landlock, no root or containers",
     "url": "https://github.com/Zouuup/landrun",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "Zoup",
+    "descendants": 169,
+    "time": 1742651819
   },
   {
     "rank": 3,
     "id": 43447254,
     "title": "Tencent's 'Hunyuan-T1'\u2013The First Mamba-Powered Ultra-Large Model",
     "url": "https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "thm",
+    "descendants": 188,
+    "time": 1742664332
   },
   {
     "rank": 4,
     "id": 43447335,
     "title": "Map Features in OpenStreetMap with Computer Vision",
     "url": "https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "Brysonbw",
+    "descendants": 75,
+    "time": 1742665330
   },
   {
     "rank": 5,
     "id": 43447421,
     "title": "California Attorney General issues consumer alert for 23andMe customers",
     "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "thoughtpeddler",
+    "descendants": 355,
+    "time": 1742666138
   },
   {
     "rank": 6,
     "id": 43448023,
     "title": "The polar vortex is hitting the brakes",
     "url": "https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "bryanrasmussen",
+    "descendants": 326,
+    "time": 1742671898
   },
   {
     "rank": 7,
     "id": 43448075,
     "title": "NixOS and reproducible builds could have detected the xz backdoor",
     "url": "https://luj.fr/blog/how-nixos-could-have-detected-xz.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "birdculture",
+    "descendants": 128,
+    "time": 1742672399
   },
   {
     "rank": 8,
     "id": 43450732,
     "title": "Improving recommendation systems and search in the age of LLMs",
     "url": "https://eugeneyan.com/writing/recsys-llm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "7d7n",
+    "descendants": 93,
+    "time": 1742701205
   },
   {
     "rank": 9,
     "id": 43452629,
     "title": "Show HN: I built website for sharing Drum Patterns",
     "url": "http://drumpatterns.onether.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "wesz",
+    "descendants": 189,
+    "time": 1742735121
   },
   {
     "rank": 10,
     "id": 43452649,
     "title": "The Worst Programmer I Know (2023)",
     "url": "https://dannorth.net/the-worst-programmer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "rbanffy",
+    "descendants": 370,
+    "time": 1742735325
   }
 ]

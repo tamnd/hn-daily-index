@@ -4,99 +4,99 @@
     "id": 43658089,
     "title": "Googler... ex-Googler",
     "url": "https://nerdy.dev/ex-googler",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1114,
+    "by": "namuorg",
+    "descendants": 989,
+    "time": 1744402751
   },
   {
     "rank": 2,
     "id": 43671308,
     "title": "Whenever: Typed and DST-safe datetimes for Python",
     "url": "https://github.com/ariebovenberg/whenever",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "pkkm",
+    "descendants": 143,
+    "time": 1744535539
   },
   {
     "rank": 3,
     "id": 43673551,
     "title": "Why Fennel?",
     "url": "https://fennel-lang.org/rationale",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "behnamoh",
+    "descendants": 163,
+    "time": 1744558625
   },
   {
     "rank": 4,
     "id": 43675126,
     "title": "Open guide to equity compensation",
     "url": "https://github.com/jlevy/og-equity-compensation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 656,
+    "by": "mooreds",
+    "descendants": 297,
+    "time": 1744571617
   },
   {
     "rank": 5,
     "id": 43675248,
     "title": "Show HN: I made a free tool that analyzes SEC filings and posts detailed reports",
     "url": "https://www.signalbloom.ai/news/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "GodelNumbering",
+    "descendants": 91,
+    "time": 1744572804
   },
   {
     "rank": 6,
     "id": 43676771,
     "title": "Everything wrong with MCP",
     "url": "https://blog.sshh.io/p/everything-wrong-with-mcp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 516,
+    "by": "sshh12",
+    "descendants": 223,
+    "time": 1744588415
   },
   {
     "rank": 7,
     "id": 43681287,
     "title": "A hackable AI assistant using a single SQLite table and a handful of cron jobs",
     "url": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 800,
+    "by": "stevekrouse",
+    "descendants": 174,
+    "time": 1744638778
   },
   {
     "rank": 8,
     "id": 43682088,
     "title": "The path to open-sourcing the DeepSeek inference engine",
     "url": "https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 550,
+    "by": "Palmik",
+    "descendants": 63,
+    "time": 1744642990
   },
   {
     "rank": 9,
     "id": 43683410,
     "title": "GPT-4.1 in the API",
     "url": "https://openai.com/index/gpt-4-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 680,
+    "by": "maheshrijal",
+    "descendants": 492,
+    "time": 1744650105
   },
   {
     "rank": 10,
     "id": 43684536,
     "title": "Harvard's response to federal government letter demanding changes",
     "url": "https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1391,
+    "by": "impish9208",
+    "descendants": 1403,
+    "time": 1744655330
   }
 ]
