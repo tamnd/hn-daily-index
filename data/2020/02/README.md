@@ -2,6 +2,8 @@
 
 Top 10 Hacker News stories for each day in February 2020.
 
+- [2020-02-29 (Saturday)](#2020-02-29)
+- [2020-02-28 (Friday)](#2020-02-28)
 - [2020-02-27 (Thursday)](#2020-02-27)
 - [2020-02-26 (Wednesday)](#2020-02-26)
 - [2020-02-25 (Tuesday)](#2020-02-25)
@@ -31,6 +33,36 @@ Top 10 Hacker News stories for each day in February 2020.
 - [2020-02-01 (Saturday)](#2020-02-01)
 
 ---
+
+## 2020-02-29
+
+*Saturday*
+
+1. [My Ordinary Life: Improvements Since the 1990s](https://www.gwern.net/Improvements) (gwern.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22441865)
+2. [A high school student created a fake 2020 candidate, and Twitter verified it](https://www.cnn.com/2020/02/28/tech/fake-twitter-candidate-2020/) (cnn.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22443772)
+3. [COVID-19 Supply Chain Update](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-supply-chain-update) (fda.gov) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22445639)
+4. [How to brainstorm great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c) (indiehackers.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22446148)
+5. [FCC Proposes to Fine Wireless Carriers $200M for Selling Customer Location Data](https://krebsonsecurity.com/2020/02/fcc-proposes-to-fine-wireless-carriers-200m-for-selling-customer-location-data/) (krebsonsecurity.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22447229)
+6. [GDC 2020 has been postponed](https://gdconf.com/news/important-gdc-2020-update) (gdconf.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22447592)
+7. [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/) (fasterthanli.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22448933)
+8. [A two-person startup already uses twenty-eight other tools](https://acrossapp.com/blog/how-a-2-person-startup-already-uses-28-other-tools) (acrossapp.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22449314)
+9. [Draft of the Fast.ai Book](https://github.com/fastai/fastbook) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22449562)
+10. [My Covid-19 Story in Brooklyn](https://www.reddit.com/r/nyc/comments/fayko1/my_covid19_story_brooklyn/) (reddit.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22450846)
+
+## 2020-02-28
+
+*Friday*
+
+1. [Mapping Coronavirus, Responsibly](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/) (esri.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22427334)
+2. [Hasura raises $9.9M to simplify GraphQL](https://techcrunch.com/2020/02/26/hasura-raises-9-9m-series-a-to-simplify-graphql-for-developers/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22432137)
+3. [Google's Abandoned Android Authenticator App](https://shkspr.mobi/blog/2020/02/googles-abandoned-android-authenticator-app/) (shkspr.mobi) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22432828)
+4. [Wildcard: Spreadsheet-Driven Customization of Web Applications](https://www.geoffreylitt.com/wildcard/salon2020/) (geoffreylitt.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22439141)
+5. [AMD Launches Ultra-Low-Power Ryzen Embedded APUs](https://www.anandtech.com/show/15554/amd-launches-ultralowpower-ryzen-embedded-apus-starting-at-6w) (anandtech.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22440894)
+6. [The boss who put everyone on 70K](https://www.bbc.com/news/stories-51332811) (bbc.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22440922)
+7. [Programmers generate every possible melody in MIDI to prevent lawsuits](https://www.musictech.net/news/programmers-generate-every-possible-melody-in-midi-to-prevent-lawsuits/) (musictech.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22440944)
+8. [Show HN: Profit Hunt - Get inspired by profitable online projects](http://profithunt.co) (profithunt.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22441289)
+9. [I Want Off Mr. Golang's Wild Ride](https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/) (fasterthanli.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22443363)
+10. [Freeman Dyson Has Died](https://www.nytimes.com/2020/02/28/science/freeman-dyson-dead.html) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22444198)
 
 ## 2020-02-27
 
