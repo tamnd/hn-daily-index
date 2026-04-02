@@ -268,12 +268,9 @@ def _generate_readme() -> str:
         covered = sum(1 for d in all_dates if d.isoformat() in available)
         is_current = year == current_year
 
-        if is_current:
-            lines.append(f"### {year} ({covered}/{total_days} days)")
-        else:
-            lines.append(
-                f"### [{year}](data/{year}/) ({covered}/{total_days} days)"
-            )
+        lines.append(
+            f"### [{year}](data/{year}/) ({covered}/{total_days} days)"
+        )
         lines.append("")
 
         # Group by month, most recent first
@@ -292,7 +289,8 @@ def _generate_readme() -> str:
                 month_covered = sum(1 for d in month_dates if d.isoformat() in available)
                 month_total = len(month_dates)
 
-                lines.append(f"**{month_label}** ({month_covered}/{month_total})")
+                month_num = month_dates[0].month
+                lines.append(f"[**{month_label}**](data/{year}/{month_num:02d}/) ({month_covered}/{month_total})")
                 lines.append("")
                 lines.extend(
                     _render_month_calendar(month_dates, available, inline=True)
