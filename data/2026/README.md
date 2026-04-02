@@ -13,8 +13,8 @@ Top 10 Hacker News stories for each day in 2026.
 
 *Thursday*
 
-1. [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/) (browsergate.eu) - 237 points by [digitalWestie](https://news.ycombinator.com/user?id=digitalWestie), [93 comments](https://news.ycombinator.com/item?id=47613981)
-2. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 128 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [28 comments](https://news.ycombinator.com/item?id=47612724)
+1. [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/) (browsergate.eu) - 239 points by [digitalWestie](https://news.ycombinator.com/user?id=digitalWestie), [94 comments](https://news.ycombinator.com/item?id=47613981)
+2. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 129 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [28 comments](https://news.ycombinator.com/item?id=47612724)
 3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 87 points by [lode](https://news.ycombinator.com/user?id=lode), [21 comments](https://news.ycombinator.com/item?id=47613078)
 4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 281 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [155 comments](https://news.ycombinator.com/item?id=47612601)
 5. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 164 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [98 comments](https://news.ycombinator.com/item?id=47611721)
@@ -22,7 +22,7 @@ Top 10 Hacker News stories for each day in 2026.
 7. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 109 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [49 comments](https://news.ycombinator.com/item?id=47611481)
 8. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 89 points by [luu](https://news.ycombinator.com/user?id=luu), [41 comments](https://news.ycombinator.com/item?id=47582987)
 9. [Enabling Codex to Analyze Two Decades of Hacker News Data](https://modolap.com/publication/hn-analysis-1) (modolap.com) - 23 points by [ronfriedhaber](https://news.ycombinator.com/user?id=ronfriedhaber), [7 comments](https://news.ycombinator.com/item?id=47612558)
-10. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 218 points by [jaden](https://news.ycombinator.com/user?id=jaden), [68 comments](https://news.ycombinator.com/item?id=47609694)
+10. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 219 points by [jaden](https://news.ycombinator.com/user?id=jaden), [68 comments](https://news.ycombinator.com/item?id=47609694)
 
 ## 2026-04-01
 
