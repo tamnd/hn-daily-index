@@ -4,99 +4,99 @@
     "id": 4660722,
     "title": "A Dragnet for Pee-Wee",
     "url": "http://blog.priceonomics.com/post/33713850223/a-dragnet-for-pee-wee",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 168,
+    "by": "rohin",
+    "descendants": 54,
+    "time": 1350406841
   },
   {
     "rank": 2,
     "id": 4661940,
     "title": "How I Hired Someone On Craigslist And Quadrupled My Productivity",
     "url": "http://hackthesystem.com/blog/why-i-hired-a-girl-on-craigslist-to-slap-me-in-the-face-and-why-it-quadrupled-my-productivity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "sethbannon",
+    "descendants": 122,
+    "time": 1350422787
   },
   {
     "rank": 3,
     "id": 4662442,
     "title": "Data Mining 3.4 billion Web pages for $100 of EC2",
     "url": "http://blog.luckyoyster.com/post/33592990831/data-mining-the-web-100-worth-of-priceless",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "chrisacky",
+    "descendants": 29,
+    "time": 1350429944
   },
   {
     "rank": 4,
     "id": 4663736,
     "title": "The Pirate Bay in the cloud",
     "url": "https://thepiratebay.se/blog/224",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "ponyous",
+    "descendants": 68,
+    "time": 1350466329
   },
   {
     "rank": 5,
     "id": 4663946,
     "title": "Google throws open doors to its top-secret data center",
     "url": "http://www.wired.com/wiredenterprise/2012/10/ff-inside-google-data-center/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "Hurdy",
+    "descendants": 96,
+    "time": 1350474400
   },
   {
     "rank": 6,
     "id": 4664005,
     "title": "Hacker News Data Analysis",
     "url": "http://blog.rjmetrics.com/surprising-hacker-news-data-analysis/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "robertjmoore",
+    "descendants": 73,
+    "time": 1350475833
   },
   {
     "rank": 7,
     "id": 4665069,
     "title": "Making Yourself a CEO",
     "url": "http://bhorowitz.com/2012/10/17/making-yourself-a-ceo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "FilterJoe",
+    "descendants": 33,
+    "time": 1350490091
   },
   {
     "rank": 8,
     "id": 4665188,
     "title": "Amazon founder Jeff Bezos calls for governments to end patent wars",
     "url": "http://www.metro.co.uk/tech/915146-amazon-founder-jeff-bezos-calls-for-governments-to-end-patent-wars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "mtgx",
+    "descendants": 107,
+    "time": 1350491303
   },
   {
     "rank": 9,
     "id": 4665369,
     "title": "Google's data centers are guarded by stormtroopers",
     "url": "https://maps.google.com/maps?hl=en&ll=35.898176,-81.548166&spn=0.007622,0.013486&sll=35.900197,-81.547024&layer=c&cid=7373938251588581469&panoid=qlcZPzXMS12y_CrDh64Qvw&cbp=13,339.35,,0,4.29&gl=US&t=m&cbll=35.898186,-81.548184&z=17",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "jeffisageek",
+    "descendants": 51,
+    "time": 1350493223
   },
   {
     "rank": 10,
     "id": 4666358,
     "title": "Things I wish I knew about MongoDB a year ago",
     "url": "http://snmaynard.com/2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "beastmcbeast",
+    "descendants": 108,
+    "time": 1350506969
   }
 ]

@@ -4,99 +4,99 @@
     "id": 4558309,
     "title": "How to stop hospitals from killing us",
     "url": "http://online.wsj.com/article/SB10000872396390444620104578008263334441352.html?mod=googlenews_wsj",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 153,
+    "by": "bmahmood",
+    "descendants": 96,
+    "time": 1348332906
   },
   {
     "rank": 2,
     "id": 4558569,
     "title": "Rethinking Sleep",
     "url": "http://www.nytimes.com/2012/09/23/opinion/sunday/rethinking-sleep.html?src=twrhp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "sew",
+    "descendants": 60,
+    "time": 1348338407
   },
   {
     "rank": 3,
     "id": 4558879,
     "title": "DC Taxi Commission Proposes New Rules to Shut Down Uber",
     "url": "http://blog.uber.com/2012/09/20/here-we-go-again-dc-taxi-commission-proposes-new-rules-to-shut-down-uber/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "japhyr",
+    "descendants": 170,
+    "time": 1348345152
   },
   {
     "rank": 4,
     "id": 4559292,
     "title": "Thank you Apple",
     "url": "http://commandcenter.blogspot.com/2012/09/thank-you-apple.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 129,
+    "by": "zdw",
+    "descendants": 129,
+    "time": 1348354976
   },
   {
     "rank": 5,
     "id": 4560111,
     "title": "Vim Koans",
     "url": "http://blog.sanctum.geek.nz/vim-koans/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 129,
+    "by": "janogonzalez",
+    "descendants": 13,
+    "time": 1348377638
   },
   {
     "rank": 6,
     "id": 4560142,
     "title": "Rescuing Resque: Let's do this",
     "url": "http://blog.steveklabnik.com/posts/2012-09-22-resque--let-s-do-this",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 140,
+    "by": "craigkerstiens",
+    "descendants": 43,
+    "time": 1348378372
   },
   {
     "rank": 7,
     "id": 4560334,
     "title": "Torvalds' quote about good programmers",
     "url": "http://programmers.stackexchange.com/questions/163185/torvalds-quote-about-good-programmer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "lx",
+    "descendants": 104,
+    "time": 1348386058
   },
   {
     "rank": 8,
     "id": 4560410,
     "title": "Show HN: Online C/C++ to assembly visualizer [Weekend Project]",
     "url": "http://assembly.ynh.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "ynh",
+    "descendants": 44,
+    "time": 1348389964
   },
   {
     "rank": 9,
     "id": 4560423,
     "title": "The Last PC Laptop",
     "url": "http://www.codinghorror.com/blog/2012/09/the-last-pc-laptop.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 141,
+    "by": "janerik",
+    "descendants": 150,
+    "time": 1348390253
   },
   {
     "rank": 10,
     "id": 4561584,
     "title": "Apple's HTTP POST caching is a bug",
     "url": "http://www.mnot.net/blog/2012/09/24/caching_POST",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "igrigorik",
+    "descendants": 26,
+    "time": 1348424027
   }
 ]

@@ -4,99 +4,99 @@
     "id": 4640583,
     "title": "A circuit and PCB editor in the browser",
     "url": "http://www.circuits.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "skbohra123",
+    "descendants": 81,
+    "time": 1349960790
   },
   {
     "rank": 2,
     "id": 4641520,
     "title": "Introducing Go by Example",
     "url": "http://mmcgrana.github.com/2012/10/introducing-go-by-example.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "mmcgrana",
+    "descendants": 35,
+    "time": 1349972832
   },
   {
     "rank": 3,
     "id": 4641588,
     "title": "Linus Torvalds Answers Your Questions",
     "url": "http://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "tmhedberg",
+    "descendants": 131,
+    "time": 1349973693
   },
   {
     "rank": 4,
     "id": 4641807,
     "title": "AWS Costs Cheat Sheet",
     "url": "http://dmin.es/aws-cheatsheet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "edbyrne",
+    "descendants": 34,
+    "time": 1349976889
   },
   {
     "rank": 5,
     "id": 4642886,
     "title": "Building websites in Python with Flask",
     "url": "http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/#.UHc5pLTc3w4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "dabent",
+    "descendants": 56,
+    "time": 1349990827
   },
   {
     "rank": 6,
     "id": 4643175,
     "title": "Show HN: We open sourced Lockitron's crowdfunding app",
     "url": "http://selfstarter.us/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "ccamrobertson",
+    "descendants": 74,
+    "time": 1349995880
   },
   {
     "rank": 7,
     "id": 4644475,
     "title": "On sexism in the tech industry - rebuttal",
     "url": "http://laurasanders.net/a-primer-on-sexism-in-the-tech-industry-by-an-actual-girl/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 168,
+    "by": "zachinglis",
+    "descendants": 199,
+    "time": 1350038732
   },
   {
     "rank": 8,
     "id": 4644679,
     "title": "The game of life emulated in the game of life",
     "url": "http://www.jwz.org/blog/2012/05/turtles-all-the-way-down-or-gliders-or-glider-turtles/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "koide",
+    "descendants": 79,
+    "time": 1350044727
   },
   {
     "rank": 9,
     "id": 4645457,
     "title": "Googling for \"conway's game of life\" gives a simulation in the results page",
     "url": "https://www.google.com/search?q=conways+game+of+life",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "huskyr",
+    "descendants": 78,
+    "time": 1350056154
   },
   {
     "rank": 10,
     "id": 4645844,
     "title": "If You're Too Busy to Meditate, Read This",
     "url": "http://blogs.hbr.org/bregman/2012/10/if-youre-too-busy-to-meditate.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "bcrawl",
+    "descendants": 216,
+    "time": 1350060783
   }
 ]

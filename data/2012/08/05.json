@@ -4,99 +4,99 @@
     "id": 4337335,
     "title": "Trading Program Ran Amok, With No \u2018Off\u2019 Switch",
     "url": "http://dealbook.nytimes.com/2012/08/03/trading-program-ran-amok-with-no-off-switch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "mindblink",
+    "descendants": 92,
+    "time": 1344049204
   },
   {
     "rank": 2,
     "id": 4338853,
     "title": "GHC's new cutting-edge dataflow-based code generator",
     "url": "http://hackage.haskell.org/trac/ghc/blog/newcg-update",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 151,
+    "by": "dons",
+    "descendants": 36,
+    "time": 1344097637
   },
   {
     "rank": 3,
     "id": 4339051,
     "title": "In China, the rich and powerful can hire body doubles to do their prison time ",
     "url": "http://www.slate.com/articles/news_and_politics/foreigners/2012/08/china_s_wealthy_and_influential_sometimes_hire_body_doubles_to_serve_their_prison_sentences.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "muratmutlu",
+    "descendants": 94,
+    "time": 1344101633
   },
   {
     "rank": 4,
     "id": 4339609,
     "title": "OS X Mountain Lion: Data Loss via 'Save As'",
     "url": "http://macperformanceguide.com/MountainLion-SaveAs-data-destruction.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "ingve",
+    "descendants": 146,
+    "time": 1344113588
   },
   {
     "rank": 5,
     "id": 4340047,
     "title": "What I Hate About Git",
     "url": "https://steveko.wordpress.com/2012/02/24/10-things-i-hate-about-git/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "gammarator",
+    "descendants": 301,
+    "time": 1344123148
   },
   {
     "rank": 6,
     "id": 4340309,
     "title": "Eugene Kaspersky: What Wired Is Not Telling You",
     "url": "http://eugene.kaspersky.com/2012/07/25/what-wired-is-not-telling-you-a-response-to-noah-shachtmans-article-in-wired-magazine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "jonemo",
+    "descendants": 80,
+    "time": 1344131384
   },
   {
     "rank": 7,
     "id": 4340891,
     "title": "What's all this fuss about Erlang?",
     "url": "http://pragprog.com/articles/erlang",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "DanielRibeiro",
+    "descendants": 99,
+    "time": 1344153437
   },
   {
     "rank": 8,
     "id": 4341358,
     "title": "Apple Support Allowed Hacker Access to Reporter's iCloud Account",
     "url": "http://www.macrumors.com/2012/08/05/apple-support-allowed-hacker-access-to-reporters-icloud-account/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "antr",
+    "descendants": 177,
+    "time": 1344172789
   },
   {
     "rank": 9,
     "id": 4341770,
     "title": "Y Combinator's First Batch: Where Are They Now?",
     "url": "http://thenextweb.com/insider/2012/08/05/y-combinators-first-batch-where-are-they-now/?utm_campaign=social%20media&awesm=tnw.to_l2M5&utm_source=Twitter&utm_medium=Spreadus",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "playhard",
+    "descendants": 13,
+    "time": 1344182737
   },
   {
     "rank": 10,
     "id": 4342665,
     "title": "CopBlock.org Founder Faces 21 Years in Prison for Reporting Police Brutality",
     "url": "http://ireport.cnn.com/docs/DOC-824678",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "wtvanhest",
+    "descendants": 61,
+    "time": 1344201074
   }
 ]

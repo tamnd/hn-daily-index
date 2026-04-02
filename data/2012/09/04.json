@@ -4,99 +4,99 @@
     "id": 4471391,
     "title": "I did the scariest thing I can imagine: I resigned",
     "url": "http://wasigh.com/scariest-thing-resigned/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "wasigh",
+    "descendants": 133,
+    "time": 1346698476
   },
   {
     "rank": 2,
     "id": 4471726,
     "title": "Linus Torvalds responds to what killed the Linux desktop",
     "url": "https://plus.google.com/115250422803614415116/posts/hMT5kW8LKJk",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "netsmashers",
+    "descendants": 139,
+    "time": 1346704408
   },
   {
     "rank": 3,
     "id": 4472244,
     "title": "I quit my job, and am building Tindie fulltime",
     "url": "https://tindie.com/blog/i-have-some-news/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "emilepetrone",
+    "descendants": 87,
+    "time": 1346714400
   },
   {
     "rank": 4,
     "id": 4472312,
     "title": "Cable lacing on the Curiosity rover",
     "url": "http://igkt.net/sm/index.php?topic=4028",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "gameshot911",
+    "descendants": 70,
+    "time": 1346715698
   },
   {
     "rank": 5,
     "id": 4472897,
     "title": "AntiSec leaks 1,000,001 Apple UDIDs, Device Names/Types",
     "url": "http://pastebin.com/nfVT7b0Z",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 648,
+    "by": "robbiet480",
+    "descendants": 268,
+    "time": 1346728444
   },
   {
     "rank": 6,
     "id": 4472923,
     "title": "Free Book: An Introduction to Programming in Go",
     "url": "http://www.golang-book.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "cdoxsey",
+    "descendants": 70,
+    "time": 1346729245
   },
   {
     "rank": 7,
     "id": 4474166,
     "title": "An apology to readers of Test-Driven iOS Development",
     "url": "http://blog.securemacprogramming.com/2012/09/an-apology-to-readers-of-test-driven-ios-development/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "Morendil",
+    "descendants": 67,
+    "time": 1346760109
   },
   {
     "rank": 8,
     "id": 4474538,
     "title": "37signals invests in The Starter League",
     "url": "http://37signals.com/svn/posts/3241-37signals-invests-in-the-starter-league",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "wlll",
+    "descendants": 87,
+    "time": 1346767389
   },
   {
     "rank": 9,
     "id": 4475237,
     "title": "Why Tarsnap doesn't use Glacier",
     "url": "http://www.daemonology.net/blog/2012-09-04-why-tarsnap-doesnt-use-glacier.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "cperciva",
+    "descendants": 55,
+    "time": 1346776185
   },
   {
     "rank": 10,
     "id": 4476359,
     "title": "Tomorrow Theme",
     "url": "https://github.com/chriskempson/tomorrow-theme",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "pstadler",
+    "descendants": 131,
+    "time": 1346790288
   }
 ]

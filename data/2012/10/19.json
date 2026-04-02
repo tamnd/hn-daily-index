@@ -4,99 +4,99 @@
     "id": 4670825,
     "title": "Such a Little Thing: The Semicolon in Rust",
     "url": "http://lucumr.pocoo.org/2012/10/18/such-a-little-thing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 172,
+    "by": "joeyespo",
+    "descendants": 74,
+    "time": 1350591342
   },
   {
     "rank": 2,
     "id": 4671530,
     "title": "Jon Stewart: Lower entrepreneurial risk",
     "url": "http://boss.blogs.nytimes.com/2012/10/18/jon-stewart-proposes-an-entrepreneurial-policy-dont-laugh/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "kdsudac",
+    "descendants": 187,
+    "time": 1350601962
   },
   {
     "rank": 3,
     "id": 4671676,
     "title": "XKCD-style charts with D3",
     "url": "http://dan.iel.fm/xkcd/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "idan",
+    "descendants": 32,
+    "time": 1350605090
   },
   {
     "rank": 4,
     "id": 4672202,
     "title": "PayPal Bug Bounty - a lesson in not being a fuckup",
     "url": "http://l8security.com/post/33876600904/paypal-bug-bounty-a-lesson-in-not-being-a-fuckup",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 168,
+    "by": "neilwillgettoit",
+    "descendants": 25,
+    "time": 1350618816
   },
   {
     "rank": 5,
     "id": 4672637,
     "title": "Free Online Education Is Now Illegal in Minnesota",
     "url": "http://www.slate.com/blogs/future_tense/2012/10/18/minnesota_bans_coursera_state_takes_bold_stand_against_free_education.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "paufernandez",
+    "descendants": 150,
+    "time": 1350632564
   },
   {
     "rank": 6,
     "id": 4673458,
     "title": "This Is Why They Call It a Weakly-Ordered CPU",
     "url": "http://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "octopus",
+    "descendants": 39,
+    "time": 1350654159
   },
   {
     "rank": 7,
     "id": 4674270,
     "title": "Some advice from Jeff Bezos",
     "url": "http://37signals.com/svn/posts/3289-some-advice-from-jeff-bezos",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "timf",
+    "descendants": 137,
+    "time": 1350665021
   },
   {
     "rank": 8,
     "id": 4674309,
     "title": "TSA Removes X-Ray Body Scanners From Major Airports",
     "url": "http://www.propublica.org/article/tsa-removes-x-ray-body-scanners-from-major-airports",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "hornokplease",
+    "descendants": 151,
+    "time": 1350665323
   },
   {
     "rank": 9,
     "id": 4674932,
     "title": "Small",
     "url": "http://blog.alexmaccaw.com/small",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "olivercameron",
+    "descendants": 49,
+    "time": 1350672739
   },
   {
     "rank": 10,
     "id": 4675126,
     "title": "Anatomy of a Hoax (Sony Nexus phone)",
     "url": "http://anatomyofahoax.tumblr.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "Shooti",
+    "descendants": 60,
+    "time": 1350676133
   }
 ]

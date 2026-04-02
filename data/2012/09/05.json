@@ -4,99 +4,99 @@
     "id": 4476397,
     "title": "What's a $4000 Suit Worth?",
     "url": "http://www.nytimes.com/2012/09/09/magazine/whats-a-4000-suit-worth.html?pagewanted=all",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "gphil",
+    "descendants": 187,
+    "time": 1346790948
   },
   {
     "rank": 2,
     "id": 4476508,
     "title": "Google Search is only 18% Search",
     "url": "http://blog.jitbit.com/2012/09/googles-serp-is-only-25-serp.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "jitbit",
+    "descendants": 188,
+    "time": 1346792529
   },
   {
     "rank": 3,
     "id": 4477119,
     "title": "2012 Startup School, Oct 20 at Stanford",
     "url": "http://startupschool.org/?2012",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "pg",
+    "descendants": 40,
+    "time": 1346802516
   },
   {
     "rank": 4,
     "id": 4477660,
     "title": "Neat",
     "url": "http://thoughtbot.com/neat/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "Gertig",
+    "descendants": 36,
+    "time": 1346812477
   },
   {
     "rank": 5,
     "id": 4478309,
     "title": "Realtime Three.js Coding",
     "url": "http://mrdoob.com/projects/code-editor/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "franze",
+    "descendants": 37,
+    "time": 1346828441
   },
   {
     "rank": 6,
     "id": 4478817,
     "title": "Dear ICO, Sue Us",
     "url": "http://nocookielaw.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "colinscape",
+    "descendants": 97,
+    "time": 1346843179
   },
   {
     "rank": 7,
     "id": 4478933,
     "title": "World wide wasteland",
     "url": "http://www.zemanta.com/blog/world-wide-wasteland/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "igzebedze",
+    "descendants": 77,
+    "time": 1346846219
   },
   {
     "rank": 8,
     "id": 4479427,
     "title": "How Tesla is Circumventing Dealerships",
     "url": "http://autos.yahoo.com/blogs/motoramic/tesla-plans-short-circuit-car-dealers-194619627.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "bmahmood",
+    "descendants": 143,
+    "time": 1346854333
   },
   {
     "rank": 9,
     "id": 4480328,
     "title": "Pirate Bay Founder Arrest Followed By $59m Swedish Aid Package For Cambodia",
     "url": "http://torrentfreak.com/pirate-bay-founder-arrest-followed-by-59m-swedish-aid-package-for-cambodia-120905/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "subsystem",
+    "descendants": 79,
+    "time": 1346865705
   },
   {
     "rank": 10,
     "id": 4480694,
     "title": "How we keep GitHub fast",
     "url": "https://github.com/blog/1252-how-we-keep-github-fast",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "janerik",
+    "descendants": 120,
+    "time": 1346869795
   }
 ]

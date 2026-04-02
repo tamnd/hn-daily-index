@@ -4,99 +4,99 @@
     "id": 4495980,
     "title": "DIY quest for a 6 watt high-end desktop computer",
     "url": "http://ssj3gohan.tweakblogs.net/blog/8217/fluffy2-59-watt-high-end-desktop-computer.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 173,
+    "by": "ck2",
+    "descendants": 31,
+    "time": 1347203958
   },
   {
     "rank": 2,
     "id": 4496588,
     "title": "The Tiniest GIF Ever",
     "url": "http://probablyprogramming.com/2009/03/15/the-tiniest-gif-ever",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 204,
+    "by": "donohoe",
+    "descendants": 49,
+    "time": 1347217157
   },
   {
     "rank": 3,
     "id": 4497461,
     "title": "Black Swan Farming",
     "url": "http://paulgraham.com/swan.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 703,
+    "by": "siavosh",
+    "descendants": 303,
+    "time": 1347233642
   },
   {
     "rank": 4,
     "id": 4498724,
     "title": "Lessons for uncultured web developers",
     "url": "http://www.troyhunt.com/2012/09/10-lessons-for-uncultured-web-developers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "troyhunt",
+    "descendants": 112,
+    "time": 1347262582
   },
   {
     "rank": 5,
     "id": 4499151,
     "title": "Revel, high-productivity Go web framework modeled on Play Framework",
     "url": "http://robfig.github.com/revel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "freeman478",
+    "descendants": 38,
+    "time": 1347274281
   },
   {
     "rank": 6,
     "id": 4499171,
     "title": "PostgreSQL 9.2 released",
     "url": "http://www.postgresql.org/about/news/1415/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "lest",
+    "descendants": 77,
+    "time": 1347274887
   },
   {
     "rank": 7,
     "id": 4499435,
     "title": "Show HN: We got tired of asking 'What browser are you using?' and created this",
     "url": "https://aboutmybrowser.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 521,
+    "by": "ashastry",
+    "descendants": 175,
+    "time": 1347281036
   },
   {
     "rank": 8,
     "id": 4499845,
     "title": "I feel I am building a new Google Wave",
     "url": "http://pivory.com/#topic/1/0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "cheshirecat",
+    "descendants": 98,
+    "time": 1347286535
   },
   {
     "rank": 9,
     "id": 4500574,
     "title": "HP introduces new Apple iMac",
     "url": "http://thenextweb.com/apple/2012/09/10/notefile/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "tomschlick",
+    "descendants": 247,
+    "time": 1347294281
   },
   {
     "rank": 10,
     "id": 4500993,
     "title": "GoDaddy's DNS Service is Down",
     "url": "http://www.godaddy.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "davewasmer",
+    "descendants": 288,
+    "time": 1347299045
   }
 ]

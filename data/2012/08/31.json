@@ -4,99 +4,99 @@
     "id": 4454001,
     "title": "Oracle knew about critical Java flaws since April",
     "url": "http://www.theregister.co.uk/2012/08/30/oracle_knew_about_flaws/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "amboar",
+    "descendants": 88,
+    "time": 1346325140
   },
   {
     "rank": 2,
     "id": 4454637,
     "title": "Amit\u2019s Thoughts on Grids",
     "url": "http://www-cs-students.stanford.edu/~amitp/game-programming/grids/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "kayral",
+    "descendants": 12,
+    "time": 1346335051
   },
   {
     "rank": 3,
     "id": 4454852,
     "title": "Why Johnny can't stream: How video copyright went insane",
     "url": "http://arstechnica.com/tech-policy/2012/08/why-johnny-cant-stream-how-video-copyright-went-insane/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "mbell",
+    "descendants": 48,
+    "time": 1346337642
   },
   {
     "rank": 4,
     "id": 4456420,
     "title": "New Firefox Command Line helps you develop faster",
     "url": "https://hacks.mozilla.org/2012/08/new-firefox-command-line-helps-you-develop-faster/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "ptgloden",
+    "descendants": 67,
+    "time": 1346356377
   },
   {
     "rank": 5,
     "id": 4456772,
     "title": " HBO cuts the cord, brings streaming-only service to Europe",
     "url": "http://arstechnica.com/business/2012/08/hbo-cuts-the-cord-brings-streaming-only-service-to-europe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "nightbrawler",
+    "descendants": 99,
+    "time": 1346360234
   },
   {
     "rank": 6,
     "id": 4457526,
     "title": "Just Scroll",
     "url": "http://www2.nissan.co.jp/SP/NOTE/SPECIAL/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "koichi",
+    "descendants": 102,
+    "time": 1346371308
   },
   {
     "rank": 7,
     "id": 4457854,
     "title": "\"100% of our production system is now running Go\"",
     "url": "https://groups.google.com/d/topic/golang-nuts/hC0aJ8IASi4/discussion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "enneff",
+    "descendants": 182,
+    "time": 1346378140
   },
   {
     "rank": 8,
     "id": 4459066,
     "title": "The Woman Who Needed to Be Upside-Down",
     "url": "http://discovermagazine.com/2012/jul-aug/06-vital-signs-woman-needed-upside-down",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "danso",
+    "descendants": 60,
+    "time": 1346408930
   },
   {
     "rank": 9,
     "id": 4459084,
     "title": "Probabilistic Many-to-Many Relationships (with Bloom Filters)",
     "url": "http://blog.zacharyvoase.com/2012/08/31/m2mbloom/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 180,
+    "by": "zacharyvoase",
+    "descendants": 39,
+    "time": 1346409584
   },
   {
     "rank": 10,
     "id": 4459826,
     "title": "Show HN: Most Wikipedia articles lead to the same loop",
     "url": "http://wikiloopr.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "seangransee",
+    "descendants": 161,
+    "time": 1346422979
   }
 ]

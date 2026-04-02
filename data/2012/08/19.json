@@ -4,99 +4,99 @@
     "id": 4400797,
     "title": "RIP Open Source MySQL",
     "url": "http://developers.slashdot.org/story/12/08/18/0152237/is-mysql-slowly-turning-closed-source",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "mariuz",
+    "descendants": 99,
+    "time": 1345287403
   },
   {
     "rank": 2,
     "id": 4401606,
     "title": "Ben Horowitz: A Good Place to Work",
     "url": "http://bhorowitz.com/2012/08/18/a-good-place-to-work/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "louhong",
+    "descendants": 156,
+    "time": 1345309423
   },
   {
     "rank": 3,
     "id": 4402038,
     "title": "Github just hit 2 million users.",
     "url": "https://github.com/##",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "joshryandavis",
+    "descendants": 36,
+    "time": 1345318066
   },
   {
     "rank": 4,
     "id": 4402763,
     "title": "Why time appears to speed up with age",
     "url": "http://everything2.com/user/Professor%20Pi/writeups/Why%20time%20appears%20to%20speed%20up%20with%20age",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "rlander",
+    "descendants": 100,
+    "time": 1345335432
   },
   {
     "rank": 5,
     "id": 4402821,
     "title": "How to write a Linux device driver",
     "url": "http://www.freesoftwaremagazine.com/articles/drivers_linux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "rohshall",
+    "descendants": 21,
+    "time": 1345337253
   },
   {
     "rank": 6,
     "id": 4402959,
     "title": "Why Waiting Is Torture",
     "url": "http://www.nytimes.com/2012/08/19/opinion/sunday/why-waiting-in-line-is-torture.html?hp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 163,
+    "by": "sew",
+    "descendants": 46,
+    "time": 1345341276
   },
   {
     "rank": 7,
     "id": 4403558,
     "title": "Your Words are Wasted",
     "url": "http://www.hanselman.com/blog/YourWordsAreWasted.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "d4nt",
+    "descendants": 53,
+    "time": 1345364445
   },
   {
     "rank": 8,
     "id": 4403874,
     "title": "Dear Apple: Please set iMessage free",
     "url": "http://blog.cryptographyengineering.com/2012/08/dear-apple-please-set-imessage-free.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "stalled",
+    "descendants": 79,
+    "time": 1345380872
   },
   {
     "rank": 9,
     "id": 4404204,
     "title": "Show HN: BigVideo.js",
     "url": "http://dfcb.github.com/BigVideo.js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "johnpolacek",
+    "descendants": 48,
+    "time": 1345389199
   },
   {
     "rank": 10,
     "id": 4404697,
     "title": "Programming Languages Have Social Mores Not Idioms",
     "url": "http://learncodethehardway.org/blog/AUG_19_2012.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "rsobers",
+    "descendants": 171,
+    "time": 1345400315
   }
 ]

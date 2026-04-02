@@ -4,99 +4,99 @@
     "id": 4360502,
     "title": "Mars rover camera project manager explains 2MP camera choice",
     "url": "http://www.dpreview.com/news/2012/08/08/Curiosity-interview-with-Malin-Space-Science-Systems-Mike-Ravine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "k33l0r",
+    "descendants": 86,
+    "time": 1344510985
   },
   {
     "rank": 2,
     "id": 4362277,
     "title": "The effect of typefaces on credibility",
     "url": "http://opinionator.blogs.nytimes.com/2012/08/08/hear-all-ye-people-hearken-o-earth/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "gamzer",
+    "descendants": 93,
+    "time": 1344534919
   },
   {
     "rank": 3,
     "id": 4363210,
     "title": "Google Keeps Paying Deceased Employees' Families for a Decade",
     "url": "http://www.theatlantic.com/technology/archive/2012/08/google-keeps-paying-deceased-employees-families-for-a-decade/260897/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "jbredeche",
+    "descendants": 124,
+    "time": 1344546087
   },
   {
     "rank": 4,
     "id": 4363461,
     "title": "JQuery 1.8 Released",
     "url": "http://blog.jquery.com/2012/08/09/jquery-1-8-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "warp",
+    "descendants": 40,
+    "time": 1344549128
   },
   {
     "rank": 5,
     "id": 4363471,
     "title": "Bitey: Import LLVM bitcode directly into Python",
     "url": "https://github.com/dabeaz/bitey",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "mace",
+    "descendants": 34,
+    "time": 1344549205
   },
   {
     "rank": 6,
     "id": 4365255,
     "title": "Steve Yegge: Notes from the Mystery Machine Bus",
     "url": "https://plus.google.com/u/0/110981030061712822816/posts/KaSKeg4vQtz",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "kungfudoi",
+    "descendants": 180,
+    "time": 1344583267
   },
   {
     "rank": 7,
     "id": 4365868,
     "title": "Write any javascript code with just these characters: ()[]{}+",
     "url": "http://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "alcuadrado",
+    "descendants": 51,
+    "time": 1344602467
   },
   {
     "rank": 8,
     "id": 4365934,
     "title": "Things I didn\u2019t know about the WebKit inspector",
     "url": "http://blog.joocode.com/browsers/12-things-about-the-webkit-inspector-i-didnt-know/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "copesc",
+    "descendants": 51,
+    "time": 1344603761
   },
   {
     "rank": 9,
     "id": 4365970,
     "title": "New York Underground",
     "url": "http://www.nationalgeographic.com/nyunderground/docs/nymain.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "sehrope",
+    "descendants": 83,
+    "time": 1344604415
   },
   {
     "rank": 10,
     "id": 4366555,
     "title": "Browserver: a node.js HTTP server, in your browser",
     "url": "http://browserver.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "jedschmidt",
+    "descendants": 63,
+    "time": 1344612599
   }
 ]

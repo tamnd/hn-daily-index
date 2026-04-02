@@ -4,99 +4,99 @@
     "id": 4381165,
     "title": "The Mystery of the Encrypted Gauss Payload",
     "url": "http://www.securelist.com/en/blog/208193781/The_Mystery_of_the_Encrypted_Gauss_Payload",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 157,
+    "by": "jgrahamc",
+    "descendants": 44,
+    "time": 1344955951
   },
   {
     "rank": 2,
     "id": 4382688,
     "title": "Rich Hickey: The Value of Values",
     "url": "http://www.infoq.com/presentations/Value-Values",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "dmuino",
+    "descendants": 42,
+    "time": 1344972768
   },
   {
     "rank": 3,
     "id": 4382824,
     "title": "Uber Boston Has Been Served",
     "url": "http://blog.uber.com/2012/08/14/uber-boston-has-been-served/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "sudonim",
+    "descendants": 133,
+    "time": 1344974726
   },
   {
     "rank": 4,
     "id": 4384029,
     "title": "What I Hate About Working At Facebook",
     "url": "http://worldofsu.com/philipsu/2012/08/ten-things-i-hate-about-working-at-facebook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "dshankar",
+    "descendants": 183,
+    "time": 1344995569
   },
   {
     "rank": 5,
     "id": 4384696,
     "title": "Steve Wozniak: Internet should not have gatekeepers or regulators",
     "url": "http://rt.com/usa/news/wozniak-interview-dotcom-freedom-396/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 156,
+    "by": "MrBlue",
+    "descendants": 82,
+    "time": 1345007719
   },
   {
     "rank": 6,
     "id": 4384954,
     "title": "Single Element MacBook Pro with CSS",
     "url": "http://codepen.io/joshnh/pen/JCGoF",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "michaelkscott",
+    "descendants": 65,
+    "time": 1345014090
   },
   {
     "rank": 7,
     "id": 4385415,
     "title": "The first Django site to run on Python 3",
     "url": "http://myks.org/django-python3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "mYk",
+    "descendants": 53,
+    "time": 1345029468
   },
   {
     "rank": 8,
     "id": 4385886,
     "title": "Git-annex assistant: Like DropBox, but with your own cloud",
     "url": "http://www.kickstarter.com/projects/joeyh/git-annex-assistant-like-dropbox-but-with-your-own",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "urza",
+    "descendants": 51,
+    "time": 1345038071
   },
   {
     "rank": 9,
     "id": 4386813,
     "title": "Sexual Harassment at DefCon (and Other Hacker Cons)",
     "url": "http://www.schneier.com/blog/archives/2012/08/sexual_harassme.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 166,
+    "by": "selenamarie",
+    "descendants": 259,
+    "time": 1345049111
   },
   {
     "rank": 10,
     "id": 4387615,
     "title": "Fly to 6 Continents in Style",
     "url": "http://flightfox.com/rtw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "laumac",
+    "descendants": 81,
+    "time": 1345057759
   }
 ]
