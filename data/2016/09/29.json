@@ -4,99 +4,99 @@
     "id": 12597609,
     "title": "On Phone Numbers and Identity",
     "url": "https://medium.com/the-coinbase-blog/on-phone-numbers-and-identity-423db8577e58",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "cmurf",
+    "descendants": 113,
+    "time": 1475070849
   },
   {
     "rank": 2,
     "id": 12599339,
     "title": "Announcing YouTube-8M: A Large and Diverse Labeled Video Dataset for Research",
     "url": "https://research.googleblog.com/2016/09/announcing-youtube-8m-large-and-diverse.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "runesoerensen",
+    "descendants": 37,
+    "time": 1475082208
   },
   {
     "rank": 3,
     "id": 12600094,
     "title": "Amazon\u2019s Ambition to Compete Directly with UPS and FedEx",
     "url": "http://www.wsj.com/articles/amazons-newest-ambitioncompeting-directly-with-ups-and-fedex-1474994758",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "cosmoharrigan",
+    "descendants": 283,
+    "time": 1475087636
   },
   {
     "rank": 4,
     "id": 12601471,
     "title": "Facebook, Amazon, Google, IBM and Microsoft Create Partnership on AI",
     "url": "https://techcrunch.com/2016/09/28/facebook-amazon-google-ibm-and-microsoft-come-together-to-create-historic-partnership-on-ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "monsieurpng",
+    "descendants": 248,
+    "time": 1475097729
   },
   {
     "rank": 5,
     "id": 12601609,
     "title": "Building an $80k/month business with a software testing community",
     "url": "https://www.indiehackers.com/businesses/ministry-of-testing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "rosiesherry",
+    "descendants": 59,
+    "time": 1475099198
   },
   {
     "rank": 6,
     "id": 12601956,
     "title": "The Effect of State Marijuana Legalizations",
     "url": "http://www.cato.org/publications/policy-analysis/dose-reality-effect-state-marijuana-legalizations",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "prostoalex",
+    "descendants": 257,
+    "time": 1475102641
   },
   {
     "rank": 7,
     "id": 12604855,
     "title": "PostgreSQL 9.6 Released",
     "url": "https://www.postgresql.org/about/news/1703/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 553,
+    "by": "sheff",
+    "descendants": 128,
+    "time": 1475153865
   },
   {
     "rank": 8,
     "id": 12606829,
     "title": "Lost Diamonds: How our current system is failing underprivileged talent",
     "url": "https://shift.newco.co/lost-diamonds-98f950786a49",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "nkurz",
+    "descendants": 349,
+    "time": 1475168123
   },
   {
     "rank": 9,
     "id": 12606995,
     "title": "Bringing Pok\u00e9mon GO to life on Google Cloud",
     "url": "https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 480,
+    "by": "bryanmau1",
+    "descendants": 211,
+    "time": 1475169244
   },
   {
     "rank": 10,
     "id": 12607410,
     "title": "Announcing Rust 1.12",
     "url": "https://blog.rust-lang.org/2016/09/29/Rust-1.12.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "steveklabnik",
+    "descendants": 76,
+    "time": 1475172214
   }
 ]

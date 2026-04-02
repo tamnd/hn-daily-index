@@ -4,99 +4,99 @@
     "id": 12829759,
     "title": "I don't understand Python's Asyncio",
     "url": "http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "ingve",
+    "descendants": 207,
+    "time": 1477835192
   },
   {
     "rank": 2,
     "id": 12830307,
     "title": "Sonder E-Ink Keyboard",
     "url": "https://sonderdesign.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "walterbell",
+    "descendants": 227,
+    "time": 1477841410
   },
   {
     "rank": 3,
     "id": 12833797,
     "title": "How 2K Killed Irrational Games",
     "url": "https://hackernoon.com/how-2k-killed-irrational-games-a09d8865fd8b#.68bjzkfxw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "MBCook",
+    "descendants": 147,
+    "time": 1477879322
   },
   {
     "rank": 4,
     "id": 12834327,
     "title": "Show HN: A fork of sudo with Touch ID support",
     "url": "https://github.com/mattrajca/sudo-touchid",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "mattr1",
+    "descendants": 128,
+    "time": 1477888398
   },
   {
     "rank": 5,
     "id": 12834804,
     "title": "Things I will tell my kids if they become entrepreneurs [slides]",
     "url": "http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "mweibel",
+    "descendants": 96,
+    "time": 1477898340
   },
   {
     "rank": 6,
     "id": 12834907,
     "title": "Microsoft is now a braver, more innovative company than Apple",
     "url": "http://mashable.com/2016/10/27/microsoft-better-apple/#gGEqKo9ceqqw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "ssuda",
+    "descendants": 282,
+    "time": 1477900311
   },
   {
     "rank": 7,
     "id": 12836038,
     "title": "What the Heck Is Happening at Apple?",
     "url": "http://www.cringely.com/2016/10/31/heck-happened-apple/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "rfreytag",
+    "descendants": 525,
+    "time": 1477916200
   },
   {
     "rank": 8,
     "id": 12836812,
     "title": "2017 Chevrolet Bolt EV",
     "url": "http://www.caranddriver.com/reviews/2017-chevrolet-bolt-ev-test-review",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "jseliger",
+    "descendants": 488,
+    "time": 1477923085
   },
   {
     "rank": 9,
     "id": 12838335,
     "title": "WebAssembly Browser Preview",
     "url": "http://v8project.blogspot.com/2016/10/webassembly-browser-preview.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 759,
+    "by": "zmodem",
+    "descendants": 338,
+    "time": 1477931298
   },
   {
     "rank": 10,
     "id": 12838904,
     "title": "Minoca OS: A new open source operating system",
     "url": "https://blog.minocacorp.com/minoca-os-a-new-open-source-operating-system-4bb7998df3a7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 711,
+    "by": "EvanGr",
+    "descendants": 187,
+    "time": 1477934837
   }
 ]

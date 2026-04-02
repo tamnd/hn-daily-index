@@ -4,99 +4,99 @@
     "id": 12384862,
     "title": "SRL \u2013 Simple Regex Language",
     "url": "https://simple-regex.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "maxpert",
+    "descendants": 133,
+    "time": 1472501096
   },
   {
     "rank": 2,
     "id": 12386777,
     "title": "California bans ITT tech from accepting new students",
     "url": "http://www.latimes.com/business/la-fi-itt-tech-aid-20160826-snap-story.html?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "emeraldd",
+    "descendants": 312,
+    "time": 1472520627
   },
   {
     "rank": 3,
     "id": 12388370,
     "title": "Facebook recommended that a psychiatrist\u2019s patients friend each other",
     "url": "http://fusion.net/story/339018/facebook-psychiatrist-privacy-problems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "deep_attention",
+    "descendants": 220,
+    "time": 1472546348
   },
   {
     "rank": 4,
     "id": 12388601,
     "title": "Commission says Ireland granted undue tax benefits of up to \u20ac13B to Apple",
     "url": "http://www.rte.ie/news/2016/0830/812819-apple-tax-ireland/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "Oletros",
+    "descendants": 419,
+    "time": 1472550827
   },
   {
     "rank": 5,
     "id": 12388721,
     "title": "Talk of a Split from Docker",
     "url": "http://thenewstack.io/docker-fork-talk-split-now-table/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "iamthemuffinman",
+    "descendants": 204,
+    "time": 1472552677
   },
   {
     "rank": 6,
     "id": 12389296,
     "title": "A Message to the Apple Community in Europe",
     "url": "http://www.apple.com/ie/customer-letter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "epaga",
+    "descendants": 417,
+    "time": 1472559384
   },
   {
     "rank": 7,
     "id": 12389573,
     "title": "Chinese CA WoSign faces revocation after possibly issuing fake certificates",
     "url": "http://www.percya.com/2016/08/chinese-ca-wosign-faces-revocation.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "tombrossman",
+    "descendants": 110,
+    "time": 1472561855
   },
   {
     "rank": 8,
     "id": 12390292,
     "title": "Victory for Net Neutrality in Europe",
     "url": "https://juliareda.eu/2016/08/victory-for-net-neutrality/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "jrepin",
+    "descendants": 174,
+    "time": 1472566294
   },
   {
     "rank": 9,
     "id": 12392081,
     "title": "AWS S3 open source alternative written in Go",
     "url": "https://minio.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "krishnasrinivas",
+    "descendants": 131,
+    "time": 1472578292
   },
   {
     "rank": 10,
     "id": 12393032,
     "title": "Google Takes on Uber with New Ride-Share Service",
     "url": "http://www.wsj.com/articles/google-takes-on-uber-with-new-ride-share-service-1472584235",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "coloneltcb",
+    "descendants": 461,
+    "time": 1472584606
   }
 ]

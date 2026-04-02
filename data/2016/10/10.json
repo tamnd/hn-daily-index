@@ -4,99 +4,99 @@
     "id": 12671667,
     "title": "SQL style guide",
     "url": "http://www.sqlstyle.guide/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "okket",
+    "descendants": 146,
+    "time": 1476027632
   },
   {
     "rank": 2,
     "id": 12672394,
     "title": "Hugo: A fast and modern static website engine",
     "url": "https://gohugo.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "lnalx",
+    "descendants": 152,
+    "time": 1476036149
   },
   {
     "rank": 3,
     "id": 12673229,
     "title": "Fossil: A decentralized version control, bug tracking, and wiki software",
     "url": "https://www.fossil-scm.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "Rexxar",
+    "descendants": 98,
+    "time": 1476044453
   },
   {
     "rank": 4,
     "id": 12673739,
     "title": "The P programming language",
     "url": "https://github.com/p-org/P",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "msoad",
+    "descendants": 87,
+    "time": 1476050260
   },
   {
     "rank": 5,
     "id": 12674533,
     "title": "The Dutch Reach: Clever Workaround to Keep Cyclists from Getting \u201cDoored\u201d",
     "url": "http://99percentinvisible.org/article/dutch-reach-clever-workaround-keep-cyclists-getting-doored/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1149,
+    "by": "misnamed",
+    "descendants": 590,
+    "time": 1476063616
   },
   {
     "rank": 6,
     "id": 12675306,
     "title": "Algorithms for making more interesting mazes",
     "url": "http://www.gamasutra.com/blogs/HermanTulleken/20161005/282629/Algorithms_for_making_more_interesting_mazes.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "rinesh",
+    "descendants": 30,
+    "time": 1476078803
   },
   {
     "rank": 7,
     "id": 12677169,
     "title": "How I built a keyboard by hand",
     "url": "https://jacklew.is/keyboard/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "rhinoceraptor",
+    "descendants": 149,
+    "time": 1476108668
   },
   {
     "rank": 8,
     "id": 12677279,
     "title": "Suspicious court cases, missing defendants, aim to get webpages taken down",
     "url": "https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/10/10/dozens-of-suspicious-court-cases-with-missing-defendants-aim-at-getting-web-pages-taken-down-or-deindexed/?postshare=6791476107006382&tid=ss_fb&utm_term=.0143e0970aee",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 819,
+    "by": "ohjeez",
+    "descendants": 115,
+    "time": 1476110195
   },
   {
     "rank": 9,
     "id": 12677866,
     "title": "Is Facebook\u2019s Massive Open Office Scaring Away Developers?",
     "url": "http://calnewport.com/blog/2016/10/09/is-facebooks-massive-open-office-scaring-away-developers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "gammarator",
+    "descendants": 460,
+    "time": 1476115193
   },
   {
     "rank": 10,
     "id": 12678669,
     "title": "FreeBSD 11.0 Now Available",
     "url": "https://lists.freebsd.org/pipermail/freebsd-announce/2016-October/001760.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "eatonphil",
+    "descendants": 159,
+    "time": 1476121831
   }
 ]

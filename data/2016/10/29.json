@@ -4,99 +4,99 @@
     "id": 12809141,
     "title": "How to De-Risk a Startup",
     "url": "https://codingvc.com/how-to-de-risk-a-startup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "lpolovets",
+    "descendants": 37,
+    "time": 1477597797
   },
   {
     "rank": 2,
     "id": 12817722,
     "title": "Zcash begins",
     "url": "https://z.cash/blog/zcash-begins.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "carlchenet",
+    "descendants": 175,
+    "time": 1477672059
   },
   {
     "rank": 3,
     "id": 12819482,
     "title": "Ask HN: Any other blind devs interested in working on dev tools for the blind?",
     "url": "https://news.ycombinator.com/item?id=12819482",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 530,
+    "by": "blinddev",
+    "descendants": 133,
+    "time": 1477681036
   },
   {
     "rank": 4,
     "id": 12819542,
     "title": "A very valuable vulnerability",
     "url": "http://www.daemonology.net/blog/2016-10-28-A-very-valuable-vulnerability.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "cperciva",
+    "descendants": 48,
+    "time": 1477681391
   },
   {
     "rank": 5,
     "id": 12820561,
     "title": "Microsoft offers Apple users $650 off to trade a MacBook for a Surface",
     "url": "https://techcrunch.com/2016/10/28/microsoft-apple/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "hackerkid",
+    "descendants": 114,
+    "time": 1477687860
   },
   {
     "rank": 6,
     "id": 12821586,
     "title": "Sub-millisecond GC pauses in Go 1.8",
     "url": "https://groups.google.com/forum/?fromgroups#!topic/golang-dev/Ab1sFeoZg_8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "geodel",
+    "descendants": 235,
+    "time": 1477696534
   },
   {
     "rank": 7,
     "id": 12822018,
     "title": "Powerwall 2 and Integrated Solar",
     "url": "https://powerwall.tesla.com/?powerwall2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "ph0rque",
+    "descendants": 325,
+    "time": 1477702905
   },
   {
     "rank": 8,
     "id": 12824349,
     "title": "ESPN Loses 621,000 Subscribers; Worst Month in Company History",
     "url": "http://www.outkickthecoverage.com/espn-loses-621-000-subscribers-worst-month-in-company-history-102916",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "kelukelugames",
+    "descendants": 408,
+    "time": 1477754901
   },
   {
     "rank": 9,
     "id": 12824366,
     "title": "Total Nightmare: USB-C and Thunderbolt 3",
     "url": "http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 814,
+    "by": "sfoskett",
+    "descendants": 446,
+    "time": 1477755129
   },
   {
     "rank": 10,
     "id": 12825953,
     "title": "How I Became HackerRank 1 in Two Hours",
     "url": "http://williampross.com/became-hackerrank-1-two-hours?ref=yc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "abhas9",
+    "descendants": 315,
+    "time": 1477770521
   }
 ]

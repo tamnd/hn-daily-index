@@ -4,99 +4,99 @@
     "id": 12357599,
     "title": "How Startup Options and Ownership Work",
     "url": "http://a16z.com/2016/08/24/options-ownership/?utm_campaign=Mattermark+Daily&utm_source=hs_email&utm_medium=email&utm_content=33386773&_hsenc=p2ANqtz-8Yh06XfJ07IS_elY10dP8tl6Et3vg0oGecP6iW9E-6_zYuCaUP_bMpOXOVidvEs8wUZwZMrYurXUBx4DrTCsDpEFYUNA&_hsmi=33386773",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "prostoalex",
+    "descendants": 96,
+    "time": 1472113687
   },
   {
     "rank": 2,
     "id": 12358421,
     "title": "Arguments against JSON-driven development",
     "url": "http://okigiveup.net/arguments-against-json-driven-development/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "afroisalreadyin",
+    "descendants": 294,
+    "time": 1472127544
   },
   {
     "rank": 3,
     "id": 12360478,
     "title": "FreeNAS: Open Source Storage Operating System",
     "url": "http://www.freenas.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "phantom_oracle",
+    "descendants": 176,
+    "time": 1472143712
   },
   {
     "rank": 4,
     "id": 12360572,
     "title": "Facebook AI Research Team Open Source DeepMask and SharpMask",
     "url": "https://code.facebook.com/posts/561187904071636",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "natthub",
+    "descendants": 83,
+    "time": 1472144323
   },
   {
     "rank": 5,
     "id": 12361318,
     "title": "HackedThat: Breaking in to a hardened server via the back door",
     "url": "http://polynome.co/infosec/inversoft/elasticsearch/linode/penetration-testing/2016/08/16/hack-that-inversoft.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "bradleybuda",
+    "descendants": 66,
+    "time": 1472150282
   },
   {
     "rank": 6,
     "id": 12364123,
     "title": "What I found wrong in Docker 1.12",
     "url": "http://www.linux-toys.com/?p=684",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "rusher81572",
+    "descendants": 228,
+    "time": 1472183092
   },
   {
     "rank": 7,
     "id": 12364297,
     "title": "Taking Over DigitalOcean Domains via a Lax Domain Import System",
     "url": "https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "infosecau",
+    "descendants": 170,
+    "time": 1472187051
   },
   {
     "rank": 8,
     "id": 12365693,
     "title": "Show HN: Top books mentioned in comments on Hacker News",
     "url": "http://hackernewsbooks.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "leandot",
+    "descendants": 184,
+    "time": 1472214494
   },
   {
     "rank": 9,
     "id": 12365956,
     "title": "Apollo Global is buying Rackspace for $4.3B",
     "url": "http://www.businessinsider.com/apollo-is-buying-rackspace-in-a-43-billion-deal-2016-8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "notmyname",
+    "descendants": 164,
+    "time": 1472217400
   },
   {
     "rank": 10,
     "id": 12367071,
     "title": "USCIS Proposes Rule to Welcome International Entrepreneurs",
     "url": "https://www.uscis.gov/news/news-releases/uscis-proposes-rule-to-welcome-international-entrepreneurs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "jrbedard",
+    "descendants": 138,
+    "time": 1472226791
   }
 ]

@@ -4,99 +4,99 @@
     "id": 13063842,
     "title": "What\u2019s the Second Job of a Startup CEO?",
     "url": "https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "craigcannon",
+    "descendants": 40,
+    "time": 1480435351
   },
   {
     "rank": 2,
     "id": 13065383,
     "title": "Grafana 4.0 with alerting is released",
     "url": "http://grafana.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "yobo",
+    "descendants": 86,
+    "time": 1480446287
   },
   {
     "rank": 3,
     "id": 13065599,
     "title": "Help Us Keep the Archive Free, Accessible, and Private",
     "url": "https://blog.archive.org/2016/11/29/help-us-keep-the-archive-free-accessible-and-private/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "aaronbrethorst",
+    "descendants": 80,
+    "time": 1480448062
   },
   {
     "rank": 4,
     "id": 13065670,
     "title": "Show HN: Anycomplete",
     "url": "https://github.com/nathancahill/hammerspoon-config",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "nathancahill",
+    "descendants": 85,
+    "time": 1480448665
   },
   {
     "rank": 5,
     "id": 13066825,
     "title": "Javascript exploit actively used against TorBrowser",
     "url": "https://lists.torproject.org/pipermail/tor-talk/2016-November/042639.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "secfirstmd",
+    "descendants": 132,
+    "time": 1480459083
   },
   {
     "rank": 6,
     "id": 13069300,
     "title": "Oh right, about those LEDs",
     "url": "http://xiphmont.livejournal.com/70696.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "BuuQu9hu",
+    "descendants": 187,
+    "time": 1480495183
   },
   {
     "rank": 7,
     "id": 13069841,
     "title": "Svelte \u2013 A UI framework that compiles into tiny standalone JavaScript modules",
     "url": "https://svelte.technology/blog/frameworks-without-the-framework/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 533,
+    "by": "bpierre",
+    "descendants": 226,
+    "time": 1480504598
   },
   {
     "rank": 8,
     "id": 13071012,
     "title": "More Than 1M Google Accounts Breached by Gooligan",
     "url": "http://blog.checkpoint.com/2016/11/30/1-million-google-accounts-breached-gooligan/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 450,
+    "by": "idoco",
+    "descendants": 168,
+    "time": 1480516473
   },
   {
     "rank": 9,
     "id": 13072155,
     "title": "Amazon LightSail: Simple Virtual Private Servers on AWS",
     "url": "https://amazonlightsail.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1142,
+    "by": "polmolea",
+    "descendants": 614,
+    "time": 1480524030
   },
   {
     "rank": 10,
     "id": 13072432,
     "title": "Developer Preview \u2013 EC2 Instances with Programmable Hardware",
     "url": "https://aws.amazon.com/blogs/aws/developer-preview-ec2-instances-f1-with-programmable-hardware/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 643,
+    "by": "jonny2112",
+    "descendants": 204,
+    "time": 1480525564
   }
 ]

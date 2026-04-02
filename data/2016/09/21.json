@@ -4,99 +4,99 @@
     "id": 12544881,
     "title": "Nootropics",
     "url": "https://www.gwern.net/Nootropics",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "raldu",
+    "descendants": 383,
+    "time": 1474422906
   },
   {
     "rank": 2,
     "id": 12545292,
     "title": "Say hello to Google Allo: a smarter messaging app",
     "url": "https://googleblog.blogspot.com/2016/09/google-allo-smarter-messaging-app.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "mikeevans",
+    "descendants": 519,
+    "time": 1474430562
   },
   {
     "rank": 3,
     "id": 12545878,
     "title": "Linux can\u2019t be installed on a recent Lenovo laptop",
     "url": "https://www.reddit.com/r/linux/comments/53ri0m/warning_microsoft_signature_pc_program_now/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1054,
+    "by": "makaronin",
+    "descendants": 467,
+    "time": 1474439486
   },
   {
     "rank": 4,
     "id": 12545966,
     "title": "Beware: Windows 10 Signature Edition Blocks Installing Linux",
     "url": "http://fossboss.com/2016/09/21/windows-10-signature-edition-blocks-installing-linux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "mhsabbagh",
+    "descendants": 1,
+    "time": 1474440928
   },
   {
     "rank": 5,
     "id": 12546542,
     "title": "Homebrew 1.0.0",
     "url": "http://brew.sh/2016/09/02/homebrew-1.0.0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 904,
+    "by": "robin_reala",
+    "descendants": 246,
+    "time": 1474448498
   },
   {
     "rank": 6,
     "id": 12547181,
     "title": "Police Accidentally Record Themselves Conspiring to Fabricate Charges",
     "url": "https://www.aclu.org/blog/free-future/police-accidentally-record-themselves-conspiring-fabricate-criminal-charges-against",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "_0nac",
+    "descendants": 155,
+    "time": 1474457589
   },
   {
     "rank": 7,
     "id": 12547353,
     "title": "Why Finnish babies sleep in cardboard boxes (2013)",
     "url": "http://www.bbc.com/news/magazine-22751415",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "stevekemp",
+    "descendants": 262,
+    "time": 1474459249
   },
   {
     "rank": 8,
     "id": 12547817,
     "title": "I Used to Be a Human Being",
     "url": "http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html?mid=twitter-share-selectall",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "oscarwao",
+    "descendants": 220,
+    "time": 1474463571
   },
   {
     "rank": 9,
     "id": 12548175,
     "title": "Researchers quantum teleport particle of light six kilometres",
     "url": "http://sciencebulletin.org/archives/5445.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "upen",
+    "descendants": 206,
+    "time": 1474466286
   },
   {
     "rank": 10,
     "id": 12550528,
     "title": "Microsoft aren't forcing Lenovo to block free operating systems",
     "url": "http://mjg59.dreamwidth.org/44694.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "robin_reala",
+    "descendants": 235,
+    "time": 1474480225
   }
 ]

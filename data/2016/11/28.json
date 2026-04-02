@@ -4,99 +4,99 @@
     "id": 13051137,
     "title": "Learning to Read X86 Assembly Language",
     "url": "http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 591,
+    "by": "adamnemecek",
+    "descendants": 234,
+    "time": 1480276950
   },
   {
     "rank": 2,
     "id": 13052013,
     "title": "Stallman\u2019s Law",
     "url": "https://www.gnu.org/philosophy/stallmans-law.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "BuuQu9hu",
+    "descendants": 143,
+    "time": 1480286070
   },
   {
     "rank": 3,
     "id": 13052487,
     "title": "LaiNES \u2013 Cycle-accurate NES emulator in around 1000 lines of code",
     "url": "https://github.com/AndreaOrru/LaiNES",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "mmphosis",
+    "descendants": 68,
+    "time": 1480291956
   },
   {
     "rank": 4,
     "id": 13053137,
     "title": "Show HN: Antd \u2013 A set of high-quality React components",
     "url": "https://ant.design/docs/react/introduce",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "_yesmeck",
+    "descendants": 104,
+    "time": 1480302255
   },
   {
     "rank": 5,
     "id": 13053210,
     "title": "Theorem of the Day",
     "url": "http://www.theoremoftheday.org/Theorems.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "kercker",
+    "descendants": 30,
+    "time": 1480303570
   },
   {
     "rank": 6,
     "id": 13054705,
     "title": "Modern C [pdf]",
     "url": "http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "brakmic",
+    "descendants": 385,
+    "time": 1480331295
   },
   {
     "rank": 7,
     "id": 13056254,
     "title": "CyberChef \u2013 A Cyber Swiss Army Knife",
     "url": "https://gchq.github.io/CyberChef/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 785,
+    "by": "robin_reala",
+    "descendants": 139,
+    "time": 1480349185
   },
   {
     "rank": 8,
     "id": 13056678,
     "title": "Show HN: React Native Express \u2013 Learn React Native Through Interactive Examples",
     "url": "http://www.reactnativeexpress.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "dabbott",
+    "descendants": 53,
+    "time": 1480352360
   },
   {
     "rank": 9,
     "id": 13056997,
     "title": "Neutralize ME Firmware on SandyBridge and IvyBridge Platforms",
     "url": "http://hardenedlinux.org/firmware/2016/11/17/neutralize_ME_firmware_on_sandybridge_and_ivybridge.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "madars",
+    "descendants": 75,
+    "time": 1480354978
   },
   {
     "rank": 10,
     "id": 13058044,
     "title": "We turned $140k on Kickstarter into $40k in debt and broke even",
     "url": "https://medium.com/@JohnTeasdale/how-we-turned-140k-on-kickstarter-into-40k-in-debt-and-how-we-broke-even-1f86d80fe50f#.71a4sbp8i",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 757,
+    "by": "CaliforniaKarl",
+    "descendants": 261,
+    "time": 1480364291
   }
 ]

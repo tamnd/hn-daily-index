@@ -4,99 +4,99 @@
     "id": 12863565,
     "title": "Browsers, not apps, are the future of mobile",
     "url": "https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "hackyio",
+    "descendants": 185,
+    "time": 1478178101
   },
   {
     "rank": 2,
     "id": 12864389,
     "title": "Securing PostgreSQL [pdf]",
     "url": "http://thebuild.com/presentations/pgconfeu-2016-securing-postgresql.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "okket",
+    "descendants": 71,
+    "time": 1478184646
   },
   {
     "rank": 3,
     "id": 12868946,
     "title": "StackOverflow Importer \u2013 Import code from Stack Overflow as Python modules",
     "url": "https://github.com/drathier/stack-overflow-import",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "drathier",
+    "descendants": 84,
+    "time": 1478214818
   },
   {
     "rank": 4,
     "id": 12869443,
     "title": "Regular meditation may be more beneficial than vacation",
     "url": "http://www.health.harvard.edu/blog/relaxation-benefits-meditation-stronger-relaxation-benefits-taking-vacation-2016102710532",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "lxm",
+    "descendants": 206,
+    "time": 1478219759
   },
   {
     "rank": 5,
     "id": 12869601,
     "title": "The People's Code",
     "url": "https://code.gov/#/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 569,
+    "by": "rmason",
+    "descendants": 192,
+    "time": 1478221704
   },
   {
     "rank": 6,
     "id": 12871234,
     "title": "Advanced Data Structures",
     "url": "http://courses.csail.mit.edu/6.851/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1276,
+    "by": "ingve",
+    "descendants": 141,
+    "time": 1478251043
   },
   {
     "rank": 7,
     "id": 12871403,
     "title": "H.264 is Magic",
     "url": "https://sidbala.com/h-264-is-magic/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1228,
+    "by": "LASR",
+    "descendants": 219,
+    "time": 1478253657
   },
   {
     "rank": 8,
     "id": 12872304,
     "title": "Docker in Production: A History of Failure",
     "url": "https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 575,
+    "by": "user5994461",
+    "descendants": 287,
+    "time": 1478265787
   },
   {
     "rank": 9,
     "id": 12874280,
     "title": "Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded",
     "url": "http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "applecore",
+    "descendants": 251,
+    "time": 1478280329
   },
   {
     "rank": 10,
     "id": 12874798,
     "title": "DeepMind and Blizzard to release StarCraft II as an AI research environment",
     "url": "https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 917,
+    "by": "madspindel",
+    "descendants": 329,
+    "time": 1478284373
   }
 ]

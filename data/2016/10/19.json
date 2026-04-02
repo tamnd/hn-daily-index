@@ -4,99 +4,99 @@
     "id": 12733445,
     "title": "The Linux Foundation Unites the JavaScript Community for Open Web Development",
     "url": "https://js.foundation/announcements/2016/10/17/Linux-Foundation-Unites-JavaScript-Community-Open-Web-Development/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "fagnerbrack",
+    "descendants": 129,
+    "time": 1476789683
   },
   {
     "rank": 2,
     "id": 12737328,
     "title": "Node v6.9.0 (LTS)",
     "url": "https://nodejs.org/en/blog/release/v6.9.0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "dabber",
+    "descendants": 90,
+    "time": 1476815599
   },
   {
     "rank": 3,
     "id": 12738077,
     "title": "Air India Taking Advantage of Tailwinds",
     "url": "https://blog.flightradar24.com/blog/air-india-taking-advantage-of-tailwinds/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "obi1kenobi",
+    "descendants": 130,
+    "time": 1476820526
   },
   {
     "rank": 4,
     "id": 12739015,
     "title": "Introducing Rust Language Server",
     "url": "https://internals.rust-lang.org/t/introducing-rust-language-server-source-release/4209",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "JoshTriplett",
+    "descendants": 104,
+    "time": 1476827165
   },
   {
     "rank": 5,
     "id": 12740456,
     "title": "An External Replication on the Effects of Test-driven Development [pdf]",
     "url": "http://people.brunel.ac.uk/~csstmms/FucciEtAl_ESEM2016.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "joatmon-snoo",
+    "descendants": 323,
+    "time": 1476842976
   },
   {
     "rank": 6,
     "id": 12742395,
     "title": "Show HN: Get encrypted data from people that don\u2019t know how to encrypt",
     "url": "https://github.com/whitesmith/hawkpost",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "chomponthis",
+    "descendants": 93,
+    "time": 1476870158
   },
   {
     "rank": 7,
     "id": 12742853,
     "title": "The Anti-Helicopter Parent\u2019s Plea: Let Kids Play",
     "url": "http://www.nytimes.com/2016/10/23/magazine/the-anti-helicopter-parents-plea-let-kids-play.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "mhb",
+    "descendants": 391,
+    "time": 1476876653
   },
   {
     "rank": 8,
     "id": 12743316,
     "title": "More than 90% of \u2018genuine\u2019 Apple chargers and cables sold on Amazon are fake",
     "url": "https://9to5mac.com/2016/10/19/amazon-fake-apple-chargers-cables/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "Lio",
+    "descendants": 250,
+    "time": 1476881929
   },
   {
     "rank": 9,
     "id": 12743628,
     "title": "How the Web Became Unreadable",
     "url": "https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.r3lqzaeqq",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "mirandak4",
+    "descendants": 344,
+    "time": 1476884294
   },
   {
     "rank": 10,
     "id": 12746110,
     "title": "LTE Has Slowed by 50% in the US This Year",
     "url": "http://twinprime.com/lte-has-slowed-by-50-in-the-us/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "wkoszek",
+    "descendants": 159,
+    "time": 1476900127
   }
 ]

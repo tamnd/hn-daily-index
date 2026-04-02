@@ -4,99 +4,99 @@
     "id": 12945221,
     "title": "Trigger Happy: An opensource clone of IFTTT",
     "url": "https://trigger-happy.eu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "vmorgulis",
+    "descendants": 79,
+    "time": 1479066301
   },
   {
     "rank": 2,
     "id": 12945386,
     "title": "If Prisoners Ran Prisons",
     "url": "https://www.themarshallproject.org/2016/10/23/if-prisoners-ran-prisons#.xm20Sygvd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "iamjeff",
+    "descendants": 204,
+    "time": 1479068087
   },
   {
     "rank": 3,
     "id": 12946976,
     "title": "Poor people pay for parking even when they can\u2019t afford a car",
     "url": "https://www.washingtonpost.com/news/wonk/wp/2016/06/15/why-free-parking-is-a-big-problem/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "gwintrob",
+    "descendants": 435,
+    "time": 1479088394
   },
   {
     "rank": 4,
     "id": 12947581,
     "title": "One year later",
     "url": "https://eev.ee/blog/2016/06/12/one-year-later/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "exolymph",
+    "descendants": 61,
+    "time": 1479097808
   },
   {
     "rank": 5,
     "id": 12948043,
     "title": "Visual Studio for Mac",
     "url": "https://msdn.microsoft.com/en-us/magazine/mt790182.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 664,
+    "by": "runesoerensen",
+    "descendants": 413,
+    "time": 1479107485
   },
   {
     "rank": 6,
     "id": 12949114,
     "title": "\u201cI have toyota corola\u201d",
     "url": "https://daniel.haxx.se/blog/2016/11/14/i-have-toyota-corola/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1155,
+    "by": "robin_reala",
+    "descendants": 350,
+    "time": 1479123499
   },
   {
     "rank": 7,
     "id": 12949154,
     "title": "Kill the newsletter: Convert newsletters into RSS feeds",
     "url": "https://www.kill-the-newsletter.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "ProfDreamer",
+    "descendants": 109,
+    "time": 1479123942
   },
   {
     "rank": 8,
     "id": 12950566,
     "title": "Maine Ranked Choice Voting Initiative Approved",
     "url": "https://ballotpedia.org/Maine_Ranked_Choice_Voting_Initiative,_Question_5_(2016)",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 499,
+    "by": "coryfklein",
+    "descendants": 316,
+    "time": 1479138845
   },
   {
     "rank": 9,
     "id": 12951503,
     "title": "Compromising a Linux desktop using 6502 opcodes on the NES",
     "url": "http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-compromising-linux-desktop.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "scarybeast",
+    "descendants": 95,
+    "time": 1479144634
   },
   {
     "rank": 10,
     "id": 12952522,
     "title": "Google\u2019s top news link for \u2018final election results\u2019 is a fake news site",
     "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/11/14/googles-top-news-link-for-final-election-results-goes-to-a-fake-news-site-with-false-numbers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "pessimizer",
+    "descendants": 263,
+    "time": 1479151875
   }
 ]

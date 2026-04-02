@@ -4,99 +4,99 @@
     "id": 12372569,
     "title": "Fluid Simulation (with WebGL demo)",
     "url": "http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "robertelder",
+    "descendants": 27,
+    "time": 1472309386
   },
   {
     "rank": 2,
     "id": 12374235,
     "title": "In rich and poor countries, researchers turn to Sci-Hub",
     "url": "http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "guiambros",
+    "descendants": 134,
+    "time": 1472332699
   },
   {
     "rank": 3,
     "id": 12374973,
     "title": "A Russian Family Was Isolated for 40 Years, Unaware of WWII (2013)",
     "url": "http://www.smithsonianmag.com/history/for-40-years-this-russian-family-was-cut-off-from-all-human-contact-unaware-of-world-war-ii-7354256/?no-ist",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "betolink",
+    "descendants": 83,
+    "time": 1472349389
   },
   {
     "rank": 4,
     "id": 12375015,
     "title": "GitHub Code Search \u2013 Programmers' Goldmine",
     "url": "http://jakubdziworski.github.io/tools/2016/08/26/github-code-advances-search-programmers-goldmine.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "knivek",
+    "descendants": 56,
+    "time": 1472350293
   },
   {
     "rank": 5,
     "id": 12375046,
     "title": "The Price of Solar Is Declining to Unprecedented Lows",
     "url": "http://blogs.scientificamerican.com/plugged-in/the-price-of-solar-is-declining-to-unprecedented-lows/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "tedsanders",
+    "descendants": 164,
+    "time": 1472351236
   },
   {
     "rank": 6,
     "id": 12375587,
     "title": "How I built a Slack bot to help me find an apartment in San Francisco",
     "url": "https://www.dataquest.io/blog/apartment-finding-slackbot/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "rmason",
+    "descendants": 88,
+    "time": 1472366837
   },
   {
     "rank": 7,
     "id": 12376040,
     "title": "WhatsApp \u2013 Opting out of new terms doesn\u2019t stop Facebook taking information",
     "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/whatsapp-data-sharing-with-facebook-opting-out-of-new-terms-doesnt-actually-stop-facebook-taking-a7213221.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "breitling",
+    "descendants": 99,
+    "time": 1472380963
   },
   {
     "rank": 8,
     "id": 12376886,
     "title": "The French Number \u2013 Connect to a random French person and talk about anything",
     "url": "http://www.thefrenchnumber.fr",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "davinov",
+    "descendants": 141,
+    "time": 1472398203
   },
   {
     "rank": 9,
     "id": 12377385,
     "title": "Why bad scientific code beats code following \u201cbest practices\u201d (2014)",
     "url": "http://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "ingve",
+    "descendants": 261,
+    "time": 1472405019
   },
   {
     "rank": 10,
     "id": 12377457,
     "title": "Docker not ready for primetime",
     "url": "http://blog.goodstuff.im/docker_not_prime_time",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "erlend_sh",
+    "descendants": 281,
+    "time": 1472405944
   }
 ]

@@ -4,99 +4,99 @@
     "id": 12845855,
     "title": "The Mirai Botnet Is Proof the Security Industry Is Broken",
     "url": "https://blog.appcanary.com/2016/mirai-botnet-security-broken.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "phillmv",
+    "descendants": 256,
+    "time": 1478009637
   },
   {
     "rank": 2,
     "id": 12849757,
     "title": "\u201cDesign Patterns\u201d Aren't (2002)",
     "url": "http://perl.plover.com/yak/design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "Tomte",
+    "descendants": 122,
+    "time": 1478032139
   },
   {
     "rank": 3,
     "id": 12850918,
     "title": "Async/await support in Firefox",
     "url": "https://blog.nightly.mozilla.org/2016/11/01/async-await-support-in-firefox/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "dallamaneni",
+    "descendants": 115,
+    "time": 1478041311
   },
   {
     "rank": 4,
     "id": 12851987,
     "title": "Ask HN: Who is firing?",
     "url": "https://news.ycombinator.com/item?id=12851987",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1087,
+    "by": "wellworld",
+    "descendants": 432,
+    "time": 1478056207
   },
   {
     "rank": 5,
     "id": 12852085,
     "title": "Microsoft Concept Graph",
     "url": "https://concept.research.microsoft.com/Home/Introduction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 481,
+    "by": "uyoakaoma",
+    "descendants": 100,
+    "time": 1478057921
   },
   {
     "rank": 6,
     "id": 12853531,
     "title": "Switching from macOS: The Basics",
     "url": "http://blog.elementary.io/post/152626170946/switching-from-macos-the-basics",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "SunShiranui",
+    "descendants": 593,
+    "time": 1478084193
   },
   {
     "rank": 7,
     "id": 12854877,
     "title": "Pornhub Bypasses Ad Blockers with WebSockets",
     "url": "http://blog.bugreplay.com/post/152579164219/pornhubdodgesadblockersusingwebsockets?utm_source=reddit-programming&utm_medium=post",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 873,
+    "by": "mirceasoaica",
+    "descendants": 575,
+    "time": 1478095885
   },
   {
     "rank": 8,
     "id": 12854895,
     "title": "Darling \u2013 MacOS translation layer for Linux",
     "url": "https://www.darlinghq.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 630,
+    "by": "mikemoka",
+    "descendants": 265,
+    "time": 1478095974
   },
   {
     "rank": 9,
     "id": 12858326,
     "title": "Plasma Mobile \u2013 Turns your phone into a fully open hacking device",
     "url": "https://plasma-mobile.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 615,
+    "by": "mintplant",
+    "descendants": 268,
+    "time": 1478114280
   },
   {
     "rank": 10,
     "id": 12859347,
     "title": "Visual Studio Code 1.7",
     "url": "https://code.visualstudio.com/updates/v1_7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "mpalme",
+    "descendants": 169,
+    "time": 1478121286
   }
 ]
