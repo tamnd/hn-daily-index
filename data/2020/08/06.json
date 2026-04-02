@@ -4,99 +4,99 @@
     "id": 24066398,
     "title": "Satellite images of the Beirut explosion site \u2013 before and after",
     "url": "https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=59321100-d740-11ea-bf88-a15b6c7adf9a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "huhtenberg",
+    "descendants": 218,
+    "time": 1596667209
   },
   {
     "rank": 2,
     "id": 24066748,
     "title": "The creeping scourge of tooling config files in project root directories",
     "url": "https://github.com/nodejs/tooling/issues/79",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "flaque",
+    "descendants": 199,
+    "time": 1596670261
   },
   {
     "rank": 3,
     "id": 24066832,
     "title": "Frances Allen has died",
     "url": "https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 892,
+    "by": "ntumlin",
+    "descendants": 101,
+    "time": 1596671187
   },
   {
     "rank": 4,
     "id": 24069459,
     "title": "Usbkill \u2013 anti-forensic tool to halt computer when new USB device is connected",
     "url": "https://github.com/hephaest0s/usbkill",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "berkas1",
+    "descendants": 188,
+    "time": 1596706798
   },
   {
     "rank": 5,
     "id": 24069530,
     "title": "Simdjson: Parsing gigabytes of JSON per second",
     "url": "https://github.com/simdjson/simdjson",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "lorenzfx",
+    "descendants": 151,
+    "time": 1596707591
   },
   {
     "rank": 6,
     "id": 24070385,
     "title": "Scientists rename human genes to stop MS Excel from misreading them as dates",
     "url": "https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 621,
+    "by": "virde",
+    "descendants": 506,
+    "time": 1596717921
   },
   {
     "rank": 7,
     "id": 24071005,
     "title": "Germany plans to dim lights at night to save insects",
     "url": "https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1194,
+    "by": "Shivetya",
+    "descendants": 469,
+    "time": 1596722944
   },
   {
     "rank": 8,
     "id": 24071590,
     "title": "Google discontinues the Pixel 4, nine months after release",
     "url": "https://techcrunch.com/2020/08/06/google-discontinues-the-pixel-4-nine-months-after-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "lxm",
+    "descendants": 428,
+    "time": 1596726542
   },
   {
     "rank": 9,
     "id": 24072970,
     "title": "Y Combinator Startup Library 2.0",
     "url": "https://www.ycombinator.com/library",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 635,
+    "by": "tosh",
+    "descendants": 65,
+    "time": 1596733613
   },
   {
     "rank": 10,
     "id": 24074588,
     "title": "20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions",
     "url": "https://twitter.com/deletescape/status/1291405688204402689",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1062,
+    "by": "phoe-krk",
+    "descendants": 444,
+    "time": 1596742464
   }
 ]

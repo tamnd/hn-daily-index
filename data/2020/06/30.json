@@ -4,99 +4,99 @@
     "id": 23676350,
     "title": "Keep Your Stuff, for Life",
     "url": "https://perkeep.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "vincent_s",
+    "descendants": 109,
+    "time": 1593428379
   },
   {
     "rank": 2,
     "id": 23676862,
     "title": "Klutz Press: books built for learning stuff",
     "url": "https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "whatrocks",
+    "descendants": 101,
+    "time": 1593433093
   },
   {
     "rank": 3,
     "id": 23679360,
     "title": "The KDE community is moving to GitLab",
     "url": "https://about.gitlab.com/blog/2020/06/29/welcome-kde/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "caution",
+    "descendants": 159,
+    "time": 1593449868
   },
   {
     "rank": 4,
     "id": 23682716,
     "title": "Forget Google, time to end the Visa-MasterCard duopoly",
     "url": "https://medium.com/@CM30/the-unknown-duopoly-that-needs-breaking-up-more-than-google-f7b2c8876ea7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1100,
+    "by": "CM30",
+    "descendants": 523,
+    "time": 1593463364
   },
   {
     "rank": 5,
     "id": 23688798,
     "title": "Hyperapp \u2013 A tiny framework for building web interfaces",
     "url": "https://hyperapp.dev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "Al0neStar",
+    "descendants": 188,
+    "time": 1593514572
   },
   {
     "rank": 6,
     "id": 23689364,
     "title": "Disclosure: Another macOS privacy protections bypass",
     "url": "https://lapcatsoftware.com/articles/disclosure2.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "sillysaurusx",
+    "descendants": 106,
+    "time": 1593520216
   },
   {
     "rank": 7,
     "id": 23689549,
     "title": "The End of the Redis Adventure",
     "url": "http://antirez.com/news/133",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2282,
+    "by": "kristoff_it",
+    "descendants": 294,
+    "time": 1593522087
   },
   {
     "rank": 8,
     "id": 23689718,
     "title": "Firefox 78",
     "url": "https://www.mozilla.org/en-US/firefox/78.0/releasenotes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "agurk",
+    "descendants": 260,
+    "time": 1593523506
   },
   {
     "rank": 9,
     "id": 23691297,
     "title": "EFF and heavyweight legal team will defend Internet Archive against publishers",
     "url": "https://torrentfreak.com/eff-heavyweight-legal-team-will-defend-internet-archives-digital-library-against-publishers-200626/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 600,
+    "by": "toomuchtodo",
+    "descendants": 263,
+    "time": 1593532332
   },
   {
     "rank": 10,
     "id": 23693650,
     "title": "Git Repo of Police Brutality During the 2020 George Floyd Protests",
     "url": "https://github.com/2020PB/police-brutality#hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "Glench",
+    "descendants": 229,
+    "time": 1593544269
   }
 ]

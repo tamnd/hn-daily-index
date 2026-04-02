@@ -4,99 +4,99 @@
     "id": 23958599,
     "title": "Small mail server best current practices",
     "url": "https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "ebcase",
+    "descendants": 168,
+    "time": 1595784660
   },
   {
     "rank": 2,
     "id": 23960387,
     "title": "Cracking down on research fraud",
     "url": "https://undark.org/2020/07/23/cracking-down-on-research-fraud",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "apsec112",
+    "descendants": 201,
+    "time": 1595799483
   },
   {
     "rank": 3,
     "id": 23961881,
     "title": "ACCC alleges Google misled consumers about expanded use of personal data",
     "url": "https://www.accc.gov.au/media-release/accc-alleges-google-misled-consumers-about-expanded-use-of-personal-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "Khaine",
+    "descendants": 79,
+    "time": 1595818713
   },
   {
     "rank": 4,
     "id": 23962961,
     "title": "Amazon gets priority while mail gets delayed, say US letter carriers",
     "url": "https://www.pressherald.com/2020/07/21/first-class-and-priority-mail-delayed-in-favor-of-amazon-parcels-according-to-portland-letter-carriers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 488,
+    "by": "80mph",
+    "descendants": 426,
+    "time": 1595835369
   },
   {
     "rank": 5,
     "id": 23963202,
     "title": "How to pay your rent with your open source project",
     "url": "https://plausible.io/blog/open-source-funding",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "markosaric",
+    "descendants": 168,
+    "time": 1595838464
   },
   {
     "rank": 6,
     "id": 23964539,
     "title": "How popular media portrays the employability of older software developers",
     "url": "https://arxiv.org/abs/2004.05847",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "sbaltes",
+    "descendants": 393,
+    "time": 1595853947
   },
   {
     "rank": 7,
     "id": 23964590,
     "title": "Google to keep employees home until summer 2021",
     "url": "https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "tysone",
+    "descendants": 376,
+    "time": 1595854532
   },
   {
     "rank": 8,
     "id": 23965209,
     "title": "Apache Arrow 1.0",
     "url": "https://arrow.apache.org/blog/2020/07/24/1.0.0-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "dragonsh",
+    "descendants": 132,
+    "time": 1595858854
   },
   {
     "rank": 9,
     "id": 23965787,
     "title": "Show HN: Neural text to speech with dozens of celebrity voices",
     "url": "http://vocodes.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "echelon",
+    "descendants": 165,
+    "time": 1595862369
   },
   {
     "rank": 10,
     "id": 23966152,
     "title": "The code I\u2019m still ashamed of (2016)",
     "url": "https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "zdw",
+    "descendants": 172,
+    "time": 1595864508
   }
 ]

@@ -4,99 +4,99 @@
     "id": 23947398,
     "title": "Digikam 7.0: Open-source photo management",
     "url": "https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "ekianjo",
+    "descendants": 130,
+    "time": 1595661241
   },
   {
     "rank": 2,
     "id": 23947818,
     "title": "Ask HN: What are some good resources to learn business administration/finance?",
     "url": "https://news.ycombinator.com/item?id=23947818",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "dattl",
+    "descendants": 77,
+    "time": 1595668751
   },
   {
     "rank": 3,
     "id": 23952024,
     "title": "Doing stupid stuff with GitHub Actions",
     "url": "https://devopsdirective.com/posts/2020/07/stupid-github-actions/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "spalas",
+    "descendants": 45,
+    "time": 1595707835
   },
   {
     "rank": 4,
     "id": 23953817,
     "title": "OpenJDK Migrates to GitHub",
     "url": "https://www.infoq.com/news/2020/07/openjdk-github-migration/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "dcgudeman",
+    "descendants": 133,
+    "time": 1595728600
   },
   {
     "rank": 5,
     "id": 23953944,
     "title": "Public asked to report receipt of any unsolicited packages of seeds",
     "url": "http://www.vdacs.virginia.gov//press-releases-200724-seeds.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "gscott",
+    "descendants": 267,
+    "time": 1595730603
   },
   {
     "rank": 6,
     "id": 23954846,
     "title": "No more religious exemptions: Montreal is taxing churches (2017)",
     "url": "https://montreal.ctvnews.ca/mobile/no-more-religious-exemptions-montreal-is-taxing-churches-1.3415164",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "seesawtron",
+    "descendants": 304,
+    "time": 1595744029
   },
   {
     "rank": 7,
     "id": 23955418,
     "title": "Google reportedly peeks into Android data to gain edge over third-party apps",
     "url": "https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "pjmlp",
+    "descendants": 128,
+    "time": 1595751946
   },
   {
     "rank": 8,
     "id": 23956640,
     "title": "Facebook has blocked Dreamwidth",
     "url": "https://andrewducker.dreamwidth.org/3861716.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "AndrewDucker",
+    "descendants": 177,
+    "time": 1595766924
   },
   {
     "rank": 9,
     "id": 23957455,
     "title": "Headphones are collecting too much personal data (2019)",
     "url": "https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "teddyh",
+    "descendants": 411,
+    "time": 1595775086
   },
   {
     "rank": 10,
     "id": 23957510,
     "title": "New \u2018Meow\u2019 attack has deleted almost 4k unsecured databases",
     "url": "https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 841,
+    "by": "based2",
+    "descendants": 519,
+    "time": 1595775536
   }
 ]

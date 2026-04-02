@@ -4,99 +4,99 @@
     "id": 23771131,
     "title": "Show HN: Runnaroo \u2013 A new search engine",
     "url": "https://www.runnaroo.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "chris_f",
+    "descendants": 196,
+    "time": 1594223855
   },
   {
     "rank": 2,
     "id": 23771421,
     "title": "Flutter for Linux",
     "url": "https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "CSharpRon",
+    "descendants": 215,
+    "time": 1594225570
   },
   {
     "rank": 3,
     "id": 23774394,
     "title": "Reddit's website uses DRM for fingerprinting",
     "url": "https://smitop.com/post/reddit-whiteops/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1099,
+    "by": "smitop",
+    "descendants": 540,
+    "time": 1594243401
   },
   {
     "rank": 4,
     "id": 23775404,
     "title": "We can't send email more than 500 miles (2002)",
     "url": "http://web.mit.edu/jemorris/humor/500-miles",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1034,
+    "by": "alanpage",
+    "descendants": 135,
+    "time": 1594250965
   },
   {
     "rank": 5,
     "id": 23776514,
     "title": "Moving from TypeScript to Rust / WebAssembly",
     "url": "https://nicolodavis.com/blog/typescript-to-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "nicolodavis",
+    "descendants": 405,
+    "time": 1594263138
   },
   {
     "rank": 6,
     "id": 23778878,
     "title": "Unit Testing Is Overrated",
     "url": "https://tyrrrz.me/blog/unit-testing-is-overrated",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 501,
+    "by": "ingve",
+    "descendants": 387,
+    "time": 1594292800
   },
   {
     "rank": 7,
     "id": 23779420,
     "title": "Portland approves 10% cap on fees that food delivery apps can charge restaurants",
     "url": "https://www.oregonlive.com/portland/2020/07/portland-approves-10-cap-on-fees-that-food-delivery-apps-can-charge-restaurants.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 502,
+    "by": "Shivetya",
+    "descendants": 551,
+    "time": 1594297592
   },
   {
     "rank": 8,
     "id": 23780861,
     "title": "New German law would force ISPs to allow secret service to install trojans",
     "url": "https://www.privateinternetaccess.com/blog/new-german-law-would-force-isps-to-allow-secret-service-to-install-trojans-on-user-devices/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 731,
+    "by": "corty",
+    "descendants": 236,
+    "time": 1594306077
   },
   {
     "rank": 9,
     "id": 23781954,
     "title": "U.S. Supreme Court deems half of Oklahoma a Native American reservation",
     "url": "https://www.reuters.com/article/usa-court-oklahoma/us-supreme-court-deems-half-of-oklahoma-a-native-american-reservation-idUSKBN24A2BE",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1489,
+    "by": "threatofrain",
+    "descendants": 1225,
+    "time": 1594312360
   },
   {
     "rank": 10,
     "id": 23783871,
     "title": "Chicago Police Department shuts down its arrest API",
     "url": "https://www.chicagoreporter.com/chicago-police-department-arrest-api-shutdown-is-its-own-kind-of-cover-up/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "blinding-streak",
+    "descendants": 249,
+    "time": 1594321828
   }
 ]
