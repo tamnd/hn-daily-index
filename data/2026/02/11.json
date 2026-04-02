@@ -4,99 +4,99 @@
     "id": 46958231,
     "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
     "url": "https://code.idtech.space/fn/hl2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "klaussilveira",
+    "descendants": 89,
+    "time": 1770722516
   },
   {
     "rank": 2,
     "id": 46958345,
     "title": "The Feynman Lectures on Physics (1961-1964)",
     "url": "https://www.feynmanlectures.caltech.edu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "rramadass",
+    "descendants": 141,
+    "time": 1770723374
   },
   {
     "rank": 3,
     "id": 46961345,
     "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
     "url": "https://entire.io/blog/hello-entire-world/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 611,
+    "by": "meetpateltech",
+    "descendants": 577,
+    "time": 1770738287
   },
   {
     "rank": 4,
     "id": 46967772,
     "title": "The Day the Telnet Died",
     "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 499,
+    "by": "pjf",
+    "descendants": 385,
+    "time": 1770762040
   },
   {
     "rank": 5,
     "id": 46971516,
     "title": "Windows Notepad App Remote Code Execution Vulnerability",
     "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 804,
+    "by": "riffraff",
+    "descendants": 515,
+    "time": 1770790533
   },
   {
     "rank": 6,
     "id": 46973083,
     "title": "Chrome extensions spying on users' browsing data",
     "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "qcontinuum1",
+    "descendants": 205,
+    "time": 1770804056
   },
   {
     "rank": 7,
     "id": 46976911,
     "title": "Fluorite \u2013 A console-grade game engine fully integrated with Flutter",
     "url": "https://fluorite.game/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 536,
+    "by": "bsimpson",
+    "descendants": 304,
+    "time": 1770826870
   },
   {
     "rank": 8,
     "id": 46977210,
     "title": "GLM-5: From Vibe Coding to Agentic Engineering",
     "url": "https://z.ai/blog/glm-5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "meetpateltech",
+    "descendants": 8,
+    "time": 1770828093
   },
   {
     "rank": 9,
     "id": 46978710,
     "title": "Claude Code is being dumbed down?",
     "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1085,
+    "by": "WXLCKNO",
+    "descendants": 701,
+    "time": 1770834219
   },
   {
     "rank": 10,
     "id": 46978966,
     "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
     "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 676,
+    "by": "jedberg",
+    "descendants": 394,
+    "time": 1770835381
   }
 ]

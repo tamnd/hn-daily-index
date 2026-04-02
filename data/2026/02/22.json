@@ -4,99 +4,99 @@
     "id": 47095597,
     "title": "Be wary of Bluesky",
     "url": "https://kevinak.se/blog/be-wary-of-bluesky",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "kevinak",
+    "descendants": 262,
+    "time": 1771630533
   },
   {
     "rank": 2,
     "id": 47096167,
     "title": "Gamedate \u2013 A site to revive dead multiplayer games",
     "url": "https://gamedate.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "msuniverse2026",
+    "descendants": 53,
+    "time": 1771634668
   },
   {
     "rank": 3,
     "id": 47096253,
     "title": "Claws are now a new layer on top of LLM agents",
     "url": "https://twitter.com/karpathy/status/2024987174077432126",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "Cyphase",
+    "descendants": 941,
+    "time": 1771635389
   },
   {
     "rank": 4,
     "id": 47100232,
     "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
     "url": "https://github.com/tnm/zclaw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "tosh",
+    "descendants": 148,
+    "time": 1771677472
   },
   {
     "rank": 5,
     "id": 47103661,
     "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
     "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "beAroundHere",
+    "descendants": 256,
+    "time": 1771700840
   },
   {
     "rank": 6,
     "id": 47104667,
     "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
     "url": "https://github.com/xaskasdf/ntransformer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "xaskasdf",
+    "descendants": 101,
+    "time": 1771707450
   },
   {
     "rank": 7,
     "id": 47104973,
     "title": "Why is Claude an Electron app?",
     "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "dbreunig",
+    "descendants": 458,
+    "time": 1771709293
   },
   {
     "rank": 8,
     "id": 47106686,
     "title": "How I use Claude Code: Separation of planning and execution",
     "url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 976,
+    "by": "vinhnx",
+    "descendants": 591,
+    "time": 1771720145
   },
   {
     "rank": 9,
     "id": 47110515,
     "title": "Attention Media \u2260 Social Networks",
     "url": "https://susam.net/attention-media-vs-social-networks.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 653,
+    "by": "susam",
+    "descendants": 270,
+    "time": 1771763806
   },
   {
     "rank": 10,
     "id": 47113728,
     "title": "I built Timeframe, our family e-paper dashboard",
     "url": "https://hawksley.org/2026/02/17/timeframe.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1616,
+    "by": "saeedesmaili",
+    "descendants": 369,
+    "time": 1771787551
   }
 ]

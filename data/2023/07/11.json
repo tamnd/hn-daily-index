@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 36666782,
+    "title": "We replaced Firecracker with QEMU",
+    "url": "https://hocus.dev/blog/qemu-vs-firecracker/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 36668732,
+    "title": "Apple VisionOS Simulator streaming wirelessly to Meta Quest headset",
+    "url": "https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 36668964,
+    "title": "Lima: A nice way to run Linux VMs on Mac",
+    "url": "https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 36673224,
+    "title": "Self-hosted photo and video backups directly from your mobile phone",
+    "url": "https://github.com/immich-app/immich",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 36673793,
+    "title": "Shortening the Let's Encrypt chain of trust",
+    "url": "https://letsencrypt.org/2023/07/10/cross-sign-expiration.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 36675934,
+    "title": "GPT-4 details leaked?",
+    "url": "https://threadreaderapp.com/thread/1678545170508267522.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 36676103,
+    "title": "Linux has achieved a 3% desktop market share",
+    "url": "https://linuxiac.com/linux-hits-3-percent-market-share/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 36678079,
+    "title": "SUSE is forking RHEL",
+    "url": "https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 36678375,
+    "title": "Privatisation has been a costly failure in Britain",
+    "url": "https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 36681814,
+    "title": "Displayport: A Better Video Interface",
+    "url": "https://hackaday.com/2023/07/11/displayport-a-better-video-interface/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

@@ -4,99 +4,99 @@
     "id": 47331811,
     "title": "Making WebAssembly a first-class language on the Web",
     "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 664,
+    "by": "mikece",
+    "descendants": 273,
+    "time": 1773204286
   },
   {
     "rank": 2,
     "id": 47334293,
     "title": "The MacBook Neo",
     "url": "https://daringfireball.net/2026/03/the_macbook_neo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 639,
+    "by": "etothet",
+    "descendants": 1052,
+    "time": 1773229044
   },
   {
     "rank": 3,
     "id": 47334694,
     "title": "BitNet: Inference framework for 1-bit LLMs",
     "url": "https://github.com/microsoft/BitNet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "redm",
+    "descendants": 168,
+    "time": 1773232035
   },
   {
     "rank": 4,
     "id": 47336476,
     "title": "Google closes deal to acquire Wiz",
     "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "aldarisbm",
+    "descendants": 192,
+    "time": 1773241100
   },
   {
     "rank": 5,
     "id": 47339164,
     "title": "I was interviewed by an AI bot for a job",
     "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "speckx",
+    "descendants": 464,
+    "time": 1773253050
   },
   {
     "rank": 6,
     "id": 47344548,
     "title": "Show HN: s@: decentralized social networking over static sites",
     "url": "http://satproto.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "remywang",
+    "descendants": 220,
+    "time": 1773274939
   },
   {
     "rank": 7,
     "id": 47347064,
     "title": "Returning to Rails in 2026",
     "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "stanislavb",
+    "descendants": 236,
+    "time": 1773295606
   },
   {
     "rank": 8,
     "id": 47350424,
     "title": "Malus \u2013 Clean Room as a Service",
     "url": "https://malus.sh",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1433,
+    "by": "microflash",
+    "descendants": 532,
+    "time": 1773322924
   },
   {
     "rank": 9,
     "id": 47352215,
     "title": "Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war",
     "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "speckx",
+    "descendants": 359,
+    "time": 1773329437
   },
   {
     "rank": 10,
     "id": 47357042,
     "title": "Shall I implement it? No",
     "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1563,
+    "by": "breton",
+    "descendants": 564,
+    "time": 1773349270
   }
 ]

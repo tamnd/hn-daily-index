@@ -4,99 +4,99 @@
     "id": 47493460,
     "title": "Autoresearch on an old research idea",
     "url": "https://ykumar.me/blog/eclip-autoresearch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "ykumards",
+    "descendants": 95,
+    "time": 1774291258
   },
   {
     "rank": 2,
     "id": 47495344,
     "title": "FCC updates covered list to include foreign-made consumer routers",
     "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "moonka",
+    "descendants": 430,
+    "time": 1774301282
   },
   {
     "rank": 3,
     "id": 47495527,
     "title": "Claude Code Cheat Sheet",
     "url": "https://cc.storyfox.cz",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 699,
+    "by": "phasE89",
+    "descendants": 189,
+    "time": 1774302260
   },
   {
     "rank": 4,
     "id": 47500335,
     "title": "Microsoft's \\\"fix\\\" for Windows 11",
     "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1046,
+    "by": "h0ek",
+    "descendants": 756,
+    "time": 1774344989
   },
   {
     "rank": 5,
     "id": 47501426,
     "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
     "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 937,
+    "by": "dot_treo",
+    "descendants": 501,
+    "time": 1774353989
   },
   {
     "rank": 6,
     "id": 47501729,
     "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package \u2013 credential stealer",
     "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 739,
+    "by": "theanonymousone",
+    "descendants": 1,
+    "time": 1774355780
   },
   {
     "rank": 7,
     "id": 47504060,
     "title": "Mystery jump in oil trading ahead of Trump post draws scrutiny",
     "url": "https://www.bbc.com/news/articles/cg547ljepvzo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "psim1",
+    "descendants": 392,
+    "time": 1774365952
   },
   {
     "rank": 8,
     "id": 47504112,
     "title": "Apple Business",
     "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 729,
+    "by": "soheilpro",
+    "descendants": 436,
+    "time": 1774366181
   },
   {
     "rank": 9,
     "id": 47507150,
     "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
     "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1306,
+    "by": "felineflock",
+    "descendants": 497,
+    "time": 1774377292
   },
   {
     "rank": 10,
     "id": 47508745,
     "title": "Is anybody else bored of talking about AI?",
     "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 746,
+    "by": "jakelsaunders94",
+    "descendants": 526,
+    "time": 1774384268
   }
 ]

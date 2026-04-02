@@ -4,99 +4,99 @@
     "id": 47573519,
     "title": "Do your own writing",
     "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 738,
+    "by": "karimf",
+    "descendants": 241,
+    "time": 1774874396
   },
   {
     "rank": 2,
     "id": 47575403,
     "title": "CodingFont: A game to help you pick a coding font",
     "url": "https://www.codingfont.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "nvahalik",
+    "descendants": 236,
+    "time": 1774883795
   },
   {
     "rank": 3,
     "id": 47582043,
     "title": "Artemis II is not safe to fly",
     "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 888,
+    "by": "idlewords",
+    "descendants": 615,
+    "time": 1774923830
   },
   {
     "rank": 4,
     "id": 47582220,
     "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
     "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1916,
+    "by": "mtud",
+    "descendants": 793,
+    "time": 1774925657
   },
   {
     "rank": 5,
     "id": 47582482,
     "title": "Ollama is now powered by MLX on Apple Silicon in preview",
     "url": "https://ollama.com/blog/mlx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 635,
+    "by": "redundantly",
+    "descendants": 353,
+    "time": 1774928445
   },
   {
     "rank": 6,
     "id": 47582984,
     "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
     "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "_____k",
+    "descendants": 363,
+    "time": 1774933884
   },
   {
     "rank": 7,
     "id": 47584540,
     "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
     "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2057,
+    "by": "treexs",
+    "descendants": 1010,
+    "time": 1774947640
   },
   {
     "rank": 8,
     "id": 47586778,
     "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
     "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1350,
+    "by": "alex000kim",
+    "descendants": 556,
+    "time": 1774962270
   },
   {
     "rank": 9,
     "id": 47587866,
     "title": "Microsoft: Copilot is for entertainment purposes only",
     "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "lpcvoid",
+    "descendants": 198,
+    "time": 1774967137
   },
   {
     "rank": 10,
     "id": 47587935,
     "title": "Oracle slashes 30k jobs",
     "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 907,
+    "by": "pje",
+    "descendants": 830,
+    "time": 1774967448
   }
 ]

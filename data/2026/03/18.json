@@ -4,99 +4,99 @@
     "id": 47372367,
     "title": "JPEG Compression",
     "url": "https://www.sophielwang.com/blog/jpeg",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "vinhnx",
+    "descendants": 125,
+    "time": 1773451908
   },
   {
     "rank": 2,
     "id": 47414032,
     "title": "Unsloth Studio",
     "url": "https://unsloth.ai/docs/new/studio",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "brainless",
+    "descendants": 82,
+    "time": 1773761192
   },
   {
     "rank": 3,
     "id": 47416486,
     "title": "Python 3.15's JIT is now back on track",
     "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "guidoiaquinti",
+    "descendants": 311,
+    "time": 1773772647
   },
   {
     "rank": 4,
     "id": 47416736,
     "title": "A Decade of Slug",
     "url": "https://terathon.com/blog/decade-slug.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 760,
+    "by": "mwkaufma",
+    "descendants": 80,
+    "time": 1773773990
   },
   {
     "rank": 5,
     "id": 47417804,
     "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
     "url": "https://github.com/gsd-build/get-shit-done",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "stefankuehnel",
+    "descendants": 255,
+    "time": 1773779019
   },
   {
     "rank": 6,
     "id": 47418295,
     "title": "Mistral AI Releases Forge",
     "url": "https://mistral.ai/news/forge",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 733,
+    "by": "pember",
+    "descendants": 194,
+    "time": 1773781466
   },
   {
     "rank": 7,
     "id": 47421442,
     "title": "Have a fucking website",
     "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 948,
+    "by": "asukachikaru",
+    "descendants": 525,
+    "time": 1773806022
   },
   {
     "rank": 8,
     "id": 47422942,
     "title": "Nightingale \u2013 open-source karaoke app that works with any song on your computer",
     "url": "https://nightingale.cafe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 592,
+    "by": "rzzzzru",
+    "descendants": 162,
+    "time": 1773821184
   },
   {
     "rank": 9,
     "id": 47423647,
     "title": "Rob Pike\u2019s Rules of Programming (1989)",
     "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1020,
+    "by": "vismit2000",
+    "descendants": 450,
+    "time": 1773827994
   },
   {
     "rank": 10,
     "id": 47426057,
     "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
     "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "hn_acker",
+    "descendants": 225,
+    "time": 1773843242
   }
 ]
