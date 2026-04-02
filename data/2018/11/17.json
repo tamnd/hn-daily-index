@@ -4,99 +4,99 @@
     "id": 18469672,
     "title": "Golua \u2013 A Lua 5.3 engine implemented in Go",
     "url": "https://github.com/Azure/golua",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "grey-area",
+    "descendants": 89,
+    "time": 1542385289
   },
   {
     "rank": 2,
     "id": 18471053,
     "title": "Across the West powerful firms are becoming even more powerful",
     "url": "https://www.economist.com/special-report/2018/11/15/across-the-west-powerful-firms-are-becoming-even-more-powerful",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "ilamont",
+    "descendants": 111,
+    "time": 1542394841
   },
   {
     "rank": 3,
     "id": 18472018,
     "title": "Elementary OS \u2013 Fast, open, privacy-respecting replacement for Windows and macOS",
     "url": "https://elementary.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 561,
+    "by": "diggernet",
+    "descendants": 421,
+    "time": 1542402880
   },
   {
     "rank": 4,
     "id": 18473697,
     "title": "Oil Demand for Cars Is Already Falling",
     "url": "https://www.bloomberg.com/opinion/articles/2018-11-16/oil-demand-for-cars-and-transportation-is-already-falling",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "jseliger",
+    "descendants": 301,
+    "time": 1542424164
   },
   {
     "rank": 5,
     "id": 18474249,
     "title": "Intel Management Engine JTAG Proof of Concept",
     "url": "https://github.com/ptresearch/IntelTXE-PoC",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "adulau",
+    "descendants": 75,
+    "time": 1542435029
   },
   {
     "rank": 6,
     "id": 18474312,
     "title": "Mozilla Fights On For Net Neutrality",
     "url": "https://blog.mozilla.org/blog/2018/11/16/mozilla-fights-on-for-net-neutrality/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "DiabloD3",
+    "descendants": 36,
+    "time": 1542436594
   },
   {
     "rank": 7,
     "id": 18474596,
     "title": "Paralleltext: Learn languages by reading",
     "url": "http://paralleltext.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "monort",
+    "descendants": 88,
+    "time": 1542442942
   },
   {
     "rank": 8,
     "id": 18474745,
     "title": "Vue 3.0 Updates [slides]",
     "url": "https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview?slide=id.p",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "mxstbr",
+    "descendants": 123,
+    "time": 1542446759
   },
   {
     "rank": 9,
     "id": 18475438,
     "title": "Story of a failed pentest",
     "url": "https://threader.app/thread/1063423110513418240",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1147,
+    "by": "mariedm",
+    "descendants": 167,
+    "time": 1542461276
   },
   {
     "rank": 10,
     "id": 18475518,
     "title": "Amazon Web Services in Plain English",
     "url": "https://www.expeditedssl.com/aws-in-plain-english",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "ccnafr",
+    "descendants": 105,
+    "time": 1542462815
   }
 ]
