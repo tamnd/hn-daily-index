@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 29147656,
+    "title": "The LZ4 introduced in PostgreSQL 14 provides faster compression",
+    "url": "https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 29150389,
+    "title": "Stop requiring specific technology experience for senior-plus engineers",
+    "url": "https://mikemcquaid.com/2021/11/08/stop-requiring-specific-technology-experience-for-senior-plus-engineers/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 29150759,
+    "title": "How I found a bug in Intel Skylake processors (2017)",
+    "url": "http://gallium.inria.fr/blog/intel-skylake-bug/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 29156574,
+    "title": "It\u2019s mostly a demand shock, not a supply shock, and it\u2019s everywhere",
+    "url": "https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 29157859,
+    "title": "My Emacs Lisp book is finished",
+    "url": "http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 29161585,
+    "title": "Show HN: I built a no-BS recipe search engine",
+    "url": "https://stovetop.app",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 29162689,
+    "title": "ProctorU is dystopian spyware",
+    "url": "https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 29163319,
+    "title": "Lesser-known Postgres features",
+    "url": "https://hakibenita.com/postgresql-unknown-features",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 29164727,
+    "title": "We saved millions in SSD costs by upgrading our filesystem",
+    "url": "https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 29165565,
+    "title": "The U.S. Treasury is buying private app data to target and investigate people",
+    "url": "https://theintercept.com/2021/11/04/treasury-surveillance-location-data-babel-street/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
