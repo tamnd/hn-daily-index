@@ -4,99 +4,99 @@
     "id": 16619505,
     "title": "Creator",
     "url": "https://www.magicleap.com/creator",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "runesoerensen",
+    "descendants": 118,
+    "time": 1521475812
   },
   {
     "rank": 2,
     "id": 16620423,
     "title": "Announcing Microsoft DirectX Raytracing",
     "url": "https://blogs.msdn.microsoft.com/directx/2018/03/19/announcing-microsoft-directx-raytracing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "mxfh",
+    "descendants": 223,
+    "time": 1521480078
   },
   {
     "rank": 3,
     "id": 16621444,
     "title": "LG launches open-source version of webOS",
     "url": "https://sdtimes.com/os/lg-launches-open-source-version-webos/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "spacemanspiffy",
+    "descendants": 144,
+    "time": 1521483912
   },
   {
     "rank": 4,
     "id": 16624724,
     "title": "Gallery of programming UIs",
     "url": "https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "panic",
+    "descendants": 122,
+    "time": 1521504784
   },
   {
     "rank": 5,
     "id": 16626318,
     "title": "Facebook\u2019s Surveillance Machine",
     "url": "https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 677,
+    "by": "imartin2k",
+    "descendants": 232,
+    "time": 1521525625
   },
   {
     "rank": 6,
     "id": 16627697,
     "title": "Ex-Facebook insider says covert data harvesting was routine",
     "url": "https://www.theguardian.com/news/2018/mar/20/facebook-data-cambridge-analytica-sandy-parakilas",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 942,
+    "by": "valanto",
+    "descendants": 384,
+    "time": 1521546765
   },
   {
     "rank": 7,
     "id": 16628347,
     "title": "FTC Probing Facebook for Use of Personal Data, Source Says",
     "url": "https://www.bloomberg.com/news/articles/2018-03-20/ftc-said-to-be-probing-facebook-for-use-of-personal-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1107,
+    "by": "coloneltcb",
+    "descendants": 371,
+    "time": 1521552658
   },
   {
     "rank": 8,
     "id": 16629508,
     "title": "Both Facebook and Cambridge Analytica Threatened to Sue Journalists",
     "url": "https://www.techdirt.com/articles/20180318/00111439443/both-facebook-cambridge-analytica-threatened-to-sue-journalists-over-stories-cas-use-facebook-data.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "Analemma_",
+    "descendants": 116,
+    "time": 1521560429
   },
   {
     "rank": 9,
     "id": 16630971,
     "title": "Launch HN: Promise (YC W18) \u2013 Cost-effective, more humane alternative to jail",
     "url": "https://news.ycombinator.com/item?id=16630971",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 912,
+    "by": "dfrappier",
+    "descendants": 410,
+    "time": 1521569000
   },
   {
     "rank": 10,
     "id": 16632677,
     "title": "Blocklist Facebook domains (2016)",
     "url": "https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1349,
+    "by": "z0a",
+    "descendants": 348,
+    "time": 1521580144
   }
 ]

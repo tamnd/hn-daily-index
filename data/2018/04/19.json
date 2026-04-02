@@ -4,99 +4,99 @@
     "id": 16868296,
     "title": "Python 3.7: Introducing Data Classes",
     "url": "https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "ingve",
+    "descendants": 158,
+    "time": 1524066437
   },
   {
     "rank": 2,
     "id": 16869488,
     "title": "No boundaries for Facebook data: third-party trackers abuse Facebook Login",
     "url": "https://freedom-to-tinker.com/2018/04/18/no-boundaries-for-facebook-data-third-party-trackers-abuse-facebook-login/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 601,
+    "by": "randomwalker",
+    "descendants": 117,
+    "time": 1524074591
   },
   {
     "rank": 3,
     "id": 16870440,
     "title": "The Quest for the Next Billion-Dollar Color",
     "url": "https://www.bloomberg.com/features/2018-quest-for-billion-dollar-red/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "relham",
+    "descendants": 138,
+    "time": 1524080676
   },
   {
     "rank": 4,
     "id": 16870813,
     "title": "The ASUS Tinker Board is a compelling upgrade from a Raspberry Pi 3 B+",
     "url": "https://www.jeffgeerling.com/blog/2018/asus-tinker-board-compelling-upgrade-raspberry-pi-3-b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "geerlingguy",
+    "descendants": 228,
+    "time": 1524082920
   },
   {
     "rank": 5,
     "id": 16872542,
     "title": "Facebook to change user terms, limiting effect of EU privacy law",
     "url": "https://www.reuters.com/article/us-facebook-privacy-eu-exclusive/exclusive-facebook-to-change-user-terms-limiting-effect-of-eu-privacy-law-idUSKBN1HQ00P",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "pwtweet",
+    "descendants": 390,
+    "time": 1524099065
   },
   {
     "rank": 6,
     "id": 16874015,
     "title": "The latest trend for tech interviews: Days of unpaid homework",
     "url": "https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 659,
+    "by": "draven",
+    "descendants": 997,
+    "time": 1524123089
   },
   {
     "rank": 7,
     "id": 16874999,
     "title": "Palantir is using War on Terror tools to track American citizens",
     "url": "https://www.bloomberg.com/features/2018-palantir-peter-thiel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 523,
+    "by": "pdog",
+    "descendants": 260,
+    "time": 1524138054
   },
   {
     "rank": 8,
     "id": 16875868,
     "title": "List of places to find remote jobs and freelancing projects",
     "url": "https://drive.google.com/open?id=1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "pankmahar",
+    "descendants": 66,
+    "time": 1524145925
   },
   {
     "rank": 9,
     "id": 16877395,
     "title": "Apple open-sources FoundationDB",
     "url": "https://www.foundationdb.org/blog/foundationdb-is-open-source/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2136,
+    "by": "spullara",
+    "descendants": 441,
+    "time": 1524156117
   },
   {
     "rank": 10,
     "id": 16877603,
     "title": "Scuttlebutt, a Decentralized Alternative to Facebook",
     "url": "https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 623,
+    "by": "bpierre",
+    "descendants": 342,
+    "time": 1524157272
   }
 ]

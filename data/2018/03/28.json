@@ -4,99 +4,99 @@
     "id": 16688676,
     "title": "Waymo teams up with Jaguar to intro a new, premium self-driving car",
     "url": "https://techcrunch.com/2018/03/27/waymo-teams-up-with-jaguar-to-intro-a-new-premium-self-driving-car/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "kaboro",
+    "descendants": 210,
+    "time": 1522160779
   },
   {
     "rank": 2,
     "id": 16689108,
     "title": "Fast, Safe, and Complete(ish) Web Service in Rust",
     "url": "https://brandur.org/rust-web",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "henridf",
+    "descendants": 122,
+    "time": 1522162957
   },
   {
     "rank": 3,
     "id": 16689699,
     "title": "How I Erased Facebook Comments and Likes",
     "url": "http://www.jaruzel.com/blog/How-I-Erased-5000-Facebook-Comments-and-Likes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "Jaruzel",
+    "descendants": 246,
+    "time": 1522166102
   },
   {
     "rank": 4,
     "id": 16691203,
     "title": "Google Cloud Text-To-Speech Powered by DeepMind WaveNet Technology",
     "url": "https://cloudplatform.googleblog.com/2018/03/introducing-Cloud-Text-to-Speech-powered-by-Deepmind-WaveNet-technology.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "pseudobry",
+    "descendants": 118,
+    "time": 1522174273
   },
   {
     "rank": 5,
     "id": 16691436,
     "title": "Apple SIM",
     "url": "https://www.apple.com/ipad/apple-sim/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "skuzins",
+    "descendants": 181,
+    "time": 1522175608
   },
   {
     "rank": 6,
     "id": 16691857,
     "title": "Windows 7 patch for Meltdown enabled arbitrary reads and writes in kernel memory",
     "url": "http://blog.frizk.net/2018/03/total-meltdown.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "romac",
+    "descendants": 215,
+    "time": 1522178308
   },
   {
     "rank": 7,
     "id": 16693253,
     "title": "Storyboarder: free, cross-platform storyboard tool",
     "url": "https://wonderunit.com/storyboarder/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "open-source-ux",
+    "descendants": 139,
+    "time": 1522188758
   },
   {
     "rank": 8,
     "id": 16693885,
     "title": "To Change Habits, Try Replacement Instead",
     "url": "https://www.nytimes.com/2018/03/19/your-money/resistance-is-futile-to-change-habits-try-replacement-instead.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 634,
+    "by": "ALee",
+    "descendants": 174,
+    "time": 1522194805
   },
   {
     "rank": 9,
     "id": 16698932,
     "title": "Au Revoir",
     "url": "https://blog.docker.com/2018/03/au-revoir/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 898,
+    "by": "zapita",
+    "descendants": 287,
+    "time": 1522253490
   },
   {
     "rank": 10,
     "id": 16700450,
     "title": "Will MySpace ever lose its monopoly? (2007)",
     "url": "https://www.theguardian.com/technology/2007/feb/08/business.comment",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 534,
+    "by": "Jarred",
+    "descendants": 315,
+    "time": 1522262135
   }
 ]

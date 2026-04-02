@@ -4,99 +4,99 @@
     "id": 16774271,
     "title": "Apps of a Feather",
     "url": "http://apps-of-a-feather.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "coloneltcb",
+    "descendants": 77,
+    "time": 1523030519
   },
   {
     "rank": 2,
     "id": 16775166,
     "title": "Confessions of an Unreal Engine 4 engineering firefighter",
     "url": "https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "lfowles",
+    "descendants": 115,
+    "time": 1523035603
   },
   {
     "rank": 3,
     "id": 16775768,
     "title": "Raspberry Pi microSD card performance comparison",
     "url": "https://www.jeffgeerling.com/blog/2018/raspberry-pi-microsd-card-performance-comparison-2018",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "geerlingguy",
+    "descendants": 125,
+    "time": 1523038399
   },
   {
     "rank": 4,
     "id": 16775827,
     "title": "Google seeks to limit \u2018right to be forgotten\u2019 by claiming it\u2019s journalistic",
     "url": "https://www.cjr.org/innovations/google-journalistic-right-to-be-forgotten-by-claiming-its-journalistic.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "danso",
+    "descendants": 319,
+    "time": 1523038738
   },
   {
     "rank": 5,
     "id": 16775839,
     "title": "Want to Be Happy? Think Like an Old Person",
     "url": "https://www.nytimes.com/2017/12/29/nyregion/want-to-be-happy-think-like-an-old-person.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "seventyhorses",
+    "descendants": 170,
+    "time": 1523038809
   },
   {
     "rank": 6,
     "id": 16776011,
     "title": "Immutable.rs: immutable data structures for Rust",
     "url": "http://immutable.rs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "tosh",
+    "descendants": 63,
+    "time": 1523039767
   },
   {
     "rank": 7,
     "id": 16776900,
     "title": "FCC approves SpaceX plan for satellite broadband network",
     "url": "https://techcrunch.com/2018/03/29/fcc-approves-spacex-plan-for-4425-satellite-broadband-network/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "vinnyglennon",
+    "descendants": 173,
+    "time": 1523045175
   },
   {
     "rank": 8,
     "id": 16776932,
     "title": "Backpage.com seized by U.S. justice authorities",
     "url": "https://www.reuters.com/article/us-usa-backpage-justice/sex-marketplace-backpage-com-seized-by-u-s-justice-authorities-posting-idUSKCN1HD2QP",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "mzs",
+    "descendants": 319,
+    "time": 1523045386
   },
   {
     "rank": 9,
     "id": 16781294,
     "title": "TextQL: Execute SQL Against CSV or TSV",
     "url": "https://github.com/dinedal/textql",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 658,
+    "by": "TAForObvReasons",
+    "descendants": 91,
+    "time": 1523116754
   },
   {
     "rank": 10,
     "id": 16781959,
     "title": "The dots do matter: how to scam a Gmail user",
     "url": "https://jameshfisher.com/2018/04/07/the-dots-do-matter-how-to-scam-a-gmail-user",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1023,
+    "by": "jamesfisher",
+    "descendants": 506,
+    "time": 1523125219
   }
 ]

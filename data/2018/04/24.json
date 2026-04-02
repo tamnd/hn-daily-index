@@ -4,99 +4,99 @@
     "id": 16907298,
     "title": "Now Is the Perfect Time for an RSS Renaissance",
     "url": "https://neflabs.com/blog/rss-renaissance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 687,
+    "by": "neflabs",
+    "descendants": 349,
+    "time": 1524516917
   },
   {
     "rank": 2,
     "id": 16907402,
     "title": "Qt for WebAssembly Technology Preview",
     "url": "http://blog.qt.io/blog/2018/04/23/beta-qt-webassembly-technology-preview/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "fantasticsid",
+    "descendants": 191,
+    "time": 1524517686
   },
   {
     "rank": 3,
     "id": 16909056,
     "title": "Tech company career ladders",
     "url": "http://rachelbythebay.com/w/2018/04/23/pace/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "tim_sw",
+    "descendants": 181,
+    "time": 1524532666
   },
   {
     "rank": 4,
     "id": 16909252,
     "title": "Jenkins X: a CI/CD solution for cloud applications on Kubernetes",
     "url": "https://jenkins.io/blog/2018/03/19/introducing-jenkins-x/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "Garbage",
+    "descendants": 103,
+    "time": 1524534966
   },
   {
     "rank": 5,
     "id": 16909714,
     "title": "Show HN: Intuitive Linear Algebra and 3D Geometry",
     "url": "https://intuitive-math.club",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "smspillaz",
+    "descendants": 42,
+    "time": 1524541823
   },
   {
     "rank": 6,
     "id": 16912546,
     "title": "Things I Learned from a Job Hunt for a Senior Engineering Role",
     "url": "http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 772,
+    "by": "fuzzygroup",
+    "descendants": 741,
+    "time": 1524577931
   },
   {
     "rank": 7,
     "id": 16912601,
     "title": "Show HN: Watch Stanford CS Lectures Together",
     "url": "https://www.classroomies.com/?4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "___karim",
+    "descendants": 49,
+    "time": 1524578334
   },
   {
     "rank": 8,
     "id": 16912679,
     "title": "Dumber phone",
     "url": "https://nomasters.io/posts/dumber-phone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 895,
+    "by": "jstanley",
+    "descendants": 343,
+    "time": 1524578911
   },
   {
     "rank": 9,
     "id": 16913013,
     "title": "Patent Review System Upheld by U.S. Supreme Court",
     "url": "https://www.bloomberg.com/news/articles/2018-04-24/patent-death-squad-system-upheld-by-u-s-supreme-court",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "jackfoxy",
+    "descendants": 173,
+    "time": 1524581355
   },
   {
     "rank": 10,
     "id": 16914698,
     "title": "Hijack of Amazon\u2019s domain service used to reroute web traffic for two hours",
     "url": "https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1048,
+    "by": "coloneltcb",
+    "descendants": 284,
+    "time": 1524591279
   }
 ]

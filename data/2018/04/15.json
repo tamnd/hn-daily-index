@@ -4,99 +4,99 @@
     "id": 16838460,
     "title": "Ask HN: What is your favourite tech talk?",
     "url": "https://news.ycombinator.com/item?id=16838460",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "ratpik",
+    "descendants": 147,
+    "time": 1523728286
   },
   {
     "rank": 2,
     "id": 16839650,
     "title": "Soviet-Era Industrial Design",
     "url": "https://www.atlasobscura.com/articles/soviet-design-history?utm_medium=atlas-page&utm_source=twitter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "how-about-this",
+    "descendants": 129,
+    "time": 1523741634
   },
   {
     "rank": 3,
     "id": 16840220,
     "title": "My Favorite PostgreSQL Queries and Why They Matter",
     "url": "https://severalnines.com/blog/my-favorite-postgresql-queries-and-why-they-matter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "grzm",
+    "descendants": 99,
+    "time": 1523749280
   },
   {
     "rank": 4,
     "id": 16840455,
     "title": "What Erlang Taught Me About Distributed Systems",
     "url": "https://blog.kenforthewin.com/what-erlang-taught-me-about-distributed-systems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "kenforthewin",
+    "descendants": 49,
+    "time": 1523753241
   },
   {
     "rank": 5,
     "id": 16840692,
     "title": "Jupyter, Mathematica, and the Future of the Research Paper",
     "url": "https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "bachmeier",
+    "descendants": 173,
+    "time": 1523757823
   },
   {
     "rank": 6,
     "id": 16841449,
     "title": "H&R Block and Intuit Lobbying Against Simpler Tax Filing (2017)",
     "url": "https://www.propublica.org/article/filing-taxes-could-be-free-simple-hr-block-intuit-lobbying-against-it#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 631,
+    "by": "bajsejohannes",
+    "descendants": 232,
+    "time": 1523771712
   },
   {
     "rank": 7,
     "id": 16842040,
     "title": "Vipassana for Hackers [pdf]",
     "url": "https://github.com/deobald/vipassana-for-hackers/blob/master/vipassana-for-hackers.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "hargup",
+    "descendants": 145,
+    "time": 1523786623
   },
   {
     "rank": 8,
     "id": 16842576,
     "title": "A dive into the making of a 64K Intro",
     "url": "http://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "kemenaran",
+    "descendants": 59,
+    "time": 1523799680
   },
   {
     "rank": 9,
     "id": 16842996,
     "title": "The long, tortuous and fascinating process of creating a Chinese font",
     "url": "https://qz.com/522079/the-long-incredibly-tortuous-and-fascinating-process-of-creating-a-chinese-font/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "tosh",
+    "descendants": 152,
+    "time": 1523805424
   },
   {
     "rank": 10,
     "id": 16843614,
     "title": "It\u2019s time to give Firefox a fresh chance",
     "url": "https://www.theverge.com/2018/4/15/17239548/firefox-chrome-safari-competition",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "Tomte",
+    "descendants": 194,
+    "time": 1523812212
   }
 ]

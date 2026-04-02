@@ -4,99 +4,99 @@
     "id": 16606677,
     "title": "TinyVM \u2013 A small and easy to understand virtual machine in C",
     "url": "https://github.com/jakogut/tinyvm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "jxub",
+    "descendants": 30,
+    "time": 1521289968
   },
   {
     "rank": 2,
     "id": 16609068,
     "title": "Breaking a Wine Glass in Python by Detecting the Resonant Frequency",
     "url": "https://www.makeartwithpython.com/blog/break-glass-with-resonant-frequency/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "burningion",
+    "descendants": 48,
+    "time": 1521320911
   },
   {
     "rank": 3,
     "id": 16609429,
     "title": "RedisGraph: A High Performance In-Memory Graph Database as a Redis Module",
     "url": "http://redisgraph.io/design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "wll",
+    "descendants": 41,
+    "time": 1521326492
   },
   {
     "rank": 4,
     "id": 16610353,
     "title": "Stack Overflow Culture",
     "url": "https://codeblog.jonskeet.uk/2018/03/17/stack-overflow-culture/amp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "mayankkaizen",
+    "descendants": 273,
+    "time": 1521343428
   },
   {
     "rank": 5,
     "id": 16610436,
     "title": "B-Heap vs. Binary Heap (2010)",
     "url": "https://queue.acm.org/detail.cfm?id=1814327",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "navinsylvester",
+    "descendants": 36,
+    "time": 1521346531
   },
   {
     "rank": 6,
     "id": 16610489,
     "title": "D3 Graph Theory \u2013 Learn About Graph Theory Interactively",
     "url": "https://mrpandey.github.io/d3graphTheory/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "sebg",
+    "descendants": 8,
+    "time": 1521348633
   },
   {
     "rank": 7,
     "id": 16611085,
     "title": "Building a fast Electron app with Rust",
     "url": "https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "hellerve",
+    "descendants": 200,
+    "time": 1521364561
   },
   {
     "rank": 8,
     "id": 16611488,
     "title": "Gaijin Engineer in Tokyo",
     "url": "https://medium.com/@xevix/gaijin-engineer-in-tokyo-aaa9be8919b2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "ingve",
+    "descendants": 155,
+    "time": 1521373332
   },
   {
     "rank": 9,
     "id": 16612580,
     "title": "Announcing gRPC Support in Nginx",
     "url": "https://www.nginx.com/blog/nginx-1-13-10-grpc/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "tex0",
+    "descendants": 80,
+    "time": 1521389244
   },
   {
     "rank": 10,
     "id": 16613996,
     "title": "\u201cPinterest needs to be removed from Google IMO\u201d",
     "url": "https://www.reddit.com/r/google/comments/85atho/pinterest_needs_to_be_removed_from_google_imo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1155,
+    "by": "obtino",
+    "descendants": 268,
+    "time": 1521403563
   }
 ]

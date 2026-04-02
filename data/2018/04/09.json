@@ -4,99 +4,99 @@
     "id": 16785335,
     "title": "RSS is undead",
     "url": "https://techcrunch.com/2018/04/07/rss-is-undead/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "jpamata",
+    "descendants": 269,
+    "time": 1523178616
   },
   {
     "rank": 2,
     "id": 16789321,
     "title": "Credit Card Signatures Are About to Become Extinct in the U.S",
     "url": "https://www.nytimes.com/2018/04/08/business/credit-card-signatures.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "semiquaver",
+    "descendants": 531,
+    "time": 1523232990
   },
   {
     "rank": 3,
     "id": 16790036,
     "title": "Post-Mortem and Security Advisory: Data Exposure After travis-ci.com Outage",
     "url": "https://blog.travis-ci.com/2018-04-03-incident-post-mortem",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "xtreak29",
+    "descendants": 169,
+    "time": 1523243549
   },
   {
     "rank": 4,
     "id": 16790883,
     "title": "Go-internals: Chapter 2, \u201cInterfaces\u201d released",
     "url": "https://github.com/teh-cmc/go-internals/blob/master/chapter2_interfaces/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "teh_cmc",
+    "descendants": 12,
+    "time": 1523255881
   },
   {
     "rank": 5,
     "id": 16793180,
     "title": "Reverse Engineering WhatsApp Web",
     "url": "https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "wjh_",
+    "descendants": 119,
+    "time": 1523283833
   },
   {
     "rank": 6,
     "id": 16793233,
     "title": "Facebook Urged to Adopt GDPR Globally as a Standard",
     "url": "https://techcrunch.com/2018/04/09/facebook-urged-to-make-gdpr-its-baseline-standard-globally/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "wpasc",
+    "descendants": 220,
+    "time": 1523284182
   },
   {
     "rank": 7,
     "id": 16793749,
     "title": "Android container in Chrome OS",
     "url": "https://chromium.googlesource.com/chromiumos/platform2/+/master/arc/container-bundle/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "navigaid",
+    "descendants": 135,
+    "time": 1523287316
   },
   {
     "rank": 8,
     "id": 16793888,
     "title": "Microplastics found in 93% of bottled water tested in global study",
     "url": "http://www.cbc.ca/news/technology/bottled-water-microplastics-1.4575045",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "nothrows",
+    "descendants": 159,
+    "time": 1523288038
   },
   {
     "rank": 9,
     "id": 16794058,
     "title": "Testimony of Mark Zuckerberg \u2013 Hearing Before US House of Representatives [pdf]",
     "url": "http://docs.house.gov/meetings/IF/IF00/20180411/108090/HHRG-115-IF00-Wstate-ZuckerbergM-20180411.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "uptown",
+    "descendants": 259,
+    "time": 1523289131
   },
   {
     "rank": 10,
     "id": 16796127,
     "title": "Next generation video: Introducing AV1",
     "url": "https://people.xiph.org/~xiphmont/demo/av1/demo1.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 909,
+    "by": "TD-Linux",
+    "descendants": 243,
+    "time": 1523301968
   }
 ]

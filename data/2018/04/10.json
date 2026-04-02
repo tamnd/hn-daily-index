@@ -4,99 +4,99 @@
     "id": 16790338,
     "title": "The Mathematics of 2048: Optimal Play with Markov Decision Processes",
     "url": "http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "jonbaer",
+    "descendants": 43,
+    "time": 1523247649
   },
   {
     "rank": 2,
     "id": 16793636,
     "title": "Don't give away historic details about yourself",
     "url": "https://krebsonsecurity.com/2018/04/dont-give-away-historic-details-about-yourself/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "zeveb",
+    "descendants": 200,
+    "time": 1523286757
   },
   {
     "rank": 3,
     "id": 16795621,
     "title": "Color: From Hex codes to Eyeballs",
     "url": "http://jamie-wong.com/post/color/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 563,
+    "by": "markdog12",
+    "descendants": 54,
+    "time": 1523298701
   },
   {
     "rank": 4,
     "id": 16797644,
     "title": "ZFS on Linux: Unlistable and disappearing files",
     "url": "https://github.com/zfsonlinux/zfs/issues/7401",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "heinrichhartman",
+    "descendants": 161,
+    "time": 1523314007
   },
   {
     "rank": 5,
     "id": 16800098,
     "title": "YouTube and Facebook Are Losing Creators to Blockchain-Powered Rivals",
     "url": "https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "rbanffy",
+    "descendants": 283,
+    "time": 1523352799
   },
   {
     "rank": 6,
     "id": 16801858,
     "title": "Web Authentication: Proposed API for accessing Public Key Credentials",
     "url": "https://www.w3.org/TR/2018/CR-webauthn-20180320/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "jtbayly",
+    "descendants": 196,
+    "time": 1523372642
   },
   {
     "rank": 7,
     "id": 16802525,
     "title": "Facebook Employees Are Quitting or Switching Departments Over Ethical Concerns",
     "url": "http://www.businessinsider.com/facebook-employees-quitting-whatsapp-instagram-cambridge-analytica-report-2018-4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "mewthree",
+    "descendants": 243,
+    "time": 1523377229
   },
   {
     "rank": 8,
     "id": 16802530,
     "title": "Productivity",
     "url": "https://blog.samaltman.com/productivity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1264,
+    "by": "dsr12",
+    "descendants": 399,
+    "time": 1523377264
   },
   {
     "rank": 9,
     "id": 16803775,
     "title": "Mark Zuckerberg testifies before Congress",
     "url": "https://www.theguardian.com/technology/live/2018/apr/10/mark-zuckerberg-testimony-live-congress-facebook-cambridge-analytica",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "m1",
+    "descendants": 462,
+    "time": 1523384842
   },
   {
     "rank": 10,
     "id": 16803874,
     "title": "Why Does \u201c=\u201d Mean Assignment?",
     "url": "https://www.hillelwayne.com/post/equals-as-assignment/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 674,
+    "by": "panic",
+    "descendants": 354,
+    "time": 1523385376
   }
 ]
