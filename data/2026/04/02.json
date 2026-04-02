@@ -14,9 +14,9 @@
     "id": 47612127,
     "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
     "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
-    "score": 22,
+    "score": 23,
     "by": "bundie",
-    "descendants": 17,
+    "descendants": 20,
     "time": 1775122988
   },
   {
@@ -24,7 +24,7 @@
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 55,
+    "score": 56,
     "by": "smartmic",
     "descendants": 8,
     "time": 1775117951
@@ -64,7 +64,7 @@
     "id": 47596739,
     "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 54,
+    "score": 55,
     "by": "jackson-mcd",
     "descendants": 16,
     "time": 1775016881
@@ -84,7 +84,7 @@
     "id": 47608495,
     "title": "Quantum computing bombshells that are not April Fools",
     "url": "https://scottaaronson.blog/?p=9665",
-    "score": 183,
+    "score": 185,
     "by": "Strilanc",
     "descendants": 60,
     "time": 1775089483
