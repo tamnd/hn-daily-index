@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 38653110,
+    "title": "WebP is so great except it's not (2021)",
+    "url": "https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 38653212,
+    "title": "Fly Postgres, Managed by Supabase",
+    "url": "https://supabase.com/blog/postgres-on-fly-by-supabase",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 38657126,
+    "title": "I bricked my Christmas lights",
+    "url": "https://www.whizzy.org/2023-12-14-bricked-xmas/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 38657577,
+    "title": "Suspects can refuse to provide phone passcodes to police, court rules",
+    "url": "https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 38658497,
+    "title": "Smallest USB-C MIDI Synth",
+    "url": "https://mitxela.com/projects/smsc",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 38661182,
+    "title": "Bluetooth keystroke-injection in Android, Linux, macOS and iOS",
+    "url": "https://github.com/skysafe/reblog/tree/main/cve-2023-45866",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 38661296,
+    "title": "Advancements in machine learning for machine learning",
+    "url": "https://blog.research.google/2023/12/advancements-in-machine-learning-for.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 38661903,
+    "title": "NASA study finds life-sparking energy source and molecule at Enceladus",
+    "url": "https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 38662160,
+    "title": "OpenAI suspends ByteDance's account after it used GPT to train its own AI model",
+    "url": "https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 38664729,
+    "title": "SSH3: SSHv2 using HTTP/3 and QUIC",
+    "url": "https://github.com/francoismichel/ssh3",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
