@@ -4,23 +4,33 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 128,
+    "score": 129,
     "by": "bonzini",
-    "descendants": 72,
+    "descendants": 73,
     "time": 1775119724
   },
   {
     "rank": 2,
+    "id": 47612724,
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "url": "https://lemonade-server.ai",
+    "score": 22,
+    "by": "AbuAssar",
+    "descendants": 4,
+    "time": 1775127891
+  },
+  {
+    "rank": 3,
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 151,
+    "score": 152,
     "by": "novaRom",
     "descendants": 73,
     "time": 1775127000
   },
   {
-    "rank": 3,
+    "rank": 4,
     "id": 47613078,
     "title": "Inside Nepal's Fake Rescue Racket",
     "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
@@ -28,16 +38,6 @@
     "by": "lode",
     "descendants": 0,
     "time": 1775130041
-  },
-  {
-    "rank": 4,
-    "id": 47612724,
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-    "url": "https://lemonade-server.ai",
-    "score": 19,
-    "by": "AbuAssar",
-    "descendants": 4,
-    "time": 1775127891
   },
   {
     "rank": 5,
@@ -54,7 +54,7 @@
     "id": 47603657,
     "title": "Artemis II Launch Day Updates",
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "score": 971,
+    "score": 972,
     "by": "apitman",
     "descendants": 822,
     "time": 1775063491
@@ -84,7 +84,7 @@
     "id": 47613351,
     "title": "A Founder Tried to Pitch \u2013 and Got a Restraining Order",
     "url": "https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan",
-    "score": 3,
+    "score": 5,
     "by": "elonmm",
     "descendants": 1,
     "time": 1775131846
