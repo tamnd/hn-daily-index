@@ -4,99 +4,99 @@
     "id": 8228324,
     "title": "Mozilla Unveils $33 Intex Cloud FX Smartphone",
     "url": "http://blogs.wsj.com/digits/2014/08/26/mozilla-unveils-33-intex-cloud-fx-smartphone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "rhelmer",
+    "descendants": 124,
+    "time": 1409073329
   },
   {
     "rank": 2,
     "id": 8228583,
     "title": "Amazon has sold no more than 35,000 Fire phones, data suggests",
     "url": "http://www.theguardian.com/technology/2014/aug/26/amazon-fire-phone-sales-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "wfjackson",
+    "descendants": 213,
+    "time": 1409076529
   },
   {
     "rank": 3,
     "id": 8229327,
     "title": "The State of NAT Traversal",
     "url": "https://www.zerotier.com/blog/?p=226",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 189,
+    "by": "api",
+    "descendants": 96,
+    "time": 1409084705
   },
   {
     "rank": 4,
     "id": 8230534,
     "title": "Firefox OS is a developer's best friend",
     "url": "http://binary-choice.blogspot.com/2014/08/firefox-os-is-developers-best-friend.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "damian2000",
+    "descendants": 41,
+    "time": 1409104098
   },
   {
     "rank": 5,
     "id": 8230690,
     "title": "Firefox 32 Supports Public Key Pinning",
     "url": "http://monica-at-mozilla.blogspot.com/2014/08/firefox-32-supports-public-key-pinning.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "jonchang",
+    "descendants": 100,
+    "time": 1409108534
   },
   {
     "rank": 6,
     "id": 8231501,
     "title": "Microsoft filed patent applications for scoped and immutable types",
     "url": "http://forum.dlang.org/thread/ltinlp$79s$1@digitalmars.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 206,
+    "by": "chx",
+    "descendants": 86,
+    "time": 1409136012
   },
   {
     "rank": 7,
     "id": 8232019,
     "title": "Useful Unix commands for exploring data",
     "url": "http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "aks_c",
+    "descendants": 151,
+    "time": 1409146998
   },
   {
     "rank": 8,
     "id": 8232901,
     "title": "C3.js: D3-based reusable chart library",
     "url": "http://c3js.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "nekgrim",
+    "descendants": 80,
+    "time": 1409155925
   },
   {
     "rank": 9,
     "id": 8232986,
     "title": "Building 3D with Ikea",
     "url": "http://www.cgsociety.org/index.php/CGSFeatures/CGSFeatureSpecial/building_3d_with_ikea",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "panarky",
+    "descendants": 61,
+    "time": 1409156954
   },
   {
     "rank": 10,
     "id": 8234018,
     "title": "Death Valley National Park: First Observation of Rocks in Motion",
     "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0105948",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "McKittrick",
+    "descendants": 54,
+    "time": 1409165595
   }
 ]

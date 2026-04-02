@@ -4,99 +4,99 @@
     "id": 8215419,
     "title": "There\u2019s a simple alternative to the current web",
     "url": "http://hapgood.us/2014/08/14/the-web-is-broken-and-we-should-fix-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 150,
+    "by": "mgunes",
+    "descendants": 143,
+    "time": 1408787952
   },
   {
     "rank": 2,
     "id": 8216321,
     "title": "Julia 0.3 released",
     "url": "http://julialang.org/blog/2014/08/julia-0.3-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "StefanKarpinski",
+    "descendants": 50,
+    "time": 1408815229
   },
   {
     "rank": 3,
     "id": 8216406,
     "title": "Show HN: Terra, a JS framework for cellular automata and biological simulations",
     "url": "http://rileyjshaw.com/terra/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 121,
+    "by": "rileyjshaw",
+    "descendants": 31,
+    "time": 1408817096
   },
   {
     "rank": 4,
     "id": 8216552,
     "title": "Chromecast Rooted",
     "url": "http://forum.xda-developers.com/hardware-hacking/chromecast/root-hubcap-chromecast-root-release-t2855893",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 204,
+    "by": "CSDude",
+    "descendants": 101,
+    "time": 1408820790
   },
   {
     "rank": 5,
     "id": 8216865,
     "title": "Deep Learning: An MIT Press book in preparation",
     "url": "http://www.iro.umontreal.ca/~bengioy/dlbook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "mutor",
+    "descendants": 39,
+    "time": 1408828058
   },
   {
     "rank": 6,
     "id": 8217286,
     "title": "Gogs: a self-hosted Git Service written in Go",
     "url": "https://github.com/gogits/gogs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "czsu69jj",
+    "descendants": 108,
+    "time": 1408840446
   },
   {
     "rank": 7,
     "id": 8217895,
     "title": "Show HN: C/C++ Development Environment for Emacs",
     "url": "http://tuhdo.github.io/c-ide.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 146,
+    "by": "tuhdo",
+    "descendants": 40,
+    "time": 1408862207
   },
   {
     "rank": 8,
     "id": 8218184,
     "title": "6.0 Northern California earthquake",
     "url": "http://earthquake.usgs.gov/earthquakes/eventpage/nc72282711",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "cpg",
+    "descendants": 188,
+    "time": 1408876357
   },
   {
     "rank": 9,
     "id": 8218785,
     "title": "Gooey: Turn command line programs into GUI applications",
     "url": "https://github.com/chriskiehl/Gooey",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "ayberkt",
+    "descendants": 74,
+    "time": 1408894524
   },
   {
     "rank": 10,
     "id": 8219409,
     "title": "SHRDLU",
     "url": "http://en.wikipedia.org/wiki/SHRDLU",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "ColinWright",
+    "descendants": 19,
+    "time": 1408908633
   }
 ]

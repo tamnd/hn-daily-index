@@ -4,99 +4,99 @@
     "id": 8258135,
     "title": "Holdout",
     "url": "http://99percentinvisible.org/episode/holdout/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "smacktoward",
+    "descendants": 60,
+    "time": 1409672052
   },
   {
     "rank": 2,
     "id": 8258652,
     "title": "A visual proof that neural nets can compute any function",
     "url": "http://neuralnetworksanddeeplearning.com/chap4.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "jbarrow",
+    "descendants": 80,
+    "time": 1409676335
   },
   {
     "rank": 3,
     "id": 8259448,
     "title": "Making MySQL Better at GitHub",
     "url": "https://github.com/blog/1880-making-mysql-better-at-github",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "samlambert",
+    "descendants": 140,
+    "time": 1409684484
   },
   {
     "rank": 4,
     "id": 8259810,
     "title": "Notes on the Celebrity Data Theft",
     "url": "https://www.nikcub.com/posts/notes-on-the-celebrity-data-theft/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "nikcub",
+    "descendants": 274,
+    "time": 1409688315
   },
   {
     "rank": 5,
     "id": 8260498,
     "title": "Django 1.7 Released",
     "url": "https://www.djangoproject.com/weblog/2014/sep/02/release-17-final/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "jsmeaton",
+    "descendants": 61,
+    "time": 1409696265
   },
   {
     "rank": 6,
     "id": 8261098,
     "title": "The Unexotic Underclass",
     "url": "http://miter.mit.edu/the-unexotic-underclass/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "spitfire",
+    "descendants": 305,
+    "time": 1409707435
   },
   {
     "rank": 7,
     "id": 8261356,
     "title": "CSS Shapes Editor for Chrome",
     "url": "http://razvancaliman.com/writing/css-shapes-editor-chrome/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "jonphillips06",
+    "descendants": 33,
+    "time": 1409714690
   },
   {
     "rank": 8,
     "id": 8262204,
     "title": "Logitech K480 \u2013 Bluetooth Multi-Device Keyboard",
     "url": "http://www.logitech.com/en-us/product/multi-device-keyboard-k480?crid=26",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "nreece",
+    "descendants": 179,
+    "time": 1409737657
   },
   {
     "rank": 9,
     "id": 8264163,
     "title": "Find salaries paid at companies using foreign worker data",
     "url": "http://www.salar.ly",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "krishna_sh",
+    "descendants": 109,
+    "time": 1409765106
   },
   {
     "rank": 10,
     "id": 8264733,
     "title": "Standard Markdown",
     "url": "http://standardmarkdown.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1167,
+    "by": "hglaser",
+    "descendants": 366,
+    "time": 1409771734
   }
 ]

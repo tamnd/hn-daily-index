@@ -4,99 +4,99 @@
     "id": 8046849,
     "title": "Django REST framework 3",
     "url": "https://www.kickstarter.com/projects/tomchristie/django-rest-framework-3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "tomchristie",
+    "descendants": 72,
+    "time": 1405595190
   },
   {
     "rank": 2,
     "id": 8047406,
     "title": "The History of Civilization",
     "url": "http://www.gamasutra.com/view/feature/129947/the_history_of_civilization.php?print=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "gdubs",
+    "descendants": 100,
+    "time": 1405604323
   },
   {
     "rank": 3,
     "id": 8048413,
     "title": "Show HN: Steady \u2013 Shoot Cinematic Videos",
     "url": "http://steady.stupeflix.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "trueduke",
+    "descendants": 110,
+    "time": 1405614237
   },
   {
     "rank": 4,
     "id": 8049180,
     "title": "The getrandom(2) system call was requested by the LibreSSL Portable developers",
     "url": "http://lists.openwall.net/linux-kernel/2014/07/17/235",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "gnuvince",
+    "descendants": 157,
+    "time": 1405620823
   },
   {
     "rank": 5,
     "id": 8050144,
     "title": "React v0.11",
     "url": "http://facebook.github.io/react/blog/2014/07/17/react-v0.11.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "sophiebits",
+    "descendants": 104,
+    "time": 1405630620
   },
   {
     "rank": 6,
     "id": 8050164,
     "title": "Wayback Machine points to pro-Russia rebels in downing of MH17",
     "url": "http://www.csmonitor.com/World/Europe/2014/0717/Web-evidence-points-to-pro-Russia-rebels-in-downing-of-MH17",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "wumpus",
+    "descendants": 105,
+    "time": 1405630972
   },
   {
     "rank": 7,
     "id": 8051435,
     "title": "Anatomy of a system call, part 1",
     "url": "http://lwn.net/Articles/604287/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "signa11",
+    "descendants": 19,
+    "time": 1405651734
   },
   {
     "rank": 8,
     "id": 8052399,
     "title": "Hacking Online Polls and Other Ways British Spies Seek to Control the Internet",
     "url": "https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "unclebucknasty",
+    "descendants": 98,
+    "time": 1405680146
   },
   {
     "rank": 9,
     "id": 8053574,
     "title": "Google will stop calling games 'free' when they offer in-app purchases",
     "url": "http://www.theverge.com/2014/7/18/5915415/google-adding-in-app-purchase-protections-european-commission",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "bergie",
+    "descendants": 92,
+    "time": 1405697534
   },
   {
     "rank": 10,
     "id": 8053860,
     "title": "Now Accepting Bitcoin on Dell.com",
     "url": "http://en.community.dell.com/dell-blogs/direct2dell/b/direct2dell/archive/2014/07/18/we-re-now-accepting-bitcoin-on-dell-com.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "mrb",
+    "descendants": 199,
+    "time": 1405700497
   }
 ]

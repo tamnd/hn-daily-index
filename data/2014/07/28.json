@@ -4,99 +4,99 @@
     "id": 8094186,
     "title": "The TTY demystified",
     "url": "http://www.linusakesson.net/programming/tty/index.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "luu",
+    "descendants": 21,
+    "time": 1406499776
   },
   {
     "rank": 2,
     "id": 8094307,
     "title": "Rolling your own CDN for $25 in 1 hour",
     "url": "http://www.scalescale.com/rolling-your-own-cdn-build-a-3-continent-cdn-for-25-in-1-hour/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "mxpxrocks10",
+    "descendants": 89,
+    "time": 1406502494
   },
   {
     "rank": 3,
     "id": 8094637,
     "title": "How to find your Uber passenger rating",
     "url": "https://medium.com/@aaln/4aa1d9cc927f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "aaln",
+    "descendants": 189,
+    "time": 1406510323
   },
   {
     "rank": 4,
     "id": 8095574,
     "title": "Mojolicious \u2013 Perl real-time web framework",
     "url": "http://mojolicio.us/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "megahz",
+    "descendants": 87,
+    "time": 1406532528
   },
   {
     "rank": 5,
     "id": 8095974,
     "title": "Banned for Life",
     "url": "https://medium.com/@sgehrman/banned-for-life-c62f2404f66",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "lubomir",
+    "descendants": 285,
+    "time": 1406543680
   },
   {
     "rank": 6,
     "id": 8096491,
     "title": "Zillow to Acquire Trulia for $3.5B",
     "url": "http://dealbook.nytimes.com/2014/07/28/zillow-to-buy-trulia-for-3-5-billion/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "julio_iglesias",
+    "descendants": 166,
+    "time": 1406553264
   },
   {
     "rank": 7,
     "id": 8096936,
     "title": "Dear Instagram",
     "url": "https://blog.bolt.co/2014/07/28/dear-instagram",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "stanleydrew",
+    "descendants": 125,
+    "time": 1406558069
   },
   {
     "rank": 8,
     "id": 8097020,
     "title": "NPR One",
     "url": "http://www.npr.org/about/products/npr-one/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "antr",
+    "descendants": 177,
+    "time": 1406558930
   },
   {
     "rank": 9,
     "id": 8097415,
     "title": "We Experiment On Human Beings",
     "url": "http://blog.okcupid.com/index.php/we-experiment-on-human-beings/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=we-experiment-on-human-beings",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "dochtman",
+    "descendants": 103,
+    "time": 1406562228
   },
   {
     "rank": 10,
     "id": 8098496,
     "title": "Terraform",
     "url": "http://www.hashicorp.com/blog/terraform.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 600,
+    "by": "pandemicsyn",
+    "descendants": 110,
+    "time": 1406571895
   }
 ]

@@ -4,99 +4,99 @@
     "id": 8361558,
     "title": "Why India's Mars mission is so cheap \u2013 and thrilling",
     "url": "http://www.bbc.com/news/science-environment-29341850",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "leephillips",
+    "descendants": 180,
+    "time": 1411568266
   },
   {
     "rank": 2,
     "id": 8363068,
     "title": "San Diego Researcher Crowdfunding Patent-Free Cancer Drug",
     "url": "http://timesofsandiego.com/tech/2014/09/20/san-diego-researcher-crowdfunding-patent-free-cancer-drug/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "udibai",
+    "descendants": 90,
+    "time": 1411582100
   },
   {
     "rank": 3,
     "id": 8363223,
     "title": "SlackTextViewController: A new growing text input for iOS",
     "url": "https://github.com/slackhq/SlackTextViewController",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "bradya",
+    "descendants": 34,
+    "time": 1411583541
   },
   {
     "rank": 4,
     "id": 8363527,
     "title": "Rethinking the origins of the universe",
     "url": "http://unc.edu/spotlight/rethinking-the-origins-of-the-universe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "cyang08",
+    "descendants": 133,
+    "time": 1411586254
   },
   {
     "rank": 5,
     "id": 8364643,
     "title": "AWS issues unavoidable reboot schedules with short notice on many EC2 instances",
     "url": "https://forums.aws.amazon.com/thread.jspa?threadID=161544&amp;tstart=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "eknkc",
+    "descendants": 152,
+    "time": 1411599631
   },
   {
     "rank": 6,
     "id": 8365110,
     "title": "Bash 'shellshock' bug is wormable",
     "url": "http://blog.erratasec.com/2014/09/bash-shellshock-bug-is-wormable.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "jgannonjr",
+    "descendants": 147,
+    "time": 1411609211
   },
   {
     "rank": 7,
     "id": 8365158,
     "title": "CVE-2014-7169: Bash Fix Incomplete, Still Exploitable",
     "url": "http://seclists.org/oss-sec/2014/q3/685",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "caust1c",
+    "descendants": 210,
+    "time": 1411610233
   },
   {
     "rank": 8,
     "id": 8366745,
     "title": "Everything you need to know about the Shellshock Bash bug",
     "url": "http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "sjcsjc",
+    "descendants": 287,
+    "time": 1411647712
   },
   {
     "rank": 9,
     "id": 8367404,
     "title": "Clasp \u2013 A Common Lisp with LLVM back end and interoperation with C++",
     "url": "http://drmeister.wordpress.com/2014/09/18/announcing-clasp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "drmeister",
+    "descendants": 74,
+    "time": 1411656158
   },
   {
     "rank": 10,
     "id": 8368199,
     "title": "Show HN: Javelin Browser",
     "url": "http://javelinbrowser.com?material-design",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "nubela",
+    "descendants": 132,
+    "time": 1411664566
   }
 ]

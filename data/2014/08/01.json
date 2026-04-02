@@ -4,99 +4,99 @@
     "id": 8114879,
     "title": "The Kids Who Beat Autism",
     "url": "http://www.nytimes.com/2014/08/03/magazine/the-kids-who-beat-autism.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "danso",
+    "descendants": 138,
+    "time": 1406822467
   },
   {
     "rank": 2,
     "id": 8115817,
     "title": "Mitro Releases a New Free and Open Source Password Manager",
     "url": "https://www.eff.org/deeplinks/2014/07/mitro-a-new-free-password-manager",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "gbarboza",
+    "descendants": 129,
+    "time": 1406829575
   },
   {
     "rank": 3,
     "id": 8117348,
     "title": "Introducing EFF's Stupid Patent of the Month",
     "url": "https://www.eff.org/deeplinks/2014/07/inaugural-stupid-patent-month",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "scrollaway",
+    "descendants": 110,
+    "time": 1406845006
   },
   {
     "rank": 4,
     "id": 8118294,
     "title": "Hate Your ISP? Maybe You Need Community Fiber",
     "url": "https://www.eff.org/deeplinks/2014/07/hate-your-isp-maybe-you-need-community-fiber",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "jswt001",
+    "descendants": 51,
+    "time": 1406865090
   },
   {
     "rank": 5,
     "id": 8118696,
     "title": "Letter to a Young Haskell Enthusiast",
     "url": "http://comonad.com/reader/2014/letter-to-a-young-haskell-enthusiast/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "psibi",
+    "descendants": 173,
+    "time": 1406877276
   },
   {
     "rank": 6,
     "id": 8119348,
     "title": "J002E3",
     "url": "http://en.wikipedia.org/wiki/J002E3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "yread",
+    "descendants": 22,
+    "time": 1406894483
   },
   {
     "rank": 7,
     "id": 8120070,
     "title": "Ask HN: Who is hiring? (August 2014)",
     "url": "http://news.ycombinator.com/item?id=8120070",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "whoishiring",
+    "descendants": 584,
+    "time": 1406904291
   },
   {
     "rank": 8,
     "id": 8120085,
     "title": "Ask HN: Who wants to be hired? (August 2014)",
     "url": "http://news.ycombinator.com/item?id=8120085",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "whoishiring",
+    "descendants": 330,
+    "time": 1406904433
   },
   {
     "rank": 9,
     "id": 8121630,
     "title": "The CIA's Reckless Breach of Trust",
     "url": "http://www.nytimes.com/2014/08/01/opinion/The-CIAs-Reckless-Breach-of-Trust.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "lvevjo",
+    "descendants": 89,
+    "time": 1406914052
   },
   {
     "rank": 10,
     "id": 8121737,
     "title": "I found a bug in the .NET framework and fixed it by hand-altering the DLL",
     "url": "http://blog.nullspace.io/clr-bug.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "antics",
+    "descendants": 118,
+    "time": 1406915152
   }
 ]

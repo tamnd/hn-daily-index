@@ -4,99 +4,99 @@
     "id": 8190023,
     "title": "NSA's BIOS Backdoor a.k.a. God Mode Malware",
     "url": "http://resources.infosecinstitute.com/nsa-bios-backdoor-god-mode-malware-deitybounce/?Print=Yes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "notastartup",
+    "descendants": 68,
+    "time": 1408300298
   },
   {
     "rank": 2,
     "id": 8190217,
     "title": "Spaced Repetition is Awesome",
     "url": "http://www.chrisstucchio.com/blog/2014/spaced_repetition_is_awesome.html?utm_medium=rss&amp;utm_source=feedly&amp;utm_reader=feedly&amp;utm_campaign=rss",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "frrp",
+    "descendants": 78,
+    "time": 1408304431
   },
   {
     "rank": 3,
     "id": 8190641,
     "title": "When Patients Read What Their Doctors Write",
     "url": "http://www.npr.org/blogs/health/2014/08/14/340351393/when-patients-read-what-their-doctors-write",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "mkempe",
+    "descendants": 105,
+    "time": 1408313635
   },
   {
     "rank": 4,
     "id": 8191020,
     "title": "Mitch Hedberg and GIS",
     "url": "http://njgeo.org/2014/01/30/mitch-hedberg-and-gis/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "rtpg",
+    "descendants": 55,
+    "time": 1408322901
   },
   {
     "rank": 5,
     "id": 8191926,
     "title": "TripIt insecurely broadcasts sensitive travel details in calendar feeds",
     "url": "http://httpshaming.tumblr.com/post/94950343491/tripit-insecurely-broadcasts-sensitive-travel-details",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "jyujin",
+    "descendants": 68,
+    "time": 1408353708
   },
   {
     "rank": 6,
     "id": 8192287,
     "title": "Show HN: Scraperjs \u2013 A versatile web scraper",
     "url": "https://github.com/ruipgil/scraperjs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "ruipgil",
+    "descendants": 36,
+    "time": 1408363802
   },
   {
     "rank": 7,
     "id": 8192801,
     "title": "Show HN: Satellizer \u2013 Authentication for AngularJS",
     "url": "http://github.com/sahat/satellizer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "sahat",
+    "descendants": 34,
+    "time": 1408372644
   },
   {
     "rank": 8,
     "id": 8192914,
     "title": "Introducing Rec Room",
     "url": "https://hacks.mozilla.org/2014/08/time-to-get-hacking-introducing-rec-room/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "rnyman",
+    "descendants": 62,
+    "time": 1408374148
   },
   {
     "rank": 9,
     "id": 8193583,
     "title": "Java 9 features announced",
     "url": "http://jaxenter.com/java-9-features-announced-50896.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "xngzng",
+    "descendants": 220,
+    "time": 1408382958
   },
   {
     "rank": 10,
     "id": 8193754,
     "title": "We have C++14",
     "url": "http://isocpp.org/blog/2014/08/we-have-cpp14",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "ingve",
+    "descendants": 342,
+    "time": 1408385737
   }
 ]

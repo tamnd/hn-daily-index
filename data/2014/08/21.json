@@ -4,99 +4,99 @@
     "id": 8202992,
     "title": "Apache Wave on Sandstorm.io",
     "url": "https://blog.sandstorm.io/news/2014-08-20-apache-wave.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 142,
+    "by": "srpeck",
+    "descendants": 45,
+    "time": 1408551843
   },
   {
     "rank": 2,
     "id": 8204412,
     "title": "The Chairless Chair, an invisible chair that you can wear",
     "url": "http://www.cnn.com/2014/08/20/tech/innovation/the-chairless-chair/index.html?hpt=hp_c4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "51Cards",
+    "descendants": 68,
+    "time": 1408566662
   },
   {
     "rank": 3,
     "id": 8205057,
     "title": "Linux Performance",
     "url": "http://www.brendangregg.com/linuxperf.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "kissgyorgy",
+    "descendants": 22,
+    "time": 1408574287
   },
   {
     "rank": 4,
     "id": 8205634,
     "title": "Ftrace: The hidden light switch",
     "url": "http://lwn.net/Articles/608497/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 145,
+    "by": "luu",
+    "descendants": 10,
+    "time": 1408586460
   },
   {
     "rank": 5,
     "id": 8205993,
     "title": "The Strange and Curious Tale of the Last True Hermit",
     "url": "http://www.gq.com/news-politics/newsmakers/201409/the-last-true-hermit?printable=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "randomwalker",
+    "descendants": 86,
+    "time": 1408597672
   },
   {
     "rank": 6,
     "id": 8206038,
     "title": "Why Racket? Why Lisp?",
     "url": "http://practicaltypography.com/why-racket-why-lisp.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "Tomte",
+    "descendants": 280,
+    "time": 1408599191
   },
   {
     "rank": 7,
     "id": 8206140,
     "title": "Codefights",
     "url": "http://www.codefights.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 154,
+    "by": "r_ms",
+    "descendants": 84,
+    "time": 1408602964
   },
   {
     "rank": 8,
     "id": 8206855,
     "title": "Show HN: A virtual whiteboard for working or teaching remotely",
     "url": "http://whiteboardfox.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "MarkMc",
+    "descendants": 140,
+    "time": 1408621825
   },
   {
     "rank": 9,
     "id": 8208316,
     "title": "Multi-Datacenter Cassandra on 32 Raspberry Pi\u2019s",
     "url": "http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "zzzqqq",
+    "descendants": 55,
+    "time": 1408640227
   },
   {
     "rank": 10,
     "id": 8209004,
     "title": "DocumentDB",
     "url": "http://azure.microsoft.com/en-us/documentation/services/documentdb/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "daigoba66",
+    "descendants": 164,
+    "time": 1408647425
   }
 ]

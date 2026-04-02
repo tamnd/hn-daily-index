@@ -4,99 +4,99 @@
     "id": 8003686,
     "title": "Personal names around the world",
     "url": "http://www.w3.org/International/questions/qa-personal-names.en.php?changelang=en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "gulbrandr",
+    "descendants": 114,
+    "time": 1404812643
   },
   {
     "rank": 2,
     "id": 8005744,
     "title": "My Half Workday as a Turker",
     "url": "http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "alceufc",
+    "descendants": 94,
+    "time": 1404841919
   },
   {
     "rank": 3,
     "id": 8006278,
     "title": "Color Emoji in Windows 8.1 \u2013 The Future of Color Fonts?",
     "url": "http://opentype.info/blog/2013/07/03/color-emoji-in-windows-8-1-the-future-of-color-fonts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "sanqui",
+    "descendants": 69,
+    "time": 1404847824
   },
   {
     "rank": 4,
     "id": 8006997,
     "title": "The New Haskell Homepage",
     "url": "http://new-www.haskell.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 506,
+    "by": "markthethomas",
+    "descendants": 243,
+    "time": 1404857612
   },
   {
     "rank": 5,
     "id": 8007383,
     "title": "How I Start: Elixir",
     "url": "http://howistart.org/posts/elixir/1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "kungfooguru",
+    "descendants": 57,
+    "time": 1404863432
   },
   {
     "rank": 6,
     "id": 8008689,
     "title": "Tor Project Sued",
     "url": "https://www.scribd.com/fullscreen/233081133?access_key=key-WFujAqEI3BioFxNO43R3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "mike-cardwell",
+    "descendants": 151,
+    "time": 1404896011
   },
   {
     "rank": 7,
     "id": 8008944,
     "title": "Anti-Patterns in Python Programming",
     "url": "http://lignos.org/py_antipatterns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "aburan28",
+    "descendants": 237,
+    "time": 1404902482
   },
   {
     "rank": 8,
     "id": 8009333,
     "title": "Retraction of 60 articles implicated in a peer review and citation ring",
     "url": "http://www.uk.sagepub.com/aboutus/press/2014/jul/7.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "phreeza",
+    "descendants": 113,
+    "time": 1404910115
   },
   {
     "rank": 9,
     "id": 8010247,
     "title": "A Server Naming Scheme",
     "url": "http://mnx.io/blog/a-proper-server-naming-scheme/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "mstolisov",
+    "descendants": 199,
+    "time": 1404920769
   },
   {
     "rank": 10,
     "id": 8010719,
     "title": "Retirement of Prof. Andy Tanenbaum",
     "url": "http://www.cs.vu.nl/tanenbaum/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "Morgawr",
+    "descendants": 127,
+    "time": 1404925008
   }
 ]

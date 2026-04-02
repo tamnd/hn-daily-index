@@ -4,99 +4,99 @@
     "id": 8089097,
     "title": "Mystery in the Perseus Cluster",
     "url": "http://science.nasa.gov/science-news/science-at-nasa/2014/24jul_perseuscluster/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 173,
+    "by": "uladzislau",
+    "descendants": 68,
+    "time": 1406357052
   },
   {
     "rank": 2,
     "id": 8090149,
     "title": "Diary of an atomic bomb technician",
     "url": "http://www.lrb.co.uk/v36/n15/mike-kirby/diary",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "timdierks",
+    "descendants": 68,
+    "time": 1406393853
   },
   {
     "rank": 3,
     "id": 8090190,
     "title": "A Traditional City Primer",
     "url": "http://www.andrewalexanderprice.com/blog20131204.php#.U9PdSPmSz6A",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "nopinsight",
+    "descendants": 154,
+    "time": 1406395055
   },
   {
     "rank": 4,
     "id": 8090311,
     "title": "How I ended up conducting successful tech interviews with just 1 question",
     "url": "http://www.nicolasbize.com/blog/how-i-ended-up-conducting-the-most-successful-technical-interviews-with-a-single-question/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "bubblicious",
+    "descendants": 133,
+    "time": 1406398251
   },
   {
     "rank": 5,
     "id": 8090534,
     "title": "Elvish \u2013 An experimental Unix shell in Go",
     "url": "https://github.com/xiaq/elvish",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "networked",
+    "descendants": 75,
+    "time": 1406403413
   },
   {
     "rank": 6,
     "id": 8090759,
     "title": "Ten Thousand Years",
     "url": "http://99percentinvisible.org/episode/ten-thousand-years/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "ZeljkoS",
+    "descendants": 130,
+    "time": 1406407821
   },
   {
     "rank": 7,
     "id": 8090996,
     "title": "The New York Times Calls for Marijuana Legalization",
     "url": "http://www.nytimes.com/interactive/2014/07/27/opinion/sunday/high-time-marijuana-legalization.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "ingve",
+    "descendants": 189,
+    "time": 1406412733
   },
   {
     "rank": 8,
     "id": 8092216,
     "title": "Rand Paul introduces bill to reform civil asset forfeiture",
     "url": "http://www.washingtonpost.com/news/the-watch/wp/2014/07/25/rand-paul-introduces-bill-to-reform-civil-asset-forfeiture/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 163,
+    "by": "lsh123",
+    "descendants": 60,
+    "time": 1406446367
   },
   {
     "rank": 9,
     "id": 8092483,
     "title": "Government Surveillance and Internet Search Behavior",
     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2412564",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 151,
+    "by": "mo",
+    "descendants": 28,
+    "time": 1406460704
   },
   {
     "rank": 10,
     "id": 8092566,
     "title": "Game about squares",
     "url": "http://gameaboutsquares.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 910,
+    "by": "golergka",
+    "descendants": 194,
+    "time": 1406464174
   }
 ]

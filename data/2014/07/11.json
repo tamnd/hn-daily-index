@@ -4,99 +4,99 @@
     "id": 8015354,
     "title": "Data.sparkfun.com: A place to push your data",
     "url": "https://data.sparkfun.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "jamesbritt",
+    "descendants": 68,
+    "time": 1405007189
   },
   {
     "rank": 2,
     "id": 8018602,
     "title": "White House nixes Patent Office pick after tech-sector outcry",
     "url": "http://arstechnica.com/tech-policy/2014/07/white-house-nixes-patent-office-pick-after-tech-sector-outcry/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "aaronharnly",
+    "descendants": 20,
+    "time": 1405045975
   },
   {
     "rank": 3,
     "id": 8018818,
     "title": "File system that stores location of file in Pi",
     "url": "https://github.com/philipl/pifs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "morisy",
+    "descendants": 98,
+    "time": 1405051412
   },
   {
     "rank": 4,
     "id": 8018985,
     "title": "CISPA is back with a new name",
     "url": "http://www.cispaisback.org/?t=dXNlcmlkPTUyMjM4MjE3LGVtYWlsaWQ9ODgzNw==",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "fur0n",
+    "descendants": 41,
+    "time": 1405056079
   },
   {
     "rank": 5,
     "id": 8019346,
     "title": "XPlain \u2013 Explaining X11 for the rest of us",
     "url": "http://magcius.github.io/xplain/article/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "emillon",
+    "descendants": 65,
+    "time": 1405069646
   },
   {
     "rank": 6,
     "id": 8019415,
     "title": "Videos about JavaScript",
     "url": "https://github.com/bolshchikov/js-must-watch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "bolshchikov",
+    "descendants": 59,
+    "time": 1405071636
   },
   {
     "rank": 7,
     "id": 8019918,
     "title": "William Binney: 80% of audio calls are recorded and stored in the US",
     "url": "http://www.theguardian.com/commentisfree/2014/jul/11/the-ultimate-goal-of-the-nsa-is-total-population-control/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "cryptoz",
+    "descendants": 129,
+    "time": 1405084254
   },
   {
     "rank": 8,
     "id": 8020344,
     "title": "Amazon Cognito",
     "url": "https://aws.amazon.com/cognito/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "moonlighter",
+    "descendants": 157,
+    "time": 1405089880
   },
   {
     "rank": 9,
     "id": 8020621,
     "title": "Bill Gates's Favorite Business Book",
     "url": "http://online.wsj.com/articles/bill-gatess-favorite-business-book-1405088228",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "AJ007",
+    "descendants": 61,
+    "time": 1405092397
   },
   {
     "rank": 10,
     "id": 8022177,
     "title": "This is a blog post that\u2019s incredibly confusing and painful for me to write",
     "url": "http://blog.maxistentialism.com/post/91476212698/this-is-a-blog-post-thats-incredibly-confusing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "schrodingersCat",
+    "descendants": 208,
+    "time": 1405110200
   }
 ]

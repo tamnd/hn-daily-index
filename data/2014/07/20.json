@@ -4,99 +4,99 @@
     "id": 8055631,
     "title": "The time one of my colleagues debugged a line-of-business application",
     "url": "http://blogs.msdn.com/b/oldnewthing/archive/2014/07/18/10543324.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 162,
+    "by": "joshyeager",
+    "descendants": 14,
+    "time": 1405717554
   },
   {
     "rank": 2,
     "id": 8057470,
     "title": "Identifying backdoors, attack points, and surveillance mechanisms in iOS devices",
     "url": "http://www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "rjzzleep",
+    "descendants": 80,
+    "time": 1405778010
   },
   {
     "rank": 3,
     "id": 8057599,
     "title": "Conspiracy and an off-by-one error",
     "url": "https://gist.github.com/klaufir/d1e694c064322a7fbc15",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "TazeTSchnitzel",
+    "descendants": 36,
+    "time": 1405781403
   },
   {
     "rank": 4,
     "id": 8058122,
     "title": "Introduction to Coreboot, an open source BIOS",
     "url": "http://lennartb.home.xs4all.nl/coreboot/coreboot.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "powerbook5300CS",
+    "descendants": 49,
+    "time": 1405791286
   },
   {
     "rank": 5,
     "id": 8058306,
     "title": "How Turbans Helped Some Blacks Go Incognito in the Jim Crow Era",
     "url": "http://www.npr.org/blogs/codeswitch/2014/07/19/332380449/how-turbans-helped-some-blacks-go-incognito-in-the-jim-crow-era",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "TheBiv",
+    "descendants": 42,
+    "time": 1405795319
   },
   {
     "rank": 6,
     "id": 8058671,
     "title": "Sana'a",
     "url": "http://idlewords.com/2014/07/sana_a.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "dang",
+    "descendants": 52,
+    "time": 1405802906
   },
   {
     "rank": 7,
     "id": 8059237,
     "title": "Introduction to A*",
     "url": "http://www.redblobgames.com/pathfinding/a-star/introduction.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "phenylene",
+    "descendants": 28,
+    "time": 1405817029
   },
   {
     "rank": 8,
     "id": 8060347,
     "title": "How to Be Happy",
     "url": "http://lesswrong.com/lw/4su/how_to_be_happy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "adamzerner",
+    "descendants": 213,
+    "time": 1405865947
   },
   {
     "rank": 9,
     "id": 8060699,
     "title": "A Lisper's first impression of Julia",
     "url": "http://p-cos.blogspot.com/2014/07/a-lispers-first-impression-of-julia.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "ananthrk",
+    "descendants": 38,
+    "time": 1405873095
   },
   {
     "rank": 10,
     "id": 8060784,
     "title": "Calling All Hackers: Help Us Build an Open Wireless Router",
     "url": "https://www.eff.org/deeplinks/2014/07/building-open-wireless-router",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 850,
+    "by": "Blahah",
+    "descendants": 138,
+    "time": 1405874647
   }
 ]
