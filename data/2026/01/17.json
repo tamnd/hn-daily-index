@@ -4,99 +4,99 @@
     "id": 46588379,
     "title": "Lock-Picking Robot",
     "url": "https://github.com/etinaude/Lock-Picking-Robot",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "p44v9n",
+    "descendants": 141,
+    "time": 1768225362
   },
   {
     "rank": 2,
     "id": 46588972,
     "title": "We put Claude Code in Rollercoaster Tycoon",
     "url": "https://labs.ramp.com/rct",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 526,
+    "by": "iamwil",
+    "descendants": 288,
+    "time": 1768228097
   },
   {
     "rank": 3,
     "id": 46635309,
     "title": "LLM Structured Outputs Handbook",
     "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "vitaelabitur",
+    "descendants": 64,
+    "time": 1768495610
   },
   {
     "rank": 4,
     "id": 46645176,
     "title": "Why DuckDB is my first choice for data processing",
     "url": "https://www.robinlinacre.com/recommend_duckdb/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "tosh",
+    "descendants": 119,
+    "time": 1768561058
   },
   {
     "rank": 5,
     "id": 46646263,
     "title": "Michelangelo's first painting, created when he was 12 or 13",
     "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "bookofjoe",
+    "descendants": 172,
+    "time": 1768571065
   },
   {
     "rank": 6,
     "id": 46646475,
     "title": "The Dilbert Afterlife",
     "url": "https://www.astralcodexten.com/p/the-dilbert-afterlife",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "rendall",
+    "descendants": 390,
+    "time": 1768572572
   },
   {
     "rank": 7,
     "id": 46647491,
     "title": "6-Day and IP Address Certificates Are Generally Available",
     "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 506,
+    "by": "jaas",
+    "descendants": 281,
+    "time": 1768577839
   },
   {
     "rank": 8,
     "id": 46648916,
     "title": "East Germany balloon escape",
     "url": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 724,
+    "by": "robertvc",
+    "descendants": 301,
+    "time": 1768583793
   },
   {
     "rank": 9,
     "id": 46656903,
     "title": "US electricity demand surged in 2025 \u2013 solar handled 61% of it",
     "url": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "doener",
+    "descendants": 331,
+    "time": 1768645686
   },
   {
     "rank": 10,
     "id": 46657122,
     "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
     "url": "https://alexharri.com/blog/ascii-rendering",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1353,
+    "by": "alexharri",
+    "descendants": 149,
+    "time": 1768648526
   }
 ]

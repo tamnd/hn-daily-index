@@ -4,99 +4,99 @@
     "id": 46890814,
     "title": "Start all of your commands with a comma (2009)",
     "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 655,
+    "by": "theblazehen",
+    "descendants": 244,
+    "time": 1770235152
   },
   {
     "rank": 2,
     "id": 46912800,
     "title": "Hackers (1995) Animated Experience",
     "url": "https://hackers-1995.vercel.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 612,
+    "by": "todsacerdoti",
+    "descendants": 287,
+    "time": 1770385795
   },
   {
     "rank": 3,
     "id": 46913793,
     "title": "Microsoft open-sources LiteBox, a security-focused library OS",
     "url": "https://github.com/microsoft/litebox",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "aktau",
+    "descendants": 215,
+    "time": 1770390784
   },
   {
     "rank": 4,
     "id": 46913903,
     "title": "An Update on Heroku",
     "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "lstoll",
+    "descendants": 352,
+    "time": 1770391223
   },
   {
     "rank": 5,
     "id": 46914159,
     "title": "Sheldon Brown's Bicycle Technical Info",
     "url": "https://www.sheldonbrown.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "ostacke",
+    "descendants": 115,
+    "time": 1770392442
   },
   {
     "rank": 6,
     "id": 46916609,
     "title": "Show HN: If you lose your memory, how to regain access to your computer?",
     "url": "https://eljojo.github.io/rememory/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "eljojo",
+    "descendants": 233,
+    "time": 1770403918
   },
   {
     "rank": 7,
     "id": 46917033,
     "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
     "url": "https://vecti.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "vecti",
+    "descendants": 183,
+    "time": 1770406057
   },
   {
     "rank": 8,
     "id": 46918612,
     "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
     "url": "https://openciv3.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 996,
+    "by": "klaussilveira",
+    "descendants": 309,
+    "time": 1770414683
   },
   {
     "rank": 9,
     "id": 46923736,
     "title": "France's homegrown open source online office suite",
     "url": "https://github.com/suitenumerique",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 818,
+    "by": "nar001",
+    "descendants": 346,
+    "time": 1770471274
   },
   {
     "rank": 10,
     "id": 46926245,
     "title": "We mourn our craft",
     "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 824,
+    "by": "ColinWright",
+    "descendants": 869,
+    "time": 1770489147
   }
 ]

@@ -4,99 +4,99 @@
     "id": 46613324,
     "title": "Inside The Internet Archive's Infrastructure",
     "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "dvrp",
+    "descendants": 119,
+    "time": 1768375612
   },
   {
     "rank": 2,
     "id": 46628329,
     "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
     "url": "https://kyutai.org/blog/2026-01-13-pocket-tts",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 635,
+    "by": "pain_perdu",
+    "descendants": 158,
+    "time": 1768454048
   },
   {
     "rank": 3,
     "id": 46638013,
     "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
     "url": "https://briarproject.org/manual/fa/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 604,
+    "by": "us321",
+    "descendants": 368,
+    "time": 1768505882
   },
   {
     "rank": 4,
     "id": 46641284,
     "title": "List of individual trees",
     "url": "https://en.wikipedia.org/wiki/List_of_individual_trees",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "wilson090",
+    "descendants": 116,
+    "time": 1768521901
   },
   {
     "rank": 5,
     "id": 46642560,
     "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
     "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "gpi",
+    "descendants": 57,
+    "time": 1768533036
   },
   {
     "rank": 6,
     "id": 46645615,
     "title": "Just the Browser",
     "url": "https://justthebrowser.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "cl3misch",
+    "descendants": 259,
+    "time": 1768565032
   },
   {
     "rank": 7,
     "id": 46646645,
     "title": "Cloudflare acquires Astro",
     "url": "https://astro.build/blog/joining-cloudflare/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 960,
+    "by": "todotask2",
+    "descendants": 391,
+    "time": 1768573554
   },
   {
     "rank": 8,
     "id": 46646777,
     "title": "Cursor's latest \u201cbrowser experiment\u201d implied success without evidence",
     "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 724,
+    "by": "embedding-shape",
+    "descendants": 309,
+    "time": 1768574269
   },
   {
     "rank": 9,
     "id": 46648778,
     "title": "Canada slashes 100% tariffs on Chinese EVs to 6%",
     "url": "https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 452,
+    "by": "1970-01-01",
+    "descendants": 597,
+    "time": 1768583128
   },
   {
     "rank": 10,
     "id": 46649142,
     "title": "STFU",
     "url": "https://github.com/Pankajtanwarbanna/stfu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1043,
+    "by": "tanelpoder",
+    "descendants": 601,
+    "time": 1768584760
   }
 ]

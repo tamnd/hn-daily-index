@@ -4,99 +4,99 @@
     "id": 46526896,
     "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
     "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "bookofjoe",
+    "descendants": 132,
+    "time": 1767796996
   },
   {
     "rank": 2,
     "id": 46539478,
     "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
     "url": "https://www.youtube.com/watch?v=il-TXbn5iMA",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "imagiro",
+    "descendants": 78,
+    "time": 1767868445
   },
   {
     "rank": 3,
     "id": 46543509,
     "title": "Perfectly Replicating Coca Cola [video]",
     "url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "HansVanEijsden",
+    "descendants": 219,
+    "time": 1767892195
   },
   {
     "rank": 4,
     "id": 46578921,
     "title": "iCloud Photos Downloader",
     "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 653,
+    "by": "reconnecting",
+    "descendants": 248,
+    "time": 1768159438
   },
   {
     "rank": 5,
     "id": 46580326,
     "title": "CLI agents make self-hosting on a home server easier and fun",
     "url": "https://fulghum.io/self-hosting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 775,
+    "by": "websku",
+    "descendants": 549,
+    "time": 1768166997
   },
   {
     "rank": 6,
     "id": 46582420,
     "title": "Statement from Jerome Powell",
     "url": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 924,
+    "by": "0xedb",
+    "descendants": 808,
+    "time": 1768179768
   },
   {
     "rank": 7,
     "id": 46587934,
     "title": "Floppy disks turn out to be the greatest TV remote for kids",
     "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 752,
+    "by": "mchro",
+    "descendants": 418,
+    "time": 1768223269
   },
   {
     "rank": 8,
     "id": 46589675,
     "title": "Apple picks Google's Gemini to power Siri",
     "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1038,
+    "by": "stygiansonic",
+    "descendants": 651,
+    "time": 1768231341
   },
   {
     "rank": 9,
     "id": 46590280,
     "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
     "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 737,
+    "by": "admp",
+    "descendants": 314,
+    "time": 1768233867
   },
   {
     "rank": 10,
     "id": 46593022,
     "title": "Cowork: Claude Code for the rest of your work",
     "url": "https://claude.com/blog/cowork-research-preview",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1298,
+    "by": "adocomplete",
+    "descendants": 565,
+    "time": 1768246039
   }
 ]
