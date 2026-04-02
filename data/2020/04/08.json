@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 22798914,
+    "title": "This Video Has X Views",
+    "url": "https://www.youtube.com/watch?v=BxV14h0kFs0",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 22804290,
+    "title": "We abused Slack's TURN servers to gain access to internal services",
+    "url": "https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 22806434,
+    "title": "Data Science: Reality Doesn't Meet Expectations",
+    "url": "https://dfrieds.com/articles/data-science-reality-vs-expectations.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 22808208,
+    "title": "We\u2019re working on 1M Covid-19 testing capacity per day",
+    "url": "https://www.billiontoone.com/covid-19",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 22811653,
+    "title": "Show HN: FalsiScan \u2013 Make it look like a PDF has been hand signed and scanned",
+    "url": "https://gitlab.com/edouardklein/falsisign",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 22813168,
+    "title": "An alternative to using Google Analytics on your website",
+    "url": "https://plausible.io/blog/remove-google-analytics",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 22813263,
+    "title": "Zoom sued for overstating, not disclosing privacy, security flaws",
+    "url": "https://uk.reuters.com/article/us-zoom-video-commn-privacy-lawsuit/zoom-sued-for-overstating-not-disclosing-privacy-security-flaws-idUKKBN21Q10V",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 22813565,
+    "title": "Jitsi Meet features update",
+    "url": "https://jitsi.org/news/features-update-april-2020/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 22815453,
+    "title": "New Google SRE book: Building Secure and Reliable Systems",
+    "url": "https://landing.google.com/sre/books/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 22816192,
+    "title": "Google bans Zoom from employees' computers",
+    "url": "https://www.buzzfeednews.com/article/pranavdixit/google-bans-zoom",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
