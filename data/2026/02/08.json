@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 46918254,
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "url": "https://github.com/pydantic/monty",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 46918429,
+    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+    "url": "https://github.com/valdanylchuk/breezydemo",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 46922049,
+    "title": "Vocal Guide \u2013 belt sing without killing yourself",
+    "url": "https://jesperordrup.github.io/vocal-guide/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 46922969,
+    "title": "The AI boom is causing shortages everywhere else",
+    "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 46923543,
+    "title": "Coding agents have replaced every framework I used",
+    "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 46925741,
+    "title": "SectorC: A C Compiler in 512 bytes (2023)",
+    "url": "https://xorvoid.com/sectorc.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 46930391,
+    "title": "Show HN: LocalGPT \u2013 A local-first AI assistant in Rust with persistent memory",
+    "url": "https://github.com/localgpt-app/localgpt",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 46930961,
+    "title": "Vouch",
+    "url": "https://github.com/mitchellh/vouch",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 46932192,
+    "title": "DoNotNotify is now Open Source",
+    "url": "https://donotnotify.com/opensource.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 46933067,
+    "title": "Slop Terrifies Me",
+    "url": "https://ezhik.jp/ai-slop-terrifies-me/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

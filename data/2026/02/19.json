@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47062748,
+    "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+    "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 47063005,
+    "title": "Tailscale Peer Relays is now generally available",
+    "url": "https://tailscale.com/blog/peer-relays-ga",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 47064490,
+    "title": "Cosmologically Unique IDs",
+    "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 47066241,
+    "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+    "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 47066552,
+    "title": "Sizing chaos",
+    "url": "https://pudding.cool/2026/02/womens-sizing/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 47069299,
+    "title": "Anthropic officially bans using subscription auth for third party use",
+    "url": "https://code.claude.com/docs/en/legal-and-compliance",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 47074735,
+    "title": "Gemini 3.1 Pro",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 47075124,
+    "title": "Show HN: Micasa \u2013 track your house from the terminal",
+    "url": "https://micasa.dev",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 47075318,
+    "title": "Gemini 3.1 Pro",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 47076966,
+    "title": "AI makes you boring",
+    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
