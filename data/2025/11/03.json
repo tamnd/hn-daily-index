@@ -4,99 +4,99 @@
     "id": 45787993,
     "title": "Backpropagation is a leaky abstraction (2016)",
     "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "swatson741",
+    "descendants": 160,
+    "time": 1762060812
   },
   {
     "rank": 2,
     "id": 45789424,
     "title": "Using FreeBSD to make self-hosting fun again",
     "url": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "todsacerdoti",
+    "descendants": 166,
+    "time": 1762081283
   },
   {
     "rank": 3,
     "id": 45789602,
     "title": "Tongyi DeepResearch \u2013 open-source 30B MoE Model that rivals OpenAI DeepResearch",
     "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "meander_water",
+    "descendants": 153,
+    "time": 1762083806
   },
   {
     "rank": 4,
     "id": 45792209,
     "title": "Anti-cybercrime laws are being weaponized to repress journalism",
     "url": "https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "giuliomagnifico",
+    "descendants": 98,
+    "time": 1762107169
   },
   {
     "rank": 5,
     "id": 45793466,
     "title": "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
     "url": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "rbanffy",
+    "descendants": 206,
+    "time": 1762117695
   },
   {
     "rank": 6,
     "id": 45794032,
     "title": "Facts about throwing good parties",
     "url": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 963,
+    "by": "cjbarber",
+    "descendants": 412,
+    "time": 1762122762
   },
   {
     "rank": 7,
     "id": 45795036,
     "title": "Simple trick to increase coverage: Lying to users about signal strength",
     "url": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 439,
+    "by": "tsujamin",
+    "descendants": 181,
+    "time": 1762133268
   },
   {
     "rank": 8,
     "id": 45797242,
     "title": "Tiny electric motor can produce more than 1,000 horsepower",
     "url": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 622,
+    "by": "chris_overseas",
+    "descendants": 598,
+    "time": 1762161601
   },
   {
     "rank": 9,
     "id": 45798681,
     "title": "Why Nextcloud feels slow to use",
     "url": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "rpgbr",
+    "descendants": 350,
+    "time": 1762176069
   },
   {
     "rank": 10,
     "id": 45798827,
     "title": "Google suspended my company's Google cloud account for the third time",
     "url": "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "agwa",
+    "descendants": 192,
+    "time": 1762177158
   }
 ]

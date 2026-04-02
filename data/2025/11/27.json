@@ -4,99 +4,99 @@
     "id": 46020193,
     "title": "A Fast 64-Bit Date Algorithm (30\u201340% faster by counting dates backwards)",
     "url": "https://www.benjoffe.com/fast-date-64",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "benjoffe",
+    "descendants": 94,
+    "time": 1763864836
   },
   {
     "rank": 2,
     "id": 46060508,
     "title": "Gemini CLI tips and tricks for agentic coding",
     "url": "https://github.com/addyosmani/gemini-cli-tips",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "ayoisaiah",
+    "descendants": 145,
+    "time": 1764180482
   },
   {
     "rank": 3,
     "id": 46061682,
     "title": "S&box is now an open source game engine",
     "url": "https://sbox.game/news/update-25-11-26",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "MaximilianEmel",
+    "descendants": 151,
+    "time": 1764187107
   },
   {
     "rank": 4,
     "id": 46062504,
     "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
     "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 597,
+    "by": "cyclecount",
+    "descendants": 311,
+    "time": 1764192336
   },
   {
     "rank": 5,
     "id": 46063072,
     "title": "Bring bathroom doors back to hotels",
     "url": "https://bringbackdoors.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 804,
+    "by": "bariumbitmap",
+    "descendants": 673,
+    "time": 1764195996
   },
   {
     "rank": 6,
     "id": 46064571,
     "title": "Migrating the main Zig repository from GitHub to Codeberg",
     "url": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 927,
+    "by": "todsacerdoti",
+    "descendants": 893,
+    "time": 1764208140
   },
   {
     "rank": 7,
     "id": 46064757,
     "title": "Penpot: The Open-Source Figma",
     "url": "https://github.com/penpot/penpot",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 775,
+    "by": "selvan",
+    "descendants": 207,
+    "time": 1764209676
   },
   {
     "rank": 8,
     "id": 46065034,
     "title": "DIY NAS: 2026 Edition",
     "url": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "sashk",
+    "descendants": 311,
+    "time": 1764212063
   },
   {
     "rank": 9,
     "id": 46065955,
     "title": "Tell HN: Happy Thanksgiving",
     "url": "https://news.ycombinator.com/item?id=46065955",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 805,
+    "by": "prodigycorp",
+    "descendants": 198,
+    "time": 1764220876
   },
   {
     "rank": 10,
     "id": 46066280,
     "title": "Linux Kernel Explorer",
     "url": "https://reverser.dev/linux-kernel-explorer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 605,
+    "by": "tanelpoder",
+    "descendants": 94,
+    "time": 1764224257
   }
 ]

@@ -4,99 +4,99 @@
     "id": 46096800,
     "title": "Migrating Dillo from GitHub",
     "url": "https://dillo-browser.org/news/migration-from-github/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "todsacerdoti",
+    "descendants": 212,
+    "time": 1764511900
   },
   {
     "rank": 2,
     "id": 46098838,
     "title": "Writing a good Claude.md",
     "url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 748,
+    "by": "objcts",
+    "descendants": 290,
+    "time": 1764525403
   },
   {
     "rank": 3,
     "id": 46100892,
     "title": "A Love Letter to FreeBSD",
     "url": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "rbanffy",
+    "descendants": 316,
+    "time": 1764540307
   },
   {
     "rank": 4,
     "id": 46101492,
     "title": "Algorithms for Optimization [pdf]",
     "url": "https://algorithmsbook.com/optimization/files/optimization.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "Anon84",
+    "descendants": 36,
+    "time": 1764544892
   },
   {
     "rank": 5,
     "id": 46103376,
     "title": "Search tool that only returns content created before ChatGPT's public release",
     "url": "https://tegabrain.com/Slop-Evader",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 888,
+    "by": "dmitrygr",
+    "descendants": 370,
+    "time": 1764561966
   },
   {
     "rank": 6,
     "id": 46103532,
     "title": "Google Antigravity just deleted the contents of whole drive",
     "url": "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "tamnd",
+    "descendants": 482,
+    "time": 1764563968
   },
   {
     "rank": 7,
     "id": 46103858,
     "title": "It\u2019s been a very hard year",
     "url": "https://bell.bz/its-been-a-very-hard-year/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "surprisetalk",
+    "descendants": 675,
+    "time": 1764567408
   },
   {
     "rank": 8,
     "id": 46104193,
     "title": "India orders smartphone makers to preload state-owned cyber safety app",
     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 900,
+    "by": "jmsflknr",
+    "descendants": 733,
+    "time": 1764570614
   },
   {
     "rank": 9,
     "id": 46106556,
     "title": "Why xor eax, eax?",
     "url": "https://xania.org/202512/01-xor-eax-eax",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 576,
+    "by": "hasheddan",
+    "descendants": 215,
+    "time": 1764591755
   },
   {
     "rank": 10,
     "id": 46108780,
     "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 982,
+    "by": "pretext",
+    "descendants": 465,
+    "time": 1764604083
   }
 ]

@@ -4,99 +4,99 @@
     "id": 46019898,
     "title": "Three Years from GPT-3 to Gemini 3",
     "url": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "JumpCrisscross",
+    "descendants": 319,
+    "time": 1763861117
   },
   {
     "rank": 2,
     "id": 46033151,
     "title": "NSA and IETF, part 3: Dodging the issues at hand",
     "url": "https://blog.cr.yp.to/20251123-dodging.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "upofadown",
+    "descendants": 229,
+    "time": 1763985655
   },
   {
     "rank": 3,
     "id": 46036878,
     "title": "Implications of AI to schools",
     "url": "https://twitter.com/karpathy/status/1993010584175141038",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "bilsbie",
+    "descendants": 434,
+    "time": 1764006662
   },
   {
     "rank": 4,
     "id": 46036908,
     "title": "Show HN: I built an interactive HN Simulator",
     "url": "https://news.ysimulator.run/news",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 538,
+    "by": "johnsillings",
+    "descendants": 215,
+    "time": 1764006763
   },
   {
     "rank": 5,
     "id": 46038047,
     "title": "Claude Advanced Tool Use",
     "url": "https://www.anthropic.com/engineering/advanced-tool-use",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 673,
+    "by": "lebovic",
+    "descendants": 266,
+    "time": 1764012095
   },
   {
     "rank": 6,
     "id": 46038099,
     "title": "Unpowered SSDs slowly lose data",
     "url": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 770,
+    "by": "amichail",
+    "descendants": 329,
+    "time": 1764012325
   },
   {
     "rank": 7,
     "id": 46038143,
     "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
     "url": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "speckx",
+    "descendants": 383,
+    "time": 1764012552
   },
   {
     "rank": 8,
     "id": 46042928,
     "title": "Human brains are preconfigured with instructions for understanding the world",
     "url": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "XzetaU8",
+    "descendants": 304,
+    "time": 1764052291
   },
   {
     "rank": 9,
     "id": 46047350,
     "title": "Orion 1.0",
     "url": "https://blog.kagi.com/orion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "STRiDEX",
+    "descendants": 275,
+    "time": 1764087684
   },
   {
     "rank": 10,
     "id": 46048996,
     "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
     "url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 768,
+    "by": "jjmaxwell4",
+    "descendants": 215,
+    "time": 1764095476
   }
 ]

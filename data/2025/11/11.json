@@ -4,99 +4,99 @@
     "id": 45785300,
     "title": "How I fell in love with Erlang",
     "url": "https://boragonul.com/post/falling-in-love-with-erlang",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "asabil",
+    "descendants": 249,
+    "time": 1762030833
   },
   {
     "rank": 2,
     "id": 45840321,
     "title": "Unix v4 Tape Found",
     "url": "https://discuss.systems/@ricci/115504720054699983",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 510,
+    "by": "greatquux",
+    "descendants": 100,
+    "time": 1762462629
   },
   {
     "rank": 3,
     "id": 45874987,
     "title": "Vibe Code Warning \u2013 A personal casestudy",
     "url": "https://github.com/jackdoe/pico2-swd-riscv",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "jackdoe",
+    "descendants": 313,
+    "time": 1762775115
   },
   {
     "rank": 4,
     "id": 45878578,
     "title": "The lazy Git UI you didn't know you need",
     "url": "https://www.bwplotka.dev/2025/lazygit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "linhns",
+    "descendants": 222,
+    "time": 1762797021
   },
   {
     "rank": 5,
     "id": 45879101,
     "title": "Redmond, WA, turns off Flock Safety cameras after ICE arrests",
     "url": "https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "dredmorbius",
+    "descendants": 418,
+    "time": 1762799406
   },
   {
     "rank": 6,
     "id": 45882837,
     "title": "Warren Buffett's final shareholder letter [pdf]",
     "url": "https://berkshirehathaway.com/news/nov1025.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "philip1209",
+    "descendants": 204,
+    "time": 1762822304
   },
   {
     "rank": 7,
     "id": 45883788,
     "title": "The 'Toy Story' You Remember",
     "url": "https://animationobsessive.substack.com/p/the-toy-story-you-remember",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1196,
+    "by": "ani_obsessive",
+    "descendants": 338,
+    "time": 1762831063
   },
   {
     "rank": 8,
     "id": 45884937,
     "title": "SoftBank sells its entire stake in Nvidia",
     "url": "https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "mfiguiere",
+    "descendants": 226,
+    "time": 1762846326
   },
   {
     "rank": 9,
     "id": 45885813,
     "title": "iPhone Pocket",
     "url": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 523,
+    "by": "soheilpro",
+    "descendants": 1302,
+    "time": 1762856277
   },
   {
     "rank": 10,
     "id": 45891016,
     "title": "FFmpeg to Google: Fund us or stop sending bugs",
     "url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1175,
+    "by": "CrankyBear",
+    "descendants": 886,
+    "time": 1762885931
   }
 ]

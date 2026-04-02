@@ -4,99 +4,99 @@
     "id": 46080364,
     "title": "So you wanna build a local RAG?",
     "url": "https://blog.yakkomajuri.com/blog/local-rag",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "pedriquepacheco",
+    "descendants": 105,
+    "time": 1764348896
   },
   {
     "rank": 2,
     "id": 46080473,
     "title": "Bringing Sexy Back. Internet surveillance has killed eroticism",
     "url": "https://lux-magazine.com/article/privacy-eroticism/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "eustoria",
+    "descendants": 312,
+    "time": 1764349531
   },
   {
     "rank": 3,
     "id": 46080916,
     "title": "Molly: An Improved Signal App",
     "url": "https://molly.im/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "dtj1123",
+    "descendants": 257,
+    "time": 1764352105
   },
   {
     "rank": 4,
     "id": 46081053,
     "title": "28M Hacker News comments as vector embedding search dataset",
     "url": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "walterbell",
+    "descendants": 171,
+    "time": 1764352924
   },
   {
     "rank": 5,
     "id": 46081188,
     "title": "Imgur geo-blocked the UK, so I geo-unblocked my network",
     "url": "https://blog.tymscar.com/posts/imgurukproxy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "tymscar",
+    "descendants": 173,
+    "time": 1764353750
   },
   {
     "rank": 6,
     "id": 46082223,
     "title": "How good engineers write bad code at big companies",
     "url": "https://www.seangoedecke.com/bad-code-at-big-companies/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "gfysfm",
+    "descendants": 320,
+    "time": 1764359972
   },
   {
     "rank": 7,
     "id": 46083004,
     "title": "Airbus A320 \u2013 intense solar radiation may corrupt data critical for flight",
     "url": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "pyrophoenix",
+    "descendants": 174,
+    "time": 1764366021
   },
   {
     "rank": 8,
     "id": 46083303,
     "title": "Confessions of a Software Developer: No More Self-Censorship",
     "url": "https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "Kerrick",
+    "descendants": 347,
+    "time": 1764368485
   },
   {
     "rank": 9,
     "id": 46086771,
     "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 854,
+    "by": "fleahunter",
+    "descendants": 737,
+    "time": 1764415918
   },
   {
     "rank": 10,
     "id": 46088192,
     "title": "Iceland declares ocean-current instability a national security risk",
     "url": "https://edition.cnn.com/2025/11/15/climate/iceland-warming-current-amoc-collapse-threat",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "donohoe",
+    "descendants": 161,
+    "time": 1764429689
   }
 ]

@@ -4,99 +4,99 @@
     "id": 46012803,
     "title": "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
     "url": "https://github.com/hexagonal-sun/moss",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "hexagonal-sun",
+    "descendants": 156,
+    "time": 1763795519
   },
   {
     "rank": 2,
     "id": 46069048,
     "title": "TPUs vs. GPUs and why Google is positioned to win AI race in the long term",
     "url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "vegasbrianc",
+    "descendants": 320,
+    "time": 1764250114
   },
   {
     "rank": 3,
     "id": 46070203,
     "title": "GitLab discovers widespread NPM supply chain attack",
     "url": "https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "OuterVale",
+    "descendants": 258,
+    "time": 1764257816
   },
   {
     "rank": 4,
     "id": 46070668,
     "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
     "url": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "mfilion",
+    "descendants": 236,
+    "time": 1764260343
   },
   {
     "rank": 5,
     "id": 46073855,
     "title": "250MWh 'Sand Battery' to start construction in Finland",
     "url": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "doener",
+    "descendants": 249,
+    "time": 1764283724
   },
   {
     "rank": 6,
     "id": 46075320,
     "title": "Pocketbase \u2013 open-source realtime back end in 1 file",
     "url": "https://pocketbase.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 671,
+    "by": "modinfo",
+    "descendants": 204,
+    "time": 1764301504
   },
   {
     "rank": 7,
     "id": 46075882,
     "title": "Show HN: Glasses to detect smart-glasses that have cameras",
     "url": "https://github.com/NullPxl/banrays",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "nullpxl",
+    "descendants": 193,
+    "time": 1764309158
   },
   {
     "rank": 8,
     "id": 46077393,
     "title": "EU Council Approves New \\\"Chat Control\\\" Mandate Pushing Mass Surveillance",
     "url": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "fragebogen",
+    "descendants": 426,
+    "time": 1764326168
   },
   {
     "rank": 9,
     "id": 46078770,
     "title": "Petition to formally recognize open source work as civic service in Germany",
     "url": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 614,
+    "by": "PhilippGille",
+    "descendants": 139,
+    "time": 1764338894
   },
   {
     "rank": 10,
     "id": 46079868,
     "title": "Meta hiding $27B in debt using advanced geometry",
     "url": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "FreeQueso",
+    "descendants": 221,
+    "time": 1764346190
   }
 ]
