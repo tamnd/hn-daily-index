@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 26878153,
+    "title": "Show HN: I'm working on a open-source, self-hosted alternative to Disqus",
+    "url": "https://cusdis.com",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 26880582,
+    "title": "YouTube CEO Susan Wojcicki Gets 'Freedom Expression' Award Sponsored by YouTube",
+    "url": "https://www.newsweek.com/youtube-ceo-susan-wojcicki-gets-freedom-expression-award-sponsored-youtube-1585147",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 26882185,
+    "title": ".NET MAUI: .NET Multi-Platform App UI",
+    "url": "https://github.com/dotnet/maui",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 26887670,
+    "title": "\u201cThey introduce kernel bugs on purpose\u201d",
+    "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 26887724,
+    "title": "Prisma \u2013 ORM for Node.js and TypeScript",
+    "url": "https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 26889677,
+    "title": "Linux bans University of Minnesota for sending buggy patches in name of research",
+    "url": "https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 26890365,
+    "title": "Proposed bill to ban US government from buying location data [pdf]",
+    "url": "https://www.wyden.senate.gov/imo/media/doc/The%20Fourth%20Amendment%20Is%20Not%20For%20Sale%20Act%20of%202021%20Bill%20Text.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 26891811,
+    "title": "Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer",
+    "url": "https://signal.org/blog/cellebrite-vulnerabilities/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 26892508,
+    "title": "GUI app support is now available for the Windows Subsystem for Linux",
+    "url": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 26895510,
+    "title": "UMN CS&E Statement on Linux Kernel Research",
+    "url": "https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
