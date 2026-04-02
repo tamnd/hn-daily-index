@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 27865086,
+    "title": "What Went Wrong?",
+    "url": "https://queue.acm.org/detail.cfm?id=3475967",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 27866934,
+    "title": "Cryptographers unearth vulnerabilities in Telegram's encryption protocol",
+    "url": "https://www.cyberscoop.com/telegram-app-security-encryption/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 27867941,
+    "title": "HaikuOS running on RISC-V hardware (HiFive Unmatched)",
+    "url": "https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 27870399,
+    "title": "Looking Glass: Run a Windows VM on Linux in a window with native performance",
+    "url": "https://looking-glass.io/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 27872575,
+    "title": "Inserting One Billion Rows in SQLite Under a Minute",
+    "url": "https://avi.im/blag/2021/fast-sqlite-inserts/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 27872596,
+    "title": "Zig cc: A drop-in replacement for GCC/Clang (2020)",
+    "url": "https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 27874027,
+    "title": "Leak uncovers global abuse of cyber-surveillance weapon",
+    "url": "https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 27874100,
+    "title": "Private Israeli spyware used to hack cellphones of journalists, activists",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 27874527,
+    "title": "Right or left, you should be worried about big tech censorship",
+    "url": "https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 27875158,
+    "title": "An app for M1 Macs that plays the sound of a fan as CPU usage goes up",
+    "url": "https://fanfan.rambo.codes/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
