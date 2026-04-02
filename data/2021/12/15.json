@@ -4,99 +4,99 @@
     "id": 29553620,
     "title": "Webb placed on top of Ariane 5",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_placed_on_top_of_Ariane_5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "_Microft",
+    "descendants": 212,
+    "time": 1639500010
   },
   {
     "rank": 2,
     "id": 29554461,
     "title": "Plans you're not supposed to talk about",
     "url": "https://dynomight.net/plans/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 846,
+    "by": "dynm",
+    "descendants": 635,
+    "time": 1639503277
   },
   {
     "rank": 3,
     "id": 29559961,
     "title": "Pico CSS Framework",
     "url": "https://picocss.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "brianzelip",
+    "descendants": 101,
+    "time": 1639526520
   },
   {
     "rank": 4,
     "id": 29561296,
     "title": "Busy Simulator: Feign importance with repeating app sounds",
     "url": "https://busysimulator.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "karmanyaahm",
+    "descendants": 113,
+    "time": 1639535088
   },
   {
     "rank": 5,
     "id": 29561532,
     "title": "Log4Shell update: second Log4j vulnerability published",
     "url": "https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "freeqaz",
+    "descendants": 278,
+    "time": 1639537139
   },
   {
     "rank": 6,
     "id": 29563229,
     "title": "HTTP/3 Is Fast",
     "url": "https://requestmetrics.com/web-performance/http3-is-fast",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "SerCe",
+    "descendants": 294,
+    "time": 1639555706
   },
   {
     "rank": 7,
     "id": 29566541,
     "title": "Log4jmemes.com: for those of us that need a laugh",
     "url": "https://log4jmemes.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "MalacodaV",
+    "descendants": 108,
+    "time": 1639579340
   },
   {
     "rank": 8,
     "id": 29567170,
     "title": "Tell HN: AWS appears to be down again",
     "url": "https://news.ycombinator.com/item?id=29567170",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 879,
+    "by": "thadjo",
+    "descendants": 468,
+    "time": 1639581995
   },
   {
     "rank": 9,
     "id": 29568510,
     "title": "Mess with DNS",
     "url": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 958,
+    "by": "im2nguyen",
+    "descendants": 87,
+    "time": 1639587345
   },
   {
     "rank": 10,
     "id": 29568625,
     "title": "A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution",
     "url": "https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1005,
+    "by": "arkadiyt",
+    "descendants": 341,
+    "time": 1639587790
   }
 ]

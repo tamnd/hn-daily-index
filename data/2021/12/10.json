@@ -4,99 +4,99 @@
     "id": 29497669,
     "title": "The CIA and the Media (1977)",
     "url": "http://www.carlbernstein.com/magazine_cia_and_media.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "1cvmask",
+    "descendants": 154,
+    "time": 1639060027
   },
   {
     "rank": 2,
     "id": 29500602,
     "title": "Stack Graphs",
     "url": "https://github.blog/2021-12-09-introducing-stack-graphs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "todsacerdoti",
+    "descendants": 75,
+    "time": 1639072306
   },
   {
     "rank": 3,
     "id": 29500645,
     "title": "HashiCorp IPO today",
     "url": "https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "colemorrison",
+    "descendants": 190,
+    "time": 1639072534
   },
   {
     "rank": 4,
     "id": 29502439,
     "title": "Chrome users beware: Manifest v3 is deceitful and threatening",
     "url": "https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 718,
+    "by": "dredmorbius",
+    "descendants": 375,
+    "time": 1639081357
   },
   {
     "rank": 5,
     "id": 29504755,
     "title": "Log4j RCE Found",
     "url": "https://www.lunasec.io/docs/blog/log4j-zero-day/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1385,
+    "by": "usmannk",
+    "descendants": 503,
+    "time": 1639093700
   },
   {
     "rank": 6,
     "id": 29504784,
     "title": "Defensive CSS",
     "url": "https://ishadeed.com/article/defensive-css/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "kevin_hu",
+    "descendants": 31,
+    "time": 1639093907
   },
   {
     "rank": 7,
     "id": 29507458,
     "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
     "url": "https://www.anishathalye.com/2018/04/03/macbook-touchscreen/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 524,
+    "by": "hidden-spyder",
+    "descendants": 92,
+    "time": 1639122362
   },
   {
     "rank": 8,
     "id": 29508352,
     "title": "Julian Assange can be extradited to the US, court rules",
     "url": "https://www.bbc.com/news/uk-59608641",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 702,
+    "by": "goodcanadian",
+    "descendants": 717,
+    "time": 1639131872
   },
   {
     "rank": 9,
     "id": 29510237,
     "title": "Quaternions",
     "url": "https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "the_origami_fox",
+    "descendants": 112,
+    "time": 1639146632
   },
   {
     "rank": 10,
     "id": 29510616,
     "title": "Inflation rises to 6.8% year over year",
     "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "rsj_hn",
+    "descendants": 479,
+    "time": 1639148370
   }
 ]
