@@ -4,99 +4,99 @@
     "id": 30851955,
     "title": "The wild world of non-C operating systems",
     "url": "https://www.theregister.com/2022/03/29/non_c_operating_systems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "dharmatech",
+    "descendants": 308,
+    "time": 1648620454
   },
   {
     "rank": 2,
     "id": 30854526,
     "title": "Jack Dongarra wins Turing Award",
     "url": "https://amturing.acm.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "ketanmaheshwari",
+    "descendants": 47,
+    "time": 1648645030
   },
   {
     "rank": 3,
     "id": 30857012,
     "title": "Dagger: a new way to build CI/CD pipelines",
     "url": "https://dagger.io/blog/public-launch-announcement",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "shykes",
+    "descendants": 259,
+    "time": 1648656010
   },
   {
     "rank": 4,
     "id": 30858311,
     "title": "Developers spend most of their time figuring the system out",
     "url": "https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 839,
+    "by": "webmaven",
+    "descendants": 410,
+    "time": 1648661692
   },
   {
     "rank": 5,
     "id": 30861707,
     "title": "Hard to work with",
     "url": "https://lethain.com/hard-to-work-with/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "jger15",
+    "descendants": 185,
+    "time": 1648679954
   },
   {
     "rank": 6,
     "id": 30862612,
     "title": "Mastodon 3.5",
     "url": "https://blog.joinmastodon.org/2022/03/mastodon-3.5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "d4a",
+    "descendants": 180,
+    "time": 1648687656
   },
   {
     "rank": 7,
     "id": 30864470,
     "title": "Turn your phone into a space monitoring tool",
     "url": "https://www.esa.int/Applications/Navigation/Turn_your_phone_into_a_space_monitoring_tool",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "JeanMarcS",
+    "descendants": 90,
+    "time": 1648708948
   },
   {
     "rank": 8,
     "id": 30866597,
     "title": "Ubiquiti vs. Krebs",
     "url": "https://www.courtlistener.com/docket/63197557/ubiquiti-inc-v-krebs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "ghostoftiber",
+    "descendants": 245,
+    "time": 1648731070
   },
   {
     "rank": 9,
     "id": 30869140,
     "title": "The smallest and worst HDMI display",
     "url": "https://mitxela.com/projects/ddc-oled",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 969,
+    "by": "todsacerdoti",
+    "descendants": 162,
+    "time": 1648744277
   },
   {
     "rank": 10,
     "id": 30869427,
     "title": "I'm a scam prevention expert and I got scammed",
     "url": "http://www.lupinia.net/writing/tech/scammed.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 865,
+    "by": "matiskay",
+    "descendants": 544,
+    "time": 1648745445
   }
 ]

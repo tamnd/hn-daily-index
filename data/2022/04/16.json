@@ -4,99 +4,99 @@
     "id": 31024600,
     "title": "Overengineered Japanese Mechanical Pencils [video]",
     "url": "https://www.youtube.com/watch?v=PESa3Du3udY",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "jkellermann",
+    "descendants": 110,
+    "time": 1649925807
   },
   {
     "rank": 2,
     "id": 31038660,
     "title": "Shirky.com is gone",
     "url": "https://web.archive.org/web/20060208093032/http://www.shirky.com/writings/powerlaw_weblog.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "lkrubner",
+    "descendants": 143,
+    "time": 1650019778
   },
   {
     "rank": 3,
     "id": 31040669,
     "title": "The Colorado Safety Stop is the law of the land",
     "url": "https://www.bicyclecolorado.org/bike-news/colorado-safety-stop-becomes-law/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "mooreds",
+    "descendants": 616,
+    "time": 1650032995
   },
   {
     "rank": 4,
     "id": 31044629,
     "title": "Ten members of international stock manipulation ring charged in Manhattan",
     "url": "https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "mzs",
+    "descendants": 172,
+    "time": 1650050723
   },
   {
     "rank": 5,
     "id": 31044693,
     "title": "My take on Elon's offer for Twitter",
     "url": "https://twitter.com/yishan/status/1514938507407421440",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 591,
+    "by": "slg",
+    "descendants": 624,
+    "time": 1650051008
   },
   {
     "rank": 6,
     "id": 31046791,
     "title": "Attack campaign involving stolen OAuth tokens issued to third-party integrators",
     "url": "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "heyoni",
+    "descendants": 67,
+    "time": 1650062356
   },
   {
     "rank": 7,
     "id": 31047409,
     "title": "When hiring developers, have the candidate read existing code",
     "url": "https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 996,
+    "by": "ewag",
+    "descendants": 543,
+    "time": 1650066679
   },
   {
     "rank": 8,
     "id": 31048646,
     "title": "Heroku Security Notification",
     "url": "https://status.heroku.com/incidents/2413",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "chizhik-pyzhik",
+    "descendants": 116,
+    "time": 1650075610
   },
   {
     "rank": 9,
     "id": 31052029,
     "title": "Zig self hosted compiler is now capable of building itself",
     "url": "https://github.com/ziglang/zig/pull/11442",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 752,
+    "by": "marcthe12",
+    "descendants": 274,
+    "time": 1650114688
   },
   {
     "rank": 10,
     "id": 31054029,
     "title": "Show HN: Slow Social, a social network built for friends, not influencers",
     "url": "https://slowsocial.us/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 752,
+    "by": "CitrusFruits",
+    "descendants": 368,
+    "time": 1650128942
   }
 ]

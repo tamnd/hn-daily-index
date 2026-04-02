@@ -4,99 +4,99 @@
     "id": 30844002,
     "title": "USWDS: The United States Web Design System",
     "url": "https://designsystem.digital.gov/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 482,
+    "by": "jakelazaroff",
+    "descendants": 145,
+    "time": 1648568229
   },
   {
     "rank": 2,
     "id": 30844149,
     "title": "Show HN: Search Engine for Blogs",
     "url": "https://blogsurf.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "dbrereton",
+    "descendants": 93,
+    "time": 1648569018
   },
   {
     "rank": 3,
     "id": 30850416,
     "title": "Ubiquiti is suing Brian Krebs for his reporting on their breach",
     "url": "https://twitter.com/QuinnyPig/status/1508965090019577856",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "arusahni",
+    "descendants": 199,
+    "time": 1648602632
   },
   {
     "rank": 4,
     "id": 30853392,
     "title": "SerenityOS Browser now passes the Acid3 test",
     "url": "https://twitter.com/awesomekling/status/1508953394836353024",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 564,
+    "by": "andreafeletto",
+    "descendants": 167,
+    "time": 1648636222
   },
   {
     "rank": 5,
     "id": 30853836,
     "title": "Facebook paid Republican strategy firm to malign TikTok",
     "url": "https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "elsewhen",
+    "descendants": 303,
+    "time": 1648640696
   },
   {
     "rank": 6,
     "id": 30855065,
     "title": "Google terminated our Developer Account, says it is \u201cassociated\u201d",
     "url": "https://old.reddit.com/r/androiddev/comments/ts6jfg/google_has_terminated_our_developer_account_says/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 997,
+    "by": "nadalizadeh",
+    "descendants": 477,
+    "time": 1648647654
   },
   {
     "rank": 7,
     "id": 30855624,
     "title": "Waymo begins driverless rides in San Francisco",
     "url": "https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 548,
+    "by": "ra7",
+    "descendants": 756,
+    "time": 1648650262
   },
   {
     "rank": 8,
     "id": 30856804,
     "title": "Generics can make your Go code slower",
     "url": "https://planetscale.com/blog/generics-can-make-your-go-code-slower",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "tanoku",
+    "descendants": 408,
+    "time": 1648655272
   },
   {
     "rank": 9,
     "id": 30856968,
     "title": "Filing Taxes Could Be Free & Simple. H&R Block & Intuit Lobby Against It (2017)",
     "url": "https://www.propublica.org/article/filing-taxes-could-be-free-simple-hr-block-intuit-lobbying-against-it",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "KerryJones",
+    "descendants": 114,
+    "time": 1648655873
   },
   {
     "rank": 10,
     "id": 30858202,
     "title": "The Uselessness of Phenylephrine",
     "url": "https://www.science.org/content/blog-post/uselessness-phenylephrine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 799,
+    "by": "hprotagonist",
+    "descendants": 592,
+    "time": 1648661207
   }
 ]
