@@ -4,99 +4,99 @@
     "id": 16194580,
     "title": "Training Your Brain So That You Don\u2019t Need Reading Glasses (2017)",
     "url": "https://www.nytimes.com/2017/03/27/upshot/training-your-brain-so-that-you-dont-need-reading-glasses.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 540,
+    "by": "walterbell",
+    "descendants": 137,
+    "time": 1516472587
   },
   {
     "rank": 2,
     "id": 16195055,
     "title": "Relativ \u2013 A VR headset that you can build yourself for $100",
     "url": "https://github.com/relativty/Relativ",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "realusername",
+    "descendants": 84,
+    "time": 1516477639
   },
   {
     "rank": 3,
     "id": 16196194,
     "title": "Brushing up on operating systems and C programming",
     "url": "http://www.shubhro.com/2018/01/20/brushing-up-os-c/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "shbhrsaha",
+    "descendants": 85,
+    "time": 1516493631
   },
   {
     "rank": 4,
     "id": 16196421,
     "title": "A summary of what quantitative trading firms do",
     "url": "https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "hendzen",
+    "descendants": 118,
+    "time": 1516498633
   },
   {
     "rank": 5,
     "id": 16197436,
     "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
     "url": "https://gkbrk.com/2016/05/hotel-music/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "SuperNinKenDo",
+    "descendants": 15,
+    "time": 1516527289
   },
   {
     "rank": 6,
     "id": 16197851,
     "title": "The city I write this in protected its name, so I am not allowed to use it",
     "url": "https://blog.r3bl.me/en/the-city-whose-name-i-cannot-mention/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "r3bl",
+    "descendants": 163,
+    "time": 1516538425
   },
   {
     "rank": 7,
     "id": 16198120,
     "title": "Guide to JavaScript Frameworks",
     "url": "https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "kiyanwang",
+    "descendants": 225,
+    "time": 1516544446
   },
   {
     "rank": 8,
     "id": 16198369,
     "title": "Org-Mode for Visual Studio Code",
     "url": "https://github.com/ajtoo/vscode-org-mode",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "_lbaq",
+    "descendants": 124,
+    "time": 1516548374
   },
   {
     "rank": 9,
     "id": 16199490,
     "title": "Inside Amazon Go",
     "url": "https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "atombender",
+    "descendants": 283,
+    "time": 1516562523
   },
   {
     "rank": 10,
     "id": 16200007,
     "title": "The Death of Microservice Madness in 2018",
     "url": "http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 993,
+    "by": "Sandman",
+    "descendants": 441,
+    "time": 1516568477
   }
 ]
