@@ -4,99 +4,99 @@
     "id": 28740452,
     "title": "E-Ink Magic Calendar that runs off a battery powered Raspberry Pi",
     "url": "https://github.com/speedyg0nz/MagInkCal",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 685,
+    "by": "edward",
+    "descendants": 165,
+    "time": 1633294765
   },
   {
     "rank": 2,
     "id": 28741262,
     "title": "New study reveals iPhones aren't as private as you think",
     "url": "https://www.tomsguide.com/news/android-ios-data-collection",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "ColinWright",
+    "descendants": 223,
+    "time": 1633301862
   },
   {
     "rank": 3,
     "id": 28743687,
     "title": "It takes a PhD to develop that",
     "url": "https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 623,
+    "by": "kaeruct",
+    "descendants": 411,
+    "time": 1633328838
   },
   {
     "rank": 4,
     "id": 28748000,
     "title": "Brave and Firefox to intercept links that force-open in Microsoft Edge",
     "url": "https://www.ctrl.blog/entry/anti-competitive-browser-edges.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "gbil",
+    "descendants": 181,
+    "time": 1633361511
   },
   {
     "rank": 5,
     "id": 28748203,
     "title": "Facebook-owned sites were down",
     "url": "https://facebook.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2589,
+    "by": "nabeards",
+    "descendants": 1283,
+    "time": 1633362348
   },
   {
     "rank": 6,
     "id": 28748906,
     "title": "Personal Information of More Than 1.5B Facebook Users Sold on Hacker Forum",
     "url": "https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 527,
+    "by": "comprev",
+    "descendants": 144,
+    "time": 1633364488
   },
   {
     "rank": 7,
     "id": 28748965,
     "title": "Apple execs describe a \u201cunique arrangement\u201d with Netflix",
     "url": "https://twitter.com/TechEmails/status/1444367219509637123",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "osynavets",
+    "descendants": 274,
+    "time": 1633364737
   },
   {
     "rank": 8,
     "id": 28750894,
     "title": "Facebook employees badges aren't working, unable to enter buildings",
     "url": "https://twitter.com/sheeraf/status/1445099150316503057",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "tantalor",
+    "descendants": 231,
+    "time": 1633375234
   },
   {
     "rank": 9,
     "id": 28750930,
     "title": "What Happened to Facebook, Instagram, and WhatsApp?",
     "url": "https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 584,
+    "by": "happyopossum",
+    "descendants": 311,
+    "time": 1633375410
   },
   {
     "rank": 10,
     "id": 28752131,
     "title": "Understanding how Facebook disappeared from the internet",
     "url": "https://blog.cloudflare.com/october-2021-facebook-outage/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1226,
+    "by": "jgrahamc",
+    "descendants": 260,
+    "time": 1633381885
   }
 ]

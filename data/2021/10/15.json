@@ -4,99 +4,99 @@
     "id": 28861944,
     "title": "How to win at CORS",
     "url": "https://jakearchibald.com/2021/cors/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "jaffathecake",
+    "descendants": 122,
+    "time": 1634201984
   },
   {
     "rank": 2,
     "id": 28869462,
     "title": "Oculess \u2013 Removes account requirements and telemetry from Oculus Quest devices",
     "url": "https://github.com/basti564/Oculess",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 816,
+    "by": "detaro",
+    "descendants": 382,
+    "time": 1634242719
   },
   {
     "rank": 3,
     "id": 28869970,
     "title": "The Serde Rust Framework",
     "url": "https://serde.rs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "ur-whale",
+    "descendants": 152,
+    "time": 1634244964
   },
   {
     "rank": 4,
     "id": 28870464,
     "title": "Tech compensation in 2021",
     "url": "https://jacobian.org/2021/oct/13/tech-salaries-2021/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "mjgardner",
+    "descendants": 606,
+    "time": 1634247227
   },
   {
     "rank": 5,
     "id": 28871008,
     "title": "Former Boeing 737 Max Chief Technical Pilot Indicted for Fraud",
     "url": "https://www.justice.gov/usao-ndtx/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "frisco",
+    "descendants": 344,
+    "time": 1634250284
   },
   {
     "rank": 6,
     "id": 28873956,
     "title": "Remote OK Open Startup",
     "url": "https://remoteok.io/open",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "enjoyyourlife",
+    "descendants": 127,
+    "time": 1634269236
   },
   {
     "rank": 7,
     "id": 28875764,
     "title": "Nomad vs. Kubernetes",
     "url": "https://www.nomadproject.io/docs/nomad-vs-kubernetes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "capableweb",
+    "descendants": 361,
+    "time": 1634288417
   },
   {
     "rank": 8,
     "id": 28877955,
     "title": "PinePhone Pro Announced",
     "url": "https://www.pine64.org/pinephonepro/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "abawany",
+    "descendants": 364,
+    "time": 1634307661
   },
   {
     "rank": 9,
     "id": 28878991,
     "title": "Most Canadians believe Facebook harms their mental health",
     "url": "https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 651,
+    "by": "elorant",
+    "descendants": 257,
+    "time": 1634312614
   },
   {
     "rank": 10,
     "id": 28880782,
     "title": "A viable solution for Python concurrency",
     "url": "https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 841,
+    "by": "zorgmonkey",
+    "descendants": 358,
+    "time": 1634320467
   }
 ]

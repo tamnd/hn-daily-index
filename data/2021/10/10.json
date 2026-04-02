@@ -4,99 +4,99 @@
     "id": 28802493,
     "title": "SSH Tunneling Explained",
     "url": "https://goteleport.com/blog/ssh-tunneling-explained/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "twakefield",
+    "descendants": 60,
+    "time": 1633717810
   },
   {
     "rank": 2,
     "id": 28812281,
     "title": "It's weird that most of \u201cHacker\u201d news is dominated by business news",
     "url": "https://news.ycombinator.com/item?id=28812281",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 682,
+    "by": "greendude29",
+    "descendants": 282,
+    "time": 1633805871
   },
   {
     "rank": 3,
     "id": 28812403,
     "title": "ScummVM 2.5 \u201cTwenty years ago today\u201d",
     "url": "https://www.scummvm.org/news/20211009/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "galapago",
+    "descendants": 43,
+    "time": 1633806764
   },
   {
     "rank": 4,
     "id": 28812486,
     "title": "VSCode deprecates Enable Telemetry, auto-enrolls you in Telemetry",
     "url": "https://news.ycombinator.com/item?id=28812486",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "tmpfile",
+    "descendants": 181,
+    "time": 1633807459
   },
   {
     "rank": 5,
     "id": 28814210,
     "title": "Graph of Keybase commits pre and post Zoom acquisition",
     "url": "https://github.com/keybase/client/graphs/contributors",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "0des",
+    "descendants": 69,
+    "time": 1633821334
   },
   {
     "rank": 6,
     "id": 28814352,
     "title": "HN 15 Years ago",
     "url": "https://news.ycombinator.com/front?day=2006-10-09",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 558,
+    "by": "tough",
+    "descendants": 148,
+    "time": 1633822914
   },
   {
     "rank": 7,
     "id": 28814438,
     "title": "Blue light from monitors no danger to eyes or sleep",
     "url": "https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "_gfwu",
+    "descendants": 241,
+    "time": 1633823809
   },
   {
     "rank": 8,
     "id": 28817721,
     "title": "The latest campus cancellation is different",
     "url": "https://www.theatlantic.com/ideas/archive/2021/10/why-latest-campus-cancellation-different/620352/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "killittosaveit",
+    "descendants": 489,
+    "time": 1633867160
   },
   {
     "rank": 9,
     "id": 28819030,
     "title": "Understanding Python through its builtins",
     "url": "https://sadh.life/post/builtins/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "tusharsadhwani",
+    "descendants": 173,
+    "time": 1633878834
   },
   {
     "rank": 10,
     "id": 28819378,
     "title": "China blocks Wikimedia from entering World Intellectual Property Organization",
     "url": "https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "hardmaru",
+    "descendants": 280,
+    "time": 1633881390
   }
 ]

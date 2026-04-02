@@ -4,99 +4,99 @@
     "id": 28774022,
     "title": "Writing a \u201cbare metal\u201d operating system for Raspberry Pi 4",
     "url": "https://github.com/isometimes/rpi4-osdev",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "rcarmo",
+    "descendants": 95,
+    "time": 1633532734
   },
   {
     "rank": 2,
     "id": 28774782,
     "title": "Will Cloudflare R2 Win Customers from Amazon S3?",
     "url": "https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "cloudfalcon",
+    "descendants": 198,
+    "time": 1633536507
   },
   {
     "rank": 3,
     "id": 28776786,
     "title": "Lessons learned from sharding Postgres at Notion",
     "url": "https://www.notion.so/blog/sharding-postgres-at-notion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "craigkerstiens",
+    "descendants": 121,
+    "time": 1633546242
   },
   {
     "rank": 4,
     "id": 28779566,
     "title": "The naughty username checking system used by Twitch",
     "url": "https://ghostbin.com/57bCm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "PrincessJess",
+    "descendants": 337,
+    "time": 1633561296
   },
   {
     "rank": 5,
     "id": 28779729,
     "title": "Canyon.mid",
     "url": "https://canyonmid.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 410,
+    "by": "sph",
+    "descendants": 163,
+    "time": 1633562426
   },
   {
     "rank": 6,
     "id": 28781586,
     "title": "Yes, Bitcoin Is a Ponzi",
     "url": "https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "amin",
+    "descendants": 650,
+    "time": 1633578343
   },
   {
     "rank": 7,
     "id": 28783381,
     "title": "Mozilla to put ads in Firefox address bar suggestions",
     "url": "https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 748,
+    "by": "mikro2nd",
+    "descendants": 690,
+    "time": 1633592927
   },
   {
     "rank": 8,
     "id": 28786250,
     "title": "Facebook is nearing a reputational point of no return",
     "url": "https://www.economist.com/leaders/2021/10/09/facebook-is-nearing-a-reputational-point-of-no-return",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 685,
+    "by": "sidcool",
+    "descendants": 578,
+    "time": 1633614753
   },
   {
     "rank": 9,
     "id": 28788821,
     "title": "Facebook banned me for life because I help people use it less",
     "url": "https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "louisbarclay",
+    "descendants": 264,
+    "time": 1633625144
   },
   {
     "rank": 10,
     "id": 28789680,
     "title": "Why I'm donating $150/month (10% of my income) to the musl Libc project (2019)",
     "url": "https://andrewkelley.me/post/why-donating-to-musl-libc-project.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "Tomte",
+    "descendants": 160,
+    "time": 1633628460
   }
 ]
