@@ -13,16 +13,16 @@ Top 10 Hacker News stories for each day in 2026.
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 135 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [76 comments](https://news.ycombinator.com/item?id=47611721)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 137 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [76 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 40 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [11 comments](https://news.ycombinator.com/item?id=47612724)
-3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 29 points by [lode](https://news.ycombinator.com/user?id=lode), [0 comments](https://news.ycombinator.com/item?id=47613078)
-4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 172 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [92 comments](https://news.ycombinator.com/item?id=47612601)
+3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 30 points by [lode](https://news.ycombinator.com/user?id=lode), [0 comments](https://news.ycombinator.com/item?id=47613078)
+4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 172 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [93 comments](https://news.ycombinator.com/item?id=47612601)
 5. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 93 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [28 comments](https://news.ycombinator.com/item?id=47611481)
 6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 58 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [24 comments](https://news.ycombinator.com/item?id=47611921)
 7. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 72 points by [luu](https://news.ycombinator.com/user?id=luu), [32 comments](https://news.ycombinator.com/item?id=47582987)
 8. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 191 points by [jaden](https://news.ycombinator.com/user?id=jaden), [61 comments](https://news.ycombinator.com/item?id=47609694)
 9. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 80 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [22 comments](https://news.ycombinator.com/item?id=47596739)
-10. [Reinventing the Pull Request](https://lubeno.dev/blog/reinventing-the-pull-request) (lubeno.dev) - 24 points by [bkolobara](https://news.ycombinator.com/user?id=bkolobara), [19 comments](https://news.ycombinator.com/item?id=47540441)
+10. [Reinventing the Pull Request](https://lubeno.dev/blog/reinventing-the-pull-request) (lubeno.dev) - 25 points by [bkolobara](https://news.ycombinator.com/user?id=bkolobara), [19 comments](https://news.ycombinator.com/item?id=47540441)
 
 ## 2026-04-01
 
