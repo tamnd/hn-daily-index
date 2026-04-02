@@ -4,7 +4,7 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 125,
+    "score": 127,
     "by": "bonzini",
     "descendants": 72,
     "time": 1775119724
@@ -14,9 +14,9 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 140,
+    "score": 142,
     "by": "novaRom",
-    "descendants": 64,
+    "descendants": 66,
     "time": 1775127000
   },
   {
@@ -26,7 +26,7 @@
     "url": "https://blogit.michelin.io/clojure-programming/",
     "score": 91,
     "by": "smartmic",
-    "descendants": 19,
+    "descendants": 21,
     "time": 1775117951
   },
   {
@@ -51,6 +51,16 @@
   },
   {
     "rank": 6,
+    "id": 47613078,
+    "title": "Inside Nepal's Fake Rescue Racket",
+    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+    "score": 10,
+    "by": "lode",
+    "descendants": 0,
+    "time": 1775130041
+  },
+  {
+    "rank": 7,
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
@@ -60,7 +70,7 @@
     "time": 1775121258
   },
   {
-    "rank": 7,
+    "rank": 8,
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
@@ -68,16 +78,6 @@
     "by": "luu",
     "descendants": 30,
     "time": 1774933899
-  },
-  {
-    "rank": 8,
-    "id": 47613078,
-    "title": "Inside Nepal's Fake Rescue Racket",
-    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 9,
-    "by": "lode",
-    "descendants": 0,
-    "time": 1775130041
   },
   {
     "rank": 9,
