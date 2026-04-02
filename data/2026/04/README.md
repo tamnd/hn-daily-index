@@ -11,16 +11,16 @@ Top 10 Hacker News stories for each day in April 2026.
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 90 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [46 comments](https://news.ycombinator.com/item?id=47611721)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 91 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [47 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 63 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [9 comments](https://news.ycombinator.com/item?id=47611481)
-3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 949 points by [apitman](https://news.ycombinator.com/user?id=apitman), [809 comments](https://news.ycombinator.com/item?id=47603657)
-4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 54 points by [luu](https://news.ycombinator.com/user?id=luu), [24 comments](https://news.ycombinator.com/item?id=47582987)
-5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 21 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [9 comments](https://news.ycombinator.com/item?id=47611921)
-6. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 43 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [4 comments](https://news.ycombinator.com/item?id=47612601)
-7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 161 points by [jaden](https://news.ycombinator.com/user?id=jaden), [48 comments](https://news.ycombinator.com/item?id=47609694)
+3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 950 points by [apitman](https://news.ycombinator.com/user?id=apitman), [809 comments](https://news.ycombinator.com/item?id=47603657)
+4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 54 points by [luu](https://news.ycombinator.com/user?id=luu), [25 comments](https://news.ycombinator.com/item?id=47582987)
+5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 22 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [9 comments](https://news.ycombinator.com/item?id=47611921)
+6. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 45 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [6 comments](https://news.ycombinator.com/item?id=47612601)
+7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 161 points by [jaden](https://news.ycombinator.com/user?id=jaden), [47 comments](https://news.ycombinator.com/item?id=47609694)
 8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 58 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [20 comments](https://news.ycombinator.com/item?id=47596739)
-9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 190 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [61 comments](https://news.ycombinator.com/item?id=47608495)
-10. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 433 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [203 comments](https://news.ycombinator.com/item?id=47609564)
+9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 191 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [61 comments](https://news.ycombinator.com/item?id=47608495)
+10. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 434 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [203 comments](https://news.ycombinator.com/item?id=47609564)
 
 ## 2026-04-01
 
