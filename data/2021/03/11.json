@@ -4,99 +4,99 @@
     "id": 26404675,
     "title": "Zapier reached a $5B valuation with $1.3M of funding",
     "url": "https://www.forbes.com/sites/alexkonrad/2021/03/08/zapier-bootstraps-to-5-billion-valuation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "gmays",
+    "descendants": 252,
+    "time": 1615326013
   },
   {
     "rank": 2,
     "id": 26412624,
     "title": "Launch HN: Remora (YC W21) \u2013 Carbon capture for semi trucks",
     "url": "https://news.ycombinator.com/item?id=26412624",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "paulgross",
+    "descendants": 196,
+    "time": 1615392147
   },
   {
     "rank": 3,
     "id": 26416531,
     "title": "Zig, parser combinators, and why they're awesome",
     "url": "https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "todsacerdoti",
+    "descendants": 131,
+    "time": 1615411926
   },
   {
     "rank": 4,
     "id": 26416553,
     "title": "netaddr.IP: a new IP address type for Go",
     "url": "https://tailscale.com/blog/netaddr-new-ip-type-for-go/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "smitop",
+    "descendants": 95,
+    "time": 1615412001
   },
   {
     "rank": 5,
     "id": 26419628,
     "title": "Dennis Ritchie\u2019s first C compiler (c. 1972)",
     "url": "https://github.com/mortdeus/legacy-cc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "jnord",
+    "descendants": 157,
+    "time": 1615431086
   },
   {
     "rank": 6,
     "id": 26419717,
     "title": "Based Cooking",
     "url": "https://based.cooking/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "meribold",
+    "descendants": 446,
+    "time": 1615431912
   },
   {
     "rank": 7,
     "id": 26422799,
     "title": "I bought 300 emoji domain names from Kazakhstan and built an email service",
     "url": "https://tinyprojects.dev/projects/mailoji",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1683,
+    "by": "tinyprojects",
+    "descendants": 612,
+    "time": 1615461428
   },
   {
     "rank": 8,
     "id": 26423002,
     "title": "How I earn a living selling my open-source web-based invoicing application",
     "url": "https://www.indiehackers.com/post/how-i-earn-a-living-selling-my-open-source-software-476f6bb07e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 734,
+    "by": "nephics",
+    "descendants": 206,
+    "time": 1615463253
   },
   {
     "rank": 9,
     "id": 26423090,
     "title": "Write Simply",
     "url": "http://paulgraham.com/simply.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "razin",
+    "descendants": 330,
+    "time": 1615463899
   },
   {
     "rank": 10,
     "id": 26425659,
     "title": "Julia receives DARPA award to accelerate electronics simulation",
     "url": "https://juliacomputing.com/media/2021/03/darpa-ditto/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "jonbaer",
+    "descendants": 165,
+    "time": 1615479558
   }
 ]

@@ -4,99 +4,99 @@
     "id": 26401955,
     "title": "Webmention.io",
     "url": "https://webmention.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "bezelbuttons",
+    "descendants": 104,
+    "time": 1615314791
   },
   {
     "rank": 2,
     "id": 26402682,
     "title": "UK businesses caught buying five-star Google reviews",
     "url": "https://www.bbc.com/news/technology-56321576",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "leephillips",
+    "descendants": 219,
+    "time": 1615317538
   },
   {
     "rank": 3,
     "id": 26404830,
     "title": "Git: Malicious repositories can execute remote code while cloning",
     "url": "https://www.openwall.com/lists/oss-security/2021/03/09/3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 634,
+    "by": "todsacerdoti",
+    "descendants": 211,
+    "time": 1615326722
   },
   {
     "rank": 4,
     "id": 26405056,
     "title": "Hackers break into thousands of security cameras, exposing Tesla, jail, hospital",
     "url": "https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 676,
+    "by": "f430",
+    "descendants": 277,
+    "time": 1615327869
   },
   {
     "rank": 5,
     "id": 26406989,
     "title": "Why asynchronous Rust doesn't work",
     "url": "https://theta.eu.org/2021/03/08/async-rust-2.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 603,
+    "by": "tazjin",
+    "descendants": 482,
+    "time": 1615342615
   },
   {
     "rank": 6,
     "id": 26407323,
     "title": "Fire declared in OVH SBG2 datacentre building",
     "url": "http://travaux.ovh.net/?do=details&id=49471&",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1141,
+    "by": "finniananderson",
+    "descendants": 589,
+    "time": 1615345919
   },
   {
     "rank": 7,
     "id": 26408181,
     "title": "We created a fake language to root out resume liars",
     "url": "https://www.facebook.com/groups/CFprogrammers/permalink/10158154545285036/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "rmason",
+    "descendants": 758,
+    "time": 1615354872
   },
   {
     "rank": 8,
     "id": 26410135,
     "title": "Lou Ottens, inventor of cassette tape, has died",
     "url": "https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "Anon84",
+    "descendants": 168,
+    "time": 1615375507
   },
   {
     "rank": 9,
     "id": 26414741,
     "title": "Apple has gone to extraordinary lengths to make scroll bars invisible",
     "url": "https://twitter.com/simonw/status/1369708900216270849",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "edward",
+    "descendants": 476,
+    "time": 1615402789
   },
   {
     "rank": 10,
     "id": 26415657,
     "title": "U.S. senators reintroduce bill to make daylight saving time permanent",
     "url": "https://fox8.com/news/u-s-senators-reintroduce-bill-to-make-daylight-saving-time-permanent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "lxm",
+    "descendants": 402,
+    "time": 1615407723
   }
 ]

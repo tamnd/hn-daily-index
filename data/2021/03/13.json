@@ -4,99 +4,99 @@
     "id": 26437152,
     "title": "M.2 on a Raspberry Pi \u2013 The Tofu CM4 Carrier Board",
     "url": "https://www.jeffgeerling.com/blog/2021/m2-on-raspberry-pi-tofu-compute-module-4-carrier-board",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "geerlingguy",
+    "descendants": 201,
+    "time": 1615564874
   },
   {
     "rank": 2,
     "id": 26438899,
     "title": "Myanmar's satellite held by Japan on space station due to spying concern",
     "url": "https://www.reuters.com/article/us-myanmar-politics-satellite-japan-excl-idUSKBN2B41O1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "giuliomagnifico",
+    "descendants": 270,
+    "time": 1615572938
   },
   {
     "rank": 3,
     "id": 26439208,
     "title": "RegEx Crossword",
     "url": "http://jimbly.github.io/regex-crossword/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "andrelaszlo",
+    "descendants": 151,
+    "time": 1615574397
   },
   {
     "rank": 4,
     "id": 26441399,
     "title": "Vitalik escalates ETH 2.0 merge as miners plan a 51% attack",
     "url": "https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "michaelsbradley",
+    "descendants": 518,
+    "time": 1615585791
   },
   {
     "rank": 5,
     "id": 26443025,
     "title": "How to convert your old laptop screen into an external monitor",
     "url": "https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "louwrentius",
+    "descendants": 134,
+    "time": 1615598504
   },
   {
     "rank": 6,
     "id": 26443406,
     "title": "RethinkDB: why we failed (2017)",
     "url": "https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "anhldbk",
+    "descendants": 227,
+    "time": 1615603263
   },
   {
     "rank": 7,
     "id": 26443768,
     "title": "Speed of Rust vs. C",
     "url": "https://kornel.ski/rust-c-speed",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 619,
+    "by": "sivizius",
+    "descendants": 525,
+    "time": 1615607490
   },
   {
     "rank": 8,
     "id": 26446070,
     "title": "Flameshot \u2013 Simple, powerful screenshot tool for all major operating systems",
     "url": "https://flameshot.org/changelog/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "VitalyAnkh",
+    "descendants": 125,
+    "time": 1615637727
   },
   {
     "rank": 9,
     "id": 26448985,
     "title": "Baserow.io \u2013 Self-hosted Airtable alternative",
     "url": "https://baserow.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 802,
+    "by": "punnerud",
+    "descendants": 224,
+    "time": 1615662191
   },
   {
     "rank": 10,
     "id": 26449179,
     "title": "Dhcpcd Will Need a New Maintainer",
     "url": "https://roy.marples.name/archives/dhcpcd-discuss/0003457.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1012,
+    "by": "elvis70",
+    "descendants": 221,
+    "time": 1615663491
   }
 ]

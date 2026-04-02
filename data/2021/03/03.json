@@ -4,99 +4,99 @@
     "id": 26316401,
     "title": "ClickHouse as an alternative to Elasticsearch for log storage and analysis",
     "url": "https://pixeljets.com/blog/clickhouse-vs-elasticsearch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "jetter",
+    "descendants": 134,
+    "time": 1614699632
   },
   {
     "rank": 2,
     "id": 26322089,
     "title": "The MIT Press launches Direct to Open",
     "url": "https://mitpress.mit.edu/blog/mit-press-launches-direct-open",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "orixilus",
+    "descendants": 76,
+    "time": 1614724704
   },
   {
     "rank": 3,
     "id": 26323852,
     "title": "NASA's Perseverance rover sends stunning images",
     "url": "https://www.bbc.com/news/in-pictures-56238018",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1032,
+    "by": "astdb",
+    "descendants": 347,
+    "time": 1614737393
   },
   {
     "rank": 4,
     "id": 26324347,
     "title": "Microsoft Power Fx \u2013 A low-code general purpose programming language",
     "url": "https://github.com/microsoft/power-fx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "Garbage",
+    "descendants": 189,
+    "time": 1614741838
   },
   {
     "rank": 5,
     "id": 26326795,
     "title": "ICANN Refuses to Accredit Pirate Bay Founder Peter Sunde Due to His \u2018Background\u2019",
     "url": "https://torrentfreak.com/icann-refuses-to-accredit-pirate-bay-founder-peter-sunde-due-to-his-background-210303/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 743,
+    "by": "input_sh",
+    "descendants": 296,
+    "time": 1614768117
   },
   {
     "rank": 6,
     "id": 26327779,
     "title": "PipeWire: The Linux audio/video bus",
     "url": "https://lwn.net/SubscriberLink/847412/d7826b1353e33734",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "darwi",
+    "descendants": 200,
+    "time": 1614776706
   },
   {
     "rank": 7,
     "id": 26328428,
     "title": "Google to stop selling ads based on your specific web browsing",
     "url": "https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 670,
+    "by": "ghshephard",
+    "descendants": 321,
+    "time": 1614780437
   },
   {
     "rank": 8,
     "id": 26328758,
     "title": "Brave buys a search engine, promises no tracking, no profiling",
     "url": "https://www.theregister.com/2021/03/03/brave_buys_a_search_engine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 931,
+    "by": "samizdis",
+    "descendants": 411,
+    "time": 1614781986
   },
   {
     "rank": 9,
     "id": 26330584,
     "title": "Killing TurboTax",
     "url": "https://kunle.app/feb-2021-how-to-dismantle-turbotax.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 891,
+    "by": "kunle",
+    "descendants": 662,
+    "time": 1614788798
   },
   {
     "rank": 10,
     "id": 26332944,
     "title": "Flutter 2",
     "url": "https://developers.googleblog.com/2021/03/announcing-flutter-2.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 791,
+    "by": "wstrange",
+    "descendants": 754,
+    "time": 1614798591
   }
 ]

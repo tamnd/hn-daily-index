@@ -4,99 +4,99 @@
     "id": 26374143,
     "title": "A Year at Google Brain (2020)",
     "url": "https://www.debugmind.com/2020/01/04/paths-to-the-future-a-year-at-google-brain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "sytelus",
+    "descendants": 101,
+    "time": 1615104228
   },
   {
     "rank": 2,
     "id": 26381768,
     "title": "Fuckin' user interface design, I swear",
     "url": "https://blog.plover.com/tech/ui.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 814,
+    "by": "luu",
+    "descendants": 498,
+    "time": 1615170207
   },
   {
     "rank": 3,
     "id": 26386419,
     "title": "Excel Never Dies",
     "url": "https://www.notboring.co/p/excel-never-dies",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "iamacyborg",
+    "descendants": 300,
+    "time": 1615215511
   },
   {
     "rank": 4,
     "id": 26389006,
     "title": "MIPS Becomes RISC-V",
     "url": "https://www.eejournal.com/article/wait-what-mips-becomes-risc-v/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "zimmerfrei",
+    "descendants": 215,
+    "time": 1615226019
   },
   {
     "rank": 5,
     "id": 26393795,
     "title": "New algorithm breaks speed limit for solving linear equations",
     "url": "https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "ot",
+    "descendants": 112,
+    "time": 1615250836
   },
   {
     "rank": 6,
     "id": 26393824,
     "title": "I want a computer that I own",
     "url": "http://misc-stuff.terraaeon.com/articles/computer-i-own.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 994,
+    "by": "bezelbuttons",
+    "descendants": 655,
+    "time": 1615251073
   },
   {
     "rank": 7,
     "id": 26396594,
     "title": "5k Year Old Bog Oak Table: Digging up 4k-year-old trees for furniture",
     "url": "https://blog.lostartpress.com/2021/02/21/adamson-low-treasure-out-of-the-bog/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "WuTangCFO",
+    "descendants": 107,
+    "time": 1615278451
   },
   {
     "rank": 8,
     "id": 26396798,
     "title": "Debian Running on Rust Coreutils",
     "url": "https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "todsacerdoti",
+    "descendants": 332,
+    "time": 1615280517
   },
   {
     "rank": 9,
     "id": 26398960,
     "title": "Write libraries instead of services, where possible",
     "url": "http://catern.com/services.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 635,
+    "by": "catern",
+    "descendants": 322,
+    "time": 1615299470
   },
   {
     "rank": 10,
     "id": 26400089,
     "title": "ISO-8601 date format reference not publicly available",
     "url": "https://twitter.com/isostandards/status/1367138676162105344",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "tosh",
+    "descendants": 198,
+    "time": 1615305682
   }
 ]
