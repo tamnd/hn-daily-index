@@ -4,99 +4,99 @@
     "id": 15584086,
     "title": "RCN is much more data efficient than traditional Deep Neural Networks",
     "url": "https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "barbolo",
+    "descendants": 46,
+    "time": 1509360092
   },
   {
     "rank": 2,
     "id": 15586323,
     "title": "The State of Data Science and Machine Learning",
     "url": "https://www.kaggle.com/surveys/2017",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "ishan_dikshit",
+    "descendants": 42,
+    "time": 1509380801
   },
   {
     "rank": 3,
     "id": 15588361,
     "title": "Ask HN: We have a great team and capital but can't find a good idea",
     "url": "https://news.ycombinator.com/item?id=15588361",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "0bsidian",
+    "descendants": 550,
+    "time": 1509393451
   },
   {
     "rank": 4,
     "id": 15588380,
     "title": "Simplicity: A New Language for Blockchains [pdf]",
     "url": "https://blockstream.com/simplicity.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "TD-Linux",
+    "descendants": 95,
+    "time": 1509393644
   },
   {
     "rank": 5,
     "id": 15588711,
     "title": "Butterfly iQ \u2013 A cheap handheld ultrasound tool with AI smarts inside",
     "url": "https://spectrum.ieee.org/the-human-os/biomedical/imaging/new-ultrasound-on-a-chip-tool-could-revolutionize-medical-imaging",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "taion",
+    "descendants": 147,
+    "time": 1509396220
   },
   {
     "rank": 6,
     "id": 15590049,
     "title": "HTTP 103 \u2013 An HTTP Status Code for Indicating Hints",
     "url": "https://datatracker.ietf.org/doc/draft-ietf-httpbis-early-hints/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "snomad",
+    "descendants": 120,
+    "time": 1509407576
   },
   {
     "rank": 7,
     "id": 15591441,
     "title": "We only hire the best means we only hire the trendiest (2016)",
     "url": "http://danluu.com/programmer-moneyball/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 910,
+    "by": "indy",
+    "descendants": 625,
+    "time": 1509431211
   },
   {
     "rank": 8,
     "id": 15592800,
     "title": "Bottery \u2013 A conversational agent prototyping platform",
     "url": "https://github.com/google/bottery",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "manojlds",
+    "descendants": 73,
+    "time": 1509454242
   },
   {
     "rank": 9,
     "id": 15593589,
     "title": "Reaching $10k monthly revenue with WakaTime, my SaaS side project",
     "url": "https://www.indiehackers.com/businesses/wakatime",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "welder",
+    "descendants": 163,
+    "time": 1509461152
   },
   {
     "rank": 10,
     "id": 15594004,
     "title": "Show HN: Frappe Charts \u2013 GitHub inspired JavaScript charting with zero dependencies",
     "url": "https://frappe.github.io/charts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "rushabh",
+    "descendants": 87,
+    "time": 1509464346
   }
 ]

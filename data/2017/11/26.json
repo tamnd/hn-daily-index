@@ -4,99 +4,99 @@
     "id": 15776995,
     "title": "A minimalist guide to tmux",
     "url": "https://medium.com/@peterxjang/a-minimalist-guide-to-tmux-13675fb160fa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "peterxjang",
+    "descendants": 96,
+    "time": 1511632869
   },
   {
     "rank": 2,
     "id": 15777592,
     "title": "Half-Life and Team Fortress Networking",
     "url": "https://www.gamasutra.com/view/feature/131577/halflife_and_team_fortress_.php?page=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "setra",
+    "descendants": 54,
+    "time": 1511639134
   },
   {
     "rank": 3,
     "id": 15778530,
     "title": "Carp, a compiled Lisp with type inference and a borrow checker",
     "url": "http://blog.veitheller.de/Carp.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "eriksvedang",
+    "descendants": 109,
+    "time": 1511651892
   },
   {
     "rank": 4,
     "id": 15778902,
     "title": "VNC, RDP and SSH Over HTML5",
     "url": "https://guacamole.apache.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "WhyNotHugo",
+    "descendants": 41,
+    "time": 1511658306
   },
   {
     "rank": 5,
     "id": 15778931,
     "title": "Apple\u2019s Secure Enclave Processor (SEP) Firmware Decrypted",
     "url": "https://hackaday.com/2017/08/18/apples-secure-enclave-processor-sep-firmware-decyrpted/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "wonderous",
+    "descendants": 36,
+    "time": 1511658859
   },
   {
     "rank": 6,
     "id": 15779382,
     "title": "Simplified and community-driven man pages",
     "url": "http://tldr.sh",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "akras14",
+    "descendants": 162,
+    "time": 1511669188
   },
   {
     "rank": 7,
     "id": 15779529,
     "title": "Members of congress who voted to reverse FCC web browsing privacy rule",
     "url": "https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "aaronbrethorst",
+    "descendants": 123,
+    "time": 1511673275
   },
   {
     "rank": 8,
     "id": 15780530,
     "title": "Super Tiny Website Logos in SVG",
     "url": "https://shkspr.mobi/blog/2017/11/super-tiny-website-logos-in-svg/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 510,
+    "by": "edent",
+    "descendants": 116,
+    "time": 1511697566
   },
   {
     "rank": 9,
     "id": 15780702,
     "title": "Rust: Enable WebAssembly backend by default",
     "url": "https://www.hellorust.com/news/native-wasm-target.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "a_humean",
+    "descendants": 228,
+    "time": 1511701122
   },
   {
     "rank": 10,
     "id": 15781883,
     "title": "Lisp in fewer than 200 lines of C",
     "url": "https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "jfo",
+    "descendants": 102,
+    "time": 1511716989
   }
 ]

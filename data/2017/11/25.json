@@ -4,99 +4,99 @@
     "id": 15771561,
     "title": "Clojure Design Patterns",
     "url": "http://mishadoff.com/blog/clojure-design-patterns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "simonpure",
+    "descendants": 126,
+    "time": 1511540261
   },
   {
     "rank": 2,
     "id": 15771785,
     "title": "Free online courses from top universities",
     "url": "http://www.openculture.com/freeonlinecourses",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "andrevoget",
+    "descendants": 34,
+    "time": 1511542952
   },
   {
     "rank": 3,
     "id": 15772340,
     "title": "Sending a Spacecraft to the Interstellar Asteroid",
     "url": "https://arxiv.org/abs/1711.03155",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "DanielleMolloy",
+    "descendants": 73,
+    "time": 1511549126
   },
   {
     "rank": 4,
     "id": 15773466,
     "title": "SSH vs. OpenVPN for Tunneling",
     "url": "http://blog.backslasher.net/ssh-openvpn-tunneling.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "setra",
+    "descendants": 110,
+    "time": 1511564076
   },
   {
     "rank": 5,
     "id": 15774503,
     "title": "More Than a Million Pro-Repeal Net Neutrality Comments Were Likely Faked",
     "url": "https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 766,
+    "by": "sus_007",
+    "descendants": 322,
+    "time": 1511585583
   },
   {
     "rank": 6,
     "id": 15774630,
     "title": "Linked List Problems (2002) [pdf]",
     "url": "http://cslibrary.stanford.edu/105/LinkedListProblems.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "starschema",
+    "descendants": 110,
+    "time": 1511589021
   },
   {
     "rank": 7,
     "id": 15775548,
     "title": "Ask HN: CS papers for software architecture and design?",
     "url": "https://news.ycombinator.com/item?id=15775548",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "avrmav",
+    "descendants": 99,
+    "time": 1511609319
   },
   {
     "rank": 8,
     "id": 15776033,
     "title": "My unusual hobby",
     "url": "https://www.stephanboyer.com/post/134/my-unusual-hobby",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 856,
+    "by": "curryhoward",
+    "descendants": 147,
+    "time": 1511619051
   },
   {
     "rank": 9,
     "id": 15776161,
     "title": "Call for the Resignation of FCC Chairman Ajit Varadaraj Pai",
     "url": "https://petitions.whitehouse.gov/petition/we-people-call-resignation-fcc-chairman-ajit-varadaraj-pai",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "DiabloD3",
+    "descendants": 66,
+    "time": 1511621489
   },
   {
     "rank": 10,
     "id": 15776562,
     "title": "Ciao, Chrome: Firefox Quantum Is the Browser Built for 2017",
     "url": "https://www.wired.com/story/firefox-quantum-the-browser-built-for-2017/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "bpierre",
+    "descendants": 328,
+    "time": 1511626974
   }
 ]

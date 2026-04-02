@@ -4,99 +4,99 @@
     "id": 15519190,
     "title": "Avoiding Startup Tarpits",
     "url": "https://medium.com/@DanielTawfik1/its-not-a-feature-problem-avoiding-startup-tarpits-7d5ec4b8c81b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "dtawfik1",
+    "descendants": 68,
+    "time": 1508534505
   },
   {
     "rank": 2,
     "id": 15523186,
     "title": "Beating the bookies \u2013 how the online sports betting market is rigged",
     "url": "https://arxiv.org/abs/1710.02824",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "zeristor",
+    "descendants": 155,
+    "time": 1508614091
   },
   {
     "rank": 3,
     "id": 15524545,
     "title": "How Retailers Use Personalized Prices",
     "url": "https://hbr.org/2017/10/how-retailers-use-personalized-prices-to-test-what-youre-willing-to-pay",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "hrasyid",
+    "descendants": 146,
+    "time": 1508634578
   },
   {
     "rank": 4,
     "id": 15524669,
     "title": "Interview with Susan Fowler",
     "url": "https://www.nytimes.com/2017/10/21/style/susan-fowler-uber.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "bmahmood",
+    "descendants": 113,
+    "time": 1508636518
   },
   {
     "rank": 5,
     "id": 15524812,
     "title": "Why I'm Productive in Clojure (2013)",
     "url": "http://yogthos.net/posts/2013-08-18-Why-I-m-Productive-in-Clojure.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "tosh",
+    "descendants": 246,
+    "time": 1508639111
   },
   {
     "rank": 6,
     "id": 15525715,
     "title": "Getting the Most Out of Sqlite3 with Python",
     "url": "https://remusao.github.io/posts/2017-10-21-few-tips-sqlite-perf.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "pythux",
+    "descendants": 33,
+    "time": 1508659996
   },
   {
     "rank": 7,
     "id": 15525814,
     "title": "Tech workers worry about age discrimination at age 40: Study",
     "url": "https://www.theladders.com/p/29083/older-tech-workers-fear-age-discrimination",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "mcenedella",
+    "descendants": 300,
+    "time": 1508662673
   },
   {
     "rank": 8,
     "id": 15525913,
     "title": "C++ Tips of the Week",
     "url": "https://abseil.io/tips/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "fauigerzigerk",
+    "descendants": 34,
+    "time": 1508665307
   },
   {
     "rank": 9,
     "id": 15526967,
     "title": "After the end of the startup era",
     "url": "https://techcrunch.com/2017/10/22/ask-not-for-whom-the-deadpool-tolls/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "imartin2k",
+    "descendants": 297,
+    "time": 1508682377
   },
   {
     "rank": 10,
     "id": 15528048,
     "title": "A newly discovered moon tunnel",
     "url": "https://www.washingtonpost.com/news/speaking-of-science/wp/2017/10/21/a-newly-discovered-moon-tunnel-could-be-the-perfect-place-for-a-colony-scientists-say/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "hilendugo",
+    "descendants": 180,
+    "time": 1508695215
   }
 ]

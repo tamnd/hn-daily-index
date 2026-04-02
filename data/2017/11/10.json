@@ -4,99 +4,99 @@
     "id": 15662441,
     "title": "Low-cost, non-invasive melanoma detector wins award",
     "url": "https://jamesdysonaward.org/news/skan-james-dyson-award-2017-international-winner/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "ductionist",
+    "descendants": 50,
+    "time": 1510236440
   },
   {
     "rank": 2,
     "id": 15663988,
     "title": ".IO domain name reliability issues and how we\u2019re working around them",
     "url": "https://getstream.io/blog/stop-using-io-domain-names-for-production-traffic/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "sbierwagen",
+    "descendants": 153,
+    "time": 1510247046
   },
   {
     "rank": 3,
     "id": 15664071,
     "title": "Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning",
     "url": "https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "wwarner",
+    "descendants": 125,
+    "time": 1510247801
   },
   {
     "rank": 4,
     "id": 15665581,
     "title": "Writing a basic x86-64 JIT compiler from scratch in stock Python",
     "url": "https://csl.name/post/python-jit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "csl",
+    "descendants": 50,
+    "time": 1510258977
   },
   {
     "rank": 5,
     "id": 15667286,
     "title": "Business questions engineers should ask when interviewing at ML/AI companies",
     "url": "https://medium.com/@danielgross/seven-questions-to-ask-when-interviewing-for-an-ml-job-1963ccee3a19",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "danicgross",
+    "descendants": 109,
+    "time": 1510277870
   },
   {
     "rank": 6,
     "id": 15667385,
     "title": "DOJ: Strong encryption that we don\u2019t have access to is \u201cunreasonable\u201d",
     "url": "https://arstechnica.com/tech-policy/2017/11/doj-strong-encryption-that-we-dont-have-access-to-is-unreasonable/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "nimbius",
+    "descendants": 224,
+    "time": 1510279376
   },
   {
     "rank": 7,
     "id": 15667778,
     "title": "Simple React Patterns",
     "url": "http://lucasmreis.github.io/blog/simple-react-patterns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 625,
+    "by": "kawera",
+    "descendants": 83,
+    "time": 1510285432
   },
   {
     "rank": 8,
     "id": 15668897,
     "title": "Secret Service Agent Sentenced In Scheme Related To Silk Road Investigation",
     "url": "https://www.justice.gov/usao-ndca/pr/former-secret-service-agent-sentenced-scheme-related-silk-road-investigation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "FriedPickles",
+    "descendants": 118,
+    "time": 1510306962
   },
   {
     "rank": 9,
     "id": 15669262,
     "title": "\u201cWe have obtained fully functional JTAG for Intel CSME via USB DCI\u201d",
     "url": "https://twitter.com/h0t_max/status/928269320064450560",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 760,
+    "by": "cryogenic_soul",
+    "descendants": 392,
+    "time": 1510314120
   },
   {
     "rank": 10,
     "id": 15670507,
     "title": "Burn the Programmer",
     "url": "http://www.antipope.org/charlie/blog-static/2017/11/burn-the-programmer.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "thenomad",
+    "descendants": 244,
+    "time": 1510328171
   }
 ]

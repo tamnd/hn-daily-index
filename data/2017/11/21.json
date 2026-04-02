@@ -4,99 +4,99 @@
     "id": 15743785,
     "title": "Samsung DeX",
     "url": "http://www.samsung.com/global/galaxy/apps/samsung-dex/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "blocked_again",
+    "descendants": 225,
+    "time": 1511215894
   },
   {
     "rank": 2,
     "id": 15744359,
     "title": "Let's Encrypt now holds 35% of the market",
     "url": "https://nettrack.info/ssl_certificate_issuers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 659,
+    "by": "tarellel",
+    "descendants": 247,
+    "time": 1511220873
   },
   {
     "rank": 3,
     "id": 15745441,
     "title": "Tether Critical Announcement",
     "url": "https://tether.to/tether-critical-announcement/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "benpink",
+    "descendants": 310,
+    "time": 1511237313
   },
   {
     "rank": 4,
     "id": 15745668,
     "title": "The first known object to enter our solar system from deep space",
     "url": "http://www.cbc.ca/news/technology/astronomers-interstellar-visitor-1.4410477",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "thrusong",
+    "descendants": 107,
+    "time": 1511240477
   },
   {
     "rank": 5,
     "id": 15747313,
     "title": "Why does man print \u201cgimme gimme gimme\u201d at 00:30?",
     "url": "https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "isp",
+    "descendants": 159,
+    "time": 1511266234
   },
   {
     "rank": 6,
     "id": 15747519,
     "title": "Google collects cell tower info even if location services are disabled",
     "url": "https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 953,
+    "by": "kshatrea",
+    "descendants": 401,
+    "time": 1511268583
   },
   {
     "rank": 7,
     "id": 15747650,
     "title": "Desktop compositing latency is real",
     "url": "http://www.lofibucket.com/articles/dwm_latency.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 538,
+    "by": "dezgeg",
+    "descendants": 291,
+    "time": 1511270257
   },
   {
     "rank": 8,
     "id": 15748900,
     "title": "Replacing x86 firmware with Linux and Go",
     "url": "https://lwn.net/SubscriberLink/738649/81007748bf15c1e5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "dankohn1",
+    "descendants": 127,
+    "time": 1511281154
   },
   {
     "rank": 9,
     "id": 15749150,
     "title": "FCC plan would give Internet providers power to choose the sites customers see",
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2017/11/21/the-fcc-has-unveiled-its-plan-to-rollback-its-net-neutrality-rules/?utm_term=.dd07b903b6a7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1330,
+    "by": "rbanffy",
+    "descendants": 646,
+    "time": 1511282536
   },
   {
     "rank": 10,
     "id": 15752022,
     "title": "Uber Concealed Cyberattack That Exposed 57M People\u2019s Data",
     "url": "https://www.bloomberg.com/news/articles/2017-11-21/uber-concealed-cyberattack-that-exposed-57-million-people-s-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1720,
+    "by": "coloneltcb",
+    "descendants": 572,
+    "time": 1511301725
   }
 ]

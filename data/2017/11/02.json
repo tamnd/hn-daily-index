@@ -4,99 +4,99 @@
     "id": 15599820,
     "title": "Chuck Moore, Extreme Programmer",
     "url": "http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2017-10.html#e2017-10-31T15_44_15.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "ingve",
+    "descendants": 174,
+    "time": 1509529418
   },
   {
     "rank": 2,
     "id": 15605669,
     "title": "A Minimalist Guide to SQLite",
     "url": "http://tech.marksblogg.com/sqlite3-tutorial-and-guide.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "craigkerstiens",
+    "descendants": 120,
+    "time": 1509572095
   },
   {
     "rank": 3,
     "id": 15607316,
     "title": "What If OpenDocument Used SQLite?",
     "url": "https://sqlite.org/affcase1.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "ejstronge",
+    "descendants": 190,
+    "time": 1509589236
   },
   {
     "rank": 4,
     "id": 15607869,
     "title": "What every systems programmer should know about lockless concurrency [pdf]",
     "url": "https://assets.bitbashing.io/papers/lockless.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "sidcool",
+    "descendants": 66,
+    "time": 1509597354
   },
   {
     "rank": 5,
     "id": 15608435,
     "title": "Linux containers in 500 lines of code",
     "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "billconan",
+    "descendants": 49,
+    "time": 1509606730
   },
   {
     "rank": 6,
     "id": 15609264,
     "title": "Bitcoin Surges Past $7,000 to Extend Record Rally",
     "url": "https://www.bloomberg.com/news/articles/2017-11-02/bitcoin-surges-past-7-000-to-extend-record-rally-this-year",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "rayuela",
+    "descendants": 414,
+    "time": 1509620207
   },
   {
     "rank": 7,
     "id": 15609402,
     "title": "A New Twist on Neural Networks",
     "url": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/amp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "sonabinu",
+    "descendants": 165,
+    "time": 1509622256
   },
   {
     "rank": 8,
     "id": 15609419,
     "title": "A regression is the kernel not giving the same result with the same user space",
     "url": "http://lkml.iu.edu/hypermail/linux/kernel/1710.3/02474.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "signa11",
+    "descendants": 385,
+    "time": 1509622446
   },
   {
     "rank": 9,
     "id": 15609807,
     "title": "'Big Void' Identified in Khufu's Great Pyramid at Giza",
     "url": "http://www.bbc.co.uk/news/science-environment-41845445",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "Jaruzel",
+    "descendants": 233,
+    "time": 1509626287
   },
   {
     "rank": 10,
     "id": 15611122,
     "title": "Against an Increasingly User-Hostile Web",
     "url": "https://www.neustadt.fr/essays/against-a-user-hostile-web/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1307,
+    "by": "livatlantis",
+    "descendants": 503,
+    "time": 1509635597
   }
 ]

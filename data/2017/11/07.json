@@ -4,99 +4,99 @@
     "id": 15635249,
     "title": "Rivals Intel and AMD Team Up on PC Chips to Battle Nvidia",
     "url": "https://www.wsj.com/articles/rivals-intel-and-amd-team-up-on-pc-chips-to-battle-nvidia-1509966064",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "MekaiGS",
+    "descendants": 201,
+    "time": 1509975025
   },
   {
     "rank": 2,
     "id": 15637111,
     "title": "Flexbox and Grids: your layout\u2019s best friends",
     "url": "https://aerolab.co/blog/flexbox-grids/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 522,
+    "by": "reneherse",
+    "descendants": 145,
+    "time": 1509989919
   },
   {
     "rank": 3,
     "id": 15641701,
     "title": "Functional Programming Jargon",
     "url": "https://github.com/hemanth/functional-programming-jargon",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "charliejrgower",
+    "descendants": 99,
+    "time": 1510041924
   },
   {
     "rank": 4,
     "id": 15642041,
     "title": "Bayangtoys X16: Inexpensive, durable, hackable GPS drone",
     "url": "http://dronegarageblog.wordpress.com/2017/11/06/bayangtoys-x16-inexpensive-durable-hackable-gps-drone",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "wolframio",
+    "descendants": 48,
+    "time": 1510047676
   },
   {
     "rank": 5,
     "id": 15642116,
     "title": "An Open Letter to Intel",
     "url": "http://www.cs.vu.nl/~ast/intel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 996,
+    "by": "varjag",
+    "descendants": 363,
+    "time": 1510049023
   },
   {
     "rank": 6,
     "id": 15642276,
     "title": "NBA GO \u2013 Watch NBA in Your Terminal",
     "url": "https://github.com/xxhomey19/nba-go",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "xxhomey19",
+    "descendants": 113,
+    "time": 1510050904
   },
   {
     "rank": 7,
     "id": 15642856,
     "title": "Parity Wallet security alert",
     "url": "https://paritytech.io/blog/security-alert.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "g09980",
+    "descendants": 280,
+    "time": 1510058444
   },
   {
     "rank": 8,
     "id": 15643663,
     "title": "Almost everything on computers is perceptually slower than it was in 1983",
     "url": "https://tttthreads.com/thread/927593460642615296",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "dredmorbius",
+    "descendants": 341,
+    "time": 1510065388
   },
   {
     "rank": 9,
     "id": 15644520,
     "title": "LA Times barred from Disney movies after report on corporate welfare",
     "url": "https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "adamnemecek",
+    "descendants": 209,
+    "time": 1510070870
   },
   {
     "rank": 10,
     "id": 15644680,
     "title": "Waymo now testing its self-driving cars on public roads with no one at the wheel",
     "url": "https://techcrunch.com/2017/11/07/waymo-now-testing-its-self-driving-cars-on-public-roads-with-no-one-at-the-wheel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1120,
+    "by": "lemiant",
+    "descendants": 609,
+    "time": 1510071844
   }
 ]

@@ -4,99 +4,99 @@
     "id": 15729195,
     "title": "Stockfish Wins Chess.com Computer Championship",
     "url": "https://www.chess.com/news/view/stockfish-wins-chess-com-computer-championship",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "wglb",
+    "descendants": 85,
+    "time": 1511017619
   },
   {
     "rank": 2,
     "id": 15730113,
     "title": "\u201cLast Mile\u201d Barriers to Removing Legacy BIOS [pdf]",
     "url": "http://www.uefi.org/sites/default/files/resources/Brian_Richardson_Intel_Final.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "okket",
+    "descendants": 229,
+    "time": 1511030834
   },
   {
     "rank": 3,
     "id": 15731233,
     "title": "Span<T> in C#",
     "url": "https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "runesoerensen",
+    "descendants": 150,
+    "time": 1511047055
   },
   {
     "rank": 4,
     "id": 15732087,
     "title": "Ask HN: I'm lonely. Are there any video chat support groups for solo founders?",
     "url": "https://news.ycombinator.com/item?id=15732087",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "danschumann",
+    "descendants": 180,
+    "time": 1511061941
   },
   {
     "rank": 5,
     "id": 15732248,
     "title": "Norway Idea to Exit Oil Stocks Is \u2018Shot Heard Around the World\u2019",
     "url": "https://www.bloomberg.com/news/articles/2017-11-17/norway-idea-to-exit-oil-stocks-is-shot-heard-around-the-world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "anigbrowl",
+    "descendants": 139,
+    "time": 1511065704
   },
   {
     "rank": 6,
     "id": 15732926,
     "title": "Think Bayes: Bayesian Statistics Made Simple (2012)",
     "url": "http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "mycat",
+    "descendants": 56,
+    "time": 1511080773
   },
   {
     "rank": 7,
     "id": 15733540,
     "title": "Switching from 1Password to Bitwarden",
     "url": "https://jcs.org/2017/11/17/bitwarden",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "signa11",
+    "descendants": 124,
+    "time": 1511092947
   },
   {
     "rank": 8,
     "id": 15734035,
     "title": "When Unpaid Student Loan Bills Mean You Can No Longer Work",
     "url": "https://www.nytimes.com/2017/11/18/business/student-loans-licenses.html?action=click&contentCollection=Opinion&module=Trending&version=Full&region=Marginalia&pgtype=article",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "SQL2219",
+    "descendants": 201,
+    "time": 1511102132
   },
   {
     "rank": 9,
     "id": 15734416,
     "title": "Qubes OS: A reasonably secure operating system",
     "url": "https://www.qubes-os.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "ploggingdev",
+    "descendants": 144,
+    "time": 1511107602
   },
   {
     "rank": 10,
     "id": 15735006,
     "title": "Six Years After Fukushima, Robots Finally Find Reactors\u2019 Melted Uranium Fuel",
     "url": "https://mobile.nytimes.com/2017/11/19/science/japan-fukushima-nuclear-meltdown-fuel.html?referer=https://www.google.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "htiek",
+    "descendants": 179,
+    "time": 1511114530
   }
 ]

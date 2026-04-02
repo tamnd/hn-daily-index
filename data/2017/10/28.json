@@ -4,99 +4,99 @@
     "id": 15558861,
     "title": "Alan Kay on Lisp",
     "url": "https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11?share=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "shakes",
+    "descendants": 193,
+    "time": 1509026538
   },
   {
     "rank": 2,
     "id": 15570235,
     "title": "IBM scientists say radical new \u2018in-memory\u2019 architecture will speed up computers",
     "url": "http://www.kurzweilai.net/ibm-scientists-say-radical-new-in-memory-computing-architecture-will-speed-up-computers-by-200-times",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "breck",
+    "descendants": 133,
+    "time": 1509123996
   },
   {
     "rank": 3,
     "id": 15570559,
     "title": "Comcast Tries to Derail Fort Collins Community Broadband",
     "url": "http://www.dslreports.com/shownews/Comcast-Tries-to-Derail-Fort-Collins-Community-Broadband-140604",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "ohjeez",
+    "descendants": 77,
+    "time": 1509126056
   },
   {
     "rank": 4,
     "id": 15570748,
     "title": "Waymo Will Test Self-Driving Cars in Snowy Detroit",
     "url": "https://www.bloomberg.com/news/articles/2017-10-26/alphabet-s-waymo-will-test-self-driving-cars-in-wintry-detroit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "kbyatnal",
+    "descendants": 234,
+    "time": 1509127282
   },
   {
     "rank": 5,
     "id": 15570947,
     "title": "Sorting Algorithms Revisualized",
     "url": "https://imgur.com/gallery/GD5gi",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "mdturnerphys",
+    "descendants": 36,
+    "time": 1509128722
   },
   {
     "rank": 6,
     "id": 15572143,
     "title": "Public Key Pinning Being Removed from Chrome",
     "url": "https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/he9tr7p3rZ8/eNMwKPmUBAAJ?hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "ejcx",
+    "descendants": 107,
+    "time": 1509137663
   },
   {
     "rank": 7,
     "id": 15572827,
     "title": "Reason 3",
     "url": "https://reasonml.github.io/community/blog/#reason-3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "bpierre",
+    "descendants": 174,
+    "time": 1509144305
   },
   {
     "rank": 8,
     "id": 15573059,
     "title": "Can You Afford It? Real-World Web Performance Budgets",
     "url": "https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "josephscott",
+    "descendants": 128,
+    "time": 1509146781
   },
   {
     "rank": 9,
     "id": 15574079,
     "title": "Progressive Growing of GANs for Improved Quality, Stability, Variation [video]",
     "url": "https://www.youtube.com/watch?time_continue=1&v=XOxxPcy5Gr4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "visarga",
+    "descendants": 65,
+    "time": 1509167978
   },
   {
     "rank": 10,
     "id": 15574714,
     "title": "Crystal in Production: Diploid",
     "url": "https://crystal-lang.org/2017/10/27/diploid-and-crystal.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "sdogruyol",
+    "descendants": 120,
+    "time": 1509188763
   }
 ]

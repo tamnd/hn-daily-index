@@ -4,99 +4,99 @@
     "id": 15560348,
     "title": "Learning a hierarchy",
     "url": "https://blog.openai.com/learning-a-hierarchy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "gdb",
+    "descendants": 39,
+    "time": 1509035235
   },
   {
     "rank": 2,
     "id": 15561204,
     "title": "New Zealand to ban foreigners from buying existing houses",
     "url": "http://www.independent.co.uk/news/new-zealand-foreigners-buy-property-ban-coalition-talks-prime-minister-jacinda-arden-a8017261.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 450,
+    "by": "wslh",
+    "descendants": 564,
+    "time": 1509039680
   },
   {
     "rank": 3,
     "id": 15562743,
     "title": "Walmart will soon have robots roaming the aisles in 50 stores",
     "url": "http://www.businessinsider.com/walmart-store-robot-program-expands-2017-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "hourislate",
+    "descendants": 316,
+    "time": 1509049810
   },
   {
     "rank": 4,
     "id": 15563099,
     "title": "Georgia election server wiped after lawsuit filed",
     "url": "http://www.mercurynews.com/2017/10/26/georgia-election-server-wiped-after-lawsuit-filed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "wglb",
+    "descendants": 115,
+    "time": 1509052685
   },
   {
     "rank": 5,
     "id": 15565875,
     "title": "Write tests. Not too many. Mostly integration",
     "url": "https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "wslh",
+    "descendants": 331,
+    "time": 1509081249
   },
   {
     "rank": 6,
     "id": 15566873,
     "title": "Elixir web development 101: collaborative todolist with realtime updates",
     "url": "https://blog.openbloc.fr/elixir-phoenix-web-development-101-todo-app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "blaze33",
+    "descendants": 92,
+    "time": 1509096669
   },
   {
     "rank": 7,
     "id": 15567063,
     "title": "Things I Wish I'd Known Before Using Vagrant",
     "url": "https://zwischenzugs.com/2017/10/27/ten-things-i-wish-id-known-before-using-vagrant/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "zwischenzug",
+    "descendants": 147,
+    "time": 1509099318
   },
   {
     "rank": 8,
     "id": 15567356,
     "title": "The New York Times Is Now Available as a Tor Onion Service",
     "url": "https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 878,
+    "by": "alecmuffett",
+    "descendants": 192,
+    "time": 1509103439
   },
   {
     "rank": 9,
     "id": 15567657,
     "title": "Netflix: Removing client-side React.js improved performance by 50%",
     "url": "https://twitter.com/NetflixUIE/status/923374215041912833",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "pjmlp",
+    "descendants": 163,
+    "time": 1509107348
   },
   {
     "rank": 10,
     "id": 15568078,
     "title": "Catalan parliament declares independence from Spain",
     "url": "http://www.bbc.co.uk/news/world-europe-41780116",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "ryanlol",
+    "descendants": 765,
+    "time": 1509111285
   }
 ]

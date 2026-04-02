@@ -4,99 +4,99 @@
     "id": 15786780,
     "title": "Understanding Ethereum Smart Contracts",
     "url": "http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 476,
+    "by": "bjaanes",
+    "descendants": 158,
+    "time": 1511785549
   },
   {
     "rank": 2,
     "id": 15799034,
     "title": "Lessons we learned while bootstrapping",
     "url": "https://kinsta.com/blog/bootstrapping-startup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "brianjackson",
+    "descendants": 105,
+    "time": 1511888711
   },
   {
     "rank": 3,
     "id": 15800082,
     "title": "Parents now spend twice as much time with their children as 50 years ago",
     "url": "https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-20",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "elsewhen",
+    "descendants": 327,
+    "time": 1511894549
   },
   {
     "rank": 4,
     "id": 15801044,
     "title": "Western Digital Plans to Ship More Than One Billion RISC-V Cores a Year",
     "url": "https://www.wdc.com/about-wd/newsroom/press-room/2017-11-28-western-digital-to-accelerate-the-future-of-next-generation-computing-architectures-for-big-data-and-fast-data-environments.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "deepnotderp",
+    "descendants": 145,
+    "time": 1511900323
   },
   {
     "rank": 5,
     "id": 15801229,
     "title": "AWS AppSync \u2013 Build data-driven apps with real-time and off-line capabilities",
     "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-appsync/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "marvinpinto",
+    "descendants": 83,
+    "time": 1511901308
   },
   {
     "rank": 6,
     "id": 15804657,
     "title": "EC2 Bare Metal Instances with Direct Access to Hardware",
     "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "jeffbarr",
+    "descendants": 127,
+    "time": 1511931035
   },
   {
     "rank": 7,
     "id": 15806500,
     "title": "Hello, world: this is WikiTribune",
     "url": "https://www.wikitribune.com/story/2017/10/30/media/hello-world/13988/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 830,
+    "by": "nafizh",
+    "descendants": 235,
+    "time": 1511961515
   },
   {
     "rank": 8,
     "id": 15807913,
     "title": "About the security content of Security Update 2017-001",
     "url": "https://support.apple.com/en-us/HT208315",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "cmg",
+    "descendants": 145,
+    "time": 1511972083
   },
   {
     "rank": 9,
     "id": 15808065,
     "title": "Amazon EKS \u2013 Highly available and scalable Kubernetes service",
     "url": "https://aws.amazon.com/eks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "res0nat0r",
+    "descendants": 90,
+    "time": 1511973067
   },
   {
     "rank": 10,
     "id": 15808096,
     "title": "AWS Fargate \u2013 Run Containers Without Managing Infrastructure",
     "url": "https://aws.amazon.com/blogs/aws/aws-fargate/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 533,
+    "by": "moritzplassnig",
+    "descendants": 229,
+    "time": 1511973215
   }
 ]
