@@ -4,99 +4,99 @@
     "id": 17819771,
     "title": "Ask HN: Codebase at my work is a complete mess, what should I do?",
     "url": "https://news.ycombinator.com/item?id=17819771",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "anonR4nd0m",
+    "descendants": 333,
+    "time": 1534954491
   },
   {
     "rank": 2,
     "id": 17821181,
     "title": "Apple and Google Face Growing Revolt Over App Store \u2018Tax\u2019",
     "url": "https://www.bloomberg.com/news/articles/2018-08-22/apple-and-google-face-growing-revolt-over-app-store-tax",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "tareqak",
+    "descendants": 457,
+    "time": 1534965433
   },
   {
     "rank": 3,
     "id": 17822257,
     "title": "Open source takes continued investment, and that must be subsidized somehow",
     "url": "https://www.influxdata.com/blog/its-time-for-the-open-source-community-to-get-real/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "runesoerensen",
+    "descendants": 250,
+    "time": 1534972517
   },
   {
     "rank": 4,
     "id": 17822561,
     "title": "The Apocalyptic Architecture of One 1970s Retail Chain",
     "url": "https://www.atlasobscura.com/articles/best-superstores-architecture",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "yaseen-rob",
+    "descendants": 84,
+    "time": 1534974891
   },
   {
     "rank": 5,
     "id": 17823886,
     "title": "How I recorded user behaviour on my competitor\u2019s websites",
     "url": "https://dejanseo.com.au/competitor-hack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 766,
+    "by": "lukestevens",
+    "descendants": 309,
+    "time": 1534988831
   },
   {
     "rank": 6,
     "id": 17824218,
     "title": "Intel Publishes Microcode Patches, No Benchmarking or Comparison Allowed",
     "url": "https://perens.com/2018/08/22/new-intel-microcode-license-restriction-is-not-acceptable/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1318,
+    "by": "jeswin",
+    "descendants": 484,
+    "time": 1534993516
   },
   {
     "rank": 7,
     "id": 17824472,
     "title": "The Book \u201cComputer Networks: A Systems Approach\u201d is now open source",
     "url": "https://github.com/SystemsApproach/book",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "tzury",
+    "descendants": 14,
+    "time": 1534996696
   },
   {
     "rank": 8,
     "id": 17826373,
     "title": "Home Assistant: Open-source home automation platform running on Python 3",
     "url": "https://www.home-assistant.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 540,
+    "by": "fanf2",
+    "descendants": 196,
+    "time": 1535024584
   },
   {
     "rank": 9,
     "id": 17827204,
     "title": "Spyware Company Leaves \u2018Terabytes\u2019 of Selfies, Messages, Location Data Exposed",
     "url": "https://motherboard.vice.com/en_us/article/9kmj4v/spyware-company-spyfone-terabytes-data-exposed-online-leak",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "wglb",
+    "descendants": 141,
+    "time": 1535032221
   },
   {
     "rank": 10,
     "id": 17828187,
     "title": "Craft: A simple Minecraft clone written in C using OpenGL shaders",
     "url": "https://github.com/fogleman/Craft",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 578,
+    "by": "sbjs",
+    "descendants": 154,
+    "time": 1535039033
   }
 ]

@@ -4,99 +4,99 @@
     "id": 17945071,
     "title": "A doctor in Bangladesh has found a simple way to treat infant pneumonia",
     "url": "https://www.economist.com/science-and-technology/2018/09/08/how-a-shampoo-bottle-is-saving-young-lives",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "sohkamyung",
+    "descendants": 51,
+    "time": 1536484476
   },
   {
     "rank": 2,
     "id": 17946383,
     "title": "D3-dag \u2013 Layout algorithms for visualizing directed acylic graphs",
     "url": "https://github.com/erikbrinkman/d3-dag",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "petethomas",
+    "descendants": 40,
+    "time": 1536507704
   },
   {
     "rank": 3,
     "id": 17948237,
     "title": "Build a better Bookshelf",
     "url": "https://huytd.github.io/build-a-better-bookshelf.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "huydotnet",
+    "descendants": 64,
+    "time": 1536533603
   },
   {
     "rank": 4,
     "id": 17948287,
     "title": "Show HN: Zero \u2013 Local file system transparently swapping to the cloud",
     "url": "https://github.com/KonstantinSchubert/zero",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "konschubert",
+    "descendants": 96,
+    "time": 1536534636
   },
   {
     "rank": 5,
     "id": 17948412,
     "title": "Starting an ISP: Deploying Fiber",
     "url": "http://chrishacken.com/starting-an-internet-service-provider-part-2-deploying-fiber/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "chrishacken",
+    "descendants": 63,
+    "time": 1536536726
   },
   {
     "rank": 6,
     "id": 17949653,
     "title": "Australia's anti-encryption law will merely relocate the backdoors: Expert",
     "url": "https://www.zdnet.com/article/australias-anti-encryption-law-will-merely-relocate-the-backdoors-expert/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "axiomdata316",
+    "descendants": 133,
+    "time": 1536558448
   },
   {
     "rank": 7,
     "id": 17950355,
     "title": "Generative Art Finds Its Prodigy",
     "url": "https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "trueduke",
+    "descendants": 106,
+    "time": 1536569075
   },
   {
     "rank": 8,
     "id": 17950862,
     "title": "Lessons from Building and Scaling Reddit's Ad Serving Platform with Go",
     "url": "https://about.sourcegraph.com/go/gophercon-2018-from-prototype-to-production-lessons-from-building-and/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "ngaut",
+    "descendants": 126,
+    "time": 1536577548
   },
   {
     "rank": 9,
     "id": 17952225,
     "title": "Why Socialists Don't Believe in Fun (1943)",
     "url": "http://www.orwell.ru/library/articles/socialists/english/e_fun",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "monort",
+    "descendants": 263,
+    "time": 1536591228
   },
   {
     "rank": 10,
     "id": 17953104,
     "title": "How Discord Handles Two and Half Million Concurrent Voice Users Using WebRTC",
     "url": "https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 649,
+    "by": "jhgg",
+    "descendants": 244,
+    "time": 1536598159
   }
 ]

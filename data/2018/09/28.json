@@ -4,99 +4,99 @@
     "id": 18083509,
     "title": "People can die from giving up the fight",
     "url": "https://medicalxpress.com/news/2018-09-people-die.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "dnetesn",
+    "descendants": 124,
+    "time": 1538047827
   },
   {
     "rank": 2,
     "id": 18083641,
     "title": "Introducing Cloudflare Registrar",
     "url": "https://blog.cloudflare.com/cloudflare-registrar/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 527,
+    "by": "jgrahamc",
+    "descendants": 248,
+    "time": 1538049615
   },
   {
     "rank": 3,
     "id": 18083793,
     "title": "Hayabusa 2 rovers send new images from Ryugu surface",
     "url": "https://www.bbc.co.uk/news/science-environment-45667350",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "DanBC",
+    "descendants": 58,
+    "time": 1538051293
   },
   {
     "rank": 4,
     "id": 18084013,
     "title": "Tailwind: A Utility-First CSS Framework",
     "url": "https://tailwindcss.com/docs/what-is-tailwind/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "Ethan_Mick",
+    "descendants": 101,
+    "time": 1538053463
   },
   {
     "rank": 5,
     "id": 18086767,
     "title": "This blog has moved",
     "url": "https://allendowney.blogspot.com/2018/09/this-blog-has-moved.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "mayankkaizen",
+    "descendants": 108,
+    "time": 1538069630
   },
   {
     "rank": 6,
     "id": 18090651,
     "title": "LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group",
     "url": "https://www.welivesecurity.com/2018/09/27/lojax-first-uefi-rootkit-found-wild-courtesy-sednit-group/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "tcsl_armor",
+    "descendants": 86,
+    "time": 1538103526
   },
   {
     "rank": 7,
     "id": 18093568,
     "title": "Voting Machine Used in Half of U.S. Is Vulnerable to Attack, Report Finds",
     "url": "https://www.wsj.com/articles/widely-used-election-systems-are-vulnerable-to-attack-report-finds-1538020802",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "briatx",
+    "descendants": 202,
+    "time": 1538144495
   },
   {
     "rank": 8,
     "id": 18094285,
     "title": "Upgrading GitHub from Rails 3.2 to 5.2",
     "url": "https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 510,
+    "by": "masnick",
+    "descendants": 263,
+    "time": 1538149277
   },
   {
     "rank": 9,
     "id": 18094328,
     "title": "How a Website Exploited Amazon S3 to Outrank Everyone on Google",
     "url": "https://blog.usejournal.com/how-one-affiliate-used-amazon-s3-to-outrank-everyone-on-google-9744c8e7322f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "poof_he_is_gone",
+    "descendants": 117,
+    "time": 1538149604
   },
   {
     "rank": 10,
     "id": 18094823,
     "title": "Facebook Network Breach Impacts Up to 50M Users",
     "url": "https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1677,
+    "by": "coloneltcb",
+    "descendants": 609,
+    "time": 1538153229
   }
 ]

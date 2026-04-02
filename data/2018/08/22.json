@@ -4,99 +4,99 @@
     "id": 17811051,
     "title": "What to Do After Finding Hot Connectors on Overhead Power Lines (2017) [video]",
     "url": "https://www.youtube.com/watch?v=piQpLL5nD18",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "camtarn",
+    "descendants": 198,
+    "time": 1534868980
   },
   {
     "rank": 2,
     "id": 17812713,
     "title": "Learn You a Haskell for Great Good",
     "url": "http://learnyouahaskell.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "tosh",
+    "descendants": 145,
+    "time": 1534878283
   },
   {
     "rank": 3,
     "id": 17813417,
     "title": "Verizon throttled fire department\u2019s \u201cunlimited\u201d data during wildfire",
     "url": "https://arstechnica.com/tech-policy/2018/08/verizon-throttled-fire-departments-unlimited-data-during-calif-wildfire/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 567,
+    "by": "jamroom",
+    "descendants": 339,
+    "time": 1534882959
   },
   {
     "rank": 4,
     "id": 17814386,
     "title": "Commons Clause",
     "url": "https://redislabs.com/community/commons-clause/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "dankohn1",
+    "descendants": 473,
+    "time": 1534890241
   },
   {
     "rank": 5,
     "id": 17815892,
     "title": "Valve Rolls Out Wine-Based \u201cProton\u201d for Running Windows Games on Linux",
     "url": "https://www.phoronix.com/scan.php?page=news_item&px=Valve-Steam-Play-Proton-Linux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 819,
+    "by": "kbumsik",
+    "descendants": 322,
+    "time": 1534906396
   },
   {
     "rank": 6,
     "id": 17817627,
     "title": "A visualization of the prime factors of the first million integers",
     "url": "https://johnhw.github.io/umap_primes/index.md.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "fanf2",
+    "descendants": 59,
+    "time": 1534932809
   },
   {
     "rank": 7,
     "id": 17818407,
     "title": "The Commons Clause is an existential threat to open source",
     "url": "https://drewdevault.com/2018/08/22/Commons-clause-will-destroy-open-source.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "ddevault",
+    "descendants": 238,
+    "time": 1534943254
   },
   {
     "rank": 8,
     "id": 17818647,
     "title": "Redis will remain BSD licensed",
     "url": "http://antirez.com/news/120",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 448,
+    "by": "antirez",
+    "descendants": 197,
+    "time": 1534945894
   },
   {
     "rank": 9,
     "id": 17819138,
     "title": "PyPy.js: Python in the web browser",
     "url": "https://pypyjs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "LopRabbit",
+    "descendants": 120,
+    "time": 1534949959
   },
   {
     "rank": 10,
     "id": 17820626,
     "title": "Edge Computing at Chick-fil-A",
     "url": "https://medium.com/@cfatechblog/edge-computing-at-chick-fil-a-7d67242675e2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "ayanai",
+    "descendants": 379,
+    "time": 1534961539
   }
 ]

@@ -4,99 +4,99 @@
     "id": 18023062,
     "title": "How to create an OS from scratch \u2013 tutorial",
     "url": "https://github.com/cfenollosa/os-tutorial",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "zabana",
+    "descendants": 58,
+    "time": 1537350801
   },
   {
     "rank": 2,
     "id": 18023408,
     "title": "Whatever Happened to the Semantic Web?",
     "url": "https://twobithistory.org/2018/05/27/semantic-web.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "ColinWright",
+    "descendants": 201,
+    "time": 1537356668
   },
   {
     "rank": 3,
     "id": 18033195,
     "title": "Becoming a Better Software Developer: A Handbook on Personal Performance",
     "url": "https://www.7pace.com/blog/become-a-better-programmer-skills-development",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "encorekt",
+    "descendants": 73,
+    "time": 1537457637
   },
   {
     "rank": 4,
     "id": 18034714,
     "title": "Titans of Mathematics Clash Over Epic Proof of ABC Conjecture",
     "url": "https://www.quantamagazine.org/titans-of-mathematics-clash-over-epic-proof-of-abc-conjecture-20180920/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "digital55",
+    "descendants": 261,
+    "time": 1537470058
   },
   {
     "rank": 5,
     "id": 18034912,
     "title": "People Like You More Than You Know",
     "url": "https://blogs.scientificamerican.com/illusion-chasers/people-like-you-more-than-you-know/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 577,
+    "by": "ALee",
+    "descendants": 200,
+    "time": 1537472046
   },
   {
     "rank": 6,
     "id": 18035283,
     "title": "Show HN: Hacking slot machines with a buttonhole camera and brute-force search",
     "url": "https://github.com/tensor8/hacking_slot_machines",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "IsONoDOn",
+    "descendants": 151,
+    "time": 1537476075
   },
   {
     "rank": 7,
     "id": 18037613,
     "title": "Ask HN: What open source project, in your opinion, has the highest code quality?",
     "url": "https://news.ycombinator.com/item?id=18037613",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "chefqual",
+    "descendants": 286,
+    "time": 1537512151
   },
   {
     "rank": 8,
     "id": 18037657,
     "title": "Thanks for the Surprise Integration with My Website, Apple",
     "url": "https://www.asaph.org/2018/09/jguitar-apple-ios-shortcut.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "asaph",
+    "descendants": 210,
+    "time": 1537512640
   },
   {
     "rank": 9,
     "id": 18039489,
     "title": "NewSQL databases fail to guarantee consistency and I blame Spanner",
     "url": "http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 510,
+    "by": "evanweaver",
+    "descendants": 301,
+    "time": 1537536415
   },
   {
     "rank": 10,
     "id": 18041368,
     "title": "Google Suppresses Memo Revealing Plans to Closely Track Search Users in China",
     "url": "https://theintercept.com/2018/09/21/google-suppresses-memo-revealing-plans-to-closely-track-search-users-in-china/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 541,
+    "by": "halestock",
+    "descendants": 289,
+    "time": 1537551912
   }
 ]

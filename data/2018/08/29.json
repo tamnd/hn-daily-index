@@ -4,99 +4,99 @@
     "id": 17857129,
     "title": "Ask HN: Have you built a house?",
     "url": "https://news.ycombinator.com/item?id=17857129",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "gonvaled",
+    "descendants": 220,
+    "time": 1535441736
   },
   {
     "rank": 2,
     "id": 17858672,
     "title": "We are rewriting CodeMirror",
     "url": "https://codemirror.net/6/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "tobr",
+    "descendants": 73,
+    "time": 1535463517
   },
   {
     "rank": 3,
     "id": 17861078,
     "title": "DuckDuckGo Raises $10M",
     "url": "https://news.crunchbase.com/news/while-google-is-attacked-over-privacy-concerns-and-perceived-bias-duckduckgo-raised-10m/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 762,
+    "by": "exotree",
+    "descendants": 249,
+    "time": 1535478867
   },
   {
     "rank": 4,
     "id": 17861748,
     "title": "NYC Mesh \u2013 community-owned network to replace your current internet connection",
     "url": "https://nycmesh.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 550,
+    "by": "tony101",
+    "descendants": 170,
+    "time": 1535482526
   },
   {
     "rank": 5,
     "id": 17861803,
     "title": "How the Dutch created a casual biking culture",
     "url": "https://www.vox.com/science-and-health/2018/8/28/17789510/bike-cycling-netherlands-dutch-infrastructure",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "jseliger",
+    "descendants": 383,
+    "time": 1535482847
   },
   {
     "rank": 6,
     "id": 17864518,
     "title": "Facebook has removed all cross-posted tweets",
     "url": "https://techcrunch.com/2018/08/28/facebook-has-removed-all-cross-posted-tweets/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "lxm",
+    "descendants": 212,
+    "time": 1535505939
   },
   {
     "rank": 7,
     "id": 17865687,
     "title": "LiteTree: SQLite with Branches",
     "url": "https://github.com/aergoio/litetree",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "kroggen",
+    "descendants": 75,
+    "time": 1535517663
   },
   {
     "rank": 8,
     "id": 17866030,
     "title": "Teens who refuse to use social media",
     "url": "https://www.theguardian.com/society/2018/aug/29/teens-desert-social-media",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "pmoriarty",
+    "descendants": 361,
+    "time": 1535522691
   },
   {
     "rank": 9,
     "id": 17869249,
     "title": "Bye bye BetterSlack",
     "url": "https://g3rv4.com/2018/08/bye-bye-betterslack",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 839,
+    "by": "g3rv4",
+    "descendants": 383,
+    "time": 1535558459
   },
   {
     "rank": 10,
     "id": 17871313,
     "title": "Show HN: I'm 12, learning JS, and wrote Wolfram's cellular automaton in Node",
     "url": "https://bitbucket.org/liamilan/wolfram-cellular-automata",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1072,
+    "by": "liamilan",
+    "descendants": 283,
+    "time": 1535572524
   }
 ]

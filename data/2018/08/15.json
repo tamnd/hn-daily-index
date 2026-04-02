@@ -4,99 +4,99 @@
     "id": 17757485,
     "title": "Why you should, and shouldn\u2019t, join a startup",
     "url": "https://www.atrium.co/blog/work-at-a-startup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "madmax108",
+    "descendants": 127,
+    "time": 1534251674
   },
   {
     "rank": 2,
     "id": 17759762,
     "title": "Understanding L1 Terminal Fault aka Foreshadow: What You Need to Know",
     "url": "https://www.redhat.com/en/blog/understanding-l1-terminal-fault-aka-foreshadow-what-you-need-know",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "jterrill",
+    "descendants": 116,
+    "time": 1534266627
   },
   {
     "rank": 3,
     "id": 17763011,
     "title": "Katie's New Face",
     "url": "https://www.nationalgeographic.com/magazine/2018/09/face-transplant-katie-stubblefield-story-identity-surgery-science/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "danso",
+    "descendants": 321,
+    "time": 1534292648
   },
   {
     "rank": 4,
     "id": 17763426,
     "title": "YC China and Qi Lu",
     "url": "https://blog.ycombinator.com/yc-china-qi-lu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "sama",
+    "descendants": 345,
+    "time": 1534301208
   },
   {
     "rank": 5,
     "id": 17763855,
     "title": "Osx-kvm: Run macOS on QEMU/KVM",
     "url": "https://github.com/kholia/OSX-KVM",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "axiomdata316",
+    "descendants": 106,
+    "time": 1534308960
   },
   {
     "rank": 6,
     "id": 17764340,
     "title": "SQLite Release 3.25.0 adds support for window functions",
     "url": "https://www.sqlite.org/draft/releaselog/current.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "MarkusWinand",
+    "descendants": 115,
+    "time": 1534319183
   },
   {
     "rank": 7,
     "id": 17764513,
     "title": "Software development requires servant leaders",
     "url": "https://adl.io/essays/why-software-development-requires-servant-leaders/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "mooreds",
+    "descendants": 197,
+    "time": 1534322030
   },
   {
     "rank": 8,
     "id": 17765446,
     "title": "TinyWM \u2013 A tiny window manager in around 50 lines of C",
     "url": "http://incise.org/tinywm.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "LaSombra",
+    "descendants": 104,
+    "time": 1534335617
   },
   {
     "rank": 9,
     "id": 17766079,
     "title": "The easiest way to keep your web apps accessible: Just use text",
     "url": "https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b57506cc2a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "efunction",
+    "descendants": 260,
+    "time": 1534341877
   },
   {
     "rank": 10,
     "id": 17766358,
     "title": "Markov Chains Explained Visually (2014)",
     "url": "http://setosa.io/ev/markov-chains/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 779,
+    "by": "aogl",
+    "descendants": 68,
+    "time": 1534344205
   }
 ]
