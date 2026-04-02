@@ -4,9 +4,9 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 113,
+    "score": 114,
     "by": "bonzini",
-    "descendants": 63,
+    "descendants": 65,
     "time": 1775119724
   },
   {
@@ -14,7 +14,7 @@
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 80,
+    "score": 81,
     "by": "smartmic",
     "descendants": 16,
     "time": 1775117951
@@ -26,7 +26,7 @@
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
     "score": 103,
     "by": "novaRom",
-    "descendants": 47,
+    "descendants": 48,
     "time": 1775127000
   },
   {
@@ -44,7 +44,7 @@
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 41,
+    "score": 43,
     "by": "stratos123",
     "descendants": 14,
     "time": 1775121258
@@ -54,7 +54,7 @@
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-    "score": 64,
+    "score": 65,
     "by": "luu",
     "descendants": 29,
     "time": 1774933899
@@ -74,7 +74,7 @@
     "id": 47596739,
     "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 65,
+    "score": 66,
     "by": "jackson-mcd",
     "descendants": 21,
     "time": 1775016881
@@ -94,7 +94,7 @@
     "id": 47608495,
     "title": "Quantum computing bombshells that are not April Fools",
     "url": "https://scottaaronson.blog/?p=9665",
-    "score": 200,
+    "score": 201,
     "by": "Strilanc",
     "descendants": 64,
     "time": 1775089483
