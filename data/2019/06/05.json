@@ -4,99 +4,99 @@
     "id": 20093676,
     "title": "How I Made $200k When I Was 16 Years Old Through Coding (2018)",
     "url": "https://medium.com/tech-product-and-life/how-i-made-200-000-when-i-was-16-years-old-304f0e87cfb6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 611,
+    "by": "rodneyg_",
+    "descendants": 217,
+    "time": 1559644790
   },
   {
     "rank": 2,
     "id": 20094866,
     "title": "Show HN: This page is a truly naked, brutalist HTML quine",
     "url": "https://secretgeek.github.io/html_wysiwyg/html.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 633,
+    "by": "LeonB",
+    "descendants": 94,
+    "time": 1559655515
   },
   {
     "rank": 3,
     "id": 20095856,
     "title": "When it comes to privacy, default settings matter",
     "url": "https://blog.mozilla.org/blog/2019/06/04/when-it-comes-to-privacy-default-settings-matter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "nachtigall",
+    "descendants": 127,
+    "time": 1559661819
   },
   {
     "rank": 4,
     "id": 20096120,
     "title": "National Park Typeface",
     "url": "https://nationalparktypeface.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 623,
+    "by": "zwieback",
+    "descendants": 84,
+    "time": 1559663391
   },
   {
     "rank": 5,
     "id": 20097077,
     "title": "Relicensing CockroachDB",
     "url": "https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "SEJeff",
+    "descendants": 282,
+    "time": 1559668500
   },
   {
     "rank": 6,
     "id": 20100169,
     "title": "An update on last week's customer shutdown incident",
     "url": "https://blog.digitalocean.com/an-update-on-last-weeks-customer-shutdown-incident/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 578,
+    "by": "grzm",
+    "descendants": 264,
+    "time": 1559690581
   },
   {
     "rank": 7,
     "id": 20103540,
     "title": "Firefox Monitor",
     "url": "https://monitor.firefox.com/scan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 574,
+    "by": "madhukarah",
+    "descendants": 215,
+    "time": 1559736622
   },
   {
     "rank": 8,
     "id": 20103935,
     "title": "Why aren\u2019t more companies remote-first?",
     "url": "https://upside.fm/the-future-of-work-is-here-so-why-arent-more-companies-remote-first/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "ekhornung",
+    "descendants": 455,
+    "time": 1559740028
   },
   {
     "rank": 9,
     "id": 20104619,
     "title": "Actix-web 1.0 \u2013 A small, pragmatic, and fast web framework for Rust",
     "url": "https://docs.rs/actix-web/1.0.0/actix_web",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 600,
+    "by": "Dowwie",
+    "descendants": 147,
+    "time": 1559744393
   },
   {
     "rank": 10,
     "id": 20108096,
     "title": "\u201cApps intended for kids may not include third-party advertising or analytics\u201d",
     "url": "https://developer.apple.com/app-store/review/guidelines/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1179,
+    "by": "donohoe",
+    "descendants": 379,
+    "time": 1559762110
   }
 ]

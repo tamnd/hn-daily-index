@@ -4,99 +4,99 @@
     "id": 20257990,
     "title": "Building an LTE Access Point with a Raspberry Pi",
     "url": "https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "kingsomething",
+    "descendants": 68,
+    "time": 1561316887
   },
   {
     "rank": 2,
     "id": 20259302,
     "title": "What Happens After Amazon\u2019s Domination Is Complete? Its Bookstore Offers Clues",
     "url": "https://www.nytimes.com/2019/06/23/technology/amazon-domination-bookstore-books.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "rmason",
+    "descendants": 320,
+    "time": 1561331060
   },
   {
     "rank": 3,
     "id": 20260292,
     "title": "Mastery with SQL: Learn Modern SQL with Postgres",
     "url": "https://www.masterywithsql.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 551,
+    "by": "nsainsbury",
+    "descendants": 80,
+    "time": 1561347248
   },
   {
     "rank": 4,
     "id": 20260863,
     "title": "Raspberry Pi 4",
     "url": "https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2504,
+    "by": "MarcScott",
+    "descendants": 837,
+    "time": 1561356028
   },
   {
     "rank": 5,
     "id": 20261823,
     "title": "I just had over a thousand Euros stolen and Revolut is siding with the thief",
     "url": "https://www.stavros.io/posts/revolut-doesnt-care-about-you/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 705,
+    "by": "jstanley",
+    "descendants": 352,
+    "time": 1561369297
   },
   {
     "rank": 6,
     "id": 20262214,
     "title": "Route Leak Impacting Cloudflare",
     "url": "https://www.cloudflarestatus.com/incidents/46z55mdhg0t5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "xPaw",
+    "descendants": 157,
+    "time": 1561374531
   },
   {
     "rank": 7,
     "id": 20262235,
     "title": "Fast key-value stores: An idea whose time has come and gone",
     "url": "https://ai.google/research/pubs/pub48030",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "godelmachine",
+    "descendants": 140,
+    "time": 1561374753
   },
   {
     "rank": 8,
     "id": 20264911,
     "title": "Ask HN: What do you do with your Raspberry Pi?",
     "url": "https://news.ycombinator.com/item?id=20264911",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1741,
+    "by": "xylo",
+    "descendants": 1069,
+    "time": 1561392145
   },
   {
     "rank": 9,
     "id": 20265031,
     "title": "Elixir 1.9",
     "url": "https://elixir-lang.org/blog/2019/06/24/elixir-v1-9-0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "mischov",
+    "descendants": 169,
+    "time": 1561392630
   },
   {
     "rank": 10,
     "id": 20267790,
     "title": "Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline",
     "url": "https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 863,
+    "by": "steveklabnik",
+    "descendants": 274,
+    "time": 1561406331
   }
 ]

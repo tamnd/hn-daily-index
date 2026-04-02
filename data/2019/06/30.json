@@ -4,99 +4,99 @@
     "id": 20312832,
     "title": "America\u2019s Monopoly Crisis Hits the Military",
     "url": "https://www.theamericanconservative.com/articles/americas-monopoly-crisis-hits-the-military/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "jdkee",
+    "descendants": 149,
+    "time": 1561819152
   },
   {
     "rank": 2,
     "id": 20313649,
     "title": "Live coding a vi for CP/M from scratch",
     "url": "http://cowlark.com/2019-06-28-cpm-vi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "ingve",
+    "descendants": 67,
+    "time": 1561828587
   },
   {
     "rank": 3,
     "id": 20314036,
     "title": "PiHole-Google: Completely Block Google and Its Services",
     "url": "https://github.com/nickspaargaren/pihole-google",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "Jerry2",
+    "descendants": 133,
+    "time": 1561833168
   },
   {
     "rank": 4,
     "id": 20314690,
     "title": "How to pick a random number from 1-10",
     "url": "https://torvaney.github.io/projects/human-rng",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "torvaney",
+    "descendants": 173,
+    "time": 1561841324
   },
   {
     "rank": 5,
     "id": 20315973,
     "title": "Lazydocker: a terminal GUI for Docker",
     "url": "https://github.com/jesseduffield/lazydocker/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "jesseduffield",
+    "descendants": 47,
+    "time": 1561860929
   },
   {
     "rank": 6,
     "id": 20316140,
     "title": "Tell HN: Social media strike proposed for July 4-5 by Wikipedia co-founder",
     "url": "https://news.ycombinator.com/item?id=20316140",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "lsanger",
+    "descendants": 141,
+    "time": 1561864899
   },
   {
     "rank": 7,
     "id": 20317736,
     "title": "The Cost of JavaScript in 2019",
     "url": "https://v8.dev/blog/cost-of-javascript-2019",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "kiyanwang",
+    "descendants": 251,
+    "time": 1561895608
   },
   {
     "rank": 8,
     "id": 20317799,
     "title": "\u201cNew home page seems like Stack Overflow doesn't allow free use any more\u201d",
     "url": "https://meta.stackoverflow.com/q/386505/3834",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "nsoonhui",
+    "descendants": 175,
+    "time": 1561896836
   },
   {
     "rank": 9,
     "id": 20317840,
     "title": "Show HN: Web pages stored entirely in the URL",
     "url": "https://github.com/jstrieb/urlpages",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "jstrieb",
+    "descendants": 163,
+    "time": 1561897740
   },
   {
     "rank": 10,
     "id": 20318184,
     "title": "The German Tank Problem",
     "url": "https://www.eadan.net/blog/german-tank-problem/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "eadan",
+    "descendants": 104,
+    "time": 1561902717
   }
 ]

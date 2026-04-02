@@ -952,7 +952,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2018](data/2018/) (53/365 days)
+### [2018](data/2018/) (61/365 days)
 
 <details><summary>Show calendars</summary>
 
@@ -967,15 +967,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**24**](data/2018/12/README.md#2018-12-24) | [**25**](data/2018/12/README.md#2018-12-25) | [**26**](data/2018/12/README.md#2018-12-26) | [**27**](data/2018/12/README.md#2018-12-27) | [**28**](data/2018/12/README.md#2018-12-28) | [**29**](data/2018/12/README.md#2018-12-29) | [**30**](data/2018/12/README.md#2018-12-30) |
 | [**31**](data/2018/12/README.md#2018-12-31) |  |  |  |  |  |  |
 
-[**November**](data/2018/11/) (22/30)
+[**November**](data/2018/11/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](data/2018/11/README.md#2018-11-01) | [**2**](data/2018/11/README.md#2018-11-02) | [**3**](data/2018/11/README.md#2018-11-03) | [**4**](data/2018/11/README.md#2018-11-04) |
 | [**5**](data/2018/11/README.md#2018-11-05) | [**6**](data/2018/11/README.md#2018-11-06) | [**7**](data/2018/11/README.md#2018-11-07) | [**8**](data/2018/11/README.md#2018-11-08) | [**9**](data/2018/11/README.md#2018-11-09) | [**10**](data/2018/11/README.md#2018-11-10) | [**11**](data/2018/11/README.md#2018-11-11) |
 | [**12**](data/2018/11/README.md#2018-11-12) | [**13**](data/2018/11/README.md#2018-11-13) | [**14**](data/2018/11/README.md#2018-11-14) | [**15**](data/2018/11/README.md#2018-11-15) | [**16**](data/2018/11/README.md#2018-11-16) | [**17**](data/2018/11/README.md#2018-11-17) | [**18**](data/2018/11/README.md#2018-11-18) |
-| [**19**](data/2018/11/README.md#2018-11-19) | [**20**](data/2018/11/README.md#2018-11-20) | [**21**](data/2018/11/README.md#2018-11-21) | [**22**](data/2018/11/README.md#2018-11-22) | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 |  |  |
+| [**19**](data/2018/11/README.md#2018-11-19) | [**20**](data/2018/11/README.md#2018-11-20) | [**21**](data/2018/11/README.md#2018-11-21) | [**22**](data/2018/11/README.md#2018-11-22) | [**23**](data/2018/11/README.md#2018-11-23) | [**24**](data/2018/11/README.md#2018-11-24) | [**25**](data/2018/11/README.md#2018-11-25) |
+| [**26**](data/2018/11/README.md#2018-11-26) | [**27**](data/2018/11/README.md#2018-11-27) | [**28**](data/2018/11/README.md#2018-11-28) | [**29**](data/2018/11/README.md#2018-11-29) | [**30**](data/2018/11/README.md#2018-11-30) |  |  |
 
 [**October**](data/2018/10/) (0/31)
 
@@ -1088,13 +1088,13 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 *Thursday*
 
 1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 120 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [72 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 133 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [59 comments](https://news.ycombinator.com/item?id=47612601)
+2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 135 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [61 comments](https://news.ycombinator.com/item?id=47612601)
 3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 88 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [18 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 970 points by [apitman](https://news.ycombinator.com/user?id=apitman), [819 comments](https://news.ycombinator.com/item?id=47603657)
 5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 49 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [18 comments](https://news.ycombinator.com/item?id=47611921)
 6. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 69 points by [luu](https://news.ycombinator.com/user?id=luu), [29 comments](https://news.ycombinator.com/item?id=47582987)
 7. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 7 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [0 comments](https://news.ycombinator.com/item?id=47612724)
-8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 71 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [22 comments](https://news.ycombinator.com/item?id=47596739)
+8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 72 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [21 comments](https://news.ycombinator.com/item?id=47596739)
 9. [Enabling Codex to Analyze Two Decades of Hacker News Data](https://modolap.com/publication/hn-analysis-1) (modolap.com) - 10 points by [ronfriedhaber](https://news.ycombinator.com/user?id=ronfriedhaber), [2 comments](https://news.ycombinator.com/item?id=47612558)
 10. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 183 points by [jaden](https://news.ycombinator.com/user?id=jaden), [58 comments](https://news.ycombinator.com/item?id=47609694)
 

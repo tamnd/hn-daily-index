@@ -4,99 +4,99 @@
     "id": 20323246,
     "title": "Choose Boring Technology",
     "url": "http://boringtechnology.club/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1357,
+    "by": "luu",
+    "descendants": 344,
+    "time": 1561966711
   },
   {
     "rank": 2,
     "id": 20324675,
     "title": "Absence of certain features in IRC considered a feature",
     "url": "https://drewdevault.com/2019/07/01/Absence-of-features-in-IRC.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "kragniz",
+    "descendants": 216,
+    "time": 1561985003
   },
   {
     "rank": 3,
     "id": 20325925,
     "title": "Ask HN: Who is hiring? (July 2019)",
     "url": "https://news.ycombinator.com/item?id=20325925",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 485,
+    "by": "whoishiring",
+    "descendants": 893,
+    "time": 1561993206
   },
   {
     "rank": 4,
     "id": 20328871,
     "title": "Senate passes bill to decrease grid digitization, move toward manual control",
     "url": "https://www.utilitydive.com/news/senate-passes-cybersecurity-bill-to-decrease-grid-digitization-move-toward/557959/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "howard941",
+    "descendants": 179,
+    "time": 1562009408
   },
   {
     "rank": 5,
     "id": 20330818,
     "title": "Ask HN: Has anyone ever been hired from \u201cWho wants to be hired?\u201d threads?",
     "url": "https://news.ycombinator.com/item?id=20330818",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "threwawasy1228",
+    "descendants": 265,
+    "time": 1562024612
   },
   {
     "rank": 6,
     "id": 20331569,
     "title": "The First Sony Walkman Was Released 40 Years Ago",
     "url": "https://www.stereogum.com/2049762/the-first-sony-walkman-was-released-40-years-ago-today/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "lnguyen",
+    "descendants": 170,
+    "time": 1562033762
   },
   {
     "rank": 7,
     "id": 20334779,
     "title": "Show HN: Vector \u2013 A High-Performance Log and Metric Router Written in Rust",
     "url": "https://github.com/timberio/vector",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "zhs",
+    "descendants": 63,
+    "time": 1562074428
   },
   {
     "rank": 8,
     "id": 20334924,
     "title": "Cloudflare Network Performance Issues",
     "url": "https://www.cloudflarestatus.com/incidents/tx4pgxs6zxdr",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 631,
+    "by": "drcongo",
+    "descendants": 310,
+    "time": 1562075391
   },
   {
     "rank": 9,
     "id": 20335198,
     "title": "Minnesota Will Pay Residents to Grow Bee-Friendly Lawns",
     "url": "https://www.smithsonianmag.com/smart-news/minnesota-will-pay-residents-grow-bee-friendly-lawns-180972430/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "pseudolus",
+    "descendants": 200,
+    "time": 1562076458
   },
   {
     "rank": 10,
     "id": 20338263,
     "title": "Google Cloud networking issues in us-east1",
     "url": "https://status.cloud.google.com/incident/cloud-networking/19016",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "decohen",
+    "descendants": 315,
+    "time": 1562093873
   }
 ]

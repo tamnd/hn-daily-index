@@ -4,99 +4,99 @@
     "id": 20303546,
     "title": "Red Hat Expecting X.org to \u201cGo into Hard Maintenance Mode Fairly Quickly\u201d",
     "url": "https://www.phoronix.com/scan.php?page=news_item&px=X.Org-Maintenance-Mode-Quickly",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "qalmakka",
+    "descendants": 518,
+    "time": 1561724882
   },
   {
     "rank": 2,
     "id": 20304686,
     "title": "Eva \u2013 A distributed entity-attribute-value database in Clojure",
     "url": "https://github.com/Workiva/eva/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "CurrentB",
+    "descendants": 62,
+    "time": 1561732540
   },
   {
     "rank": 3,
     "id": 20306119,
     "title": "$499 AMD Ryzen 9 3900X Almost as Fast as $2000 Intel Core I9-9980XE",
     "url": "https://www.techquila.co.in/amd-ryzen-9-3900x-intel-core-i9/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "areejs",
+    "descendants": 164,
+    "time": 1561739720
   },
   {
     "rank": 4,
     "id": 20307891,
     "title": "Infinite loop in macOS Night Shift in the summer near the Arctic Circle",
     "url": "https://twitter.com/AustinJ/status/1144655793612107778",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 588,
+    "by": "guessmyname",
+    "descendants": 164,
+    "time": 1561749410
   },
   {
     "rank": 5,
     "id": 20309176,
     "title": "New Property of Light Discovered",
     "url": "https://phys.org/news/2019-06-property.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "jchanimal",
+    "descendants": 71,
+    "time": 1561759774
   },
   {
     "rank": 6,
     "id": 20309311,
     "title": "Microsoft's Linux Kernel",
     "url": "https://github.com/microsoft/WSLv2-Linux-Kernel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 801,
+    "by": "polyomino",
+    "descendants": 508,
+    "time": 1561760896
   },
   {
     "rank": 7,
     "id": 20310020,
     "title": "I\u2019ve spent five years writing a JavaScript framework",
     "url": "https://medium.com/@jcormont/ive-spent-5-years-writing-a-javascript-framework-on-my-own-af1201f4075c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "jcormont",
+    "descendants": 116,
+    "time": 1561768507
   },
   {
     "rank": 8,
     "id": 20311000,
     "title": "Open Letter from the OpenID Foundation to Apple Regarding Sign in with Apple",
     "url": "https://openid.net/2019/06/27/open-letter-from-the-openid-foundation-to-apple-regarding-sign-in-with-apple/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 514,
+    "by": "julian37",
+    "descendants": 137,
+    "time": 1561787811
   },
   {
     "rank": 9,
     "id": 20312826,
     "title": "SKS Keyserver Network Under Attack",
     "url": "https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "Spellman",
+    "descendants": 189,
+    "time": 1561819104
   },
   {
     "rank": 10,
     "id": 20313396,
     "title": "The side of Paul Allen I wish more people knew about",
     "url": "https://www.gatesnotes.com/About-Bill-Gates/Forbes-Philanthropy-Summit-honors-Paul-Allen",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "jvmiert",
+    "descendants": 135,
+    "time": 1561825456
   }
 ]
