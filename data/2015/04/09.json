@@ -4,99 +4,99 @@
     "id": 9342266,
     "title": "Microsoft Announces Nano Server",
     "url": "http://blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "mwadams",
+    "descendants": 116,
+    "time": 1428513090
   },
   {
     "rank": 2,
     "id": 9342369,
     "title": "Microsoft announces Hyper-V Containers",
     "url": "http://azure.microsoft.com/blog/2015/04/08/microsoft-unveils-new-container-technologies-for-the-next-generation-cloud",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "swernli",
+    "descendants": 144,
+    "time": 1428513927
   },
   {
     "rank": 3,
     "id": 9344711,
     "title": "Videogame Publishers: No Preserving Abandoned Games Because \u201cHacking\u201d Is Illegal",
     "url": "https://www.eff.org/deeplinks/2015/04/videogame-publishers-no-preserving-abandoned-games-even-museums-and-archives",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "thisisparker",
+    "descendants": 152,
+    "time": 1428533940
   },
   {
     "rank": 4,
     "id": 9345215,
     "title": "Remotely send Chrome and Node.js into infinite loops via OS X kernel bug",
     "url": "https://blog.sandstorm.io/news/2015-04-08-osx-security-bug.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "kentonv",
+    "descendants": 74,
+    "time": 1428541638
   },
   {
     "rank": 5,
     "id": 9346167,
     "title": "U.S. Legalization of Marijuana Has Hit Mexican Cartels\u2019 Cross-Border Trade",
     "url": "http://time.com/3801889/us-legalization-marijuana-trade/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "adamnemecek",
+    "descendants": 229,
+    "time": 1428564576
   },
   {
     "rank": 6,
     "id": 9346731,
     "title": "Michigan Micro Mote \u2013 World's Smallest Computer",
     "url": "http://www.eecs.umich.edu/eecs/about/articles/2015/Worlds-Smallest-Computer-Michigan-Micro-Mote.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "saticmotion",
+    "descendants": 53,
+    "time": 1428577470
   },
   {
     "rank": 7,
     "id": 9347101,
     "title": "LinkedIn to Buy Online Education Site Lynda.com for $1.5B",
     "url": "http://techcrunch.com/2015/04/09/linkedin-to-buy-online-education-site-lynda-com-for-1-5-billion/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "qnk",
+    "descendants": 147,
+    "time": 1428583610
   },
   {
     "rank": 8,
     "id": 9347669,
     "title": "Hidden backdoor API to root privileges in Apple OS X",
     "url": "https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 920,
+    "by": "mortenlarsen",
+    "descendants": 356,
+    "time": 1428589115
   },
   {
     "rank": 9,
     "id": 9348193,
     "title": "Show HN: Where is \u201cWho is hiring?\u201d hiring?",
     "url": "http://whereis-whoishiring-hiring.me",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "manlio",
+    "descendants": 117,
+    "time": 1428593147
   },
   {
     "rank": 10,
     "id": 9349501,
     "title": "Amazon Elastic File System",
     "url": "http://aws.amazon.com/efs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "suprgeek",
+    "descendants": 213,
+    "time": 1428601803
   }
 ]

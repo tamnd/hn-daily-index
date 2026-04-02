@@ -4,99 +4,99 @@
     "id": 8947136,
     "title": "Does Sponsoring Daring Fireball Work?",
     "url": "http://blog.desk.pm/df/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "saddington",
+    "descendants": 108,
+    "time": 1422282684
   },
   {
     "rank": 2,
     "id": 8948665,
     "title": "Introducing Aurelia",
     "url": "http://blog.durandal.io/2015/01/26/introducing-aurelia/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "johnny_reilly",
+    "descendants": 85,
+    "time": 1422297376
   },
   {
     "rank": 3,
     "id": 8950403,
     "title": "U.S. Spies on Millions of Cars",
     "url": "http://www.wsj.com/articles/u-s-spies-on-millions-of-cars-1422314779",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "dctoedt",
+    "descendants": 250,
+    "time": 1422315951
   },
   {
     "rank": 4,
     "id": 8951283,
     "title": "Main is usually a function \u2013 when is it not?",
     "url": "https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "b0b_d0e",
+    "descendants": 60,
+    "time": 1422333823
   },
   {
     "rank": 5,
     "id": 8951509,
     "title": "Facebook was down",
     "url": "https://www.facebook.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "sgloutnikov",
+    "descendants": 265,
+    "time": 1422339428
   },
   {
     "rank": 6,
     "id": 8952100,
     "title": "Vivaldi \u2013 A new browser for our friends",
     "url": "https://vivaldi.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "vetler",
+    "descendants": 250,
+    "time": 1422349700
   },
   {
     "rank": 7,
     "id": 8952684,
     "title": "Source Code Similarities Between NSA Malware and 'Regin' Trojan",
     "url": "http://www.spiegel.de/international/world/regin-malware-unmasked-as-nsa-tool-after-spiegel-publishes-source-code-a-1015255.html#ref=rss",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "Libertatea",
+    "descendants": 191,
+    "time": 1422361630
   },
   {
     "rank": 8,
     "id": 8953545,
     "title": "CVE-2015-0235 \u2013\u00a0GHOST: glibc gethostbyname buffer overflow",
     "url": "http://www.openwall.com/lists/oss-security/2015/01/27/9",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 531,
+    "by": "martius",
+    "descendants": 241,
+    "time": 1422373172
   },
   {
     "rank": 9,
     "id": 8954568,
     "title": "Google Fiber is coming to Atlanta, Charlotte, Nashville and Raleigh-Durham",
     "url": "http://googleblog.blogspot.com/2015/01/google-fiber-new-metro-areas.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "twrkit",
+    "descendants": 276,
+    "time": 1422381605
   },
   {
     "rank": 10,
     "id": 8955426,
     "title": "YouTube now defaults to HTML5 video",
     "url": "http://youtube-eng.blogspot.com/2015/01/youtube-now-defaults-to-html5_27.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1035,
+    "by": "derpenxyne",
+    "descendants": 393,
+    "time": 1422389362
   }
 ]

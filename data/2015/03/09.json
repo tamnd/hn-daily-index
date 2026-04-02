@@ -4,99 +4,99 @@
     "id": 9167008,
     "title": "Signs that you're a bad programmer (2012)",
     "url": "http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "theunamedguy",
+    "descendants": 170,
+    "time": 1425845282
   },
   {
     "rank": 2,
     "id": 9167147,
     "title": "Sexism in Tech: Don\u2019t Ask Me Unless You\u2019re Ready to Call Someone a Whistleblower",
     "url": "https://medium.com/@katylevinson/sexism-in-tech-don-t-ask-me-unless-you-re-ready-to-call-somebody-a-whistleblower-e5d545e547b0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "xena",
+    "descendants": 370,
+    "time": 1425847304
   },
   {
     "rank": 3,
     "id": 9167781,
     "title": "Number of legal 18x18 Go positions computed. One more to go",
     "url": "http://tromp.github.io/go/legal.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "tromp",
+    "descendants": 109,
+    "time": 1425856032
   },
   {
     "rank": 4,
     "id": 9170511,
     "title": "Show HN: Find tech jobs that come with a visa",
     "url": "http://www.jobsintech.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "negrit",
+    "descendants": 97,
+    "time": 1425904186
   },
   {
     "rank": 5,
     "id": 9170615,
     "title": "Why One Programmer Doesn\u2019t Do DevOps Anymore",
     "url": "https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "jjmojojjmojo",
+    "descendants": 163,
+    "time": 1425906039
   },
   {
     "rank": 6,
     "id": 9171346,
     "title": "Java Runtime updater now installs ask.com toolbar on Macs",
     "url": "https://jamfnation.jamfsoftware.com/discussion.html?id=13567",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "pje",
+    "descendants": 173,
+    "time": 1425914374
   },
   {
     "rank": 7,
     "id": 9171722,
     "title": "Project Zero: Exploiting the DRAM rowhammer bug to gain kernel privileges",
     "url": "http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "j_baker",
+    "descendants": 101,
+    "time": 1425917334
   },
   {
     "rank": 8,
     "id": 9172248,
     "title": "ResearchKit: A software framework designed to benefit medical research",
     "url": "http://www.apple.com/researchkit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "brbcoding",
+    "descendants": 123,
+    "time": 1425921629
   },
   {
     "rank": 9,
     "id": 9172373,
     "title": "The new MacBook",
     "url": "https://www.apple.com/macbook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 921,
+    "by": "NickSarath",
+    "descendants": 1269,
+    "time": 1425922757
   },
   {
     "rank": 10,
     "id": 9173939,
     "title": "Announcing Starfighter",
     "url": "http://www.kalzumeus.com/2015/03/09/announcing-starfighter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 932,
+    "by": "jsnell",
+    "descendants": 400,
+    "time": 1425934032
   }
 ]

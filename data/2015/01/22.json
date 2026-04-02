@@ -4,99 +4,99 @@
     "id": 8923053,
     "title": "Marty.js \u2013 A JavaScript library for state management in React applications",
     "url": "http://martyjs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "jfhollingworth",
+    "descendants": 93,
+    "time": 1421848808
   },
   {
     "rank": 2,
     "id": 8923535,
     "title": "What is the best hard drive?",
     "url": "http://www.backblaze.com/blog/best-hard-drive",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "tolien",
+    "descendants": 140,
+    "time": 1421855045
   },
   {
     "rank": 3,
     "id": 8925019,
     "title": "An experimental real world adblock",
     "url": "http://jonathandub.in/cognizance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "tstactplsignore",
+    "descendants": 141,
+    "time": 1421868322
   },
   {
     "rank": 4,
     "id": 8926316,
     "title": "A Comprehensive Guide to Building a Scalable Web App on AWS",
     "url": "https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 542,
+    "by": "jkresner",
+    "descendants": 129,
+    "time": 1421880350
   },
   {
     "rank": 5,
     "id": 8926467,
     "title": "How the 'John Oliver Effect' Is Having a Real-Life Impact",
     "url": "http://time.com/3674807/john-oliver-net-neutrality-civil-forfeiture-miss-america/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "adamnemecek",
+    "descendants": 112,
+    "time": 1421882376
   },
   {
     "rank": 6,
     "id": 8928433,
     "title": "Riot \u2013 A React-like, 2.5K user interface library",
     "url": "https://muut.com/riotjs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "tipiirai",
+    "descendants": 214,
+    "time": 1421922447
   },
   {
     "rank": 7,
     "id": 8928612,
     "title": "WhatsApp doesn't understand the web",
     "url": "http://andregarzia.com/posts/en/whatsappdoesntunderstandtheweb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "NietTim",
+    "descendants": 121,
+    "time": 1421926519
   },
   {
     "rank": 8,
     "id": 8929040,
     "title": "Let's Write an LLVM Specializer for Python",
     "url": "http://dev.stephendiehl.com/numpile/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "tenslisi",
+    "descendants": 43,
+    "time": 1421934044
   },
   {
     "rank": 9,
     "id": 8929407,
     "title": "A better pull request",
     "url": "https://developer.atlassian.com/blog/2015/01/a-better-pull-request/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "kannonboy",
+    "descendants": 161,
+    "time": 1421938529
   },
   {
     "rank": 10,
     "id": 8930825,
     "title": "16 Things",
     "url": "http://a16z.com/2015/01/22/16-things/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "dannynemer",
+    "descendants": 125,
+    "time": 1421952023
   }
 ]

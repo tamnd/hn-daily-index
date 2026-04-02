@@ -4,99 +4,99 @@
     "id": 9196433,
     "title": "Suddenly, It Seems, Water Is Everywhere in Solar System",
     "url": "http://www.nytimes.com/2015/03/13/science/space/suddenly-it-seems-water-is-everywhere-in-solar-system.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "brkumar",
+    "descendants": 94,
+    "time": 1426242806
   },
   {
     "rank": 2,
     "id": 9196813,
     "title": "Zero",
     "url": "http://mathworld.wolfram.com/Zero.html?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "makmanalp",
+    "descendants": 18,
+    "time": 1426250614
   },
   {
     "rank": 3,
     "id": 9196868,
     "title": "Tardigrades are so tough, they can survive outer space",
     "url": "http://www.bbc.com/earth/story/20150313-the-toughest-animals-on-earth",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "wasi0013",
+    "descendants": 84,
+    "time": 1426251581
   },
   {
     "rank": 4,
     "id": 9199558,
     "title": "Things I've learned about writing software after 12 years",
     "url": "https://medium.com/@landongn/12-years-later-what-i-ve-learned-about-being-a-software-engineer-d6e334d6e8a3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "landongn",
+    "descendants": 118,
+    "time": 1426276231
   },
   {
     "rank": 5,
     "id": 9200726,
     "title": "Show HN: GraphQL for Postgres",
     "url": "https://github.com/solidsnack/GraphpostgresQL",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "solidsnack9000",
+    "descendants": 23,
+    "time": 1426288878
   },
   {
     "rank": 6,
     "id": 9201644,
     "title": "Reasons not to use Facebook",
     "url": "https://stallman.org/facebook.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 605,
+    "by": "jestinjoy1",
+    "descendants": 362,
+    "time": 1426310987
   },
   {
     "rank": 7,
     "id": 9202039,
     "title": "Introducing OpenBSD's new httpd [pdf]",
     "url": "http://www.openbsd.org/papers/httpd-asiabsdcon2015.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "fcambus",
+    "descendants": 154,
+    "time": 1426325847
   },
   {
     "rank": 8,
     "id": 9203045,
     "title": "Jvm.go: A JVM written in Go",
     "url": "https://github.com/zxh0/jvm.go",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "tombenner",
+    "descendants": 123,
+    "time": 1426348995
   },
   {
     "rank": 9,
     "id": 9203359,
     "title": "Harry Potter and the Methods of Rationality finished today",
     "url": "https://www.fanfiction.net/s/5782108/1/Harry-Potter-and-the-Methods-of-Rationality",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "Eliezer",
+    "descendants": 164,
+    "time": 1426353671
   },
   {
     "rank": 10,
     "id": 9203946,
     "title": "Tunneling Internet traffic over FB chat",
     "url": "https://github.com/matiasinsaurralde/facebook-tunnel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "franze",
+    "descendants": 105,
+    "time": 1426362939
   }
 ]

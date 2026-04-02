@@ -4,99 +4,99 @@
     "id": 9138126,
     "title": "No-reboot patching comes to Linux 4.0",
     "url": "http://www.zdnet.com/article/no-reboot-patching-comes-to-linux-4-0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "tanglesome",
+    "descendants": 47,
+    "time": 1425396604
   },
   {
     "rank": 2,
     "id": 9138419,
     "title": "GitLab acquires Gitorious",
     "url": "https://about.gitlab.com/2015/03/03/gitlab-acquires-gitorious/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "waffle_ss",
+    "descendants": 87,
+    "time": 1425399175
   },
   {
     "rank": 3,
     "id": 9139387,
     "title": "Attack of the week: FREAK (or 'factoring the NSA for fun and profit')",
     "url": "http://blog.cryptographyengineering.com/2015/03/attack-of-week-freak-or-factoring-nsa.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "ivanr",
+    "descendants": 41,
+    "time": 1425406267
   },
   {
     "rank": 4,
     "id": 9141701,
     "title": "The Freak Attack SSL/TLS Vulnerability",
     "url": "https://freakattack.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "markthethomas",
+    "descendants": 116,
+    "time": 1425427106
   },
   {
     "rank": 5,
     "id": 9142211,
     "title": "Valve Announces Source 2, and It\u2019ll Be Free",
     "url": "http://techcrunch.com/2015/03/03/valve-announces-source-2-and-itll-be-free/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "goeric",
+    "descendants": 129,
+    "time": 1425433930
   },
   {
     "rank": 6,
     "id": 9144271,
     "title": "Show HN: Slack Meets GitHub Issues",
     "url": "http://news.ycombinator.com/item?id=9144271",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "pdrummond",
+    "descendants": 156,
+    "time": 1425478428
   },
   {
     "rank": 7,
     "id": 9144552,
     "title": "My Girlfriend Dissociated and Forgot Who I Was",
     "url": "http://www.vice.com/en_uk/read/the-night-my-girlfriend-forgot-who-i-was-944",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 605,
+    "by": "sz4kerto",
+    "descendants": 194,
+    "time": 1425481231
   },
   {
     "rank": 8,
     "id": 9145007,
     "title": "Show HN: Ghostnote \u2013 Contextual notes and todo app",
     "url": "http://www.ghostnoteapp.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "ThomPete",
+    "descendants": 187,
+    "time": 1425484456
   },
   {
     "rank": 9,
     "id": 9145126,
     "title": "If you have startup stock options, check your option plan",
     "url": "http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-your",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "alexdevkar",
+    "descendants": 165,
+    "time": 1425485145
   },
   {
     "rank": 10,
     "id": 9146301,
     "title": "SpaceX Profitable as Musk Pulls in NASA Contracts, Google Cash",
     "url": "http://www.bloomberg.com/news/articles/2015-03-04/spacex-profitable-as-musk-pulls-in-nasa-contracts-google-cash",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "adventured",
+    "descendants": 154,
+    "time": 1425494035
   }
 ]

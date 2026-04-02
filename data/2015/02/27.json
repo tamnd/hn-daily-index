@@ -4,99 +4,99 @@
     "id": 9111958,
     "title": "Problem Solving with Algorithms and Data Structures",
     "url": "http://interactivepython.org/runestone/static/pythonds/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "npad",
+    "descendants": 14,
+    "time": 1424948180
   },
   {
     "rank": 2,
     "id": 9113185,
     "title": "Understanding .NET 2015",
     "url": "http://blogs.msdn.com/b/bethmassi/archive/2015/02/25/understanding-net-2015.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "pjmlp",
+    "descendants": 104,
+    "time": 1424966604
   },
   {
     "rank": 3,
     "id": 9113581,
     "title": "Google now automatically converts Flash ads to HTML5",
     "url": "http://venturebeat.com/2015/02/25/google-now-automatically-converts-flash-ads-to-html5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "cpeterso",
+    "descendants": 92,
+    "time": 1424970352
   },
   {
     "rank": 4,
     "id": 9114748,
     "title": "GRPC: A high performance, open source, general RPC framework",
     "url": "http://www.grpc.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "chuhnk",
+    "descendants": 62,
+    "time": 1424978816
   },
   {
     "rank": 5,
     "id": 9115231,
     "title": "The Path to Parallel JavaScript",
     "url": "https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "leo2urlevan",
+    "descendants": 56,
+    "time": 1424982360
   },
   {
     "rank": 6,
     "id": 9116331,
     "title": "Io.js and Node.js reconciliation proposal",
     "url": "https://github.com/iojs/io.js/issues/978",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "inglor",
+    "descendants": 77,
+    "time": 1424994018
   },
   {
     "rank": 7,
     "id": 9117028,
     "title": "\u201cImplement text editor DOM updates manually instead of via React\u201d",
     "url": "https://github.com/atom/atom/pull/5624",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "spleeder",
+    "descendants": 220,
+    "time": 1425008091
   },
   {
     "rank": 8,
     "id": 9118977,
     "title": "Hello, World",
     "url": "http://hello-world.io/hello-world/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "coder2222",
+    "descendants": 165,
+    "time": 1425047423
   },
   {
     "rank": 9,
     "id": 9119587,
     "title": "VLC 2.2.0 multi-releases",
     "url": "https://www.videolan.org/vlc/releases/2.2.0.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "jbk",
+    "descendants": 167,
+    "time": 1425053651
   },
   {
     "rank": 10,
     "id": 9119951,
     "title": "Leonard Nimoy, Spock of \u2018Star Trek,\u2019 Dies at 83",
     "url": "http://www.nytimes.com/2015/02/27/arts/television/leonard-nimoy-spock-of-star-trek-dies-at-83.html?smid=tw-bna",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1584,
+    "by": "coloneltcb",
+    "descendants": 165,
+    "time": 1425057162
   }
 ]

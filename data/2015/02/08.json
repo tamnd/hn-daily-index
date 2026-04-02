@@ -4,99 +4,99 @@
     "id": 9013798,
     "title": "Why Do Cats Love Boxes?",
     "url": "http://www.wired.com/2015/02/whats-up-with-cats-and-boxes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "iamben",
+    "descendants": 58,
+    "time": 1423313093
   },
   {
     "rank": 2,
     "id": 9014890,
     "title": "In search of the perfect JavaScript framework",
     "url": "https://dev.opera.com/articles/perfect-javascript-framework/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "jsargiox",
+    "descendants": 79,
+    "time": 1423335058
   },
   {
     "rank": 3,
     "id": 9015092,
     "title": "In Praise of Idleness by Bertrand Russell (1932) [pdf]",
     "url": "https://libcom.org/files/Bertrand%20Russell%20-%20In%20Praise%20of%20Idleness.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "jacobsimon",
+    "descendants": 50,
+    "time": 1423338641
   },
   {
     "rank": 4,
     "id": 9015621,
     "title": "Show HN: vim-hackernews",
     "url": "https://github.com/ryanss/vim-hackernews",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "ryanss",
+    "descendants": 34,
+    "time": 1423349678
   },
   {
     "rank": 5,
     "id": 9015663,
     "title": "A Xenon flash will cause the Raspberry Pi 2 to freeze",
     "url": "http://www.raspberrypi.org/forums/viewtopic.php?f=28&amp;t=99042",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "voltagex_",
+    "descendants": 128,
+    "time": 1423350690
   },
   {
     "rank": 6,
     "id": 9016573,
     "title": "ISRO to launch Google satellite",
     "url": "http://www.asianage.com/india/isro-launch-google-satellite-300",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "unmole",
+    "descendants": 36,
+    "time": 1423376120
   },
   {
     "rank": 7,
     "id": 9017027,
     "title": "If Carpenters Were Hired Like Programmers",
     "url": "http://www.dawood.in/if-carpenters-were-hired-like-programmers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "adwn",
+    "descendants": 154,
+    "time": 1423396331
   },
   {
     "rank": 8,
     "id": 9017030,
     "title": "Samsung Global Privacy Policy - SmartTV Supplement",
     "url": "https://www.samsung.com/uk/info/privacy-SmartTV.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "tscherno",
+    "descendants": 119,
+    "time": 1423396359
   },
   {
     "rank": 9,
     "id": 9017986,
     "title": "Why Is the Dollar Sign a Letter S?",
     "url": "http://observationdeck.io9.com/why-is-the-dollar-sign-a-letter-s-1683940575",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "shovel",
+    "descendants": 130,
+    "time": 1423419752
   },
   {
     "rank": 10,
     "id": 9018129,
     "title": "Modern SQL in PostgreSQL",
     "url": "http://www.slideshare.net/MarkusWinand/modern-sql",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "lelf",
+    "descendants": 130,
+    "time": 1423422224
   }
 ]

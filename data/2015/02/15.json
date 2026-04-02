@@ -4,99 +4,99 @@
     "id": 9049467,
     "title": "Why OCaml, why now? (2014)",
     "url": "https://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "lelf",
+    "descendants": 129,
+    "time": 1423915977
   },
   {
     "rank": 2,
     "id": 9050436,
     "title": "Bank Hackers Steal Millions via Malware",
     "url": "http://www.nytimes.com/2015/02/15/world/bank-hackers-steal-millions-via-malware.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "youlweb",
+    "descendants": 76,
+    "time": 1423940436
   },
   {
     "rank": 3,
     "id": 9050480,
     "title": "7GUIs \u2013 A Notational Usability Benchmark for GUI Programming",
     "url": "https://github.com/eugenkiss/7guis/wiki",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "desdiv",
+    "descendants": 17,
+    "time": 1423941521
   },
   {
     "rank": 4,
     "id": 9050793,
     "title": "The State of Go",
     "url": "https://talks.golang.org/2015/state-of-go.slide#1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "xkarga00",
+    "descendants": 263,
+    "time": 1423948099
   },
   {
     "rank": 5,
     "id": 9050970,
     "title": "Show HN: A Unixy approach to WebSockets",
     "url": "http://websocketd.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "joewalnes",
+    "descendants": 140,
+    "time": 1423952713
   },
   {
     "rank": 6,
     "id": 9051246,
     "title": "Now, I can see wifi signals",
     "url": "https://imgur.com/gallery/jdNA6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 695,
+    "by": "bane",
+    "descendants": 56,
+    "time": 1423958895
   },
   {
     "rank": 7,
     "id": 9052129,
     "title": "The New Haskell.org",
     "url": "https://www.haskell.org/?new",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "dons",
+    "descendants": 103,
+    "time": 1423991900
   },
   {
     "rank": 8,
     "id": 9052168,
     "title": "InstaDoom \u2013 Doom selfie mod",
     "url": "http://www.doomworld.com/vb/wads-mods/71767-instadoom-screw-nofilter-rc1/",
-    "score": 0,
-    "by": "",
+    "score": 334,
+    "by": "keyle",
     "descendants": 0,
-    "time": 0
+    "time": 1423993138
   },
   {
     "rank": 9,
     "id": 9052448,
     "title": "BitcoinEmissions \u2013\u00a0A project to calculate CO2 emissions of mining bitcoin",
     "url": "https://github.com/peenuty/BitcoinEmissions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 159,
+    "by": "thanatosmin",
+    "descendants": 156,
+    "time": 1424003954
   },
   {
     "rank": 10,
     "id": 9052727,
     "title": "Ask HN: What up with these startup salaries?",
     "url": "http://news.ycombinator.com/item?id=9052727",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "whiddershins",
+    "descendants": 416,
+    "time": 1424012007
   }
 ]

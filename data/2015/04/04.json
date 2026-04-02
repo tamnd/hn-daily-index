@@ -4,99 +4,99 @@
     "id": 9317003,
     "title": "The dystopian lake filled by the world\u2019s tech lust",
     "url": "http://www.bbc.com/future/story/20150402-the-worst-place-on-earth?p=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 153,
+    "by": "pierre-renaux",
+    "descendants": 37,
+    "time": 1428080662
   },
   {
     "rank": 2,
     "id": 9318286,
     "title": "Hashpipe \u2013 Pipe iff the hash matches",
     "url": "http://jbenet.github.io/hashpipe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "_prometheus",
+    "descendants": 83,
+    "time": 1428092881
   },
   {
     "rank": 3,
     "id": 9319034,
     "title": "Secret Service Interrogation of Wozniak (2002)",
     "url": "http://archive.woz.org/letters/general/78.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "monort",
+    "descendants": 101,
+    "time": 1428101151
   },
   {
     "rank": 4,
     "id": 9319050,
     "title": "Thousands of Spaniards Leave Twitter for GNU Social",
     "url": "https://www.fsf.org/blogs/community/thousands-of-spaniards-leave-twitter-for-gnu-social",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "lelf",
+    "descendants": 70,
+    "time": 1428101441
   },
   {
     "rank": 5,
     "id": 9319521,
     "title": "Migrating from Heroku to AWS using Docker",
     "url": "http://blog.doordash.com/post/115409532041/migrating-from-heroku-to-aws-using-docker",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "stanleytang",
+    "descendants": 54,
+    "time": 1428111130
   },
   {
     "rank": 6,
     "id": 9319822,
     "title": "Obama signs executive order allowing government to seize hackers assets",
     "url": "https://rare.us/story/obama-just-signed-an-executive-order-that-lets-the-government-seize-suspected-hackers-money-and-stuff/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "rmason",
+    "descendants": 110,
+    "time": 1428119282
   },
   {
     "rank": 7,
     "id": 9320246,
     "title": "The truth about the Bitcoin Foundation",
     "url": "https://bitcoinfoundation.org/forum/index.php?/topic/1284-the-truth-about-the-bitcoin-foundation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "notsony",
+    "descendants": 266,
+    "time": 1428131804
   },
   {
     "rank": 8,
     "id": 9320782,
     "title": "Get your own USB PID",
     "url": "http://pid.codes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 528,
+    "by": "oxplot",
+    "descendants": 50,
+    "time": 1428154719
   },
   {
     "rank": 9,
     "id": 9320929,
     "title": "Some thoughts after (almost) a year of real Xamarin use",
     "url": "http://www.estaun.net/blog/some-thoughts-after-almost-a-year-of-real-xamarin-use/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "xngzng",
+    "descendants": 109,
+    "time": 1428158216
   },
   {
     "rank": 10,
     "id": 9321209,
     "title": "IPFS is a new peer-to-peer hypermedia protocol",
     "url": "http://ipfs.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "tambourine_man",
+    "descendants": 74,
+    "time": 1428164059
   }
 ]

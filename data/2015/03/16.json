@@ -4,99 +4,99 @@
     "id": 9207073,
     "title": "The Church of TED",
     "url": "http://www.nytimes.com/2015/03/15/opinion/sunday/the-church-of-ted.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "dcre",
+    "descendants": 94,
+    "time": 1426437534
   },
   {
     "rank": 2,
     "id": 9207245,
     "title": "Programming is terrible \u2013 Lessons learned from a life wasted (2013) [video]",
     "url": "https://www.youtube.com/watch?v=csyL9EC0S0c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "pmoriarty",
+    "descendants": 164,
+    "time": 1426440374
   },
   {
     "rank": 3,
     "id": 9207576,
     "title": "The web of names, hashes and UUIDs",
     "url": "https://joearms.github.io/2015/03/12/The_web_of_names.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "lelf",
+    "descendants": 77,
+    "time": 1426445731
   },
   {
     "rank": 4,
     "id": 9207738,
     "title": "Xonsh, a Python-ish, Bash-compatible shell language and command prompt",
     "url": "http://xonsh.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "ngoldbaum",
+    "descendants": 61,
+    "time": 1426448077
   },
   {
     "rank": 5,
     "id": 9208321,
     "title": "End-to-End Encryption Plugin for Yahoo Mail",
     "url": "http://yahoo.tumblr.com/post/113708033335/user-focused-security-end-to-end-encryption",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "danielweber",
+    "descendants": 44,
+    "time": 1426456226
   },
   {
     "rank": 6,
     "id": 9208501,
     "title": "Adventures in message queues",
     "url": "http://antirez.com/news/88",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "fcambus",
+    "descendants": 99,
+    "time": 1426458950
   },
   {
     "rank": 7,
     "id": 9208897,
     "title": "\u201cYour monthly rent .. shall increase from $2145 to $8900\u201d",
     "url": "https://www.facebook.com/photo.php?fbid=10153190864139878",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "aestetix",
+    "descendants": 602,
+    "time": 1426465611
   },
   {
     "rank": 8,
     "id": 9210978,
     "title": "Gogs, an alternative to Gitlab",
     "url": "http://www.apertoire.net/gogs-an-alternative-to-gitlab/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "apertoire",
+    "descendants": 231,
+    "time": 1426507824
   },
   {
     "rank": 9,
     "id": 9212467,
     "title": "How and Why Swiftype Moved from EC2 to Real Hardware",
     "url": "http://highscalability.com/blog/2015/3/16/how-and-why-swiftype-moved-from-ec2-to-real-hardware.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "quicksilver03",
+    "descendants": 189,
+    "time": 1426523918
   },
   {
     "rank": 10,
     "id": 9212860,
     "title": "High quality GIF with FFmpeg",
     "url": "http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 482,
+    "by": "ux",
+    "descendants": 124,
+    "time": 1426526878
   }
 ]

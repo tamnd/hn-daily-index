@@ -4,99 +4,99 @@
     "id": 8967605,
     "title": "A Computer Scientist Tells Mathematicians How to Write Proofs",
     "url": "http://blogs.scientificamerican.com/roots-of-unity/2014/09/24/how-to-write-proofs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "xhevahir",
+    "descendants": 101,
+    "time": 1422552924
   },
   {
     "rank": 2,
     "id": 8968083,
     "title": "Coming Soon \u2013 AWS SDK for Go",
     "url": "http://aws.amazon.com/blogs/aws/coming-soon-aws-sdk-for-go/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "urlgrey",
+    "descendants": 52,
+    "time": 1422557603
   },
   {
     "rank": 3,
     "id": 8968522,
     "title": "From Node.js to Go",
     "url": "http://bowery.io/posts/Nodejs-to-Golang-Bowery/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "francesca",
+    "descendants": 185,
+    "time": 1422561933
   },
   {
     "rank": 4,
     "id": 8969700,
     "title": "EFF Wins Battle Over Secret Legal Opinions on Government Spying",
     "url": "https://www.eff.org/press/releases/eff-wins-battle-over-secret-legal-opinions-government-spying",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 582,
+    "by": "declan",
+    "descendants": 64,
+    "time": 1422575974
   },
   {
     "rank": 5,
     "id": 8970081,
     "title": "Replace CoffeeScript with ES6",
     "url": "http://robots.thoughtbot.com/replace-coffeescript-with-es6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "Croaky",
+    "descendants": 168,
+    "time": 1422582841
   },
   {
     "rank": 6,
     "id": 8970402,
     "title": "Signing in to websites with SSH",
     "url": "https://vtllf.org/blog/ssh-web-sign-in",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "blfr",
+    "descendants": 161,
+    "time": 1422590521
   },
   {
     "rank": 7,
     "id": 8970733,
     "title": "Use Haskell for shell scripting",
     "url": "http://www.haskellforall.com/2015/01/use-haskell-for-shell-scripting.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "stefans",
+    "descendants": 103,
+    "time": 1422599524
   },
   {
     "rank": 8,
     "id": 8972066,
     "title": "Sandstorm \u2013\u00a0An open source platform for personal servers",
     "url": "https://sandstorm.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "reinhardt1053",
+    "descendants": 184,
+    "time": 1422627318
   },
   {
     "rank": 9,
     "id": 8972179,
     "title": "Cultivated Disinterest in Professional Sports",
     "url": "http://mako.cc/copyrighteous/cultivated-disinterest-in-professional-sports",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "luu",
+    "descendants": 488,
+    "time": 1422628779
   },
   {
     "rank": 10,
     "id": 8972766,
     "title": "Open letter to German readers: What you were never told about Greece",
     "url": "http://syriza.net.gr/index.php/en/pressroom/253-open-letter-to-the-german-readers-that-which-you-were-never-told-about-greece",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "sjcsjc",
+    "descendants": 240,
+    "time": 1422635546
   }
 ]

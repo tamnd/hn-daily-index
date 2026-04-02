@@ -4,99 +4,99 @@
     "id": 9272249,
     "title": "Git from the inside out",
     "url": "https://codewords.recurse.com/issues/two/git-from-the-inside-out",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "luu",
+    "descendants": 96,
+    "time": 1427396297
   },
   {
     "rank": 2,
     "id": 9272275,
     "title": "The Z3 Theorem Prover released under MIT license",
     "url": "https://github.com/Z3Prover/z3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "dahlia",
+    "descendants": 66,
+    "time": 1427396555
   },
   {
     "rank": 3,
     "id": 9272471,
     "title": "My Interviews with Airbnb, Dropbox, Posterous, Reddit, Weebly and Wufoo",
     "url": "http://foundersatwork.posthaven.com/my-interviews-with-airbnb-dropbox-posterous-reddit-weebly-and-wufoo-circa-2010",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "wasd",
+    "descendants": 25,
+    "time": 1427398450
   },
   {
     "rank": 4,
     "id": 9272683,
     "title": "How I taught my dog to text me selfies",
     "url": "https://www.twilio.com/blog/2015/03/how-my-dog-sends-selfies.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "gregorymichael",
+    "descendants": 70,
+    "time": 1427400329
   },
   {
     "rank": 5,
     "id": 9273976,
     "title": "Nuclide: An open-source IDE for React Native",
     "url": "http://nuclide.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "bleonard",
+    "descendants": 93,
+    "time": 1427414571
   },
   {
     "rank": 6,
     "id": 9275041,
     "title": "GitHub hit by DDoS attack",
     "url": "http://status.github.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "theyeti",
+    "descendants": 209,
+    "time": 1427439834
   },
   {
     "rank": 7,
     "id": 9276188,
     "title": "Termui \u2013\u00a0Go terminal dashboard",
     "url": "https://github.com/gizak/termui",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "wtbob",
+    "descendants": 66,
+    "time": 1427464000
   },
   {
     "rank": 8,
     "id": 9276605,
     "title": "Super Mario 64 HD",
     "url": "https://roystanross.wordpress.com/super-mario-64-hd/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "fla",
+    "descendants": 120,
+    "time": 1427467986
   },
   {
     "rank": 9,
     "id": 9277370,
     "title": "Slack was hacked",
     "url": "http://slackhq.com/post/114696167740/march-2015-security-incident-and-launch-of-2fa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 857,
+    "by": "trustfundbaby",
+    "descendants": 497,
+    "time": 1427474572
   },
   {
     "rank": 10,
     "id": 9279024,
     "title": "Ellen Pao\u2019s Bias Claims Against Kleiner Perkins Rejected; Jury Is Sent Back",
     "url": "http://www.nytimes.com/2015/03/28/technology/ellen-pao-kleiner-perkins-case-decision.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "conover",
+    "descendants": 338,
+    "time": 1427490783
   }
 ]

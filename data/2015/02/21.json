@@ -4,99 +4,99 @@
     "id": 9080069,
     "title": "Layers \u2013 A simple WordPress site builder",
     "url": "http://www.layerswp.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "spark3k",
+    "descendants": 68,
+    "time": 1424434178
   },
   {
     "rank": 2,
     "id": 9080322,
     "title": "Highlight.js \u2013 Syntax highlighting for the Web",
     "url": "https://highlightjs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "tilt",
+    "descendants": 69,
+    "time": 1424439572
   },
   {
     "rank": 3,
     "id": 9082658,
     "title": "Announcing Rust 1.0-alpha2",
     "url": "http://blog.rust-lang.org/2015/02/20/Rust-1.0-alpha2.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "steveklabnik",
+    "descendants": 39,
+    "time": 1424463098
   },
   {
     "rank": 4,
     "id": 9082666,
     "title": "Netflix Long Term View",
     "url": "http://ir.netflix.com/long-term-view.cfm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "_pius",
+    "descendants": 176,
+    "time": 1424463179
   },
   {
     "rank": 5,
     "id": 9082784,
     "title": "British bookseller hides reading list for developers in its website source code",
     "url": "https://www.waterstones.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 148,
+    "by": "e15ctr0n",
+    "descendants": 35,
+    "time": 1424464074
   },
   {
     "rank": 6,
     "id": 9083207,
     "title": "Flow Hive: Honey on Tap Directly from Your Beehive",
     "url": "http://www.honeyflow.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "nkurz",
+    "descendants": 34,
+    "time": 1424468199
   },
   {
     "rank": 7,
     "id": 9084148,
     "title": "Windows SSL Interception Gone Wild",
     "url": "https://www.facebook.com/notes/protect-the-graph/windows-ssl-interception-gone-wild/1570074729899339",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "mkjones",
+    "descendants": 130,
+    "time": 1424480211
   },
   {
     "rank": 8,
     "id": 9084841,
     "title": "Exploiting the Superfish certificate",
     "url": "http://blog.erratasec.com/2015/02/exploiting-superfish-certificate.html#.VOgck1PF9k5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 129,
+    "by": "vippy",
+    "descendants": 17,
+    "time": 1424497919
   },
   {
     "rank": 9,
     "id": 9085025,
     "title": "An Introduction to Unix (2014)",
     "url": "http://www.oliverelliott.org/article/computing/tut_unix/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 172,
+    "by": "michaelsbradley",
+    "descendants": 58,
+    "time": 1424505048
   },
   {
     "rank": 10,
     "id": 9085411,
     "title": "Most types of cancer not due to \u201cbad luck\u201d [pdf]",
     "url": "http://www.iarc.fr/en/media-centre/pr/2015/pdfs/pr231_E.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "wslh",
+    "descendants": 69,
+    "time": 1424523582
   }
 ]

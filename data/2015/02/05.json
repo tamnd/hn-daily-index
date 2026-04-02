@@ -4,99 +4,99 @@
     "id": 8998160,
     "title": "How Google Inbox shares 70% of its code across Android, iOS, and the Web",
     "url": "http://arstechnica.com/information-technology/2014/11/how-google-inbox-shares-70-of-its-code-across-android-ios-and-the-web/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "akrymski",
+    "descendants": 78,
+    "time": 1423070899
   },
   {
     "rank": 2,
     "id": 8998269,
     "title": "Why Learning to Code Is So Damn Hard",
     "url": "http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "vike27",
+    "descendants": 258,
+    "time": 1423071929
   },
   {
     "rank": 3,
     "id": 8998982,
     "title": "Microsoft Acquires Calendar App Sunrise for North of $100M",
     "url": "http://techcrunch.com/2015/02/04/microsoft-sunrise",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "jonas21",
+    "descendants": 111,
+    "time": 1423077449
   },
   {
     "rank": 4,
     "id": 8999507,
     "title": "CPU Backdoors",
     "url": "http://danluu.com/cpu-backdoors/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "2510c39011c5",
+    "descendants": 48,
+    "time": 1423081761
   },
   {
     "rank": 5,
     "id": 8999644,
     "title": "Ross Ulbricht Convicted of Running Silk Road as Dread Pirate Roberts",
     "url": "http://www.bloomberg.com/news/articles/2015-02-04/ross-ulbricht-convicted-of-running-silk-road-as-dread-pirate",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "DavidChouinard",
+    "descendants": 278,
+    "time": 1423082952
   },
   {
     "rank": 6,
     "id": 9001704,
     "title": "An alloy of iron and aluminium is as good as titanium, at a tenth of the cost",
     "url": "http://www.economist.com/news/science-and-technology/21642107-alloy-iron-and-aluminium-good-titanium-tenth",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "RachelF",
+    "descendants": 94,
+    "time": 1423110038
   },
   {
     "rank": 7,
     "id": 9001713,
     "title": "\u201cAnthem was the target of a very sophisticated external cyber attack\u201d",
     "url": "http://www.anthemfacts.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "dev1n",
+    "descendants": 197,
+    "time": 1423110161
   },
   {
     "rank": 8,
     "id": 9002656,
     "title": "Scala.js no longer experimental",
     "url": "http://scala-lang.org/news/2015/02/05/scala-js-no-longer-experimental.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "densh",
+    "descendants": 131,
+    "time": 1423134425
   },
   {
     "rank": 9,
     "id": 9003791,
     "title": "Email Encryption Software Relies on One Guy, Who Is Going Broke",
     "url": "http://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2088,
+    "by": "r0h1n",
+    "descendants": 453,
+    "time": 1423151211
   },
   {
     "rank": 10,
     "id": 9004705,
     "title": "YC for Hardware",
     "url": "http://blog.ycombinator.com/yc-for-hardware",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "sama",
+    "descendants": 128,
+    "time": 1423159276
   }
 ]

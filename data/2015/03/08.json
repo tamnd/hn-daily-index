@@ -4,99 +4,99 @@
     "id": 9161309,
     "title": "Terence Tao: the Mozart of maths",
     "url": "http://www.smh.com.au/good-weekend/terence-tao-the-mozart-of-maths-20150306-13fwcv.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "yitchelle",
+    "descendants": 51,
+    "time": 1425713092
   },
   {
     "rank": 2,
     "id": 9161761,
     "title": "Machine Learning for Programming \u2013 Peter Norvig",
     "url": "http://www.infoq.com/presentations/machine-learning-general-programming",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "gsg",
+    "descendants": 22,
+    "time": 1425734533
   },
   {
     "rank": 3,
     "id": 9162754,
     "title": "Ableton Live Developers at Work [video]",
     "url": "https://www.youtube.com/watch?v=tILlZRLhBJE",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "lispm",
+    "descendants": 91,
+    "time": 1425755802
   },
   {
     "rank": 4,
     "id": 9163044,
     "title": "Catena: A time series storage engine written in Go",
     "url": "http://misfra.me/state-of-the-state-part-iii",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 134,
+    "by": "misframer",
+    "descendants": 21,
+    "time": 1425760888
   },
   {
     "rank": 5,
     "id": 9163262,
     "title": "Apple gold",
     "url": "http://leancrew.com/all-this/2015/03/apple-gold/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "zdw",
+    "descendants": 95,
+    "time": 1425765385
   },
   {
     "rank": 6,
     "id": 9163782,
     "title": "The $5000 Compression Challenge",
     "url": "http://www.patrickcraig.co.uk/other/compression.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "vq",
+    "descendants": 168,
+    "time": 1425773959
   },
   {
     "rank": 7,
     "id": 9164251,
     "title": "Google Chromium drops support for Linux 3.16 and earlier",
     "url": "https://lists.debian.org/debian-kernel/2015/03/msg00133.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 139,
+    "by": "xai3luGi",
+    "descendants": 130,
+    "time": 1425782599
   },
   {
     "rank": 8,
     "id": 9165298,
     "title": "In the age of free AAA game engines, are we still relevant?",
     "url": "http://jmonkeyengine.org/301602/in-the-age-of-free-aaa-game-engines-are-we-still-relevant/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "erlend_sh",
+    "descendants": 80,
+    "time": 1425815520
   },
   {
     "rank": 9,
     "id": 9165725,
     "title": "A website that deletes itself once indexed by Google",
     "url": "https://github.com/mroth/unindexed/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "cjlm",
+    "descendants": 121,
+    "time": 1425826327
   },
   {
     "rank": 10,
     "id": 9166501,
     "title": "On Secretly Terrible Engineers",
     "url": "http://techcrunch.com/2015/03/08/on-secretly-terrible-engineers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "minimaxir",
+    "descendants": 379,
+    "time": 1425838580
   }
 ]

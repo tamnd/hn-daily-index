@@ -4,99 +4,99 @@
     "id": 8943142,
     "title": "Papers We Love",
     "url": "http://paperswelove.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "talles",
+    "descendants": 18,
+    "time": 1422200469
   },
   {
     "rank": 2,
     "id": 8943356,
     "title": "A practical introduction to functional programming",
     "url": "http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "danso",
+    "descendants": 62,
+    "time": 1422205062
   },
   {
     "rank": 3,
     "id": 8943709,
     "title": "Mezzanine: A Common Lisp-based 64-bit OS for VirtualBox",
     "url": "http://slexy.org/view/s20Pc2LaIw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "self",
+    "descendants": 63,
+    "time": 1422210591
   },
   {
     "rank": 4,
     "id": 8944483,
     "title": "Chess: Who will win in this riveting game of Math.random() vs. Math.random()?",
     "url": "http://chessboardjs.com/examples#5002",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "idiotclock",
+    "descendants": 126,
+    "time": 1422224480
   },
   {
     "rank": 5,
     "id": 8944637,
     "title": "Next Week's Bloodbath At IBM Won't Fix The Real\u00a0Problem",
     "url": "http://www.forbes.com/sites/robertcringely/2015/01/22/next-weeks-bloodbath-at-ibm-wont-fix-the-real-problem/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "randomname2",
+    "descendants": 189,
+    "time": 1422227329
   },
   {
     "rank": 6,
     "id": 8945592,
     "title": "PaperLike: 13.3\u2033 E Ink Monitor by Dasung Tech",
     "url": "http://blog.the-ebook-reader.com/2015/01/15/paperlike-13-3-e-ink-monitor-by-dasung-tech-videos/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 524,
+    "by": "notsony",
+    "descendants": 177,
+    "time": 1422248619
   },
   {
     "rank": 7,
     "id": 8946991,
     "title": "Coinbase Exchange",
     "url": "https://exchange.coinbase.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "sjcsjc",
+    "descendants": 133,
+    "time": 1422280833
   },
   {
     "rank": 8,
     "id": 8947080,
     "title": "Inside the world of longsword fighting",
     "url": "http://www.nytimes.com/video/sports/100000003040466/inside-the-world-of-longsword-fighting.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "benbreen",
+    "descendants": 167,
+    "time": 1422281859
   },
   {
     "rank": 9,
     "id": 8947603,
     "title": "Coding is not the new literacy",
     "url": "http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "oskarth",
+    "descendants": 146,
+    "time": 1422287505
   },
   {
     "rank": 10,
     "id": 8948639,
     "title": "EFF\u2019s Game Plan for Ending Global Mass Surveillance",
     "url": "https://www.eff.org/deeplinks/2015/01/effs-game-plan-ending-global-mass-surveillance",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 678,
+    "by": "CapitalistCartr",
+    "descendants": 151,
+    "time": 1422297111
   }
 ]

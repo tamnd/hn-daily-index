@@ -4,99 +4,99 @@
     "id": 9191503,
     "title": "How GitHub Conquered Google, Microsoft, and Everyone Else",
     "url": "http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "Libertatea",
+    "descendants": 87,
+    "time": 1426175314
   },
   {
     "rank": 2,
     "id": 9194067,
     "title": "Your Most Important Skill: Empathy",
     "url": "http://chadfowler.com/blog/2014/01/19/empathy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "nikunjk",
+    "descendants": 132,
+    "time": 1426195882
   },
   {
     "rank": 3,
     "id": 9194951,
     "title": "Paul Kalanithi, writer and neurosurgeon, dies at 37",
     "url": "http://med.stanford.edu/news/all-news/2015/03/stanford-neurosurgeon-writer-paul-kalanithi-dies-at-37.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "milkcircle",
+    "descendants": 33,
+    "time": 1426206111
   },
   {
     "rank": 4,
     "id": 9195042,
     "title": "How Apple Makes the Watch",
     "url": "http://atomicdelights.com/blog/a-glimpse-at-how-the-apple-watch-is-made",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "dshankar",
+    "descendants": 116,
+    "time": 1426207488
   },
   {
     "rank": 5,
     "id": 9195778,
     "title": "\u201cSierra\u2026 well, it was the poor victim of a hostile takeover by criminals\u201d",
     "url": "http://www.nodontdie.com/al-lowe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "kevbin",
+    "descendants": 111,
+    "time": 1426224526
   },
   {
     "rank": 6,
     "id": 9196218,
     "title": "SQLite developer must have received a lot of phone calls",
     "url": "https://github.com/mackyle/sqlite/blob/3cf493d4018042c70a4db733dd38f96896cd825f/src/os.h#L52",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 792,
+    "by": "DaGardner",
+    "descendants": 108,
+    "time": 1426237805
   },
   {
     "rank": 7,
     "id": 9197873,
     "title": "Fake Amazon Tech Book Reviews Are Hurting My Book",
     "url": "http://blogs.perl.org/users/ovid/2015/03/fake-amazon-book-reviews-are-hurting-my-book.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "Ovid",
+    "descendants": 117,
+    "time": 1426262759
   },
   {
     "rank": 8,
     "id": 9197920,
     "title": "When IE gave us beautiful, fast touch interactions, and nobody cared",
     "url": "https://paulbakaus.com/2015/03/13/when-ie-gave-us-beautiful-fast-touch-interactions-and-nobody-cared/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "robin_reala",
+    "descendants": 142,
+    "time": 1426263155
   },
   {
     "rank": 9,
     "id": 9198260,
     "title": "California has about one year of water left",
     "url": "http://www.latimes.com/opinion/op-ed/la-oe-famiglietti-drought-california-20150313-story.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "nickgrosvenor",
+    "descendants": 393,
+    "time": 1426266400
   },
   {
     "rank": 10,
     "id": 9200017,
     "title": "Balanced payments is shutting down",
     "url": "https://www.balancedpayments.com/stripe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "dynabros",
+    "descendants": 172,
+    "time": 1426280571
   }
 ]

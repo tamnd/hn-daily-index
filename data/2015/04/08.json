@@ -4,99 +4,99 @@
     "id": 9333147,
     "title": "How Google Hires",
     "url": "http://www.wired.com/2015/04/hire-like-google/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "Libertatea",
+    "descendants": 271,
+    "time": 1428405538
   },
   {
     "rank": 2,
     "id": 9336392,
     "title": "Introducing Progressive Equity \u2013 Increase employee ownership as company grows",
     "url": "http://blog.detour.com/introducing-progressive-equity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "andrew",
+    "descendants": 100,
+    "time": 1428434144
   },
   {
     "rank": 3,
     "id": 9337863,
     "title": "Ask HN: How do you deal with professional jealousy and getting older?",
     "url": "http://news.ycombinator.com/item?id=9337863",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 558,
+    "by": "tastyface",
+    "descendants": 408,
+    "time": 1428449350
   },
   {
     "rank": 4,
     "id": 9338071,
     "title": "Unit tests fail when run in Australia",
     "url": "https://github.com/angular/angular.js/issues/5017",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "luu",
+    "descendants": 112,
+    "time": 1428452973
   },
   {
     "rank": 5,
     "id": 9338088,
     "title": "I'll Accept Anything \u2013 Accepting every pull request submitted",
     "url": "https://github.com/mrkrstphr/illacceptanything",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "mrkrstphr",
+    "descendants": 104,
+    "time": 1428453294
   },
   {
     "rank": 6,
     "id": 9338708,
     "title": "The 500-mile email",
     "url": "http://web.mit.edu/jemorris/humor/500-miles",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 915,
+    "by": "folz",
+    "descendants": 139,
+    "time": 1428465293
   },
   {
     "rank": 7,
     "id": 9338944,
     "title": "8088 MPH: We Break All Your Emulators",
     "url": "http://trixter.oldskool.org/2015/04/07/8088-mph-we-break-all-your-emulators/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "drv",
+    "descendants": 99,
+    "time": 1428471488
   },
   {
     "rank": 8,
     "id": 9340246,
     "title": "Show HN: Kaiwa, a Modern Open-Source XMPP Web Client",
     "url": "http://getkaiwa.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "emixam",
+    "descendants": 140,
+    "time": 1428495820
   },
   {
     "rank": 9,
     "id": 9342994,
     "title": "I Quit: What really goes on at apple",
     "url": "http://roadlesstravelled.me/2015/04/06/why-steve-jobs-motivated-me-to-quit-apple/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1215,
+    "by": "andrew_gs",
+    "descendants": 544,
+    "time": 1428519556
   },
   {
     "rank": 10,
     "id": 9343021,
     "title": "Announcing Git Large File Storage",
     "url": "https://github.com/blog/1986-announcing-git-large-file-storage-lfs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "dewski",
+    "descendants": 159,
+    "time": 1428519744
   }
 ]

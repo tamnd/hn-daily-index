@@ -4,99 +4,99 @@
     "id": 9017990,
     "title": "Show HN: Watch People Code",
     "url": "http://www.watchpeoplecode.com/?src=hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "eatitraw",
+    "descendants": 72,
+    "time": 1423419780
   },
   {
     "rank": 2,
     "id": 9018247,
     "title": "Modern C [pdf]",
     "url": "http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "adamnemecek",
+    "descendants": 43,
+    "time": 1423424570
   },
   {
     "rank": 3,
     "id": 9018930,
     "title": "Show HN: A Simple terminal-based video chat \u2013 renders in ASCII and has audio",
     "url": "https://github.com/mofarrell/p2pvc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "emgram769",
+    "descendants": 44,
+    "time": 1423436063
   },
   {
     "rank": 4,
     "id": 9019137,
     "title": "Annotated code: Circles bouncing off lines",
     "url": "http://annotated-code.maryrosecook.com/circles-bouncing-off-lines/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "danso",
+    "descendants": 65,
+    "time": 1423440827
   },
   {
     "rank": 5,
     "id": 9019192,
     "title": "Photos of the An-225 Mriya \u2013 the world\u2019s largest aircraft",
     "url": "http://gelio.livejournal.com/193025.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "whalesalad",
+    "descendants": 102,
+    "time": 1423441848
   },
   {
     "rank": 6,
     "id": 9019498,
     "title": "Silver: A free implementation of Swift for .NET, Java, Android, and Cocoa",
     "url": "http://elementscompiler.com/elements/silver/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "milen",
+    "descendants": 104,
+    "time": 1423449375
   },
   {
     "rank": 7,
     "id": 9020165,
     "title": "Explore the Swiss Leaks Data",
     "url": "http://www.icij.org/project/swiss-leaks/explore-swiss-leaks-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "anigbrowl",
+    "descendants": 139,
+    "time": 1423469868
   },
   {
     "rank": 8,
     "id": 9021841,
     "title": "Noisli \u2013\u00a0Improve focus and boost your productivity",
     "url": "http://www.noisli.com/get_combo_by_link/pd8blIFySEkTOHB",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "noisli",
+    "descendants": 159,
+    "time": 1423497971
   },
   {
     "rank": 9,
     "id": 9022470,
     "title": "Hello HTTP/2, Goodbye SPDY",
     "url": "http://blog.chromium.org/2015/02/hello-http2-goodbye-spdy-http-is_9.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "Nimi",
+    "descendants": 179,
+    "time": 1423503989
   },
   {
     "rank": 10,
     "id": 9023582,
     "title": "$500k of Azure credit for YC startups",
     "url": "http://blog.ycombinator.com/$500k-of-azure-credit-for-yc-startups",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "sadfaceunread",
+    "descendants": 166,
+    "time": 1423514727
   }
 ]
