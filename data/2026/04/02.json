@@ -66,7 +66,7 @@
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
     "score": 173,
     "by": "jaden",
-    "descendants": 52,
+    "descendants": 53,
     "time": 1775100933
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "rank": 10,
-    "id": 47612558,
-    "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
-    "url": "https://modolap.com/publication/hn-analysis-1",
-    "score": 6,
-    "by": "ronfriedhaber",
-    "descendants": 1,
-    "time": 1775126543
+    "id": 47609564,
+    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+    "score": 449,
+    "by": "hkmaxpro",
+    "descendants": 210,
+    "time": 1775099544
   }
 ]
