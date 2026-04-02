@@ -2,8 +2,8 @@
 hn-daily-index: Fetch today's top 10 Hacker News stories and append them
 to a cumulative README.md organized by date.
 
-The README is append-only: each run adds today's section without touching
-past entries. This keeps the full history as a growing archive.
+Data is stored as data/YYYY/MM/DD.json. The README is rebuilt from scratch
+each run, covering all years present in the data directory.
 """
 
 from __future__ import annotations
@@ -12,7 +12,7 @@ import asyncio
 import json
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import httpx
@@ -78,7 +78,6 @@ def _format_story(rank: int, story: dict) -> str:
     hn_url = _hn_link(story_id)
 
     if url:
-        # Extract domain for display
         domain = re.sub(r"^https?://(?:www\.)?", "", url).split("/")[0]
         title_link = f"[{title}]({url})"
         source = f" ({domain})"
@@ -94,13 +93,18 @@ def _format_story(rank: int, story: dict) -> str:
 
 
 # ---------------------------------------------------------------------------
-# Daily JSON archive
+# Data I/O  (data/YYYY/MM/DD.json)
 # ---------------------------------------------------------------------------
 
 
+def _date_to_path(d: date) -> Path:
+    return DATA_DIR / str(d.year) / f"{d.month:02d}" / f"{d.day:02d}.json"
+
+
 def _save_daily_json(date_str: str, stories: list[dict]) -> None:
-    DATA_DIR.mkdir(exist_ok=True)
-    file = DATA_DIR / f"{date_str}.json"
+    d = date.fromisoformat(date_str)
+    path = _date_to_path(d)
+    path.parent.mkdir(parents=True, exist_ok=True)
     records = []
     for i, s in enumerate(stories, 1):
         records.append({
@@ -113,7 +117,45 @@ def _save_daily_json(date_str: str, stories: list[dict]) -> None:
             "descendants": s.get("descendants", 0),
             "time": s.get("time", 0),
         })
-    file.write_text(json.dumps(records, indent=2) + "\n")
+    path.write_text(json.dumps(records, indent=2) + "\n")
+
+
+def _scan_available() -> dict[str, list[dict]]:
+    """Scan data/ tree and return {YYYY-MM-DD: stories} for all days."""
+    result: dict[str, list[dict]] = {}
+    if not DATA_DIR.exists():
+        return result
+    for json_file in DATA_DIR.glob("*/*/*.json"):
+        # data/YYYY/MM/DD.json
+        try:
+            day = int(json_file.stem)
+            month = int(json_file.parent.name)
+            year = int(json_file.parent.parent.name)
+            ds = f"{year:04d}-{month:02d}-{day:02d}"
+            result[ds] = json.loads(json_file.read_text())
+        except (ValueError, json.JSONDecodeError):
+            continue
+    return result
+
+
+# ---------------------------------------------------------------------------
+# Migrate flat data/ files to nested structure
+# ---------------------------------------------------------------------------
+
+
+def _migrate_flat_data() -> None:
+    """Move any data/YYYY-MM-DD.json files into data/YYYY/MM/DD.json."""
+    for f in DATA_DIR.glob("????-??-??.json"):
+        try:
+            d = date.fromisoformat(f.stem)
+            dest = _date_to_path(d)
+            if not dest.exists():
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                f.rename(dest)
+            else:
+                f.unlink()
+        except ValueError:
+            continue
 
 
 # ---------------------------------------------------------------------------
@@ -136,68 +178,137 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 """
 
 
-def _load_existing_dates() -> set[str]:
-    """Parse existing README to find which dates are already present."""
-    if not README_FILE.exists():
-        return set()
-    text = README_FILE.read_text()
-    return set(re.findall(r"^## (\d{4}-\d{2}-\d{2})", text, re.MULTILINE))
+def _all_dates_in_year(year: int) -> list[date]:
+    start = date(year, 1, 1)
+    end = date(year, 12, 31)
+    today = date.today()
+    if year == today.year:
+        end = today
+    dates = []
+    d = start
+    while d <= end:
+        dates.append(d)
+        d += timedelta(days=1)
+    return dates
 
 
-def _load_daily_data(date_str: str) -> list[dict] | None:
-    file = DATA_DIR / f"{date_str}.json"
-    if file.exists():
-        return json.loads(file.read_text())
-    return None
+def _render_month_calendar(
+    month_dates: list[date], available: set[str]
+) -> list[str]:
+    """Render a month as a compact calendar table."""
+    lines = []
+    lines.append("| Mon | Tue | Wed | Thu | Fri | Sat | Sun |")
+    lines.append("|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+
+    first = month_dates[0]
+    row: list[str] = [""] * first.weekday()
+
+    for d in month_dates:
+        ds = d.isoformat()
+        day_num = str(d.day)
+        if ds in available:
+            row.append(f"[**{day_num}**](#{ds})")
+        else:
+            row.append(day_num)
+
+        if len(row) == 7:
+            lines.append("| " + " | ".join(row) + " |")
+            row = []
+
+    if row:
+        row.extend([""] * (7 - len(row)))
+        lines.append("| " + " | ".join(row) + " |")
+
+    return lines
 
 
 def _generate_readme() -> str:
-    """Rebuild the full README from all daily JSON files."""
     DATA_DIR.mkdir(exist_ok=True)
-    json_files = sorted(DATA_DIR.glob("*.json"), reverse=True)
 
-    if not json_files:
+    available_data = _scan_available()
+    available = set(available_data.keys())
+
+    if not available:
         return HEADER + "*No stories yet. Run `uv run hn-daily-index` to fetch today's top 10.*\n"
+
+    # Determine all years that have data
+    years_with_data = sorted({date.fromisoformat(ds).year for ds in available}, reverse=True)
+    # Also include current year
+    current_year = date.today().year
+    if current_year not in years_with_data:
+        years_with_data = [current_year] + years_with_data
 
     lines = [HEADER]
 
-    # Build TOC grouped by month
-    dates = [f.stem for f in json_files]
-    months_seen: list[str] = []
-    month_dates: dict[str, list[str]] = {}
-    for d in dates:
-        month = d[:7]  # YYYY-MM
-        if month not in month_dates:
-            months_seen.append(month)
-            month_dates[month] = []
-        month_dates[month].append(d)
-
-    for month in months_seen:
-        month_label = datetime.strptime(month, "%Y-%m").strftime("%B %Y")
-        lines.append(f"**{month_label}**")
+    # Recent days quick-jump (last 7 days with data)
+    recent = sorted(available, reverse=True)[:7]
+    if recent:
+        links = [
+            f"[{date.fromisoformat(ds).strftime('%b %d')}](#{ds})"
+            for ds in recent
+        ]
+        lines.append("Recent: " + " | ".join(links))
         lines.append("")
-        for d in month_dates[month]:
-            weekday = datetime.strptime(d, "%Y-%m-%d").strftime("%A")
-            lines.append(f"- [{d} ({weekday})](#{d})")
+
+    # Year-level sections
+    for year in years_with_data:
+        all_dates = _all_dates_in_year(year)
+        total_days = len(all_dates)
+        covered = sum(1 for d in all_dates if d.isoformat() in available)
+
+        # Year as a collapsible group (current year open)
+        open_attr = " open" if year == current_year else ""
+        lines.append(
+            f"<details{open_attr}><summary><h3>{year}</h3> "
+            f"{covered}/{total_days} days archived</summary>"
+        )
+        lines.append("")
+
+        # Group by month, most recent first
+        months: dict[str, list[date]] = {}
+        for d in all_dates:
+            key = d.strftime("%Y-%m")
+            months.setdefault(key, []).append(d)
+
+        month_keys = sorted(months.keys(), reverse=True)
+
+        for i, month_key in enumerate(month_keys):
+            month_dates = months[month_key]
+            month_label = month_dates[0].strftime("%B")
+            month_covered = sum(1 for d in month_dates if d.isoformat() in available)
+            month_total = len(month_dates)
+
+            # Most recent month of current year stays open
+            open_m = " open" if year == current_year and i == 0 else ""
+            lines.append(
+                f"<details{open_m}><summary><b>{month_label}</b> "
+                f"({month_covered}/{month_total})</summary>"
+            )
+            lines.append("")
+            lines.extend(_render_month_calendar(month_dates, available))
+            lines.append("")
+            lines.append("</details>")
+            lines.append("")
+
+        lines.append("</details>")
         lines.append("")
 
     lines.append("---")
     lines.append("")
 
-    # Render each day
-    for json_file in json_files:
-        date_str = json_file.stem
-        stories = json.loads(json_file.read_text())
-        weekday = datetime.strptime(date_str, "%Y-%m-%d").strftime("%A")
+    # Render each day with data, most recent first
+    for ds in sorted(available, reverse=True):
+        stories = available_data[ds]
+        d = date.fromisoformat(ds)
+        weekday = d.strftime("%A")
 
-        lines.append(f"## {date_str}")
+        lines.append(f"## {ds}")
         lines.append("")
         lines.append(f"*{weekday}*")
         lines.append("")
 
         for story in stories:
-            rank = story["rank"]
-            lines.append(_format_story(rank, story))
+            lines.append(_format_story(story["rank"], story))
 
         lines.append("")
 
@@ -211,6 +322,137 @@ def _generate_readme() -> str:
     lines.append("")
 
     return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# Per-month README: data/YYYY/MM/README.md
+# ---------------------------------------------------------------------------
+
+
+def _generate_month_readme(
+    year: int, month: int, available_data: dict[str, list[dict]]
+) -> str:
+    month_name = date(year, month, 1).strftime("%B %Y")
+    lines = [f"# {month_name}", ""]
+    lines.append(
+        f"Top 10 Hacker News stories for each day in {month_name}."
+    )
+    lines.append("")
+
+    # Collect days in this month that have data
+    days = sorted(
+        [ds for ds in available_data if ds.startswith(f"{year:04d}-{month:02d}-")],
+        reverse=True,
+    )
+
+    if not days:
+        lines.append("*No data yet.*")
+        lines.append("")
+        return "\n".join(lines)
+
+    # TOC
+    for ds in days:
+        d = date.fromisoformat(ds)
+        lines.append(f"- [{ds} ({d.strftime('%A')})](#{ds})")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+
+    # Each day
+    for ds in days:
+        d = date.fromisoformat(ds)
+        stories = available_data[ds]
+        lines.append(f"## {ds}")
+        lines.append("")
+        lines.append(f"*{d.strftime('%A')}*")
+        lines.append("")
+        for story in stories:
+            lines.append(_format_story(story["rank"], story))
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# Per-year README: data/YYYY/README.md
+# ---------------------------------------------------------------------------
+
+
+def _generate_year_readme(
+    year: int, available_data: dict[str, list[dict]]
+) -> str:
+    lines = [f"# {year}", ""]
+    lines.append(
+        f"Top 10 Hacker News stories for each day in {year}."
+    )
+    lines.append("")
+
+    # Group by month
+    month_days: dict[int, list[str]] = {}
+    for ds in available_data:
+        d = date.fromisoformat(ds)
+        if d.year == year:
+            month_days.setdefault(d.month, []).append(ds)
+
+    if not month_days:
+        lines.append("*No data yet.*")
+        lines.append("")
+        return "\n".join(lines)
+
+    # TOC linking to monthly READMEs
+    for m in sorted(month_days.keys(), reverse=True):
+        month_name = date(year, m, 1).strftime("%B")
+        count = len(month_days[m])
+        lines.append(f"- [{month_name}]({m:02d}/) ({count} days)")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+
+    # Inline all stories, most recent first
+    all_days = sorted(
+        [ds for ds in available_data if date.fromisoformat(ds).year == year],
+        reverse=True,
+    )
+    for ds in all_days:
+        d = date.fromisoformat(ds)
+        stories = available_data[ds]
+        lines.append(f"## {ds}")
+        lines.append("")
+        lines.append(f"*{d.strftime('%A')}*")
+        lines.append("")
+        for story in stories:
+            lines.append(_format_story(story["rank"], story))
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# Generate all sub-READMEs
+# ---------------------------------------------------------------------------
+
+
+def _generate_sub_readmes(available_data: dict[str, list[dict]]) -> None:
+    """Generate data/YYYY/README.md and data/YYYY/MM/README.md for all data."""
+    # Group by year and month
+    years: set[int] = set()
+    year_months: set[tuple[int, int]] = set()
+    for ds in available_data:
+        d = date.fromisoformat(ds)
+        years.add(d.year)
+        year_months.add((d.year, d.month))
+
+    for y in years:
+        readme = _generate_year_readme(y, available_data)
+        path = DATA_DIR / str(y) / "README.md"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(readme)
+
+    for y, m in year_months:
+        readme = _generate_month_readme(y, m, available_data)
+        path = DATA_DIR / str(y) / f"{m:02d}" / "README.md"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(readme)
 
 
 # ---------------------------------------------------------------------------
@@ -229,11 +471,17 @@ async def _async_main() -> None:
     stories = await _fetch_today_stories()
     print(f"  Got {len(stories)} stories.", file=sys.stderr)
 
+    # Migrate any old flat files
+    _migrate_flat_data()
+
     print("Saving daily JSON...", file=sys.stderr)
     _save_daily_json(today, stories)
 
-    print("Generating README.md...", file=sys.stderr)
+    print("Generating READMEs...", file=sys.stderr)
     readme = _generate_readme()
     README_FILE.write_text(readme)
+
+    available_data = _scan_available()
+    _generate_sub_readmes(available_data)
 
     print(f"Done! {README_FILE}", file=sys.stderr)

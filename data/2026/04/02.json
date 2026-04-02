@@ -4,9 +4,9 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 63,
+    "score": 64,
     "by": "bonzini",
-    "descendants": 22,
+    "descendants": 25,
     "time": 1775119724
   },
   {
@@ -14,7 +14,7 @@
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 50,
+    "score": 52,
     "by": "smartmic",
     "descendants": 8,
     "time": 1775117951
@@ -26,7 +26,7 @@
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
     "score": 935,
     "by": "apitman",
-    "descendants": 797,
+    "descendants": 799,
     "time": 1775063491
   },
   {
@@ -34,9 +34,9 @@
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-    "score": 35,
+    "score": 36,
     "by": "luu",
-    "descendants": 14,
+    "descendants": 16,
     "time": 1774933899
   },
   {
@@ -44,9 +44,9 @@
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 142,
+    "score": 143,
     "by": "jaden",
-    "descendants": 40,
+    "descendants": 42,
     "time": 1775100933
   },
   {
@@ -64,9 +64,9 @@
     "id": 47609564,
     "title": "Steam on Linux Use Skyrocketed Above 5% in March",
     "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-    "score": 404,
+    "score": 408,
     "by": "hkmaxpro",
-    "descendants": 185,
+    "descendants": 189,
     "time": 1775099544
   },
   {
@@ -84,9 +84,9 @@
     "id": 47602832,
     "title": "EmDash \u2013 A spiritual successor to WordPress that solves plugin security",
     "url": "https://blog.cloudflare.com/emdash-wordpress/",
-    "score": 577,
+    "score": 578,
     "by": "elithrar",
-    "descendants": 425,
+    "descendants": 428,
     "time": 1775060078
   },
   {
