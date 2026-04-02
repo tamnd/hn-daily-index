@@ -4,99 +4,99 @@
     "id": 26748723,
     "title": "Figma and Canva are taking on Adobe and winning",
     "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "samulipehkonen",
+    "descendants": 244,
+    "time": 1617963848
   },
   {
     "rank": 2,
     "id": 26750452,
     "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
     "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 592,
+    "by": "todd8",
+    "descendants": 618,
+    "time": 1617975762
   },
   {
     "rank": 3,
     "id": 26752223,
     "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
     "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "mpweiher",
+    "descendants": 103,
+    "time": 1617983935
   },
   {
     "rank": 4,
     "id": 26754351,
     "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
     "url": "https://github.com/DualCoder/vgpu_unlock",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "fragileone",
+    "descendants": 132,
+    "time": 1617993725
   },
   {
     "rank": 5,
     "id": 26757503,
     "title": "The patent troll that won a $308M jury trial against Apple",
     "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "ketamine__",
+    "descendants": 272,
+    "time": 1618011708
   },
   {
     "rank": 6,
     "id": 26759680,
     "title": "Everyone is still terrible at creating software at scale",
     "url": "https://margint.blog/2021/04/05/creating-software-at-scale/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 546,
+    "by": "caspii",
+    "descendants": 379,
+    "time": 1618039905
   },
   {
     "rank": 7,
     "id": 26760735,
     "title": "Setting up Starlink",
     "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "giuliomagnifico",
+    "descendants": 330,
+    "time": 1618054570
   },
   {
     "rank": 8,
     "id": 26761100,
     "title": "Ink 1.0 \u2013 Open-source scripting language for interactive narrative",
     "url": "https://www.inklestudios.com/2021/02/22/ink-version-1.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "Kinrany",
+    "descendants": 57,
+    "time": 1618058977
   },
   {
     "rank": 9,
     "id": 26761594,
     "title": "Donation page \\\"not compliant with Google Play Policies\\\"",
     "url": "https://agateau.com/2021/google-does-not-want-you-to-tell-your-players-about-your-donation-page/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "agateau",
+    "descendants": 290,
+    "time": 1618063815
   },
   {
     "rank": 10,
     "id": 26762206,
     "title": "Best practices for writing SQL queries",
     "url": "https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "ReginaDeiPirati",
+    "descendants": 151,
+    "time": 1618068817
   }
 ]

@@ -4,99 +4,99 @@
     "id": 27210022,
     "title": "Show HN: I wrote a book about UI [pdf]",
     "url": "https://fifty.user-interface.io/50_ui_tips.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "Akcium",
+    "descendants": 151,
+    "time": 1621437989
   },
   {
     "rank": 2,
     "id": 27222457,
     "title": "Spintronics: Build Mechanical Circuits",
     "url": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "mcp_",
+    "descendants": 117,
+    "time": 1621524666
   },
   {
     "rank": 3,
     "id": 27223012,
     "title": "WebContainers: Run Node.js natively in the browser",
     "url": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "bpierre",
+    "descendants": 230,
+    "time": 1621527026
   },
   {
     "rank": 4,
     "id": 27224094,
     "title": "Show HN: Tool that turns your images into plotter-like line drawings",
     "url": "https://javier.xyz/pintr/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "javierbyte",
+    "descendants": 74,
+    "time": 1621531353
   },
   {
     "rank": 5,
     "id": 27230042,
     "title": "Sublime Text 4",
     "url": "https://www.sublimetext.com/blog/articles/sublime-text-4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1436,
+    "by": "ascom",
+    "descendants": 631,
+    "time": 1621566361
   },
   {
     "rank": 6,
     "id": 27230427,
     "title": "Animated GIF uses over 35GB RAM in Acorn on M1 Mac, likely due to memory leak",
     "url": "https://twitter.com/ccgus/status/1395145361136644098",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 595,
+    "by": "zdw",
+    "descendants": 329,
+    "time": 1621570425
   },
   {
     "rank": 7,
     "id": 27233019,
     "title": "Learn CSS",
     "url": "https://web.dev/learn/css/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 842,
+    "by": "markodenic",
+    "descendants": 189,
+    "time": 1621599056
   },
   {
     "rank": 8,
     "id": 27233073,
     "title": "Companies excluding Coloradans from remote jobs to avoid sharing salary ranges",
     "url": "https://www.reddit.com/r/Denver/comments/nh7s8f/but_not_in_colorado/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "NCFZ",
+    "descendants": 394,
+    "time": 1621599453
   },
   {
     "rank": 9,
     "id": 27234039,
     "title": "2022 Ford F-150 Lightning",
     "url": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 727,
+    "by": "awb",
+    "descendants": 1396,
+    "time": 1621605476
   },
   {
     "rank": 10,
     "id": 27235970,
     "title": "Voice2json: Offline speech and intent recognition on Linux",
     "url": "https://voice2json.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "easrng",
+    "descendants": 108,
+    "time": 1621613686
   }
 ]

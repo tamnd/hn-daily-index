@@ -4,99 +4,99 @@
     "id": 27116203,
     "title": "We\u2019ll stop selling our Code Editor app for iOS soon",
     "url": "https://panic.com/blog/the-future-of-code-editor/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "krzyzanowskim",
+    "descendants": 436,
+    "time": 1620727326
   },
   {
     "rank": 2,
     "id": 27121332,
     "title": "Germany bans Facebook from handling WhatsApp data over privacy concerns",
     "url": "https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 709,
+    "by": "giuliomagnifico",
+    "descendants": 185,
+    "time": 1620756059
   },
   {
     "rank": 3,
     "id": 27121586,
     "title": "Tech giants join call for funding U.S. chip production",
     "url": "https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 410,
+    "by": "tareqak",
+    "descendants": 283,
+    "time": 1620757391
   },
   {
     "rank": 4,
     "id": 27123553,
     "title": "Ask HN: How to negotiate continuing to work remotely?",
     "url": "https://news.ycombinator.com/item?id=27123553",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "megasquid",
+    "descendants": 277,
+    "time": 1620767346
   },
   {
     "rank": 5,
     "id": 27126092,
     "title": "Enhancing Photorealism Enhancement",
     "url": "https://intel-isl.github.io/PhotorealismEnhancement/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 522,
+    "by": "lnyan",
+    "descendants": 144,
+    "time": 1620788188
   },
   {
     "rank": 6,
     "id": 27128424,
     "title": "Show HN: Mmm.page \u2013 Drag and drop personal website creator",
     "url": "https://build.mmm.page",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 591,
+    "by": "xhfloz",
+    "descendants": 150,
+    "time": 1620812248
   },
   {
     "rank": 7,
     "id": 27128994,
     "title": "Erlang/OTP 24 highlights",
     "url": "http://blog.erlang.org/My-OTP-24-Highlights/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "nifoc",
+    "descendants": 100,
+    "time": 1620818297
   },
   {
     "rank": 8,
     "id": 27129858,
     "title": "Google Docs will now use canvas based rendering",
     "url": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1167,
+    "by": "lewisjoe",
+    "descendants": 930,
+    "time": 1620824716
   },
   {
     "rank": 9,
     "id": 27130355,
     "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network",
     "url": "https://positive.security/blog/send-my",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "kerm1t",
+    "descendants": 129,
+    "time": 1620827824
   },
   {
     "rank": 10,
     "id": 27132334,
     "title": "Show HN: I wrote my own RTS game engine in C",
     "url": "https://github.com/eduard-permyakov/permafrost-engine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1102,
+    "by": "epermyakov",
+    "descendants": 262,
+    "time": 1620837884
   }
 ]

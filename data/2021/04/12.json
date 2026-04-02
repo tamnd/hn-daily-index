@@ -4,99 +4,99 @@
     "id": 26771623,
     "title": "Technologies I thought my son would never use",
     "url": "https://www.tomshardware.com/opinion/15-technology-predictions-how-they-did",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "CrankyBear",
+    "descendants": 553,
+    "time": 1618159315
   },
   {
     "rank": 2,
     "id": 26772151,
     "title": "MiSTer, an open-source FPGA gaming project",
     "url": "https://github.com/MiSTer-devel/Main_MiSTer/wiki",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "_haoa",
+    "descendants": 107,
+    "time": 1618163989
   },
   {
     "rank": 3,
     "id": 26773637,
     "title": "std::unique_ptr implementation backed by Ethereum NFTs",
     "url": "https://github.com/zhuowei/nft_ptr",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 559,
+    "by": "abhorrence",
+    "descendants": 84,
+    "time": 1618176724
   },
   {
     "rank": 4,
     "id": 26776956,
     "title": "What was the point of [ \u201cx$var\u201d = \u201cxval\u201d ]?",
     "url": "https://www.vidarholen.net/contents/blog/?p=1035",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "JNRowe",
+    "descendants": 227,
+    "time": 1618214238
   },
   {
     "rank": 5,
     "id": 26778073,
     "title": "Yuri Gagarin: Sixty years since the first man went into space [video]",
     "url": "https://www.bbc.co.uk/news/av/science-environment-56690949",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "spzb",
+    "descendants": 174,
+    "time": 1618225769
   },
   {
     "rank": 6,
     "id": 26778780,
     "title": "Microsoft buys Nuance for nearly $20B",
     "url": "https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 658,
+    "by": "moritzplassnig",
+    "descendants": 397,
+    "time": 1618231694
   },
   {
     "rank": 7,
     "id": 26779800,
     "title": "Use console.log() like a pro (2020)",
     "url": "https://markodenic.com/use-console-log-like-a-pro/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 700,
+    "by": "vuciv1",
+    "descendants": 148,
+    "time": 1618237606
   },
   {
     "rank": 8,
     "id": 26780192,
     "title": "RMS addresses the free software community",
     "url": "https://www.fsf.org/news/rms-addresses-the-free-software-community",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 527,
+    "by": "caution",
+    "descendants": 493,
+    "time": 1618239976
   },
   {
     "rank": 9,
     "id": 26780848,
     "title": "OpenSearch: AWS fork of Elasticsearch and Kibana",
     "url": "https://aws.amazon.com/blogs/opensource/introducing-opensearch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 706,
+    "by": "ke4qqq",
+    "descendants": 424,
+    "time": 1618242869
   },
   {
     "rank": 10,
     "id": 26781052,
     "title": "How People Get Rich Now",
     "url": "http://paulgraham.com/richnow.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 779,
+    "by": "prakhargurunani",
+    "descendants": 903,
+    "time": 1618243676
   }
 ]

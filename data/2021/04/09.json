@@ -4,99 +4,99 @@
     "id": 26740451,
     "title": "A man is looking for the friends who shipped him overseas in a crate in 1965",
     "url": "https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "colinprince",
+    "descendants": 238,
+    "time": 1617897940
   },
   {
     "rank": 2,
     "id": 26745227,
     "title": "Monkey MindPong",
     "url": "https://neuralink.com/blog/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 678,
+    "by": "ag8",
+    "descendants": 276,
+    "time": 1617926129
   },
   {
     "rank": 3,
     "id": 26745326,
     "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
     "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "gumby",
+    "descendants": 143,
+    "time": 1617926966
   },
   {
     "rank": 4,
     "id": 26746280,
     "title": "Docker without Docker",
     "url": "https://fly.io/blog/docker-without-docker/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 689,
+    "by": "kwindla",
+    "descendants": 210,
+    "time": 1617937599
   },
   {
     "rank": 5,
     "id": 26746983,
     "title": "Initial M1 support merged into Linux SoC tree",
     "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 657,
+    "by": "_xrjp",
+    "descendants": 328,
+    "time": 1617945632
   },
   {
     "rank": 6,
     "id": 26747305,
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1167,
+    "by": "karl42",
+    "descendants": 310,
+    "time": 1617949757
   },
   {
     "rank": 7,
     "id": 26749021,
     "title": "Prince Philip has died",
     "url": "https://www.royal.uk/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "longdefeat",
+    "descendants": 511,
+    "time": 1617966793
   },
   {
     "rank": 8,
     "id": 26749350,
     "title": "Zoom zero-day discovery",
     "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 521,
+    "by": "alexrustic",
+    "descendants": 236,
+    "time": 1617969376
   },
   {
     "rank": 9,
     "id": 26751562,
     "title": "Amazon workers vote against unionizing in Alabama",
     "url": "https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 566,
+    "by": "cwwc",
+    "descendants": 1219,
+    "time": 1617981308
   },
   {
     "rank": 10,
     "id": 26755252,
     "title": "Why uBlock Origin works best on Firefox",
     "url": "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1595,
+    "by": "anonymfus",
+    "descendants": 509,
+    "time": 1617997923
   }
 ]

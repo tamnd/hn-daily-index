@@ -4,99 +4,99 @@
     "id": 26924882,
     "title": "Convicted Post Office workers have names cleared",
     "url": "https://www.bbc.com/news/business-56859357",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "colinprince",
+    "descendants": 187,
+    "time": 1619272925
   },
   {
     "rank": 2,
     "id": 26925314,
     "title": "Resources for Amateur Compiler Writers",
     "url": "https://c9x.me/compile/bib/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "kilodeca",
+    "descendants": 88,
+    "time": 1619276301
   },
   {
     "rank": 3,
     "id": 26925570,
     "title": "The unreasonable effectiveness of print debugging",
     "url": "https://buttondown.email/geoffreylitt/archive/starting-this-newsletter-print-debugging-byoc/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "goranmoomin",
+    "descendants": 354,
+    "time": 1619278123
   },
   {
     "rank": 4,
     "id": 26929370,
     "title": "Show HN: Verilog2factorio",
     "url": "https://github.com/Redcrafter/verilog2factorio/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "linux_is_nice",
+    "descendants": 70,
+    "time": 1619310664
   },
   {
     "rank": 5,
     "id": 26930908,
     "title": "Rust Language Cheat Sheet",
     "url": "https://cheats.rs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "arunc",
+    "descendants": 101,
+    "time": 1619334607
   },
   {
     "rank": 6,
     "id": 26931359,
     "title": "Feynman: I am burned out and I'll never accomplish anything (1985)",
     "url": "https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 915,
+    "by": "ent101",
+    "descendants": 276,
+    "time": 1619341513
   },
   {
     "rank": 7,
     "id": 26931581,
     "title": "Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C",
     "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "signa11",
+    "descendants": 190,
+    "time": 1619345044
   },
   {
     "rank": 8,
     "id": 26932144,
     "title": "Apple sued for terminating account with $25k worth of apps and videos",
     "url": "https://arstechnica.com/tech-policy/2021/04/apple-faces-class-action-lawsuit-over-its-definition-of-the-word-buy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 684,
+    "by": "imgabe",
+    "descendants": 388,
+    "time": 1619352877
   },
   {
     "rank": 9,
     "id": 26932978,
     "title": "Job descriptions should show a salary or salary range",
     "url": "https://sifted.eu/articles/job-advert-salary-range/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "mooreds",
+    "descendants": 295,
+    "time": 1619361043
   },
   {
     "rank": 10,
     "id": 26934577,
     "title": "Has UML died without anyone noticing?",
     "url": "https://garba.org/posts/2021/uml/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 656,
+    "by": "azhenley",
+    "descendants": 586,
+    "time": 1619371900
   }
 ]
