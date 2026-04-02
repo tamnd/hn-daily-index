@@ -24,7 +24,7 @@
     "id": 47603657,
     "title": "Artemis II Launch Day Updates",
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "score": 953,
+    "score": 954,
     "by": "apitman",
     "descendants": 811,
     "time": 1775063491
@@ -34,9 +34,9 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 61,
+    "score": 62,
     "by": "novaRom",
-    "descendants": 15,
+    "descendants": 16,
     "time": 1775127000
   },
   {
@@ -51,30 +51,30 @@
   },
   {
     "rank": 6,
-    "id": 47611921,
-    "title": "Significant Raise of Reports",
-    "url": "https://lwn.net/Articles/1065620/",
-    "score": 30,
-    "by": "stratos123",
-    "descendants": 12,
-    "time": 1775121258
-  },
-  {
-    "rank": 7,
     "id": 47540441,
     "title": "Reinventing the Pull Request",
     "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
-    "score": 11,
+    "score": 13,
     "by": "bkolobara",
-    "descendants": 3,
+    "descendants": 4,
     "time": 1774602269
+  },
+  {
+    "rank": 7,
+    "id": 47611921,
+    "title": "Significant Raise of Reports",
+    "url": "https://lwn.net/Articles/1065620/",
+    "score": 31,
+    "by": "stratos123",
+    "descendants": 12,
+    "time": 1775121258
   },
   {
     "rank": 8,
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 167,
+    "score": 168,
     "by": "jaden",
     "descendants": 49,
     "time": 1775100933
