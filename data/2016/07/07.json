@@ -4,99 +4,99 @@
     "id": 12042548,
     "title": "Xplain \u2013 Explaining X11 for the rest of us",
     "url": "https://magcius.github.io/xplain/article/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "b3h3moth",
+    "descendants": 44,
+    "time": 1467807430
   },
   {
     "rank": 2,
     "id": 12042767,
     "title": "Make the Web Work for Everyone",
     "url": "https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "nachtigall",
+    "descendants": 175,
+    "time": 1467810233
   },
   {
     "rank": 3,
     "id": 12046280,
     "title": "HTC Vive Headset Nearing 100,000 Sales",
     "url": "http://www.roadtovr.com/htc-vive-sales-figures-data-100000-steamspy-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "prostoalex",
+    "descendants": 250,
+    "time": 1467843784
   },
   {
     "rank": 4,
     "id": 12047338,
     "title": "Wireworld",
     "url": "https://en.wikipedia.org/wiki/Wireworld",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "vmorgulis",
+    "descendants": 26,
+    "time": 1467862380
   },
   {
     "rank": 5,
     "id": 12047671,
     "title": "Apple Open-Sources its Compression Algorithm LZFSE",
     "url": "https://www.infoq.com/news/2016/07/apple-lzfse-lossless-opensource",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "laktak",
+    "descendants": 205,
+    "time": 1467870632
   },
   {
     "rank": 6,
     "id": 12048945,
     "title": "Apollo 11 Guidance Computer source code",
     "url": "https://github.com/chrislgarry/Apollo-11",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 652,
+    "by": "uptown",
+    "descendants": 145,
+    "time": 1467895750
   },
   {
     "rank": 7,
     "id": 12049385,
     "title": "Writing a video chat application from the ground up, part 1",
     "url": "https://bengarney.com/2016/06/25/video-conference-part-1-these-things-suck/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "kimburgess",
+    "descendants": 55,
+    "time": 1467900539
   },
   {
     "rank": 8,
     "id": 12049386,
     "title": "NASA Data Shows Toxic Air Threat Choking Indian Subcontinent",
     "url": "http://www.bloomberg.com/news/articles/2016-07-06/nasa-images-show-toxic-air-challenge-choking-indian-subcontinent",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "rhayabusa",
+    "descendants": 209,
+    "time": 1467900543
   },
   {
     "rank": 9,
     "id": 12050374,
     "title": "Mozilla could walk away from Yahoo deal and get more than $1B",
     "url": "http://www.recode.net/2016/7/7/12116296/marissa-mayer-deal-mozilla-yahoo-payment",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "dblohm7",
+    "descendants": 197,
+    "time": 1467909063
   },
   {
     "rank": 10,
     "id": 12050730,
     "title": "Announcing Rust 1.10",
     "url": "http://blog.rust-lang.org/2016/07/07/Rust-1.10.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "steveklabnik",
+    "descendants": 75,
+    "time": 1467911844
   }
 ]

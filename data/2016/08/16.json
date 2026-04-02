@@ -4,99 +4,99 @@
     "id": 12293308,
     "title": "Why didn't Larrabee fail?",
     "url": "http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BWhy%20didn%27t%20Larrabee%20fail%3F%5D%5D",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "KVFinn",
+    "descendants": 100,
+    "time": 1471294141
   },
   {
     "rank": 2,
     "id": 12294155,
     "title": "YC Tech Stacks",
     "url": "http://themacro.com/articles/2016/08/yc-tech-stacks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "bootload",
+    "descendants": 99,
+    "time": 1471301869
   },
   {
     "rank": 3,
     "id": 12294350,
     "title": "Go 1.7 is released",
     "url": "https://blog.golang.org/go1.7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "techietim",
+    "descendants": 133,
+    "time": 1471303720
   },
   {
     "rank": 4,
     "id": 12294976,
     "title": "This Is Your Life in Silicon Valley",
     "url": "https://medium.com/@subes01/this-is-your-life-in-silicon-valley-933091235095",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 480,
+    "by": "jaytaylor",
+    "descendants": 173,
+    "time": 1471312242
   },
   {
     "rank": 5,
     "id": 12295608,
     "title": "Google Duo, a simple 1-to-1 video calling app",
     "url": "https://googleblog.blogspot.com/2016/08/meet-google-duo-simple-1-to-1-video.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "thm",
+    "descendants": 364,
+    "time": 1471323139
   },
   {
     "rank": 6,
     "id": 12296000,
     "title": "Colorized man pages",
     "url": "http://boredzo.org/blog/archives/2016-08-15/colorized-man-pages-understood-and-customized",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "ingve",
+    "descendants": 98,
+    "time": 1471331666
   },
   {
     "rank": 7,
     "id": 12296798,
     "title": "Snowden: Hack of an NSA server is not unprecedented, publication of the take is",
     "url": "https://twitter.com/Snowden/status/765513662597623808",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "ajdlinux",
+    "descendants": 229,
+    "time": 1471348451
   },
   {
     "rank": 8,
     "id": 12296974,
     "title": "Fake Linus Torvalds' Key Found in the Wild, No More Short-IDs",
     "url": "https://lkml.org/lkml/2016/8/15/445",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "demiol",
+    "descendants": 127,
+    "time": 1471350485
   },
   {
     "rank": 9,
     "id": 12297113,
     "title": "Debian turns 23",
     "url": "https://bits.debian.org/2016/08/debian-turns-23.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "fcambus",
+    "descendants": 52,
+    "time": 1471352006
   },
   {
     "rank": 10,
     "id": 12298898,
     "title": "Optimism",
     "url": "https://github.com/raganwald/presentations/blob/master/optimism.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 617,
+    "by": "finnigja",
+    "descendants": 160,
+    "time": 1471367438
   }
 ]

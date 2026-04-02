@@ -4,99 +4,99 @@
     "id": 12262564,
     "title": "Microsoft proves backdoor keys are a bad idea",
     "url": "http://www.theregister.co.uk/2016/08/10/microsoft_secure_boot_ms16_100/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "ChuckMcM",
+    "descendants": 100,
+    "time": 1470843725
   },
   {
     "rank": 2,
     "id": 12264321,
     "title": "\u201cCPUs are optimized for video games\u201d",
     "url": "https://moderncrypto.org/mail-archive/noise/2016/000699.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "zx2c4",
+    "descendants": 336,
+    "time": 1470858203
   },
   {
     "rank": 3,
     "id": 12265762,
     "title": "Unsafe levels of toxic chemicals found in drinking water for 6M Americans",
     "url": "https://www.hsph.harvard.edu/news/press-releases/toxic-chemicals-drinking-water/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "upen",
+    "descendants": 147,
+    "time": 1470878106
   },
   {
     "rank": 4,
     "id": 12267124,
     "title": "How the Arab World Came Apart",
     "url": "http://www.nytimes.com/interactive/2016/08/11/magazine/isis-middle-east-arab-spring-fractured-lands.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "s3b",
+    "descendants": 330,
+    "time": 1470910602
   },
   {
     "rank": 5,
     "id": 12268107,
     "title": "Why we won't be selling Genuino or Arduino any more",
     "url": "http://blog.pimoroni.com/why-we-wont-be-selling-genuino-arduino-any-more/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "whiskers",
+    "descendants": 242,
+    "time": 1470922912
   },
   {
     "rank": 6,
     "id": 12268362,
     "title": "What I learned as a hired consultant to autodidact physicists",
     "url": "https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 563,
+    "by": "tbrownaw",
+    "descendants": 318,
+    "time": 1470924840
   },
   {
     "rank": 7,
     "id": 12268737,
     "title": "AWS Application Load Balancer",
     "url": "https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "rjsamson",
+    "descendants": 130,
+    "time": 1470927668
   },
   {
     "rank": 8,
     "id": 12268988,
     "title": "Zero-cost futures in Rust",
     "url": "http://aturon.github.io/blog/2016/08/11/futures/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 930,
+    "by": "steveklabnik",
+    "descendants": 337,
+    "time": 1470929205
   },
   {
     "rank": 9,
     "id": 12269425,
     "title": "Indie Hackers: Learn how developers are making money",
     "url": "https://www.indiehackers.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 971,
+    "by": "csallen",
+    "descendants": 184,
+    "time": 1470931956
   },
   {
     "rank": 10,
     "id": 12269856,
     "title": "React Server",
     "url": "https://react-server.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "uptown",
+    "descendants": 137,
+    "time": 1470934735
   }
 ]

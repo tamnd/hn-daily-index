@@ -4,99 +4,99 @@
     "id": 11970445,
     "title": "Dolphin 5.0 Release",
     "url": "https://dolphin-emu.org/blog/2016/06/24/dolphin-50-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "samuelb",
+    "descendants": 33,
+    "time": 1466781798
   },
   {
     "rank": 2,
     "id": 11971486,
     "title": "\u201cOculus removed the headset check from the DRM in Oculus Runtime 1.5\u201d",
     "url": "https://github.com/LibreVR/Revive/releases/tag/0.6.2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "T-A",
+    "descendants": 153,
+    "time": 1466787741
   },
   {
     "rank": 3,
     "id": 11971491,
     "title": "Ask HN: What is your go-to example for a good REST API?",
     "url": "https://news.ycombinator.com/item?id=11971491",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "goostavos",
+    "descendants": 182,
+    "time": 1466787778
   },
   {
     "rank": 4,
     "id": 11972107,
     "title": "Facebook Bug \u2013 Delete Any Video",
     "url": "http://www.pranavhivarekar.in/2016/06/23/facebooks-bug-delete-any-video-from-facebook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "adamnemecek",
+    "descendants": 43,
+    "time": 1466792154
   },
   {
     "rank": 5,
     "id": 11973232,
     "title": "Comodo has filed for express abandonment of LetsEncrypt trademark applications",
     "url": "https://forums.comodo.com/general-discussion-off-topic-anything-and-everything/trademark-registration-t115968.0.html;msg837505#msg837505",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "FredericJ",
+    "descendants": 93,
+    "time": 1466800410
   },
   {
     "rank": 6,
     "id": 11973365,
     "title": "How to Backdoor Diffie-Hellman",
     "url": "http://eprint.iacr.org/2016/644",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "baby",
+    "descendants": 34,
+    "time": 1466801483
   },
   {
     "rank": 7,
     "id": 11973491,
     "title": "Finding an ATM Skimmer: It pays to be paranoid",
     "url": "https://www.linkedin.com/pulse/finding-atm-skimmer-pays-paranoid-benjamin-tedesco-gcih-pmp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "lxm",
+    "descendants": 138,
+    "time": 1466802496
   },
   {
     "rank": 8,
     "id": 11974922,
     "title": "Infrastructure Software is Dead",
     "url": "https://www.mirantis.com/blog/infrastructure-software-is-dead/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "ctdean",
+    "descendants": 134,
+    "time": 1466822054
   },
   {
     "rank": 9,
     "id": 11975560,
     "title": "A book series on JavaScript",
     "url": "https://github.com/getify/You-Dont-Know-JS",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "hitr",
+    "descendants": 105,
+    "time": 1466839249
   },
   {
     "rank": 10,
     "id": 11975695,
     "title": "The problem with reinforced concrete",
     "url": "https://theconversation.com/the-problem-with-reinforced-concrete-56078",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "danfru",
+    "descendants": 147,
+    "time": 1466844209
   }
 ]

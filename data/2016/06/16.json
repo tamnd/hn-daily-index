@@ -4,99 +4,99 @@
     "id": 11909606,
     "title": "ZFS: Apple\u2019s New Filesystem That Wasn\u2019t",
     "url": "http://dtrace.org/blogs/ahl/2016/06/15/apple_and_zfs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "swills",
+    "descendants": 128,
+    "time": 1466001706
   },
   {
     "rank": 2,
     "id": 11909953,
     "title": "Statistics for Hackers [video]",
     "url": "https://www.youtube.com/watch?v=L5GVOFAYi8k",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "david90",
+    "descendants": 23,
+    "time": 1466005094
   },
   {
     "rank": 3,
     "id": 11912412,
     "title": "Guccifer 2.0: DNC's servers hacked by a lone hacker",
     "url": "https://guccifer2.wordpress.com/2016/06/15/dnc/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "r721",
+    "descendants": 163,
+    "time": 1466027272
   },
   {
     "rank": 4,
     "id": 11913379,
     "title": "The Intel ME subsystem can take over your machine, can't be audited",
     "url": "http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 641,
+    "by": "cylo",
+    "descendants": 271,
+    "time": 1466040355
   },
   {
     "rank": 5,
     "id": 11913629,
     "title": "GitHub Security Update: Reused Password Attack",
     "url": "https://github.com/blog/2190-github-security-update-reused-password-attack",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "ejcx",
+    "descendants": 135,
+    "time": 1466045922
   },
   {
     "rank": 6,
     "id": 11913652,
     "title": "Samsung Acquires Joyent",
     "url": "https://www.joyent.com/blog/samsung-acquires-joyent-a-ctos-perspective",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 787,
+    "by": "yunong",
+    "descendants": 236,
+    "time": 1466046490
   },
   {
     "rank": 7,
     "id": 11915287,
     "title": "Git 2.9 released",
     "url": "https://github.com/blog/2188-git-2-9-has-been-released",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "bootload",
+    "descendants": 77,
+    "time": 1466074499
   },
   {
     "rank": 8,
     "id": 11915656,
     "title": "Contextual Identities on the Web",
     "url": "https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 555,
+    "by": "ronjouch",
+    "descendants": 135,
+    "time": 1466080505
   },
   {
     "rank": 9,
     "id": 11917241,
     "title": "Microsoft is the first big company to say it's serving the legal marijuana trade",
     "url": "http://www.nytimes.com/2016/06/17/business/dealbook/microsoft-following-the-clouds-to-offer-marijuana-tracking-software.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 501,
+    "by": "ghshephard",
+    "descendants": 215,
+    "time": 1466095298
   },
   {
     "rank": 10,
     "id": 11918553,
     "title": "Buffer Layoffs",
     "url": "https://open.buffer.com/layoffs-and-moving-forward/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 593,
+    "by": "aarondf",
+    "descendants": 406,
+    "time": 1466107992
   }
 ]

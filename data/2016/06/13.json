@@ -4,99 +4,99 @@
     "id": 11890229,
     "title": "A SoundCloud client in React and Redux",
     "url": "http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "rwieruch",
+    "descendants": 69,
+    "time": 1465765619
   },
   {
     "rank": 2,
     "id": 11890991,
     "title": "Show HN: I made a database of remote companies",
     "url": "https://remotebase.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 747,
+    "by": "stockkid",
+    "descendants": 114,
+    "time": 1465776777
   },
   {
     "rank": 3,
     "id": 11891053,
     "title": "Walgreen Terminates Partnership with Theranos",
     "url": "http://www.wsj.com/article_email/walgreen-terminates-partnership-with-blood-testing-firm-theranos-1465777062-lMyQjAxMTE2MDE5MzExMjM4Wj",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "dhawalhs",
+    "descendants": 143,
+    "time": 1465778208
   },
   {
     "rank": 4,
     "id": 11892030,
     "title": "The case for memory-mapped GPU assets",
     "url": "https://www.facebook.com/permalink.php?story_fbid=1799575323610310&id=100006735798590",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "ingve",
+    "descendants": 140,
+    "time": 1465799442
   },
   {
     "rank": 5,
     "id": 11892782,
     "title": "A Plan for a Long-Term Stock Exchange",
     "url": "http://www.bloomberg.com/news/articles/2016-06-12/silicon-valley-s-audacious-plan-to-create-a-new-stock-exchange",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "jackgavigan",
+    "descendants": 114,
+    "time": 1465813885
   },
   {
     "rank": 6,
     "id": 11893153,
     "title": "Microsoft to acquire LinkedIn for $26B",
     "url": "http://news.microsoft.com/2016/06/13/microsoft-to-acquire-linkedin/#sm.0000pigrxf7dne36z7o2gp4nrghse",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2049,
+    "by": "whatok",
+    "descendants": 833,
+    "time": 1465821270
   },
   {
     "rank": 7,
     "id": 11893237,
     "title": "Ask HN: I don't enjoy being a CTO.  Now what?",
     "url": "https://news.ycombinator.com/item?id=11893237",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "unhappycto",
+    "descendants": 219,
+    "time": 1465821939
   },
   {
     "rank": 8,
     "id": 11893923,
     "title": "Killing the 3.5mm Jack: How Simple Is Changing into Needlessly Complicated",
     "url": "http://www.xda-developers.com/killing-the-port-how-simple-is-changing-into-needlessly-complicated/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "lost_name",
+    "descendants": 300,
+    "time": 1465826555
   },
   {
     "rank": 9,
     "id": 11895750,
     "title": "OS X is now macOS and gets support for Siri, auto unlock",
     "url": "http://techcrunch.com/2016/06/13/os-x-is-now-macos-and-gets-support-for-siri-auto-unlock-and-more/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "tilt",
+    "descendants": 564,
+    "time": 1465840355
   },
   {
     "rank": 10,
     "id": 11896785,
     "title": "Apple File System",
     "url": "https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40016999",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1094,
+    "by": "sirn",
+    "descendants": 393,
+    "time": 1465846856
   }
 ]

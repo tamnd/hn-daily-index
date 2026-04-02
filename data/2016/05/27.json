@@ -4,99 +4,99 @@
     "id": 11776190,
     "title": "FPGA Webserver",
     "url": "https://github.com/hamsternz/FPGA_Webserver",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "luu",
+    "descendants": 97,
+    "time": 1464246918
   },
   {
     "rank": 2,
     "id": 11777472,
     "title": "Comparing Git Workflows",
     "url": "https://www.atlassian.com/git/tutorials/comparing-workflows",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "AJAlabs",
+    "descendants": 101,
+    "time": 1464266808
   },
   {
     "rank": 3,
     "id": 11779666,
     "title": "Announcing Rust 1.9",
     "url": "http://blog.rust-lang.org/2016/05/26/Rust-1.9.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "steveklabnik",
+    "descendants": 64,
+    "time": 1464282791
   },
   {
     "rank": 4,
     "id": 11780457,
     "title": "Person carrying bacteria resistant to antibiotics of last resort found in U.S.",
     "url": "https://www.washingtonpost.com/news/to-your-health/wp/2016/05/26/the-superbug-that-doctors-have-been-dreading-just-reached-the-u-s/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "dak1",
+    "descendants": 207,
+    "time": 1464288303
   },
   {
     "rank": 5,
     "id": 11781915,
     "title": "Symantec Issues Intermediate CA Certificate for Blue Coat Public Services",
     "url": "https://crt.sh/?id=19538258",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "AaronFriel",
+    "descendants": 115,
+    "time": 1464299066
   },
   {
     "rank": 6,
     "id": 11784362,
     "title": "Apps made for one OS shouldn't insist on aping the design elements of another",
     "url": "http://www.macworld.com/article/3075537/ios/google-is-making-the-same-mistake-now-that-microsoft-did-in-the-90s.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "okket",
+    "descendants": 232,
+    "time": 1464332073
   },
   {
     "rank": 7,
     "id": 11786039,
     "title": "FBI raids dental software researcher who discovered patient data on FTP server",
     "url": "http://www.dailydot.com/politics/justin-shafer-fbi-raid/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "corywright",
+    "descendants": 163,
+    "time": 1464357443
   },
   {
     "rank": 8,
     "id": 11786297,
     "title": "How I turned \u201cStreet Sharks\u201d into an online social experiment",
     "url": "http://www.geek.com/news/how-i-used-lies-about-a-cartoon-to-prove-history-is-meaningless-on-the-internet-1656188/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "danso",
+    "descendants": 109,
+    "time": 1464359802
   },
   {
     "rank": 9,
     "id": 11787083,
     "title": "Crying",
     "url": "http://www.robinwe.is/explorations/cry.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 672,
+    "by": "sinak",
+    "descendants": 242,
+    "time": 1464366569
   },
   {
     "rank": 10,
     "id": 11787271,
     "title": "All European scientific publicly funded articles to be freely accessible by 2020",
     "url": "http://english.eu2016.nl/latest/news/2016/05/27/all-european-scientific-articles-to-be-freely-accessible-by-2020",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1167,
+    "by": "whazor",
+    "descendants": 133,
+    "time": 1464368106
   }
 ]

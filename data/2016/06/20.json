@@ -4,99 +4,99 @@
     "id": 11934457,
     "title": "APFS in Detail",
     "url": "http://dtrace.org/blogs/ahl/2016/06/19/apfs-part1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "knweiss",
+    "descendants": 94,
+    "time": 1466366983
   },
   {
     "rank": 2,
     "id": 11934826,
     "title": "We\u2019re pretty happy with SQLite and not urgently interested in a fancier DBMS",
     "url": "http://beets.io/blog/sqlite-performance.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "samps",
+    "descendants": 146,
+    "time": 1466372559
   },
   {
     "rank": 3,
     "id": 11935665,
     "title": "How Diane Greene Transformed Google's Cloud",
     "url": "http://www.businessinsider.com/how-diane-greene-transformed-googles-cloud-2016-6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "dwynings",
+    "descendants": 95,
+    "time": 1466387652
   },
   {
     "rank": 4,
     "id": 11937132,
     "title": "Ask HN: Profitable SaaS? How did you grow your business?",
     "url": "https://news.ycombinator.com/item?id=11937132",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "hackathonguy",
+    "descendants": 109,
+    "time": 1466418306
   },
   {
     "rank": 5,
     "id": 11937926,
     "title": "Hello, Tensorflow",
     "url": "https://www.oreilly.com/learning/hello-tensorflow",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "lobsterdog",
+    "descendants": 41,
+    "time": 1466429989
   },
   {
     "rank": 6,
     "id": 11938415,
     "title": "Member of The European Union",
     "url": "https://gowers.wordpress.com/2016/06/02/6172/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "matthewrudy",
+    "descendants": 198,
+    "time": 1466434612
   },
   {
     "rank": 7,
     "id": 11939147,
     "title": "Docker Betas for AWS, Azure, Mac, and Windows",
     "url": "https://blog.docker.com/2016/06/azure-aws-beta/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "petemill",
+    "descendants": 105,
+    "time": 1466440685
   },
   {
     "rank": 8,
     "id": 11939420,
     "title": "Scammers Game Amazon A-Z Policy By Replacing iPhones With Clay",
     "url": "http://coryklein.com/2016/06/20/scammers-replacing-iphones-with-clay.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "coryfklein",
+    "descendants": 231,
+    "time": 1466442906
   },
   {
     "rank": 9,
     "id": 11939557,
     "title": "The Monaco Code Editor",
     "url": "https://microsoft.github.io/monaco-editor/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 724,
+    "by": "algorithmsRcool",
+    "descendants": 170,
+    "time": 1466443924
   },
   {
     "rank": 10,
     "id": 11939851,
     "title": "Alan Kay has agreed to do an AMA today",
     "url": "https://news.ycombinator.com/item?id=11939851",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1401,
+    "by": "alankay",
+    "descendants": 893,
+    "time": 1466445894
   }
 ]

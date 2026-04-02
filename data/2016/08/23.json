@@ -4,99 +4,99 @@
     "id": 12338096,
     "title": "GitLab 8.11 Released with Issue Boards and Merge Conflict Resolution",
     "url": "https://about.gitlab.com/2016/08/22/gitlab-8-11-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "AtroxDev",
+    "descendants": 122,
+    "time": 1471888712
   },
   {
     "rank": 2,
     "id": 12338264,
     "title": "Taking the final wrapper off of Android 7.0 Nougat",
     "url": "http://android-developers.blogspot.com/2016/08/taking-final-wrapper-off-of-nougat.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "raptaml",
+    "descendants": 243,
+    "time": 1471889988
   },
   {
     "rank": 3,
     "id": 12338365,
     "title": "\u201cNode.js is one of the worst things to happen to the software industry\u201d (2012)",
     "url": "http://harmful.cat-v.org/software/node.js",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 624,
+    "by": "behnamoh",
+    "descendants": 552,
+    "time": 1471890831
   },
   {
     "rank": 4,
     "id": 12339902,
     "title": "The Ethernet PAUSE frame",
     "url": "http://jeffq.com/blog/the-ethernet-pause-frame/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "quandry",
+    "descendants": 51,
+    "time": 1471904864
   },
   {
     "rank": 5,
     "id": 12340348,
     "title": "Neural network spotted deep inside Samsung's Galaxy S7 silicon brain",
     "url": "http://www.theregister.co.uk/2016/08/22/samsung_m1_core/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "dragonbonheur",
+    "descendants": 99,
+    "time": 1471911141
   },
   {
     "rank": 6,
     "id": 12340469,
     "title": "HoloLens secret sauce: A 28nm customized 24-core DSP engine built by TSMC",
     "url": "http://www.theregister.co.uk/2016/08/22/microsoft_hololens_hpu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "runesoerensen",
+    "descendants": 132,
+    "time": 1471912628
   },
   {
     "rank": 7,
     "id": 12342659,
     "title": "July was the hottest month ever recorded, according to Nasa",
     "url": "http://www.nytimes.com/interactive/2016/08/20/sunday-review/climate-change-hot-future.html?_r=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "MarkEthan",
+    "descendants": 502,
+    "time": 1471949046
   },
   {
     "rank": 8,
     "id": 12344646,
     "title": "Python JITs are coming",
     "url": "https://lwn.net/Articles/691070/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "Derbasti",
+    "descendants": 160,
+    "time": 1471967278
   },
   {
     "rank": 9,
     "id": 12345283,
     "title": "Instapaper is joining Pinterest",
     "url": "http://blog.instapaper.com/post/149374303661",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "ropiku",
+    "descendants": 208,
+    "time": 1471971904
   },
   {
     "rank": 10,
     "id": 12345693,
     "title": "Web Scraping in 2016",
     "url": "https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 852,
+    "by": "franciskim",
+    "descendants": 387,
+    "time": 1471974229
   }
 ]

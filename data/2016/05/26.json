@@ -4,99 +4,99 @@
     "id": 11768980,
     "title": "A2: Analog Malicious Hardware",
     "url": "http://www.impedimenttoprogress.com/storage/publications/A2_SP_2016.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "ltcode",
+    "descendants": 94,
+    "time": 1464175741
   },
   {
     "rank": 2,
     "id": 11772686,
     "title": "Nix as OS X Package Manager",
     "url": "http://ariya.ofilabs.com/2016/05/nix-as-os-x-package-manager.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "ingve",
+    "descendants": 204,
+    "time": 1464206934
   },
   {
     "rank": 3,
     "id": 11772912,
     "title": "LinkedIn called me a white supremacist because I happen to share a name with one",
     "url": "http://www.slate.com/articles/technology/technology/2016/05/linkedin_called_me_a_white_supremacist.html?wpsrc=sh_all_dt_tw_ru",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "tptacek",
+    "descendants": 179,
+    "time": 1464208921
   },
   {
     "rank": 4,
     "id": 11774102,
     "title": "Reddit launches image uploads, ditching alliance with Imgur",
     "url": "http://techcrunch.com/2016/05/25/reddit-image-uploads/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 501,
+    "by": "coloneltcb",
+    "descendants": 398,
+    "time": 1464220241
   },
   {
     "rank": 5,
     "id": 11774351,
     "title": "Housing in the Bay Area",
     "url": "http://blog.samaltman.com/housing-in-the-bay-area",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "dwaxe",
+    "descendants": 387,
+    "time": 1464223384
   },
   {
     "rank": 6,
     "id": 11775497,
     "title": "Visiting Chelsea Manning in prison",
     "url": "https://zyan.scripts.mit.edu/blog/xychelsea/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "rdl",
+    "descendants": 171,
+    "time": 1464237761
   },
   {
     "rank": 7,
     "id": 11778077,
     "title": "Show HN: Automatic private time tracking for OS X",
     "url": "https://qotoqot.com/qbserve/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "ivm",
+    "descendants": 233,
+    "time": 1464271978
   },
   {
     "rank": 8,
     "id": 11778663,
     "title": "React Tutorial: Cloning Yelp",
     "url": "https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 521,
+    "by": "jashmenn",
+    "descendants": 245,
+    "time": 1464276515
   },
   {
     "rank": 9,
     "id": 11779453,
     "title": "Twilio S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1447669/000104746916013448/a2227414zs-1.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "kressaty",
+    "descendants": 211,
+    "time": 1464281498
   },
   {
     "rank": 10,
     "id": 11781053,
     "title": "Jury in Oracle v. Google finds in Google's favour",
     "url": "https://twitter.com/sarahjeong/status/735924335412543488",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1832,
+    "by": "LukeB_UK",
+    "descendants": 393,
+    "time": 1464293109
   }
 ]

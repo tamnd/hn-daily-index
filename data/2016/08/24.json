@@ -4,99 +4,99 @@
     "id": 12344995,
     "title": "gRPC: Internet-scale RPC framework is now 1.0",
     "url": "https://cloudplatform.googleblog.com/2016/08/gRPC-a-true-Internet-scale-RPC-framework-is-now-1-and-ready-for-production-deployments.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "vtalwar",
+    "descendants": 108,
+    "time": 1471969674
   },
   {
     "rank": 2,
     "id": 12346792,
     "title": "New Tesla Model S Now the Quickest Production Car",
     "url": "https://www.tesla.com/blog/new-tesla-model-s-now-quickest-production-car-world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "obi1kenobi",
+    "descendants": 209,
+    "time": 1471980893
   },
   {
     "rank": 3,
     "id": 12347558,
     "title": "Don't Read the Comments",
     "url": "http://blog.samaltman.com/dont-read-the-comments",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "dwaxe",
+    "descendants": 173,
+    "time": 1471985772
   },
   {
     "rank": 4,
     "id": 12348756,
     "title": "Ask HN: Failed interview, feeling unemployable and depressed \u2013 what do I do?",
     "url": "https://news.ycombinator.com/item?id=12348756",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "deathbysw123",
+    "descendants": 234,
+    "time": 1471997132
   },
   {
     "rank": 5,
     "id": 12349384,
     "title": "Types",
     "url": "https://gist.github.com/garybernhardt/122909856b570c5c457a6cd674795a9c?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "ivank",
+    "descendants": 192,
+    "time": 1472007622
   },
   {
     "rank": 6,
     "id": 12350522,
     "title": "Why You Should Learn Python",
     "url": "https://iluxonchik.github.io/why-you-should-learn-python/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "LaSombra",
+    "descendants": 319,
+    "time": 1472026589
   },
   {
     "rank": 7,
     "id": 12350599,
     "title": "A few HTML tips",
     "url": "https://hacks.mozilla.org/2016/08/a-few-html-tips/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 501,
+    "by": "nachtigall",
+    "descendants": 174,
+    "time": 1472027926
   },
   {
     "rank": 8,
     "id": 12350890,
     "title": "Why GNU grep is fast (2010)",
     "url": "https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "mozumder",
+    "descendants": 145,
+    "time": 1472033330
   },
   {
     "rank": 9,
     "id": 12351660,
     "title": "The Imposter's Handbook",
     "url": "https://impostershandbook.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "isp",
+    "descendants": 227,
+    "time": 1472043613
   },
   {
     "rank": 10,
     "id": 12353441,
     "title": "Planet Found in Habitable Zone Around Nearest Star",
     "url": "https://www.eso.org/public/news/eso1629/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1187,
+    "by": "Thorondor",
+    "descendants": 427,
+    "time": 1472058044
   }
 ]

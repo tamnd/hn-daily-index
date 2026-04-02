@@ -4,99 +4,99 @@
     "id": 11744763,
     "title": "Scratchapixel: Computer Graphics Programming from Scratch",
     "url": "http://scratchapixel.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "MrHamdulay",
+    "descendants": 70,
+    "time": 1463840557
   },
   {
     "rank": 2,
     "id": 11744875,
     "title": "Charge, a phone company with features for nerds",
     "url": "https://charge.co/for-nerds",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "stanleydrew",
+    "descendants": 188,
+    "time": 1463842848
   },
   {
     "rank": 3,
     "id": 11744990,
     "title": "GHC 8.0.1 is available",
     "url": "https://ghc.haskell.org/trac/ghc/blog/ghc-8.0.1-released",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "patrickmn",
+    "descendants": 36,
+    "time": 1463844650
   },
   {
     "rank": 4,
     "id": 11745107,
     "title": "Blue. No, Yellow",
     "url": "http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "nikbackm",
+    "descendants": 202,
+    "time": 1463846424
   },
   {
     "rank": 5,
     "id": 11746343,
     "title": "Uber users with low phone batteries more likely to accept surge pricing",
     "url": "http://www.cbc.ca/news/technology/uber-surge-pricing-1.3593940",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "dgudkov",
+    "descendants": 232,
+    "time": 1463867522
   },
   {
     "rank": 6,
     "id": 11747110,
     "title": "Two Bytes to $951M",
     "url": "http://baesystemsai.blogspot.com/2016/04/two-bytes-to-951m.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "ernsheong",
+    "descendants": 77,
+    "time": 1463883010
   },
   {
     "rank": 7,
     "id": 11747367,
     "title": "Nigerians Dominate Scrabble Tournaments Using Five-Letter Word Strategy",
     "url": "http://www.wsj.com/articles/for-nigerian-scrabble-stars-short-tops-shorter-1463669734",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "vincentbarr",
+    "descendants": 80,
+    "time": 1463891307
   },
   {
     "rank": 8,
     "id": 11748147,
     "title": "Cling: An Interactive C++ interpreter",
     "url": "https://root.cern.ch/cling",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "indatawetrust",
+    "descendants": 50,
+    "time": 1463916038
   },
   {
     "rank": 9,
     "id": 11748427,
     "title": "$12M stolen from 1,400 convenience store ATMs across Japan in 2 hours",
     "url": "http://mainichi.jp/english/articles/20160522/p2g/00m/0dm/044000c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "sjreese",
+    "descendants": 194,
+    "time": 1463921712
   },
   {
     "rank": 10,
     "id": 11749203,
     "title": "My time with Rails is up",
     "url": "http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 716,
+    "by": "lreeves",
+    "descendants": 438,
+    "time": 1463934829
   }
 ]

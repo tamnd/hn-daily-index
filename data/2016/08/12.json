@@ -4,99 +4,99 @@
     "id": 12267709,
     "title": "The People\u2019s Code",
     "url": "https://www.whitehouse.gov/blog/2016/08/08/peoples-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "jonbaer",
+    "descendants": 60,
+    "time": 1470919125
   },
   {
     "rank": 2,
     "id": 12271030,
     "title": "George Orwell, \u201cPolitics and the English Language\u201d (1946)",
     "url": "https://www.mtholyoke.edu/acad/intrel/orwell46.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "Tomte",
+    "descendants": 150,
+    "time": 1470944200
   },
   {
     "rank": 3,
     "id": 12271341,
     "title": "New \u201cLeaf\u201d Is More Efficient Than Natural Photosynthesis",
     "url": "http://www.scientificamerican.com/article/new-bionic-leaf-is-roughly-10-times-more-efficient-than-natural-photosynthesis/?wt.mc=SA_Twitter-Share",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "jseip",
+    "descendants": 130,
+    "time": 1470947356
   },
   {
     "rank": 4,
     "id": 12271354,
     "title": "Fuchsia, a new operating system",
     "url": "https://github.com/fuchsia-mirror",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "helloworld517",
+    "descendants": 165,
+    "time": 1470947514
   },
   {
     "rank": 5,
     "id": 12274564,
     "title": "What Danes consider healthy children\u2019s television",
     "url": "http://www.economist.com/blogs/prospero/2016/08/don-t-need-no-education",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "CraneWorm",
+    "descendants": 195,
+    "time": 1470999209
   },
   {
     "rank": 6,
     "id": 12274749,
     "title": "Lake Nyos suffocated over 1,700 people in one night",
     "url": "http://www.atlasobscura.com/places/lake-nyos-the-deadliest-lake-in-the-world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "vmateixeira",
+    "descendants": 101,
+    "time": 1471001824
   },
   {
     "rank": 7,
     "id": 12274999,
     "title": "Happy 10th birthday pandoc",
     "url": "https://groups.google.com/forum/#!topic/pandoc-discuss/0rutNJAVKoc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "psibi",
+    "descendants": 43,
+    "time": 1471004505
   },
   {
     "rank": 8,
     "id": 12275060,
     "title": "RedHat is hiring people to make linux run better on laptops",
     "url": "https://blogs.gnome.org/uraeus/2016/08/12/want-make-linux-run-better-on-laptops/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "soulbadguy",
+    "descendants": 182,
+    "time": 1471005149
   },
   {
     "rank": 9,
     "id": 12275157,
     "title": "Bi-Directional Replication for PostgreSQL v1.0",
     "url": "http://blog.2ndquadrant.com/bdr-1-0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "eloycoto",
+    "descendants": 91,
+    "time": 1471006324
   },
   {
     "rank": 10,
     "id": 12275240,
     "title": "Automatically closing FIN_WAIT_2 is a violation of the TCP specification",
     "url": "https://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "jgrahamc",
+    "descendants": 32,
+    "time": 1471007022
   }
 ]

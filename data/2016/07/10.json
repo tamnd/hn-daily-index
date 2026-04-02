@@ -4,99 +4,99 @@
     "id": 12060716,
     "title": "Replacing Google with microG",
     "url": "https://lwn.net/Articles/681758/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "em3rgent0rdr",
+    "descendants": 16,
+    "time": 1468054439
   },
   {
     "rank": 2,
     "id": 12060787,
     "title": "Mozilla Fathom: Find meaning in the web",
     "url": "https://github.com/mozilla/fathom",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "gfortaine",
+    "descendants": 47,
+    "time": 1468057304
   },
   {
     "rank": 3,
     "id": 12062294,
     "title": "Simple questions to help reduce AI hype",
     "url": "http://smerity.com/articles/2016/ml_not_magic.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "apathy",
+    "descendants": 33,
+    "time": 1468084469
   },
   {
     "rank": 4,
     "id": 12062474,
     "title": "Tech workers think Silicon Valley and startups are losing their luster",
     "url": "http://qz.com/727855/silicon-valley-tech-workers-see-startups-and-silicon-valley-losing-their-luster/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "prostoalex",
+    "descendants": 323,
+    "time": 1468086609
   },
   {
     "rank": 5,
     "id": 12062562,
     "title": "The DOOM 3 Network Architecture (2006) [pdf]",
     "url": "http://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "yarapavan",
+    "descendants": 33,
+    "time": 1468088024
   },
   {
     "rank": 6,
     "id": 12062986,
     "title": "Avalonia \u2013 A multi-platform .NET UI framework",
     "url": "https://github.com/AvaloniaUI/Avalonia",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "hitr",
+    "descendants": 66,
+    "time": 1468093866
   },
   {
     "rank": 7,
     "id": 12062988,
     "title": "Has Physics Gotten Something Really Important Really Wrong?",
     "url": "http://www.npr.org/sections/13.7/2016/06/28/483805061/has-physics-gotten-something-really-important-really-wrong",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "danielam",
+    "descendants": 337,
+    "time": 1468093907
   },
   {
     "rank": 8,
     "id": 12064022,
     "title": "Rustls: new, modern TLS library written in Rust",
     "url": "https://github.com/ctz/rustls",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "adamnemecek",
+    "descendants": 108,
+    "time": 1468110926
   },
   {
     "rank": 9,
     "id": 12065217,
     "title": "Writing an editor in less than 1000 lines of code, just for fun",
     "url": "http://antirez.com/news/108",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 535,
+    "by": "dwaxe",
+    "descendants": 139,
+    "time": 1468148412
   },
   {
     "rank": 10,
     "id": 12065355,
     "title": "Ask HN: Single Person startup/company?",
     "url": "https://news.ycombinator.com/item?id=12065355",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "dhruvkar",
+    "descendants": 389,
+    "time": 1468152461
   }
 ]

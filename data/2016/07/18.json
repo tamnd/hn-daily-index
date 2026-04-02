@@ -4,99 +4,99 @@
     "id": 12111597,
     "title": "Ask HN: Insider history of the demise of Kodak?",
     "url": "https://news.ycombinator.com/item?id=12111597",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "lawpoop",
+    "descendants": 229,
+    "time": 1468786458
   },
   {
     "rank": 2,
     "id": 12112352,
     "title": "Google will use Chrome browsing data for ad tailoring",
     "url": "https://twitter.com/phlsa/status/754337623964053504",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "dchest",
+    "descendants": 200,
+    "time": 1468796980
   },
   {
     "rank": 3,
     "id": 12112363,
     "title": "SpaceX Picks Rocket for First Relaunch",
     "url": "http://fortune.com/2016/07/17/spacex-rocket-for-first-relaunch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "ValG",
+    "descendants": 102,
+    "time": 1468797133
   },
   {
     "rank": 4,
     "id": 12112850,
     "title": "SoftBank Group Nears Deal to Buy ARM Holdings",
     "url": "http://www.nytimes.com/2016/07/18/business/dealbook/softbank-group-nears-deal-to-buy-arm-holdings.html?_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "anyfoo",
+    "descendants": 98,
+    "time": 1468806869
   },
   {
     "rank": 5,
     "id": 12113346,
     "title": "Donkey \u2013 A computer game included with early versions of PC DOS",
     "url": "https://github.com/coding-horror/donkey.bas/blob/master/donkey.bas",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "mondaine",
+    "descendants": 173,
+    "time": 1468819246
   },
   {
     "rank": 6,
     "id": 12114185,
     "title": "What ever happened to Wordstar?",
     "url": "http://www.dvorak.org/blog/whatever-happened-to-wordstar-2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "DanBC",
+    "descendants": 169,
+    "time": 1468837310
   },
   {
     "rank": 7,
     "id": 12114440,
     "title": "Vulkan Tutorial",
     "url": "https://vulkan-tutorial.com/Introduction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "Bambo",
+    "descendants": 87,
+    "time": 1468841513
   },
   {
     "rank": 8,
     "id": 12114681,
     "title": "Is full-time work bad for our brains?",
     "url": "http://www.bbc.com/capital/story/20160714-is-full-time-work-bad-for-our-brains",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "bojo",
+    "descendants": 212,
+    "time": 1468845526
   },
   {
     "rank": 9,
     "id": 12114716,
     "title": "D4 \u2013 Declarative Data-Driven Documents",
     "url": "https://d4.js.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "joelburget",
+    "descendants": 79,
+    "time": 1468846063
   },
   {
     "rank": 10,
     "id": 12115128,
     "title": "Serverless Architectures",
     "url": "http://martinfowler.com/articles/serverless.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 477,
+    "by": "runesoerensen",
+    "descendants": 202,
+    "time": 1468851357
   }
 ]

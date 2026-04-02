@@ -4,99 +4,99 @@
     "id": 12238440,
     "title": "Sheriff Raids House to Find Anonymous Blogger Who Called Him Corrupt",
     "url": "https://theintercept.com/2016/08/04/sheriff-raids-house-to-find-anonymous-blogger-who-called-him-corrupt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "guiambros",
+    "descendants": 77,
+    "time": 1470497942
   },
   {
     "rank": 2,
     "id": 12238498,
     "title": "A x64 OS #1: UEFI",
     "url": "http://kazlauskas.me/entries/x64-uefi-os-1.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "based2",
+    "descendants": 66,
+    "time": 1470498788
   },
   {
     "rank": 3,
     "id": 12240093,
     "title": "The 39th Root of 92",
     "url": "http://bit-player.org/2016/the-39th-root-of-92",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "bit-player",
+    "descendants": 118,
+    "time": 1470520688
   },
   {
     "rank": 4,
     "id": 12240253,
     "title": "IBM Watson correctly diagnoses a form of leukemia",
     "url": "http://siliconangle.com/blog/2016/08/05/watson-correctly-diagnoses-woman-after-doctors-were-stumped/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "adamnemecek",
+    "descendants": 76,
+    "time": 1470524016
   },
   {
     "rank": 5,
     "id": 12240542,
     "title": "Show HN: Gping.io \u2013 Like TinyURL for your car",
     "url": "http://gping.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "dustball",
+    "descendants": 75,
+    "time": 1470530644
   },
   {
     "rank": 6,
     "id": 12240722,
     "title": "\u201cOur primary goal is to un-fork the Tor Browser\u201d",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1173199#c31",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "dao-",
+    "descendants": 114,
+    "time": 1470535141
   },
   {
     "rank": 7,
     "id": 12241332,
     "title": "Show HN: Cuckoo Filter Implementation in Go, Better Than Bloom Filters",
     "url": "https://github.com/irfansharif/cfilter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "irfansharif",
+    "descendants": 30,
+    "time": 1470552937
   },
   {
     "rank": 8,
     "id": 12242095,
     "title": "Software Library: Amiga",
     "url": "https://archive.org/details/softwarelibrary_amiga&tab=collection",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "ohjeez",
+    "descendants": 65,
+    "time": 1470578492
   },
   {
     "rank": 9,
     "id": 12242311,
     "title": "Google Outpaces Facebook on Getting India Connected to Internet",
     "url": "http://www.bloomberg.com/news/articles/2016-08-05/google-outpaces-facebook-on-getting-india-connected-to-internet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "JumpCrisscross",
+    "descendants": 172,
+    "time": 1470583632
   },
   {
     "rank": 10,
     "id": 12242448,
     "title": "Apple should stop selling four-year-old computers",
     "url": "http://www.theverge.com/2016/8/4/12373776/2012-macbook-pro-still-alive-not-dead-why",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "doener",
+    "descendants": 437,
+    "time": 1470586066
   }
 ]
