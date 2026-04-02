@@ -12,15 +12,15 @@ Top 10 Hacker News stories for each day in April 2026.
 *Thursday*
 
 1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 116 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [67 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 109 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [51 comments](https://news.ycombinator.com/item?id=47612601)
-3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 82 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [18 comments](https://news.ycombinator.com/item?id=47611481)
+2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 109 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [52 comments](https://news.ycombinator.com/item?id=47612601)
+3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 84 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [18 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 966 points by [apitman](https://news.ycombinator.com/user?id=apitman), [818 comments](https://news.ycombinator.com/item?id=47603657)
 5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 45 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [15 comments](https://news.ycombinator.com/item?id=47611921)
 6. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 65 points by [luu](https://news.ycombinator.com/user?id=luu), [29 comments](https://news.ycombinator.com/item?id=47582987)
 7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 179 points by [jaden](https://news.ycombinator.com/user?id=jaden), [57 comments](https://news.ycombinator.com/item?id=47609694)
 8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 66 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [21 comments](https://news.ycombinator.com/item?id=47596739)
 9. [Enabling Codex to Analyze Two Decades of Hacker News Data](https://modolap.com/publication/hn-analysis-1) (modolap.com) - 8 points by [ronfriedhaber](https://news.ycombinator.com/user?id=ronfriedhaber), [2 comments](https://news.ycombinator.com/item?id=47612558)
-10. [Reinventing the Pull Request](https://lubeno.dev/blog/reinventing-the-pull-request) (lubeno.dev) - 17 points by [bkolobara](https://news.ycombinator.com/user?id=bkolobara), [12 comments](https://news.ycombinator.com/item?id=47540441)
+10. [Reinventing the Pull Request](https://lubeno.dev/blog/reinventing-the-pull-request) (lubeno.dev) - 17 points by [bkolobara](https://news.ycombinator.com/user?id=bkolobara), [13 comments](https://news.ycombinator.com/item?id=47540441)
 
 ## 2026-04-01
 

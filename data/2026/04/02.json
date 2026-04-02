@@ -16,7 +16,7 @@
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
     "score": 109,
     "by": "novaRom",
-    "descendants": 51,
+    "descendants": 52,
     "time": 1775127000
   },
   {
@@ -24,7 +24,7 @@
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 82,
+    "score": 84,
     "by": "smartmic",
     "descendants": 18,
     "time": 1775117951
@@ -96,7 +96,7 @@
     "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
     "score": 17,
     "by": "bkolobara",
-    "descendants": 12,
+    "descendants": 13,
     "time": 1774602269
   }
 ]
