@@ -4,9 +4,9 @@
     "id": 47613981,
     "title": "LinkedIn Is Illegally Searching Your Computer",
     "url": "https://browsergate.eu/",
-    "score": 145,
+    "score": 146,
     "by": "digitalWestie",
-    "descendants": 49,
+    "descendants": 51,
     "time": 1775135349
   },
   {
@@ -44,7 +44,7 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 158,
+    "score": 159,
     "by": "bonzini",
     "descendants": 92,
     "time": 1775119724
@@ -54,7 +54,7 @@
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 90,
+    "score": 91,
     "by": "stratos123",
     "descendants": 47,
     "time": 1775121258
@@ -76,7 +76,7 @@
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
     "score": 85,
     "by": "luu",
-    "descendants": 39,
+    "descendants": 40,
     "time": 1774933899
   },
   {
@@ -96,7 +96,7 @@
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
     "score": 213,
     "by": "jaden",
-    "descendants": 65,
+    "descendants": 66,
     "time": 1775100933
   }
 ]
