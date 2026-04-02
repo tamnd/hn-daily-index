@@ -4,99 +4,99 @@
     "id": 18104600,
     "title": "Operating Systems: Three Easy Pieces",
     "url": "http://pages.cs.wisc.edu/~remzi/OSTEP/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "jamesjue",
+    "descendants": 26,
+    "time": 1538285144
   },
   {
     "rank": 2,
     "id": 18113890,
     "title": "M.B.A. Applications Decline at Harvard, Wharton, Other Elite Schools",
     "url": "https://www.wsj.com/articles/m-b-a-applications-keep-falling-in-u-s-this-year-hitting-even-elite-schools-1538366461",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "tysone",
+    "descendants": 247,
+    "time": 1538409526
   },
   {
     "rank": 3,
     "id": 18116365,
     "title": "More than 9M broken links on Wikipedia are now rescued",
     "url": "https://blog.archive.org/2018/10/01/more-than-9-million-broken-links-on-wikipedia-are-now-rescued/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 689,
+    "by": "infodocket",
+    "descendants": 100,
+    "time": 1538424610
   },
   {
     "rank": 4,
     "id": 18117755,
     "title": "Sourcegraph is now open source",
     "url": "https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 594,
+    "by": "aranw",
+    "descendants": 93,
+    "time": 1538437815
   },
   {
     "rank": 5,
     "id": 18118641,
     "title": "Vigilante engineer stops Waymo from patenting key lidar technology",
     "url": "https://arstechnica.com/cars/2018/10/lone-engineer-spanks-waymo-in-lidar-patent-battle/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 569,
+    "by": "sonnyblarney",
+    "descendants": 143,
+    "time": 1538451412
   },
   {
     "rank": 6,
     "id": 18119367,
     "title": "Brendan Eich Writes to the US Senate: We Need a GDPR for the United States",
     "url": "https://brave.com/us-gdpr-senate",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "mochtar",
+    "descendants": 227,
+    "time": 1538463743
   },
   {
     "rank": 7,
     "id": 18120221,
     "title": "Amazon raises minimum wage to $15 for all US employees",
     "url": "https://www.cnbc.com/2018/10/02/amazon-raises-minimum-wage-to-15-for-all-us-employees.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 768,
+    "by": "deegles",
+    "descendants": 1006,
+    "time": 1538475234
   },
   {
     "rank": 8,
     "id": 18120322,
     "title": "Coders Automating Their Own Job",
     "url": "https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/?single_page=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 991,
+    "by": "benryon",
+    "descendants": 485,
+    "time": 1538476780
   },
   {
     "rank": 9,
     "id": 18120667,
     "title": "Amazon increases minimum wage for all U.S. workers to $15 an hour",
     "url": "https://techcrunch.com/2018/10/02/amazon-minimum-wage/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 853,
+    "by": "doppp",
+    "descendants": 4,
+    "time": 1538481306
   },
   {
     "rank": 10,
     "id": 18122824,
     "title": "Should you learn C to \u201clearn how the computer works\u201d?",
     "url": "https://words.steveklabnik.com/should-you-learn-c-to-learn-how-the-computer-works",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "steveklabnik",
+    "descendants": 375,
+    "time": 1538495818
   }
 ]

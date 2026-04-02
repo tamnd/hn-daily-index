@@ -4,99 +4,99 @@
     "id": 18262101,
     "title": "Fake review factories that run on Facebook and post five-star Amazon reviews",
     "url": "https://www.theguardian.com/money/2018/oct/20/facebook-fake-amazon-review-factories-uncovered-which-investigation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 598,
+    "by": "sefrost",
+    "descendants": 313,
+    "time": 1540017742
   },
   {
     "rank": 2,
     "id": 18267468,
     "title": "Ask HN: Am I just a wantrepreneur?",
     "url": "https://news.ycombinator.com/item?id=18267468",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "ced83fra",
+    "descendants": 148,
+    "time": 1540119110
   },
   {
     "rank": 3,
     "id": 18267536,
     "title": "An invitation to category theory",
     "url": "http://chalkdustmagazine.com/features/an-invitation-to-category-theory/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "sytelus",
+    "descendants": 57,
+    "time": 1540120722
   },
   {
     "rank": 4,
     "id": 18271180,
     "title": "Status.github.com: \u201cWe're failing over a data storage system\u201d",
     "url": "https://news.ycombinator.com/item?id=18271180",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "donpdonp",
+    "descendants": 159,
+    "time": 1540167178
   },
   {
     "rank": 5,
     "id": 18272928,
     "title": "GitHub: October 21 Incident Report",
     "url": "https://blog.github.com/2018-10-21-october21-incident-report/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "pietroalbini",
+    "descendants": 110,
+    "time": 1540195282
   },
   {
     "rank": 6,
     "id": 18274235,
     "title": "Writing an OS in Rust: Hardware Interrupts",
     "url": "https://os.phil-opp.com/hardware-interrupts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "ingve",
+    "descendants": 63,
+    "time": 1540213167
   },
   {
     "rank": 7,
     "id": 18274663,
     "title": "Announcing the GNU Kind Communication Guidelines",
     "url": "http://lists.gnu.org/archive/html/info-gnu/2018-10/msg00001.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "stargrave",
+    "descendants": 396,
+    "time": 1540216649
   },
   {
     "rank": 8,
     "id": 18275489,
     "title": "WebAssembly\u2019s post-MVP future",
     "url": "https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "steveklabnik",
+    "descendants": 204,
+    "time": 1540222467
   },
   {
     "rank": 9,
     "id": 18275715,
     "title": "Repl.it raises $4.5M from A16Z, Paul Graham, and others",
     "url": "https://repl.it/site/blog/a16z",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "amasad",
+    "descendants": 222,
+    "time": 1540223722
   },
   {
     "rank": 10,
     "id": 18277531,
     "title": "AWS CEO Jassy follows Apple in calling for retraction of Chinese spy chip story",
     "url": "https://www.cnbc.com/2018/10/22/aws-ceo-jassy-follows-apple-calls-for-spy-chip-story-retraction.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "magoghm",
+    "descendants": 267,
+    "time": 1540236259
   }
 ]

@@ -4,99 +4,99 @@
     "id": 18393344,
     "title": "AMD Announces 7nm Rome CPUs and MI60 GPUs",
     "url": "https://www.tomshardware.com/news/amd-new-horizon-7nm-cpu,38029.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "ccwilson10",
+    "descendants": 177,
+    "time": 1541527413
   },
   {
     "rank": 2,
     "id": 18394942,
     "title": "Facebook\u2019s GraphQL gets its own open-source foundation",
     "url": "https://techcrunch.com/2018/11/06/facebooks-graphql-gets-its-own-open-source-foundation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "bodecker",
+    "descendants": 89,
+    "time": 1541538741
   },
   {
     "rank": 3,
     "id": 18395855,
     "title": "VirtualBox E1000 Guest-to-Host Escape",
     "url": "https://github.com/MorteNoir1/virtualbox_e1000_0day",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 577,
+    "by": "kpcyrd",
+    "descendants": 108,
+    "time": 1541547415
   },
   {
     "rank": 4,
     "id": 18396354,
     "title": "WireGuard for iOS",
     "url": "https://lists.zx2c4.com/pipermail/wireguard/2018-November/003526.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "dmmalam",
+    "descendants": 89,
+    "time": 1541552655
   },
   {
     "rank": 5,
     "id": 18396754,
     "title": "Gates Foundation spent $200M funding toilet research",
     "url": "https://www.bloomberg.com/news/articles/2018-11-06/bill-gates-aims-to-save-233-billion-by-reinventing-the-toilet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "aportnoy",
+    "descendants": 273,
+    "time": 1541558417
   },
   {
     "rank": 6,
     "id": 18397380,
     "title": "Reddit AMA on Photopea, a free alternative to Photoshop used by 1.5M people",
     "url": "https://www.reddit.com/r/IAmA/comments/9urjmg/i_made_a_free_alternative_to_photoshop_that_is/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "arikr",
+    "descendants": 179,
+    "time": 1541570625
   },
   {
     "rank": 7,
     "id": 18398342,
     "title": "What if the Placebo Effect Isn\u2019t a Trick?",
     "url": "https://www.nytimes.com/2018/11/07/magazine/placebo-effect-medicine.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "sajid",
+    "descendants": 279,
+    "time": 1541588227
   },
   {
     "rank": 8,
     "id": 18400020,
     "title": "Ask HN: What are some hacks of real founders who did things that don't scale?",
     "url": "https://news.ycombinator.com/item?id=18400020",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 539,
+    "by": "trulykp",
+    "descendants": 265,
+    "time": 1541606896
   },
   {
     "rank": 9,
     "id": 18400158,
     "title": "The Illustrated TLS 1.3 Connection: Every Byte Explained",
     "url": "https://tls13.ulfheim.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "syncsynchalt",
+    "descendants": 44,
+    "time": 1541607945
   },
   {
     "rank": 10,
     "id": 18400988,
     "title": "Zulip Server 1.9: HipChat import and much more",
     "url": "https://blog.zulip.org/2018/11/07/zulip-1-9-released/?n=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "rishig",
+    "descendants": 123,
+    "time": 1541614580
   }
 ]

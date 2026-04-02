@@ -4,99 +4,99 @@
     "id": 18427626,
     "title": "The DEA and ICE are hiding surveillance cameras in streetlights",
     "url": "https://qz.com/1458475/the-dea-and-ice-are-hiding-surveillance-cameras-in-streetlights/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "singularity2001",
+    "descendants": 141,
+    "time": 1541959439
   },
   {
     "rank": 2,
     "id": 18428497,
     "title": "Google Kubernetes Engine's third consecutive day of service disruption",
     "url": "https://status.cloud.google.com/incident/container-engine/18005",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 779,
+    "by": "rlancer",
+    "descendants": 407,
+    "time": 1541969277
   },
   {
     "rank": 3,
     "id": 18428614,
     "title": "The Art Institute of Chicago Has Put 50k High-Res Images Online",
     "url": "https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 624,
+    "by": "malshe",
+    "descendants": 112,
+    "time": 1541970638
   },
   {
     "rank": 4,
     "id": 18429909,
     "title": "A web-based mission control framework by NASA",
     "url": "https://github.com/nasa/openmct",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "____Sash---701_",
+    "descendants": 67,
+    "time": 1541985545
   },
   {
     "rank": 5,
     "id": 18430031,
     "title": "Linux apps running on iOS via userspace x86 emulation and syscall translation",
     "url": "https://ish.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "United857",
+    "descendants": 139,
+    "time": 1541987656
   },
   {
     "rank": 6,
     "id": 18431625,
     "title": "How one family built Qualtrics to an $8B exit",
     "url": "https://www.bloomberg.com/news/articles/2018-11-12/how-one-family-built-8-billion-startup-far-from-silicon-valley",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "adventured",
+    "descendants": 143,
+    "time": 1542017375
   },
   {
     "rank": 7,
     "id": 18432327,
     "title": "Show HN: WriteFreely \u2013 minimalist, federated blogging platform",
     "url": "https://writefreely.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "thebaer",
+    "descendants": 112,
+    "time": 1542027739
   },
   {
     "rank": 8,
     "id": 18433144,
     "title": "Bitwarden Completes Third-Party Security Audit",
     "url": "https://blog.bitwarden.com/bitwarden-completes-third-party-security-audit-c1cc81b6d33",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "drpfenderson",
+    "descendants": 142,
+    "time": 1542036528
   },
   {
     "rank": 9,
     "id": 18433548,
     "title": "The poetry and brief life of a Foxconn worker",
     "url": "https://libcom.org/blog/xulizhi-foxconn-suicide-poetry",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 651,
+    "by": "isomorph",
+    "descendants": 271,
+    "time": 1542040302
   },
   {
     "rank": 10,
     "id": 18434705,
     "title": "Web.dev by Google",
     "url": "https://web.dev",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 699,
+    "by": "mxschumacher",
+    "descendants": 247,
+    "time": 1542048888
   }
 ]

@@ -4,99 +4,99 @@
     "id": 18441179,
     "title": "My App Is Dead in the Water",
     "url": "https://medium.com/@mds6058/my-app-is-dead-in-the-water-93a97a137eff",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "stan503",
+    "descendants": 200,
+    "time": 1542119551
   },
   {
     "rank": 2,
     "id": 18442390,
     "title": "Redox \u2013 A Unix-Like Operating System Written in Rust",
     "url": "https://www.redox-os.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "wtetzner",
+    "descendants": 168,
+    "time": 1542127575
   },
   {
     "rank": 3,
     "id": 18445609,
     "title": "Ask HN: I've been a programmer for 6 years, and I can't solve basic CS problems",
     "url": "https://news.ycombinator.com/item?id=18445609",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "cs0",
+    "descendants": 296,
+    "time": 1542148895
   },
   {
     "rank": 4,
     "id": 18445652,
     "title": "Build a do-it-yourself home air purifier for about $25",
     "url": "https://www.uofmhealth.org/news/sinus-hepa-0630",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 801,
+    "by": "io_io",
+    "descendants": 342,
+    "time": 1542149416
   },
   {
     "rank": 5,
     "id": 18445714,
     "title": "Waymo CEO Says Alphabet Unit Plans to Launch Driverless Car Service",
     "url": "https://www.marketwatch.com/story/waymo-ceo-says-driverless-car-service-coming-soon-2018-11-13",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "sidhanthp",
+    "descendants": 348,
+    "time": 1542149993
   },
   {
     "rank": 6,
     "id": 18446278,
     "title": "Private by Design: How We Built Firefox Sync",
     "url": "https://hacks.mozilla.org/2018/11/firefox-sync-privacy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 529,
+    "by": "feross",
+    "descendants": 174,
+    "time": 1542155806
   },
   {
     "rank": 7,
     "id": 18447589,
     "title": "Chinese Tokamak reaches over 100M degrees",
     "url": "http://english.hf.cas.cn/new/news/rn/201811/t20181113_201186.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "7ero",
+    "descendants": 232,
+    "time": 1542171099
   },
   {
     "rank": 8,
     "id": 18449506,
     "title": "Corretto \u2013 No-cost, multiplatform, developer-preview distribution of OpenJDK",
     "url": "https://aws.amazon.com/fr/corretto/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "Timshel",
+    "descendants": 143,
+    "time": 1542200522
   },
   {
     "rank": 9,
     "id": 18449719,
     "title": "Google accused of 'trust demolition' over health app",
     "url": "https://www.bbc.com/news/technology-46206677",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "0xmohit",
+    "descendants": 198,
+    "time": 1542202644
   },
   {
     "rank": 10,
     "id": 18450846,
     "title": "Mondelez cuts ties with 12 palm oil suppliers, citing deforestation",
     "url": "https://www.supplychaindive.com/news/mondelez-cuts-ties-12-palm-oil-suppliers-deforestation/542100/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "vinnyglennon",
+    "descendants": 138,
+    "time": 1542211301
   }
 ]
