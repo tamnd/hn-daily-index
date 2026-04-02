@@ -4,99 +4,99 @@
     "id": 34347193,
     "title": "Sierra\u2019s Macintosh Timebomb (2021)",
     "url": "https://www.benshoof.org/blog/sierras-macintosh-timebomb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "zdw",
+    "descendants": 61,
+    "time": 1673482922
   },
   {
     "rank": 2,
     "id": 34367767,
     "title": "A 116kb WASM of Blink that lets you run x86_64 Linux binaries in the browser",
     "url": "https://twitter.com/justinetunney/status/1613895681038770182",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "samwillis",
+    "descendants": 69,
+    "time": 1673618325
   },
   {
     "rank": 3,
     "id": 34371073,
     "title": "Alpine Linux in the Browser (2020)",
     "url": "https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "kevmo314",
+    "descendants": 59,
+    "time": 1673631688
   },
   {
     "rank": 4,
     "id": 34372140,
     "title": "Docker 2.0 went from $11M to $135M in 2 years",
     "url": "https://sacra.com/p/docker-plg-pivot/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "smalter",
+    "descendants": 318,
+    "time": 1673635782
   },
   {
     "rank": 5,
     "id": 34373279,
     "title": "What the hell is Forth? (2019)",
     "url": "https://blog.information-superhighway.net/what-the-hell-is-forth",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "harryvederci",
+    "descendants": 123,
+    "time": 1673640959
   },
   {
     "rank": 6,
     "id": 34374710,
     "title": "Docker-OSX: Run macOS VM in a Docker",
     "url": "https://github.com/sickcodes/Docker-OSX",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "axiomdata316",
+    "descendants": 110,
+    "time": 1673648427
   },
   {
     "rank": 7,
     "id": 34374725,
     "title": "Pi-hole: Network-wide ad blocking",
     "url": "https://github.com/pi-hole/pi-hole",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "axiomdata316",
+    "descendants": 276,
+    "time": 1673648551
   },
   {
     "rank": 8,
     "id": 34376276,
     "title": "WInd3x, the iPod Bootrom exploit 10 years too late",
     "url": "https://q3k.org/wInd3x.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "user890104",
+    "descendants": 39,
+    "time": 1673659623
   },
   {
     "rank": 9,
     "id": 34378460,
     "title": "YouTube Addiction",
     "url": "https://www.jntrnr.com/youtube-addiction/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "ingve",
+    "descendants": 401,
+    "time": 1673685349
   },
   {
     "rank": 10,
     "id": 34378756,
     "title": "Always look down in London: Pavement oddities",
     "url": "https://londonist.com/london/secret/look-down",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "zeristor",
+    "descendants": 106,
+    "time": 1673688580
   }
 ]

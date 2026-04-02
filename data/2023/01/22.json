@@ -4,99 +4,99 @@
     "id": 34464512,
     "title": "GNU Octave",
     "url": "https://octave.org/index",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "MonkeyClub",
+    "descendants": 195,
+    "time": 1674284682
   },
   {
     "rank": 2,
     "id": 34467490,
     "title": "My husband was right about DVDs",
     "url": "https://slate.com/technology/2023/01/streaming-libraries-dvds-blu-rays.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "tekdude",
+    "descendants": 405,
+    "time": 1674318138
   },
   {
     "rank": 3,
     "id": 34469078,
     "title": "Vikunja \u2013 Open-source, self-hostable to-do app",
     "url": "https://vikunja.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "fgrsnau",
+    "descendants": 90,
+    "time": 1674327192
   },
   {
     "rank": 4,
     "id": 34472122,
     "title": "What happened with the substation attack in North Carolina?",
     "url": "https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "bumbledraven",
+    "descendants": 229,
+    "time": 1674344375
   },
   {
     "rank": 5,
     "id": 34472549,
     "title": "Microsoft has laid off entire teams behind Virtual, Mixed Reality, and HoloLens",
     "url": "https://www.windowscentral.com/microsoft/microsoft-has-laid-off-entire-teams-behind-virtual-mixed-reality-and-hololens",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "ahiknsr",
+    "descendants": 236,
+    "time": 1674346795
   },
   {
     "rank": 6,
     "id": 34474270,
     "title": "Show HN: New AI edits images based on text instructions",
     "url": "https://github.com/brycedrennan/imaginAIry/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1098,
+    "by": "bryced",
+    "descendants": 227,
+    "time": 1674361545
   },
   {
     "rank": 7,
     "id": 34475005,
     "title": "ChatGPT in an iOS Shortcut: Smart HomeKit Voice Assistant",
     "url": "https://matemarschalko.medium.com/chatgpt-in-an-ios-shortcut-worlds-smartest-homekit-voice-assistant-9a33b780007a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "punnerud",
+    "descendants": 111,
+    "time": 1674369623
   },
   {
     "rank": 8,
     "id": 34476507,
     "title": "Detect breaches with Canary credit cards",
     "url": "https://blog.thinkst.com/2023/01/swipe-right-on-our-new-credit-card-tokens.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "samwillis",
+    "descendants": 147,
+    "time": 1674388638
   },
   {
     "rank": 9,
     "id": 34477928,
     "title": "The contagious visual blandness of Netflix",
     "url": "https://haleynahman.substack.com/p/132-the-contagious-visual-blandness",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "_gfwu",
+    "descendants": 460,
+    "time": 1674399371
   },
   {
     "rank": 10,
     "id": 34477976,
     "title": "Git-sim: Visually simulate Git operations in your own repos",
     "url": "https://initialcommit.com/blog/git-sim",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "todsacerdoti",
+    "descendants": 180,
+    "time": 1674399696
   }
 ]

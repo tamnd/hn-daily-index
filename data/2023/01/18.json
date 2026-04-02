@@ -4,99 +4,99 @@
     "id": 34414527,
     "title": "Ask HN: Has anyone worked at the US National Labs before?",
     "url": "https://news.ycombinator.com/item?id=34414527",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 410,
+    "by": "science4sail",
+    "descendants": 228,
+    "time": 1673972872
   },
   {
     "rank": 2,
     "id": 34414716,
     "title": "Let's build GPT: from scratch, in code, spelled out by Andrej Karpathy [video]",
     "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1110,
+    "by": "georgehill",
+    "descendants": 104,
+    "time": 1673973629
   },
   {
     "rank": 3,
     "id": 34420142,
     "title": "Tailscale bug allowed a person to share nodes from other tailnets without auth",
     "url": "https://tailscale.com/security-bulletins/#ts-2023-001/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "Operyl",
+    "descendants": 124,
+    "time": 1673993408
   },
   {
     "rank": 4,
     "id": 34422627,
     "title": "LangChain: Build AI apps with LLMs through composability",
     "url": "https://github.com/hwchase17/langchain",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "azhenley",
+    "descendants": 76,
+    "time": 1674008173
   },
   {
     "rank": 5,
     "id": 34423557,
     "title": "No Start Menu for You",
     "url": "https://randomascii.wordpress.com/2023/01/17/no-start-menu-for-you/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "jabagawee",
+    "descendants": 272,
+    "time": 1674017602
   },
   {
     "rank": 6,
     "id": 34424854,
     "title": "Thonny \u2013 Python IDE for beginners",
     "url": "https://thonny.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "ankit70",
+    "descendants": 104,
+    "time": 1674033333
   },
   {
     "rank": 7,
     "id": 34426421,
     "title": "OpenAI used Kenyan workers on less than $2 per hour to make ChatGPT less toxic",
     "url": "https://time.com/6247678/openai-chatgpt-kenya-workers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "mkeeter",
+    "descendants": 570,
+    "time": 1674048931
   },
   {
     "rank": 8,
     "id": 34427553,
     "title": "Bitwarden Acquires Passwordless.dev",
     "url": "https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "xxkylexx",
+    "descendants": 391,
+    "time": 1674054696
   },
   {
     "rank": 9,
     "id": 34427604,
     "title": "Rust concepts I wish I learned earlier",
     "url": "https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "rck",
+    "descendants": 170,
+    "time": 1674054876
   },
   {
     "rank": 10,
     "id": 34429502,
     "title": "U.S. military-run slot machines earn $100M a year from service members",
     "url": "https://www.npr.org/2022/07/31/1110882487/dod-slot-machines-overseas-bases",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "geox",
+    "descendants": 263,
+    "time": 1674061800
   }
 ]

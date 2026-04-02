@@ -4,99 +4,99 @@
     "id": 34597125,
     "title": "Instagram\u2019s co-founders are back with Artifact, a kind of TikTok for text",
     "url": "https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "gwill",
+    "descendants": 373,
+    "time": 1675181940
   },
   {
     "rank": 2,
     "id": 34599106,
     "title": "New AI classifier for indicating AI-written text",
     "url": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "davidbarker",
+    "descendants": 337,
+    "time": 1675188674
   },
   {
     "rank": 3,
     "id": 34600126,
     "title": "Hermes: An open-source document management system",
     "url": "https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "shcheklein",
+    "descendants": 163,
+    "time": 1675191991
   },
   {
     "rank": 4,
     "id": 34600985,
     "title": "Tell HN: GitHub will delete your private repo if you lose access to the original",
     "url": "https://news.ycombinator.com/item?id=34600985",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 530,
+    "by": "baobabKoodaa",
+    "descendants": 279,
+    "time": 1675194999
   },
   {
     "rank": 5,
     "id": 34602318,
     "title": "Ask HN: How do you test SQL?",
     "url": "https://news.ycombinator.com/item?id=34602318",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 663,
+    "by": "pcarolan",
+    "descendants": 315,
+    "time": 1675199969
   },
   {
     "rank": 6,
     "id": 34609461,
     "title": "A URL shortener not shortening the URL but makes it look very dodgy",
     "url": "https://github.com/defaultnamehere/verylegit.link",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "sandebert",
+    "descendants": 95,
+    "time": 1675253754
   },
   {
     "rank": 7,
     "id": 34609625,
     "title": "Morning exposure to deep red light improves declining eyesight",
     "url": "https://www.nature.com/articles/s41598-021-02311-1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "elsewhen",
+    "descendants": 212,
+    "time": 1675255023
   },
   {
     "rank": 8,
     "id": 34610686,
     "title": "Show HN: We built a developer-first open-source Zapier alternative",
     "url": "https://trigger.dev",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 745,
+    "by": "eallam",
+    "descendants": 190,
+    "time": 1675260953
   },
   {
     "rank": 9,
     "id": 34614796,
     "title": "ChatGPT Plus",
     "url": "https://openai.com/blog/chatgpt-plus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1155,
+    "by": "davidbarker",
+    "descendants": 972,
+    "time": 1675274928
   },
   {
     "rank": 10,
     "id": 34616511,
     "title": "Easter egg in flight path of last 747 delivery flight",
     "url": "https://www.flightradar24.com/GTI747/2f0b1162",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1544,
+    "by": "eatmyshardz",
+    "descendants": 397,
+    "time": 1675280885
   }
 ]

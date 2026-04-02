@@ -4,99 +4,99 @@
     "id": 34937719,
     "title": "Dow said it was recycling our shoes. We found them at an Indonesian flea market",
     "url": "https://www.reuters.com/investigates/special-report/global-plastic-dow-shoes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "boristhespider",
+    "descendants": 218,
+    "time": 1677341597
   },
   {
     "rank": 2,
     "id": 34938299,
     "title": "Planting Undetectable Backdoors in Machine Learning Models",
     "url": "https://ieeexplore.ieee.org/abstract/document/9996741",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "return_to_monke",
+    "descendants": 75,
+    "time": 1677345196
   },
   {
     "rank": 3,
     "id": 34939053,
     "title": "Using GPT3, Supabase and Pinecone to automate a personalized marketing campaign",
     "url": "https://vimota.me/writing/gpt3-klaviyo-automation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "vimota",
+    "descendants": 62,
+    "time": 1677349356
   },
   {
     "rank": 4,
     "id": 34939421,
     "title": "Bloom's 2 sigma problem",
     "url": "https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "oidar",
+    "descendants": 130,
+    "time": 1677351944
   },
   {
     "rank": 5,
     "id": 34939809,
     "title": "Bizarre and unusual uses of DNS",
     "url": "https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "todsacerdoti",
+    "descendants": 138,
+    "time": 1677354670
   },
   {
     "rank": 6,
     "id": 34940181,
     "title": "Awesome Docker Compose Examples",
     "url": "https://github.com/Haxxnet/Compose-Examples",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "thunderbong",
+    "descendants": 82,
+    "time": 1677357249
   },
   {
     "rank": 7,
     "id": 34940505,
     "title": "SymPy makes math fun again",
     "url": "https://wordsandbuttons.online/sympy_makes_math_fun_again.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "okaleniuk",
+    "descendants": 87,
+    "time": 1677359390
   },
   {
     "rank": 8,
     "id": 34944058,
     "title": "Wolfram Language and Mathematica Free on Every Raspberry Pi",
     "url": "https://www.wolfram.com/raspberry-pi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "punnerud",
+    "descendants": 137,
+    "time": 1677401083
   },
   {
     "rank": 9,
     "id": 34945078,
     "title": "Lab leak most likely origin of Covid-19 pandemic, U.S. agency now says",
     "url": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 983,
+    "by": "cainxinth",
+    "descendants": 980,
+    "time": 1677415302
   },
   {
     "rank": 10,
     "id": 34946877,
     "title": "2D Liquid Simulator with Cellular Automaton (2017)",
     "url": "http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "KqAmJQ7",
+    "descendants": 68,
+    "time": 1677429718
   }
 ]
