@@ -14,7 +14,7 @@
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 63,
+    "score": 64,
     "by": "smartmic",
     "descendants": 9,
     "time": 1775117951
@@ -26,7 +26,7 @@
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
     "score": 950,
     "by": "apitman",
-    "descendants": 809,
+    "descendants": 810,
     "time": 1775063491
   },
   {
@@ -41,30 +41,30 @@
   },
   {
     "rank": 5,
-    "id": 47611921,
-    "title": "Significant Raise of Reports",
-    "url": "https://lwn.net/Articles/1065620/",
-    "score": 22,
-    "by": "stratos123",
-    "descendants": 9,
-    "time": 1775121258
-  },
-  {
-    "rank": 6,
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 45,
+    "score": 46,
     "by": "novaRom",
     "descendants": 6,
     "time": 1775127000
+  },
+  {
+    "rank": 6,
+    "id": 47611921,
+    "title": "Significant Raise of Reports",
+    "url": "https://lwn.net/Articles/1065620/",
+    "score": 23,
+    "by": "stratos123",
+    "descendants": 10,
+    "time": 1775121258
   },
   {
     "rank": 7,
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 161,
+    "score": 163,
     "by": "jaden",
     "descendants": 47,
     "time": 1775100933
