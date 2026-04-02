@@ -4,99 +4,99 @@
     "id": 33405389,
     "title": "U.S. workers have gotten less productive \u2013 no one is sure why",
     "url": "https://www.washingtonpost.com/business/2022/10/31/productivity-down-employers-worried-recession/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "pseudolus",
+    "descendants": 695,
+    "time": 1667222794
   },
   {
     "rank": 2,
     "id": 33409891,
     "title": "Ask HN: Have you set up a procedure to disclose your passwords in case of death?",
     "url": "https://news.ycombinator.com/item?id=33409891",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "bsjaux628",
+    "descendants": 253,
+    "time": 1667239353
   },
   {
     "rank": 3,
     "id": 33412702,
     "title": "Nascar driver stuns to qualify for championship with GameCube move",
     "url": "https://www.nintendolife.com/news/2022/10/random-nascar-driver-stuns-to-qualify-for-championship-with-gamecube-move",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1207,
+    "by": "adrian_mrd",
+    "descendants": 431,
+    "time": 1667248847
   },
   {
     "rank": 4,
     "id": 33413278,
     "title": "Gross domestic product is a misleading measure of national success (2014)",
     "url": "https://www.nature.com/articles/505283a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "kitkat_new",
+    "descendants": 350,
+    "time": 1667250876
   },
   {
     "rank": 5,
     "id": 33416989,
     "title": "Is Turbopack 10x Faster than Vite?",
     "url": "https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "jjzhiyuan",
+    "descendants": 165,
+    "time": 1667277515
   },
   {
     "rank": 6,
     "id": 33419944,
     "title": "Nushell: Introduction to a new kind of shell",
     "url": "https://dataswamp.org/~solene/2022-10-31-nushell.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "hucste",
+    "descendants": 247,
+    "time": 1667303409
   },
   {
     "rank": 7,
     "id": 33420852,
     "title": "Show HN: I made an offline-ready hiking trail companion app",
     "url": "https://github.com/jamealg/KT-companion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "jameal",
+    "descendants": 141,
+    "time": 1667309119
   },
   {
     "rank": 8,
     "id": 33421049,
     "title": "Falcon Heavy Launch [video]",
     "url": "https://www.spacex.com/launches/ussf-44/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "mpweiher",
+    "descendants": 289,
+    "time": 1667309901
   },
   {
     "rank": 9,
     "id": 33422779,
     "title": "As last module docks, China completes its space station",
     "url": "https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "rippercushions",
+    "descendants": 378,
+    "time": 1667317537
   },
   {
     "rank": 10,
     "id": 33422837,
     "title": "OpenSSL 3.0.7 fixes X.509 email address buffer overflows",
     "url": "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "petecooper",
+    "descendants": 226,
+    "time": 1667317742
   }
 ]

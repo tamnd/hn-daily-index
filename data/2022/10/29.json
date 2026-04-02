@@ -4,99 +4,99 @@
     "id": 33369572,
     "title": "Bumble bees play, according to new research",
     "url": "https://phys.org/news/2022-10-first-ever-bumble-bees.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "pseudolus",
+    "descendants": 76,
+    "time": 1666951720
   },
   {
     "rank": 2,
     "id": 33371121,
     "title": "The Iran Firewall: A preliminary report",
     "url": "https://blog.thc.org/the-iran-firewall-a-preliminary-report",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "chmaynard",
+    "descendants": 133,
+    "time": 1666963677
   },
   {
     "rank": 3,
     "id": 33373729,
     "title": "Nvidia\u2019s hot adapter for the GeForce RTX 4090 with a built-in breaking point",
     "url": "https://www.igorslab.de/en/adapter-of-the-gray-analyzed-nvidias-brand-hot-12vhpwr-adapter-with-built-in-breakpoint/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "elorant",
+    "descendants": 279,
+    "time": 1666974890
   },
   {
     "rank": 4,
     "id": 33375250,
     "title": "\u201cTwitter will be forming a content moderation council with diverse viewpoints\u201d",
     "url": "https://twitter.com/elonmusk/status/1586059953311137792",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "minimaxir",
+    "descendants": 971,
+    "time": 1666981240
   },
   {
     "rank": 5,
     "id": 33381285,
     "title": "Why is D's garbage collection slower than Go's?",
     "url": "https://forum.dlang.org/post/tjib6h$2pp6$1@digitalmars.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "systems",
+    "descendants": 246,
+    "time": 1667021706
   },
   {
     "rank": 6,
     "id": 33381302,
     "title": "Taking Lichess to the next level",
     "url": "https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "akbarnama",
+    "descendants": 96,
+    "time": 1667021949
   },
   {
     "rank": 7,
     "id": 33381949,
     "title": "WireGuard in FreeBSD",
     "url": "https://cgit.freebsd.org/src/commit/?id=744bfb213144c63cbaf38d91a1c4f7aebb9b9fbc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "nixcraft",
+    "descendants": 78,
+    "time": 1667029837
   },
   {
     "rank": 8,
     "id": 33384150,
     "title": "Kathleen Booth, the inventor of assembly language, has died",
     "url": "https://www.theregister.com/2022/10/29/kathleen_booth_obit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1252,
+    "by": "sohkamyung",
+    "descendants": 140,
+    "time": 1667052422
   },
   {
     "rank": 9,
     "id": 33384236,
     "title": "Google Ad Disguising Itself as www.gimp.org",
     "url": "https://www.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 601,
+    "by": "tosh",
+    "descendants": 218,
+    "time": 1667053245
   },
   {
     "rank": 10,
     "id": 33386163,
     "title": "How I make a living working on SerenityOS",
     "url": "https://awesomekling.github.io/How-I-make-a-living-working-on-SerenityOS/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 936,
+    "by": "awesomekling",
+    "descendants": 193,
+    "time": 1667064537
   }
 ]

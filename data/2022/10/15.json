@@ -4,99 +4,99 @@
     "id": 33201544,
     "title": "Why I Don't Use Netscape (1999)",
     "url": "https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "artogahr",
+    "descendants": 275,
+    "time": 1665741775
   },
   {
     "rank": 2,
     "id": 33203370,
     "title": "Postgres Full Text Search vs. the Rest",
     "url": "https://supabase.com/blog/postgres-full-text-search-vs-the-rest",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "kiwicopple",
+    "descendants": 117,
+    "time": 1665754915
   },
   {
     "rank": 3,
     "id": 33205282,
     "title": "Show HN: FrankenPHP, an app server for PHP written in Go",
     "url": "https://frankenphp.dev",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "kdunglas",
+    "descendants": 83,
+    "time": 1665763197
   },
   {
     "rank": 4,
     "id": 33205632,
     "title": "Unlaunching the 12GB 4080",
     "url": "https://www.nvidia.com/en-us/geforce/news/12gb-4080-unlaunch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "haunter",
+    "descendants": 333,
+    "time": 1665764899
   },
   {
     "rank": 5,
     "id": 33205813,
     "title": "Vogtle Unit 3 starts nuclear fuel load",
     "url": "https://www.georgiapower.com/company/news-center/2022-articles/vogtle-unit-3-nuclear-fuel-load.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "DisjointedHunt",
+    "descendants": 544,
+    "time": 1665765576
   },
   {
     "rank": 6,
     "id": 33208156,
     "title": "Sweden\u2019s incoming cabinet says new nuclear reactors will be built",
     "url": "https://www.bloomberg.com/news/articles/2022-10-14/sweden-s-incoming-cabinet-says-will-build-new-nuclear-reactors",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 514,
+    "by": "tpmx",
+    "descendants": 539,
+    "time": 1665777518
   },
   {
     "rank": 7,
     "id": 33209623,
     "title": "Disposable Root Servers",
     "url": "https://blog.thc.org/disposable-root-servers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "kxrm",
+    "descendants": 119,
+    "time": 1665787129
   },
   {
     "rank": 8,
     "id": 33214439,
     "title": "Uncovering a 24-year-old bug in the Linux Kernel (2021)",
     "url": "https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "endorphine",
+    "descendants": 77,
+    "time": 1665839339
   },
   {
     "rank": 9,
     "id": 33216029,
     "title": "Google engineers joked about how incognito mode isn't incognito",
     "url": "https://futurism.com/the-byte/google-engineers-joked-incognito-mode",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "Brajeshwar",
+    "descendants": 281,
+    "time": 1665850443
   },
   {
     "rank": 10,
     "id": 33217395,
     "title": "Show HN: America \u2013 Road Trip Simulator",
     "url": "https://4m3ric4.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 663,
+    "by": "0x389",
+    "descendants": 183,
+    "time": 1665859194
   }
 ]

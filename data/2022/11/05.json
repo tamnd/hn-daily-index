@@ -4,99 +4,99 @@
     "id": 33469978,
     "title": "Tim Berners-Lee: Web3 is not the web",
     "url": "https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "TangerineDream",
+    "descendants": 330,
+    "time": 1667581053
   },
   {
     "rank": 2,
     "id": 33471314,
     "title": "Many companies aren\u2019t prepared to replace underperforming CEOs",
     "url": "https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "PaulHoule",
+    "descendants": 238,
+    "time": 1667585385
   },
   {
     "rank": 3,
     "id": 33472161,
     "title": "White House deletes tweet after Twitter adds 'context' note",
     "url": "https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "rmason",
+    "descendants": 405,
+    "time": 1667589110
   },
   {
     "rank": 4,
     "id": 33473497,
     "title": "In defense of linked lists",
     "url": "http://antirez.com/news/138",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 603,
+    "by": "grep_it",
+    "descendants": 501,
+    "time": 1667594762
   },
   {
     "rank": 5,
     "id": 33477793,
     "title": "Mathics: A free, open-source alternative to Mathematica",
     "url": "https://mathics.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 561,
+    "by": "memorable",
+    "descendants": 203,
+    "time": 1667620799
   },
   {
     "rank": 6,
     "id": 33477842,
     "title": "MDN converted to Markdown",
     "url": "https://openwebdocs.org/content/posts/markdown-conversion/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "thunderbong",
+    "descendants": 138,
+    "time": 1667621242
   },
   {
     "rank": 7,
     "id": 33478845,
     "title": "Birdwatch, Twitter's collaborative fact checking system",
     "url": "https://twitter.github.io/birdwatch/#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "mcint",
+    "descendants": 260,
+    "time": 1667633282
   },
   {
     "rank": 8,
     "id": 33479397,
     "title": "Multiple assertions are fine in a unit test",
     "url": "https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "nsoonhui",
+    "descendants": 337,
+    "time": 1667638607
   },
   {
     "rank": 9,
     "id": 33481859,
     "title": "TSMC approaching 1 nm with 2D materials breakthrough",
     "url": "https://www.edn.com/tsmc-approaching-1-nm-with-2d-materials-breakthrough/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "retskrad",
+    "descendants": 112,
+    "time": 1667658925
   },
   {
     "rank": 10,
     "id": 33484185,
     "title": "Tell HN: A hacker's life is in danger, your awareness may be life saving",
     "url": "https://news.ycombinator.com/item?id=33484185",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 957,
+    "by": "michaeltimo",
+    "descendants": 103,
+    "time": 1667672755
   }
 ]

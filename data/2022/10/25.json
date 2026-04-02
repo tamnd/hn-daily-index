@@ -4,99 +4,99 @@
     "id": 33320294,
     "title": "Forgetting the Asbestos \u2013 how we lose knowledge and technologies",
     "url": "https://1517.substack.com/p/forgetting-the-asbestos",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "areoform",
+    "descendants": 209,
+    "time": 1666635417
   },
   {
     "rank": 2,
     "id": 33321475,
     "title": "My next Mac might be the last",
     "url": "https://morrick.me/archives/9667",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "pier25",
+    "descendants": 635,
+    "time": 1666640397
   },
   {
     "rank": 3,
     "id": 33323826,
     "title": "Salary Transparency",
     "url": "https://xeiaso.net/salary-transparency",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "popcalc",
+    "descendants": 334,
+    "time": 1666652796
   },
   {
     "rank": 4,
     "id": 33324704,
     "title": "The cult of dd (2017)",
     "url": "https://eklitzke.org/the-cult-of-dd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "_dain_",
+    "descendants": 226,
+    "time": 1666658643
   },
   {
     "rank": 5,
     "id": 33326080,
     "title": "What \u201cwork\u201d looks like",
     "url": "https://blog.jim-nielsen.com/2022/what-work-looks-like/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 788,
+    "by": "LordNibbler",
+    "descendants": 226,
+    "time": 1666670687
   },
   {
     "rank": 6,
     "id": 33327896,
     "title": "Python 3.11.0 final",
     "url": "https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 646,
+    "by": "pantalaimon",
+    "descendants": 295,
+    "time": 1666687625
   },
   {
     "rank": 7,
     "id": 33329184,
     "title": "Stranger Strings: An exploitable flaw in SQLite",
     "url": "https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "eatonphil",
+    "descendants": 139,
+    "time": 1666698043
   },
   {
     "rank": 8,
     "id": 33329509,
     "title": "From zero to 10M lines of Kotlin",
     "url": "https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "binkHN",
+    "descendants": 340,
+    "time": 1666700381
   },
   {
     "rank": 9,
     "id": 33330864,
     "title": "My dad's resume and skills from 1980",
     "url": "https://github.com/runvnc/dadsresume",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1482,
+    "by": "metadat",
+    "descendants": 583,
+    "time": 1666707915
   },
   {
     "rank": 10,
     "id": 33333695,
     "title": "Turbopack, the successor to Webpack",
     "url": "https://vercel.com/blog/turbopack",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 626,
+    "by": "nutlope",
+    "descendants": 312,
+    "time": 1666719328
   }
 ]

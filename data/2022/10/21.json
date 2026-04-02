@@ -4,99 +4,99 @@
     "id": 33275206,
     "title": "Ubuntu 22.10 Kinetic Kudu",
     "url": "https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "pantalaimon",
+    "descendants": 357,
+    "time": 1666276113
   },
   {
     "rank": 2,
     "id": 33275935,
     "title": "CT scans of batteries",
     "url": "https://www.scanofthemonth.com/scans/batteries",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "vitruvius",
+    "descendants": 70,
+    "time": 1666278680
   },
   {
     "rank": 3,
     "id": 33276601,
     "title": "MagicDNS is generally available",
     "url": "https://tailscale.com/blog/magicdns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "mfiguiere",
+    "descendants": 100,
+    "time": 1666281326
   },
   {
     "rank": 4,
     "id": 33278698,
     "title": "Another scientific body has debunked bitemark analysis",
     "url": "https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "colinprince",
+    "descendants": 236,
+    "time": 1666290393
   },
   {
     "rank": 5,
     "id": 33280605,
     "title": "The HTTP crash course nobody asked for",
     "url": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 902,
+    "by": "g0xA52A2A",
+    "descendants": 141,
+    "time": 1666299534
   },
   {
     "rank": 6,
     "id": 33281106,
     "title": "SHA-3 Buffer Overflow",
     "url": "https://mouha.be/sha-3-buffer-overflow/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "cbzbc",
+    "descendants": 172,
+    "time": 1666301695
   },
   {
     "rank": 7,
     "id": 33281148,
     "title": "Stop Scanning Me",
     "url": "https://stopscanningme.eu/en/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 505,
+    "by": "favourable",
+    "descendants": 141,
+    "time": 1666301876
   },
   {
     "rank": 8,
     "id": 33287137,
     "title": "Show HN: Restfox \u2013 Open source lightweight alternative to Postman",
     "url": "https://restfox.dev",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 758,
+    "by": "kermire",
+    "descendants": 182,
+    "time": 1666353991
   },
   {
     "rank": 9,
     "id": 33288706,
     "title": "Linux M1 GPU driver passes 99% of the dEQP-GLES2 compliance tests",
     "url": "https://twitter.com/linaasahi/status/1583444549648543744",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "tpush",
+    "descendants": 187,
+    "time": 1666364442
   },
   {
     "rank": 10,
     "id": 33290863,
     "title": "The Commodordion",
     "url": "https://linusakesson.net/commodordion/index.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 519,
+    "by": "cowtools",
+    "descendants": 65,
+    "time": 1666374290
   }
 ]
