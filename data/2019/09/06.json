@@ -4,99 +4,99 @@
     "id": 20890292,
     "title": "US city rejects $5.3M ransom demand and restores encrypted files from backup",
     "url": "https://secalerts.co/article/city-knocks-back-ransom-demand-and-restores-files-from-backup/c785f0f3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 467,
+    "by": "GiulioS",
+    "descendants": 238,
+    "time": 1567714597
   },
   {
     "rank": 2,
     "id": 20890381,
     "title": "Sites with dumb password rules",
     "url": "https://github.com/dumb-password-rules/dumb-password-rules",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 485,
+    "by": "enjoyyourlife",
+    "descendants": 320,
+    "time": 1567715272
   },
   {
     "rank": 3,
     "id": 20890682,
     "title": "How to do a code review",
     "url": "https://google.github.io/eng-practices/review/reviewer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1471,
+    "by": "iamaelephant",
+    "descendants": 367,
+    "time": 1567717990
   },
   {
     "rank": 4,
     "id": 20890717,
     "title": "Apple has copied some of the most popular apps in the App Store",
     "url": "https://www.washingtonpost.com/technology/2019/09/05/how-apple-uses-its-app-store-copy-best-ideas/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "rgbrenner",
+    "descendants": 309,
+    "time": 1567718324
   },
   {
     "rank": 5,
     "id": 20895031,
     "title": "Fancy Zones, a tiling window manager",
     "url": "https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "nailer",
+    "descendants": 163,
+    "time": 1567773086
   },
   {
     "rank": 6,
     "id": 20895776,
     "title": "42 is found to be the sum of three cubes",
     "url": "https://twitter.com/robinhouston/status/1169877007045296128",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "techolic",
+    "descendants": 237,
+    "time": 1567779165
   },
   {
     "rank": 7,
     "id": 20896156,
     "title": "Police Shut Down a 3k-Person Game of Hide-and-Seek at IKEA",
     "url": "https://www.housebeautiful.com/lifestyle/a28917427/ikea-hide-and-seek-glasgow-scotland/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "apress",
+    "descendants": 191,
+    "time": 1567781568
   },
   {
     "rank": 8,
     "id": 20897278,
     "title": "Everything I googled in a week as a professional software engineer",
     "url": "https://localghost.dev/2019/09/everything-i-googled-in-a-week-as-a-professional-software-engineer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 745,
+    "by": "_quhg",
+    "descendants": 378,
+    "time": 1567788568
   },
   {
     "rank": 9,
     "id": 20897368,
     "title": "A Message about iOS Security",
     "url": "https://www.apple.com/newsroom/2019/09/a-message-about-ios-security/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "css",
+    "descendants": 291,
+    "time": 1567789134
   },
   {
     "rank": 10,
     "id": 20898094,
     "title": " Let's Encrypt makes certs for 30% of web domains",
     "url": "https://www.leebutterman.com/2019/08/05/analyzing-hundreds-of-millions-of-ssl-connections.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 673,
+    "by": "lsb",
+    "descendants": 141,
+    "time": 1567793233
   }
 ]

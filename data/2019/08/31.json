@@ -4,99 +4,99 @@
     "id": 20837663,
     "title": "The Paxos Algorithm, or How to Win a Turing Award",
     "url": "https://lamport.azurewebsites.net/tla/paxos-algorithm.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "pron",
+    "descendants": 83,
+    "time": 1567166010
   },
   {
     "rank": 2,
     "id": 20837753,
     "title": "Go Module Mirror and Checksum Database Launched",
     "url": "https://blog.golang.org/module-mirror-launch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "ingve",
+    "descendants": 120,
+    "time": 1567167046
   },
   {
     "rank": 3,
     "id": 20842400,
     "title": "BMW unveils car sprayed with Vantablack",
     "url": "https://www.dezeen.com/2019/08/27/bmw-vbx6-vantablack-car-design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "telotortium",
+    "descendants": 182,
+    "time": 1567197022
   },
   {
     "rank": 4,
     "id": 20842784,
     "title": "Anna Karenina Principle",
     "url": "https://en.wikipedia.org/wiki/Anna_Karenina_principle",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "mgh2",
+    "descendants": 126,
+    "time": 1567199738
   },
   {
     "rank": 5,
     "id": 20842956,
     "title": "On-Device, Real-Time Hand Tracking with MediaPipe",
     "url": "https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "neversaydie",
+    "descendants": 67,
+    "time": 1567201043
   },
   {
     "rank": 6,
     "id": 20843076,
     "title": "Facial recognition: School ID checks lead to GDPR fine",
     "url": "https://www.bbc.com/news/technology-49489154",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "rbanffy",
+    "descendants": 172,
+    "time": 1567202090
   },
   {
     "rank": 7,
     "id": 20844039,
     "title": "Telegram moves to protect identity of Hong Kong protesters",
     "url": "https://www.reuters.com/article/us-hongkong-telegram-exclusive/exclusive-messaging-app-telegram-moves-to-protect-identity-of-hong-kong-protesters-idUSKCN1VK2NI",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "hardmaru",
+    "descendants": 81,
+    "time": 1567213718
   },
   {
     "rank": 8,
     "id": 20844978,
     "title": "Why I like Clojure",
     "url": "http://sulami.github.io/posts/why-i-like-clojure/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "tosh",
+    "descendants": 153,
+    "time": 1567234451
   },
   {
     "rank": 9,
     "id": 20845112,
     "title": "The design of littlefs: A fail-safe filesystem designed for microcontrollers",
     "url": "https://github.com/ARMmbed/littlefs/blob/master/DESIGN.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "ingve",
+    "descendants": 72,
+    "time": 1567237489
   },
   {
     "rank": 10,
     "id": 20847508,
     "title": "Ask HN: How Do You Read?",
     "url": "https://news.ycombinator.com/item?id=20847508",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 686,
+    "by": "vilvadot",
+    "descendants": 247,
+    "time": 1567271322
   }
 ]

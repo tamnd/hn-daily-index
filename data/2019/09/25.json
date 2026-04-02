@@ -4,99 +4,99 @@
     "id": 21062799,
     "title": "OSSU: A path to a free self-taught education in computer science",
     "url": "https://github.com/ossu/computer-science",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "paulygarcia",
+    "descendants": 172,
+    "time": 1569347478
   },
   {
     "rank": 2,
     "id": 21064663,
     "title": "Google Chrome Keystone is modifying /var symlink on non SIP Macs causing k-panic",
     "url": "https://mrmacintosh.com/google-chrome-keystone-is-modifying-var-symlink-on-non-sip-macs-causing-boot-issues/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "frandroid",
+    "descendants": 300,
+    "time": 1569359371
   },
   {
     "rank": 3,
     "id": 21064911,
     "title": "V8 adds support for top-level await",
     "url": "https://chromium.googlesource.com/v8/v8.git/+/0ceee9ad28c21bc4971fb237cf87eb742fc787b8%5E%21/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "hayd",
+    "descendants": 295,
+    "time": 1569361130
   },
   {
     "rank": 4,
     "id": 21064942,
     "title": "Bike crash left Spokane man unconscious, so his Apple Watch called 911",
     "url": "https://www.seattletimes.com/seattle-news/bike-crash-left-spokane-man-unconscious-but-his-apple-watch-called-911",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1105,
+    "by": "throwaway413",
+    "descendants": 659,
+    "time": 1569361375
   },
   {
     "rank": 5,
     "id": 21067487,
     "title": "We are clueless about how long things should take",
     "url": "http://kyleprifogle.com/dear-startup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "yachtman",
+    "descendants": 247,
+    "time": 1569384146
   },
   {
     "rank": 6,
     "id": 21067939,
     "title": "Looking Back at the Snowden Revelations",
     "url": "https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "sohkamyung",
+    "descendants": 231,
+    "time": 1569389824
   },
   {
     "rank": 7,
     "id": 21069524,
     "title": "The one who kept VLC free",
     "url": "https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "elorant",
+    "descendants": 163,
+    "time": 1569409396
   },
   {
     "rank": 8,
     "id": 21070321,
     "title": "WARP is here",
     "url": "https://blog.cloudflare.com/announcing-warp-plus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 657,
+    "by": "BCM43",
+    "descendants": 365,
+    "time": 1569416513
   },
   {
     "rank": 9,
     "id": 21071699,
     "title": "A patent lawsuit against GNOME",
     "url": "https://lwn.net/Articles/800516/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 604,
+    "by": "globuous",
+    "descendants": 319,
+    "time": 1569425354
   },
   {
     "rank": 10,
     "id": 21071890,
     "title": "WeWork and Counterfeit Capitalism",
     "url": "https://mattstoller.substack.com/p/wework-and-counterfeit-capitalism",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1158,
+    "by": "cjbest",
+    "descendants": 414,
+    "time": 1569426496
   }
 ]

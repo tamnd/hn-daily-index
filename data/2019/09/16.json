@@ -4,99 +4,99 @@
     "id": 20965386,
     "title": "Get Started Making Music",
     "url": "https://learningmusic.ableton.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1085,
+    "by": "capableweb",
+    "descendants": 184,
+    "time": 1568402191
   },
   {
     "rank": 2,
     "id": 20976950,
     "title": "Google ML/AI Comic",
     "url": "https://cloud.google.com/products/ai/ml-comic-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "jacquesm",
+    "descendants": 39,
+    "time": 1568550992
   },
   {
     "rank": 3,
     "id": 20979380,
     "title": "HP printers try to send data back to HP about your devices and what you print",
     "url": "https://robertheaton.com/2019/09/15/hp-printers-send-data-on-what-you-print-back-to-hp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "darekkay",
+    "descendants": 263,
+    "time": 1568580172
   },
   {
     "rank": 4,
     "id": 20979624,
     "title": "TextMate 2.0",
     "url": "https://github.com/textmate/textmate/commit/54b232f6b1fa4257d512987248265acfd567cc13",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "jjuliano",
+    "descendants": 181,
+    "time": 1568583358
   },
   {
     "rank": 5,
     "id": 20981363,
     "title": "Neovim v0.4.0",
     "url": "https://github.com/neovim/neovim/commit/e2cc5fe09d98ce1ccaaa666a835c896805ccc196",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "blindseer",
+    "descendants": 162,
+    "time": 1568611960
   },
   {
     "rank": 6,
     "id": 20982161,
     "title": "Show HN: I built an online image editor using WebGL and CSS transforms",
     "url": "https://pqina.nl/doka/image-editor/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "rikschennink",
+    "descendants": 72,
+    "time": 1568623379
   },
   {
     "rank": 7,
     "id": 20983922,
     "title": "Why Go and Not Rust?",
     "url": "https://kristoff.it/blog/why-go-and-not-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "kristoff_it",
+    "descendants": 477,
+    "time": 1568641550
   },
   {
     "rank": 8,
     "id": 20983930,
     "title": "LastPass bug leaks credentials from previous site",
     "url": "https://www.zdnet.com/article/lastpass-bug-leaks-credentials-from-previous-site/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "Daviey",
+    "descendants": 192,
+    "time": 1568641586
   },
   {
     "rank": 9,
     "id": 20984691,
     "title": "Amazon Changed Search Algorithm in Ways That Boost Its Own Products",
     "url": "https://www.wsj.com/articles/amazon-changed-search-algorithm-in-ways-that-boost-its-own-products-11568645345?mod=rsswn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 642,
+    "by": "juokaz",
+    "descendants": 413,
+    "time": 1568645853
   },
   {
     "rank": 10,
     "id": 20985875,
     "title": "The boring technology behind a one-person Internet company",
     "url": "https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2010,
+    "by": "mxschumacher",
+    "descendants": 451,
+    "time": 1568652008
   }
 ]

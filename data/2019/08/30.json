@@ -4,99 +4,99 @@
     "id": 20830037,
     "title": "Building a Raspberry Pi 3B+ full keyboard handheld",
     "url": "https://0x0f0f0f.github.io/posts/2019/08/building-a-raspberry-pi-3b-full-keyboard-handheld.-part-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "0x0f0f0f",
+    "descendants": 86,
+    "time": 1567090579
   },
   {
     "rank": 2,
     "id": 20832570,
     "title": "Software made me loathe my car",
     "url": "https://mikkel.hoegh.org/2019/08/29/how-software-made-me-loathe-my-luxury-car",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "mikl",
+    "descendants": 509,
+    "time": 1567105504
   },
   {
     "rank": 3,
     "id": 20833639,
     "title": "Linux kernel drivers in Rust might become an option in the future",
     "url": "https://lwn.net/Articles/797828/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "jobstijl",
+    "descendants": 254,
+    "time": 1567112590
   },
   {
     "rank": 4,
     "id": 20834379,
     "title": "Flawed Algorithms Are Grading Millions of Students\u2019 Essays",
     "url": "https://www.vice.com/en_us/article/pa7dj9/flawed-algorithms-are-grading-millions-of-students-essays",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "elorant",
+    "descendants": 285,
+    "time": 1567118035
   },
   {
     "rank": 5,
     "id": 20835223,
     "title": "A deep dive into iOS Exploit chains found in the wild",
     "url": "https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 804,
+    "by": "troydavis",
+    "descendants": 182,
+    "time": 1567128177
   },
   {
     "rank": 6,
     "id": 20836331,
     "title": "Dqlite \u2013 High-Availability SQLite",
     "url": "https://dqlite.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "stubish",
+    "descendants": 115,
+    "time": 1567146154
   },
   {
     "rank": 7,
     "id": 20838078,
     "title": "NPM Bans Terminal Ads",
     "url": "https://www.zdnet.com/article/npm-bans-terminal-ads/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "slovenlyrobot",
+    "descendants": 353,
+    "time": 1567169759
   },
   {
     "rank": 8,
     "id": 20839582,
     "title": "The Baseline Interpreter: A Faster JavaScript Interpreter in Firefox 70",
     "url": "https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 735,
+    "by": "edmorley",
+    "descendants": 267,
+    "time": 1567179182
   },
   {
     "rank": 9,
     "id": 20839689,
     "title": "Facebook scans system libraries on Android and uploads them to their server",
     "url": "https://twitter.com/wongmjane/status/1167463054709334017",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "akalin",
+    "descendants": 174,
+    "time": 1567180008
   },
   {
     "rank": 10,
     "id": 20841586,
     "title": "Banned from Google Ads for Using Apple Card",
     "url": "https://smartprivacy.io/learn/i-got-banned-from-google-ads-for-using-apple-card",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "zxlk21e",
+    "descendants": 216,
+    "time": 1567192032
   }
 ]

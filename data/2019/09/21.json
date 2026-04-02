@@ -4,99 +4,99 @@
     "id": 21024286,
     "title": "Talent is everywhere, opportunity is not",
     "url": "https://ourworldindata.org/talent-is-everywhere-opportunity-is-not",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "yurisagalov",
+    "descendants": 335,
+    "time": 1568966883
   },
   {
     "rank": 2,
     "id": 21025262,
     "title": "Secret FBI Subpoenas Scoop Up Personal Data from Scores of Companies",
     "url": "https://www.nytimes.com/2019/09/20/us/data-privacy-fbi.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "tysone",
+    "descendants": 106,
+    "time": 1568977341
   },
   {
     "rank": 3,
     "id": 21026237,
     "title": "Google is investing $3.3B to build clean data centers in Europe",
     "url": "https://techcrunch.com/2019/09/20/google-is-investing-3-3b-to-build-clean-data-centers-in-europe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "yibllesqueak",
+    "descendants": 147,
+    "time": 1568984835
   },
   {
     "rank": 4,
     "id": 21026522,
     "title": "Common Systems Programming Optimizations and Tricks",
     "url": "https://paulcavallaro.com/blog/common-systems-programming-optimizations-tricks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "wheresvic3",
+    "descendants": 94,
+    "time": 1568986715
   },
   {
     "rank": 5,
     "id": 21031187,
     "title": "What ORMs have taught me: just learn SQL (2014)",
     "url": "https://wozniak.ca/blog/2014/08/03/What-ORMs-have-taught-me-just-learn-SQL/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 795,
+    "by": "BerislavLopac",
+    "descendants": 634,
+    "time": 1569012863
   },
   {
     "rank": 6,
     "id": 21032622,
     "title": "Do It Yurtself",
     "url": "https://imgur.com/t/staff_picks/VemXvh0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 724,
+    "by": "NaOH",
+    "descendants": 192,
+    "time": 1569025482
   },
   {
     "rank": 7,
     "id": 21033783,
     "title": "WeWTF, Part Deux",
     "url": "https://www.profgalloway.com/wewtf-part-deux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "pierre_vannier",
+    "descendants": 119,
+    "time": 1569046098
   },
   {
     "rank": 8,
     "id": 21035752,
     "title": "Anti-union activity is heating up ahead of Google contractor's vote to unionize",
     "url": "https://m.pghcitypaper.com/pittsburgh/anti-union-activity-is-heating-up-ahead-of-google-contractors-vote-to-unionize/Content?oid=15886644",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "claudeganon",
+    "descendants": 416,
+    "time": 1569078079
   },
   {
     "rank": 9,
     "id": 21036037,
     "title": "Why I Write Games in C (yes, C)",
     "url": "https://jonathanwhiting.com/writing/blog/games_in_c/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 647,
+    "by": "WoodenChair",
+    "descendants": 544,
+    "time": 1569081179
   },
   {
     "rank": 10,
     "id": 21036503,
     "title": "Weld: Accelerating numpy, scikit and pandas as much as 100x with Rust and LLVM",
     "url": "https://notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm-12ec1c630a1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 592,
+    "by": "unbalancedparen",
+    "descendants": 110,
+    "time": 1569085708
   }
 ]
