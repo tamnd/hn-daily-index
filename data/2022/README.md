@@ -2,9 +2,114 @@
 
 Top 10 Hacker News stories for each day in 2022.
 
-- [December](12/) (14 days)
+- [December](12/) (21 days)
 
 ---
+
+## 2022-12-21
+
+*Wednesday*
+
+1. [Wells Fargo to pay $3.7B for mistreating customers](https://finance.yahoo.com/news/wells-fargo-reaches-record-3-135449093.html) (finance.yahoo.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34067782)
+2. [A collection of Soviet control rooms (2017)](http://blog.presentandcorrect.com/27986-2) (blog.presentandcorrect.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34069213)
+3. [January 1, 2023 is Public Domain Day: Works from 1927 are open to all](https://web.law.duke.edu/cspd/publicdomainday/2023/) (web.law.duke.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34072345)
+4. [Mozilla to explore healthy social media alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/) (blog.mozilla.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34073877)
+5. [3M to end 'forever chemicals' output](https://www.reuters.com/business/3m-stop-making-forever-chemicals-take-up-23-bln-charge-2022-12-20/) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34076685)
+6. [Okta says its GitHub account hacked, source code stolen](https://www.bleepingcomputer.com/news/security/okta-says-its-github-account-hacked-source-code-stolen/) (bleepingcomputer.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34077678)
+7. [WebAssembly: Docker Without Containers](https://wasmlabs.dev/articles/docker-without-containers/) (wasmlabs.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34078532)
+8. [Freeform: a new app designed for creative collaboration](https://www.apple.com/newsroom/2022/12/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration/) (apple.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34078942)
+9. [I still use Flash](https://foon.uk/how-flash-2022/) (foon.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34079543)
+10. [Show HN: Portable Secret – How I store my secrets and communicate privately](https://mprimi.github.io/portable-secret/) (mprimi.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34083366)
+
+## 2022-12-20
+
+*Tuesday*
+
+1. [Stanford's “Elimination of Harmful Language” Initiative](https://itcommunity.stanford.edu/ehli) (itcommunity.stanford.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34039816)
+2. [Evidence that the evolution of mammals began in the Southern Hemisphere](https://www.australiangeographic.com.au/news/2022/12/discovery-identifies-australia-as-birthplace-of-all-modern-mammals/) (australiangeographic.com.au) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34051868)
+3. [Cook whole grains like popcorn (2018)](https://www.treehugger.com/how-cook-any-whole-grain-popcorn-4858738) (treehugger.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34054718)
+4. [Binance's books are a black box, filings show, as it tries to rally confidence](https://www.reuters.com/technology/binances-books-are-black-box-filings-show-crypto-giant-tries-rally-confidence-2022-12-19/) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34055058)
+5. [Ask HN: What is the cheapest, easiest way to host a cronjob in 2022?](https://news.ycombinator.com/item?id=34056812) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34056812)
+6. [What happened to the first cryogenically frozen humans?](https://bigthink.com/the-future/cryonics-horror-stories/) (bigthink.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34057671)
+7. [Show HN: Obsidian Canvas – An infinite space for your ideas](https://obsidian.md/canvas) (obsidian.md) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34066824)
+8. [Facial recognition tech gets woman booted from Rockettes show due to employer](https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677/) (nbcnewyork.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34066965)
+9. [Ask HN: Programs that saved you 100 hours? (2022 edition)](https://news.ycombinator.com/item?id=34069106) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34069106)
+10. [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge) (there.oughta.be) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34069305)
+
+## 2022-12-19
+
+*Monday*
+
+1. [Productivity Blocker](https://www.productivityblocker.com) (productivityblocker.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34029045)
+2. [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) (thakkarparth007.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34032872)
+3. [Investigating Logan Paul's biggest scam [video]](https://www.youtube.com/watch?v=386p68_lDHA) (youtube.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34038948)
+4. [YouTube Transcript – read YouTube videos](https://youtubetranscript.com/) (youtubetranscript.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34039362)
+5. [Apple 'created decoy labor group' to derail unionization](https://www.theregister.com/2022/12/16/apple_decoy_labor_group/) (theregister.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34040361)
+6. [Ten influential programming languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/) (hillelwayne.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34040397)
+7. [Should I step down as head of Twitter? I will abide by the results of this poll](https://twitter.com/elonmusk/status/1604617643973124097) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34045423)
+8. [Ask HN: Has anyone here turned around their life in their 40s?](https://news.ycombinator.com/item?id=34052201) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34052201)
+9. [Did insurance fire brigades let uninsured buildings burn?](https://www.tomscott.com/corrections/firemarks/) (tomscott.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34053704)
+10. [Spotifyd](https://github.com/Spotifyd/spotifyd) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34056067)
+
+## 2022-12-18
+
+*Sunday*
+
+1. [Apk.sh is a Bash script that makes reverse engineering Android apps easier](https://github.com/ax/apk.sh) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34028601)
+2. [Apple changed how reading books works in iOS 16](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34029914)
+3. [Unredacter: Never use pixelation as a redaction technique](https://github.com/BishopFox/unredacter) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34031568)
+4. [Show HN: I made an Ethernet transceiver from logic gates](https://imihajlov.tk/blog/posts/eth-to-spi/) (imihajlov.tk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34035628)
+5. [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/) (fivethirtyeight.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34038357)
+6. [I’ve been battling cancer last 2 years, but now only have a few days left](https://twitter.com/stokesneuro/status/1604369158883491841) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34038601)
+7. [Promotion of alternative social platforms policy](https://help.twitter.com/en/rules-and-policies/social-platforms-policy) (help.twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34040165)
+8. [Ask HN: Anyone tired of everything being a subscription now?](https://news.ycombinator.com/item?id=34041962) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34041962)
+9. [Paul Graham is leaving Twitter for now](https://twitter.com/paulg/status/1604556563338887168) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34041985)
+10. [Twitter suspends pg's account](https://twitter.com/paulg/) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34044047)
+
+## 2022-12-17
+
+*Saturday*
+
+1. [Ask HN: I have diagnosed ADHD and cannot work with Slack anymore – advice?](https://news.ycombinator.com/item?id=34013643) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34013643)
+2. [OCaml 5.0 Multicore is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974) (discuss.ocaml.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34013767)
+3. [Peter Norvig critically reviews AlphaCode’s code quality](https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34020025)
+4. [I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned) (death.andgravity.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34020067)
+5. [John Carmack Leaves Meta](https://www.facebook.com/100006735798590/posts/i-resigned-from-my-position-as-an-executive-consultant-for-vr-with-meta-my-inter/3467566940144465/) (facebook.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34022484)
+6. [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html) (circuitvalley.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34022797)
+7. [The $8 Linux Computer](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html) (thelittleengineerthatcould.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34024914)
+8. [Tom Lehrer has released all of his songs into the public domain](https://wandering.shop/@therotund/109524633218501102) (wandering.shop) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34024968)
+9. [Valve is paying open-source developers to work on Proton, Mesa, and more](https://old.reddit.com/r/linux/comments/znxb9y/valve_is_paying_100_opensource_developers_to_work/) (old.reddit.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34028682)
+10. [Binance outflows hit $6B as Mazars halts ‘proof of reserves’ work](https://www.ft.com/content/bb50a204-5239-4db0-9964-c3bf9339c594) (ft.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34028921)
+
+## 2022-12-16
+
+*Friday*
+
+1. [Wendy Carlos: The brilliant but lonely life of an electronic music pioneer](https://english.elpais.com/culture/2022-12-12/wendy-carlos-the-brilliant-but-lonely-life-of-an-electronic-music-pioneer.html) (english.elpais.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=33981830)
+2. [Na-S Battery: Low-cost with four times the capacity of lithium](https://www.sydney.edu.au/news-opinion/news/2022/12/07/low-cost-battery-built-with-four-times-the-capacity-of-lithium.html) (sydney.edu.au) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=33998271)
+3. [Deepmind’s AlphaCode conquers coding, performing as well as humans](https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/) (singularityhub.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34000208)
+4. [Show HN: Readwise Reader, an all-in-one reading app](https://readwise.io/read) (readwise.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34006202)
+5. [Twitter applies 7-day suspension to half a dozen journalists](https://www.washingtonpost.com/media/2022/12/15/twitter-journalists-suspended-musk/) (washingtonpost.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34008383)
+6. [Atom was archived today](https://github.com/atom/atom) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34010065)
+7. [A Linux Evening](https://fabiensanglard.net/a_linux_evening/index.html) (fabiensanglard.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34013195)
+8. [OCaml 5.0 Multicore is out](https://github.com/ocaml/ocaml/releases/tag/5.0.0) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34014073)
+9. [BundesMessenger, a secure messenger for Germany’s public administration](https://element.io/blog/bundesmessenger-is-a-milestone-in-germanys-ground-breaking-vision/) (element.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34014519)
+10. [Tell HN: Doing a chargeback against Google will get your account banned](https://old.reddit.com/r/tifu/comments/zndbku/tifu_by_accidentally_buying_two_google_pixels_and/) (old.reddit.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34016389)
+
+## 2022-12-15
+
+*Thursday*
+
+1. [How does GPT obtain its ability? Tracing emergent abilities of language models](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) (yaofu.notion.site) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=33990567)
+2. [A circuit simulator that doesn't look like it was made in 2003](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b) (withdiode.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=33991007)
+3. [Twitter has re-suspended ElonJet account](https://twitter.com/elonjet/) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=33992412)
+4. [Python 3.11 Delivers](https://twitter.com/pypi/status/1603089763287826432) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=33996940)
+5. [Who knew the first AI battles would be fought by artists?](https://vmst.io/@selzero/109512557990367884) (vmst.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=33998112)
+6. [Riffusion – Stable Diffusion fine-tuned to generate Music](https://www.riffusion.com/about) (riffusion.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=33999162)
+7. [Autopsy-based characterization of myocarditis after anti-SARS-CoV-2-vaccination](https://link.springer.com/article/10.1007/s00392-022-02129-5) (link.springer.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34000131)
+8. [NIST is announcing that SHA-1 should be phased out by Dec. 31, 2030](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm) (nist.gov) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34001347)
+9. [Doors of McMurdo](https://brr.fyi/posts/doors-of-mcmurdo) (brr.fyi) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34002411)
+10. [Lichess gets a big upgrade. It doesn't go as planned](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX) (lichess.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34002526)
 
 ## 2022-12-14
 

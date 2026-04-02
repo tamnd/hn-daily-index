@@ -4,99 +4,99 @@
     "id": 37079534,
     "title": "eSignature Beta for Google Docs and Google Drive",
     "url": "https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "rc00",
+    "descendants": 170,
+    "time": 1691690347
   },
   {
     "rank": 2,
     "id": 37081306,
     "title": "HashiCorp adopts Business Source License",
     "url": "https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 632,
+    "by": "rpadovani",
+    "descendants": 731,
+    "time": 1691699197
   },
   {
     "rank": 3,
     "id": 37081789,
     "title": "My Overkill Home Network",
     "url": "https://blog.networkprofile.org/my-home-network-complete-details-2023/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "monstermunch",
+    "descendants": 454,
+    "time": 1691701520
   },
   {
     "rank": 4,
     "id": 37082771,
     "title": "Source code for Quake 2 rerelease",
     "url": "https://github.com/id-Software/quake2-rerelease-dll",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 575,
+    "by": "steveklabnik",
+    "descendants": 227,
+    "time": 1691708230
   },
   {
     "rank": 5,
     "id": 37083309,
     "title": "Show HN: Tetris, but the blocks are ARM instructions that execute in the browser",
     "url": "https://ofrak.com/tetris/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "jstrieb",
+    "descendants": 53,
+    "time": 1691711763
   },
   {
     "rank": 6,
     "id": 37084677,
     "title": "Firefox desktop extensions coming soon for the upcoming Android release",
     "url": "https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 857,
+    "by": "rc00",
+    "descendants": 460,
+    "time": 1691723370
   },
   {
     "rank": 7,
     "id": 37086796,
     "title": "Fastest branchless binary search",
     "url": "https://mhdm.dev/posts/sb_lower_bound/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "jorangreef",
+    "descendants": 148,
+    "time": 1691746709
   },
   {
     "rank": 8,
     "id": 37089545,
     "title": "YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban",
     "url": "https://torrentfreak.com/youtube-dl-site-goes-offline-as-hosting-provider-enforces-court-ordered-ban-230809/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "thm",
+    "descendants": 236,
+    "time": 1691766453
   },
   {
     "rank": 9,
     "id": 37091983,
     "title": "Squeeze the hell out of the system you have",
     "url": "https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 687,
+    "by": "sbmsr",
+    "descendants": 373,
+    "time": 1691777882
   },
   {
     "rank": 10,
     "id": 37092212,
     "title": "Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes",
     "url": "https://www.ipp.mpg.de/5322229/01_23",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 514,
+    "by": "greesil",
+    "descendants": 314,
+    "time": 1691779002
   }
 ]
