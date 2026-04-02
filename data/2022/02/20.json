@@ -4,99 +4,99 @@
     "id": 30401241,
     "title": "Tell HN: YouTube and how my wife lost 7 years of work",
     "url": "https://news.ycombinator.com/item?id=30401241",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1061,
+    "by": "jdhendrickson",
+    "descendants": 429,
+    "time": 1645310705
   },
   {
     "rank": 2,
     "id": 30402407,
     "title": "Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes",
     "url": "http://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-12972.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "cubefox",
+    "descendants": 152,
+    "time": 1645321287
   },
   {
     "rank": 3,
     "id": 30402624,
     "title": "Fall of Civilizations Podcast: Vijayanagara \u2013 The Last Emperors of South India",
     "url": "https://podcasts.apple.com/us/podcast/14-vijayanagara-the-last-emperors-of-south-india/id1449884495?i=1000551515692",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "startblue",
+    "descendants": 90,
+    "time": 1645323439
   },
   {
     "rank": 4,
     "id": 30403438,
     "title": "Server-sent events, WebSockets, and HTTP",
     "url": "https://www.mnot.net/blog/2022/02/20/websockets",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "grappler",
+    "descendants": 94,
+    "time": 1645334673
   },
   {
     "rank": 5,
     "id": 30404104,
     "title": "Fengari \u2013 Lua for the Browser",
     "url": "https://fengari.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "tsujp",
+    "descendants": 131,
+    "time": 1645344384
   },
   {
     "rank": 6,
     "id": 30405815,
     "title": "The fastest GIF does not exist",
     "url": "https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 657,
+    "by": "todsacerdoti",
+    "descendants": 77,
+    "time": 1645366274
   },
   {
     "rank": 7,
     "id": 30405959,
     "title": "A pentester gets root - step by step example",
     "url": "https://kaizoku.dev/htb-devoops",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "Jaruzel",
+    "descendants": 51,
+    "time": 1645367279
   },
   {
     "rank": 8,
     "id": 30406201,
     "title": "Things that used to be hard and are now easy",
     "url": "https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "pingiun",
+    "descendants": 305,
+    "time": 1645369301
   },
   {
     "rank": 9,
     "id": 30408236,
     "title": "Be anonymous",
     "url": "https://kg.dev/thoughts/be-anonymous",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 650,
+    "by": "kashnote",
+    "descendants": 243,
+    "time": 1645383276
   },
   {
     "rank": 10,
     "id": 30408434,
     "title": "Show HN: Test your shape rotation skills",
     "url": "https://0xf00ff00f.github.io/rotator/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 659,
+    "by": "0xf00ff00f",
+    "descendants": 195,
+    "time": 1645384749
   }
 ]

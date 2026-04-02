@@ -4,99 +4,99 @@
     "id": 30394701,
     "title": "How relationship satisfaction changes across your lifetime",
     "url": "https://greatergood.berkeley.edu/article/item/how_relationship_satisfaction_changes_across_your_lifetime",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "terrycody",
+    "descendants": 233,
+    "time": 1645249165
   },
   {
     "rank": 2,
     "id": 30408924,
     "title": "Neural nets are not \u201cslightly conscious,\u201d and AI PR can do with less hype",
     "url": "https://lastweekin.ai/p/conscious-ai",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "andreyk",
+    "descendants": 214,
+    "time": 1645388188
   },
   {
     "rank": 3,
     "id": 30410856,
     "title": "Times are great for programmers now. How does it end?",
     "url": "https://vaghetti.dev/posts/times-are-great/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "vaghetti",
+    "descendants": 602,
+    "time": 1645405587
   },
   {
     "rank": 4,
     "id": 30411049,
     "title": "Google Tag Manager, the new anti-adblock weapon (2020)",
     "url": "https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1384,
+    "by": "thyrox",
+    "descendants": 867,
+    "time": 1645407663
   },
   {
     "rank": 5,
     "id": 30412550,
     "title": "Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently",
     "url": "https://github.com/automerge/automerge",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "yamrzou",
+    "descendants": 69,
+    "time": 1645425317
   },
   {
     "rank": 6,
     "id": 30413228,
     "title": "Tell HN: Airbnb just stole me 5 minutes of my time adding dices",
     "url": "https://news.ycombinator.com/item?id=30413228",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "JeanMarcS",
+    "descendants": 377,
+    "time": 1645432032
   },
   {
     "rank": 7,
     "id": 30416070,
     "title": "Chris Lattner left Swift core team",
     "url": "https://forums.swift.org/t/core-team-to-form-language-workgroup/55455/6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 559,
+    "by": "rayx2022",
+    "descendants": 487,
+    "time": 1645452834
   },
   {
     "rank": 8,
     "id": 30416558,
     "title": "Vim 9 will be dedicated to Sven Guckes",
     "url": "https://groups.google.com/g/vim_announce/c/MJBKVd-xrEE/m/joVNaDgAAgAJ",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "rffn",
+    "descendants": 91,
+    "time": 1645455551
   },
   {
     "rank": 9,
     "id": 30417811,
     "title": "What are the most important statistical ideas of the past 50 years?",
     "url": "https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "Anon84",
+    "descendants": 98,
+    "time": 1645461973
   },
   {
     "rank": 10,
     "id": 30419618,
     "title": "I tested four NVMe SSDs from four vendors \u2013 half lose FLUSH\u2019d data on power loss",
     "url": "https://twitter.com/xenadu02/status/1495693475584557056",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 797,
+    "by": "ahachete",
+    "descendants": 397,
+    "time": 1645471777
   }
 ]

@@ -4,99 +4,99 @@
     "id": 30082313,
     "title": "In the end, you're treated like a spy, says MIT scientist",
     "url": "https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "bobbiechen",
+    "descendants": 446,
+    "time": 1643176997
   },
   {
     "rank": 2,
     "id": 30083042,
     "title": "Playwright: Automate Chromium, WebKit and Firefox",
     "url": "https://github.com/microsoft/playwright",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "cyrusmg",
+    "descendants": 140,
+    "time": 1643184755
   },
   {
     "rank": 3,
     "id": 30103306,
     "title": "We have jetpacks and we do not care",
     "url": "https://www.theguardian.com/books/2022/jan/22/its-a-glorified-backpack-of-tubes-and-turbines-dave-eggers-on-jetpacks-and-the-enigma-of-solo-flight",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "zdw",
+    "descendants": 403,
+    "time": 1643304239
   },
   {
     "rank": 4,
     "id": 30107002,
     "title": "Writing an open source GPU driver without the hardware",
     "url": "https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "mfilion",
+    "descendants": 90,
+    "time": 1643318987
   },
   {
     "rank": 5,
     "id": 30107540,
     "title": "Prime Video Uses WebAssembly",
     "url": "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "pacificat0r",
+    "descendants": 247,
+    "time": 1643321286
   },
   {
     "rank": 6,
     "id": 30108998,
     "title": "I won the local election, but my township ignored the results and state law",
     "url": "https://twitter.com/gaughen/status/1486834885964832770",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1141,
+    "by": "georgecmu",
+    "descendants": 402,
+    "time": 1643328979
   },
   {
     "rank": 7,
     "id": 30109233,
     "title": "If Looks Could Kill",
     "url": "https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 634,
+    "by": "erickhill",
+    "descendants": 259,
+    "time": 1643330454
   },
   {
     "rank": 8,
     "id": 30112595,
     "title": "Apple contributes to OBS to support screen capture using ScreenCaptureKit",
     "url": "https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 722,
+    "by": "frankjr",
+    "descendants": 188,
+    "time": 1643362926
   },
   {
     "rank": 9,
     "id": 30115214,
     "title": "Apple removes Python 2.7 in macOS 12.3 beta",
     "url": "https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 681,
+    "by": "tosh",
+    "descendants": 408,
+    "time": 1643381205
   },
   {
     "rank": 10,
     "id": 30118686,
     "title": "I got an FBI record at age 11 from dabbling in cryptography (2015)",
     "url": "https://web.stanford.edu/~learnest/les/crypto.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 770,
+    "by": "monort",
+    "descendants": 349,
+    "time": 1643395417
   }
 ]

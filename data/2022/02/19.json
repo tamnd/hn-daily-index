@@ -4,99 +4,99 @@
     "id": 30383567,
     "title": "Littlefs \u2013 A little fail-safe filesystem designed for microcontrollers",
     "url": "https://github.com/littlefs-project/littlefs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "maydemir",
+    "descendants": 65,
+    "time": 1645174826
   },
   {
     "rank": 2,
     "id": 30384121,
     "title": "Nix: An idea whose time has come",
     "url": "https://revelry.co/insights/development/nix-time/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "susam",
+    "descendants": 307,
+    "time": 1645180267
   },
   {
     "rank": 3,
     "id": 30387866,
     "title": "Windows 11 Pro will soon require a Microsoft Account during initial setup",
     "url": "https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "SoapSeller",
+    "descendants": 451,
+    "time": 1645202186
   },
   {
     "rank": 4,
     "id": 30387879,
     "title": "An example of why RSS is useful and important",
     "url": "https://tech.chrishardie.com/2022/rss-useful-important/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "ChrisHardie",
+    "descendants": 77,
+    "time": 1645202253
   },
   {
     "rank": 5,
     "id": 30389905,
     "title": "Facebook Shadow Profiles [pdf]",
     "url": "https://www.cesifo.org/en/publikationen/2022/working-paper/facebook-shadow-profiles",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "Jimmc414",
+    "descendants": 145,
+    "time": 1645211748
   },
   {
     "rank": 6,
     "id": 30392227,
     "title": "Grist \u2013 Open core alternative to Airtable and Google Sheets",
     "url": "https://github.com/gristlabs/grist-core",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 580,
+    "by": "paulfitz",
+    "descendants": 107,
+    "time": 1645224719
   },
   {
     "rank": 7,
     "id": 30393530,
     "title": "A Saudi woman's iPhone revealed hacking around the world",
     "url": "https://www.reuters.com/technology/how-saudi-womans-iphone-revealed-hacking-around-world-2022-02-17/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "arunc",
+    "descendants": 174,
+    "time": 1645234000
   },
   {
     "rank": 8,
     "id": 30396454,
     "title": "Ask HN: Do you find working on large distributed systems exhausting?",
     "url": "https://news.ycombinator.com/item?id=30396454",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "wreath",
+    "descendants": 249,
+    "time": 1645271926
   },
   {
     "rank": 9,
     "id": 30398662,
     "title": "Jujutsu \u2013 A Git-compatible DVCS that is both simple and powerful",
     "url": "https://github.com/martinvonz/jj",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "rolisz",
+    "descendants": 228,
+    "time": 1645291029
   },
   {
     "rank": 10,
     "id": 30399881,
     "title": "Show HN: Full text search on 630M US court cases",
     "url": "https://www.judyrecords.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "richardbarosky",
+    "descendants": 269,
+    "time": 1645299931
   }
 ]

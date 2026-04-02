@@ -4,99 +4,99 @@
     "id": 30502392,
     "title": "Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid",
     "url": "https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "__s",
+    "descendants": 338,
+    "time": 1646069158
   },
   {
     "rank": 2,
     "id": 30503148,
     "title": "How to take credit for someone else's work on GitHub",
     "url": "https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "arraypad",
+    "descendants": 180,
+    "time": 1646072710
   },
   {
     "rank": 3,
     "id": 30503197,
     "title": "Show HN: A more social, Amazon-free alternative to Goodreads",
     "url": "https://www.booqsi.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 478,
+    "by": "justinberding",
+    "descendants": 187,
+    "time": 1646072953
   },
   {
     "rank": 4,
     "id": 30503482,
     "title": "No user accounts, by design",
     "url": "https://f-droid.org/en/2022/02/28/no-user-accounts-by-design.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "bnr",
+    "descendants": 142,
+    "time": 1646074319
   },
   {
     "rank": 5,
     "id": 30506413,
     "title": "F-Droid \u2013 alternative to Google Play store",
     "url": "https://f-droid.org/en/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "tomrod",
+    "descendants": 155,
+    "time": 1646089421
   },
   {
     "rank": 6,
     "id": 30508314,
     "title": "Tell HN: If You Are in Russia",
     "url": "https://news.ycombinator.com/item?id=30508314",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 727,
+    "by": "jacquesm",
+    "descendants": 1068,
+    "time": 1646100074
   },
   {
     "rank": 7,
     "id": 30508524,
     "title": "Solid.js feels like what I always wanted React to be",
     "url": "https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 548,
+    "by": "jamghee",
+    "descendants": 425,
+    "time": 1646101607
   },
   {
     "rank": 8,
     "id": 30512512,
     "title": "Things you don't need JavaScript for",
     "url": "https://lexoral.com/blog/you-dont-need-js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 501,
+    "by": "StevenWaterman",
+    "descendants": 243,
+    "time": 1646132017
   },
   {
     "rank": 9,
     "id": 30515014,
     "title": "RISC-V is succeeding",
     "url": "https://semiengineering.com/why-risc-v-is-succeeding/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "PaulHoule",
+    "descendants": 299,
+    "time": 1646147123
   },
   {
     "rank": 10,
     "id": 30517049,
     "title": "Zain Nadella, Satya Nadella's son, dies at 26",
     "url": "https://www.ibtimes.com/zain-nadella-microsoft-ceo-satya-nadellas-son-dies-26-3418278",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 577,
+    "by": "softwarebeware",
+    "descendants": 121,
+    "time": 1646155755
   }
 ]
