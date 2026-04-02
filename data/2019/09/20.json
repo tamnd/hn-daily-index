@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 21016664,
+    "title": "The Pragmatic Programmer, 20th Anniversary Edition",
+    "url": "https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 21017448,
+    "title": "Amazon orders 100K electric delivery trucks from Rivian",
+    "url": "https://techcrunch.com/2019/09/19/amazon-orders-100k-electric-delivery-trucks-from-rivian-as-part-of-going-carbon-neutral-by-2040/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 21018041,
+    "title": "U.S. drone strike kills 30 pine nut farm workers in Afghanistan",
+    "url": "https://www.reuters.com/article/us-afghanistan-attack-drones/u-s-drone-strike-kills-30-pine-nut-farm-workers-in-afghanistan-idUSKBN1W40NW",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 21018675,
+    "title": "LLVM 9.0",
+    "url": "http://lists.llvm.org/pipermail/llvm-dev/2019-September/135304.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 21018916,
+    "title": "Birds Are Vanishing from North America",
+    "url": "https://www.nytimes.com/2019/09/19/science/bird-populations-america-canada.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 21020682,
+    "title": "The U.S. economy is growing and using less and less stuff to do so",
+    "url": "https://hbr.org/ideacast/2019/09/dematerialization-and-what-it-means-for-the-economy-and-climate-change",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 21021184,
+    "title": "A Gentle introduction to Kubernetes with more than just the basics",
+    "url": "https://github.com/eon01/kubernetes-workshop",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 21022620,
+    "title": "Lectures in Quantitative Economics with Python [pdf]",
+    "url": "https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 21025252,
+    "title": "Explanation of the state of uBlock Origin and other blockers for Safari",
+    "url": "https://github.com/el1t/uBlock-Safari/issues/158",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 21028361,
+    "title": "ColorBox by Lyft Design",
+    "url": "https://www.colorbox.io",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
