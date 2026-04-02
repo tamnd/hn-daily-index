@@ -4,99 +4,99 @@
     "id": 2403202,
     "title": "Clever algorithms in Ruby",
     "url": "http://www.cleveralgorithms.com/nature-inspired/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 146,
+    "by": "helwr",
+    "descendants": 7,
+    "time": 1301850745
   },
   {
     "rank": 2,
     "id": 2404330,
     "title": "Alan Turing Documentary",
     "url": "http://www.adafruit.com/blog/2011/04/03/alan-turing-documentary/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 128,
+    "by": "shawndumas",
+    "descendants": 26,
+    "time": 1301869473
   },
   {
     "rank": 3,
     "id": 2404752,
     "title": "Show HN: My weekend project, tracking the services you can't have in Canada",
     "url": "http://cantada.ca",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "mcrider",
+    "descendants": 118,
+    "time": 1301878579
   },
   {
     "rank": 4,
     "id": 2404976,
     "title": "Tron Legacy: how the special effects were done",
     "url": "http://jtnimoy.net/workviewer.php?q=178",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "basil",
+    "descendants": 77,
+    "time": 1301882606
   },
   {
     "rank": 5,
     "id": 2405829,
     "title": "How to find startup ideas that make money",
     "url": "http://www.paraschopra.com/blog/entrepreneurship/how-to-find-startup-ideas-that-make-money.htm?src=hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "sushi",
+    "descendants": 44,
+    "time": 1301905974
   },
   {
     "rank": 6,
     "id": 2406035,
     "title": "The M\u00f6bius Gear",
     "url": "http://robotics.eecs.berkeley.edu/~ahoover/Moebius.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "pmjordan",
+    "descendants": 21,
+    "time": 1301914042
   },
   {
     "rank": 7,
     "id": 2406387,
     "title": "On Tesla's induction motor",
     "url": "http://www.economist.com/blogs/babbage/2011/04/induction_motors",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 157,
+    "by": "colinprince",
+    "descendants": 77,
+    "time": 1301925432
   },
   {
     "rank": 8,
     "id": 2406614,
     "title": "Show HN: my weekend project, Gumroad",
     "url": "http://gumroad.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "sahillavingia",
+    "descendants": 202,
+    "time": 1301928197
   },
   {
     "rank": 9,
     "id": 2406655,
     "title": "Patents and innovation",
     "url": "http://googleblog.blogspot.com/2011/04/patents-and-innovation.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FMKuf+%28Official+Google+Blog%29&utm_content=Google+Reader",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "fogus",
+    "descendants": 48,
+    "time": 1301928610
   },
   {
     "rank": 10,
     "id": 2407924,
     "title": "Sshuttle - tunnel all your traffic through ssh",
     "url": "https://github.com/apenwarr/sshuttle",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "fs111",
+    "descendants": 66,
+    "time": 1301942847
   }
 ]

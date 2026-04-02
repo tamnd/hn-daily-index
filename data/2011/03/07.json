@@ -4,99 +4,99 @@
     "id": 2294202,
     "title": "Why Data Structures Matter: left, right folds, btrees ",
     "url": "http://joelneely.wordpress.com/2011/03/05/why-data-structures-matter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "gtani",
+    "descendants": 7,
+    "time": 1299420391
   },
   {
     "rank": 2,
     "id": 2294516,
     "title": "Did scientists discover bacteria in meteorites? No.",
     "url": "http://scienceblogs.com/pharyngula/2011/03/did_scientists_discover_bacter.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 134,
+    "by": "araneae",
+    "descendants": 62,
+    "time": 1299432190
   },
   {
     "rank": 3,
     "id": 2294926,
     "title": "This must be Google's Facebook clone. It sure looks like it.",
     "url": "https://profiles.google.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "aj700",
+    "descendants": 76,
+    "time": 1299442830
   },
   {
     "rank": 4,
     "id": 2295124,
     "title": "The Anti-Mac User Interface",
     "url": "http://www.useit.com/papers/anti-mac.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "uros643",
+    "descendants": 42,
+    "time": 1299448249
   },
   {
     "rank": 5,
     "id": 2296550,
     "title": "How rich kids already won the career game",
     "url": "http://michaelochurch.wordpress.com/2011/01/30/yes-rich-kids-already-won-the-career-game-heres-why/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "violetmae",
+    "descendants": 263,
+    "time": 1299488418
   },
   {
     "rank": 6,
     "id": 2297155,
     "title": "On moving from CouchDB to Riak",
     "url": "http://labs.linkfluence.net/nosql/2011/03/07/moving_from_couchdb_to_riak.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "franckcuny",
+    "descendants": 39,
+    "time": 1299507762
   },
   {
     "rank": 7,
     "id": 2297488,
     "title": "Moviebarcode - Movies compressed to a single frame",
     "url": "http://moviebarcode.tumblr.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "boredguy8",
+    "descendants": 67,
+    "time": 1299513512
   },
   {
     "rank": 8,
     "id": 2297902,
     "title": "Show HN: Beginning Android for iOS Developers",
     "url": "http://clayallsopp.posterous.com/building-an-android-app-from-scratch-or-this",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "10char",
+    "descendants": 23,
+    "time": 1299519583
   },
   {
     "rank": 9,
     "id": 2298348,
     "title": "Hey Apple, Please Be Nice and Share MacRuby",
     "url": "http://merbist.com/2011/03/07/hey-apple-please-be-nice-and-share/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "petercooper",
+    "descendants": 59,
+    "time": 1299526529
   },
   {
     "rank": 10,
     "id": 2298471,
     "title": "Accounting for Computer Scientists",
     "url": "http://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "martinkl",
+    "descendants": 75,
+    "time": 1299528528
   }
 ]

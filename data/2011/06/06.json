@@ -4,99 +4,99 @@
     "id": 2622909,
     "title": "Show HN: Log.io (Realtime log monitoring, powered by node.js + socket.io)",
     "url": "http://logio.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "msmathers",
+    "descendants": 53,
+    "time": 1307310143
   },
   {
     "rank": 2,
     "id": 2623182,
     "title": "Mistakes You Can\u2019t Afford to Make with Stock Options",
     "url": "http://gigaom.com/2011/06/05/5-mistakes-you-cant-afford-to-make-with-stock-options/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "DanielRibeiro",
+    "descendants": 61,
+    "time": 1307318539
   },
   {
     "rank": 3,
     "id": 2623753,
     "title": "A brief Sony password analysis",
     "url": "http://www.troyhunt.com/2011/06/brief-sony-password-analysis.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "troyhunt",
+    "descendants": 70,
+    "time": 1307336695
   },
   {
     "rank": 4,
     "id": 2624244,
     "title": "What agile means to me (and why it never really works)",
     "url": "http://blog.rodger-brown.com/2011/06/what-agile-means-to-me.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "hugorodgerbrown",
+    "descendants": 60,
+    "time": 1307355476
   },
   {
     "rank": 5,
     "id": 2624331,
     "title": "Piracy: are we being conned?",
     "url": "http://www.smh.com.au/technology/technology-news/piracy-are-we-being-conned-20110322-1c4cs.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "MetallicCloud",
+    "descendants": 107,
+    "time": 1307359739
   },
   {
     "rank": 6,
     "id": 2624540,
     "title": "Intel significantly speeds up graphics under Linux (X.org)",
     "url": "http://cgit.freedesktop.org/xorg/driver/xf86-video-intel/commit/?id=bcef98af561939aa48d9236b2dfa2c5626adf4cb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "valyala",
+    "descendants": 51,
+    "time": 1307365874
   },
   {
     "rank": 7,
     "id": 2625129,
     "title": "Lessons From a Coffee Entrepreneur",
     "url": "http://www.geekatsea.com/lessons-from-a-coffee-entrepreneur",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "kirillzubovsky",
+    "descendants": 86,
+    "time": 1307375814
   },
   {
     "rank": 8,
     "id": 2625605,
     "title": "Mac OS X Lion: Coming In July For $29",
     "url": "http://techcrunch.com/2011/06/06/mac-os-x-lion-coming-in-july-for-29-and-you-wont-be-able-to-buy-it-on-a-disc/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "sandipc",
+    "descendants": 200,
+    "time": 1307382582
   },
   {
     "rank": 9,
     "id": 2625860,
     "title": "Apple's iCloud will automatically store, sync data for free",
     "url": "http://www.appleinsider.com/articles/11/06/06/apples_icloud_will_automatically_store_sync_data_for_free.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "sandipc",
+    "descendants": 197,
+    "time": 1307386120
   },
   {
     "rank": 10,
     "id": 2626503,
     "title": "Chart.io hiring engineer to disrupt enterprise analytics. ",
     "url": "http://news.ycombinator.com/item?id=2626503",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "thingsilearned",
     "descendants": 0,
-    "time": 0
+    "time": 1307392806
   }
 ]

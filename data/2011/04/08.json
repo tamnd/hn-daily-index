@@ -4,99 +4,99 @@
     "id": 2419641,
     "title": "7.1 magnitude earthquake hits Japan",
     "url": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002ksa.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "ssclafani",
+    "descendants": 70,
+    "time": 1302187785
   },
   {
     "rank": 2,
     "id": 2420201,
     "title": "Life beyond HTTP 1.1: Google\u2019s SPDY",
     "url": "http://www.igvita.com/2011/04/07/life-beyond-http-11-googles-spdy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 204,
+    "by": "igrigorik",
+    "descendants": 53,
+    "time": 1302195499
   },
   {
     "rank": 3,
     "id": 2420509,
     "title": "Introducing Pow, a zero-configuration Rack server for Mac OS X",
     "url": "http://pow.cx/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "wlll",
+    "descendants": 133,
+    "time": 1302199849
   },
   {
     "rank": 4,
     "id": 2420887,
     "title": "Anonymous goes after Sony, makes it personal... very personal",
     "url": "http://arstechnica.com/tech-policy/news/2011/04/anonymous-goes-after-sony-makes-it-personal-very-personal.ars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "evo_9",
+    "descendants": 132,
+    "time": 1302204597
   },
   {
     "rank": 5,
     "id": 2421712,
     "title": "Physics Engines for Dummies",
     "url": "http://www.wildbunny.co.uk/blog/2011/04/06/physics-engines-for-dummies/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "twodayslate",
+    "descendants": 14,
+    "time": 1302219724
   },
   {
     "rank": 6,
     "id": 2421943,
     "title": " Why do apps from the same company look worse on Android than on iPhone?",
     "url": "http://android-gripes.tumblr.com/post/4409289546/why-do-apps-from-the-same-company-look-worse-on-android",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "awalker",
+    "descendants": 130,
+    "time": 1302224236
   },
   {
     "rank": 7,
     "id": 2423054,
     "title": "Birth and Death of Microsoft Bing",
     "url": "http://myprasanna.posterous.com/birth-and-death-of-microsoft-bing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "domino",
+    "descendants": 123,
+    "time": 1302254331
   },
   {
     "rank": 8,
     "id": 2423530,
     "title": "Why Can't Developers Estimate Time?",
     "url": "http://blog.patchspace.co.uk/why-cant-developers-estimate-time",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "ashleymoran",
+    "descendants": 126,
+    "time": 1302267462
   },
   {
     "rank": 9,
     "id": 2424361,
     "title": "YouTube is going Live",
     "url": "http://youtube-global.blogspot.com/2011/04/youtube-is-going-live.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+youtube%2FPKJx+%28YouTube+Blog%29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "Uncle_Sam",
+    "descendants": 79,
+    "time": 1302278634
   },
   {
     "rank": 10,
     "id": 2424822,
     "title": "Crash Course: Design for Startups",
     "url": "http://paulstamatiou.com/startup-web-design-ux-crash-course",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 523,
+    "by": "PStamatiou",
+    "descendants": 33,
+    "time": 1302284140
   }
 ]

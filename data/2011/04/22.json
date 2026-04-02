@@ -4,99 +4,99 @@
     "id": 2470012,
     "title": "Everything popular is wrong: Making it in electronic music",
     "url": "http://www.littlewhiteearbuds.com/feature/everything-popular-is-wrong-making-it-in-electronic-music-despite-democratization/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "tintin",
+    "descendants": 45,
+    "time": 1303380658
   },
   {
     "rank": 2,
     "id": 2470865,
     "title": "Fallacies of Distributed Computing",
     "url": "http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 139,
+    "by": "mindcrime",
+    "descendants": 48,
+    "time": 1303398357
   },
   {
     "rank": 3,
     "id": 2472219,
     "title": "IBM's infamous \"Black Team\"",
     "url": "http://www.t3.org/tangledwebs/07/tw0706.html#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "shawndumas",
+    "descendants": 51,
+    "time": 1303417505
   },
   {
     "rank": 4,
     "id": 2472223,
     "title": "A common bug in published code",
     "url": "http://www.google.com/codesearch?lr=&q=\\(int\\)\\s*Math\\.random\\(\\)",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 140,
+    "by": "shawndumas",
+    "descendants": 71,
+    "time": 1303417582
   },
   {
     "rank": 5,
     "id": 2472999,
     "title": "Why Twilio Wasn\u2019t Affected by Today\u2019s AWS Issues",
     "url": "http://www.twilio.com/engineering/2011/04/22/why-twilio-wasnt-affected-by-todays-aws-issues/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "johndbritton",
+    "descendants": 36,
+    "time": 1303435282
   },
   {
     "rank": 6,
     "id": 2473156,
     "title": "Amazon\u2019s problem isn\u2019t the outage, it\u2019s the communication",
     "url": "http://www.geekwire.com/2011/amazoncoms-real-problem-outage-communication",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 135,
+    "by": "webwright",
+    "descendants": 30,
+    "time": 1303440864
   },
   {
     "rank": 7,
     "id": 2473527,
     "title": "Doom engine code review",
     "url": "http://fabiensanglard.net/doomIphone/doomClassicRenderer.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "franze",
+    "descendants": 28,
+    "time": 1303459001
   },
   {
     "rank": 8,
     "id": 2473553,
     "title": "Court rules Linux kernel infringes on patents. Lawsuit avalanche to follow.",
     "url": "http://www.zdnet.com/blog/google/google-infringes-on-linux-patent-5-million-judgment/2912",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "iwwr",
+    "descendants": 65,
+    "time": 1303460602
   },
   {
     "rank": 9,
     "id": 2473932,
     "title": "Linus Torvalds on Garbage Collection (2002)",
     "url": "http://gcc.gnu.org/ml/gcc/2002-08/msg00552.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "AndrewDucker",
+    "descendants": 204,
+    "time": 1303477540
   },
   {
     "rank": 10,
     "id": 2474970,
     "title": "Questions you\u2019ll (probably) get asked at your YC interview",
     "url": "http://www.hyperinkpress.com/news/2011/04/22/5-questions-youll-probably-get-asked-at-your-yc-interview/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "kevingao1",
+    "descendants": 39,
+    "time": 1303497594
   }
 ]

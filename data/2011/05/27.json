@@ -4,99 +4,99 @@
     "id": 2587640,
     "title": "BareMetal is a 64-bit OS for x86-64 based computers",
     "url": "http://www.returninfinity.com/baremetal.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "fogus",
+    "descendants": 79,
+    "time": 1306417038
   },
   {
     "rank": 2,
     "id": 2588278,
     "title": "Coming soon: make your phone your wallet",
     "url": "http://googleblog.blogspot.com/2011/05/coming-soon-make-your-phone-your-wallet.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "Uncle_Sam",
+    "descendants": 97,
+    "time": 1306426970
   },
   {
     "rank": 3,
     "id": 2588788,
     "title": "Sen. Ron Wyden places a \"hold\" on the PROTECT IP Act",
     "url": "http://arstechnica.com/tech-policy/news/2011/05/sen-ron-wyden-to-place-a-hold-on-the-protect-ip-act.ars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "chanks",
+    "descendants": 29,
+    "time": 1306433390
   },
   {
     "rank": 4,
     "id": 2589952,
     "title": "PayPal sues Google + ex-PayPal VP for Google Wallet",
     "url": "https://www.thepaypalblog.com/2011/05/paypal-files-lawsuit-to-protect-trade-secrets-a-reason-worth-fighting-for",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 166,
+    "by": "zengr",
+    "descendants": 71,
+    "time": 1306455793
   },
   {
     "rank": 5,
     "id": 2590175,
     "title": "HTC sides with consumers: No more locked bootloaders in Android phones",
     "url": "https://www.facebook.com/HTC/posts/10150307320018084",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "drivebyacct2",
+    "descendants": 77,
+    "time": 1306461445
   },
   {
     "rank": 6,
     "id": 2591102,
     "title": "Let's just use Emacs",
     "url": "http://beastwithin.org/users/wwwwolf/fantasy/avarthrel/blog/2011/05/lets-just-use-emacs.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "codeup",
+    "descendants": 160,
+    "time": 1306495732
   },
   {
     "rank": 7,
     "id": 2591154,
     "title": "On Chomsky and the Two Cultures of Statistical Learning",
     "url": "http://norvig.com/chomsky.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "EdiX",
+    "descendants": 107,
+    "time": 1306497509
   },
   {
     "rank": 8,
     "id": 2591535,
     "title": "Microsoft makes 5 times more income from Android than from Windows Phone",
     "url": "http://www.asymco.com/2011/05/27/microsoft-has-received-five-times-more-income-from-android-than-from-windows-phone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "woobar",
+    "descendants": 66,
+    "time": 1306506258
   },
   {
     "rank": 9,
     "id": 2591845,
     "title": "These are things in PHP which make me sad",
     "url": "http://www.phpsadness.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "johnkary",
+    "descendants": 212,
+    "time": 1306511007
   },
   {
     "rank": 10,
     "id": 2592399,
     "title": "Why should anyone ever use a Google API again?",
     "url": "http://googlecode.blogspot.com/2011/05/spring-cleaning-for-some-of-our-apis.html?showComment=1306481143396#c3564212561169948866",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "bauchidgw",
+    "descendants": 180,
+    "time": 1306518891
   }
 ]

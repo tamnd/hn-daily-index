@@ -4,99 +4,99 @@
     "id": 2453622,
     "title": "RFC 2468 - I remember IANA",
     "url": "http://jacquesmattheij.com/I+remember+IANA",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 100,
+    "by": "ColinWright",
+    "descendants": 3,
+    "time": 1302946040
   },
   {
     "rank": 2,
     "id": 2453873,
     "title": "Conway's Game of Life Extrusion",
     "url": "http://www.qotile.net/blog/wp/?p=600",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 94,
+    "by": "brunoc",
+    "descendants": 29,
+    "time": 1302958846
   },
   {
     "rank": 3,
     "id": 2453895,
     "title": "A Patently Obvious Problem",
     "url": "http://www.nytimes.com/2011/04/16/opinion/16Lichtman.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 107,
+    "by": "petethomas",
+    "descendants": 33,
+    "time": 1302959670
   },
   {
     "rank": 4,
     "id": 2454651,
     "title": "How Bitcoin Works",
     "url": "https://en.bitcoin.it/wiki/How_bitcoin_works",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 156,
+    "by": "kam",
+    "descendants": 50,
+    "time": 1302982387
   },
   {
     "rank": 5,
     "id": 2454773,
     "title": "Khan Academy Redesign",
     "url": "http://shipordie.com/post/4662729644/mobile-social-local-pivot-well-one-of-those",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 90,
+    "by": "woan",
+    "descendants": 20,
+    "time": 1302985661
   },
   {
     "rank": 6,
     "id": 2454926,
     "title": "Square's Disruptive Payment Service About to Get A Huge Retail Boost from Apple",
     "url": "http://techcrunch.com/2011/04/16/square-apple/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 162,
+    "by": "Jsarokin",
+    "descendants": 70,
+    "time": 1302990369
   },
   {
     "rank": 7,
     "id": 2455573,
     "title": "List of copyrighted places",
     "url": "http://www.istockphoto.com/tutorial_copyright_list.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 98,
+    "by": "hippich",
+    "descendants": 34,
+    "time": 1303015453
   },
   {
     "rank": 8,
     "id": 2455793,
     "title": "Git is Inconsistent",
     "url": "http://r6.ca/blog/20110416T204742Z.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 157,
+    "by": "sheffield",
+    "descendants": 79,
+    "time": 1303029189
   },
   {
     "rank": 9,
     "id": 2455871,
     "title": "In the UK? Strange browser behaviour? You might be being IWF\u2019d.",
     "url": "http://grimboy.co.uk/blawg/in-the-uk-being-told-youre-already-downloading-or-have-failed-the-captcha-too-many-times-by-file-hosting-sites-for-no-reason-you-might-be-being-iwfd/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "_b8r0",
+    "descendants": 47,
+    "time": 1303034396
   },
   {
     "rank": 10,
     "id": 2456222,
     "title": "Fooling myself to work",
     "url": "http://www.dextronet.com/blog/2011/04/10-best-tricks-of-fooling-myself-to-work/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "jirinovotny",
+    "descendants": 78,
+    "time": 1303051738
   }
 ]

@@ -4,99 +4,99 @@
     "id": 2486255,
     "title": "How to beat Apple",
     "url": "http://kottke.org/11/04/how-to-beat-apple",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "locopati",
+    "descendants": 118,
+    "time": 1303838884
   },
   {
     "rank": 2,
     "id": 2486841,
     "title": "Pixar's Library",
     "url": "http://graphics.pixar.com/library/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "DanielRibeiro",
+    "descendants": 32,
+    "time": 1303847004
   },
   {
     "rank": 3,
     "id": 2487973,
     "title": "Heroku's AWS outage post-mortem",
     "url": "http://status.heroku.com/incident/151",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "mileszs",
+    "descendants": 80,
+    "time": 1303866686
   },
   {
     "rank": 4,
     "id": 2488406,
     "title": "Your taste is why your work disappoints you.",
     "url": "http://kottke.org/11/04/your-taste-is-why-your-own-work-disappoints-you",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "entangld",
+    "descendants": 57,
+    "time": 1303878990
   },
   {
     "rank": 5,
     "id": 2489237,
     "title": "Apple Q&A on gathering and use of location data (Apple Press Release)",
     "url": "http://www.apple.com/pr/library/2011/04/27location_qa.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "andysinclair",
+    "descendants": 148,
+    "time": 1303908003
   },
   {
     "rank": 6,
     "id": 2489563,
     "title": "Google\u2019s secret perk? A private hackerspace",
     "url": "http://hackaday.com/2011/04/27/googles-secret-perk-a-private-hackerspace/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "yan",
+    "descendants": 53,
+    "time": 1303914206
   },
   {
     "rank": 7,
     "id": 2489709,
     "title": "Why I, Jeff Bezos, Keep Spending Billions On Amazon R&D",
     "url": "http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/04/27/businessinsider-why-i-jeff-bezos-keep-spending-billions-on-amazon-rd-2011-4.DTL",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "rrrgggrrr",
+    "descendants": 124,
+    "time": 1303916671
   },
   {
     "rank": 8,
     "id": 2490067,
     "title": "YouTube Founders Acquire Delicious From Yahoo",
     "url": "http://www.avos.com/delicious-press-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "ChrisArchitect",
+    "descendants": 118,
+    "time": 1303922367
   },
   {
     "rank": 9,
     "id": 2490148,
     "title": "YouTube Founders Acquire Delicious",
     "url": "http://blog.delicious.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "Isofarro",
+    "descendants": 17,
+    "time": 1303923736
   },
   {
     "rank": 10,
     "id": 2490444,
     "title": "Building a Web Application that makes $500 a Month \u2013 Part II",
     "url": "http://tbbuck.com/building-a-web-application-that-makes-500-a-month-%E2%80%93-part-ii/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "mootothemax",
+    "descendants": 46,
+    "time": 1303927830
   }
 ]

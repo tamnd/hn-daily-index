@@ -4,99 +4,99 @@
     "id": 2291734,
     "title": "Fabric hits 1.0",
     "url": "http://pypi.python.org/pypi/Fabric/1.0.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "jonknee",
+    "descendants": 21,
+    "time": 1299343553
   },
   {
     "rank": 2,
     "id": 2291773,
     "title": "Feynman's wobbling plate: how to recover from burnout",
     "url": "http://www.physics.ohio-state.edu/~kilcup/262/feynman.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 204,
+    "by": "neilk",
+    "descendants": 22,
+    "time": 1299344596
   },
   {
     "rank": 3,
     "id": 2291968,
     "title": "Python now uses Mercurial",
     "url": "http://hg.python.org/cpython/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "jonknee",
+    "descendants": 111,
+    "time": 1299349674
   },
   {
     "rank": 4,
     "id": 2292106,
     "title": "Lunch with Sean Parker: on how he's coping with his new reputation",
     "url": "http://www.ft.com/cms/s/2/8383ab06-45e3-11e0-acd8-00144feab49a.html#axzz1FkqxeoCx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "estherschindler",
+    "descendants": 32,
+    "time": 1299353388
   },
   {
     "rank": 5,
     "id": 2292916,
     "title": "Ask HN: I'm an unemployed programmer in SF that will work for minimum wage",
     "url": "http://news.ycombinator.com/item?id=2292916",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 127,
+    "by": "unemployedinSF",
+    "descendants": 135,
+    "time": 1299369946
   },
   {
     "rank": 6,
     "id": 2293202,
     "title": "How Github has changed the open source world",
     "url": "http://honza.ca/2011/03/7-ways-github-has-changed-the-open-source-world/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 114,
+    "by": "honza",
+    "descendants": 49,
+    "time": 1299376472
   },
   {
     "rank": 7,
     "id": 2293950,
     "title": "The need to code",
     "url": "http://jacquesmattheij.com/The+need+to+code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 156,
+    "by": "vijaydev",
+    "descendants": 46,
+    "time": 1299407112
   },
   {
     "rank": 8,
     "id": 2294103,
     "title": "51 hours left to live",
     "url": "http://www.reddit.com/r/IAmA/comments/fy6yz/51_hours_left_to_live/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "processing",
+    "descendants": 112,
+    "time": 1299415315
   },
   {
     "rank": 9,
     "id": 2294268,
     "title": "Why Silicon Valley Immigrant Entrepreneurs Are Returning Home",
     "url": "http://techcrunch.com/2011/03/06/why-silicon-valley-immigrant-entrepreneurs-are-returning-home/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "tomh-",
+    "descendants": 84,
+    "time": 1299424528
   },
   {
     "rank": 10,
     "id": 2294441,
     "title": "Get your own #dickbar",
     "url": "http://encodedrecords.com/dickbar/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "davewiner",
+    "descendants": 60,
+    "time": 1299429597
   }
 ]

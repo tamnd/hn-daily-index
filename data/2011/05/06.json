@@ -4,99 +4,99 @@
     "id": 2518120,
     "title": "Sony was running unpatched Apache with no firewall for months before breach",
     "url": "http://consumerist.com/2011/05/security-expert-sony-knew-its-software-was-obsolete-months-before-psn-breach.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "joshes",
+    "descendants": 65,
+    "time": 1304615574
   },
   {
     "rank": 2,
     "id": 2519248,
     "title": "Game developer David Braben creates a USB stick PC for $25",
     "url": "http://www.geek.com/articles/games/game-developer-david-braben-creates-a-usb-stick-pc-for-25-2011055/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "bluesmoon",
+    "descendants": 91,
+    "time": 1304636346
   },
   {
     "rank": 3,
     "id": 2519273,
     "title": "Front End Development Guidelines",
     "url": "http://taitems.tumblr.com/post/5213581396/my-role-with-my-last-employer-involved-creating",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 154,
+    "by": "taitems",
+    "descendants": 49,
+    "time": 1304636927
   },
   {
     "rank": 4,
     "id": 2519674,
     "title": "The author of Nginx on why V8 is not suitable for web servers",
     "url": "http://translate.google.com/translate?js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&sl=ru&tl=en&u=http%3A%2F%2Fsysoev.ru%2Fprog%2Fv8.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "hanszeir",
+    "descendants": 70,
+    "time": 1304645798
   },
   {
     "rank": 5,
     "id": 2520371,
     "title": "Mozilla tells DHS: we won't help you censor the Internet",
     "url": "http://www.boingboing.net/2011/05/05/mozilla-tells-dhs-we.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "miraj",
+    "descendants": 41,
+    "time": 1304670950
   },
   {
     "rank": 6,
     "id": 2520787,
     "title": "Stolen Camera Finder",
     "url": "http://www.stolencamerafinder.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "obtino",
+    "descendants": 70,
+    "time": 1304686417
   },
   {
     "rank": 7,
     "id": 2521231,
     "title": "How fast is the Internet at Google? Mind blowing.",
     "url": "http://thenextweb.com/shareables/2011/03/29/how-fast-is-the-internet-at-google-mind-blowing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "dannyr",
+    "descendants": 99,
+    "time": 1304696163
   },
   {
     "rank": 8,
     "id": 2521488,
     "title": "Apple not providing LGPL webkit source code for latest iOS 4.3.x",
     "url": "http://laforge.gnumonks.org/weblog/2011/05/06/#20110506-applewebkit_lgpl",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "gnufs",
+    "descendants": 112,
+    "time": 1304700022
   },
   {
     "rank": 9,
     "id": 2521763,
     "title": "Getting Users For Your New Startup",
     "url": "http://blog.pud.com/post/5239917032/users",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "pud",
+    "descendants": 59,
+    "time": 1304703998
   },
   {
     "rank": 10,
     "id": 2522220,
     "title": "Google humans.txt",
     "url": "http://www.google.com/humans.txt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "Anon84",
+    "descendants": 57,
+    "time": 1304711425
   }
 ]

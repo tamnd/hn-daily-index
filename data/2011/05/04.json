@@ -4,40 +4,40 @@
     "id": 2510592,
     "title": "Anatomy of a Fake Quotation",
     "url": "http://www.theatlantic.com/national/archive/2011/05/anatomy-of-a-fake-quotation/238257/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "bjonathan",
+    "descendants": 25,
+    "time": 1304439632
   },
   {
     "rank": 2,
     "id": 2510964,
     "title": "Why I still don\u2019t contribute to open source",
     "url": "http://brandonhays.com/blog/2011/05/03/why-i-still-dont-contribute-to-open-source/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "phiggy",
+    "descendants": 97,
+    "time": 1304445193
   },
   {
     "rank": 3,
     "id": 2511535,
     "title": "Linode launches native IPv6 support",
     "url": "http://blog.linode.com/2011/05/03/linode-launches-native-ipv6-support/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 148,
+    "by": "tasaro",
+    "descendants": 49,
+    "time": 1304454788
   },
   {
     "rank": 4,
     "id": 2511808,
     "title": "Tor project decides to fork Firefox",
     "url": "http://blog.torproject.org/blog/toggle-or-not-toggle-end-torbutton",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "aj700",
+    "descendants": 18,
+    "time": 1304459774
   },
   {
     "rank": 5,
@@ -47,56 +47,56 @@
     "score": 0,
     "by": "",
     "descendants": 0,
-    "time": 0
+    "time": 1304487458
   },
   {
     "rank": 6,
     "id": 2513293,
     "title": "Electron Band Structure In Germanium, My Ass ",
     "url": "http://pages.cs.wisc.edu/~kovar/hall.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "bootload",
+    "descendants": 97,
+    "time": 1304501644
   },
   {
     "rank": 7,
     "id": 2513708,
     "title": "Get-shit-done - Easy way to stop distractions",
     "url": "https://github.com/leftnode/get-shit-done",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "leftnode",
+    "descendants": 76,
+    "time": 1304515180
   },
   {
     "rank": 8,
     "id": 2514020,
     "title": "Your Chrome browser might not be using HTTP anymore",
     "url": "http://www.igvita.com/2011/04/07/life-beyond-http-11-googles-spdy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "tsycho",
+    "descendants": 51,
+    "time": 1304521184
   },
   {
     "rank": 9,
     "id": 2514270,
     "title": "The Last Post",
     "url": "http://www.penmachine.com/2011/05/the-last-post",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 604,
+    "by": "gtzi",
+    "descendants": 61,
+    "time": 1304525509
   },
   {
     "rank": 10,
     "id": 2514363,
     "title": "Intel Reinvents Transistors Using New 3-D Structure",
     "url": "http://newsroom.intel.com/community/intel_newsroom/blog/2011/05/04/intel-reinvents-transistors-using-new-3-d-structure",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "brewski",
+    "descendants": 101,
+    "time": 1304527190
   }
 ]
