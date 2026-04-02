@@ -14,13 +14,23 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 142,
+    "score": 144,
     "by": "novaRom",
     "descendants": 66,
     "time": 1775127000
   },
   {
     "rank": 3,
+    "id": 47613078,
+    "title": "Inside Nepal's Fake Rescue Racket",
+    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+    "score": 11,
+    "by": "lode",
+    "descendants": 0,
+    "time": 1775130041
+  },
+  {
+    "rank": 4,
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
@@ -30,7 +40,7 @@
     "time": 1775117951
   },
   {
-    "rank": 4,
+    "rank": 5,
     "id": 47603657,
     "title": "Artemis II Launch Day Updates",
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
@@ -40,7 +50,7 @@
     "time": 1775063491
   },
   {
-    "rank": 5,
+    "rank": 6,
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
@@ -48,16 +58,6 @@
     "by": "AbuAssar",
     "descendants": 1,
     "time": 1775127891
-  },
-  {
-    "rank": 6,
-    "id": 47613078,
-    "title": "Inside Nepal's Fake Rescue Racket",
-    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 10,
-    "by": "lode",
-    "descendants": 0,
-    "time": 1775130041
   },
   {
     "rank": 7,
