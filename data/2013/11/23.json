@@ -4,99 +4,99 @@
     "id": 6780240,
     "title": "Redis 2.8.0 stable is out",
     "url": "https://groups.google.com/forum/#!msg/redis-db/37xgI268Nh8/GEz0260U5QoJ",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 180,
+    "by": "antirez",
+    "descendants": 58,
+    "time": 1385119472
   },
   {
     "rank": 2,
     "id": 6780306,
     "title": "Wolfram Language",
     "url": "https://reference.wolfram.com/language",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "lelf",
+    "descendants": 122,
+    "time": 1385121365
   },
   {
     "rank": 3,
     "id": 6780878,
     "title": "Richest Bitcoin Addresses",
     "url": "http://bitcoinrichlist.com/top100",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 172,
+    "by": "cfontes",
+    "descendants": 200,
+    "time": 1385130702
   },
   {
     "rank": 4,
     "id": 6781454,
     "title": "ClojureScript Koans: Learn ClojureScript from inside your browser",
     "url": "http://clojurescriptkoans.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "lazerwalker",
+    "descendants": 36,
+    "time": 1385135606
   },
   {
     "rank": 5,
     "id": 6782077,
     "title": "Why don't metals bond when touched together?",
     "url": "http://physics.stackexchange.com/a/87109/17365",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "laurent123456",
+    "descendants": 26,
+    "time": 1385140328
   },
   {
     "rank": 6,
     "id": 6782092,
     "title": "How to design a class",
     "url": "http://stackoverflow.com/a/4203836/553404",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "SandB0x",
+    "descendants": 67,
+    "time": 1385140445
   },
   {
     "rank": 7,
     "id": 6782972,
     "title": "Building a Crystal Clear Whiteboard",
     "url": "http://hackaday.com/2013/11/22/building-a-crystal-clear-whiteboard/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "hepha1979",
+    "descendants": 44,
+    "time": 1385147185
   },
   {
     "rank": 8,
     "id": 6784085,
     "title": "Programming Language Checklist",
     "url": "http://colinm.org/language_checklist.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "kibwen",
+    "descendants": 64,
+    "time": 1385157964
   },
   {
     "rank": 9,
     "id": 6784383,
     "title": "Sudden Progress on Prime Number Problem Has Mathematicians Buzzing",
     "url": "http://www.wired.com/wiredscience/2013/11/prime/all/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "lelf",
+    "descendants": 74,
+    "time": 1385161885
   },
   {
     "rank": 10,
     "id": 6784967,
     "title": "Walmart Node.js Memory Leak",
     "url": "http://www.joyent.com/blog/walmart-node-js-memory-leak",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "btmills",
+    "descendants": 75,
+    "time": 1385174091
   }
 ]

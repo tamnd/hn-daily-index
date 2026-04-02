@@ -4,99 +4,99 @@
     "id": 6707776,
     "title": "Facebook Publications",
     "url": "https://www.facebook.com/publications",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "fizwhiz",
+    "descendants": 24,
+    "time": 1384108498
   },
   {
     "rank": 2,
     "id": 6708664,
     "title": "I quit my job, and I'm excited about a more independent life",
     "url": "http://danielhough.co.uk/blog/unhuddled/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "basicallydan",
+    "descendants": 113,
+    "time": 1384121243
   },
   {
     "rank": 3,
     "id": 6708800,
     "title": "Four years of Go",
     "url": "http://blog.golang.org/4years",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "enneff",
+    "descendants": 195,
+    "time": 1384123355
   },
   {
     "rank": 4,
     "id": 6709466,
     "title": "Tetris and The Power Of CSS",
     "url": "http://www.heydonworks.com/article/tetris-the-power-of-css",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "nej",
+    "descendants": 46,
+    "time": 1384134258
   },
   {
     "rank": 5,
     "id": 6709901,
     "title": "Microsoft Research Publications",
     "url": "http://research.microsoft.com/apps/catalog/default.aspx?t=publications",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "Legend",
+    "descendants": 28,
+    "time": 1384142945
   },
   {
     "rank": 6,
     "id": 6710232,
     "title": "Amazon to Begin Sunday Deliveries, With Post Office's Help",
     "url": "http://online.wsj.com/news/article_email/SB10001424052702304868404579190091121691258-lMyQjAxMTAzMDEwMDExNDAyWj",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "coloneltcb",
+    "descendants": 127,
+    "time": 1384150197
   },
   {
     "rank": 7,
     "id": 6710668,
     "title": "The Narcissism of Small Code Differences (2008)",
     "url": "http://raganwald.com/2008/05/narcissism-of-small-code-differences.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "anuragramdasan",
+    "descendants": 126,
+    "time": 1384160444
   },
   {
     "rank": 8,
     "id": 6710863,
     "title": "Simpsons in CSS",
     "url": "http://pattle.github.io/simpsons-in-css/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "pattle",
+    "descendants": 78,
+    "time": 1384164835
   },
   {
     "rank": 9,
     "id": 6711069,
     "title": "Linux ate my RAM ",
     "url": "http://www.linuxatemyram.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "wallzz",
+    "descendants": 125,
+    "time": 1384169395
   },
   {
     "rank": 10,
     "id": 6712703,
     "title": "Why You Should Never Use MongoDB",
     "url": "http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "hyperpape",
+    "descendants": 337,
+    "time": 1384190767
   }
 ]

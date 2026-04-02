@@ -4,99 +4,99 @@
     "id": 6491037,
     "title": "The Hacker News Generation (Afraid of Hard Work)",
     "url": "http://simpleprogrammer.com/2013/08/12/hard-work/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "AlexeyBrin",
+    "descendants": 213,
+    "time": 1380826011
   },
   {
     "rank": 2,
     "id": 6492245,
     "title": "Ocean acidification due to carbon emissions is at highest for 300m years",
     "url": "http://www.theguardian.com/environment/2013/oct/03/ocean-acidification-carbon-dioxide-emissions-levels",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "anon1385",
+    "descendants": 144,
+    "time": 1380835911
   },
   {
     "rank": 3,
     "id": 6492649,
     "title": "Stanford researchers to open source model they say has nailed sentiment analysis",
     "url": "http://gigaom.com/2013/10/03/stanford-researchers-to-open-source-model-they-say-has-nailed-sentiment-analysis/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "suprgeek",
+    "descendants": 66,
+    "time": 1380840064
   },
   {
     "rank": 4,
     "id": 6492781,
     "title": "Center of the universe",
     "url": "http://www.orangecoast.com/features/2013/09/23/center-of-the-universe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "pudakai",
+    "descendants": 115,
+    "time": 1380842146
   },
   {
     "rank": 5,
     "id": 6493510,
     "title": "Mozilla bug 923590: Pledge never to implement HTML5 DRM",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=923590",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 904,
+    "by": "chris_wot",
+    "descendants": 357,
+    "time": 1380856140
   },
   {
     "rank": 6,
     "id": 6495056,
     "title": "MongoDB Raises $150 Million at $1.2 Billion Valuation",
     "url": "http://www.bloomberg.com/news/2013-10-04/mongodb-becomes-king-of-nyc-startups-with-1-2-billion-valuation.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "sethbannon",
+    "descendants": 223,
+    "time": 1380891753
   },
   {
     "rank": 7,
     "id": 6495358,
     "title": "Melatonin",
     "url": "http://www.gwern.net/Melatonin",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "gwern",
+    "descendants": 219,
+    "time": 1380895038
   },
   {
     "rank": 8,
     "id": 6495771,
     "title": "Attacking Tor: how the NSA targets users' online anonymity",
     "url": "http://www.theguardian.com/world/2013/oct/04/tor-attacks-nsa-users-online-anonymity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 654,
+    "by": "brkcmd",
+    "descendants": 176,
+    "time": 1380899411
   },
   {
     "rank": 9,
     "id": 6495798,
     "title": "'Tor Stinks' presentation \u2013\u00a0read the full document",
     "url": "http://www.theguardian.com/world/interactive/2013/oct/04/tor-stinks-nsa-presentation-document",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "RMacy",
+    "descendants": 107,
+    "time": 1380899589
   },
   {
     "rank": 10,
     "id": 6497478,
     "title": "Model S Fire",
     "url": "http://www.teslamotors.com/blog/model-s-fire",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 594,
+    "by": "shakes",
+    "descendants": 238,
+    "time": 1380915655
   }
 ]

@@ -4,99 +4,99 @@
     "id": 6461936,
     "title": "Spaced repetition for study and learning",
     "url": "http://www.gwern.net/Spaced%20repetition?2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "gwern",
+    "descendants": 111,
+    "time": 1380380229
   },
   {
     "rank": 2,
     "id": 6461974,
     "title": "My time with the Steam Controller",
     "url": "http://tommyrefenes.tumblr.com/post/62476523677/my-time-with-the-steam-controller",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "zdw",
+    "descendants": 78,
+    "time": 1380381245
   },
   {
     "rank": 3,
     "id": 6462430,
     "title": "Underscore Price Dynamics",
     "url": "http://www.marco.org/2013/09/28/underscore-price-dynamics",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "mh_",
+    "descendants": 87,
+    "time": 1380389228
   },
   {
     "rank": 4,
     "id": 6463011,
     "title": "UTF-8 \u2013 \"The most elegant hack\"",
     "url": "http://hackaday.com/2013/09/27/utf-8-the-most-elegant-hack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "raldu",
+    "descendants": 174,
+    "time": 1380399178
   },
   {
     "rank": 5,
     "id": 6463394,
     "title": "Why Free Software Is More Important Now Than Ever Before",
     "url": "http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "hexis",
+    "descendants": 275,
+    "time": 1380408103
   },
   {
     "rank": 6,
     "id": 6463948,
     "title": "Day 180: Finished",
     "url": "http://blog.jenniferdewalt.com/post/62472912052/day-180-finished",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "wallflower",
+    "descendants": 89,
+    "time": 1380424218
   },
   {
     "rank": 7,
     "id": 6464138,
     "title": "Keypress: A Javascript library for capturing input",
     "url": "http://dmauro.github.io/Keypress/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "nsmalch",
+    "descendants": 55,
+    "time": 1380429156
   },
   {
     "rank": 8,
     "id": 6464495,
     "title": "Create diagrams in the browser",
     "url": "https://www.draw.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "gpsarakis",
+    "descendants": 42,
+    "time": 1380441925
   },
   {
     "rank": 9,
     "id": 6465049,
     "title": "SpaceX Launch - Official Webcast",
     "url": "http://www.spacex.com/webcast/#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "nkoren",
+    "descendants": 160,
+    "time": 1380459450
   },
   {
     "rank": 10,
     "id": 6465919,
     "title": "Free HTML Starter Templates for Bootstrap",
     "url": "http://startbootstrap.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 448,
+    "by": "jalan",
+    "descendants": 80,
+    "time": 1380477145
   }
 ]

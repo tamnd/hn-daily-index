@@ -4,99 +4,99 @@
     "id": 6751191,
     "title": "Read less HN",
     "url": "http://johnmurray.io/log/2013/11/17/Read-Less-HN.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "johnmurray_io",
+    "descendants": 132,
+    "time": 1384725960
   },
   {
     "rank": 2,
     "id": 6751416,
     "title": "Mercurial developer responds to \"Switch to git?\"",
     "url": "https://groups.google.com/forum/#!msg/codereview-discuss/ilUffSph68I/NCldEt2Ii-4J",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "St-Clock",
+    "descendants": 198,
+    "time": 1384728615
   },
   {
     "rank": 3,
     "id": 6751492,
     "title": "Google's Decline Really Bugs Me",
     "url": "http://blackhole12.blogspot.com/2013/11/googles-decline-really-bugs-me.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "blackhole",
+    "descendants": 277,
+    "time": 1384729850
   },
   {
     "rank": 4,
     "id": 6752800,
     "title": "GitHub R\u00e9sum\u00e9",
     "url": "http://resume.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "jmduke",
+    "descendants": 108,
+    "time": 1384753431
   },
   {
     "rank": 5,
     "id": 6753583,
     "title": "Code Firefox",
     "url": "http://codefirefox.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 540,
+    "by": "robin_reala",
+    "descendants": 84,
+    "time": 1384769138
   },
   {
     "rank": 6,
     "id": 6754154,
     "title": "Idiomatic Clojure with LightTable",
     "url": "https://metaphysicaldeveloper.wordpress.com/2013/11/18/idiomatic-clojure-with-lighttable/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "imdhmd",
+    "descendants": 56,
+    "time": 1384780924
   },
   {
     "rank": 7,
     "id": 6754953,
     "title": "Ask HN: I'm 15, won a grant to develop a suicide prevention app, what next?",
     "url": "http://news.ycombinator.com/item?id=6754953",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "krrishd",
+    "descendants": 157,
+    "time": 1384791032
   },
   {
     "rank": 8,
     "id": 6755650,
     "title": "Australis is landing in Firefox Nightly",
     "url": "https://blog.mozilla.org/ux/2013/11/australis-is-landing-in-firefox-nightly/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "bpierre",
+    "descendants": 193,
+    "time": 1384797013
   },
   {
     "rank": 9,
     "id": 6755722,
     "title": "Visual Cryptography",
     "url": "http://datagenetics.com/blog/november32013/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "ivoflipse",
+    "descendants": 40,
+    "time": 1384797718
   },
   {
     "rank": 10,
     "id": 6756144,
     "title": "What It's Like to Fail",
     "url": "http://priceonomics.com/what-its-like-to-fail/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 834,
+    "by": "ryan_j_naughton",
+    "descendants": 317,
+    "time": 1384801250
   }
 ]
