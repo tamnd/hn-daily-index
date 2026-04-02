@@ -4,99 +4,99 @@
     "id": 1543871,
     "title": "Lost in Translation",
     "url": "http://online.wsj.com/article/SB10001424052748703467304575383131592767868.html?mod=WSJ_LifeStyle_Lifestyle_5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 109,
+    "by": "grellas",
+    "descendants": 47,
+    "time": 1279986633
   },
   {
     "rank": 2,
     "id": 1544100,
     "title": "Roadmap for Learning Rails",
     "url": "http://techiferous.com/2010/07/roadmap-for-learning-rails/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 107,
+    "by": "desigooner",
+    "descendants": 45,
+    "time": 1279994705
   },
   {
     "rank": 3,
     "id": 1544581,
     "title": "Poll: Are you a Programmer?",
     "url": "http://news.ycombinator.com/item?id=1544581",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 94,
+    "by": "Ardit20",
+    "descendants": 80,
+    "time": 1280012847
   },
   {
     "rank": 4,
     "id": 1544663,
     "title": "Tweet Less, Kiss More",
     "url": "http://www.nytimes.com/2010/07/17/opinion/17herbert.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 111,
+    "by": "ricaurte",
+    "descendants": 42,
+    "time": 1280016875
   },
   {
     "rank": 5,
     "id": 1545063,
     "title": "GitHub Hits One Million Hosted Projects",
     "url": "http://techcrunch.com/2010/07/24/github-one-million",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 105,
+    "by": "bkudria",
+    "descendants": 19,
+    "time": 1280037629
   },
   {
     "rank": 6,
     "id": 1545120,
     "title": "Poll: When do you usually go to bed?",
     "url": "http://news.ycombinator.com/item?id=1545120",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 105,
+    "by": "antichaos",
+    "descendants": 52,
+    "time": 1280041255
   },
   {
     "rank": 7,
     "id": 1545178,
     "title": "XOR patent ended CD32, and Commodore-Amiga (1994/2005)",
     "url": "http://xcssa.org/pipermail/xcssa/2005-February/002587.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 112,
+    "by": "gokhan",
+    "descendants": 20,
+    "time": 1280044786
   },
   {
     "rank": 8,
     "id": 1545452,
     "title": "-2000 lines of code",
     "url": "http://folklore.org/StoryView.py?project=Macintosh&story=Negative_2000_Lines_Of_Code.txt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "aycangulez",
+    "descendants": 50,
+    "time": 1280061448
   },
   {
     "rank": 9,
     "id": 1545774,
     "title": "Ask HN: My brain refuses to think, what should I do?",
     "url": "http://news.ycombinator.com/item?id=1545774",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "DeusExMachina",
+    "descendants": 147,
+    "time": 1280074997
   },
   {
     "rank": 10,
     "id": 1546135,
     "title": "Old School Color Cycling with HTML5",
     "url": "http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "jhuckaby",
+    "descendants": 51,
+    "time": 1280085684
   }
 ]

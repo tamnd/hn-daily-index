@@ -4,99 +4,99 @@
     "id": 1541592,
     "title": "How Digg does continuous deployment",
     "url": "http://about.digg.com/blog/continuous-deployment-code-review-and-pre-tested-commits-digg4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "malyk",
+    "descendants": 24,
+    "time": 1279901908
   },
   {
     "rank": 2,
     "id": 1541945,
     "title": "Tab Candy: Mozilla Labs is making Firefox tabs sweet",
     "url": "http://www.azarask.in/blog/post/tabcandy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 115,
+    "by": "mbrubeck",
+    "descendants": 87,
+    "time": 1279908639
   },
   {
     "rank": 3,
     "id": 1542212,
     "title": "Step 1) Install pyre2 2) import re2 as re 3) 10x faster regex",
     "url": "http://github.com/axiak/pyre2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 97,
+    "by": "axiak",
+    "descendants": 27,
+    "time": 1279914371
   },
   {
     "rank": 4,
     "id": 1542484,
     "title": "How to Build a Data-Driven Startup",
     "url": "http://davidcancel.com/data-driven-startups/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 129,
+    "by": "dcancel",
+    "descendants": 20,
+    "time": 1279921192
   },
   {
     "rank": 5,
     "id": 1542601,
     "title": "Is The Game Industry A Happy Place?",
     "url": "http://www.gamasutra.com/view/news/29292/Analysis_Is_The_Game_Industry_A_Happy_Place.php#comment58886",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 74,
+    "by": "chaostheory",
+    "descendants": 20,
+    "time": 1279924571
   },
   {
     "rank": 6,
     "id": 1542798,
     "title": "Austrialia censors 90% of web censorship plan to avoid \"unnecessary debate\"",
     "url": "http://www.smh.com.au/technology/technology-news/no-minister-90-of-web-snoop-document-censored-to-stop--premature-unnecessary-debate-20100722-10mxo.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 138,
+    "by": "mcantelon",
+    "descendants": 44,
+    "time": 1279932329
   },
   {
     "rank": 7,
     "id": 1543057,
     "title": "Desperate Perl Hacker",
     "url": "http://www.tbray.org/ongoing/When/201x/2010/07/21/DPH",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 99,
+    "by": "frossie",
+    "descendants": 81,
+    "time": 1279942945
   },
   {
     "rank": 8,
     "id": 1543147,
     "title": "New York governor approves short-term apartment rental ban in NYC",
     "url": "http://travel.usatoday.com/destinations/dispatches/post/2010/07/new-york-governor-approves-short-term-apartment-rental-ban-in-nyc/101054/1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 96,
+    "by": "kvs",
+    "descendants": 137,
+    "time": 1279948556
   },
   {
     "rank": 9,
     "id": 1543586,
     "title": "Developing and Deploying a Simple Clojure Web Application",
     "url": "http://mmcgrana.github.com/2010/07/develop-deploy-clojure-web-applications.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "liebke",
+    "descendants": 40,
+    "time": 1279977461
   },
   {
     "rank": 10,
     "id": 1543595,
     "title": "A few git tips you didn't know about",
     "url": "http://mislav.uniqpath.com/2010/07/git-tips/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 154,
+    "by": "mtodd",
+    "descendants": 7,
+    "time": 1279977944
   }
 ]

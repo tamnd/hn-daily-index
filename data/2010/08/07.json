@@ -4,99 +4,99 @@
     "id": 1580721,
     "title": "Stop thinking about how to scale. Startups die from not having customers.",
     "url": "http://www.aorsi.com/wb/startups_die_for_not_having_customers_so_stop_thinking_about_how_to_scale/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 112,
+    "by": "zooey",
+    "descendants": 42,
+    "time": 1281091232
   },
   {
     "rank": 2,
     "id": 1581104,
     "title": "Debian Squeeze Frozen ",
     "url": "http://lists.debian.org/debian-announce/2010/msg00009.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 86,
+    "by": "flojo",
+    "descendants": 41,
+    "time": 1281104992
   },
   {
     "rank": 3,
     "id": 1581135,
     "title": "Martin Odersky on Scala and Clojure",
     "url": "http://blog.fogus.me/2010/08/06/martinodersky-take5-tolist/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 103,
+    "by": "swannodette",
+    "descendants": 22,
+    "time": 1281105646
   },
   {
     "rank": 4,
     "id": 1581400,
     "title": "JS1k, 1k Javascript demo contest",
     "url": "http://js1k.com/home",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 105,
+    "by": "sant0sk1",
+    "descendants": 18,
+    "time": 1281110695
   },
   {
     "rank": 5,
     "id": 1581696,
     "title": "Structure and Interpretation of Classical Mechanics",
     "url": "http://mitpress.mit.edu/sicm/book.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 101,
+    "by": "xel02",
+    "descendants": 20,
+    "time": 1281116256
   },
   {
     "rank": 6,
     "id": 1582130,
     "title": "G\u00f6del, Escher, Bach: A Mental Space Odyssey",
     "url": "http://ocw.mit.edu/high-school/courses/godel-escher-bach/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 106,
+    "by": "kydoh",
+    "descendants": 44,
+    "time": 1281123963
   },
   {
     "rank": 7,
     "id": 1582219,
     "title": "Two Envelopes Problem",
     "url": "http://en.wikipedia.org/wiki/Two_envelopes_problem",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 112,
+    "by": "atomon",
+    "descendants": 88,
+    "time": 1281126123
   },
   {
     "rank": 8,
     "id": 1582402,
     "title": "Bill Gates: In Five Years The Best Education Will Come From The Web",
     "url": "http://techcrunch.com/2010/08/06/bill-gates-education/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "BvS",
+    "descendants": 141,
+    "time": 1281130948
   },
   {
     "rank": 9,
     "id": 1583135,
     "title": "Fraud charges against HashRocket executives dropped",
     "url": "http://jacksonville.com/business/2010-08-06/story/government-seeks-dismiss-mail-fraud-charges",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 109,
+    "by": "henning",
+    "descendants": 16,
+    "time": 1281160946
   },
   {
     "rank": 10,
     "id": 1583673,
     "title": "Why we need to abolish software patents",
     "url": "http://techcrunch.com/2010/08/07/why-we-need-to-abolish-software-patents/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "cwan",
+    "descendants": 59,
+    "time": 1281194120
   }
 ]
