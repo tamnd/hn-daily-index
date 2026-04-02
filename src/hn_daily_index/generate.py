@@ -296,8 +296,12 @@ def _generate_readme() -> str:
                 )
                 lines.append("")
         else:
-            # Older years: single collapsed details with all month calendars
-            lines.append(f"<details><summary><h3>[{year}](data/{year}/) ({covered}/{total_days} days)</h3></summary>")
+            # Older years: heading + collapsed month calendars
+            lines.append(
+                f"### [{year}](data/{year}/) ({covered}/{total_days} days)"
+            )
+            lines.append("")
+            lines.append("<details><summary>Show calendars</summary>")
             lines.append("")
 
             for month_key in month_keys:
