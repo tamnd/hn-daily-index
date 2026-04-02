@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in March 2020.
 
+- [2020-03-31 (Tuesday)](#2020-03-31)
 - [2020-03-30 (Monday)](#2020-03-30)
 - [2020-03-29 (Sunday)](#2020-03-29)
 - [2020-03-28 (Saturday)](#2020-03-28)
@@ -34,6 +35,21 @@ Top 10 Hacker News stories for each day in March 2020.
 - [2020-03-01 (Sunday)](#2020-03-01)
 
 ---
+
+## 2020-03-31
+
+*Tuesday*
+
+1. [Writing an OS in Rust: Async/Await](https://os.phil-opp.com/async-await/) (os.phil-opp.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22727985)
+2. [Please Fund More Science](https://blog.samaltman.com/please-fund-more-science) (blog.samaltman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22730292)
+3. [Zoom meetings aren’t end-to-end encrypted, despite marketing](https://theintercept.com/2020/03/31/zoom-meeting-encryption/) (theintercept.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22735746)
+4. [How the Zoom macOS installer does its job without you clicking ‘install’](https://twitter.com/c1truz_/status/1244737672930824193) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22736608)
+5. [Court: Violating a site’s terms of service isn’t criminal hacking](https://arstechnica.com/tech-policy/2020/03/court-violating-a-sites-terms-of-service-isnt-criminal-hacking/) (arstechnica.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22738180)
+6. [Honda bucks industry trend by removing touchscreen controls](https://www.autocar.co.uk/car-news/motor-shows-geneva-motor-show/honda-bucks-industry-trend-removing-touchscreen-controls) (autocar.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22738415)
+7. [I think Catalina 10.15.4 broke SSH](https://feed.tyler.io/so-uh-i-think-catalina-10154-broke-ssh/) (feed.tyler.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22738590)
+8. [Amazon fires worker who led strike over virus](https://www.bloomberg.com/news/articles/2020-03-30/amazon-worker-who-led-strike-over-virus-says-company-fired-him) (bloomberg.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22738592)
+9. [Apple acquires Dark Sky](https://blog.darksky.net/dark-sky-has-a-new-home/) (blog.darksky.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22739839)
+10. [FCC will require phone carriers to authenticate calls by June 2021 [pdf]](https://docs.fcc.gov/public/attachments/DOC-363399A1.pdf) (docs.fcc.gov) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22742349)
 
 ## 2020-03-30
 
