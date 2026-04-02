@@ -4,99 +4,99 @@
     "id": 42382357,
     "title": "Making my first robot as a software engineer",
     "url": "https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "robertleoj",
+    "descendants": 68,
+    "time": 1733869892
   },
   {
     "rank": 2,
     "id": 42407250,
     "title": "My PhD advisor rewrote himself in bash (2010)",
     "url": "https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "vismit2000",
+    "descendants": 104,
+    "time": 1734082915
   },
   {
     "rank": 3,
     "id": 42410582,
     "title": "Ask HN: What should I do with meet.hn?",
     "url": "https://news.ycombinator.com/item?id=42410582",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "sirobg",
+    "descendants": 168,
+    "time": 1734111510
   },
   {
     "rank": 4,
     "id": 42410803,
     "title": "MarkItDown: Python tool for converting files and office documents to Markdown",
     "url": "https://github.com/microsoft/markitdown",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "Handy-Man",
+    "descendants": 81,
+    "time": 1734112923
   },
   {
     "rank": 5,
     "id": 42412360,
     "title": "Sharing new research, models, and datasets from Meta FAIR",
     "url": "https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "ilaksh",
+    "descendants": 63,
+    "time": 1734124028
   },
   {
     "rank": 6,
     "id": 42412718,
     "title": "OpenAI whistleblower found dead in San Francisco apartment",
     "url": "https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1041,
+    "by": "mmorearty",
+    "descendants": 429,
+    "time": 1734126989
   },
   {
     "rank": 7,
     "id": 42413086,
     "title": "McKinsey and Company to pay $650M for role in opioid crisis",
     "url": "https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "pseudolus",
+    "descendants": 304,
+    "time": 1734130624
   },
   {
     "rank": 8,
     "id": 42413677,
     "title": "Ilya Sutskever NeurIPS talk [video]",
     "url": "https://www.youtube.com/watch?v=1yvBqasHLZs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "mfiguiere",
+    "descendants": 240,
+    "time": 1734137357
   },
   {
     "rank": 9,
     "id": 42413757,
     "title": "macOS 15.2 breaks the ability to copy the OS to another drive",
     "url": "https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "zdw",
+    "descendants": 317,
+    "time": 1734138264
   },
   {
     "rank": 10,
     "id": 42415122,
     "title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
     "url": "https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "zxexz",
+    "descendants": 84,
+    "time": 1734158195
   }
 ]

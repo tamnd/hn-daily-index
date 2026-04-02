@@ -4,99 +4,99 @@
     "id": 42172565,
     "title": "Two undersea cables in Baltic Sea disrupted",
     "url": "https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 597,
+    "by": "mooreds",
+    "descendants": 1045,
+    "time": 1731940277
   },
   {
     "rank": 2,
     "id": 42173233,
     "title": "A BBC navigation bar component broke depending on the external monitor",
     "url": "https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "ulrischa",
+    "descendants": 120,
+    "time": 1731943737
   },
   {
     "rank": 3,
     "id": 42174231,
     "title": "MailCatcher runs a super simple SMTP server",
     "url": "https://mailcatcher.me/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "mooreds",
+    "descendants": 90,
+    "time": 1731948689
   },
   {
     "rank": 4,
     "id": 42174829,
     "title": "Show HN: FastGraphRAG \u2013 Better RAG using good old PageRank",
     "url": "https://github.com/circlemind-ai/fast-graphrag",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "liukidar",
+    "descendants": 119,
+    "time": 1731951793
   },
   {
     "rank": 5,
     "id": 42175023,
     "title": "20 years of Google Scholar",
     "url": "https://blog.google/outreach-initiatives/education/google-scholar-20-years/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "thepuppet33r",
+    "descendants": 186,
+    "time": 1731952878
   },
   {
     "rank": 6,
     "id": 42177619,
     "title": "Scientific American's departing editor and the politicization of science",
     "url": "https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 499,
+    "by": "Bostonian",
+    "descendants": 994,
+    "time": 1731967494
   },
   {
     "rank": 7,
     "id": 42177767,
     "title": "DOJ will push Google to sell off Chrome",
     "url": "https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1248,
+    "by": "redm",
+    "descendants": 1437,
+    "time": 1731968647
   },
   {
     "rank": 8,
     "id": 42178761,
     "title": "Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference",
     "url": "https://cerebras.ai/blog/llama-405b-inference",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "benchmarkist",
+    "descendants": 156,
+    "time": 1731975304
   },
   {
     "rank": 9,
     "id": 42181345,
     "title": "Fair coins tend to land on the side they started",
     "url": "https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "seanhunter",
+    "descendants": 182,
+    "time": 1732007030
   },
   {
     "rank": 10,
     "id": 42182519,
     "title": "OpenStreetMap's New Vector Tiles",
     "url": "https://tech.marksblogg.com/osm-mvt-vector-tiles.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "marklit",
+    "descendants": 147,
+    "time": 1732017782
   }
 ]

@@ -4,99 +4,99 @@
     "id": 42557098,
     "title": "An Unreasonable Amount of Time",
     "url": "https://allenpike.com/2024/an-unreasonable-amount-of-time",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "memalign",
+    "descendants": 89,
+    "time": 1735629619
   },
   {
     "rank": 2,
     "id": 42559882,
     "title": "Systems ideas that sound good but almost never work",
     "url": "https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "kaycebasques",
+    "descendants": 261,
+    "time": 1735663674
   },
   {
     "rank": 3,
     "id": 42559909,
     "title": "The GTA III port for the Dreamcast has been released",
     "url": "https://gitlab.com/skmp/dca3-game",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 439,
+    "by": "Funes-",
+    "descendants": 163,
+    "time": 1735663941
   },
   {
     "rank": 4,
     "id": 42561711,
     "title": "Arnis: Generate cities in Minecraft from OpenStreetMap",
     "url": "https://github.com/louis-e/arnis",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 476,
+    "by": "jamesy0ung",
+    "descendants": 70,
+    "time": 1735678032
   },
   {
     "rank": 5,
     "id": 42562750,
     "title": "Happy New Year 2025",
     "url": "https://news.ycombinator.com/item?id=42562750",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1223,
+    "by": "martynvandijke",
+    "descendants": 258,
+    "time": 1735688916
   },
   {
     "rank": 6,
     "id": 42562847,
     "title": "Static search trees: faster than binary search",
     "url": "https://curiouscoding.nl/posts/static-search-tree/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 656,
+    "by": "atombender",
+    "descendants": 232,
+    "time": 1735690083
   },
   {
     "rank": 7,
     "id": 42565606,
     "title": "30% drop in O1-preview accuracy when Putnam problems are slightly variated",
     "url": "https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "optimalsolver",
+    "descendants": 526,
+    "time": 1735734078
   },
   {
     "rank": 8,
     "id": 42566112,
     "title": "DOOM CAPTCHA",
     "url": "https://doom-captcha.vercel.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1316,
+    "by": "denysvitali",
+    "descendants": 270,
+    "time": 1735740735
   },
   {
     "rank": 9,
     "id": 42566192,
     "title": "Databases in 2024: A Year in Review",
     "url": "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 625,
+    "by": "avinassh",
+    "descendants": 209,
+    "time": 1735741659
   },
   {
     "rank": 10,
     "id": 42568399,
     "title": "Terence Tao: One of my papers got declined today",
     "url": "https://mathstodon.xyz/@tao/113721192051328193",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 853,
+    "by": "GavCo",
+    "descendants": 290,
+    "time": 1735758777
   }
 ]

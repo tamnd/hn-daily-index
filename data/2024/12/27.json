@@ -4,99 +4,99 @@
     "id": 42512371,
     "title": "Seconds Since the Epoch",
     "url": "https://aphyr.com/posts/378-seconds-since-the-epoch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "zdw",
+    "descendants": 220,
+    "time": 1735174767
   },
   {
     "rank": 2,
     "id": 42512713,
     "title": "Siyuan: Privacy-first, self-hosted personal knowledge management software",
     "url": "https://github.com/siyuan-note/siyuan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "thunderbong",
+    "descendants": 156,
+    "time": 1735179999
   },
   {
     "rank": 3,
     "id": 42513157,
     "title": "Differential Growth Addon for Blender",
     "url": "https://boris.okunskiy.name/posts/blender-differential-growth",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "kelseyfrog",
+    "descendants": 47,
+    "time": 1735188091
   },
   {
     "rank": 4,
     "id": 42517164,
     "title": "Write Your Own Virtual Machine (2022)",
     "url": "https://www.jmeiners.com/lc3-vm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "sebg",
+    "descendants": 97,
+    "time": 1735241418
   },
   {
     "rank": 5,
     "id": 42518833,
     "title": "Bill requiring US agencies to share source code with each other becomes law",
     "url": "https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 459,
+    "by": "speckx",
+    "descendants": 168,
+    "time": 1735257472
   },
   {
     "rank": 6,
     "id": 42520151,
     "title": "Quiver: A Modern Commutative Diagram Editor",
     "url": "https://github.com/varkor/quiver",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "peterkos",
+    "descendants": 35,
+    "time": 1735277261
   },
   {
     "rank": 7,
     "id": 42521598,
     "title": "Missiles are now the biggest killer of airline passengers",
     "url": "https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 585,
+    "by": "JumpCrisscross",
+    "descendants": 431,
+    "time": 1735302113
   },
   {
     "rank": 8,
     "id": 42521865,
     "title": "Does current AI represent a dead end?",
     "url": "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 543,
+    "by": "jnord",
+    "descendants": 1049,
+    "time": 1735305857
   },
   {
     "rank": 9,
     "id": 42523745,
     "title": "Scale Model of Boeing 777-300ER, Made from Manila Folders",
     "url": "https://www.lucaiaconistewart.com/model-777",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 561,
+    "by": "uticus",
+    "descendants": 100,
+    "time": 1735318413
   },
   {
     "rank": 10,
     "id": 42524568,
     "title": "They have not been trained for this",
     "url": "https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 645,
+    "by": "hacka22",
+    "descendants": 155,
+    "time": 1735323565
   }
 ]

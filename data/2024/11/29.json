@@ -4,99 +4,99 @@
     "id": 42244791,
     "title": "Borgo Programming Language",
     "url": "https://borgo-lang.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "MrBuddyCasino",
+    "descendants": 198,
+    "time": 1732620830
   },
   {
     "rank": 2,
     "id": 42260481,
     "title": "Spotify has shut down several API endpoints",
     "url": "https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "leecoursey",
+    "descendants": 290,
+    "time": 1732746801
   },
   {
     "rank": 3,
     "id": 42265533,
     "title": "A pretty visualisation of the European power grid (2022)",
     "url": "https://121gigawatts.org/copper-sushi-power-flow-european-grid/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "9dev",
+    "descendants": 194,
+    "time": 1732804424
   },
   {
     "rank": 4,
     "id": 42268310,
     "title": "The success and failure of Ninja (2020)",
     "url": "https://neugierig.org/software/blog/2020/05/ninja.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "quincepie",
+    "descendants": 82,
+    "time": 1732825274
   },
   {
     "rank": 5,
     "id": 42268580,
     "title": "Send someone you appreciate an official 'Continue and Persist' Letter",
     "url": "https://ContinueAndPersist.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1414,
+    "by": "adnanaga",
+    "descendants": 224,
+    "time": 1732828615
   },
   {
     "rank": 6,
     "id": 42269227,
     "title": "Engineers do not get to make startup mistakes when they build ledgers",
     "url": "https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "fagnerbrack",
+    "descendants": 551,
+    "time": 1732835027
   },
   {
     "rank": 7,
     "id": 42272927,
     "title": "GIMP 3.0",
     "url": "https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "chmaynard",
+    "descendants": 197,
+    "time": 1732877433
   },
   {
     "rank": 8,
     "id": 42273505,
     "title": "Don't Fuck with Scroll",
     "url": "https://dontfuckwithscroll.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "a_siekierski",
+    "descendants": 146,
+    "time": 1732884771
   },
   {
     "rank": 9,
     "id": 42274489,
     "title": "Llama.cpp guide \u2013 Running LLMs locally on any hardware, from scratch",
     "url": "https://steelph0enix.github.io/posts/llama-cpp-guide/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "zarekr",
+    "descendants": 87,
+    "time": 1732894114
   },
   {
     "rank": 10,
     "id": 42275033,
     "title": "Why pipes sometimes get \\\"stuck\\\": buffering",
     "url": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "tanelpoder",
+    "descendants": 103,
+    "time": 1732898631
   }
 ]

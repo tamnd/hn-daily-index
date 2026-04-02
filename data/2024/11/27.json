@@ -4,99 +4,99 @@
     "id": 42248584,
     "title": "Teen mathematicians tie knots through a mind-blowing fractal",
     "url": "https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "GavCo",
+    "descendants": 68,
+    "time": 1732646606
   },
   {
     "rank": 2,
     "id": 42248630,
     "title": "GenChess",
     "url": "https://labs.google/genchess",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "xnx",
+    "descendants": 235,
+    "time": 1732646824
   },
   {
     "rank": 3,
     "id": 42249746,
     "title": "ZetaOffice: LibreOffice in the Browser",
     "url": "https://zetaoffice.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "marcodiego",
+    "descendants": 141,
+    "time": 1732653144
   },
   {
     "rank": 4,
     "id": 42249790,
     "title": "D-Link says it won't patch 60k older modems",
     "url": "https://www.techradar.com/pro/security/d-link-says-it-wont-patch-60-000-older-modems-as-theyre-not-worth-saving",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "lobo_tuerto",
+    "descendants": 170,
+    "time": 1732653377
   },
   {
     "rank": 5,
     "id": 42251799,
     "title": "Hacker in Snowflake extortions may be a U.S. soldier",
     "url": "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "todsacerdoti",
+    "descendants": 194,
+    "time": 1732668796
   },
   {
     "rank": 6,
     "id": 42252336,
     "title": "I Didn't Need Kubernetes, and You Probably Don't Either",
     "url": "https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "bhouston",
+    "descendants": 424,
+    "time": 1732674379
   },
   {
     "rank": 7,
     "id": 42253119,
     "title": "The capacitor that Apple soldered incorrectly at the factory",
     "url": "https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 536,
+    "by": "zdw",
+    "descendants": 259,
+    "time": 1732684208
   },
   {
     "rank": 8,
     "id": 42254156,
     "title": "Show HN: App that asks \u2018why?\u2019 every time you unlock your phone",
     "url": "https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 817,
+    "by": "jarko27",
+    "descendants": 381,
+    "time": 1732696475
   },
   {
     "rank": 9,
     "id": 42258103,
     "title": "You can use C-Reduce for any language",
     "url": "https://bernsteinbear.com/blog/creduce/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "Tomte",
+    "descendants": 113,
+    "time": 1732730184
   },
   {
     "rank": 10,
     "id": 42259278,
     "title": "Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230",
     "url": "https://github.com/xairy/lights-out",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1042,
+    "by": "xairy",
+    "descendants": 521,
+    "time": 1732738255
   }
 ]

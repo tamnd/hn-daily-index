@@ -4,99 +4,99 @@
     "id": 42302907,
     "title": "Next-level frosted glass with backdrop-filter",
     "url": "https://www.joshwcomeau.com/css/backdrop-filter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "timdorr",
+    "descendants": 65,
+    "time": 1733197393
   },
   {
     "rank": 2,
     "id": 42312469,
     "title": "I algorithmically donated $5000 to Open Source",
     "url": "https://kvinogradov.com/algo-sponsors/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "lorey",
+    "descendants": 84,
+    "time": 1733265905
   },
   {
     "rank": 3,
     "id": 42336207,
     "title": "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
     "url": "https://github.com/trailbaseio/trailbase",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "thunderbong",
+    "descendants": 99,
+    "time": 1733457619
   },
   {
     "rank": 4,
     "id": 42340065,
     "title": "Install postmarketOS on Android phone and use Docker as a home server",
     "url": "https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "raybb",
+    "descendants": 115,
+    "time": 1733494997
   },
   {
     "rank": 5,
     "id": 42340959,
     "title": "TikTok divestment law upheld by federal appeals court",
     "url": "https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "belter",
+    "descendants": 507,
+    "time": 1733500851
   },
   {
     "rank": 6,
     "id": 42341506,
     "title": "Mistakes as a new manager",
     "url": "https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "Sharpie4679",
+    "descendants": 148,
+    "time": 1733504210
   },
   {
     "rank": 7,
     "id": 42343089,
     "title": "<dialog>: The Dialog Element",
     "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "htunnicliff",
+    "descendants": 153,
+    "time": 1733512147
   },
   {
     "rank": 8,
     "id": 42343953,
     "title": "Lies I was told about collab editing, Part 1: Algorithms for offline editing",
     "url": "https://www.moment.dev/blog/lies-i-was-told-pt-1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "antics",
+    "descendants": 122,
+    "time": 1733516527
   },
   {
     "rank": 9,
     "id": 42344002,
     "title": "My second year without a job",
     "url": "https://shilin.ca/my-second-year-without-job/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 688,
+    "by": "true_pk",
+    "descendants": 929,
+    "time": 1733516765
   },
   {
     "rank": 10,
     "id": 42351101,
     "title": "Just: Just a Command Runner",
     "url": "https://just.systems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 610,
+    "by": "thunderbong",
+    "descendants": 314,
+    "time": 1733591492
   }
 ]

@@ -4,99 +4,99 @@
     "id": 42485746,
     "title": "Hoarder: Self-hostable bookmark-everything app",
     "url": "https://github.com/hoarder-app/hoarder",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "thunderbong",
+    "descendants": 106,
+    "time": 1734867257
   },
   {
     "rank": 2,
     "id": 42489645,
     "title": "Cognitive load is what matters",
     "url": "https://minds.md/zakirullin/cognitive",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1769,
+    "by": "zdw",
+    "descendants": 721,
+    "time": 1734905892
   },
   {
     "rank": 3,
     "id": 42492508,
     "title": "Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?",
     "url": "https://news.ycombinator.com/item?id=42492508",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "zackoverflow",
+    "descendants": 631,
+    "time": 1734938608
   },
   {
     "rank": 4,
     "id": 42493808,
     "title": "On the nature of computing science (1984)",
     "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "ColinWright",
+    "descendants": 111,
+    "time": 1734955398
   },
   {
     "rank": 5,
     "id": 42494127,
     "title": "Adversarial policies beat superhuman Go AIs (2023)",
     "url": "https://arxiv.org/abs/2211.00241",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "amichail",
+    "descendants": 139,
+    "time": 1734959415
   },
   {
     "rank": 6,
     "id": 42505454,
     "title": "macOS menu bar app that shows how full the ISS urine tank is in real time",
     "url": "https://github.com/Jaennaet/pISSStream",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1139,
+    "by": "ajdude",
+    "descendants": 253,
+    "time": 1735079920
   },
   {
     "rank": 7,
     "id": 42506145,
     "title": "T * sin (t)' \u2248 Ornamented Christmas Tree (2013)",
     "url": "https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "ryeguy_24",
+    "descendants": 44,
+    "time": 1735088842
   },
   {
     "rank": 8,
     "id": 42506577,
     "title": "Merry Christmas Everyone",
     "url": "https://news.ycombinator.com/item?id=42506577",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1503,
+    "by": "joshagilend",
+    "descendants": 383,
+    "time": 1735096207
   },
   {
     "rank": 9,
     "id": 42507185,
     "title": "This open problem taught me what topology is [video]",
     "url": "https://www.youtube.com/watch?v=IQqtsm-bBRU",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "surprisetalk",
+    "descendants": 83,
+    "time": 1735106925
   },
   {
     "rank": 10,
     "id": 42507312,
     "title": "Ruby 3.4.0",
     "url": "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "aaronbrethorst",
+    "descendants": 274,
+    "time": 1735108807
   }
 ]

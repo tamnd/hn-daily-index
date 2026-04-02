@@ -4,99 +4,99 @@
     "id": 42253735,
     "title": "Rails is better low code than low code",
     "url": "https://radanskoric.com/articles/rails-is-better-low-code-than-low-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "thunderbong",
+    "descendants": 242,
+    "time": 1732691788
   },
   {
     "rank": 2,
     "id": 42257040,
     "title": "Vesuvius Challenge: First letters found in new scroll",
     "url": "https://scrollprize.substack.com/p/first-letters-found-in-new-scroll",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "leocassarani",
+    "descendants": 27,
+    "time": 1732722993
   },
   {
     "rank": 3,
     "id": 42288956,
     "title": "Kubernetes on Hetzner: cutting my infra bill by 75%",
     "url": "https://bilbof.com/posts/kubernetes-on-hetzner",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "BillFranklin",
+    "descendants": 220,
+    "time": 1733067820
   },
   {
     "rank": 4,
     "id": 42289310,
     "title": "Procedural knowledge in pretraining drives reasoning in large language models",
     "url": "https://arxiv.org/abs/2411.12580",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "reqo",
+    "descendants": 101,
+    "time": 1733072066
   },
   {
     "rank": 5,
     "id": 42289690,
     "title": "Show HN: Markwhen: Markdown for Timelines",
     "url": "https://markwhen.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 912,
+    "by": "koch",
+    "descendants": 98,
+    "time": 1733075928
   },
   {
     "rank": 6,
     "id": 42289955,
     "title": "Ask HN: How can I grow as an engineer without good seniors to learn from?",
     "url": "https://news.ycombinator.com/item?id=42289955",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 577,
+    "by": "prathameshgh",
+    "descendants": 298,
+    "time": 1733079382
   },
   {
     "rank": 7,
     "id": 42290448,
     "title": "What will enter the public domain in 2025?",
     "url": "https://publicdomainreview.org/features/entering-the-public-domain/2025/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "Tomte",
+    "descendants": 341,
+    "time": 1733084222
   },
   {
     "rank": 8,
     "id": 42296067,
     "title": "Intel announces retirement of Pat Gelsinger",
     "url": "https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 913,
+    "by": "tybulewicz",
+    "descendants": 741,
+    "time": 1733146662
   },
   {
     "rank": 9,
     "id": 42297644,
     "title": "World Labs: Generate 3D worlds from a single image",
     "url": "https://www.worldlabs.ai/blog",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "dmarcos",
+    "descendants": 135,
+    "time": 1733156332
   },
   {
     "rank": 10,
     "id": 42299863,
     "title": "Facebook's Little Red Book",
     "url": "https://www.map.cv/blog/redbook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "heshiebee",
+    "descendants": 283,
+    "time": 1733170055
   }
 ]

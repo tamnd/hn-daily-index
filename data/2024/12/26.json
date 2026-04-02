@@ -4,99 +4,99 @@
     "id": 42494466,
     "title": "Ugandan runner due to arrive in London after 516 days, 7,700 miles on the road",
     "url": "https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "thunderbong",
+    "descendants": 165,
+    "time": 1734962884
   },
   {
     "rank": 2,
     "id": 42506569,
     "title": "Show HN: FixBrowser \u2013 a lightweight web browser created from scratch",
     "url": "https://www.fixbrowser.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "jezek2",
+    "descendants": 147,
+    "time": 1735096093
   },
   {
     "rank": 3,
     "id": 42507116,
     "title": "Show HN: I made a website to semantically search ArXiv papers",
     "url": "https://papermatch.mitanshu.tech/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "Quizzical4230",
+    "descendants": 104,
+    "time": 1735105452
   },
   {
     "rank": 4,
     "id": 42508642,
     "title": "F*: A proof oriented general purpose programming language",
     "url": "https://fstar-lang.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "akkad33",
+    "descendants": 61,
+    "time": 1735132600
   },
   {
     "rank": 5,
     "id": 42509953,
     "title": "Portspoof: Emulate a valid service on all 65535 TCP ports",
     "url": "https://github.com/drk1wi/portspoof",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "nateb2022",
+    "descendants": 141,
+    "time": 1735148644
   },
   {
     "rank": 6,
     "id": 42511318,
     "title": "Server-Sent Events (SSE) Are Underrated",
     "url": "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "Igor_Wiwi",
+    "descendants": 150,
+    "time": 1735162555
   },
   {
     "rank": 7,
     "id": 42512636,
     "title": "Egui \u2013 An immediate mode GUI written in Rust",
     "url": "https://www.egui.rs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "josephcsible",
+    "descendants": 136,
+    "time": 1735178770
   },
   {
     "rank": 8,
     "id": 42512896,
     "title": "Blackcandy: Self hosted music streaming server",
     "url": "https://github.com/blackcandy-org/blackcandy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 697,
+    "by": "nateb2022",
+    "descendants": 298,
+    "time": 1735183054
   },
   {
     "rank": 9,
     "id": 42513022,
     "title": "A Minecraft server written in COBOL",
     "url": "https://github.com/meyfa/CobolCraft",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "notamy",
+    "descendants": 121,
+    "time": 1735185594
   },
   {
     "rank": 10,
     "id": 42517447,
     "title": "Ghostty 1.0",
     "url": "https://ghostty.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2319,
+    "by": "matrixhelix",
+    "descendants": 681,
+    "time": 1735244097
   }
 ]

@@ -4,99 +4,99 @@
     "id": 42107078,
     "title": "Voyager 1 breaks its silence with NASA via radio transmitter not used since 1981",
     "url": "https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "elsewhen",
+    "descendants": 306,
+    "time": 1731332919
   },
   {
     "rank": 2,
     "id": 42162622,
     "title": "All-in-one embedding model for interleaved text, images, and screenshots",
     "url": "https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "fzliu",
+    "descendants": 31,
+    "time": 1731829328
   },
   {
     "rank": 3,
     "id": 42163597,
     "title": "Bpftune uses BPF to auto-tune Linux systems",
     "url": "https://github.com/oracle/bpftune",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "BSDobelix",
+    "descendants": 73,
+    "time": 1731843515
   },
   {
     "rank": 4,
     "id": 42165397,
     "title": "AlphaProof's Greatest Hits",
     "url": "https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "rishicomplex",
+    "descendants": 133,
+    "time": 1731864045
   },
   {
     "rank": 5,
     "id": 42166606,
     "title": "Why did Windows 95 setup use three operating systems?",
     "url": "https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "mooreds",
+    "descendants": 192,
+    "time": 1731873264
   },
   {
     "rank": 6,
     "id": 42167633,
     "title": "Reverse Engineering iOS 18 Inactivity Reboot",
     "url": "https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 522,
+    "by": "moonsword",
+    "descendants": 169,
+    "time": 1731880226
   },
   {
     "rank": 7,
     "id": 42169998,
     "title": "We are shutting down Ondsel",
     "url": "https://ondsel.com/blog/goodbye/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "pabs3",
+    "descendants": 184,
+    "time": 1731908458
   },
   {
     "rank": 8,
     "id": 42170740,
     "title": "Reactive HTML Notebooks",
     "url": "https://maxbo.me/a-html-file-is-all-you-need.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "california-og",
+    "descendants": 54,
+    "time": 1731918812
   },
   {
     "rank": 9,
     "id": 42171164,
     "title": "I was banned from the hCaptcha accessibility account for not being blind (2023)",
     "url": "https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 410,
+    "by": "blindgeek",
+    "descendants": 269,
+    "time": 1731924808
   },
   {
     "rank": 10,
     "id": 42174204,
     "title": "Launch HN: Regatta Storage (YC F24) \u2013 Turn S3 into a local-like, POSIX cloud FS",
     "url": "https://news.ycombinator.com/item?id=42174204",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 587,
+    "by": "huntaub",
+    "descendants": 320,
+    "time": 1731948549
   }
 ]

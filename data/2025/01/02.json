@@ -4,99 +4,99 @@
     "id": 42557255,
     "title": "Software Design Is Knowledge Building",
     "url": "https://olano.dev/blog/software-design-is-knowledge-building/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "signa11",
+    "descendants": 110,
+    "time": 1735631994
   },
   {
     "rank": 2,
     "id": 42564687,
     "title": "Books I Loved Reading in 2024",
     "url": "https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "simplegeek",
+    "descendants": 175,
+    "time": 1735719369
   },
   {
     "rank": 3,
     "id": 42565821,
     "title": "Show HN: API Parrot \u2013 Automatically Reverse Engineer HTTP APIs",
     "url": "https://apiparrot.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "pvarghav",
+    "descendants": 117,
+    "time": 1735737303
   },
   {
     "rank": 4,
     "id": 42569236,
     "title": "Rails for everything",
     "url": "https://literallythevoid.com/blog/rails_for_everything.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "FigurativeVoid",
+    "descendants": 243,
+    "time": 1735765084
   },
   {
     "rank": 5,
     "id": 42570988,
     "title": "The GPU, not the TPM, is the root of hardware DRM",
     "url": "https://mjg59.dreamwidth.org/70954.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "DvdGiessen",
+    "descendants": 472,
+    "time": 1735783785
   },
   {
     "rank": 6,
     "id": 42572057,
     "title": "Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go",
     "url": "https://github.com/zasper-io/zasper",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "thunderbong",
+    "descendants": 95,
+    "time": 1735797320
   },
   {
     "rank": 7,
     "id": 42572662,
     "title": "MitmProxy2Swagger: Automagically reverse-engineer REST APIs",
     "url": "https://github.com/alufers/mitmproxy2swagger",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "AbuAssar",
+    "descendants": 71,
+    "time": 1735805295
   },
   {
     "rank": 8,
     "id": 42576443,
     "title": "uBlock Origin GPL code being stolen by team behind honey browser extension",
     "url": "https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1057,
+    "by": "extesy",
+    "descendants": 444,
+    "time": 1735838848
   },
   {
     "rank": 9,
     "id": 42577076,
     "title": "Tell HN: Impassable Cloudflare challenges are ruining my browsing experience",
     "url": "https://news.ycombinator.com/item?id=42577076",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 523,
+    "by": "blakeashleyjr",
+    "descendants": 304,
+    "time": 1735841988
   },
   {
     "rank": 10,
     "id": 42577736,
     "title": "Advent of Code 2024 in pure SQL",
     "url": "http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "greghn",
+    "descendants": 107,
+    "time": 1735845650
   }
 ]

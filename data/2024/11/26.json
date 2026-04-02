@@ -4,99 +4,99 @@
     "id": 42212650,
     "title": "The AI reporter that took my old job just got fired",
     "url": "https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "Brajeshwar",
+    "descendants": 384,
+    "time": 1732271660
   },
   {
     "rank": 2,
     "id": 42233565,
     "title": "A Day in the Life: The Global BGP Table",
     "url": "https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "gjf",
+    "descendants": 28,
+    "time": 1732513305
   },
   {
     "rank": 3,
     "id": 42239721,
     "title": "A Short Introduction to Automotive Lidar Technology",
     "url": "https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "kayson",
+    "descendants": 181,
+    "time": 1732565547
   },
   {
     "rank": 4,
     "id": 42240678,
     "title": "Amazon S3 Adds Put-If-Match (Compare-and-Swap)",
     "url": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 524,
+    "by": "Sirupsen",
+    "descendants": 160,
+    "time": 1732572691
   },
   {
     "rank": 5,
     "id": 42242971,
     "title": "Cybertruck's Many Recalls",
     "url": "https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "thm",
+    "descendants": 429,
+    "time": 1732601537
   },
   {
     "rank": 6,
     "id": 42243500,
     "title": "Lies we tell ourselves to keep using Golang (2022)",
     "url": "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "reillyse",
+    "descendants": 511,
+    "time": 1732608093
   },
   {
     "rank": 7,
     "id": 42243746,
     "title": "Y Combinator often backs startups that duplicate other YC companies, data shows",
     "url": "https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "isaacfrond",
+    "descendants": 204,
+    "time": 1732611000
   },
   {
     "rank": 8,
     "id": 42244814,
     "title": "A solution to The Onion problem of J. Kenji Lopez-Alt (2021)",
     "url": "https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "fanf2",
+    "descendants": 151,
+    "time": 1732621091
   },
   {
     "rank": 9,
     "id": 42247334,
     "title": "California's most neglected group of students: the gifted ones",
     "url": "https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "tafda",
+    "descendants": 526,
+    "time": 1732640015
   },
   {
     "rank": 10,
     "id": 42247368,
     "title": "Launch HN: Human Layer (YC F24) \u2013 Human-in-the-Loop API for AI Systems",
     "url": "https://news.ycombinator.com/item?id=42247368",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "dhorthy",
+    "descendants": 196,
+    "time": 1732640232
   }
 ]

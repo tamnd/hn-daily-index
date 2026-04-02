@@ -4,99 +4,99 @@
     "id": 42451135,
     "title": "More than 140 Kenya Facebook moderators sue after diagnoses of PTSD",
     "url": "https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "uxhacker",
+    "descendants": 467,
+    "time": 1734535209
   },
   {
     "rank": 2,
     "id": 42451968,
     "title": "How we made our AI code review bot stop leaving nitpicky comments",
     "url": "https://www.greptile.com/blog/make-llms-shut-up",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "dakshgupta",
+    "descendants": 169,
+    "time": 1734539506
   },
   {
     "rank": 3,
     "id": 42452640,
     "title": "Translating 10M lines of Java to Kotlin",
     "url": "https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "ermatt",
+    "descendants": 265,
+    "time": 1734542962
   },
   {
     "rank": 4,
     "id": 42456492,
     "title": "Ideas from \\\"A Philosophy of Software Design\\\"",
     "url": "https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "fagnerbrack",
+    "descendants": 134,
+    "time": 1734563038
   },
   {
     "rank": 5,
     "id": 42480105,
     "title": "Introducing S2",
     "url": "https://s2.dev/blog/intro",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "brancz",
+    "descendants": 195,
+    "time": 1734793879
   },
   {
     "rank": 6,
     "id": 42481206,
     "title": "City Roads: A tool to draw all roads in a city at once",
     "url": "https://anvaka.github.io/city-roads/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "gaws",
+    "descendants": 59,
+    "time": 1734804961
   },
   {
     "rank": 7,
     "id": 42482829,
     "title": "A data table thousands of years old (2020)",
     "url": "https://www.datafix.com.au/BASHing/2020-08-12.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "rickcarlino",
+    "descendants": 108,
+    "time": 1734819937
   },
   {
     "rank": 8,
     "id": 42483895,
     "title": "Rosetta 2 creator leaves Apple to work on Lean full-time",
     "url": "https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "ladberg",
+    "descendants": 134,
+    "time": 1734832911
   },
   {
     "rank": 9,
     "id": 42485124,
     "title": "Why we use our own hardware",
     "url": "https://www.fastmail.com/blog/why-we-use-our-own-hardware/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 933,
+    "by": "nmjenkins",
+    "descendants": 529,
+    "time": 1734856591
   },
   {
     "rank": 10,
     "id": 42485795,
     "title": "Decoding the telephony signals in Pink Floyd's 'The Wall'",
     "url": "https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "matthiasl",
+    "descendants": 131,
+    "time": 1734868152
   }
 ]
