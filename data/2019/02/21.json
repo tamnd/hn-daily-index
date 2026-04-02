@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 19207344,
+    "title": "Password Managers: Under the Hood of Secrets Management",
+    "url": "https://www.securityevaluators.com/casestudies/password-manager-hacking/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 19210727,
+    "title": "Linux Kernel Through 4.20.10 Found Vulnerable to Arbitrary Code Execution",
+    "url": "https://coocoor.com/advisory/cve/CVE-2019-8912",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 19212822,
+    "title": "A List of Hacker News's Undocumented Features and Behaviors",
+    "url": "https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 19214035,
+    "title": "Falsehoods Programmers Believe About Phone Numbers (2016)",
+    "url": "https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 19214387,
+    "title": "Simdjson \u2013 Parsing Gigabytes of JSON per Second",
+    "url": "https://github.com/lemire/simdjson",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 19214512,
+    "title": "My Notes on How to Start a Startup by YC",
+    "url": "https://docs.google.com/document/d/1wkJ6Ruh2IiR-caT-PS3n5Yt5VKcmIsVhuQwjgqK7030/edit",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 19215026,
+    "title": "Introduction to Algotrading (2011) [pdf]",
+    "url": "http://isomorphisms.sdf.org/maxdama.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 19216077,
+    "title": "COI \u2013 Chat Over IMAP",
+    "url": "https://www.coi-dev.org/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 19217575,
+    "title": "We're Entering a Golden Age of Podcasts",
+    "url": "https://chartable.com/blog/golden-age-of-podcasts",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 19218097,
+    "title": "Practical Go: Real-world advice for writing maintainable Go programs",
+    "url": "https://dave.cheney.net/practical-go/presentations/qcon-china.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
