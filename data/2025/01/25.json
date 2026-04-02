@@ -4,99 +4,99 @@
     "id": 42784699,
     "title": "The FizzBuzz that did not get me the job",
     "url": "https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 550,
+    "by": "Andugal",
+    "descendants": 434,
+    "time": 1737490505
   },
   {
     "rank": 2,
     "id": 42795646,
     "title": "Life lessons from the first half-century of my career",
     "url": "https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "zdw",
+    "descendants": 160,
+    "time": 1737568878
   },
   {
     "rank": 3,
     "id": 42796496,
     "title": "Show HN: Trolling SMS spammers with Ollama",
     "url": "https://evan.widloski.com/software/sms_llm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "Evidlo",
+    "descendants": 126,
+    "time": 1737573828
   },
   {
     "rank": 4,
     "id": 42810252,
     "title": "A phishing attack involving g.co, Google's URL shortener",
     "url": "https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "zachlatta",
+    "descendants": 158,
+    "time": 1737689926
   },
   {
     "rank": 5,
     "id": 42812779,
     "title": "Ask HN: Why buy domains and 301 redirect them to me?",
     "url": "https://news.ycombinator.com/item?id=42812779",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "HughParry",
+    "descendants": 131,
+    "time": 1737724856
   },
   {
     "rank": 6,
     "id": 42814683,
     "title": "Wild \u2013 A fast linker for Linux",
     "url": "https://github.com/davidlattimore/wild",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "hkalbasi",
+    "descendants": 208,
+    "time": 1737735953
   },
   {
     "rank": 7,
     "id": 42814820,
     "title": "Snowdrop OS \u2013 a homebrew operating system from scratch, in assembly language",
     "url": "http://sebastianmihai.com/snowdrop/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "ksec",
+    "descendants": 81,
+    "time": 1737736811
   },
   {
     "rank": 8,
     "id": 42817439,
     "title": "Show HN: Lightpanda, an open-source headless browser in Zig",
     "url": "https://github.com/lightpanda-io/browser",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "fbouvier",
+    "descendants": 137,
+    "time": 1737756932
   },
   {
     "rank": 9,
     "id": 42818692,
     "title": "Caltrain's electric fleet more efficient than expected",
     "url": "https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "ssuds",
+    "descendants": 290,
+    "time": 1737769991
   },
   {
     "rank": 10,
     "id": 42823568,
     "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
     "url": "https://arxiv.org/abs/2501.12948",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1351,
+    "by": "gradus_ad",
+    "descendants": 1056,
+    "time": 1737830389
   }
 ]

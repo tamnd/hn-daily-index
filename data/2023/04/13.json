@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 35539255,
+    "title": "Why Janet?",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 35541861,
+    "title": "Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs",
+    "url": "https://github.com/databrickslabs/dolly/tree/master/data",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 35547316,
+    "title": "Use io_uring for network I/O",
+    "url": "https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 35551830,
+    "title": "We achieved a 6-fold increase in Podman startup speed",
+    "url": "https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 35552393,
+    "title": "The art of auto engineering",
+    "url": "https://www.howacarworks.com/video-course",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 35553337,
+    "title": "YouTube-DL Hosting Ban Paves the Way to Privatized Censorship",
+    "url": "https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 35554270,
+    "title": "Apple will use 100 percent recycled cobalt in batteries by 2025",
+    "url": "https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 35554460,
+    "title": "Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 35555525,
+    "title": "Arrest made in SF killing of Bob Lee \u2013 alleged killer also worked in tech",
+    "url": "https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 35559124,
+    "title": "Improving Tailscale via Apple\u2019s open source",
+    "url": "https://tailscale.dev/blog/darwin-spelunking",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

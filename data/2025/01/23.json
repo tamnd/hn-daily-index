@@ -4,99 +4,99 @@
     "id": 42771310,
     "title": "Master the Art of the Product Manager 'No'",
     "url": "https://LetsNotDoThat.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "mikhaill",
+    "descendants": 168,
+    "time": 1737396143
   },
   {
     "rank": 2,
     "id": 42791428,
     "title": "My Struggle with Doom Scrolling",
     "url": "https://allthatjazz.me/posts/doom-scrolling-struggles",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "saeedesmaili",
+    "descendants": 320,
+    "time": 1737543648
   },
   {
     "rank": 3,
     "id": 42796058,
     "title": "C stdlib isn't threadsafe and even safe Rust didn't save us",
     "url": "https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "msully4321",
+    "descendants": 362,
+    "time": 1737571127
   },
   {
     "rank": 4,
     "id": 42796950,
     "title": "How to improve your WFH lighting to reduce eye strain",
     "url": "https://rustle.ca/posts/articles/work-from-home-lighting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 695,
+    "by": "jahfer",
+    "descendants": 297,
+    "time": 1737576537
   },
   {
     "rank": 5,
     "id": 42798108,
     "title": "F-Droid's Progress and What's Coming in 2025",
     "url": "https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "mappu",
+    "descendants": 100,
+    "time": 1737584287
   },
   {
     "rank": 6,
     "id": 42799103,
     "title": "Most Influential Papers in Computer Science History",
     "url": "https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "jonbaer",
+    "descendants": 112,
+    "time": 1737592149
   },
   {
     "rank": 7,
     "id": 42799136,
     "title": "Tailwind CSS v4.0",
     "url": "https://tailwindcss.com/blog/tailwindcss-v4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "g3eorge",
+    "descendants": 287,
+    "time": 1737592382
   },
   {
     "rank": 8,
     "id": 42799245,
     "title": "Understanding gRPC, OpenAPI and REST and when to use them in API design (2020)",
     "url": "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "hui-zheng",
+    "descendants": 276,
+    "time": 1737593262
   },
   {
     "rank": 9,
     "id": 42803279,
     "title": "Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel",
     "url": "https://samcurry.net/hacking-subaru",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 548,
+    "by": "ramimac",
+    "descendants": 320,
+    "time": 1737634939
   },
   {
     "rank": 10,
     "id": 42806247,
     "title": "Thank HN: My bootstrapped startup got acquired today",
     "url": "https://news.ycombinator.com/item?id=42806247",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2246,
+    "by": "paraschopra",
+    "descendants": 396,
+    "time": 1737655085
   }
 ]

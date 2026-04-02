@@ -4,99 +4,99 @@
     "id": 42991676,
     "title": "LIMO: Less Is More for Reasoning",
     "url": "https://arxiv.org/abs/2502.03387",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "trott",
+    "descendants": 128,
+    "time": 1739118808
   },
   {
     "rank": 2,
     "id": 42992159,
     "title": "Why blog if nobody reads it?",
     "url": "https://andysblog.uk/why-blog-if-nobody-reads-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 770,
+    "by": "alexgiann",
+    "descendants": 359,
+    "time": 1739123410
   },
   {
     "rank": 3,
     "id": 42997340,
     "title": "TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy",
     "url": "https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "oleg_tarasov",
+    "descendants": 83,
+    "time": 1739166965
   },
   {
     "rank": 4,
     "id": 42998024,
     "title": "To buy a Tesla Model 3, only to end up in hell",
     "url": "https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "lleims",
+    "descendants": 570,
+    "time": 1739175913
   },
   {
     "rank": 5,
     "id": 42999632,
     "title": "I built an open source AI tool to find my autoimmune disease",
     "url": "https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "makehistory",
+    "descendants": 300,
+    "time": 1739191704
   },
   {
     "rank": 6,
     "id": 43000303,
     "title": "Show HN: HTML visualization of a PDF file's internal structure",
     "url": "https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "desgeeko",
+    "descendants": 57,
+    "time": 1739195573
   },
   {
     "rank": 7,
     "id": 43000316,
     "title": "Surnames from nicknames nobody has any more",
     "url": "https://blog.plover.com/lang/etym/nickname-names.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 993,
+    "by": "JNRowe",
+    "descendants": 449,
+    "time": 1739195678
   },
   {
     "rank": 8,
     "id": 43000529,
     "title": "The Anthropic Economic Index",
     "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 582,
+    "by": "meetpateltech",
+    "descendants": 225,
+    "time": 1739196862
   },
   {
     "rank": 9,
     "id": 43002511,
     "title": "Undergraduate shows that searches within hash tables can be much faster",
     "url": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1304,
+    "by": "Jhsto",
+    "descendants": 584,
+    "time": 1739207109
   },
   {
     "rank": 10,
     "id": 43004889,
     "title": "Musk-led group makes $97B bid for control of OpenAI",
     "url": "https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 706,
+    "by": "jdoliner",
+    "descendants": 978,
+    "time": 1739220138
   }
 ]

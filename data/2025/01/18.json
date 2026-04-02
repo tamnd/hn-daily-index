@@ -4,99 +4,99 @@
     "id": 42693748,
     "title": "DoubleClickjacking: A New type of web hacking technique",
     "url": "https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "shinzub",
+    "descendants": 100,
+    "time": 1736829846
   },
   {
     "rank": 2,
     "id": 42694732,
     "title": "PostgreSQL Anonymizer",
     "url": "https://postgresql-anonymizer.readthedocs.io/en/stable/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "chynkm",
+    "descendants": 51,
+    "time": 1736840185
   },
   {
     "rank": 3,
     "id": 42734478,
     "title": "Let's talk about AI and end-to-end encryption",
     "url": "https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "chmaynard",
+    "descendants": 127,
+    "time": 1737093025
   },
   {
     "rank": 4,
     "id": 42740596,
     "title": "Brood War Korean Translations",
     "url": "https://blog.sourcedive.net/brood-war-korean-translations/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "todsacerdoti",
+    "descendants": 102,
+    "time": 1737134107
   },
   {
     "rank": 5,
     "id": 42742161,
     "title": "Higher potassium intake at dinner linked to fewer sleep disturbances \u2013 study",
     "url": "https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "hilux",
+    "descendants": 185,
+    "time": 1737141468
   },
   {
     "rank": 6,
     "id": 42743019,
     "title": "So you want to build your own data center",
     "url": "https://blog.railway.com/p/data-center-build-part-one",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "dban",
+    "descendants": 276,
+    "time": 1737146467
   },
   {
     "rank": 7,
     "id": 42743033,
     "title": "Investigating an \u201cevil\u201d RJ45 dongle",
     "url": "https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 508,
+    "by": "zdw",
+    "descendants": 169,
+    "time": 1737146516
   },
   {
     "rank": 8,
     "id": 42746222,
     "title": "I've been advocating for RSS support, and you should too",
     "url": "https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "emschwartz",
+    "descendants": 242,
+    "time": 1737179933
   },
   {
     "rank": 9,
     "id": 42749402,
     "title": "Show HN: Interactive systemd \u2013 a better way to work with systemd units",
     "url": "https://isd-project.github.io/isd/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 546,
+    "by": "kai-tub",
+    "descendants": 204,
+    "time": 1737217323
   },
   {
     "rank": 10,
     "id": 42750420,
     "title": "Amazon's AI crawler is making my Git server unstable",
     "url": "https://xeiaso.net/notes/2025/amazon-crawler/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 607,
+    "by": "OptionOfT",
+    "descendants": 246,
+    "time": 1737226131
   }
 ]

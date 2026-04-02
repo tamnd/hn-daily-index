@@ -4,99 +4,99 @@
     "id": 42754098,
     "title": "Haskell: A Great Procedural Language",
     "url": "https://entropicthoughts.com/haskell-procedural-programming",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "kqr",
+    "descendants": 204,
+    "time": 1737265818
   },
   {
     "rank": 2,
     "id": 42760620,
     "title": "Why is Git Autocorrect too fast for Formula One drivers?",
     "url": "https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "birdculture",
+    "descendants": 243,
+    "time": 1737314423
   },
   {
     "rank": 3,
     "id": 42763095,
     "title": "It's time to make computing personal again",
     "url": "https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 695,
+    "by": "mariuz",
+    "descendants": 351,
+    "time": 1737328282
   },
   {
     "rank": 4,
     "id": 42763231,
     "title": "FrontierMath was funded by OpenAI",
     "url": "https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "wujerry2000",
+    "descendants": 199,
+    "time": 1737329279
   },
   {
     "rank": 5,
     "id": 42763386,
     "title": "UK's hardware talent is being wasted",
     "url": "https://josef.cn/blog/uk-talent",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 636,
+    "by": "sebg",
+    "descendants": 1131,
+    "time": 1737330733
   },
   {
     "rank": 6,
     "id": 42764602,
     "title": "Reverse Engineering Bambu Connect",
     "url": "https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "pabs3",
+    "descendants": 362,
+    "time": 1737342529
   },
   {
     "rank": 7,
     "id": 42767507,
     "title": "I Met Paul Graham Once",
     "url": "http://okayfail.com/2025/i-met-pg-once.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1072,
+    "by": "DamonHD",
+    "descendants": 767,
+    "time": 1737372002
   },
   {
     "rank": 8,
     "id": 42768072,
     "title": "DeepSeek-R1",
     "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1843,
+    "by": "meetpateltech",
+    "descendants": 663,
+    "time": 1737376678
   },
   {
     "rank": 9,
     "id": 42769871,
     "title": "Mixxx: GPL DJ Software",
     "url": "https://mixxx.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 639,
+    "by": "brudgers",
+    "descendants": 133,
+    "time": 1737388411
   },
   {
     "rank": 10,
     "id": 42771676,
     "title": "I am (not) a failure: Lessons learned from six failed startup attempts",
     "url": "http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "lisper",
+    "descendants": 313,
+    "time": 1737398445
   }
 ]

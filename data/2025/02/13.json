@@ -4,99 +4,99 @@
     "id": 43023554,
     "title": "US and UK refuse to sign AI safety declaration at summit",
     "url": "https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "miohtama",
+    "descendants": 796,
+    "time": 1739352809
   },
   {
     "rank": 2,
     "id": 43026920,
     "title": "The Prophet of Parking: A eulogy for the great Donald Shoup",
     "url": "https://www.worksinprogress.news/p/the-prophet-of-parking",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "herbertl",
+    "descendants": 303,
+    "time": 1739377864
   },
   {
     "rank": 3,
     "id": 43029474,
     "title": "The average CPU performance of PCs and notebooks fell for the first time",
     "url": "https://www.cpubenchmark.net/year-on-year.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "doener",
+    "descendants": 238,
+    "time": 1739392481
   },
   {
     "rank": 4,
     "id": 43030388,
     "title": "Tiny JITs for a Faster FFI",
     "url": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "hahahacorn",
+    "descendants": 138,
+    "time": 1739398819
   },
   {
     "rank": 5,
     "id": 43033463,
     "title": "Why young parents should focus on building trust with their kids",
     "url": "https://desunit.com/blog/marshmallow-test-and-parenting/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 542,
+    "by": "desunit",
+    "descendants": 408,
+    "time": 1739430767
   },
   {
     "rank": 6,
     "id": 43035147,
     "title": "Cheap blood test detects pancreatic cancer before it spreads",
     "url": "https://www.nature.com/articles/d41586-025-00438-z",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "rbanffy",
+    "descendants": 236,
+    "time": 1739449148
   },
   {
     "rank": 7,
     "id": 43036434,
     "title": "U.K. demand for a back door to Apple data threatens Americans, lawmakers say",
     "url": "https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "ksec",
+    "descendants": 317,
+    "time": 1739458426
   },
   {
     "rank": 8,
     "id": 43036904,
     "title": "Resigning as Asahi Linux project lead",
     "url": "https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1116,
+    "by": "Shank",
+    "descendants": 997,
+    "time": 1739460897
   },
   {
     "rank": 9,
     "id": 43038200,
     "title": "LibreOffice still kicking at 40, now with browser tricks and real-time collab",
     "url": "https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 555,
+    "by": "Bender",
+    "descendants": 232,
+    "time": 1739465983
   },
   {
     "rank": 10,
     "id": 43040521,
     "title": "Privacy Pass Authentication for Kagi Search",
     "url": "https://blog.kagi.com/kagi-privacy-pass",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 939,
+    "by": "b3n",
+    "descendants": 341,
+    "time": 1739476649
   }
 ]

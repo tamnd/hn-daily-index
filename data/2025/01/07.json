@@ -4,99 +4,99 @@
     "id": 42607151,
     "title": "Apple squandered the Holy Grail",
     "url": "https://xeiaso.net/blog/2025/squandered-holy-grail/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "caust1c",
+    "descendants": 557,
+    "time": 1736132133
   },
   {
     "rank": 2,
     "id": 42612842,
     "title": "All clocks are 30 seconds late",
     "url": "https://victorpoughon.fr/all-clocks-are-30-seconds-late/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "fouronnes3",
+    "descendants": 357,
+    "time": 1736185249
   },
   {
     "rank": 3,
     "id": 42616700,
     "title": "NYC Congestion Pricing Tracker",
     "url": "https://www.congestion-pricing-tracker.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "gotmedium",
+    "descendants": 616,
+    "time": 1736202179
   },
   {
     "rank": 4,
     "id": 42617645,
     "title": "How I program with LLMs",
     "url": "https://crawshaw.io/blog/programming-with-llms",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 919,
+    "by": "stpn",
+    "descendants": 332,
+    "time": 1736208469
   },
   {
     "rank": 5,
     "id": 42618130,
     "title": "Zig's comptime is bonkers good",
     "url": "https://www.scottredig.com/blog/bonkers_comptime/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "todsacerdoti",
+    "descendants": 265,
+    "time": 1736212507
   },
   {
     "rank": 6,
     "id": 42618761,
     "title": "Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs",
     "url": "https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "somebee",
+    "descendants": 759,
+    "time": 1736219531
   },
   {
     "rank": 7,
     "id": 42619139,
     "title": "Nvidia's Project Digits is a 'personal AI supercomputer'",
     "url": "https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 623,
+    "by": "magicalhippo",
+    "descendants": 495,
+    "time": 1736223245
   },
   {
     "rank": 8,
     "id": 42619652,
     "title": "A minimax chess engine in regular expressions",
     "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "ilya_m",
+    "descendants": 97,
+    "time": 1736228771
   },
   {
     "rank": 9,
     "id": 42621627,
     "title": "Ending our third party fact-checking program and moving to Community Notes model",
     "url": "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 870,
+    "by": "impish9208",
+    "descendants": 1359,
+    "time": 1736252122
   },
   {
     "rank": 10,
     "id": 42624116,
     "title": "Show HN: Tramway SDK \u2013 The Unholy Union Between Half-Life and Morrowind Engines",
     "url": "https://racenis.github.io/tram-sdk/why.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 660,
+    "by": "racenis",
+    "descendants": 237,
+    "time": 1736266929
   }
 ]

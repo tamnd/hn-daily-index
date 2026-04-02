@@ -4,99 +4,99 @@
     "id": 42962508,
     "title": "Simulating water over terrain",
     "url": "https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "ibobev",
+    "descendants": 58,
+    "time": 1738851328
   },
   {
     "rank": 2,
     "id": 42965198,
     "title": "Show HN: SQLite disk page explorer",
     "url": "https://github.com/QuadrupleA/sqlite-page-explorer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "QuadrupleA",
+    "descendants": 41,
+    "time": 1738867230
   },
   {
     "rank": 3,
     "id": 42966720,
     "title": "Understanding Reasoning LLMs",
     "url": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "sebg",
+    "descendants": 183,
+    "time": 1738877652
   },
   {
     "rank": 4,
     "id": 42968347,
     "title": "California bill would require bots to disclose that they are bots",
     "url": "https://www.veeto.app/bill/1955756",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "alexd127",
+    "descendants": 166,
+    "time": 1738892490
   },
   {
     "rank": 5,
     "id": 42968547,
     "title": "Transformer \u2013 Spreadsheet",
     "url": "https://www.byhand.ai/p/transformer-spreadsheet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "next_xibalba",
+    "descendants": 20,
+    "time": 1738894383
   },
   {
     "rank": 6,
     "id": 42970039,
     "title": "Announcing the data.gov archive",
     "url": "https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "govideo",
+    "descendants": 132,
+    "time": 1738909920
   },
   {
     "rank": 7,
     "id": 42970240,
     "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
     "url": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "esbudylin",
+    "descendants": 68,
+    "time": 1738912296
   },
   {
     "rank": 8,
     "id": 42971446,
     "title": "Meta torrented & seeded 81.7 TB dataset containing copyrighted data",
     "url": "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1270,
+    "by": "gameshot911",
+    "descendants": 938,
+    "time": 1738927562
   },
   {
     "rank": 9,
     "id": 42971761,
     "title": "Apple Ordered by UK to Create Global iCloud Encryption Backdoor",
     "url": "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1146,
+    "by": "throw0101d",
+    "descendants": 4,
+    "time": 1738930726
   },
   {
     "rank": 10,
     "id": 42972062,
     "title": "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
     "url": "https://lkml.org/lkml/2025/2/7/9",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 918,
+    "by": "Mond_",
+    "descendants": 1021,
+    "time": 1738933323
   }
 ]
