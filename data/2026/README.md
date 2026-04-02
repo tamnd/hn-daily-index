@@ -13,16 +13,16 @@ Top 10 Hacker News stories for each day in 2026.
 
 *Thursday*
 
-1. [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/) (browsergate.eu) - 78 points by [digitalWestie](https://news.ycombinator.com/user?id=digitalWestie), [19 comments](https://news.ycombinator.com/item?id=47613981)
-2. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 109 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [28 comments](https://news.ycombinator.com/item?id=47612724)
+1. [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/) (browsergate.eu) - 87 points by [digitalWestie](https://news.ycombinator.com/user?id=digitalWestie), [25 comments](https://news.ycombinator.com/item?id=47613981)
+2. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 110 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [28 comments](https://news.ycombinator.com/item?id=47612724)
 3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 73 points by [lode](https://news.ycombinator.com/user?id=lode), [20 comments](https://news.ycombinator.com/item?id=47613078)
 4. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 156 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [88 comments](https://news.ycombinator.com/item?id=47611721)
-5. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 249 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [135 comments](https://news.ycombinator.com/item?id=47612601)
-6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 88 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [45 comments](https://news.ycombinator.com/item?id=47611921)
+5. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 249 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [136 comments](https://news.ycombinator.com/item?id=47612601)
+6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 88 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [46 comments](https://news.ycombinator.com/item?id=47611921)
 7. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 104 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [42 comments](https://news.ycombinator.com/item?id=47611481)
 8. [Enabling Codex to Analyze Two Decades of Hacker News Data](https://modolap.com/publication/hn-analysis-1) (modolap.com) - 21 points by [ronfriedhaber](https://news.ycombinator.com/user?id=ronfriedhaber), [6 comments](https://news.ycombinator.com/item?id=47612558)
-9. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 83 points by [luu](https://news.ycombinator.com/user?id=luu), [39 comments](https://news.ycombinator.com/item?id=47582987)
-10. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 211 points by [jaden](https://news.ycombinator.com/user?id=jaden), [65 comments](https://news.ycombinator.com/item?id=47609694)
+9. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 84 points by [luu](https://news.ycombinator.com/user?id=luu), [39 comments](https://news.ycombinator.com/item?id=47582987)
+10. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 212 points by [jaden](https://news.ycombinator.com/user?id=jaden), [65 comments](https://news.ycombinator.com/item?id=47609694)
 
 ## 2026-04-01
 
