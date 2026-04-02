@@ -4,99 +4,99 @@
     "id": 32277998,
     "title": "Semantic Diff for SQL",
     "url": "https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "s0ck_r4w",
+    "descendants": 31,
+    "time": 1659107688
   },
   {
     "rank": 2,
     "id": 32280903,
     "title": "Kitsault, Canada\u2019s $50M 1980s ghost town",
     "url": "https://justinmcelroy.com/2022/07/26/visiting-canadas-50-million-1980s-ghost-town/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 540,
+    "by": "annapowellsmith",
+    "descendants": 186,
+    "time": 1659123170
   },
   {
     "rank": 3,
     "id": 32281536,
     "title": "Knuth changes his mind on Bernoulli number B_1",
     "url": "https://www-cs-faculty.stanford.edu/~knuth/news22.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "ColinWright",
+    "descendants": 112,
+    "time": 1659127393
   },
   {
     "rank": 4,
     "id": 32282305,
     "title": "Remote Attestation is coming back",
     "url": "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "gjsman-1000",
+    "descendants": 246,
+    "time": 1659132413
   },
   {
     "rank": 5,
     "id": 32282632,
     "title": "US regulators will certify first small nuclear reactor design",
     "url": "https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 829,
+    "by": "papa-whisky",
+    "descendants": 742,
+    "time": 1659135360
   },
   {
     "rank": 6,
     "id": 32282942,
     "title": "C++ Asynchronous Framework",
     "url": "https://userver.tech/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "shcheklein",
+    "descendants": 106,
+    "time": 1659138262
   },
   {
     "rank": 7,
     "id": 32284375,
     "title": "I miss the programmable web (2021)",
     "url": "https://matt-rickard.com/the-programmable-web/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "rckrd",
+    "descendants": 177,
+    "time": 1659156713
   },
   {
     "rank": 8,
     "id": 32285638,
     "title": "Recommended settings for Wi-Fi routers and access points",
     "url": "https://support.apple.com/en-us/HT202068",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "butz",
+    "descendants": 167,
+    "time": 1659176701
   },
   {
     "rank": 9,
     "id": 32286408,
     "title": "Serverless DNS: Self-hosted DNS resolver at the edge",
     "url": "https://github.com/serverless-dns/serverless-dns",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "saltymimir",
+    "descendants": 83,
+    "time": 1659185662
   },
   {
     "rank": 10,
     "id": 32287902,
     "title": "ImHex \u2013 A Hex Editor",
     "url": "https://github.com/WerWolv/ImHex",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 467,
+    "by": "liberia",
+    "descendants": 70,
+    "time": 1659197600
   }
 ]

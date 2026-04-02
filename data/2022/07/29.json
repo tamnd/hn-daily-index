@@ -4,99 +4,99 @@
     "id": 32262545,
     "title": "Mission to reach and operate at the focal region of the solar gravitational lens",
     "url": "https://arxiv.org/abs/2207.03005",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "WithinReason",
+    "descendants": 141,
+    "time": 1659003726
   },
   {
     "rank": 2,
     "id": 32267222,
     "title": "AWS us-east-2 outage",
     "url": "https://news.ycombinator.com/item?id=32267222",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "jchen42",
+    "descendants": 247,
+    "time": 1659028145
   },
   {
     "rank": 3,
     "id": 32267287,
     "title": "EdgeDB 2.0",
     "url": "https://www.edgedb.com/blog/edgedb-2-0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "syrusakbary",
+    "descendants": 145,
+    "time": 1659028356
   },
   {
     "rank": 4,
     "id": 32270815,
     "title": "The Best iPhone",
     "url": "https://notes.ghed.in/posts/the-best-iphone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "rpgbr",
+    "descendants": 473,
+    "time": 1659047270
   },
   {
     "rank": 5,
     "id": 32271660,
     "title": "Asus Zenfone 9",
     "url": "https://www.asus.com/Mobile/Phones/ZenFone/Zenfone-9/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 452,
+    "by": "fomine3",
+    "descendants": 456,
+    "time": 1659054179
   },
   {
     "rank": 6,
     "id": 32274077,
     "title": "Map showing birthplaces of \\\"notable people\\\" around the world",
     "url": "https://tjukanovt.github.io/notable-people",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 924,
+    "by": "jbesomi",
+    "descendants": 332,
+    "time": 1659079922
   },
   {
     "rank": 7,
     "id": 32275078,
     "title": "Why the Windows Registry sucks technically (2010)",
     "url": "https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "azalemeth",
+    "descendants": 332,
+    "time": 1659089291
   },
   {
     "rank": 8,
     "id": 32276017,
     "title": "How far can you go by train in 5h?",
     "url": "https://chronotrains-eu.vercel.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 871,
+    "by": "mritzmann",
+    "descendants": 439,
+    "time": 1659097539
   },
   {
     "rank": 9,
     "id": 32276188,
     "title": "Rumor: Google Stadia May Be Getting Shut Down",
     "url": "https://gamerant.com/rumor-google-stadia-shut-down/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "achow",
+    "descendants": 603,
+    "time": 1659098934
   },
   {
     "rank": 10,
     "id": 32278397,
     "title": "Tabler: Free and open source dashboard HTML/CSS framework",
     "url": "https://github.com/tabler/tabler",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 541,
+    "by": "jakearmitage",
+    "descendants": 87,
+    "time": 1659109343
   }
 ]

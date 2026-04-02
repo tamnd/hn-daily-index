@@ -4,99 +4,99 @@
     "id": 32204408,
     "title": "Publii: Open-source local WYSIWYG static site CMS",
     "url": "https://github.com/GetPublii/Publii",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "api",
+    "descendants": 75,
+    "time": 1658591313
   },
   {
     "rank": 2,
     "id": 32206579,
     "title": "The tar archive format, and why GNU tar extracts in quadratic time",
     "url": "https://mort.coffee/home/tar/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "mort96",
+    "descendants": 133,
+    "time": 1658603509
   },
   {
     "rank": 3,
     "id": 32208096,
     "title": "Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k",
     "url": "https://9to5mac.com/2022/07/22/twitter-data-breach/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "arkadiyt",
+    "descendants": 118,
+    "time": 1658614572
   },
   {
     "rank": 4,
     "id": 32209345,
     "title": "A chess robot in Moscow has broken the finger of its human opponent",
     "url": "https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "jedberg",
+    "descendants": 445,
+    "time": 1658626305
   },
   {
     "rank": 5,
     "id": 32210140,
     "title": "\u201cBurning Ship\u201d fractal",
     "url": "http://www.paulbourke.net/fractals/burnship/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "daqnal",
+    "descendants": 72,
+    "time": 1658634475
   },
   {
     "rank": 6,
     "id": 32210256,
     "title": "Amazon sales of Deep Learning with Python are counterfeit",
     "url": "https://twitter.com/fchollet/status/1550930876183166976",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 665,
+    "by": "jmillikin",
+    "descendants": 193,
+    "time": 1658635804
   },
   {
     "rank": 7,
     "id": 32211576,
     "title": "How to drive away your best engineers",
     "url": "https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "signa11",
+    "descendants": 304,
+    "time": 1658652194
   },
   {
     "rank": 8,
     "id": 32213825,
     "title": "Hexaflexagons [video] (2012)",
     "url": "https://www.youtube.com/watch?v=VIVIegSt81k&list=PLaNzoFtkQ7rbt5ac9qdi76iNKuqZWQkB3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 580,
+    "by": "mgdlbp",
+    "descendants": 55,
+    "time": 1658672933
   },
   {
     "rank": 9,
     "id": 32215277,
     "title": "Take more screenshots",
     "url": "https://alexwlchan.net/2022/07/screenshots/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 657,
+    "by": "goranmoomin",
+    "descendants": 231,
+    "time": 1658681716
   },
   {
     "rank": 10,
     "id": 32215324,
     "title": "Standard Ebooks",
     "url": "https://standardebooks.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1578,
+    "by": "tosh",
+    "descendants": 255,
+    "time": 1658681970
   }
 ]

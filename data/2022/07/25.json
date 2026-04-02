@@ -4,99 +4,99 @@
     "id": 32213587,
     "title": "No evidence for nudging after adjusting for publication bias",
     "url": "https://www.pnas.org/doi/10.1073/pnas.2200300119",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "ororm",
+    "descendants": 238,
+    "time": 1658671346
   },
   {
     "rank": 2,
     "id": 32214419,
     "title": "Performance comparison: counting words in Python, C/C++, Awk, Rust, and more",
     "url": "https://benhoyt.com/writings/count-words/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "goranmoomin",
+    "descendants": 218,
+    "time": 1658676683
   },
   {
     "rank": 3,
     "id": 32217968,
     "title": "Datadog dashboard for the Texas power grid",
     "url": "https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658093527470&to_ts=1658698327470&live=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "finiteseries",
+    "descendants": 131,
+    "time": 1658698368
   },
   {
     "rank": 4,
     "id": 32218232,
     "title": "Why are McDonald\u2019s Self Service Kiosks so hackable?",
     "url": "https://ghuntley.com/mcdonalds/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "ghuntley",
+    "descendants": 247,
+    "time": 1658700219
   },
   {
     "rank": 5,
     "id": 32219836,
     "title": "The Case for C# and .NET",
     "url": "https://chrlschn.medium.com/the-case-for-c-and-net-72ee933da304",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "greenSunglass",
+    "descendants": 371,
+    "time": 1658714733
   },
   {
     "rank": 6,
     "id": 32220192,
     "title": "Ask HN: YouTube Channels for the Intellectually Curious",
     "url": "https://news.ycombinator.com/item?id=32220192",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 759,
+    "by": "maxutility",
+    "descendants": 316,
+    "time": 1658719183
   },
   {
     "rank": 7,
     "id": 32220514,
     "title": "Finishing what you start makes teams more productive and predictable",
     "url": "https://lucasfcosta.com/2022/07/19/finish-what-you-start.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "todsacerdoti",
+    "descendants": 162,
+    "time": 1658723660
   },
   {
     "rank": 8,
     "id": 32222360,
     "title": "The GNU Name System",
     "url": "https://www.gnunet.org/en/gns.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "p4bl0",
+    "descendants": 145,
+    "time": 1658742557
   },
   {
     "rank": 9,
     "id": 32224725,
     "title": "Two weeks in, the Webb Space Telescope is reshaping astronomy",
     "url": "https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 782,
+    "by": "theafh",
+    "descendants": 422,
+    "time": 1658759093
   },
   {
     "rank": 10,
     "id": 32226414,
     "title": "It\u2019s time to leave the leap second in the past",
     "url": "https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "mikece",
+    "descendants": 583,
+    "time": 1658765335
   }
 ]

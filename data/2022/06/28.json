@@ -4,99 +4,99 @@
     "id": 31890048,
     "title": "Why America can\u2019t build",
     "url": "https://palladiummag.com/2022/06/09/why-america-cant-build/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 537,
+    "by": "fra",
+    "descendants": 884,
+    "time": 1656297715
   },
   {
     "rank": 2,
     "id": 31897101,
     "title": "Meta is inviting researchers to pick apart the flaws in its version of GPT-3",
     "url": "https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "mgl",
+    "descendants": 184,
+    "time": 1656348066
   },
   {
     "rank": 3,
     "id": 31897430,
     "title": "Show HN: PRQL 0.2 \u2013 a better SQL",
     "url": "https://github.com/prql/prql",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "maximilianroos",
+    "descendants": 159,
+    "time": 1656349413
   },
   {
     "rank": 4,
     "id": 31897530,
     "title": "Detecting unauthorized physical access with beans, lentils and colored rice (2021)",
     "url": "https://dys2p.com/en/2021-12-tamper-evident-protection.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 642,
+    "by": "layer8",
+    "descendants": 162,
+    "time": 1656349825
   },
   {
     "rank": 5,
     "id": 31903076,
     "title": "Show HN: I stripped DALL\u00b7E Mini to its bare essentials and converted it to Torch",
     "url": "https://github.com/kuprel/min-dalle",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 663,
+    "by": "kuprel",
+    "descendants": 148,
+    "time": 1656379672
   },
   {
     "rank": 6,
     "id": 31903480,
     "title": "The PocketReform is a made-in-Berlin Linux handheld",
     "url": "https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "sohkamyung",
+    "descendants": 175,
+    "time": 1656383782
   },
   {
     "rank": 7,
     "id": 31906933,
     "title": "Job interview questions engineers should ask, but don't",
     "url": "https://posthog.com/blog/what-to-ask-in-interviews",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 524,
+    "by": "james_impliu",
+    "descendants": 223,
+    "time": 1656420343
   },
   {
     "rank": 8,
     "id": 31908170,
     "title": "Fresh is a new full stack web framework for Deno",
     "url": "https://deno.com/blog/fresh-is-stable",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "maeln",
+    "descendants": 228,
+    "time": 1656426722
   },
   {
     "rank": 9,
     "id": 31909183,
     "title": "Some Assembly Required: An approachable introduction to assembly",
     "url": "https://github.com/hackclub/some-assembly-required",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 587,
+    "by": "quackduck",
+    "descendants": 125,
+    "time": 1656430962
   },
   {
     "rank": 10,
     "id": 31912763,
     "title": "Mastercard and visa are the de facto regulators of porn",
     "url": "https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "notnice",
+    "descendants": 502,
+    "time": 1656449009
   }
 ]

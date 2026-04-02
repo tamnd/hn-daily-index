@@ -4,99 +4,99 @@
     "id": 32066919,
     "title": "Responsible stewardship of the UEFI Secure Boot ecosystem",
     "url": "https://mjg59.dreamwidth.org/60248.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "Harvesterify",
+    "descendants": 276,
+    "time": 1657613574
   },
   {
     "rank": 2,
     "id": 32069926,
     "title": "Guest WiFi using a QR code",
     "url": "https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "jgrahamc",
+    "descendants": 273,
+    "time": 1657633964
   },
   {
     "rank": 3,
     "id": 32071949,
     "title": "Retbleed: New speculative execution attack sends Intel and AMD scrambling",
     "url": "https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "ndesaulniers",
+    "descendants": 361,
+    "time": 1657642025
   },
   {
     "rank": 4,
     "id": 32077823,
     "title": "My business card runs Linux",
     "url": "https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "pantalaimon",
+    "descendants": 133,
+    "time": 1657674231
   },
   {
     "rank": 5,
     "id": 32077834,
     "title": "Sri Lanka is having a textbook currency crisis, triggered by policy mistakes",
     "url": "https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "paulpauper",
+    "descendants": 367,
+    "time": 1657674416
   },
   {
     "rank": 6,
     "id": 32080741,
     "title": "CP/M is really open-source now",
     "url": "https://retronic.us/cp-m-is-now-really-open-source/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "jstanley",
+    "descendants": 208,
+    "time": 1657707135
   },
   {
     "rank": 7,
     "id": 32081900,
     "title": "Amazon admits giving police Ring footage without consent",
     "url": "https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 818,
+    "by": "Pakdef",
+    "descendants": 510,
+    "time": 1657716726
   },
   {
     "rank": 8,
     "id": 32081943,
     "title": "Show HN: Inflation-adjusted stock charts \u2013 Total Real Returns",
     "url": "https://totalrealreturns.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "compumike",
+    "descendants": 272,
+    "time": 1657716922
   },
   {
     "rank": 9,
     "id": 32084023,
     "title": "Teams is killing my Mac every day",
     "url": "https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 448,
+    "by": "sogen",
+    "descendants": 451,
+    "time": 1657726057
   },
   {
     "rank": 10,
     "id": 32084980,
     "title": "I made a Google sheet of local elections and it's been removed from Google Drive",
     "url": "https://twitter.com/mkramer/status/1547256544332488708",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "danso",
+    "descendants": 207,
+    "time": 1657729865
   }
 ]
