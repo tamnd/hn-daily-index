@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 9738302,
+    "title": "My Hardest Bug Ever (2013)",
+    "url": "http://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 9738893,
+    "title": "All Systems Go for NASA's Mission to Jupiter Moon Europa",
+    "url": "http://www.nasa.gov/press-release/all-systems-go-for-nasas-mission-to-jupiter-moon-europa",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 9740429,
+    "title": "\u201cLand initial Rust MP4 parser and unit tests\u201d",
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1175322",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 9741137,
+    "title": "Diet that mimics fasting appears to slow aging",
+    "url": "http://news.usc.edu/82959/diet-that-mimics-fasting-appears-to-slow-aging/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 9741625,
+    "title": "Redis re-implemented in Rust",
+    "url": "https://github.com/seppo0010/rsedis",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 9742331,
+    "title": "EFF, CloudFlare Asks Court Not to Force the Internet to Enforce Trademarks",
+    "url": "https://www.eff.org/deeplinks/2015/06/eff-cloudflare-ask-federal-court-not-force-internet-companies-enforce-music-labels",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 9744059,
+    "title": "GitFlow considered harmful",
+    "url": "http://endoflineblog.com/gitflow-considered-harmful",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 9744226,
+    "title": "IMAX\u2019s absurd attempt to censor Ars",
+    "url": "http://arstechnica.com/tech-policy/2015/06/from-quote-to-retraction-request-imaxs-absurd-attempt-to-censor-ars/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 9744916,
+    "title": "\u201cConsidered Harmful\u201d Essays Considered Harmful",
+    "url": "http://meyerweb.com/eric/comment/chech.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 9746188,
+    "title": "Show HN: Wayback HN, a cross between the Wayback Machine and Hacker News",
+    "url": "http://www.waybackhn.com",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
