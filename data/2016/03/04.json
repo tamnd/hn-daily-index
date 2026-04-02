@@ -4,99 +4,99 @@
     "id": 11216020,
     "title": "Borg, Omega, Kubernetes: Lessons learned from container management over a decade",
     "url": "http://queue.acm.org/detail.cfm?id=2898444",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "alanfranz",
+    "descendants": 24,
+    "time": 1457000975
   },
   {
     "rank": 2,
     "id": 11217477,
     "title": "Nginx reverse proxies retries PUT/POST/DELETE on response timeout by default",
     "url": "https://trac.nginx.org/nginx/ticket/488#comment:4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "JensRantil",
+    "descendants": 90,
+    "time": 1457019650
   },
   {
     "rank": 3,
     "id": 11220675,
     "title": "Samsung ships the world's highest capacity SSD, with 15TB of storage",
     "url": "http://www.computerworld.com/article/3040208/data-storage/samsung-ships-the-worlds-highest-capacity-ssd-with-15tb-of-storage.html?nsdr=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "elorant",
+    "descendants": 140,
+    "time": 1457045302
   },
   {
     "rank": 4,
     "id": 11220800,
     "title": "Reports Coming in of Big IBM Layoffs Underway in the U.S.",
     "url": "http://spectrum.ieee.org/view-from-the-valley/computing/it/reports-coming-in-of-mass-us-layoffs-underway-today-at-ibm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "zeveb",
+    "descendants": 408,
+    "time": 1457046648
   },
   {
     "rank": 5,
     "id": 11221440,
     "title": "Why Forcing Apple to Write and Sign Code Violates the First Amendment",
     "url": "https://www.eff.org/deeplinks/2016/03/deep-dive-why-forcing-apple-write-and-sign-code-violates-first-amendment",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "morninj",
+    "descendants": 109,
+    "time": 1457055346
   },
   {
     "rank": 6,
     "id": 11222919,
     "title": "Tim Sweeney: Microsoft wants to monopolise games development on PC",
     "url": "http://www.theguardian.com/technology/2016/mar/04/microsoft-monopolise-pc-games-development-epic-games-gears-of-war",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "saint-loup",
+    "descendants": 284,
+    "time": 1457086908
   },
   {
     "rank": 7,
     "id": 11223096,
     "title": "Go by Example",
     "url": "https://gobyexample.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "kercker",
+    "descendants": 72,
+    "time": 1457090914
   },
   {
     "rank": 8,
     "id": 11223316,
     "title": "We Hire the Best, Just Like Everyone Else",
     "url": "http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 523,
+    "by": "mooreds",
+    "descendants": 364,
+    "time": 1457094676
   },
   {
     "rank": 9,
     "id": 11224982,
     "title": "Source: Microsoft mulled an $8B bid for Slack, will focus on Skype instead",
     "url": "http://techcrunch.com/2016/03/04/source-microsoft-mulled-an-8-billion-bid-for-slack-will-focus-on-skype-instead/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "crsmith",
+    "descendants": 279,
+    "time": 1457110292
   },
   {
     "rank": 10,
     "id": 11226131,
     "title": "MAME is now Free and Open Source Software",
     "url": "http://mamedev.org/?p=422",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 580,
+    "by": "Lord_Nightmare",
+    "descendants": 91,
+    "time": 1457118843
   }
 ]

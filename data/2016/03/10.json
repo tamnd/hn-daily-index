@@ -4,99 +4,99 @@
     "id": 11250886,
     "title": "Is this c/10 spaceship known?",
     "url": "http://www.conwaylife.com/forums/viewtopic.php?f=2&t=2057",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "morninj",
+    "descendants": 90,
+    "time": 1457496838
   },
   {
     "rank": 2,
     "id": 11253500,
     "title": "Painkillers now kill more Americans than any illegal drug",
     "url": "http://www.vox.com/2016/3/9/11172926/painkillers-opioids-pharma-marijuana",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "davidbarker",
+    "descendants": 308,
+    "time": 1457537488
   },
   {
     "rank": 3,
     "id": 11253698,
     "title": "Let\u2019s Encrypt client will transition to a new name and a new home at EFF",
     "url": "https://letsencrypt.org/2016/03/09/le-client-new-home.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "riqbal",
+    "descendants": 44,
+    "time": 1457539282
   },
   {
     "rank": 4,
     "id": 11254218,
     "title": "RIP Google PageRank score: A retrospective on how it ruined the web",
     "url": "http://searchengineland.com/rip-google-pagerank-retrospective-244286",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "adamcarson",
+    "descendants": 125,
+    "time": 1457544109
   },
   {
     "rank": 5,
     "id": 11254267,
     "title": "Announcing R Tools for Visual Studio",
     "url": "https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "brettcannon",
+    "descendants": 83,
+    "time": 1457544556
   },
   {
     "rank": 6,
     "id": 11254969,
     "title": "Microsoft will release a custom Debian Linux",
     "url": "http://www.theregister.co.uk/2016/03/09/microsoft_sonic_debian/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "l1n",
+    "descendants": 134,
+    "time": 1457550247
   },
   {
     "rank": 7,
     "id": 11255973,
     "title": "How Web Scraping Is Revealing Lobbying and Corruption in Peru",
     "url": "https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "bezzi",
+    "descendants": 72,
+    "time": 1457560200
   },
   {
     "rank": 8,
     "id": 11257437,
     "title": "Fred Brooks retires",
     "url": "http://www.dailytarheel.com/article/2016/03/founding-uncs-computer-science-department-was-an-experiment-but-it-paid-off-for-fred-brooks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "cperciva",
+    "descendants": 72,
+    "time": 1457585483
   },
   {
     "rank": 9,
     "id": 11257566,
     "title": "Turning two-bit doodles into fine artworks with deep neural networks",
     "url": "https://github.com/alexjc/neural-doodle",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "coolvoltage",
+    "descendants": 56,
+    "time": 1457589295
   },
   {
     "rank": 10,
     "id": 11257928,
     "title": "AlphaGo beats Lee Sedol again in match 2 of 5",
     "url": "https://gogameguru.com/alphago-2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 942,
+    "by": "pzs",
+    "descendants": 555,
+    "time": 1457598452
   }
 ]

@@ -4,99 +4,99 @@
     "id": 11398027,
     "title": "Zaha Hadid, Groundbreaking Architect, Has Died",
     "url": "http://www.nytimes.com/2016/04/01/arts/design/zaha-hadid-architect-dies.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "antr",
+    "descendants": 56,
+    "time": 1459439404
   },
   {
     "rank": 2,
     "id": 11399391,
     "title": "Airbnb open-sources Caravel: data exploration and visualization platform",
     "url": "https://github.com/airbnb/caravel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "caravel",
+    "descendants": 92,
+    "time": 1459448857
   },
   {
     "rank": 3,
     "id": 11400572,
     "title": "The Invisible Catastrophe: Record Methane Leak in CA",
     "url": "http://www.nytimes.com/2016/04/03/magazine/the-invisible-catastrophe.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "hackuser",
+    "descendants": 101,
+    "time": 1459458604
   },
   {
     "rank": 4,
     "id": 11401330,
     "title": "Wow, Perl 6",
     "url": "http://tpm2016.zoffix.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "donaldihunter",
+    "descendants": 228,
+    "time": 1459465908
   },
   {
     "rank": 5,
     "id": 11402101,
     "title": "Model 3 Unveiling [video]",
     "url": "https://model3.tesla.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "bronz",
+    "descendants": 381,
+    "time": 1459477010
   },
   {
     "rank": 6,
     "id": 11402994,
     "title": "Amnesty International: Encryption Is a Human Rights Issue",
     "url": "https://www.eff.org/deeplinks/2016/03/amnesty-international-encryption-human-rights-issue",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "DiabloD3",
+    "descendants": 20,
+    "time": 1459490883
   },
   {
     "rank": 7,
     "id": 11404115,
     "title": "Google 'mic drop' Gmail joke for April Fools' day backfires",
     "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/gmail-google-mic-drop-april-fool-prank-undo-send-see-email-backfired-a6962916.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "itg",
+    "descendants": 380,
+    "time": 1459510715
   },
   {
     "rank": 8,
     "id": 11404770,
     "title": "The Trouble with CloudFlare",
     "url": "https://blog.torproject.org/blog/trouble-cloudflare",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "tshtf",
+    "descendants": 351,
+    "time": 1459519105
   },
   {
     "rank": 9,
     "id": 11405239,
     "title": "Ask HN: Who is hiring? (April 2016)",
     "url": "https://news.ycombinator.com/item?id=11405239",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "whoishiring",
+    "descendants": 713,
+    "time": 1459522874
   },
   {
     "rank": 10,
     "id": 11407289,
     "title": "Squash your commits",
     "url": "https://github.com/blog/2141-squash-your-commits",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 702,
+    "by": "WillAbides",
+    "descendants": 339,
+    "time": 1459535454
   }
 ]

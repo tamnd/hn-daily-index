@@ -4,99 +4,99 @@
     "id": 11298583,
     "title": "Stargate Physics 101: A comedy about the importance of software testing",
     "url": "https://archiveofourown.org/works/3673335",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "gwern",
+    "descendants": 67,
+    "time": 1458145932
   },
   {
     "rank": 2,
     "id": 11300395,
     "title": "An XSS on Facebook via PNGs and Wonky Content Types",
     "url": "https://fin1te.net/articles/xss-on-facebook-via-png-content-types/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "renke1",
+    "descendants": 45,
+    "time": 1458159880
   },
   {
     "rank": 3,
     "id": 11300406,
     "title": "Google shares software network load balancer design powering GCP networking",
     "url": "https://cloudplatform.googleblog.com/2016/03/Google-shares-software-network-load-balancer-design-powering-GCP-networking.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "rey12rey",
+    "descendants": 57,
+    "time": 1458159990
   },
   {
     "rank": 4,
     "id": 11300722,
     "title": "Google nabs Apple as a cloud customer",
     "url": "http://www.businessinsider.com/google-nabs-apple-as-a-cloud-customer-2016-3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "ra7",
+    "descendants": 216,
+    "time": 1458162756
   },
   {
     "rank": 5,
     "id": 11302125,
     "title": "Lisp Flavoured Erlang 1.0 released after 8 years of development",
     "url": "https://github.com/rvirding/lfe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "vdaniuk",
+    "descendants": 91,
+    "time": 1458180248
   },
   {
     "rank": 6,
     "id": 11302992,
     "title": "Tcpdump is amazing",
     "url": "http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 567,
+    "by": "ingve",
+    "descendants": 102,
+    "time": 1458199706
   },
   {
     "rank": 7,
     "id": 11304752,
     "title": "Unmasking Startup L. Jackson",
     "url": "http://www.bloomberg.com/news/articles/2016-03-17/unmasking-startup-l-jackson-silicon-valley-s-favorite-twitter-persona",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "jackgavigan",
+    "descendants": 87,
+    "time": 1458226843
   },
   {
     "rank": 8,
     "id": 11305527,
     "title": "Google Puts Boston Dynamics Up for Sale in Robotics Retreat",
     "url": "http://www.bloomberg.com/news/articles/2016-03-17/google-is-said-to-put-boston-dynamics-robotics-unit-up-for-sale",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 830,
+    "by": "doener",
+    "descendants": 387,
+    "time": 1458232853
   },
   {
     "rank": 9,
     "id": 11306478,
     "title": "Facebook is the new Excel",
     "url": "http://alexmuir.com/facebook-is-the-new-excel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "AlexMuir",
+    "descendants": 250,
+    "time": 1458239532
   },
   {
     "rank": 10,
     "id": 11308160,
     "title": "A Government Error Just Revealed Snowden Was the Target in the Lavabit Case",
     "url": "http://www.wired.com/2016/03/government-error-just-revealed-snowden-target-lavabit-case/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 795,
+    "by": "runesoerensen",
+    "descendants": 164,
+    "time": 1458253898
   }
 ]

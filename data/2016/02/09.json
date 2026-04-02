@@ -4,99 +4,99 @@
     "id": 11058500,
     "title": "The Zen of Erlang",
     "url": "http://ferd.ca/the-zen-of-erlang.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "mononcqc",
+    "descendants": 37,
+    "time": 1454944462
   },
   {
     "rank": 2,
     "id": 11061689,
     "title": "PayPal CTO Resigns",
     "url": "http://www.sec.gov/Archives/edgar/data/1633917/000163391716000110/a8-kbarrese.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "coloneltcb",
+    "descendants": 119,
+    "time": 1454973223
   },
   {
     "rank": 3,
     "id": 11061992,
     "title": "Parker Conrad Steps Down as Zenefits CEO",
     "url": "http://www.buzzfeed.com/williamalden/zenefits-ceo-parker-conrad-steps-down-after-compliance-failu#.isdWP3KWDR",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 581,
+    "by": "philip1209",
+    "descendants": 232,
+    "time": 1454976706
   },
   {
     "rank": 4,
     "id": 11062217,
     "title": "Yelp Posts Q4 Loss, CFO Resigns",
     "url": "http://www.nasdaq.com/article/yelp-posts-q4-loss-cfo-rob-krolik-resigns-20160208-01009",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "praneshp",
+    "descendants": 145,
+    "time": 1454979185
   },
   {
     "rank": 5,
     "id": 11062729,
     "title": "Will Bond (Package Control) Joins Sublime HQ",
     "url": "https://www.sublimetext.com/blog/articles/sublime-text-3-build-3103",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "dmart",
+    "descendants": 88,
+    "time": 1454986231
   },
   {
     "rank": 6,
     "id": 11062757,
     "title": "GNU Social, a FLOSS alternative to Twitter",
     "url": "http://gnu.io/social/try/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "striking",
+    "descendants": 252,
+    "time": 1454986684
   },
   {
     "rank": 7,
     "id": 11063514,
     "title": "Hacker Publishes Personal Info of 20,000 FBI Agents",
     "url": "http://motherboard.vice.com/read/hacker-publishes-personal-info-of-20000-fbi-agents",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "molecule",
+    "descendants": 171,
+    "time": 1454999172
   },
   {
     "rank": 8,
     "id": 11063963,
     "title": "Amazon Lumberyard: free AAA game engine with Oculus and AWS integration",
     "url": "http://aws.amazon.com/lumberyard/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "dshankar",
+    "descendants": 177,
+    "time": 1455007004
   },
   {
     "rank": 9,
     "id": 11065251,
     "title": "Funding Django is not an act of charity, it's an investment",
     "url": "https://www.djangoproject.com/weblog/2016/feb/04/funding-testimonial-divio/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "intellectronica",
+    "descendants": 119,
+    "time": 1455026369
   },
   {
     "rank": 10,
     "id": 11067050,
     "title": "Gmail Will Warn If Message Is Not Authenticated/Encrypted",
     "url": "http://gmailblog.blogspot.com/2016/02/making-email-safer-for-you-posted-by.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 450,
+    "by": "AdmiralAsshat",
+    "descendants": 209,
+    "time": 1455039362
   }
 ]

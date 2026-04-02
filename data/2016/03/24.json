@@ -4,99 +4,99 @@
     "id": 11342782,
     "title": "D'Oh My Zsh \u2013 How I unexpectedly built a monster of an open source project",
     "url": "https://medium.com/@robbyrussell/d-oh-my-zsh-af99ca54212c#.ovixesd5v",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "werrett",
+    "descendants": 97,
+    "time": 1458720009
   },
   {
     "rank": 2,
     "id": 11344145,
     "title": "Intel Kills \u201cTick-Tock\u201d",
     "url": "http://www.fool.com/investing/general/2016/03/22/intel-corp-officially-kills-tick-tock.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "Deinos",
+    "descendants": 128,
+    "time": 1458739376
   },
   {
     "rank": 3,
     "id": 11347006,
     "title": "What I Learned Selling a Software Business",
     "url": "https://training.kalzumeus.com/newsletters/archive/selling_software_business",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 439,
+    "by": "earlyresort",
+    "descendants": 84,
+    "time": 1458757806
   },
   {
     "rank": 4,
     "id": 11347872,
     "title": "Google opens access to its speech recognition API",
     "url": "http://social.techcrunch.com/2016/03/23/google-opens-access-to-its-speech-recognition-api-going-head-to-head-with-nuance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 605,
+    "by": "jstoiko",
+    "descendants": 168,
+    "time": 1458764453
   },
   {
     "rank": 5,
     "id": 11350458,
     "title": "Require-from-Twitter",
     "url": "https://gist.github.com/rauchg/5b032c2c2166e4e36713",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "uptown",
+    "descendants": 127,
+    "time": 1458791457
   },
   {
     "rank": 6,
     "id": 11350651,
     "title": "Left-pad as a service",
     "url": "http://left-pad.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 943,
+    "by": "manojlds",
+    "descendants": 254,
+    "time": 1458795075
   },
   {
     "rank": 7,
     "id": 11352307,
     "title": "Microsoft chatbot is taught to swear on Twitter",
     "url": "http://www.bbc.com/news/technology-35890188",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "pacaro",
+    "descendants": 221,
+    "time": 1458823705
   },
   {
     "rank": 8,
     "id": 11352389,
     "title": "Docker for Mac and Windows Beta",
     "url": "https://blog.docker.com/2016/03/docker-for-mac-windows-beta/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 904,
+    "by": "ah3rz",
+    "descendants": 239,
+    "time": 1458824657
   },
   {
     "rank": 9,
     "id": 11352704,
     "title": "Micropackages and Open Source Trust Scaling",
     "url": "http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "s4chin",
+    "descendants": 87,
+    "time": 1458827317
   },
   {
     "rank": 10,
     "id": 11353322,
     "title": "Citus Unforks from PostgreSQL, Goes Open Source",
     "url": "https://www.citusdata.com/blog/17-ozgun-erdogan/403-citus-unforks-postgresql-goes-open-source",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 763,
+    "by": "jamesheroku",
+    "descendants": 153,
+    "time": 1458831765
   }
 ]

@@ -4,99 +4,99 @@
     "id": 11687325,
     "title": "The Panic Sign",
     "url": "https://panic.com/blog/the-panic-sign/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "_pius",
+    "descendants": 34,
+    "time": 1463092256
   },
   {
     "rank": 2,
     "id": 11691760,
     "title": "Taking Rust everywhere with rustup",
     "url": "http://blog.rust-lang.org/2016/05/13/rustup.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "steveklabnik",
+    "descendants": 87,
+    "time": 1463160320
   },
   {
     "rank": 3,
     "id": 11691962,
     "title": "Amazon Reviews: How We Spot the Fakes",
     "url": "http://thewirecutter.com/2016/05/lets-talk-about-amazon-reviews/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "Osiris30",
+    "descendants": 228,
+    "time": 1463161869
   },
   {
     "rank": 4,
     "id": 11692155,
     "title": "Giving up on Julia",
     "url": "http://zverovich.net/2016/05/13/giving-up-on-julia.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "ingve",
+    "descendants": 230,
+    "time": 1463163446
   },
   {
     "rank": 5,
     "id": 11692367,
     "title": "That'll do, pig, that'll do",
     "url": "https://medium.com/@oscargodson/thatll-do-pig-that-ll-do-8998f9df9f77#.65ygnw6fy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "exolymph",
+    "descendants": 203,
+    "time": 1463165027
   },
   {
     "rank": 6,
     "id": 11694277,
     "title": "Ask HN: What's the best tool you used to use that doesn't exist anymore?",
     "url": "https://news.ycombinator.com/item?id=11694277",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "mod50ack",
+    "descendants": 868,
+    "time": 1463191621
   },
   {
     "rank": 7,
     "id": 11694766,
     "title": "Why I Haven\u2019t Fixed Your Issue Yet",
     "url": "http://www.michaelbromley.co.uk/blog/529/why-i-havent-fixed-your-issue-yet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "s_severus",
+    "descendants": 99,
+    "time": 1463207151
   },
   {
     "rank": 8,
     "id": 11695463,
     "title": "ZFS lands in Debian contrib",
     "url": "https://tracker.debian.org/pkg/zfs-linux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "turrini",
+    "descendants": 184,
+    "time": 1463221819
   },
   {
     "rank": 9,
     "id": 11695668,
     "title": "Germany plans to remove owner liability for piracy on open Wi-Fi hotspots\u2013report",
     "url": "http://arstechnica.co.uk/tech-policy/2016/05/german-open-wi-fi-storehaftung-law-repealed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "Tomte",
+    "descendants": 78,
+    "time": 1463226182
   },
   {
     "rank": 10,
     "id": 11695904,
     "title": "A cool way to use natural language in JavaScript",
     "url": "https://github.com/nlp-compromise/nlp_compromise",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "oori",
+    "descendants": 186,
+    "time": 1463230816
   }
 ]

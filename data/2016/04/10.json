@@ -4,99 +4,99 @@
     "id": 11460509,
     "title": "Frog and Toad are Cofounders",
     "url": "https://medium.com/frog-and-toad-are-cofounders",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "alexdean",
+    "descendants": 34,
+    "time": 1460190882
   },
   {
     "rank": 2,
     "id": 11460768,
     "title": "Metal foam obliterates bullets",
     "url": "http://phys.org/news/2016-04-metal-foam-obliterates-bullets.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "WellDressed",
+    "descendants": 87,
+    "time": 1460199049
   },
   {
     "rank": 3,
     "id": 11461077,
     "title": "Knuth versus Email (1999)",
     "url": "http://cs.stanford.edu/~uno/email.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "joshuacc",
+    "descendants": 128,
+    "time": 1460207427
   },
   {
     "rank": 4,
     "id": 11461345,
     "title": "How a Car Engine Works",
     "url": "http://animagraffs.com/how-a-car-engine-works/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "kercker",
+    "descendants": 123,
+    "time": 1460212052
   },
   {
     "rank": 5,
     "id": 11464083,
     "title": "Domino's: Pizza and Payments",
     "url": "http://www.ifc0nfig.com/dominos-pizza-and-payments/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "TheGuyWhoCodes",
+    "descendants": 56,
+    "time": 1460246972
   },
   {
     "rank": 6,
     "id": 11465078,
     "title": "Wealth doesn't trickle down \u2013 it just floods offshore, research reveals (2012)",
     "url": "http://www.theguardian.com/business/2012/jul/21/offshore-wealth-global-economy-tax-havens",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "simonebrunozzi",
+    "descendants": 209,
+    "time": 1460267050
   },
   {
     "rank": 7,
     "id": 11465234,
     "title": "Composing Programs \u2013 Python 3 in the tradition of SICP",
     "url": "http://composingprograms.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "tillulen",
+    "descendants": 94,
+    "time": 1460271508
   },
   {
     "rank": 8,
     "id": 11465880,
     "title": "Climate-Related Death of Coral Around World Alarms Scientists",
     "url": "http://www.nytimes.com/2016/04/10/world/asia/climate-related-death-of-coral-around-world-alarms-scientists.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "hvo",
+    "descendants": 171,
+    "time": 1460291398
   },
   {
     "rank": 9,
     "id": 11465978,
     "title": "Maps Showing Where FBI Planes Are Watching from Above",
     "url": "http://www.buzzfeed.com/peteraldhous/spies-in-the-skies",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "prawn",
+    "descendants": 132,
+    "time": 1460294141
   },
   {
     "rank": 10,
     "id": 11467309,
     "title": "Following a Select Statement Through Postgres Internals",
     "url": "http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "rspivak",
+    "descendants": 27,
+    "time": 1460310566
   }
 ]

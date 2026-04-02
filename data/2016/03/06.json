@@ -4,99 +4,99 @@
     "id": 11230247,
     "title": "Bitcoin transaction processing takes up to 10 hours",
     "url": "http://www.coindesk.com/bitcoin-capacity-nightmare-fees-reality/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "elorant",
+    "descendants": 185,
+    "time": 1457201317
   },
   {
     "rank": 2,
     "id": 11231631,
     "title": "Mr. Fart\u2019s Favorite Colors",
     "url": "https://medium.com/@blakeross/mr-fart-s-favorite-colors-3177a406c775#.4b6z856uh",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "philfreo",
+    "descendants": 66,
+    "time": 1457220797
   },
   {
     "rank": 3,
     "id": 11231988,
     "title": "Learning how to write a 3D engine from scratch in C#, TypeScript or JavaScript (2013)",
     "url": "https://blogs.msdn.microsoft.com/davrous/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "adamnemecek",
+    "descendants": 36,
+    "time": 1457226840
   },
   {
     "rank": 4,
     "id": 11232244,
     "title": "Eating chocolate is associated with improved brain function",
     "url": "https://www.washingtonpost.com/news/wonk/wp/2016/03/04/the-magical-thing-eating-chocolate-does-to-your-brain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "mhb",
+    "descendants": 93,
+    "time": 1457232400
   },
   {
     "rank": 5,
     "id": 11232950,
     "title": "CEO",
     "url": "http://jacquesmattheij.com/ceo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "jacquesm",
+    "descendants": 157,
+    "time": 1457252922
   },
   {
     "rank": 6,
     "id": 11233016,
     "title": "There are no acceptable ads",
     "url": "https://github.com/fivefilters/block-ads/wiki/There-are-no-acceptable-ads#wrapper",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "k1m",
+    "descendants": 278,
+    "time": 1457255402
   },
   {
     "rank": 7,
     "id": 11233898,
     "title": "Why I think Tesla is building throwaway cars",
     "url": "http://syonyk.blogspot.com/2016/03/is-tesla-building-throwaway-cars.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 585,
+    "by": "Shivetya",
+    "descendants": 361,
+    "time": 1457275211
   },
   {
     "rank": 8,
     "id": 11234008,
     "title": "Ray Tomlinson, Inventor of Email, Has Died",
     "url": "http://www.theverge.com/2016/3/6/11168718/ray-tomlinson-dead-inventor-of-email-obituary",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "jrbedard",
+    "descendants": 69,
+    "time": 1457277078
   },
   {
     "rank": 9,
     "id": 11234229,
     "title": "Let's code a TCP/IP stack, 1: Ethernet and ARP",
     "url": "http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "ingve",
+    "descendants": 49,
+    "time": 1457281006
   },
   {
     "rank": 10,
     "id": 11234589,
     "title": "Transmission BitTorrent app contained malware",
     "url": "https://forum.transmissionbt.com/viewtopic.php?f=4&t=17834",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 895,
+    "by": "mroling",
+    "descendants": 338,
+    "time": 1457285648
   }
 ]

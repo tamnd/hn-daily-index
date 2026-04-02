@@ -4,99 +4,99 @@
     "id": 11171643,
     "title": "Twitter's missing manual",
     "url": "https://eev.ee/blog/2016/02/20/twitters-missing-manual/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "prawn",
+    "descendants": 70,
+    "time": 1456362217
   },
   {
     "rank": 2,
     "id": 11181394,
     "title": "AT&T sues Louisville to stop Google Fiber from using its utility poles",
     "url": "http://arstechnica.com/tech-policy/2016/02/att-sues-louisville-to-stop-google-fiber-from-using-its-utility-poles/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "pavornyoh",
+    "descendants": 137,
+    "time": 1456495737
   },
   {
     "rank": 3,
     "id": 11183105,
     "title": "Developing Our First iOS App with React Native",
     "url": "http://code.hireart.com/2016/02/24/react-native-ios-app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "tomtang2",
+    "descendants": 131,
+    "time": 1456511782
   },
   {
     "rank": 4,
     "id": 11183348,
     "title": "PostgreSQL Indexes: First principles",
     "url": "http://eftimov.net/postgresql-indexes-first-principles",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "craigkerstiens",
+    "descendants": 37,
+    "time": 1456513999
   },
   {
     "rank": 5,
     "id": 11183547,
     "title": "Prosecutors halt vast, likely illegal DEA wiretap operation",
     "url": "http://www.usatoday.com/story/news/2016/02/25/dea-riverside-wiretaps-scaled-back/80891460/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "anon1385",
+    "descendants": 82,
+    "time": 1456515380
   },
   {
     "rank": 6,
     "id": 11183970,
     "title": "Wesley A. Clark, legendary computer engineer, dies at 88",
     "url": "http://www.techrepublic.com/article/wesley-a-clark-legendary-computer-engineer-dies-at-88/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "ohjeez",
+    "descendants": 26,
+    "time": 1456518509
   },
   {
     "rank": 7,
     "id": 11186289,
     "title": "Company Makes $70M Selling Random Stuff on Amazon",
     "url": "http://www.inc.com/magazine/201603/burt-helm/pharmapacks-amazon-warehouse.html?cid=cp01002fastco",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "prostoalex",
+    "descendants": 94,
+    "time": 1456554193
   },
   {
     "rank": 8,
     "id": 11186756,
     "title": "MentalHealthError: an exception occurred",
     "url": "http://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 593,
+    "by": "cool-RR",
+    "descendants": 186,
+    "time": 1456570517
   },
   {
     "rank": 9,
     "id": 11186871,
     "title": "We Should All Have Something to Hide (2013)",
     "url": "http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "citizensixteen",
+    "descendants": 38,
+    "time": 1456574484
   },
   {
     "rank": 10,
     "id": 11187198,
     "title": "AppImage: Linux apps that run anywhere",
     "url": "http://appimage.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "b169118",
+    "descendants": 233,
+    "time": 1456584406
   }
 ]

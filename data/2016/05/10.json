@@ -4,99 +4,99 @@
     "id": 11659828,
     "title": "Zenefits Was the Perfect Startup, Then It Self-Disrupted",
     "url": "http://www.bloomberg.com/features/2016-zenefits/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "hgennaro",
+    "descendants": 219,
+    "time": 1462802071
   },
   {
     "rank": 2,
     "id": 11660492,
     "title": "TMSU: a tool born out of frustration with the hierarchical nature of filesystems",
     "url": "http://tmsu.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "goblin89",
+    "descendants": 128,
+    "time": 1462807411
   },
   {
     "rank": 3,
     "id": 11662536,
     "title": "PostgreSQL Scalability: Towards Millions TPS",
     "url": "http://akorotkov.github.io/blog/2016/05/09/scalability-towards-millions-tps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 521,
+    "by": "lneves",
+    "descendants": 210,
+    "time": 1462822873
   },
   {
     "rank": 4,
     "id": 11664159,
     "title": "How Breakfast Became a Thing",
     "url": "http://priceonomics.com/how-breakfast-became-a-thing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "samsolomon",
+    "descendants": 193,
+    "time": 1462837052
   },
   {
     "rank": 5,
     "id": 11666670,
     "title": "Why do old statues have such small penises?",
     "url": "https://howtotalkaboutarthistory.wordpress.com/2015/08/30/why-do-all-old-statues-have-such-small-penises/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "okket",
+    "descendants": 168,
+    "time": 1462882933
   },
   {
     "rank": 6,
     "id": 11666857,
     "title": "Ask HN: How do I deal with the first sexual harassment complaint at my startup?",
     "url": "https://news.ycombinator.com/item?id=11666857",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "milfseriously",
+    "descendants": 580,
+    "time": 1462885668
   },
   {
     "rank": 7,
     "id": 11667494,
     "title": "Show HN: BitKeeper \u2013 Enterprise-ready version control, now open-source",
     "url": "https://www.bitkeeper.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "wscott",
+    "descendants": 306,
+    "time": 1462891142
   },
   {
     "rank": 8,
     "id": 11667523,
     "title": "A Farewell to FRP",
     "url": "http://elm-lang.org/blog/farewell-to-frp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 771,
+    "by": "sharksandwich",
+    "descendants": 241,
+    "time": 1462891384
   },
   {
     "rank": 9,
     "id": 11667985,
     "title": "Twitter open-sources a high-performance replicated log service",
     "url": "https://github.com/twitter/distributedlog",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "spullara",
+    "descendants": 116,
+    "time": 1462894698
   },
   {
     "rank": 10,
     "id": 11668396,
     "title": "Teaching C",
     "url": "http://blog.regehr.org/archives/1393",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "mpweiher",
+    "descendants": 152,
+    "time": 1462897697
   }
 ]

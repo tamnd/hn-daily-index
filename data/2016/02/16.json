@@ -4,99 +4,99 @@
     "id": 11104356,
     "title": "Why I No Longer Use MVC Frameworks",
     "url": "http://www.infoq.com/articles/no-more-mvc-frameworks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "talles",
+    "descendants": 194,
+    "time": 1455555404
   },
   {
     "rank": 2,
     "id": 11106980,
     "title": "Building a Startup in 45 Minutes per Day While Deployed in Iraq",
     "url": "http://mattmazur.com/2016/01/04/building-a-startup-in-45-minutes-per-day-while-deployed-to-iraq/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 508,
+    "by": "essayoh",
+    "descendants": 120,
+    "time": 1455580664
   },
   {
     "rank": 3,
     "id": 11107270,
     "title": "Search Hillary Clinton\u2019s Emails",
     "url": "http://graphics.wsj.com/hillary-clinton-email-documents/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "frostmatthew",
+    "descendants": 149,
+    "time": 1455584777
   },
   {
     "rank": 4,
     "id": 11108738,
     "title": "The NSA\u2019s machine learning algorithm may be killing thousands of innocent people",
     "url": "http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "mocko",
+    "descendants": 208,
+    "time": 1455614655
   },
   {
     "rank": 5,
     "id": 11109272,
     "title": "Uber's Design Meltdown",
     "url": "http://www.elischiff.com/blog/2016/2/16/ubers-atomic-meltdown",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "lumpypua",
+    "descendants": 219,
+    "time": 1455623830
   },
   {
     "rank": 6,
     "id": 11109600,
     "title": "Show HN: Find the best recipe for any two foods, based on over 600k recipes",
     "url": "http://www.foodpairing.ninja/pairs.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "qrv3w",
+    "descendants": 105,
+    "time": 1455629019
   },
   {
     "rank": 7,
     "id": 11109839,
     "title": "Vulkan is Here",
     "url": "https://www.khronos.org/vulkan/.",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 903,
+    "by": "ekianjo",
+    "descendants": 201,
+    "time": 1455631693
   },
   {
     "rank": 8,
     "id": 11109967,
     "title": "Glibc getaddrinfo stack-based buffer overflow",
     "url": "https://googleonlinesecurity.blogspot.com/2016/02/cve-2015-7547-glibc-getaddrinfo-stack.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 502,
+    "by": "0x0",
+    "descendants": 456,
+    "time": 1455632813
   },
   {
     "rank": 9,
     "id": 11110902,
     "title": "Hard Drive Reliability Review for 2015",
     "url": "https://www.backblaze.com/blog/hard-drive-reliability-q4-2015/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "chmars",
+    "descendants": 111,
+    "time": 1455639849
   },
   {
     "rank": 10,
     "id": 11111753,
     "title": "Dear Startups:  Here\u2019s How to Stay Alive",
     "url": "http://heidiroizen.tumblr.com/post/139377970205/dear-startups-heres-how-to-stay-alive",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "whbk",
+    "descendants": 188,
+    "time": 1455645306
   }
 ]

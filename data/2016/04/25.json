@@ -4,99 +4,99 @@
     "id": 11560122,
     "title": "An integer formula for Fibonacci numbers",
     "url": "http://paulhankin.github.io/Fibonacci/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "0xmohit",
+    "descendants": 56,
+    "time": 1461513920
   },
   {
     "rank": 2,
     "id": 11561331,
     "title": "Personal info of 93M Mexicans exposed on AWS",
     "url": "http://www.databreaches.net/personal-info-of-93-4-million-mexicans-exposed-on-amazon/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "elorant",
+    "descendants": 104,
+    "time": 1461531146
   },
   {
     "rank": 3,
     "id": 11561340,
     "title": "/dev/random \u2013 a new approach",
     "url": "http://lwn.net/Articles/684568/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "Tomte",
+    "descendants": 126,
+    "time": 1461531352
   },
   {
     "rank": 4,
     "id": 11561770,
     "title": "How Kalman Filters Work",
     "url": "http://www.anuncommonlab.com/articles/how-kalman-filters-work/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "slackpad",
+    "descendants": 29,
+    "time": 1461539194
   },
   {
     "rank": 5,
     "id": 11562414,
     "title": "Dark Patterns by the Boston Globe",
     "url": "https://rationalconspiracy.com/2016/04/24/dark-patterns-by-the-boston-globe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 726,
+    "by": "apsec112",
+    "descendants": 317,
+    "time": 1461555150
   },
   {
     "rank": 6,
     "id": 11563092,
     "title": "Half Your Brain Stands Guard When Sleeping in a New Place",
     "url": "http://www.npr.org/sections/health-shots/2016/04/21/474691141/half-your-brain-stands-guard-when-sleeping-in-a-new-place",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 501,
+    "by": "stared",
+    "descendants": 153,
+    "time": 1461573284
   },
   {
     "rank": 7,
     "id": 11563714,
     "title": "Chart.js 2.0 Released",
     "url": "http://www.chartjs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "etimberg",
+    "descendants": 78,
+    "time": 1461586572
   },
   {
     "rank": 8,
     "id": 11564712,
     "title": "Dropbox as a Git Server",
     "url": "http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "anishathalye",
+    "descendants": 76,
+    "time": 1461597198
   },
   {
     "rank": 9,
     "id": 11565911,
     "title": "Gentoo Tesla \u2013 T2 Edition",
     "url": "http://www.su-tesla.space/2016/04/gentoo-tesla-t2-edition.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "lelf",
+    "descendants": 142,
+    "time": 1461606396
   },
   {
     "rank": 10,
     "id": 11566720,
     "title": "Homebrew now sends usage information to Google Analytics",
     "url": "https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Analytics.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "aorth",
+    "descendants": 312,
+    "time": 1461612913
   }
 ]

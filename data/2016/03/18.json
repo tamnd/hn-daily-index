@@ -4,99 +4,99 @@
     "id": 11303511,
     "title": "2016 Stack Overflow Developer Survey Results",
     "url": "http://stackoverflow.com/research/developer-survey-2016",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "sambrand",
+    "descendants": 168,
+    "time": 1458209753
   },
   {
     "rank": 2,
     "id": 11305869,
     "title": "Real-Time Django: Get Started with Django Channels",
     "url": "https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "joeyespo",
+    "descendants": 116,
+    "time": 1458235228
   },
   {
     "rank": 3,
     "id": 11307478,
     "title": "Apple Encryption Engineers, If Ordered to Unlock iPhone, Might Resist",
     "url": "http://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "IBM",
+    "descendants": 359,
+    "time": 1458247734
   },
   {
     "rank": 4,
     "id": 11309080,
     "title": "Study: Immigrants Founded 51% of U.S. Billion-Dollar Startups",
     "url": "http://www.wsj.com/articles/BL-VCDB-18760",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "mavelikara",
+    "descendants": 226,
+    "time": 1458263131
   },
   {
     "rank": 5,
     "id": 11309907,
     "title": "Statically Recompiling NES Games into Native Executables with LLVM and Go (2013)",
     "url": "http://andrewkelley.me/post/jamulator.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "dcschelt",
+    "descendants": 64,
+    "time": 1458275347
   },
   {
     "rank": 6,
     "id": 11310461,
     "title": "The 451 status code is now supported",
     "url": "https://developer.github.com/changes/2016-03-17-the-451-status-code-is-now-supported/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "cujanovic",
+    "descendants": 77,
+    "time": 1458287629
   },
   {
     "rank": 7,
     "id": 11311185,
     "title": "FingerIO: Using Active Sonar for Fine-Grained Finger Tracking",
     "url": "http://fingerio.cs.washington.edu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "jonbaer",
+    "descendants": 118,
+    "time": 1458302636
   },
   {
     "rank": 8,
     "id": 11311208,
     "title": "No More Full Table Vacuums in PostgreSQL",
     "url": "http://rhaas.blogspot.com/2016/03/no-more-full-table-vacuums.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "dhd415",
+    "descendants": 73,
+    "time": 1458302955
   },
   {
     "rank": 9,
     "id": 11312984,
     "title": "Ask HN: How much do you make at Amazon? Here is how much I make at Amazon",
     "url": "https://news.ycombinator.com/item?id=11312984",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1213,
+    "by": "boren_ave11",
+    "descendants": 690,
+    "time": 1458319393
   },
   {
     "rank": 10,
     "id": 11313452,
     "title": "An Experimental Autism Treatment Cost Me My Marriage",
     "url": "http://well.blogs.nytimes.com/2016/03/18/an-experimental-autism-treatment-cost-me-my-marriage/?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=mini-moth&region=top-stories-below&WT.nav=top-stories-below&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "salgernon",
+    "descendants": 311,
+    "time": 1458322714
   }
 ]

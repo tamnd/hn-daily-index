@@ -4,99 +4,99 @@
     "id": 11139853,
     "title": "Judge Rules FBI Must Reveal Malware It Used to Hack Over 1,000 Computers",
     "url": "http://motherboard.vice.com/read/judge-rules-fbi-must-reveal-malware-used-to-hack-over-1000-computers-playpen-jay-michaud",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "56k",
+    "descendants": 77,
+    "time": 1455972071
   },
   {
     "rank": 2,
     "id": 11141170,
     "title": "Early Impacts of Let's Encrypt",
     "url": "https://tacticalsecret.com/early-impacts-of-letsencrypt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "tdurden",
+    "descendants": 94,
+    "time": 1455992387
   },
   {
     "rank": 3,
     "id": 11141840,
     "title": "Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online",
     "url": "http://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "jetskindo",
+    "descendants": 84,
+    "time": 1456000744
   },
   {
     "rank": 4,
     "id": 11142625,
     "title": "Understanding Git for real by exploring the .git directory",
     "url": "https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.pxkhiceli",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "adamnemecek",
+    "descendants": 87,
+    "time": 1456013527
   },
   {
     "rank": 5,
     "id": 11142911,
     "title": "Lamdu \u2013 towards a new programming experience",
     "url": "http://www.lamdu.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 189,
+    "by": "detaro",
+    "descendants": 67,
+    "time": 1456019334
   },
   {
     "rank": 6,
     "id": 11143326,
     "title": "Discover Flask",
     "url": "http://discoverflask.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "rkda",
+    "descendants": 75,
+    "time": 1456029518
   },
   {
     "rank": 7,
     "id": 11143423,
     "title": "Vapor: a type-safe web framework for Swift",
     "url": "https://github.com/tannernelson/vapor",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "elithrar",
+    "descendants": 70,
+    "time": 1456032100
   },
   {
     "rank": 8,
     "id": 11143588,
     "title": "Washington Should Prepare for Saudi Arabia's Collapse",
     "url": "http://www.theatlantic.com/international/archive/2016/02/saudi-arabia-collapse/463212/?single_page=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "lxm",
+    "descendants": 214,
+    "time": 1456036782
   },
   {
     "rank": 9,
     "id": 11144193,
     "title": "The Apple letter to customers couldn't happen under proposed UK law",
     "url": "https://privacyinternational.org/node/751",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "J-dawg",
+    "descendants": 102,
+    "time": 1456056370
   },
   {
     "rank": 10,
     "id": 11144921,
     "title": "PeerTweet \u2013 Decentralized feeds using BitTorrent's DHT network",
     "url": "https://github.com/lmatteis/peer-tweet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "sktrdie",
+    "descendants": 80,
+    "time": 1456069821
   }
 ]

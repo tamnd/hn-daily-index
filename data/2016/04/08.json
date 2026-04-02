@@ -4,99 +4,99 @@
     "id": 11447858,
     "title": "Hidden latency in the Linux network stack",
     "url": "https://blog.cloudflare.com/revenge-listening-sockets/?p=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "jgrahamc",
+    "descendants": 60,
+    "time": 1460041937
   },
   {
     "rank": 2,
     "id": 11448682,
     "title": "Design better databases",
     "url": "http://dbpatterns.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 506,
+    "by": "fordarnold",
+    "descendants": 175,
+    "time": 1460047512
   },
   {
     "rank": 3,
     "id": 11449133,
     "title": "Ask HN: How do detect a crappy boss / toxic environment when interviewing?",
     "url": "https://news.ycombinator.com/item?id=11449133",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "isuckatcoding",
+    "descendants": 327,
+    "time": 1460051295
   },
   {
     "rank": 4,
     "id": 11449767,
     "title": "Why Erlang Matters",
     "url": "https://sameroom.io/blog/why-erlang-matters",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "_oakland",
+    "descendants": 207,
+    "time": 1460056179
   },
   {
     "rank": 5,
     "id": 11450944,
     "title": "React v15.0",
     "url": "https://facebook.github.io/react/blog/2016/04/07/react-v15.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 695,
+    "by": "clessg",
+    "descendants": 163,
+    "time": 1460065277
   },
   {
     "rank": 6,
     "id": 11452355,
     "title": "Jeff Bezos\u2019 letter to shareholders",
     "url": "http://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "adamsi",
+    "descendants": 274,
+    "time": 1460085174
   },
   {
     "rank": 7,
     "id": 11452765,
     "title": "YouTube-dl: Open-source YouTube downloader",
     "url": "https://rg3.github.io/youtube-dl/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 989,
+    "by": "h43k3r",
+    "descendants": 321,
+    "time": 1460093985
   },
   {
     "rank": 8,
     "id": 11453812,
     "title": "WhatsApp Rolls Out End-To-End Encryption to Its Over 1B Users",
     "url": "https://www.eff.org/deeplinks/2016/04/whatsapp-rolls-out-end-end-encryption-its-1bn-users",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "randomname2",
+    "descendants": 226,
+    "time": 1460113212
   },
   {
     "rank": 9,
     "id": 11455031,
     "title": "Forbes Site, After Begging You Turn Off Adblocker, Serves Up Malware 'Ads'",
     "url": "https://www.techdirt.com/articles/20160111/05574633295/forbes-site-after-begging-you-turn-off-adblocker-serves-up-steaming-pile-malware-ads.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 606,
+    "by": "jackgavigan",
+    "descendants": 271,
+    "time": 1460127416
   },
   {
     "rank": 10,
     "id": 11457263,
     "title": "SpaceX Launch Livestream: CRS-8 Dragon Hosted Webcast (1:43pm PT)",
     "url": "https://www.youtube.com/watch?v=7pUAydjne5M#t=35m47s",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 845,
+    "by": "cryptoz",
+    "descendants": 354,
+    "time": 1460144128
   }
 ]

@@ -4,99 +4,99 @@
     "id": 11117799,
     "title": "Stack Overflow: The Architecture \u2013 2016 Edition",
     "url": "http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "Nick-Craver",
+    "descendants": 29,
+    "time": 1455717064
   },
   {
     "rank": 2,
     "id": 11118719,
     "title": "Renaming Iceweasel to Firefox",
     "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815006",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "leo2urlevan",
+    "descendants": 149,
+    "time": 1455724974
   },
   {
     "rank": 3,
     "id": 11119838,
     "title": "Technical interview performance is kind of arbitrary",
     "url": "http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "leeny",
+    "descendants": 236,
+    "time": 1455732397
   },
   {
     "rank": 4,
     "id": 11121355,
     "title": "Building Large Flask Apps in the Real World",
     "url": "https://etscrivner.github.io/posts/2014/10/building-large-flask-apps-in-the-real-world/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "shinryuu",
+    "descendants": 167,
+    "time": 1455742893
   },
   {
     "rank": 5,
     "id": 11121734,
     "title": "Go 1.6 is Released",
     "url": "https://blog.golang.org/go1.6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "geetarista",
+    "descendants": 354,
+    "time": 1455745942
   },
   {
     "rank": 6,
     "id": 11121748,
     "title": "Jan Koum: \u201cI couldn't agree more with everything [Apple] said\u201d",
     "url": "https://www.facebook.com/jan.koum/posts/10153907267490011/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "envy2",
+    "descendants": 73,
+    "time": 1455746064
   },
   {
     "rank": 7,
     "id": 11123374,
     "title": "Paul Graham on Doing Things Right by Accident",
     "url": "http://www.themacro.com/articles/2016/02/paul-graham-startup-school-radio-interview/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "runesoerensen",
+    "descendants": 87,
+    "time": 1455764541
   },
   {
     "rank": 8,
     "id": 11125896,
     "title": "SF tech bro: \u2018I shouldn\u2019t have to see the pain, struggle, despair of homeless\u2019",
     "url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/02/18/s-f-tech-bro-writes-open-letter-to-mayor-i-shouldnt-have-to-see-the-pain-struggle-and-despair-of-homeless-people/?hpid=hp_no-name_morning-mix-story-f-duplicate%3Ahomepage%2Fstory",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "gallerytungsten",
+    "descendants": 499,
+    "time": 1455805471
   },
   {
     "rank": 9,
     "id": 11127534,
     "title": "Google Cloud Vision API enters Beta",
     "url": "http://googlecloudplatform.blogspot.com/2016/02/Google-Cloud-Vision-API-enters-beta-open-to-all-to-try.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "axelfontaine",
+    "descendants": 105,
+    "time": 1455816719
   },
   {
     "rank": 10,
     "id": 11127862,
     "title": "Apple Apologizes and Updates iOS to Restore iPhones Disabled by Error 53",
     "url": "http://techcrunch.com/2016/02/18/apple-apologizes-and-updates-ios-to-restore-iphones-disabled-by-error-53/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "aj_icracked",
+    "descendants": 193,
+    "time": 1455819192
   }
 ]

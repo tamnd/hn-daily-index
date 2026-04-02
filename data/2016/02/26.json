@@ -4,99 +4,99 @@
     "id": 11174076,
     "title": "Swift Ported to Android",
     "url": "https://github.com/apple/swift/pull/1442",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "adamjernst",
+    "descendants": 140,
+    "time": 1456405183
   },
   {
     "rank": 2,
     "id": 11176107,
     "title": "GPL Violations Related to Combining ZFS and Linux",
     "url": "https://sfconservancy.org/blog/2016/feb/25/zfs-and-linux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "dwc",
+    "descendants": 261,
+    "time": 1456422105
   },
   {
     "rank": 3,
     "id": 11177957,
     "title": "Sci-Hub as necessary, effective civil disobedience",
     "url": "http://bjoern.brembs.net/2016/02/sci-hub-as-necessary-effective-civil-disobedience/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "ingve",
+    "descendants": 157,
+    "time": 1456435741
   },
   {
     "rank": 4,
     "id": 11179252,
     "title": "Obama Administration Set to Expand Sharing of Data That N.S.A. Intercepts",
     "url": "http://www.nytimes.com/2016/02/26/us/politics/obama-administration-set-to-expand-sharing-of-data-that-nsa-intercepts.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "ddlatham",
+    "descendants": 76,
+    "time": 1456449964
   },
   {
     "rank": 5,
     "id": 11179968,
     "title": "Hacked Together 118 GB Floppy Disk",
     "url": "http://www.popularmechanics.com/technology/gadgets/a19616/modified-floppy-disk-and-drive-uses-sd-cards/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "adamnemecek",
+    "descendants": 98,
+    "time": 1456465144
   },
   {
     "rank": 6,
     "id": 11180316,
     "title": "Apple hires one of the developers behind Signal",
     "url": "http://techcrunch.com/2016/02/25/apple-hires-developer-behind-signal-edward-snowdens-favorite-secure-chat-app/#labnol",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 467,
+    "by": "scottyates11",
+    "descendants": 113,
+    "time": 1456473529
   },
   {
     "rank": 7,
     "id": 11181149,
     "title": "Ethereum: Rise of the World Computer",
     "url": "http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "hunglee2",
+    "descendants": 230,
+    "time": 1456492120
   },
   {
     "rank": 8,
     "id": 11181922,
     "title": "What Developers Should Know About Job Searching and Negotiation",
     "url": "https://www.twilio.com/blog/2016/02/patrick-mckenzie-on-salary-negotiation-job-hunting.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "shakes",
+    "descendants": 235,
+    "time": 1456501404
   },
   {
     "rank": 9,
     "id": 11183208,
     "title": "Raspberry Pi 3 Model B confirmed, with onboard BT LE and WiFi",
     "url": "https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calledFromFrame=N&application_id=Ti%2FYleaJNSl%2BTR5mL5C0WQ%3D%3D&fcc_id=2ABCB-RPI32",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "merah",
+    "descendants": 213,
+    "time": 1456512811
   },
   {
     "rank": 10,
     "id": 11183824,
     "title": "After fifteen years of downtime, the MetaFilter gopher server is back",
     "url": "http://metatalk.metafilter.com/24019/Direct-your-gopher-client-to-gopher-gophermetafiltercom?utm_content=bufferaa556&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "ohjeez",
+    "descendants": 162,
+    "time": 1456517130
   }
 ]
