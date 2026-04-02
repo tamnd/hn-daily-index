@@ -4,99 +4,99 @@
     "id": 29396515,
     "title": "Writing maintainable code is a communication skill",
     "url": "https://max.engineer/maintainable-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "hakunin",
+    "descendants": 93,
+    "time": 1638301367
   },
   {
     "rank": 2,
     "id": 29413753,
     "title": "Libtree: Turns ldd into a tree; explains why shared libraries are found or not",
     "url": "https://github.com/haampie/libtree",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "fanf2",
+    "descendants": 57,
+    "time": 1638433472
   },
   {
     "rank": 3,
     "id": 29415518,
     "title": "Bosch gives go-ahead for volume production of silicon carbide chips",
     "url": "https://www.bosch-presse.de/pressportal/de/en/longer-range-as-standard-bosch-gives-go-ahead-for-volume-production-of-silicon-carbide-chips-235722.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "Tomte",
+    "descendants": 240,
+    "time": 1638449843
   },
   {
     "rank": 4,
     "id": 29429385,
     "title": "Reality has a surprising amount of detail (2017)",
     "url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "jger15",
+    "descendants": 118,
+    "time": 1638535666
   },
   {
     "rank": 5,
     "id": 29430288,
     "title": "Never Use Black (2012)",
     "url": "https://ianstormtaylor.com/design-tip-never-use-black/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "josephwegner",
+    "descendants": 217,
+    "time": 1638541268
   },
   {
     "rank": 6,
     "id": 29432816,
     "title": "An alarming trend in K-12 math education: a guest post and an open letter",
     "url": "https://scottaaronson.blog/?p=6146",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "feross",
+    "descendants": 484,
+    "time": 1638553650
   },
   {
     "rank": 7,
     "id": 29435760,
     "title": "Rclone: Rsync for cloud storage \u2013 CLI to sync between cloud storage providers",
     "url": "https://github.com/rclone/rclone",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "gilad",
+    "descendants": 83,
+    "time": 1638566825
   },
   {
     "rank": 8,
     "id": 29440681,
     "title": "ADSL works over wet string (2017)",
     "url": "https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "mgliwka",
+    "descendants": 153,
+    "time": 1638624326
   },
   {
     "rank": 9,
     "id": 29442307,
     "title": "\u201cCoding is basically just ifs and for loops.\u201d",
     "url": "https://twitter.com/ID_AA_Carmack/status/1466934223831506951",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "x43b",
+    "descendants": 393,
+    "time": 1638638171
   },
   {
     "rank": 10,
     "id": 29442643,
     "title": "Apache Guacamole",
     "url": "https://guacamole.apache.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "WallyFunk",
+    "descendants": 116,
+    "time": 1638640241
   }
 ]

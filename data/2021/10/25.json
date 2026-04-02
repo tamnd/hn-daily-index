@@ -4,99 +4,99 @@
     "id": 28953781,
     "title": "How to learn mathematics: the asterisk method",
     "url": "http://www.geometry.org/tex/conc/mathlearn.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "VitalyAnkh",
+    "descendants": 76,
+    "time": 1634877262
   },
   {
     "rank": 2,
     "id": 28975453,
     "title": "To learn a new language, read its standard library",
     "url": "http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "sferik",
+    "descendants": 236,
+    "time": 1635057504
   },
   {
     "rank": 3,
     "id": 28979048,
     "title": "New language features since Java 8 to 17",
     "url": "https://advancedweb.hu/new-language-features-since-java-8-to-17/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "dmitryminkovsky",
+    "descendants": 351,
+    "time": 1635090604
   },
   {
     "rank": 4,
     "id": 28980691,
     "title": "5 side projects in 6 years, earning $0",
     "url": "https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "kw_dev",
+    "descendants": 198,
+    "time": 1635100517
   },
   {
     "rank": 5,
     "id": 28980927,
     "title": "The Financial Times\u2019 404 page",
     "url": "https://www.ft.com/3lJQa6w",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 609,
+    "by": "ColinWright",
+    "descendants": 90,
+    "time": 1635102409
   },
   {
     "rank": 6,
     "id": 28985169,
     "title": "WhatsApp scaled to 1B users with only 50 engineers",
     "url": "https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 636,
+    "by": "unripe_syntax",
+    "descendants": 454,
+    "time": 1635145652
   },
   {
     "rank": 7,
     "id": 28985936,
     "title": "Show HN: I built a fake VS Code to browse live cricket score in office",
     "url": "https://cric-code.pankajtanwar.in/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 674,
+    "by": "the2ndfloorguy",
+    "descendants": 209,
+    "time": 1635154212
   },
   {
     "rank": 8,
     "id": 28986229,
     "title": "Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility",
     "url": "https://github.com/nuta/kerla",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "Klasiaster",
+    "descendants": 194,
+    "time": 1635157747
   },
   {
     "rank": 9,
     "id": 28988184,
     "title": "Feds order Google to track people searching certain names or details",
     "url": "https://www.dailymail.co.uk/news/article-10063665/Government-orders-Google-track-searching-certain-names-addresses-phone-numbers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 752,
+    "by": "ColinWright",
+    "descendants": 312,
+    "time": 1635172098
   },
   {
     "rank": 10,
     "id": 28989508,
     "title": "The FBI's internal guide for getting data from AT&T, T-Mobile, Verizon",
     "url": "https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 818,
+    "by": "arkadiyt",
+    "descendants": 265,
+    "time": 1635178337
   }
 ]

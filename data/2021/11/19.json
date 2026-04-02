@@ -4,99 +4,99 @@
     "id": 29265765,
     "title": "Backdooring Rust crates for fun and profit",
     "url": "https://kerkour.com/rust-crate-backdoor/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "cjg",
+    "descendants": 201,
+    "time": 1637245743
   },
   {
     "rank": 2,
     "id": 29270718,
     "title": "Notes on Web3",
     "url": "https://society.robinsloan.com/archive/notes-on-web3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "tbolt",
+    "descendants": 446,
+    "time": 1637270362
   },
   {
     "rank": 3,
     "id": 29270776,
     "title": "SerenityOS demo at Handmade Seattle 2021 [video]",
     "url": "https://media.handmade-seattle.com/serenityos/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 786,
+    "by": "awesomekling",
+    "descendants": 180,
+    "time": 1637270663
   },
   {
     "rank": 4,
     "id": 29272682,
     "title": "Where is Ruby Headed in 2021?",
     "url": "https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "thunderbong",
+    "descendants": 349,
+    "time": 1637284525
   },
   {
     "rank": 5,
     "id": 29273829,
     "title": "80386DX ISA single board microcomputer",
     "url": "https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "gigel82",
+    "descendants": 135,
+    "time": 1637296040
   },
   {
     "rank": 6,
     "id": 29275659,
     "title": "Tasking developers with creating detailed estimates is a waste of time (2020)",
     "url": "https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 499,
+    "by": "lauriswtf",
+    "descendants": 271,
+    "time": 1637317254
   },
   {
     "rank": 7,
     "id": 29276557,
     "title": "Elfshaker: Version control system fine-tuned for binaries",
     "url": "https://github.com/elfshaker/elfshaker",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 599,
+    "by": "jim90",
+    "descendants": 113,
+    "time": 1637325716
   },
   {
     "rank": 8,
     "id": 29277260,
     "title": "Swedish study finds discrimination against men in female-dominated occupations",
     "url": "https://www.psypost.org/2021/05/swedish-study-suggests-hiring-discrimination-is-primarily-a-problem-for-men-in-female-dominated-occupations-60699",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "temp8964",
+    "descendants": 273,
+    "time": 1637331019
   },
   {
     "rank": 9,
     "id": 29278180,
     "title": "Show HN: Pony \u2013 a messenger for mindful correspondence",
     "url": "https://www.ponymessenger.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 693,
+    "by": "dmitryminkovsky",
+    "descendants": 238,
+    "time": 1637335920
   },
   {
     "rank": 10,
     "id": 29279146,
     "title": "Crypto Wash Trading",
     "url": "https://arxiv.org/abs/2108.10984",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 572,
+    "by": "paulpauper",
+    "descendants": 299,
+    "time": 1637340266
   }
 ]

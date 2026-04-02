@@ -4,99 +4,99 @@
     "id": 29260464,
     "title": "Debugging a Linux network stack crash via a single register value",
     "url": "https://blog.cloudflare.com/the-tale-of-a-single-register-value/?a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "jgrahamc",
+    "descendants": 27,
+    "time": 1637193240
   },
   {
     "rank": 2,
     "id": 29264888,
     "title": "I Love Arch, but GNU Guix Is My New Distro",
     "url": "https://boilingsteam.com/i-love-arch-but-gnu-guix-is-my-new-distro/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "ekianjo",
+    "descendants": 315,
+    "time": 1637240281
   },
   {
     "rank": 3,
     "id": 29278229,
     "title": "Adults who microdose psychedelics report lower levels of depression and anxiety [pdf]",
     "url": "https://www.nature.com/articles/s41598-021-01811-4.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "miobrien",
+    "descendants": 239,
+    "time": 1637336168
   },
   {
     "rank": 4,
     "id": 29280530,
     "title": "Amazon lobbyists who kill U.S. consumer privacy protections",
     "url": "https://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "conductor",
+    "descendants": 194,
+    "time": 1637346382
   },
   {
     "rank": 5,
     "id": 29281468,
     "title": "Ask HN: I feel so shallow and dumb when I see what other smart people are doing",
     "url": "https://news.ycombinator.com/item?id=29281468",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 534,
+    "by": "cdahmedeh",
+    "descendants": 336,
+    "time": 1637351485
   },
   {
     "rank": 6,
     "id": 29282870,
     "title": "The \u2018Zelle fraud\u2019 scam: how it works, how to fight back",
     "url": "https://krebsonsecurity.com/2021/11/the-zelle-fraud-scam-how-it-works-how-to-fight-back/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "picture",
+    "descendants": 232,
+    "time": 1637357821
   },
   {
     "rank": 7,
     "id": 29284428,
     "title": "Amazon Ion \u2013 A richly-typed, self-describing, hierarchical serialization format",
     "url": "https://amzn.github.io/ion-docs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "gjvc",
+    "descendants": 229,
+    "time": 1637368107
   },
   {
     "rank": 8,
     "id": 29285196,
     "title": "Vertiwalk Vertical Walking",
     "url": "https://www.vertiwalk.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 886,
+    "by": "hliyan",
+    "descendants": 180,
+    "time": 1637377180
   },
   {
     "rank": 9,
     "id": 29288052,
     "title": "Microsoft Edge\u2019s new \u2018Buy now, pay later\u2019 feature is the definition of bloatware",
     "url": "https://www.xda-developers.com/microsoft-edge-buy-now-pay-later/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "JCWasmx86",
+    "descendants": 371,
+    "time": 1637416344
   },
   {
     "rank": 10,
     "id": 29288794,
     "title": "Experts from a world that no longer exists",
     "url": "https://www.collaborativefund.com/blog/experts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "yarapavan",
+    "descendants": 251,
+    "time": 1637421387
   }
 ]

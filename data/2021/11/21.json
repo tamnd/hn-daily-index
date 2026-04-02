@@ -4,99 +4,99 @@
     "id": 29276466,
     "title": "Bring Back Our Knobs: Analog vs. Digital (2009)",
     "url": "https://www.popularmechanics.com/technology/gadgets/a1531/4213770/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "Kaibeezy",
+    "descendants": 210,
+    "time": 1637324710
   },
   {
     "rank": 2,
     "id": 29290773,
     "title": "How to programmatically find out if computer is on",
     "url": "https://www.haiku-os.org/legacy-docs/bebook/TheKernelKit_SystemInfo.html#is_computer_on",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "marcodiego",
+    "descendants": 187,
+    "time": 1637434434
   },
   {
     "rank": 3,
     "id": 29292516,
     "title": "LLVM relicensing update and call for help",
     "url": "https://blog.llvm.org/posts/2021-11-18-relicensing-update/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "ingve",
+    "descendants": 188,
+    "time": 1637448473
   },
   {
     "rank": 4,
     "id": 29292818,
     "title": "Advent of Code 2021",
     "url": "https://adventofcode.com/2021",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 745,
+    "by": "amenghra",
+    "descendants": 197,
+    "time": 1637451666
   },
   {
     "rank": 5,
     "id": 29293338,
     "title": "Upgrading the soldered-on RAM of a Dell XPS13 7390 laptop",
     "url": "https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "_Microft",
+    "descendants": 209,
+    "time": 1637457652
   },
   {
     "rank": 6,
     "id": 29294818,
     "title": "Tell HN: Amazon fraudulently canceling orders as returned items",
     "url": "https://news.ycombinator.com/item?id=29294818",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "sigmaprimus",
+    "descendants": 144,
+    "time": 1637480961
   },
   {
     "rank": 7,
     "id": 29295506,
     "title": ".NET 6 vs .NET 5 speedup",
     "url": "https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "dgellow",
+    "descendants": 238,
+    "time": 1637493390
   },
   {
     "rank": 8,
     "id": 29295627,
     "title": "An introverts guide to increasing energy",
     "url": "https://ashleyjanssen.com/the-introverts-guide-to-increasing-energy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "sysadm1n",
+    "descendants": 143,
+    "time": 1637494765
   },
   {
     "rank": 9,
     "id": 29296003,
     "title": "Only 90s web developers remember this (2014)",
     "url": "https://zachholman.com/posts/only-90s-developers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 628,
+    "by": "Fiveplus",
+    "descendants": 345,
+    "time": 1637499624
   },
   {
     "rank": 10,
     "id": 29296211,
     "title": "Wolves make roadways safer",
     "url": "https://www.pnas.org/content/118/22/e2023251118",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "ingve",
+    "descendants": 242,
+    "time": 1637502674
   }
 ]
