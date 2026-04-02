@@ -4,99 +4,99 @@
     "id": 17723320,
     "title": "The Orange Juice Test (1985)",
     "url": "https://www.intercom.com/blog/the-orange-juice-test/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "tosh",
+    "descendants": 173,
+    "time": 1533815349
   },
   {
     "rank": 2,
     "id": 17723744,
     "title": "Problem Solving and Clojure 1.9 with Rich Hickey",
     "url": "https://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "tosh",
+    "descendants": 91,
+    "time": 1533819071
   },
   {
     "rank": 3,
     "id": 17726704,
     "title": "America's first big offshore wind farm sets record low price",
     "url": "https://reneweconomy.com.au/americas-first-big-offshore-wind-farm-sets-record-low-price-of-6-5c-kwh-45126/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "Osiris30",
+    "descendants": 124,
+    "time": 1533837694
   },
   {
     "rank": 4,
     "id": 17727581,
     "title": "Microsoft threatens to stop hosting Gab unless posts are removed",
     "url": "http://thehill.com/policy/technology/401129-microsoft-threatens-to-boot-gab-over-neo-nazis-hate-speech-posts",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "anigbrowl",
+    "descendants": 524,
+    "time": 1533842688
   },
   {
     "rank": 5,
     "id": 17730492,
     "title": "Bash Infinity: Standard library and boilerplate framework for Bash",
     "url": "https://github.com/niieani/bash-oo-framework",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "_0nac",
+    "descendants": 109,
+    "time": 1533871807
   },
   {
     "rank": 6,
     "id": 17731883,
     "title": "Show HN: Curl for GraphQL with autocomplete, subscriptions and GraphiQL",
     "url": "https://github.com/hasura/graphqurl",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "wawhal",
+    "descendants": 20,
+    "time": 1533893975
   },
   {
     "rank": 7,
     "id": 17732912,
     "title": "Ending support for Dropbox syncing to drives with certain uncommon file systems",
     "url": "https://www.dropboxforum.com/t5/Syncing-and-uploads/Linux-Dropbox-client-warn-me-that-it-ll-stop-syncing-in-Nov-why/m-p/290065/highlight/true#M42255",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "ronjouch",
+    "descendants": 415,
+    "time": 1533906849
   },
   {
     "rank": 8,
     "id": 17733379,
     "title": "Google Boots Open-Source Anti-Censorship Tool \\\"Ahoy\\\" from Chrome Store",
     "url": "https://torrentfreak.com/google-boots-open-source-anti-censorship-tool-from-chrome-store-180810/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "davidgerard",
+    "descendants": 92,
+    "time": 1533910189
   },
   {
     "rank": 9,
     "id": 17733515,
     "title": "Show HN: Ultralight \u2013 Lightweight, Pure-GPU HTML UI Renderer for C++",
     "url": "https://ultralig.ht",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 527,
+    "by": "adamjs",
+    "descendants": 170,
+    "time": 1533911300
   },
   {
     "rank": 10,
     "id": 17736046,
     "title": "1/0 = 0",
     "url": "https://www.hillelwayne.com/post/divide-by-zero/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 650,
+    "by": "ingve",
+    "descendants": 570,
+    "time": 1533928764
   }
 ]
