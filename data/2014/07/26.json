@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 8084359,
+    "title": "Emacs and Vim",
+    "url": "http://www.martinklepsch.org/posts/emacs-and-vim.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 8084945,
+    "title": "ICFP Programming Contest 2014",
+    "url": "http://icfpcontest.org/specification.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 8085254,
+    "title": "How odd is a cluster of plane accidents?",
+    "url": "http://www.bbc.com/news/magazine-28481060",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 8085385,
+    "title": "Proposal For An Interactive Introduction to Graphics Programming",
+    "url": "http://pixelshaders.com/proposal/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 8086105,
+    "title": "Crows can perform as well as 7- to 10-year-olds on cause-and-effect tasks",
+    "url": "http://www.news.ucsb.edu/2014/014330/smarter-second-grader",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 8086549,
+    "title": "Diversity and Startups",
+    "url": "http://blog.ycombinator.com/diversity-and-startups",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 8086937,
+    "title": "Service drains competitor's Adwords budget",
+    "url": "http://krebsonsecurity.com/2014/07/service-drains-competitors-online-ad-budget/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 8088431,
+    "title": "EFF Asks Judge to Rule NSA Internet Backbone Spying Techniques Unconstitutional",
+    "url": "https://www.eff.org/press/releases/eff-asks-judge-rule-nsa-internet-backbone-spying-techniques-unconstitutional",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 8089321,
+    "title": "GCC 4.9 is doing \u201csome seriously crazy shit\u201d according to Linus Torvalds",
+    "url": "https://lkml.org/lkml/2014/7/24/584",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 8089690,
+    "title": "\u201cLearning to Read\u201d excerpt from The Autobiography of Malcolm X",
+    "url": "http://www.smccd.net/accounts/bellr/readerlearningtoread.htm",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
