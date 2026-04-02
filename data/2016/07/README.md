@@ -2,6 +2,10 @@
 
 Top 10 Hacker News stories for each day in July 2016.
 
+- [2016-07-31 (Sunday)](#2016-07-31)
+- [2016-07-30 (Saturday)](#2016-07-30)
+- [2016-07-29 (Friday)](#2016-07-29)
+- [2016-07-28 (Thursday)](#2016-07-28)
 - [2016-07-27 (Wednesday)](#2016-07-27)
 - [2016-07-26 (Tuesday)](#2016-07-26)
 - [2016-07-25 (Monday)](#2016-07-25)
@@ -31,6 +35,66 @@ Top 10 Hacker News stories for each day in July 2016.
 - [2016-07-01 (Friday)](#2016-07-01)
 
 ---
+
+## 2016-07-31
+
+*Sunday*
+
+1. [Ruby on Rails Tutorial](https://www.railstutorial.org/book) (railstutorial.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12193426)
+2. [Ireland jails three top bankers over 2008 banking meltdown](http://www.reuters.com/article/us-ireland-banking-court-idUSKCN10912E) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12193656)
+3. [Barliman: Prototype of a smart text editor](https://github.com/webyrd/Barliman) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12193690)
+4. [Reverse Engineering Native Apps by Intercepting Network Traffic](http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network) (nickfishman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12195470)
+5. [Hitler Uses Docker, Annotated](https://zwischenzugs.wordpress.com/2016/04/12/hitler-uses-docker-annotated/) (zwischenzugs.wordpress.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12196043)
+6. [Lumen: Auto brightness based on screen contents](http://www.anishathalye.com/2016/07/31/lumen/) (anishathalye.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12196095)
+7. [Berlin’s Startup Hub Wants to Prove It’s More Than Just a Scene](http://www.bloomberg.com/news/articles/2016-07-28/berlin-s-startup-hub-wants-to-prove-it-s-more-than-just-a-scene) (bloomberg.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12196101)
+8. [Scythe, the most-hyped board game of 2016, delivers](http://arstechnica.com/gaming/2016/07/scythe-the-most-hyped-board-game-of-2016-delivers/) (arstechnica.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12196125)
+9. [MNIST Handwritten Digit Classifier – beginner neural network project](https://github.com/karandesai-96/digit-classifier) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12196388)
+10. [Disrupting Uber](https://www.jacobinmag.com/2016/07/uber-drivers-app-ridesharing-taxis-sharing-economy/) (jacobinmag.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12196452)
+
+## 2016-07-30
+
+*Saturday*
+
+1. [Billion-year-old air reveals surprise about oxygen on ancient Earth](http://www.cbc.ca/news/technology/ancient-air-oxygen-life-1.3698842) (cbc.ca) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12186381)
+2. [Viral.js – Peer-to-peer web app distribution](http://pixelscommander.github.io/Viral.JS/#.V5tY1ZN97UI) (pixelscommander.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12186550)
+3. [Habits of highly mathematical people](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e) (medium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12187469)
+4. [Obtaining Wildcard SSL Certificates from Comodo via Dangling Markup Injection](https://thehackerblog.com/keeping-positive-obtaining-arbitrary-wildcard-ssl-certificates-from-comodo-via-dangling-markup-injection/index.html) (thehackerblog.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12188943)
+5. [Paw – Advanced API tool for Mac](https://paw.cloud/) (paw.cloud) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12190047)
+6. [A founder's perspective on 4 years with Haskell](http://baatz.io/posts/haskell-in-a-startup/) (baatz.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12190562)
+7. [Israel Proves the Desalination Era Is Here](http://www.scientificamerican.com/article/israel-proves-the-desalination-era-is-here/) (scientificamerican.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12191089)
+8. [Love for TypeScript](https://github.com/Microsoft/TypeScript/issues/10011) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12191458)
+9. [America uses stealthy submarines to hack other countries’ systems](https://www.washingtonpost.com/news/the-switch/wp/2016/07/29/america-is-hacking-other-countries-with-stealthy-submarines/) (washingtonpost.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12193353)
+10. [Breakthrough solar cell captures CO2 and sunlight, produces burnable fuel](https://news.uic.edu/breakthrough-solar-cell-captures-co2-and-sunlight-produces-burnable-fuel) (news.uic.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12194106)
+
+## 2016-07-29
+
+*Friday*
+
+1. [Oracle Buys NetSuite for $9.3B](http://www.bloomberg.com/news/articles/2016-07-28/oracle-buys-netsuite-in-deal-valued-at-about-9-3-billion) (bloomberg.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12180443)
+2. [Building a software-defined radio from scratch](http://electronics.kitchen/misc/freesrp/) (electronics.kitchen) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12181350)
+3. [Special projects](https://openai.com/blog/special-projects/) (openai.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12181881)
+4. [How Magic Leap Works – From Field of View to GPU](http://gpuofthebrain.com/blog/2016/7/22/how-magic-leap-will-work) (gpuofthebrain.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12182270)
+5. [Docker for Mac and Windows Is Now Generally Available and Ready for Production](https://blog.docker.com/2016/07/docker-for-mac-and-windows-production-ready/) (blog.docker.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12184522)
+6. [The Inner Json Effect](http://thedailywtf.com/articles/the-inner-json-effect) (thedailywtf.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12185727)
+7. [We Should Not Accept Scientific Results That Have Not Been Repeated](http://nautil.us/blog/we-should-not-accept-scientific-results-that-have-not-been-repeated) (nautil.us) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12185845)
+8. [Ask HN: What was your “why didn't I start doing this sooner” moment?](https://news.ycombinator.com/item?id=12186587) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12186587)
+9. [Protocol Buffers v3.0.0 released](https://github.com/google/protobuf/releases/tag/v3.0.0) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12186832)
+10. [After 100 years World War I battlefields are poisoned and uninhabitable](http://www.wearethemighty.com/articles/after-100-years-world-war-i-battlefields-are-poisoned-and-uninhabitable) (wearethemighty.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12187512)
+
+## 2016-07-28
+
+*Thursday*
+
+1. [Ur-Fascism by Umberto Eco (1995)](http://www.nybooks.com/articles/1995/06/22/ur-fascism/) (nybooks.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12173823)
+2. [Bringing ChakraCore to Linux and OS X](https://blogs.windows.com/msedgedev/2016/07/27/chakracore-on-linux-osx/) (blogs.windows.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12174503)
+3. [YC’s Summer Reading](http://themacro.com/articles/2016/07/yc-summer-reading/) (themacro.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12174635)
+4. [The Rust Platform](https://aturon.github.io/blog/2016/07/27/rust-platform/) (aturon.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12177002)
+5. [Security experts have cloned all seven TSA master keys](https://techcrunch.com/2016/07/27/security-experts-have-cloned-all-seven-tsa-master-keys/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12177079)
+6. [The Public Shaming of England’s First Umbrella User](http://www.atlasobscura.com/articles/the-public-shaming-of-englands-first-umbrella-user) (atlasobscura.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12178450)
+7. [Scipy Lecture Notes – Learn numerics, science, and data with Python](http://www.scipy-lectures.org/) (scipy-lectures.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12179339)
+8. [Photographer Suing Getty Images for $1B](http://petapixel.com/2016/07/27/photographer-suing-getty-images-1-billion/) (petapixel.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12180039)
+9. [The End of Gmane?](https://lars.ingebrigtsen.no/2016/07/28/the-end-of-gmane/) (lars.ingebrigtsen.no) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12180547)
+10. [What Marissa Mayer Brought to Yahoo That Can’t Be Bought or Sold](https://medium.com/@jelenawoehr/what-marissa-mayer-brought-to-yahoo-that-cant-be-bought-or-sold-4ee82382e4ee) (medium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=12181145)
 
 ## 2016-07-27
 
