@@ -11,6 +11,16 @@
   },
   {
     "rank": 2,
+    "id": 47612601,
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+    "score": 120,
+    "by": "novaRom",
+    "descendants": 56,
+    "time": 1775127000
+  },
+  {
+    "rank": 3,
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
@@ -18,16 +28,6 @@
     "by": "smartmic",
     "descendants": 18,
     "time": 1775117951
-  },
-  {
-    "rank": 3,
-    "id": 47612601,
-    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 116,
-    "by": "novaRom",
-    "descendants": 56,
-    "time": 1775127000
   },
   {
     "rank": 4,
@@ -64,7 +64,7 @@
     "id": 47612558,
     "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
     "url": "https://modolap.com/publication/hn-analysis-1",
-    "score": 9,
+    "score": 10,
     "by": "ronfriedhaber",
     "descendants": 2,
     "time": 1775126543
