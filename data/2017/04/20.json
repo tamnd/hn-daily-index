@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 14147583,
+    "title": "A look at my BBS Software from '93",
+    "url": "https://mmccaff.github.io/2017/04/18/my-bbs-software-from-1993/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 14149023,
+    "title": "Facebook and the Cost of Monopoly",
+    "url": "https://stratechery.com/2017/facebook-and-the-cost-of-monopoly/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 14151610,
+    "title": "Pattern Matching for Java",
+    "url": "http://cr.openjdk.java.net/~briangoetz/amber/pattern-match.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 14152257,
+    "title": "Hard-won lessons: Five years with Node.js",
+    "url": "https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 14152688,
+    "title": "Google plans ad-blocking feature in Chrome browser",
+    "url": "https://www.wsj.com/articles/google-plans-ad-blocking-feature-in-popular-chrome-browser-1492643233",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 14153346,
+    "title": "Analysis of the United Airlines passenger removal incident",
+    "url": "https://hasbrouck.org/blog/archives/002292.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 14154395,
+    "title": "System76 is moving product design and manufacturing in house",
+    "url": "http://blog.system76.com/post/159767214983/entering-phase-three",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 14155761,
+    "title": "Tmux and Vim \u2013 better together",
+    "url": "https://blog.bugsnag.com/tmux-and-vim/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 14156954,
+    "title": "Docker is transitioning to Moby",
+    "url": "https://github.com/moby/moby/pull/32691",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 14159085,
+    "title": "Microsoft: You need to fix your Skype and Microsoft account issues, this is insane",
+    "url": "https://kolemcrae.com/microsoft-you-seriously-need-to-fix-your-skype-and-microsoft-account-issues-this-is-insane-6fd51e104caa",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
