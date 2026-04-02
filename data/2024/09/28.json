@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 41668304,
+    "title": "It's hard to write code for computers, but it's harder to write code for humans",
+    "url": "https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 41669840,
+    "title": "Collaborative text editing with Eg-Walker: Better, faster, smaller",
+    "url": "https://arxiv.org/abs/2409.14252",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 41669850,
+    "title": "Raft: Understandable Distributed Consensus (2014)",
+    "url": "https://thesecretlivesofdata.com/raft/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 41670186,
+    "title": "MTA Open Data Challenge",
+    "url": "https://new.mta.info/article/mta-open-data-challenge",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 41671145,
+    "title": "The best $4 ever spent",
+    "url": "https://papanotes.com/the-best-4-ever-spent",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 41672110,
+    "title": "How AlphaChip transformed computer chip design",
+    "url": "https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 41674382,
+    "title": "AMD Unveils Its First Small Language Model AMD-135M",
+    "url": "https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 41677131,
+    "title": "Everything you need to know about Python 3.13 \u2013 JIT and GIL went up the hill",
+    "url": "https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 41678208,
+    "title": "Amusing Ourselves to Death (2014)",
+    "url": "https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 41678412,
+    "title": "FFT-based ocean-wave rendering, implemented in Godot",
+    "url": "https://github.com/2Retr0/GodotOceanWaves",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
