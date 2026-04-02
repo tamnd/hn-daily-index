@@ -2,6 +2,10 @@
 
 Top 10 Hacker News stories for each day in July 2023.
 
+- [2023-07-31 (Monday)](#2023-07-31)
+- [2023-07-30 (Sunday)](#2023-07-30)
+- [2023-07-29 (Saturday)](#2023-07-29)
+- [2023-07-28 (Friday)](#2023-07-28)
 - [2023-07-27 (Thursday)](#2023-07-27)
 - [2023-07-26 (Wednesday)](#2023-07-26)
 - [2023-07-25 (Tuesday)](#2023-07-25)
@@ -31,6 +35,66 @@ Top 10 Hacker News stories for each day in July 2023.
 - [2023-07-01 (Saturday)](#2023-07-01)
 
 ---
+
+## 2023-07-31
+
+*Monday*
+
+1. [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36929096)
+2. [Show HN: Khoj – Chat offline with your second brain using Llama 2](https://github.com/khoj-ai/khoj) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36933452)
+3. [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm) (askmisterwizard.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36934029)
+4. [What's up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a) (bitecode.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36935041)
+5. [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/) (conduit.rs) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36937713)
+6. [LK-99: The live online race for a room-temperature superconductor](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-11?post=94266395#post-94266395) (forums.spacebattles.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36940323)
+7. [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/) (theregister.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36940626)
+8. [Ask HN: Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36940871)
+9. [The BBC on Mastodon](https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub) (bbc.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36943866)
+10. [Ice core scientists in East Greenland reach bedrock](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/) (news.ku.dk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36944978)
+
+## 2023-07-30
+
+*Sunday*
+
+1. [What happened to Vivaldi Social?](https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/) (thomasp.vivaldi.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36919659)
+2. [Critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing) (slowboring.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36920566)
+3. [Functions are vectors](https://thenumb.at/Functions-are-Vectors/) (thenumb.at) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36921446)
+4. [Snowflake](https://snowflake.torproject.org/) (snowflake.torproject.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36926569)
+5. [Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page) (wikifunctions.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36927695)
+6. [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging) (news.cuanschutz.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36929090)
+7. [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/) (amiaopensource.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36929499)
+8. [Emacs 29.1](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/) (emacsredux.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36929514)
+9. [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/) (shkspr.mobi) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36932524)
+10. [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/) (sfcompute.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36933603)
+
+## 2023-07-29
+
+*Saturday*
+
+1. [Threads users down by more than a half](https://www.bbc.com/news/technology-66336058) (bbc.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36906085)
+2. [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36908574)
+3. [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/) (jvns.ca) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36909427)
+4. [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too) (latimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36911361)
+5. [The U.K. government is close to eroding encryption worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide) (eff.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36913268)
+6. [Intent to approve PEP 703: making the GIL optional](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474) (discuss.python.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36913328)
+7. [No-GIL mode coming for Python](https://lwn.net/Articles/939568/) (lwn.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36914401)
+8. [So you want to build your own open source chatbot](https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/) (hacks.mozilla.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36918435)
+9. [IRC is the only viable chat protocol (2022)](https://koshka.love/babel/irc-forever.html) (koshka.love) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36918655)
+10. [If we want a shift to walking we need to prioritize dignity](https://streets.mn/2023/07/19/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity/) (streets.mn) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36920622)
+
+## 2023-07-28
+
+*Friday*
+
+1. [Room temperature, ambient pressure superconductivity – this time for real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512) (scanalyst.fourmilab.ch) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36894613)
+2. [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) (allthingsdistributed.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36894932)
+3. [Commander Keen's adaptive tile refresh](https://fabiensanglard.net/ega/) (fabiensanglard.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36898749)
+4. [Ask HN: Is the market bad, or am I having the worst luck job hunting?](https://news.ycombinator.com/item?id=36901303) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36901303)
+5. [Watch TV from the 90s and earlier](https://my90stv.com/) (my90stv.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36906022)
+6. [Sci-Hub founder receives EFF award for providing access to scientific knowledge](https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/) (torrentfreak.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36906435)
+7. [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns) (blockworks.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36907248)
+8. [California moves to silence Stanford researchers who got data to study education](https://edsource.org/2023/california-moves-to-silence-stanford-researchers-who-got-state-data-to-study-education-issues/694920) (edsource.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36908136)
+9. [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html) (capnproto.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36908309)
+10. [Play deprivation is a major cause of the teen mental health crisis](https://jonathanhaidt.substack.com/p/the-play-deficit) (jonathanhaidt.substack.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=36910256)
 
 ## 2023-07-27
 
