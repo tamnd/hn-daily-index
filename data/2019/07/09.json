@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 20375207,
+    "title": "Pixelfed \u2013 Federated Image Sharing",
+    "url": "https://pixelfed.org/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 20382164,
+    "title": "It\u2019s Never Going to Be Perfect, So Just Get It Done",
+    "url": "https://www.nytimes.com/2019/07/07/smarter-living/its-never-going-to-be-perfect-so-just-get-it-done.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 20385148,
+    "title": "3D Wireframes Using SVG",
+    "url": "https://prideout.net/blog/svg_wireframes/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 20386073,
+    "title": "Clear is better than clever",
+    "url": "https://dave.cheney.net/2019/07/09/clear-is-better-than-clever",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 20387298,
+    "title": "Vulnerability in the Mac Zoom client allows malicious websites to enable camera",
+    "url": "https://medium.com/@jonathan.leitschuh/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 20388029,
+    "title": "John Gustafson\u2019s crusade to replace floating point with something better",
+    "url": "https://www.nextplatform.com/2019/07/08/new-approach-could-sink-floating-point-computation/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 20391180,
+    "title": "IBM Closes Acquisition of Red Hat for $34B",
+    "url": "https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 20391885,
+    "title": "Firefox 68.0",
+    "url": "https://www.mozilla.org/en-US/firefox/68.0/releasenotes/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 20392387,
+    "title": "Ross Perot Has Died",
+    "url": "https://www.cnbc.com/2019/07/09/billionaire-and-former-presidential-candidate-ross-perot-is-dead-at-89.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 20395997,
+    "title": "Camera and microphone require HTTPS in Firefox 68",
+    "url": "https://blog.mozilla.org/webrtc/camera-microphone-require-https-in-firefox-68/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

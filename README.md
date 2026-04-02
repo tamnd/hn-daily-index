@@ -824,7 +824,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2019](data/2019/) (153/365 days)
+### [2019](data/2019/) (184/365 days)
 
 <details><summary>Show calendars</summary>
 
@@ -880,15 +880,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**19**](data/2019/08/README.md#2019-08-19) | [**20**](data/2019/08/README.md#2019-08-20) | [**21**](data/2019/08/README.md#2019-08-21) | [**22**](data/2019/08/README.md#2019-08-22) | [**23**](data/2019/08/README.md#2019-08-23) | [**24**](data/2019/08/README.md#2019-08-24) | [**25**](data/2019/08/README.md#2019-08-25) |
 | [**26**](data/2019/08/README.md#2019-08-26) | [**27**](data/2019/08/README.md#2019-08-27) | [**28**](data/2019/08/README.md#2019-08-28) | [**29**](data/2019/08/README.md#2019-08-29) | [**30**](data/2019/08/README.md#2019-08-30) | [**31**](data/2019/08/README.md#2019-08-31) |  |
 
-[**July**](data/2019/07/) (0/31)
+[**July**](data/2019/07/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |  |  |  |  |
+| [**1**](data/2019/07/README.md#2019-07-01) | [**2**](data/2019/07/README.md#2019-07-02) | [**3**](data/2019/07/README.md#2019-07-03) | [**4**](data/2019/07/README.md#2019-07-04) | [**5**](data/2019/07/README.md#2019-07-05) | [**6**](data/2019/07/README.md#2019-07-06) | [**7**](data/2019/07/README.md#2019-07-07) |
+| [**8**](data/2019/07/README.md#2019-07-08) | [**9**](data/2019/07/README.md#2019-07-09) | [**10**](data/2019/07/README.md#2019-07-10) | [**11**](data/2019/07/README.md#2019-07-11) | [**12**](data/2019/07/README.md#2019-07-12) | [**13**](data/2019/07/README.md#2019-07-13) | [**14**](data/2019/07/README.md#2019-07-14) |
+| [**15**](data/2019/07/README.md#2019-07-15) | [**16**](data/2019/07/README.md#2019-07-16) | [**17**](data/2019/07/README.md#2019-07-17) | [**18**](data/2019/07/README.md#2019-07-18) | [**19**](data/2019/07/README.md#2019-07-19) | [**20**](data/2019/07/README.md#2019-07-20) | [**21**](data/2019/07/README.md#2019-07-21) |
+| [**22**](data/2019/07/README.md#2019-07-22) | [**23**](data/2019/07/README.md#2019-07-23) | [**24**](data/2019/07/README.md#2019-07-24) | [**25**](data/2019/07/README.md#2019-07-25) | [**26**](data/2019/07/README.md#2019-07-26) | [**27**](data/2019/07/README.md#2019-07-27) | [**28**](data/2019/07/README.md#2019-07-28) |
+| [**29**](data/2019/07/README.md#2019-07-29) | [**30**](data/2019/07/README.md#2019-07-30) | [**31**](data/2019/07/README.md#2019-07-31) |  |  |  |  |
 
 [**June**](data/2019/06/) (0/30)
 
@@ -959,7 +959,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 *Thursday*
 
 1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 118 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [71 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 120 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [56 comments](https://news.ycombinator.com/item?id=47612601)
+2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 121 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [57 comments](https://news.ycombinator.com/item?id=47612601)
 3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 86 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [18 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 969 points by [apitman](https://news.ycombinator.com/user?id=apitman), [819 comments](https://news.ycombinator.com/item?id=47603657)
 5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 47 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [17 comments](https://news.ycombinator.com/item?id=47611921)
