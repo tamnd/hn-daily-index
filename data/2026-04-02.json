@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47611721,
+    "title": "IBM Announces Strategic Collaboration with Arm",
+    "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+    "score": 63,
+    "by": "bonzini",
+    "descendants": 22,
+    "time": 1775119724
+  },
+  {
+    "rank": 2,
+    "id": 47611481,
+    "title": "Bringing Clojure programming to Enterprise (2021)",
+    "url": "https://blogit.michelin.io/clojure-programming/",
+    "score": 50,
+    "by": "smartmic",
+    "descendants": 8,
+    "time": 1775117951
+  },
+  {
+    "rank": 3,
+    "id": 47603657,
+    "title": "Artemis II Launch Day Updates",
+    "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+    "score": 935,
+    "by": "apitman",
+    "descendants": 797,
+    "time": 1775063491
+  },
+  {
+    "rank": 4,
+    "id": 47582987,
+    "title": "Gone (Almost) Phishin'",
+    "url": "https://ma.tt/2026/03/gone-almost-phishin/",
+    "score": 35,
+    "by": "luu",
+    "descendants": 14,
+    "time": 1774933899
+  },
+  {
+    "rank": 5,
+    "id": 47609694,
+    "title": "Email obfuscation: What works in 2026?",
+    "url": "https://spencermortensen.com/articles/email-obfuscation/",
+    "score": 142,
+    "by": "jaden",
+    "descendants": 40,
+    "time": 1775100933
+  },
+  {
+    "rank": 6,
+    "id": 47596739,
+    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "score": 49,
+    "by": "jackson-mcd",
+    "descendants": 15,
+    "time": 1775016881
+  },
+  {
+    "rank": 7,
+    "id": 47609564,
+    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+    "score": 404,
+    "by": "hkmaxpro",
+    "descendants": 185,
+    "time": 1775099544
+  },
+  {
+    "rank": 8,
+    "id": 47608495,
+    "title": "Quantum computing bombshells that are not April Fools",
+    "url": "https://scottaaronson.blog/?p=9665",
+    "score": 180,
+    "by": "Strilanc",
+    "descendants": 60,
+    "time": 1775089483
+  },
+  {
+    "rank": 9,
+    "id": 47602832,
+    "title": "EmDash \u2013 A spiritual successor to WordPress that solves plugin security",
+    "url": "https://blog.cloudflare.com/emdash-wordpress/",
+    "score": 577,
+    "by": "elithrar",
+    "descendants": 425,
+    "time": 1775060078
+  },
+  {
+    "rank": 10,
+    "id": 47608058,
+    "title": "A new C++ back end for ocamlc",
+    "url": "https://github.com/ocaml/ocaml/pull/14701",
+    "score": 184,
+    "by": "glittershark",
+    "descendants": 15,
+    "time": 1775086502
+  }
+]
