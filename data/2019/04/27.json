@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 19756123,
+    "title": "Much of the \u201cscience\u201d used in design is bullshit (2014)",
+    "url": "http://mjparnell.com/bullshit_science_ux_design/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 19756505,
+    "title": "Show HN: Sauron \u2013 A web framework in Rust that adheres to the Elm architecture",
+    "url": "https://github.com/ivanceras/sauron",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 19756646,
+    "title": "Impact of a Night of Sleep Deprivation on Novice Developers\u2019 Performance (2018)",
+    "url": "https://arxiv.org/abs/1805.02544",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 19761159,
+    "title": "When setting an environment variable gives you a 40x speedup",
+    "url": "https://news.sherlock.stanford.edu/posts/when-setting-an-environment-variable-gives-you-a-40-x-speedup",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 19762907,
+    "title": "Google search only has 60% of my content from 2006",
+    "url": "https://www.tablix.org/~avian/blog/archives/2019/02/google_index_coverage/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 19763276,
+    "title": "Mozilla is giving up on their IRC server",
+    "url": "http://exple.tive.org/blarg/2019/04/26/synchronous-text/?s",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 19763413,
+    "title": "Docker Hub Hacked \u2013 190k accounts, GitHub tokens revoked, builds disabled",
+    "url": "https://news.ycombinator.com/item?id=19763413",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 19763435,
+    "title": "You\u2019re probably using the wrong dictionary (2014)",
+    "url": "http://jsomers.net/blog/dictionary",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 19764896,
+    "title": "Apple has removed or restricted several screen-time and parental-control apps",
+    "url": "https://www.nytimes.com/2019/04/27/technology/apple-screen-time-trackers.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 19765019,
+    "title": "Structure and Interpretation of Classical Mechanics (2015)",
+    "url": "https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
