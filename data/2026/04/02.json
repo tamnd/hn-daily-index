@@ -4,9 +4,9 @@
     "id": 47613981,
     "title": "LinkedIn Is Illegally Searching Your Computer",
     "url": "https://browsergate.eu/",
-    "score": 191,
+    "score": 199,
     "by": "digitalWestie",
-    "descendants": 77,
+    "descendants": 78,
     "time": 1775135349
   },
   {
@@ -14,7 +14,7 @@
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 122,
+    "score": 123,
     "by": "AbuAssar",
     "descendants": 28,
     "time": 1775127891
@@ -24,30 +24,30 @@
     "id": 47613078,
     "title": "Inside Nepal's Fake Rescue Racket",
     "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 82,
+    "score": 83,
     "by": "lode",
     "descendants": 21,
     "time": 1775130041
   },
   {
     "rank": 4,
-    "id": 47612601,
-    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 271,
-    "by": "novaRom",
-    "descendants": 147,
-    "time": 1775127000
-  },
-  {
-    "rank": 5,
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 162,
+    "score": 163,
     "by": "bonzini",
     "descendants": 97,
     "time": 1775119724
+  },
+  {
+    "rank": 5,
+    "id": 47612601,
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+    "score": 273,
+    "by": "novaRom",
+    "descendants": 148,
+    "time": 1775127000
   },
   {
     "rank": 6,
@@ -64,9 +64,9 @@
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 107,
+    "score": 108,
     "by": "smartmic",
-    "descendants": 48,
+    "descendants": 49,
     "time": 1775117951
   },
   {
