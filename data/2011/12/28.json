@@ -4,99 +4,99 @@
     "id": 3396612,
     "title": "Facebook deleted their Python SDK repository without warning",
     "url": "http://techhouse.org/~lincoln/blosxom.cgi/coding/facebook-python.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 150,
+    "by": "lincolnq",
+    "descendants": 45,
+    "time": 1325008933
   },
   {
     "rank": 2,
     "id": 3397271,
     "title": "After 7.5 years, Firefox finally adds line numbers to view-source:",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=246620",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "ecaron",
+    "descendants": 82,
+    "time": 1325017878
   },
   {
     "rank": 3,
     "id": 3397697,
     "title": "I Think You're Fat (2007)",
     "url": "http://www.esquire.com/features/honesty0707",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "glenstein",
+    "descendants": 111,
+    "time": 1325024588
   },
   {
     "rank": 4,
     "id": 3397812,
     "title": "My uncle's factorization algorithms",
     "url": "https://github.com/daoudclarke/wartonlegacy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "daoudc",
+    "descendants": 51,
+    "time": 1325026741
   },
   {
     "rank": 5,
     "id": 3398873,
     "title": "6 month read-through/discussion of G\u00f6del, Escher, Bach starting 1/17 on Reddit",
     "url": "http://www.reddit.com/r/GEB/comments/nmy4p/starting_a_readthrough_january_17/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "qrush",
+    "descendants": 80,
+    "time": 1325053507
   },
   {
     "rank": 6,
     "id": 3399087,
     "title": "Google takes down profile pic because someone was flipping the bird",
     "url": "http://parislemon.com/post/14907295522/dear-google?dupe=true",
-    "score": 0,
-    "by": "",
+    "score": 246,
+    "by": "kefs",
     "descendants": 0,
-    "time": 0
+    "time": 1325060689
   },
   {
     "rank": 7,
     "id": 3399519,
     "title": "A man, a mop, a year, and an app",
     "url": "http://thestartuptoolkit.com/blog/2011/12/a-man-a-mop-a-year-and-an-app-joseph-hill-on-aeir-talk/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "robfitz",
+    "descendants": 27,
+    "time": 1325074420
   },
   {
     "rank": 8,
     "id": 3399976,
     "title": "Stanford Free Classes \u2013 A review from a Stanford Student",
     "url": "http://pennyhacks.com/2011/12/28/stanford-free-classes-a-review-from-a-stanford-student/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "brudolph",
+    "descendants": 102,
+    "time": 1325085657
   },
   {
     "rank": 9,
     "id": 3400660,
     "title": "Dot-dash-diss: The gentleman hacker's 1903 lulz",
     "url": "http://www.newscientist.com/article/mg21228440.700-dotdashdiss-the-gentleman-hackers-1903-lulz.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "p4bl0",
+    "descendants": 23,
+    "time": 1325095480
   },
   {
     "rank": 10,
     "id": 3400674,
     "title": "Salman Khan of Khan Academy AMA on reddit",
     "url": "http://www.reddit.com/r/IAmA/comments/ntsco/i_am_salman_khan_founder_of_khan_academyama/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "michael_nielsen",
+    "descendants": 24,
+    "time": 1325095639
   }
 ]

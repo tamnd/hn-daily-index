@@ -4,99 +4,99 @@
     "id": 3260760,
     "title": "PyPy 1.7 released: widening the sweet spot",
     "url": "http://morepypy.blogspot.com/2011/11/pypy-17-widening-sweet-spot.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "kingkilr",
+    "descendants": 18,
+    "time": 1321875101
   },
   {
     "rank": 2,
     "id": 3261088,
     "title": "EBay acquires Hunch for $80m",
     "url": "http://uncrunched.com/2011/11/21/ebays-got-a-hunch-for-around-80-million/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "speedracr",
+    "descendants": 93,
+    "time": 1321883708
   },
   {
     "rank": 3,
     "id": 3261373,
     "title": "GCC 4.7 adds transactional memory extensions for C/C++",
     "url": "http://gcc.gnu.org/wiki/TransactionalMemory",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "randombit",
+    "descendants": 32,
+    "time": 1321888904
   },
   {
     "rank": 4,
     "id": 3263354,
     "title": "How Elite Firms Hire: The Inside Story",
     "url": "http://econlog.econlib.org/archives/2011/11/how_elite_firms.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "barry-cotter",
+    "descendants": 105,
+    "time": 1321919220
   },
   {
     "rank": 5,
     "id": 3264074,
     "title": "Welcome to the new web.",
     "url": "http://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2011-November/033914.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 481,
+    "by": "dkulchenko",
+    "descendants": 110,
+    "time": 1321936010
   },
   {
     "rank": 6,
     "id": 3264341,
     "title": "The price of a messy codebase: No LaTeX on the iPad",
     "url": "http://vallettaventures.tumblr.com/post/13124883568/the-price-of-a-messy-codebase-no-latex-for-the-ipad",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "steeleduncan",
+    "descendants": 242,
+    "time": 1321942246
   },
   {
     "rank": 7,
     "id": 3265601,
     "title": "The Hushed Dangers of Startup Depression",
     "url": "http://www.betabeat.com/2011/11/22/u-cant-haz-sadz-the-hushed-dangers-of-startup-depression/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "bproper",
+    "descendants": 102,
+    "time": 1321972082
   },
   {
     "rank": 8,
     "id": 3266455,
     "title": "The Government's $200,000 Useless Android Application",
     "url": "http://gun.io/blog/the-governments-200000-useless-android-application/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "Mizza",
+    "descendants": 158,
+    "time": 1321983608
   },
   {
     "rank": 9,
     "id": 3266772,
     "title": "Traveling, Writing and Programming",
     "url": "http://alexmaccaw.co.uk/posts/traveling_writing_programming",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "maccman",
+    "descendants": 116,
+    "time": 1321987660
   },
   {
     "rank": 10,
     "id": 3267701,
     "title": "Doom 3 source released",
     "url": "https://github.com/TTimo/doom3.gpl",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 630,
+    "by": "padenot",
+    "descendants": 101,
+    "time": 1322000802
   }
 ]

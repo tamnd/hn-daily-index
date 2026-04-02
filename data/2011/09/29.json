@@ -4,99 +4,99 @@
     "id": 3047720,
     "title": "You\u2019re Pricing It Wrong: Software Pricing Demystified",
     "url": "http://www.smashingmagazine.com/2011/09/28/youre-pricing-it-wrong-software-pricing-demystified/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "willfarrell",
+    "descendants": 27,
+    "time": 1317216366
   },
   {
     "rank": 2,
     "id": 3048064,
     "title": "Carnegie Mellon face recognition study has unsettling results",
     "url": "http://www.heinz.cmu.edu/~acquisti/face-recognition-study-FAQ/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "lemming",
+    "descendants": 91,
+    "time": 1317221099
   },
   {
     "rank": 3,
     "id": 3049397,
     "title": "Chris Espinosa: Fire",
     "url": "http://cdespinosa.posterous.com/fire",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "siglesias",
+    "descendants": 44,
+    "time": 1317236853
   },
   {
     "rank": 4,
     "id": 3051014,
     "title": "IEEE Refuses to Accept Public-Domain Papers?",
     "url": "http://cr.yp.to/writing/ieee.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "powertower",
+    "descendants": 80,
+    "time": 1317267135
   },
   {
     "rank": 5,
     "id": 3051029,
     "title": "Fixing the callback spaghetti in node.js",
     "url": "https://github.com/koush/node/wiki/%22async%22-support-in-node.js",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "koush",
+    "descendants": 101,
+    "time": 1317267493
   },
   {
     "rank": 6,
     "id": 3051546,
     "title": "Academics should stop doing free peer-review for non-open-access journals.",
     "url": "http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=417576&c=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 551,
+    "by": "MikeTaylor",
+    "descendants": 89,
+    "time": 1317282793
   },
   {
     "rank": 7,
     "id": 3051758,
     "title": "Pre-branded domain names for startups",
     "url": "http://stylate.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "ollie",
+    "descendants": 204,
+    "time": 1317289250
   },
   {
     "rank": 8,
     "id": 3051887,
     "title": "Minimum Viable Personality",
     "url": "http://www.avc.com/a_vc/2011/09/minimum-viable-personality.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "robert-boehnke",
+    "descendants": 51,
+    "time": 1317292575
   },
   {
     "rank": 9,
     "id": 3052745,
     "title": "Promising HIV vaccine passes phase one human trials with 90% success rate",
     "url": "http://www.gizmag.com/spanish-hiv-vaccine-90-percent-immune-response/19973/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "grannyg00se",
+    "descendants": 97,
+    "time": 1317309130
   },
   {
     "rank": 10,
     "id": 3053883,
     "title": "Stripe: instant payment processing for developers",
     "url": "https://stripe.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1249,
+    "by": "pc",
+    "descendants": 348,
+    "time": 1317324742
   }
 ]

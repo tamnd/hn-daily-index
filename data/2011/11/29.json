@@ -4,99 +4,99 @@
     "id": 3285674,
     "title": "Developer Income Report #16",
     "url": "http://www.kreci.net/reports/developer-income-report-16/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "kreci",
+    "descendants": 32,
+    "time": 1322485534
   },
   {
     "rank": 2,
     "id": 3285742,
     "title": "50% of neuroscience papers suffer from a major statistical error.",
     "url": "http://www.badscience.net/2011/10/what-if-academics-were-as-dumb-as-quacks-with-statistics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "zacharyvoase",
+    "descendants": 94,
+    "time": 1322487088
   },
   {
     "rank": 3,
     "id": 3286693,
     "title": "Startup hopes to hack the immigration system with a floating incubator",
     "url": "http://arstechnica.com/tech-policy/news/2011/11/startup-hopes-to-hack-the-immigration-system-with-a-floating-incubator.ars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "llambda",
+    "descendants": 87,
+    "time": 1322500891
   },
   {
     "rank": 4,
     "id": 3286784,
     "title": "Whatever works for you",
     "url": "http://www.marco.org/2011/11/28/whatever-works-for-you",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "tbassetto",
+    "descendants": 66,
+    "time": 1322502086
   },
   {
     "rank": 5,
     "id": 3287531,
     "title": "Back in the Django saddle",
     "url": "http://www.holovaty.com/writing/back-to-django/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "slig",
+    "descendants": 44,
+    "time": 1322513077
   },
   {
     "rank": 6,
     "id": 3288388,
     "title": "Matrix multiplication in O(n^2.373)",
     "url": "http://www.scottaaronson.com/blog/?p=839",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 166,
+    "by": "davepeck",
+    "descendants": 52,
+    "time": 1322527202
   },
   {
     "rank": 7,
     "id": 3288671,
     "title": "Watch a VC use my name to sell a con",
     "url": "http://www.jwz.org/blog/2011/11/watch-a-vc-use-my-name-to-sell-a-con/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2376,
+    "by": "jwwest",
+    "descendants": 292,
+    "time": 1322533386
   },
   {
     "rank": 8,
     "id": 3289750,
     "title": "I regularly hire women for 65% to 75% of what males make",
     "url": "http://www.reddit.com/r/TwoXChromosomes/comments/hvv2m/i_work_for_a_large_multinational_tech_company_i/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 601,
+    "by": "amirmc",
+    "descendants": 277,
+    "time": 1322560168
   },
   {
     "rank": 9,
     "id": 3290916,
     "title": "How does SOPA threaten Stack Overflow?",
     "url": "http://meta.stackoverflow.com/q/114005/133693",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "sathyabhat",
+    "descendants": 74,
+    "time": 1322583939
   },
   {
     "rank": 10,
     "id": 3292233,
     "title": "US judge orders hundreds of sites \"de-indexed\" from Google, Facebook",
     "url": "http://arstechnica.com/tech-policy/news/2011/11/us-judge-orders-hundreds-of-sites-de-indexed-from-google-twitter-bing-facebook.ars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "gigawatt",
+    "descendants": 216,
+    "time": 1322601783
   }
 ]

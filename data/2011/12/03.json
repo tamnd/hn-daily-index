@@ -4,99 +4,99 @@
     "id": 3303847,
     "title": "A primer on Bezier curves",
     "url": "http://processingjs.nihongoresources.com/bezierinfo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "petsos",
+    "descendants": 8,
+    "time": 1322831466
   },
   {
     "rank": 2,
     "id": 3304254,
     "title": "How to build a data mining web app?",
     "url": "https://github.com/entaroadun/hnpickup#readme",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "zeratul",
+    "descendants": 25,
+    "time": 1322839683
   },
   {
     "rank": 3,
     "id": 3304538,
     "title": "The Modern Java Ecosystem (for the Sinatra or web.py lover)",
     "url": "http://arantaday.com/the-modern-java-ecosystem",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 127,
+    "by": "smanek",
+    "descendants": 68,
+    "time": 1322844142
   },
   {
     "rank": 4,
     "id": 3304784,
     "title": "Notch is no longer lead developer on Minecraft",
     "url": "http://notch.tumblr.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 156,
+    "by": "5hoom",
+    "descendants": 42,
+    "time": 1322846982
   },
   {
     "rank": 5,
     "id": 3304847,
     "title": "Moving from SVN to Git in 1,000 easy steps",
     "url": "http://codeascraft.etsy.com/2011/12/02/moving-from-svn-to-git-in-1000-easy-steps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "gavingmiller",
+    "descendants": 64,
+    "time": 1322847736
   },
   {
     "rank": 6,
     "id": 3305870,
     "title": "If Everyone Else is Such an Idiot, How Come You're Not Rich?",
     "url": "http://www.theatlantic.com/business/archive/2011/12/if-everyone-else-is-such-an-idiot-how-come-youre-not-rich/249430/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "CWuestefeld",
+    "descendants": 113,
+    "time": 1322863049
   },
   {
     "rank": 7,
     "id": 3306027,
     "title": "What Powers Instagram: Hundreds of Instances, Dozens of Technologies",
     "url": "http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "systrom",
+    "descendants": 41,
+    "time": 1322865104
   },
   {
     "rank": 8,
     "id": 3306361,
     "title": "Facebook buys Gowalla",
     "url": "http://money.cnn.com/2011/12/02/technology/gowalla_facebook/index.htm?iid=HP_LN",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "mitchellh",
+    "descendants": 105,
+    "time": 1322871356
   },
   {
     "rank": 9,
     "id": 3306364,
     "title": "Paul Graham and not being as right as he could be in \u201cThe Age of the Essay\u201d",
     "url": "http://jseliger.com/2011/12/02/paul-graham-and-not-being-as-right-as-he-could-be-in-the-age-of-the-essay/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 133,
+    "by": "jseliger",
+    "descendants": 51,
+    "time": 1322871439
   },
   {
     "rank": 10,
     "id": 3307375,
     "title": "Indian Railways stations, trains and schedules database in JSON and SQL formats",
     "url": "http://sramana.in/indianrail-db/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "sramana9",
+    "descendants": 28,
+    "time": 1322904954
   }
 ]

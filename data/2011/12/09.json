@@ -4,99 +4,99 @@
     "id": 3329668,
     "title": "Knuth and the Unix Way",
     "url": "http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "angersock",
+    "descendants": 62,
+    "time": 1323361203
   },
   {
     "rank": 2,
     "id": 3329676,
     "title": "A single line to 3 cashiers is ~3x faster than a separate line for each cashier",
     "url": "http://online.wsj.com/article/SB10001424052970204770404577082933921432686.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "blakehill",
+    "descendants": 163,
+    "time": 1323361310
   },
   {
     "rank": 3,
     "id": 3331556,
     "title": "Why we ditched PayPal for Stripe",
     "url": "http://gc-taylor.com/blog/2011/12/8/why-we-ditched-paypal-stripe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "gtaylor",
+    "descendants": 119,
+    "time": 1323384758
   },
   {
     "rank": 4,
     "id": 3332670,
     "title": "Snake game in a data: URI ",
     "url": "http://bytex64.net/code/datasnake/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "twodayslate",
+    "descendants": 73,
+    "time": 1323407284
   },
   {
     "rank": 5,
     "id": 3333158,
     "title": "JQuery plugins site accidentally deleted - last backup one year old.",
     "url": "http://blog.jquery.com/2011/12/08/what-is-happening-to-the-jquery-plugins-site/#pluginstldr",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 180,
+    "by": "philjackson",
+    "descendants": 66,
+    "time": 1323422659
   },
   {
     "rank": 6,
     "id": 3333577,
     "title": "The Crunchpad is proof of obviousness in iPad design",
     "url": "http://nikcub.appspot.com/posts/crunchpad-proof-obviousness-in-ipad-design",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "nikcub",
+    "descendants": 133,
+    "time": 1323436816
   },
   {
     "rank": 7,
     "id": 3333827,
     "title": "We've invented waterfall",
     "url": "http://epicenterconsulting.com/method",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "latch",
+    "descendants": 168,
+    "time": 1323441862
   },
   {
     "rank": 8,
     "id": 3333831,
     "title": "Apple using patents to undermine open standards again",
     "url": "http://my.opera.com/haavard/blog/2011/12/09/apple-w3c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "Wilya",
+    "descendants": 60,
+    "time": 1323441909
   },
   {
     "rank": 9,
     "id": 3334877,
     "title": "HP to Contribute webOS to Open Source",
     "url": "http://www.hp.com/hpinfo/newsroom/press/2011/111209xa.html?mtxs=rss-corp-news",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 751,
+    "by": "mikecane",
+    "descendants": 194,
+    "time": 1323455559
   },
   {
     "rank": 10,
     "id": 3335214,
     "title": "At the End of a Procrastinated Day",
     "url": "http://removed.posterous.com/at-the-end-of-a-procrastinated-day",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "pace",
+    "descendants": 110,
+    "time": 1323459422
   }
 ]

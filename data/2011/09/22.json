@@ -4,99 +4,99 @@
     "id": 3021462,
     "title": "Yahoo blocked emails about Wall Street protest",
     "url": "http://news.cnet.com/8301-1023_3-20109134-93/yahoo-blocked-e-mails-about-wall-street-protests/?part=rss&subj=news&tag=2547-1_3-0-20",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 180,
+    "by": "danso",
+    "descendants": 49,
+    "time": 1316602411
   },
   {
     "rank": 2,
     "id": 3023769,
     "title": "GitHub Hits 1,000,000 users",
     "url": "https://github.com/blog/936-one-million",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "bkbleikamp",
+    "descendants": 76,
+    "time": 1316640491
   },
   {
     "rank": 3,
     "id": 3024002,
     "title": "Guys buy island on Craigslist, use Kickstarter to turn it into artist community",
     "url": "http://www.coldsplinters.com/2011/08/rabbit-island/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "whalesalad",
+    "descendants": 55,
+    "time": 1316644695
   },
   {
     "rank": 4,
     "id": 3024588,
     "title": "How Github uses Github to build Github",
     "url": "http://zachholman.com/talk/how-github-uses-github-to-build-github",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "brown9-2",
+    "descendants": 66,
+    "time": 1316658301
   },
   {
     "rank": 5,
     "id": 3024860,
     "title": "Bring a stick man to life.",
     "url": "http://drawastickman.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 862,
+    "by": "kgthegreat",
+    "descendants": 64,
+    "time": 1316666023
   },
   {
     "rank": 6,
     "id": 3025137,
     "title": "Art of writing unmaintainable code.",
     "url": "http://thc.org/root/phun/unmaintain.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "amirdhagopal",
+    "descendants": 37,
+    "time": 1316674113
   },
   {
     "rank": 7,
     "id": 3025391,
     "title": "How can C Programs be so Reliable?",
     "url": "http://tratt.net/laurie/tech_articles/articles/how_can_c_programs_be_so_reliable#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "ColinWright",
+    "descendants": 152,
+    "time": 1316682284
   },
   {
     "rank": 8,
     "id": 3026801,
     "title": "Excited about new developments at f8? We need Ruby developers at PageLever",
     "url": "http://news.ycombinator.com/item?id=3026801",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "wdavidturner",
     "descendants": 0,
-    "time": 0
+    "time": 1316711670
   },
   {
     "rank": 9,
     "id": 3026868,
     "title": "Facebook Timeline",
     "url": "http://www.facebook.com/about/timeline",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "arnorhs",
+    "descendants": 176,
+    "time": 1316712736
   },
   {
     "rank": 10,
     "id": 3027056,
     "title": "Speed-of-light experiments yield baffling result at LHC",
     "url": "http://www.bbc.co.uk/news/science-environment-15017484",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 938,
+    "by": "pmjoyce",
+    "descendants": 239,
+    "time": 1316715125
   }
 ]

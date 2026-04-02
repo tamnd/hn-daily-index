@@ -4,99 +4,99 @@
     "id": 3032557,
     "title": "OpenBSD imports nginx into tree as future apache replacement",
     "url": "http://marc.info/?l=openbsd-cvs&m=131673440721777&w=2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "b3n",
+    "descendants": 37,
+    "time": 1316840030
   },
   {
     "rank": 2,
     "id": 3032995,
     "title": "All of life has been utterly, profoundly changed thanks to Facebook...",
     "url": "http://realdanlyons.com/blog/2011/09/23/all-of-life-has-been-utterly-profoundly-changed-thanks-to-facebooks-new-changes-and-nothing-will-ever-be-the-same-and-all-i-can-do-is-sit-here-and-weep-at-the-beauty-and-magic-that-mark-zuckerber/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "thedoctor",
+    "descendants": 69,
+    "time": 1316862637
   },
   {
     "rank": 3,
     "id": 3033359,
     "title": "Feynman On The Importance Of Playing",
     "url": "http://pythonwise.blogspot.com/2011/09/on-importance-of-playing.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "tebeka",
+    "descendants": 25,
+    "time": 1316876346
   },
   {
     "rank": 4,
     "id": 3034155,
     "title": "Chrome Privacy",
     "url": "http://mikewest.org/2011/09/chrome-privacy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "czottmann",
+    "descendants": 99,
+    "time": 1316893055
   },
   {
     "rank": 5,
     "id": 3034587,
     "title": "SICP optimized for Kindle",
     "url": "https://github.com/jonathanpatt/sicp-kindle",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "ique",
+    "descendants": 40,
+    "time": 1316906605
   },
   {
     "rank": 6,
     "id": 3034801,
     "title": "Your idea sucks now go do it anyway",
     "url": "http://blog.asmartbear.com/your-idea-sucks-now-go-do-it-anyway.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 138,
+    "by": "vitomd",
+    "descendants": 19,
+    "time": 1316914385
   },
   {
     "rank": 7,
     "id": 3035153,
     "title": " Facebook Disconnect",
     "url": "https://chrome.google.com/webstore/detail/ejpepffjfmamnambagiibghpglaidiec",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "jmonegro",
+    "descendants": 92,
+    "time": 1316927953
   },
   {
     "rank": 8,
     "id": 3035418,
     "title": "Logging out of Facbook is not enough",
     "url": "http://nikcub.appspot.com/logging-out-of-facebook-is-not-enough",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "nikcub",
+    "descendants": 120,
+    "time": 1316940159
   },
   {
     "rank": 9,
     "id": 3035954,
     "title": "Why Facebook's 'Frictionless Sharing' violates HTTP",
     "url": "http://andothernoise.blogspot.com/2011/09/why-facebooks-frictionless-sharing.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "alexandros",
+    "descendants": 65,
+    "time": 1316965435
   },
   {
     "rank": 10,
     "id": 3036157,
     "title": "How to Force Facebook into Handing-Over their Secret Tracking Data",
     "url": "http://europe-v-facebook.org/EN/Get_your_Data_/get_your_data_.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "stfu",
+    "descendants": 105,
+    "time": 1316970385
   }
 ]

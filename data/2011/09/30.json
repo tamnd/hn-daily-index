@@ -4,40 +4,40 @@
     "id": 3052618,
     "title": "Web Designers should all be using this idea by now: Font Icons.",
     "url": "http://somerandomdude.com/articles/design-technology/font-embedding-icons/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "felipellrocha",
+    "descendants": 76,
+    "time": 1317307749
   },
   {
     "rank": 2,
     "id": 3053606,
     "title": "Try Ruby",
     "url": "http://tryruby.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "chrisbaglieri",
+    "descendants": 43,
+    "time": 1317320320
   },
   {
     "rank": 3,
     "id": 3053833,
     "title": "Scaling GitHub's Employees",
     "url": "http://zachholman.com/posts/scaling-github-employees/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "jonmaddox",
+    "descendants": 39,
+    "time": 1317323817
   },
   {
     "rank": 4,
     "id": 3054509,
     "title": "\"Algorithm\" is not a four letter word",
     "url": "http://www.jamisbuck.org/presentations/rubyconf2011/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "jashkenas",
+    "descendants": 65,
+    "time": 1317333378
   },
   {
     "rank": 5,
@@ -47,56 +47,56 @@
     "score": 0,
     "by": "",
     "descendants": 0,
-    "time": 0
+    "time": 1317344231
   },
   {
     "rank": 6,
     "id": 3055154,
     "title": "\u201cI hate almost all software\u201d \u2014 Ryan Dahl",
     "url": "https://plus.google.com/115094562986465477143/posts/Di6RwCNKCrf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "robinhouston",
+    "descendants": 292,
+    "time": 1317346502
   },
   {
     "rank": 7,
     "id": 3056490,
     "title": "Try Python, Ruby, Lua, Scheme, QBasic, Forth ...",
     "url": "http://repl.it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "amasad",
+    "descendants": 78,
+    "time": 1317380820
   },
   {
     "rank": 8,
     "id": 3057159,
     "title": "Write your app in HTML5, upload it and get back app-store ready apps",
     "url": "https://build.phonegap.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "geoffroy",
+    "descendants": 93,
+    "time": 1317393538
   },
   {
     "rank": 9,
     "id": 3058062,
     "title": "Build groundbreaking technology at MemSQL (YC W11)",
     "url": "http://news.ycombinator.com/item?id=3058062",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "ericfrenkiel",
     "descendants": 0,
-    "time": 0
+    "time": 1317407288
   },
   {
     "rank": 10,
     "id": 3058739,
     "title": "Parse (S11) is hiring engineers.",
     "url": "http://news.ycombinator.com/item?id=3058739",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "csmajorfive",
     "descendants": 0,
-    "time": 0
+    "time": 1317420750
   }
 ]
