@@ -4,99 +4,99 @@
     "id": 4161094,
     "title": "NVD3.js: re-usable charts for d3.js",
     "url": "http://novus.github.com/nvd3/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 204,
+    "by": "tilt",
+    "descendants": 47,
+    "time": 1340706720
   },
   {
     "rank": 2,
     "id": 4162808,
     "title": "Handsontable - Excel-like table editor in HTML & jQuery",
     "url": "http://warpech.github.com/jquery-handsontable/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "uptown",
+    "descendants": 40,
+    "time": 1340728948
   },
   {
     "rank": 3,
     "id": 4163820,
     "title": "The Recruiter Honeypot",
     "url": "http://www.ewherry.com/2012/06/the-recruiter-honeypot/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 655,
+    "by": "male_salmon",
+    "descendants": 156,
+    "time": 1340740621
   },
   {
     "rank": 4,
     "id": 4163916,
     "title": "Bridge is a new RPC framework for building modular services",
     "url": "https://www.getbridge.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "dshankar",
+    "descendants": 85,
+    "time": 1340742107
   },
   {
     "rank": 5,
     "id": 4164731,
     "title": "Going Colo",
     "url": "http://blog.pinboard.in/2012/06/going_colo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "wyclif",
+    "descendants": 97,
+    "time": 1340753760
   },
   {
     "rank": 6,
     "id": 4166183,
     "title": "A day in the life of a startup founder",
     "url": "http://news.ycombinator.com/item?id=4166183",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 633,
+    "by": "jgrahamc",
+    "descendants": 126,
+    "time": 1340788320
   },
   {
     "rank": 7,
     "id": 4167186,
     "title": "Kid Automates Work, Is Fired, Hired Back, Automates Business",
     "url": "http://www.reddit.com/r/AskReddit/comments/vomtn/update_my_friends_call_me_a_scumbag_because_i/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 566,
+    "by": "andrewcooke",
+    "descendants": 198,
+    "time": 1340808324
   },
   {
     "rank": 8,
     "id": 4167711,
     "title": "Google I/O 2012",
     "url": "https://developers.google.com/events/io/#last-post-for-this-url-was-more-than-100-days-old",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "Achshar",
+    "descendants": 119,
+    "time": 1340814118
   },
   {
     "rank": 9,
     "id": 4168107,
     "title": "Nexus 7, Made for Google Play",
     "url": "https://play.google.com/store/devices/details?id=nexus_7_8gb&feature=single-wide-banner",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "sindhiparsani",
+    "descendants": 263,
+    "time": 1340819322
   },
   {
     "rank": 10,
     "id": 4168273,
     "title": "Sergey Brin Demos Google Glass At I/O",
     "url": "http://techcrunch.com/2012/06/27/sergey-brin-demos-google-glass-at-io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "irunbackwards",
+    "descendants": 212,
+    "time": 1340820887
   }
 ]

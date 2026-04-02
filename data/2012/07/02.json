@@ -4,99 +4,99 @@
     "id": 4185170,
     "title": "Flask 0.9 codename Campari released today",
     "url": "https://github.com/mitsuhiko/flask/blob/master/CHANGES",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "espeed",
+    "descendants": 47,
+    "time": 1341159296
   },
   {
     "rank": 2,
     "id": 4186129,
     "title": "Lisp Hackers: Peter Seibel",
     "url": "http://lisp-univ-etc.blogspot.com.au/2012/07/lisp-hackers-peter-seibel.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "mark_h",
+    "descendants": 16,
+    "time": 1341176580
   },
   {
     "rank": 3,
     "id": 4186927,
     "title": "As crops rot, millions go hungry in India",
     "url": "http://uk.reuters.com/article/2012/07/01/uk-india-wheat-idUKBRE8600KB20120701",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "tokenadult",
+    "descendants": 175,
+    "time": 1341194912
   },
   {
     "rank": 4,
     "id": 4187614,
     "title": "Interface Design with a Homeless person ",
     "url": "http://www.delian.io/post/26331301430",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "MIT_Hacker",
+    "descendants": 103,
+    "time": 1341210333
   },
   {
     "rank": 5,
     "id": 4187801,
     "title": "Caching the uncacheable: CloudFlare's Railgun",
     "url": "http://blog.cloudflare.com/cacheing-the-uncacheable-cloudflares-railgun-73454",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "jgrahamc",
+    "descendants": 69,
+    "time": 1341215117
   },
   {
     "rank": 6,
     "id": 4188815,
     "title": "Mozilla Gains Global Support For a Firefox Mobile OS",
     "url": "http://blog.mozilla.org/blog/2012/07/02/firefox-mobile-os/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "cheeaun",
+    "descendants": 131,
+    "time": 1341236639
   },
   {
     "rank": 7,
     "id": 4189114,
     "title": "Shall We Use Clojure?",
     "url": "http://www.andrewhjon.es/142343729",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "kschrader",
+    "descendants": 117,
+    "time": 1341240979
   },
   {
     "rank": 8,
     "id": 4189438,
     "title": "Facebook Blames Email Problems On User \"Confusion\"",
     "url": "http://www.readwriteweb.com/archives/facebook-blames-email-problems-on-user-confusion.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "tim_sw",
+    "descendants": 146,
+    "time": 1341245561
   },
   {
     "rank": 9,
     "id": 4189811,
     "title": "MVC is dead, it's time to MOVE on",
     "url": "http://cirw.in/blog/time-to-move-on",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "cirwin",
+    "descendants": 222,
+    "time": 1341250035
   },
   {
     "rank": 10,
     "id": 4190423,
     "title": "Windows 8 Pro Upgrade to cost $39.99",
     "url": "http://windowsteamblog.com/windows/b/bloggingwindows/archive/2012/07/02/upgrade-to-windows-8-pro-for-39-99.aspx?utm_source=twitterfeed&utm_medium=twitter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "rkrishnakumar",
+    "descendants": 198,
+    "time": 1341256529
   }
 ]

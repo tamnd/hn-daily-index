@@ -4,99 +4,99 @@
     "id": 4017996,
     "title": "How Tim Cook is changing Apple",
     "url": "http://tech.fortune.cnn.com/2012/05/24/apple-tim-cook-ceo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "maayank",
+    "descendants": 107,
+    "time": 1337862252
   },
   {
     "rank": 2,
     "id": 4019040,
     "title": "API Design - Matt Gemmell",
     "url": "http://mattgemmell.com/2012/05/24/api-design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "protomyth",
+    "descendants": 26,
+    "time": 1337875396
   },
   {
     "rank": 3,
     "id": 4020187,
     "title": "Python for Data Analysis (new O'Reilly book from creator of Pandas)",
     "url": "http://shop.oreilly.com/product/0636920023784.do",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "plessthanpt05",
+    "descendants": 57,
+    "time": 1337888692
   },
   {
     "rank": 4,
     "id": 4022186,
     "title": "Github: United States Code",
     "url": "https://github.com/divegeek/uscode",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "wh-uws",
+    "descendants": 54,
+    "time": 1337926951
   },
   {
     "rank": 5,
     "id": 4022338,
     "title": "Live: SpaceX Dragon docking with ISS",
     "url": "http://www.bbc.co.uk/news/science-environment-18202702",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "kingofspain",
+    "descendants": 98,
+    "time": 1337929984
   },
   {
     "rank": 6,
     "id": 4022803,
     "title": "Retailer uses 3D QR codes and the Sun to time limit discounts",
     "url": "http://www.springwise.com/retail/seoul-retailer-3d-qr-codes-sun-deliver-discounts-quiet-times/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "timthorn",
+    "descendants": 45,
+    "time": 1337939808
   },
   {
     "rank": 7,
     "id": 4023484,
     "title": "Space Station grabs SpaceX Dragon ship",
     "url": "http://www.bbc.co.uk/news/science-environment-18195772",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 585,
+    "by": "mocko",
+    "descendants": 166,
+    "time": 1337954514
   },
   {
     "rank": 8,
     "id": 4023834,
     "title": "I sued a telemarketer and got $4,000",
     "url": "http://www.impactdialing.com/2012/05/how-to-sue-a-telemarketer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "michaelrkn",
+    "descendants": 145,
+    "time": 1337959100
   },
   {
     "rank": 9,
     "id": 4024110,
     "title": "Virtualenv to be part of Python 3.3",
     "url": "http://mail.python.org/pipermail/python-dev/2012-May/119668.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "j2labs",
+    "descendants": 58,
+    "time": 1337962289
   },
   {
     "rank": 10,
     "id": 4025464,
     "title": "Rick Santorum's Fake Donation Meter",
     "url": "https://www.ricksantorum.com/stillneedhelp/thermometer.js",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "bithive123",
+    "descendants": 93,
+    "time": 1337981992
   }
 ]

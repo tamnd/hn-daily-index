@@ -4,99 +4,99 @@
     "id": 3940322,
     "title": "Oracle/Google jury finds Google infringed SSO but hangs on fair use",
     "url": "http://www.groklaw.net/article.php?story=20120507122749740#Update_3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "grellas",
+    "descendants": 35,
+    "time": 1336415870
   },
   {
     "rank": 2,
     "id": 3940332,
     "title": "Dell Announces A Linux Laptop Designed For Developers",
     "url": "http://devopsangle.com/2012/05/07/dell-announces-a-linux-laptop-designed-for-developers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "alexwilliams",
+    "descendants": 193,
+    "time": 1336415966
   },
   {
     "rank": 3,
     "id": 3941387,
     "title": "Google gets license to test drive autonomous cars on Nevada roads",
     "url": "http://arstechnica.com/tech-policy/news/2012/05/google-gets-license-to-test-drive-autonomous-cars-on-nevada-roads.ars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "aaronjg",
+    "descendants": 164,
+    "time": 1336432655
   },
   {
     "rank": 4,
     "id": 3941754,
     "title": "Behind the scenes at Adioso - Part 1: Reality Check",
     "url": "http://tomhoward.co/part-1-reality-check",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "tomhoward",
+    "descendants": 64,
+    "time": 1336440734
   },
   {
     "rank": 5,
     "id": 3942942,
     "title": "Firefox finally plugs the leak",
     "url": "http://blog.mozilla.org/nnethercote/2012/05/07/update-on-leaky-add-ons/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "pbiggar",
+    "descendants": 107,
+    "time": 1336471056
   },
   {
     "rank": 6,
     "id": 3943648,
     "title": "A set of top Computer Science blogs",
     "url": "http://drtomcrick.wordpress.com/2012/05/07/a-set-of-top-computer-science-blogs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "johndcook",
+    "descendants": 20,
+    "time": 1336485975
   },
   {
     "rank": 7,
     "id": 3944229,
     "title": "Rich Hickey: Reducers - A Library and Model for Collection Processing",
     "url": "http://clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "swannodette",
+    "descendants": 79,
+    "time": 1336492255
   },
   {
     "rank": 8,
     "id": 3944564,
     "title": "Dwolla is going to eliminate ACH",
     "url": "http://blog.dwolla.com/ach-goes-real-time-with-fisync-free-for-banks-and-credit-unions/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "ScotterC",
+    "descendants": 116,
+    "time": 1336496120
   },
   {
     "rank": 9,
     "id": 3944727,
     "title": "Swiftype (YC W12) Builds Site Search That Doesn\u2019t Suck",
     "url": "http://techcrunch.com/2012/05/08/swiftype-launch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "llambda",
+    "descendants": 67,
+    "time": 1336497544
   },
   {
     "rank": 10,
     "id": 3944856,
     "title": "Move over Zuck, Abraham Lincoln filed a patent for Facebook in 1845",
     "url": "http://thenextweb.com/shareables/2012/05/08/move-over-zuck-abraham-lincoln-filed-a-patent-for-facebook-in-1845/",
-    "score": 0,
-    "by": "",
+    "score": 230,
+    "by": "daegloe",
     "descendants": 0,
-    "time": 0
+    "time": 1336498736
   }
 ]

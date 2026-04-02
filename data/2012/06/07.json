@@ -4,99 +4,99 @@
     "id": 4072873,
     "title": "Hacking an ATM",
     "url": "http://henryschwarz.blogspot.co.uk/2012/06/black-hatted.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "rlpb",
+    "descendants": 45,
+    "time": 1338971311
   },
   {
     "rank": 2,
     "id": 4074906,
     "title": "John Carmack is making a virtual reality headset",
     "url": "http://www.pcgamer.com/2012/06/06/john-carmack-is-making-a-virtual-reality-headset-500-kits-available-soon-video-interview-inside/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "otibom",
+    "descendants": 63,
+    "time": 1339002567
   },
   {
     "rank": 3,
     "id": 4075347,
     "title": "LeakedIn",
     "url": "http://leakedin.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "ams1",
+    "descendants": 174,
+    "time": 1339007480
   },
   {
     "rank": 4,
     "id": 4075873,
     "title": "Storing Passwords Securely",
     "url": "http://throwingfire.com/storing-passwords-securely/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+throwingfire+%28Throwing+Fire%29#notpasswordhashes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "pw",
+    "descendants": 133,
+    "time": 1339012820
   },
   {
     "rank": 5,
     "id": 4076834,
     "title": "Why Django Sucks",
     "url": "https://speakerdeck.com/u/kennethreitz/p/flasky-goodness",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "kenneth_reitz",
+    "descendants": 194,
+    "time": 1339027257
   },
   {
     "rank": 6,
     "id": 4077256,
     "title": "Select2 - A better way to make select boxes (with jQuery)",
     "url": "https://github.com/ivaynberg/select2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "binarydreams",
+    "descendants": 57,
+    "time": 1339035038
   },
   {
     "rank": 7,
     "id": 4077891,
     "title": "Testing 3 million hyperlinks, lessons learned",
     "url": "http://samsaffron.com/archive/2012/06/07/testing-3-million-hyperlinks-lessons-learned",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 206,
+    "by": "sathyabhat",
+    "descendants": 55,
+    "time": 1339051206
   },
   {
     "rank": 8,
     "id": 4078483,
     "title": "5 Million Farmers Sue Monsanto for $7.7 Billion",
     "url": "http://readersupportednews.org/news-section2/312-16/11795-5-million-farmers-sue-monsanto-for-77-billion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "captainsinclair",
+    "descendants": 213,
+    "time": 1339069764
   },
   {
     "rank": 9,
     "id": 4079183,
     "title": "SPDY Review by Opera Software",
     "url": "http://lists.w3.org/Archives/Public/ietf-http-wg/2012AprJun/0498",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "jacobr",
+    "descendants": 65,
+    "time": 1339079718
   },
   {
     "rank": 10,
     "id": 4080373,
     "title": "Dear Heroku: Quit blaming all of us when you fail. Do this instead\u2026",
     "url": "http://blog.pardner.com/2012/06/dear-heroku-dammit-quit-blaming-all-of-us-when-you-fail-do-this-instead/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "pardner",
+    "descendants": 125,
+    "time": 1339091904
   }
 ]
