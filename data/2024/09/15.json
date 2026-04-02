@@ -4,99 +4,99 @@
     "id": 41540362,
     "title": "Writing an OS in Rust",
     "url": "https://github.com/phil-opp/blog_os",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "udev4096",
+    "descendants": 40,
+    "time": 1726327190
   },
   {
     "rank": 2,
     "id": 41540950,
     "title": "One in five genetics papers contains errors thanks to Excel (2016)",
     "url": "https://www.science.org/content/article/one-five-genetics-papers-contains-errors-thanks-microsoft-excel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "redbell",
+    "descendants": 255,
+    "time": 1726332550
   },
   {
     "rank": 3,
     "id": 41540984,
     "title": "Founder Mode, hackers, and being bored by tech",
     "url": "https://ianbetteridge.com/2024/09/14/founder-mode-hackers-and-being-bored-by-tech/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "rpgbr",
+    "descendants": 222,
+    "time": 1726332769
   },
   {
     "rank": 4,
     "id": 41541053,
     "title": "LLMs Will Always Hallucinate, and We Need to Live with This",
     "url": "https://arxiv.org/abs/2409.05746",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "Anon84",
+    "descendants": 261,
+    "time": 1726333376
   },
   {
     "rank": 5,
     "id": 41541770,
     "title": "Falsehoods programmers believe about TCP",
     "url": "https://lwn.net/Articles/990281/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "todsacerdoti",
+    "descendants": 223,
+    "time": 1726338360
   },
   {
     "rank": 6,
     "id": 41543386,
     "title": "OpenSCAD: The Programmer's Solid 3D CAD Modeller",
     "url": "https://openscad.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "LorenDB",
+    "descendants": 187,
+    "time": 1726351334
   },
   {
     "rank": 7,
     "id": 41544364,
     "title": "Lazarus Group laundered $200M from 25 crypto hacks to fiat",
     "url": "https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "noch",
+    "descendants": 209,
+    "time": 1726362565
   },
   {
     "rank": 8,
     "id": 41544969,
     "title": "Show HN: Wordllama \u2013 Things you can do with the token embeddings of an LLM",
     "url": "https://github.com/dleemiller/WordLlama",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "deepsquirrelnet",
+    "descendants": 36,
+    "time": 1726370714
   },
   {
     "rank": 9,
     "id": 41548474,
     "title": "Linux 6.11 Released",
     "url": "https://lwn.net/Articles/990307/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "jrepinc",
+    "descendants": 119,
+    "time": 1726418027
   },
   {
     "rank": 10,
     "id": 41549649,
     "title": "How to Succeed in Mr Beast Production (Leaked PDF)",
     "url": "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2115,
+    "by": "babelfish",
+    "descendants": 1352,
+    "time": 1726428264
   }
 ]

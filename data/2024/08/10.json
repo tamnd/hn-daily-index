@@ -4,99 +4,99 @@
     "id": 41185945,
     "title": "The Third Atomic Bomb",
     "url": "https://lflank.wordpress.com/2024/08/06/the-third-atomic-bomb/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "dxs",
+    "descendants": 255,
+    "time": 1723067323
   },
   {
     "rank": 2,
     "id": 41198491,
     "title": "Sonic Pi: Ruby as a Composition Tool",
     "url": "https://bhmt.dev/blog/sonic_pi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "chaosharmonic",
+    "descendants": 30,
+    "time": 1723172928
   },
   {
     "rank": 3,
     "id": 41203368,
     "title": ".INTERNAL is now reserved for private-use applications",
     "url": "https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 563,
+    "by": "joncfoo",
+    "descendants": 278,
+    "time": 1723221410
   },
   {
     "rank": 4,
     "id": 41203475,
     "title": "Show HN: Attaching to a virtual GPU over TCP",
     "url": "https://www.thundercompute.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "bmodel",
+    "descendants": 108,
+    "time": 1723222241
   },
   {
     "rank": 5,
     "id": 41205176,
     "title": "Urchin Software Corp: The unlikely origin story of Google Analytics (2016)",
     "url": "https://urchin.biz/urchin-software-corp-89a1f5292999",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "cpeterso",
+    "descendants": 57,
+    "time": 1723235531
   },
   {
     "rank": 6,
     "id": 41206908,
     "title": "Building a highly-available web service without a database",
     "url": "https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "tdrhq",
+    "descendants": 178,
+    "time": 1723257475
   },
   {
     "rank": 7,
     "id": 41207221,
     "title": "Defcon stiffs badge HW vendor, drags FW author offstage during talk",
     "url": "https://twitter.com/mightymogomra/status/1822119942281650278",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 534,
+    "by": "dmitrygr",
+    "descendants": 177,
+    "time": 1723262390
   },
   {
     "rank": 8,
     "id": 41207415,
     "title": "Susan Wojcicki has died",
     "url": "https://twitter.com/sundarpichai/status/1822132667959386588",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 721,
+    "by": "grandmczeb",
+    "descendants": 452,
+    "time": 1723265909
   },
   {
     "rank": 9,
     "id": 41208988,
     "title": "A wonderful coincidence or an expected connection: why \u03c0\u00b2 \u2248 g",
     "url": "https://roitman.io/blog/91",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "signa11",
+    "descendants": 330,
+    "time": 1723292694
   },
   {
     "rank": 10,
     "id": 41209688,
     "title": "OpenSnitch is a GNU/Linux interactive application firewall",
     "url": "https://github.com/evilsocket/opensnitch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "dp-hackernews",
+    "descendants": 101,
+    "time": 1723299352
   }
 ]

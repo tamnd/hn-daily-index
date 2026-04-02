@@ -4,99 +4,99 @@
     "id": 41412601,
     "title": "Routed Gothic Font",
     "url": "https://webonastick.com/fonts/routed-gothic/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "Rendello",
+    "descendants": 32,
+    "time": 1725144179
   },
   {
     "rank": 2,
     "id": 41420672,
     "title": "A Real Life Off-by-One Error",
     "url": "https://leejo.github.io/2024/09/01/off_by_one/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "leejo",
+    "descendants": 118,
+    "time": 1725227262
   },
   {
     "rank": 3,
     "id": 41420783,
     "title": "OAuth from First Principles",
     "url": "https://stack-auth.com/blog/oauth-from-first-principles",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "n2d4",
+    "descendants": 104,
+    "time": 1725228183
   },
   {
     "rank": 4,
     "id": 41445790,
     "title": "Physics is unreasonably good at creating new math",
     "url": "https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "Brajeshwar",
+    "descendants": 225,
+    "time": 1725457399
   },
   {
     "rank": 5,
     "id": 41447515,
     "title": "The first nuclear clock will test if fundamental constants change",
     "url": "https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "beefman",
+    "descendants": 182,
+    "time": 1725467014
   },
   {
     "rank": 6,
     "id": 41447758,
     "title": "The Internet Archive has lost its appeal in Hachette vs. Internet Archive",
     "url": "https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 995,
+    "by": "Signez",
+    "descendants": 793,
+    "time": 1725468110
   },
   {
     "rank": 7,
     "id": 41448439,
     "title": "Show HN: An open-source implementation of AlphaFold3",
     "url": "https://github.com/Ligo-Biosciences/AlphaFold3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "EdHarris",
+    "descendants": 37,
+    "time": 1725471857
   },
   {
     "rank": 8,
     "id": 41453237,
     "title": "Yi-Coder: A Small but Mighty LLM for Code",
     "url": "https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "crbelaus",
+    "descendants": 115,
+    "time": 1725507509
   },
   {
     "rank": 9,
     "id": 41457331,
     "title": "AlphaProteo generates novel proteins for biology and health research",
     "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "meetpateltech",
+    "descendants": 98,
+    "time": 1725548749
   },
   {
     "rank": 10,
     "id": 41458987,
     "title": "UE5 Nanite in WebGPU",
     "url": "https://github.com/Scthe/nanite-webgpu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "vouwfietsman",
+    "descendants": 111,
+    "time": 1725558959
   }
 ]

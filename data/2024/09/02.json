@@ -4,99 +4,99 @@
     "id": 41398092,
     "title": "Programming Zero Knowledge Proofs: From Zero to Hero",
     "url": "https://zkintro.com/articles/programming-zkps-from-zero-to-hero",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "oskarth",
+    "descendants": 164,
+    "time": 1724998121
   },
   {
     "rank": 2,
     "id": 41415866,
     "title": "The web's clipboard, and how it stores data of different types",
     "url": "https://alexharri.com/blog/clipboard",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "alexharri",
+    "descendants": 77,
+    "time": 1725188555
   },
   {
     "rank": 3,
     "id": 41417659,
     "title": "Ask HN: How to store and share passwords in a company?",
     "url": "https://news.ycombinator.com/item?id=41417659",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "hu3",
+    "descendants": 277,
+    "time": 1725203827
   },
   {
     "rank": 4,
     "id": 41418301,
     "title": "The Pentium as a Navajo Weaving",
     "url": "https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "GavinAnderegg",
+    "descendants": 84,
+    "time": 1725209167
   },
   {
     "rank": 5,
     "id": 41420597,
     "title": "Extreme Pi Boot Optimization",
     "url": "https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 558,
+    "by": "todsacerdoti",
+    "descendants": 153,
+    "time": 1725226615
   },
   {
     "rank": 6,
     "id": 41421846,
     "title": "OrbStack: The fast, light, and easy way to run Docker containers and Linux",
     "url": "https://orbstack.dev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "rpgbr",
+    "descendants": 156,
+    "time": 1725240956
   },
   {
     "rank": 7,
     "id": 41422126,
     "title": "Japan\u2019s Temple-Builder Kong\u014d Gumi, Has Survived Nearly 1,500 Years",
     "url": "https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "dangtony98",
+    "descendants": 203,
+    "time": 1725243919
   },
   {
     "rank": 8,
     "id": 41422311,
     "title": "1M Users",
     "url": "https://blog.spacehey.com/entry?id=1245177",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 787,
+    "by": "theneedful",
+    "descendants": 184,
+    "time": 1725246788
   },
   {
     "rank": 9,
     "id": 41424371,
     "title": "Show HN: Defrag the Game",
     "url": "https://defrag-game.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "v_b",
+    "descendants": 107,
+    "time": 1725275302
   },
   {
     "rank": 10,
     "id": 41425563,
     "title": "Sleep on it: How the brain processes many experiences, even when 'offline'",
     "url": "https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "PaulHoule",
+    "descendants": 137,
+    "time": 1725286628
   }
 ]

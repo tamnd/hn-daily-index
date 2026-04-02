@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 35131357,
+    "title": "How Python virtual environments work",
+    "url": "https://snarky.ca/how-virtual-environments-work/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 35136624,
+    "title": "Alpaca: A strong open-source instruction-following model",
+    "url": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 35142787,
+    "title": "Experian is a pile of dark pattern garbage",
+    "url": "https://blog.benton.io/post/711712394255138816/experian-is-a-pile-of-dark-pattern-garbage",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 35143573,
+    "title": "Switching from C++ to Rust",
+    "url": "https://laplab.me/posts/switching-from-cpp-to-rust/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 35145189,
+    "title": "Microsoft lays off one of its responsible AI teams",
+    "url": "https://www.platformer.news/p/microsoft-just-laid-off-one-of-its",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 35150909,
+    "title": "Meta plans to lay off 10k employees",
+    "url": "https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 35152278,
+    "title": "NordVPN library and client code open-sourced",
+    "url": "https://github.com/NordSecurity",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 35154527,
+    "title": "GPT-4",
+    "url": "https://openai.com/research/gpt-4",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 35155198,
+    "title": "The new Bing runs on OpenAI\u2019s GPT-4",
+    "url": "https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 35155684,
+    "title": "Khan Academy integrates GPT-4 as every student\u2019s customized tutor",
+    "url": "https://openai.com/customer-stories/khan-academy",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

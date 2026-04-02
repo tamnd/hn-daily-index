@@ -4,99 +4,99 @@
     "id": 41618685,
     "title": "Mathematicians discover new class of shape seen throughout nature",
     "url": "https://www.nature.com/articles/d41586-024-03099-6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "pseudolus",
+    "descendants": 63,
+    "time": 1727027780
   },
   {
     "rank": 2,
     "id": 41627549,
     "title": "Free-form floor plan design using differentiable Voronoi diagram",
     "url": "https://github.com/nobuyuki83/floor_plan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "alex_hirner",
+    "descendants": 65,
+    "time": 1727107563
   },
   {
     "rank": 3,
     "id": 41629377,
     "title": "Show HN: I Wrote a Book on Java",
     "url": "https://news.ycombinator.com/item?id=41629377",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "goostavos",
+    "descendants": 168,
+    "time": 1727117804
   },
   {
     "rank": 4,
     "id": 41629475,
     "title": "In 1870, Lord Rayleigh used oil and water to calculate the size of molecules",
     "url": "https://www.atomsonly.news/p/franklin-oil",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "mailyk",
+    "descendants": 197,
+    "time": 1727118494
   },
   {
     "rank": 5,
     "id": 41630913,
     "title": "We fine-tuned Llama 405B on AMD GPUs",
     "url": "https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey)",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "felarof",
+    "descendants": 101,
+    "time": 1727127746
   },
   {
     "rank": 6,
     "id": 41631130,
     "title": "iPhone 16 Pro Storage Expansion 128GB to 1TB [video]",
     "url": "https://www.youtube.com/watch?v=KRRNR4HyYaw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "haunter",
+    "descendants": 293,
+    "time": 1727129516
   },
   {
     "rank": 7,
     "id": 41635583,
     "title": "Move Fast and Abandon Things",
     "url": "https://engineersneedart.com/blog/movefast/movefast.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "JKCalhoun",
+    "descendants": 220,
+    "time": 1727179082
   },
   {
     "rank": 8,
     "id": 41635592,
     "title": "Show HN: OpenFreeMap \u2013 Open-Source Map Hosting",
     "url": "https://openfreemap.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 848,
+    "by": "hyperknot",
+    "descendants": 234,
+    "time": 1727179162
   },
   {
     "rank": 9,
     "id": 41636804,
     "title": "Winamp Legacy player source code",
     "url": "https://github.com/WinampDesktop/winamp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 717,
+    "by": "gjvc",
+    "descendants": 328,
+    "time": 1727188029
   },
   {
     "rank": 10,
     "id": 41639635,
     "title": "DOJ accuses Visa of monopoly that affects price of 'nearly everything\u2019",
     "url": "https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 610,
+    "by": "pseudolus",
+    "descendants": 464,
+    "time": 1727203328
   }
 ]

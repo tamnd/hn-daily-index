@@ -4,99 +4,99 @@
     "id": 41312834,
     "title": "Accident Forgiveness",
     "url": "https://fly.io/blog/accident-forgiveness/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "piperswe",
+    "descendants": 300,
+    "time": 1724264876
   },
   {
     "rank": 2,
     "id": 41316807,
     "title": "I sped up serde_json strings by 20%",
     "url": "https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "purplesyringa",
+    "descendants": 117,
+    "time": 1724300662
   },
   {
     "rank": 3,
     "id": 41330852,
     "title": "Adding 16 kb page size to Android",
     "url": "https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "mikece",
+    "descendants": 167,
+    "time": 1724433245
   },
   {
     "rank": 4,
     "id": 41331369,
     "title": "Meta cancels high-end mixed reality headset after Apple Vision Pro struggles",
     "url": "https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "tosh",
+    "descendants": 526,
+    "time": 1724436017
   },
   {
     "rank": 5,
     "id": 41331851,
     "title": "Microsoft formally deprecates the Windows Control Panel",
     "url": "https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "mfiguiere",
+    "descendants": 492,
+    "time": 1724438973
   },
   {
     "rank": 6,
     "id": 41332342,
     "title": "We have reached OpenBSD of Theseus",
     "url": "https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "nabla9",
+    "descendants": 87,
+    "time": 1724441951
   },
   {
     "rank": 7,
     "id": 41334207,
     "title": "Did you lose your AirPods?",
     "url": "https://alexyancey.com/lost-airpods/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1115,
+    "by": "RockRobotRock",
+    "descendants": 383,
+    "time": 1724457268
   },
   {
     "rank": 8,
     "id": 41337356,
     "title": "Hot Page \u2013 a graphical site builder",
     "url": "https://hot.page/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "microflash",
+    "descendants": 107,
+    "time": 1724499024
   },
   {
     "rank": 9,
     "id": 41339667,
     "title": "NASA announces Boeing Starliner crew will return on SpaceX Crew-9",
     "url": "https://twitter.com/NASA/status/1827393397939634503",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 578,
+    "by": "ripjaygn",
+    "descendants": 730,
+    "time": 1724519649
   },
   {
     "rank": 10,
     "id": 41341353,
     "title": "Telegram founder Pavel Durov arrested at French airport",
     "url": "https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1175,
+    "by": "NoxiousPluK",
+    "descendants": 1038,
+    "time": 1724532360
   }
 ]

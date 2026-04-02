@@ -4,99 +4,99 @@
     "id": 41258932,
     "title": "Stripe's Monorepo Developer Environment",
     "url": "https://blog.nelhage.com/post/stripe-dev-environment/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "edran",
+    "descendants": 240,
+    "time": 1723746126
   },
   {
     "rank": 2,
     "id": 41284322,
     "title": "Leaving Neovim for Zed",
     "url": "https://stevedylan.dev/posts/leaving-neovim-for-zed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "mxstbr",
+    "descendants": 322,
+    "time": 1724006230
   },
   {
     "rank": 3,
     "id": 41284703,
     "title": "Show HN: PgQueuer \u2013 Transform PostgreSQL into a Job Queue",
     "url": "https://github.com/janbjorge/PgQueuer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "jeeybee",
+    "descendants": 122,
+    "time": 1724008951
   },
   {
     "rank": 4,
     "id": 41285046,
     "title": "NASA acknowledges it cannot quantify risk of Starliner propulsion issues",
     "url": "https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "geerlingguy",
+    "descendants": 449,
+    "time": 1724011780
   },
   {
     "rank": 5,
     "id": 41285851,
     "title": "Mike Mageek is dead",
     "url": "https://fudzilla.com/news/59503-mike-mageek-is-dead",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "dannyobrien",
+    "descendants": 68,
+    "time": 1724018186
   },
   {
     "rank": 6,
     "id": 41286045,
     "title": "Google took three months to remove scam app that stole over $5M",
     "url": "https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "svenfaw",
+    "descendants": 214,
+    "time": 1724019959
   },
   {
     "rank": 7,
     "id": 41286203,
     "title": "Markov chains are funnier than LLMs",
     "url": "https://emnudge.dev/blog/markov-chains-are-funny/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "todsacerdoti",
+    "descendants": 233,
+    "time": 1724021557
   },
   {
     "rank": 8,
     "id": 41287099,
     "title": "Roblox is the biggest game in the world, but is unprofitable",
     "url": "https://www.matthewball.co/all/roblox2024",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "mfiguiere",
+    "descendants": 561,
+    "time": 1724031956
   },
   {
     "rank": 9,
     "id": 41289114,
     "title": "Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)",
     "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "fanf2",
+    "descendants": 160,
+    "time": 1724056923
   },
   {
     "rank": 10,
     "id": 41292018,
     "title": "The gigantic and unregulated power plants in the cloud",
     "url": "https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "ahubert",
+    "descendants": 251,
+    "time": 1724082319
   }
 ]

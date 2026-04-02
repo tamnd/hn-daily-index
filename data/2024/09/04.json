@@ -4,99 +4,99 @@
     "id": 41417542,
     "title": "We built the city of Colombo in Cities:Skylines",
     "url": "https://github.com/team-watchdog/colombo-skylines",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 511,
+    "by": "icaruswept",
+    "descendants": 183,
+    "time": 1725203150
   },
   {
     "rank": 2,
     "id": 41424954,
     "title": "Show HN: OBS Live-streaming with 120ms latency",
     "url": "https://github.com/Glimesh/broadcast-box",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "Sean-Der",
+    "descendants": 132,
+    "time": 1725281207
   },
   {
     "rank": 3,
     "id": 41434315,
     "title": "Why bother with argv[0]?",
     "url": "https://www.wietzebeukema.nl/blog/why-bother-with-argv0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "wietze",
+    "descendants": 259,
+    "time": 1725366606
   },
   {
     "rank": 4,
     "id": 41434679,
     "title": "Synchronizing Pong to music with constrained optimization",
     "url": "https://victortao.substack.com/p/song-pong",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "platers",
+    "descendants": 37,
+    "time": 1725369573
   },
   {
     "rank": 5,
     "id": 41444700,
     "title": "ReMarkable Paper Pro",
     "url": "https://remarkable.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 664,
+    "by": "buro9",
+    "descendants": 546,
+    "time": 1725451647
   },
   {
     "rank": 6,
     "id": 41445413,
     "title": "Ilya Sutskever's SSI Inc raises $1B",
     "url": "https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 572,
+    "by": "colesantiago",
+    "descendants": 776,
+    "time": 1725455875
   },
   {
     "rank": 7,
     "id": 41446766,
     "title": "Intel Honesty",
     "url": "https://stratechery.com/2024/intel-honesty/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "surprisetalk",
+    "descendants": 405,
+    "time": 1725462949
   },
   {
     "rank": 8,
     "id": 41448022,
     "title": "Dynamicland 2024",
     "url": "https://dynamicland.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "Pulcinella",
+    "descendants": 194,
+    "time": 1725469334
   },
   {
     "rank": 9,
     "id": 41448740,
     "title": "CSS @property and the new style",
     "url": "https://ryanmulligan.dev/blog/css-property-new-style/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 534,
+    "by": "surprisetalk",
+    "descendants": 181,
+    "time": 1725473631
   },
   {
     "rank": 10,
     "id": 41448985,
     "title": "Kagi Assistant",
     "url": "https://blog.kagi.com/announcing-assistant",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "darthShadow",
+    "descendants": 236,
+    "time": 1725474953
   }
 ]

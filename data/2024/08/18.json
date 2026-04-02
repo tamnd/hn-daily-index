@@ -4,99 +4,99 @@
     "id": 41240379,
     "title": "Ask HN: What do you monitor on your servers?",
     "url": "https://news.ycombinator.com/item?id=41240379",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "gorkemcetin",
+    "descendants": 186,
+    "time": 1723587205
   },
   {
     "rank": 2,
     "id": 41263855,
     "title": "Games People Play with Cash Flow (2020)",
     "url": "https://commoncog.com/cash-flow-games/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "simonebrunozzi",
+    "descendants": 85,
+    "time": 1723791797
   },
   {
     "rank": 3,
     "id": 41267316,
     "title": "Ask for Advice, Not Permission (2015)",
     "url": "https://boz.com/articles/advice-not-permission",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "BerislavLopac",
+    "descendants": 105,
+    "time": 1723822688
   },
   {
     "rank": 4,
     "id": 41275600,
     "title": "X says it is closing operations in Brazil due to judge's content orders",
     "url": "https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "hexage1814",
+    "descendants": 615,
+    "time": 1723911619
   },
   {
     "rank": 5,
     "id": 41275759,
     "title": "Alien \u2013 CUDA-powered artificial life simulation program",
     "url": "https://github.com/chrxh/alien",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "apitman",
+    "descendants": 24,
+    "time": 1723912881
   },
   {
     "rank": 6,
     "id": 41275846,
     "title": "Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out",
     "url": "https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "miles",
+    "descendants": 311,
+    "time": 1723913494
   },
   {
     "rank": 7,
     "id": 41276605,
     "title": "Blockbuster Video VHS insert template",
     "url": "https://github.com/rfinnie/blockbuster",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "zdw",
+    "descendants": 86,
+    "time": 1723918189
   },
   {
     "rank": 8,
     "id": 41277429,
     "title": "FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)",
     "url": "https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "croemer",
+    "descendants": 135,
+    "time": 1723924452
   },
   {
     "rank": 9,
     "id": 41282495,
     "title": "Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV",
     "url": "https://github.com/TomWright/dasel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "edward",
+    "descendants": 84,
+    "time": 1723990310
   },
   {
     "rank": 10,
     "id": 41283310,
     "title": "Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules",
     "url": "https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 840,
+    "by": "throwup238",
+    "descendants": 464,
+    "time": 1723998492
   }
 ]

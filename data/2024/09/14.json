@@ -4,99 +4,99 @@
     "id": 41512899,
     "title": "Techniques I use to create a great user experience for shell scripts",
     "url": "https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "hundredwatt",
+    "descendants": 275,
+    "time": 1726072154
   },
   {
     "rank": 2,
     "id": 41530190,
     "title": "Show HN: FlowTracker \u2013 Track data flowing through Java programs",
     "url": "https://github.com/coekie/flowtracker",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "coekie",
+    "descendants": 32,
+    "time": 1726227208
   },
   {
     "rank": 3,
     "id": 41531699,
     "title": "Defend against vampires with 10 gbps network encryption",
     "url": "https://www.synacktiv.com/en/publications/defend-against-vampires-with-10-gbps-network-encryption",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "alxjsn",
+    "descendants": 81,
+    "time": 1726238561
   },
   {
     "rank": 4,
     "id": 41533060,
     "title": "Facebook scraped every Australian adult user's public posts to train AI",
     "url": "https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "elashri",
+    "descendants": 250,
+    "time": 1726247104
   },
   {
     "rank": 5,
     "id": 41534716,
     "title": "CrowdStrike ex-employees: 'Quality control was not part of our process'",
     "url": "https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "everybodyknows",
+    "descendants": 300,
+    "time": 1726258638
   },
   {
     "rank": 6,
     "id": 41535354,
     "title": "Lisp implemented in Rust macros",
     "url": "https://github.com/RyanWelly/lisp-in-rs-macros",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "quasigloam",
+    "descendants": 79,
+    "time": 1726263073
   },
   {
     "rank": 7,
     "id": 41536088,
     "title": "My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures",
     "url": "https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "louwrentius",
+    "descendants": 299,
+    "time": 1726269670
   },
   {
     "rank": 8,
     "id": 41539125,
     "title": "Show HN: Meet.hn \u2013 Meet the Hacker News community in your city",
     "url": "https://news.ycombinator.com/item?id=41539125",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 768,
+    "by": "sirobg",
+    "descendants": 372,
+    "time": 1726313760
   },
   {
     "rank": 9,
     "id": 41540795,
     "title": "How America's universities became debt factories",
     "url": "https://anandsanwal.me/college-student-debt-deception/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "car",
+    "descendants": 544,
+    "time": 1726331130
   },
   {
     "rank": 10,
     "id": 41540902,
     "title": "Terence Tao on O1",
     "url": "https://mathstodon.xyz/@tao/113132502735585408",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 664,
+    "by": "dselsam",
+    "descendants": 482,
+    "time": 1726332064
   }
 ]
