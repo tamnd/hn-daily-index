@@ -4,99 +4,99 @@
     "id": 2895300,
     "title": "I'm a phony. Are you?",
     "url": "http://www.hanselman.com/blog/ImAPhonyAreYou.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "icey",
+    "descendants": 62,
+    "time": 1313588473
   },
   {
     "rank": 2,
     "id": 2895465,
     "title": "Federal Circuit case renders many broadly written software patents invalid",
     "url": "http://www.patentlyo.com/patent/2011/08/if-the-software-method-is-not-patentable-then-neither-is-the-computer-readable-medium.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "grellas",
+    "descendants": 72,
+    "time": 1313591880
   },
   {
     "rank": 3,
     "id": 2896710,
     "title": "How GitHub Works: Be Asynchronous",
     "url": "http://zachholman.com/posts/how-github-works-asynchronous/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "jroes",
+    "descendants": 60,
+    "time": 1313610887
   },
   {
     "rank": 4,
     "id": 2897740,
     "title": "Who Does Facebook Think You Are Searching For?",
     "url": "http://thekeesh.com/2011/08/who-does-facebook-think-you-are-searching-for/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "jkeesh",
+    "descendants": 108,
+    "time": 1313634529
   },
   {
     "rank": 5,
     "id": 2898718,
     "title": "A Stick Figure Guide to the Advanced Encryption Standard (AES)",
     "url": "http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "llambda",
+    "descendants": 24,
+    "time": 1313664327
   },
   {
     "rank": 6,
     "id": 2899018,
     "title": "The Greatest Customer Service Story Ever Told, Starring Morton\u2019s Steakhouse",
     "url": "http://shankman.com/the-best-customer-service-story-ever-told-starring-mortons-steakhouse/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "jsherry",
+    "descendants": 139,
+    "time": 1313672653
   },
   {
     "rank": 7,
     "id": 2899187,
     "title": "Updated US immigration rules: H1-B can work for own company",
     "url": "http://www.washingtonpost.com/national/on-immigration-a-step-in-the-right-direction/2011/08/03/gIQA2bGgsI_story.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "limist",
+    "descendants": 91,
+    "time": 1313676119
   },
   {
     "rank": 8,
     "id": 2899782,
     "title": "Spin.js, a pure JS spinner",
     "url": "http://fgnass.github.com/spin.js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 548,
+    "by": "michokest",
+    "descendants": 66,
+    "time": 1313684209
   },
   {
     "rank": 9,
     "id": 2900633,
     "title": "It\u2019s Official: HP Kills Off webOS Phones and the TouchPad",
     "url": "http://techcrunch.com/2011/08/18/its-official-hp-kills-off-webos-phones-and-the-touchpad/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "canistr",
+    "descendants": 305,
+    "time": 1313695252
   },
   {
     "rank": 10,
     "id": 2901156,
     "title": "Show HN: Codecademy.com, the easiest way to learn to code",
     "url": "http://www.codecademy.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 787,
+    "by": "zds",
+    "descendants": 232,
+    "time": 1313702702
   }
 ]

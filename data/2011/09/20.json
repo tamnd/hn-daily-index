@@ -4,99 +4,99 @@
     "id": 3015177,
     "title": "Urban Airship: Postgres to NoSQL and back",
     "url": "http://wiki.postgresql.org/images/7/7f/Adam-lowry-postgresopen2011.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "samstokes",
+    "descendants": 100,
+    "time": 1316465930
   },
   {
     "rank": 2,
     "id": 3015498,
     "title": "SSL broken.    (TLS 1.0 cryptographic attack that works.  Not just fake certs.)",
     "url": "http://www.theregister.co.uk/2011/09/19/beast_exploits_paypal_ssl/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "willvarfar",
+    "descendants": 84,
+    "time": 1316472021
   },
   {
     "rank": 3,
     "id": 3015597,
     "title": "Tim O'Reilly on OccupyWallStreet",
     "url": "https://plus.google.com/107033731246200681024/posts/Sy8Z2uWy655?hl=en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "BrentRitterbeck",
+    "descendants": 91,
+    "time": 1316473941
   },
   {
     "rank": 4,
     "id": 3015677,
     "title": "Why 80 Percent of Web Projects Are Total Bullshit: A Freelancer\u2019s Rant",
     "url": "http://www.betabeat.com/2011/09/19/why-80-percent-of-web-projects-are-total-bullshit-a-freelancers-rant/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "alexkehayias",
+    "descendants": 123,
+    "time": 1316476081
   },
   {
     "rank": 5,
     "id": 3017358,
     "title": "Help, I\u2019m on the IRS hit list",
     "url": "http://www.theglobeandmail.com/news/opinions/opinion/help-im-on-the-irs-hit-list/article2171697/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "DanielBMarkham",
+    "descendants": 219,
+    "time": 1316524116
   },
   {
     "rank": 6,
     "id": 3017694,
     "title": "OnStar Begins Spying On Customers\u2019 GPS Location For Profit",
     "url": "http://www.zdziarski.com/blog/?p=1270",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "jzdziarski",
+    "descendants": 92,
+    "time": 1316529445
   },
   {
     "rank": 7,
     "id": 3018126,
     "title": "Google+ Opens to All",
     "url": "http://googleblog.blogspot.com/2011/09/google-92-93-94-95-96-97-98-99-100.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "Umalu",
+    "descendants": 175,
+    "time": 1316534997
   },
   {
     "rank": 8,
     "id": 3018539,
     "title": "Quake 2 Source Code Review",
     "url": "http://fabiensanglard.net/quake2/index.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "DanielRibeiro",
+    "descendants": 19,
+    "time": 1316539371
   },
   {
     "rank": 9,
     "id": 3018573,
     "title": "What Netflix Could Have Said This Week",
     "url": "http://www.appleoutsider.com/2011/09/20/netflixpr/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "barredo",
+    "descendants": 110,
+    "time": 1316539730
   },
   {
     "rank": 10,
     "id": 3018908,
     "title": "Like working at massive scale? Flotype (W11) is hiring scalability experts",
     "url": "http://news.ycombinator.com/item?id=3018908",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "sthatipamala",
     "descendants": 0,
-    "time": 0
+    "time": 1316543014
   }
 ]

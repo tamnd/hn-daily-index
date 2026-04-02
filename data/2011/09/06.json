@@ -4,99 +4,99 @@
     "id": 2963525,
     "title": "One base class to rule them all.",
     "url": "https://www.destroyallsoftware.com/blog/2011/one-base-class-to-rule-them-all",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "davepeck",
+    "descendants": 40,
+    "time": 1315263253
   },
   {
     "rank": 2,
     "id": 2963698,
     "title": "Ultrabook: Intel's $300 million plan to beat Apple at its own game",
     "url": "http://arstechnica.com/hardware/news/2011/09/ultrabook-intels-300-million-plan-to-beat-apple-at-its-own-game.ars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 173,
+    "by": "jsnell",
+    "descendants": 193,
+    "time": 1315269706
   },
   {
     "rank": 3,
     "id": 2963733,
     "title": "Seriously, stop with the booth babes",
     "url": "http://webcache.googleusercontent.com/search?q=cache:rt452e6onIcJ:www.standalone-sysadmin.com/blog/2011/09/seriously-stop-with-the-booth-babes/+http://www.standalone-sysadmin.com/blog/2011/09/seriously-stop-with-the-booth-babes/&cd=1&hl=en&ct=clnk&gl=us",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "sciurus",
+    "descendants": 72,
+    "time": 1315271222
   },
   {
     "rank": 4,
     "id": 2964084,
     "title": "GoDaddy's New \"Selective DNS Blackouts\" Policy",
     "url": "http://rscott.org/dns/GoDaddy_Selective_DNS_Blackouts.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "rednaught",
+    "descendants": 85,
+    "time": 1315282368
   },
   {
     "rank": 5,
     "id": 2964543,
     "title": "Don't dumb girls down",
     "url": "http://www.smh.com.au/lifestyle/dont-dumb-girls-down-20110829-1jh86.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "CarolineW",
+    "descendants": 261,
+    "time": 1315293983
   },
   {
     "rank": 6,
     "id": 2964562,
     "title": "TechCrunch As We Know It May Be Over",
     "url": "http://techcrunch.com/2011/09/06/the-end/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "ericflo",
+    "descendants": 103,
+    "time": 1315294670
   },
   {
     "rank": 7,
     "id": 2965053,
     "title": "\"I've got an idea for an app\"",
     "url": "http://chriseidhof.tumblr.com/post/9873846899/ive-got-an-idea-for-an-app",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "chriseidhof",
+    "descendants": 142,
+    "time": 1315306545
   },
   {
     "rank": 8,
     "id": 2965497,
     "title": "Writing Vim Plugins",
     "url": "http://stevelosh.com/blog/2011/09/writing-vim-plugins/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "stevelosh",
+    "descendants": 20,
+    "time": 1315315785
   },
   {
     "rank": 9,
     "id": 2966628,
     "title": "Reddit becomes reddit Inc.",
     "url": "http://blog.reddit.com/2011/09/independence.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "markgx",
+    "descendants": 115,
+    "time": 1315333840
   },
   {
     "rank": 10,
     "id": 2966725,
     "title": "ZeroCater is looking for people to talk to restaurants.",
     "url": "http://news.ycombinator.com/item?id=2966725",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "abstractbill",
     "descendants": 0,
-    "time": 0
+    "time": 1315335111
   }
 ]

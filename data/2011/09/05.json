@@ -4,99 +4,99 @@
     "id": 2958906,
     "title": "Akamai thrives in the spirit of its lost founder",
     "url": "http://www.boston.com/business/technology/articles/2011/09/04/akamai_thrives_in_the_spirit_of_its_lost_founder/?page=full",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 145,
+    "by": "sdave",
+    "descendants": 8,
+    "time": 1315116173
   },
   {
     "rank": 2,
     "id": 2959928,
     "title": "Sane RSS usage",
     "url": "http://www.marco.org/2011/09/04/sane-rss-usage",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 150,
+    "by": "sjs",
+    "descendants": 42,
+    "time": 1315159533
   },
   {
     "rank": 3,
     "id": 2960235,
     "title": "Teal and Orange in Hollywood movies",
     "url": "http://theabyssgazes.blogspot.com/2010/03/teal-and-orange-hollywood-please-stop.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "thmzlt",
+    "descendants": 67,
+    "time": 1315167298
   },
   {
     "rank": 4,
     "id": 2960677,
     "title": "Linux is now hosted on GitHub",
     "url": "https://github.com/torvalds/linux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "bpierre",
+    "descendants": 93,
+    "time": 1315182476
   },
   {
     "rank": 5,
     "id": 2960973,
     "title": "Game theory article from a professional Starcraft player/caster.",
     "url": "http://www.teamliquid.net/forum/viewmessage.php?topic_id=64514",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "thisisnotmyname",
+    "descendants": 82,
+    "time": 1315191310
   },
   {
     "rank": 6,
     "id": 2961594,
     "title": "I bought a webOS device and went to Taiwan. This is what I learned.",
     "url": "http://paulrouget.com/e/mobilewebapps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 173,
+    "by": "tbassetto",
+    "descendants": 57,
+    "time": 1315211601
   },
   {
     "rank": 7,
     "id": 2961636,
     "title": "Google Gravity",
     "url": "http://mrdoob.com/projects/chromeexperiments/google_gravity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "franze",
+    "descendants": 17,
+    "time": 1315213042
   },
   {
     "rank": 8,
     "id": 2962087,
     "title": "Vim is hard, I just want to click around",
     "url": "http://jeffkreeftmeijer.com/2011/vim-is-hard-i-just-want-to-click-around/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "jkreeftmeijer",
+    "descendants": 91,
+    "time": 1315228141
   },
   {
     "rank": 9,
     "id": 2962159,
     "title": "Giving away my Rails 3.0 book. Code examples also available on Github.",
     "url": "https://github.com/bryanbibat/rails-3_0-tutorial",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "bryanbibat",
+    "descendants": 34,
+    "time": 1315230033
   },
   {
     "rank": 10,
     "id": 2962265,
     "title": "We open-sourced 90 node.js modules at Browserling",
     "url": "http://www.catonmat.net/blog/browserling-open-sources-90-node-modules/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "pkrumins",
+    "descendants": 32,
+    "time": 1315232759
   }
 ]

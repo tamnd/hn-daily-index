@@ -4,99 +4,99 @@
     "id": 2770866,
     "title": "Brubeck: A new Python web framework running on mongrel2",
     "url": "http://brubeck.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "cfdrake",
+    "descendants": 52,
+    "time": 1310827831
   },
   {
     "rank": 2,
     "id": 2770994,
     "title": "The Growing Divide Between Silicon Valley And Unemployed America",
     "url": "http://techcrunch.com/2011/07/16/tale-of-two-countries-silicon-valley-unemployed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "jdp23",
+    "descendants": 170,
+    "time": 1310832495
   },
   {
     "rank": 3,
     "id": 2771154,
     "title": "Nginx JSON hacks",
     "url": "http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "Kenan",
+    "descendants": 19,
+    "time": 1310837052
   },
   {
     "rank": 4,
     "id": 2772316,
     "title": "Skeleton: A Beautiful Boilerplate for Responsive, Mobile-Friendly Development",
     "url": "http://www.getskeleton.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "wslh",
+    "descendants": 32,
+    "time": 1310868207
   },
   {
     "rank": 5,
     "id": 2772377,
     "title": "Why My Father Hated India",
     "url": "http://online.wsj.com/article/SB10001424052702304911104576445862242908294.html?mod=WSJ_hp_mostpop_read",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "watchandwait",
+    "descendants": 112,
+    "time": 1310870854
   },
   {
     "rank": 6,
     "id": 2772387,
     "title": "Estimate your English vocabulary size",
     "url": "http://testyourvocab.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "mike_esspe",
+    "descendants": 311,
+    "time": 1310871357
   },
   {
     "rank": 7,
     "id": 2772718,
     "title": "Plan9 has been forked: 9front",
     "url": "http://ninetimes.cat-v.org/news/2011/06/17/0-9front/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 150,
+    "by": "zmmz",
+    "descendants": 36,
+    "time": 1310884667
   },
   {
     "rank": 8,
     "id": 2773426,
     "title": "Refuse to be terrorized (Bruce Schneier)",
     "url": "http://www.wired.com/politics/security/commentary/securitymatters/2006/08/71642",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "iwwr",
+    "descendants": 83,
+    "time": 1310916015
   },
   {
     "rank": 9,
     "id": 2773524,
     "title": "Bottle: Single-File Python Web Framework",
     "url": "http://bottlepy.org/docs/dev/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "dpatru",
+    "descendants": 52,
+    "time": 1310918805
   },
   {
     "rank": 10,
     "id": 2774254,
     "title": "Why I will never pursue cheating again",
     "url": "http://behind-the-enemy-lines.blogspot.com/2011/07/why-i-will-never-pursue-cheating-again.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 691,
+    "by": "Panos",
+    "descendants": 482,
+    "time": 1310938309
   }
 ]

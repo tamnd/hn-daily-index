@@ -4,99 +4,99 @@
     "id": 2738462,
     "title": "My Summer at an Indian Call Center",
     "url": "http://m.motherjones.com/politics/2011/05/indian-call-center-americanization",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "pier0",
+    "descendants": 56,
+    "time": 1310047886
   },
   {
     "rank": 2,
     "id": 2738677,
     "title": "A Walk in the Woods with Mark Zuckerberg",
     "url": "http://bits.blogs.nytimes.com/2011/07/07/a-walk-in-the-woods-with-mark-zuckerberg/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "luigi",
+    "descendants": 60,
+    "time": 1310050550
   },
   {
     "rank": 3,
     "id": 2741425,
     "title": "XKCD's Randall Munroe on Google+ requiring your gender to be public",
     "url": "https://plus.google.com/111588569124648292310/posts/SeBqgN9Zoiu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "macrael",
+    "descendants": 283,
+    "time": 1310104578
   },
   {
     "rank": 4,
     "id": 2741780,
     "title": "Oh Yes You Can Use Regexes to Parse HTML",
     "url": "http://stackoverflow.com/questions/4231382/regular-expression-pattern-not-matching-anywhere-in-string/4234491#4234491",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "draegtun",
+    "descendants": 77,
+    "time": 1310117687
   },
   {
     "rank": 5,
     "id": 2741787,
     "title": "Interesting C code",
     "url": "http://a1k0n.net/2011/06/26/obfuscated-c-yahoo-logo.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "geekzgalore",
+    "descendants": 29,
+    "time": 1310117880
   },
   {
     "rank": 6,
     "id": 2742050,
     "title": "Live coverage of the last Shuttle launch (STS-135, Atlantis)",
     "url": "http://www.nasa.gov/multimedia/nasatv",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 172,
+    "by": "whiskers",
+    "descendants": 83,
+    "time": 1310125845
   },
   {
     "rank": 7,
     "id": 2742303,
     "title": "Courtney Love does the math (2000)",
     "url": "http://www.salon.com/technology/feature/2000/06/14/love/print.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "hezekiah",
+    "descendants": 66,
+    "time": 1310131574
   },
   {
     "rank": 8,
     "id": 2742367,
     "title": "Create a Robot Image from any text string",
     "url": "http://RoboHash.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "e1ven",
+    "descendants": 101,
+    "time": 1310132722
   },
   {
     "rank": 9,
     "id": 2742533,
     "title": "Warren Buffett: I could end the deficit in 5 minutes.",
     "url": "http://www.ritholtz.com/blog/2011/07/warren-buffett-i-could-end-the-deficit-in-5-minutes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheBigPicture+%28The+Big+Picture%29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "pitdesi",
+    "descendants": 180,
+    "time": 1310135384
   },
   {
     "rank": 10,
     "id": 2742985,
     "title": "How Running A Business Changes The Way You Think",
     "url": "http://www.kalzumeus.com/2011/07/08/business-psychology/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 477,
+    "by": "JacobAldridge",
+    "descendants": 98,
+    "time": 1310140900
   }
 ]

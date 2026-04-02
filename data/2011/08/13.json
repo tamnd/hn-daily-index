@@ -4,99 +4,99 @@
     "id": 2876612,
     "title": "The Shapes of CSS",
     "url": "http://css-tricks.com/examples/ShapesOfCSS/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "tilt",
+    "descendants": 37,
+    "time": 1313142407
   },
   {
     "rank": 2,
     "id": 2877026,
     "title": "Algorithms to enhance or transform images",
     "url": "http://www.scriptol.com/programming/graphic-algorithms.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "scriptproof",
+    "descendants": 38,
+    "time": 1313153308
   },
   {
     "rank": 3,
     "id": 2878118,
     "title": "Welcome to the Cloud - \"Your Apple ID has been disabled.\"",
     "url": "http://www.hanselman.com/blog/WelcomeToTheCloudYourAppleIDHasBeenDisabled.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "darrenkopp",
+    "descendants": 100,
+    "time": 1313168851
   },
   {
     "rank": 4,
     "id": 2878799,
     "title": "PicPlum (YC S11): Beautiful Prints, Automatically Mailed for You",
     "url": "http://techcrunch.com/2011/08/12/yc-funded-picplum-beautiful-prints-automatically-mailed-for-you/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "canistr",
+    "descendants": 49,
+    "time": 1313176817
   },
   {
     "rank": 5,
     "id": 2879513,
     "title": "MobileWorks (YC S11) is a Hands-Off Mechanical Turk",
     "url": "http://techcrunch.com/2011/08/12/yc-funded-mobileworks-aims-to-be-a-hands-off-mechanical-turk/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 151,
+    "by": "anandkulkarni",
+    "descendants": 48,
+    "time": 1313188090
   },
   {
     "rank": 6,
     "id": 2879819,
     "title": "Leaked AT&T Letter Demolishes Case For T-Mobile Merger",
     "url": "http://www.broadbandreports.com/shownews/Leaked-ATT-Letter-Demolishes-Case-For-TMobile-Merger-115652",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "rosser",
+    "descendants": 41,
+    "time": 1313195458
   },
   {
     "rank": 7,
     "id": 2879895,
     "title": "YC-backed digital publisher looking for an early backend engineer",
     "url": "http://news.ycombinator.com/item?id=2879895",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "kevingao1",
     "descendants": 0,
-    "time": 0
+    "time": 1313197587
   },
   {
     "rank": 8,
     "id": 2880016,
     "title": "C++ 11 Approved",
     "url": "http://herbsutter.com/2011/08/12/we-have-an-international-standard-c0x-is-unanimously-approved/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "feydr",
+    "descendants": 71,
+    "time": 1313201547
   },
   {
     "rank": 9,
     "id": 2880697,
     "title": "[Jobs] Interviewstreet (YC S11) looking for marketing geeks",
     "url": "http://news.ycombinator.com/item?id=2880697",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "rvivek",
     "descendants": 0,
-    "time": 0
+    "time": 1313229811
   },
   {
     "rank": 10,
     "id": 2880800,
     "title": "Command line tools for web developers",
     "url": "http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "coderholic",
+    "descendants": 68,
+    "time": 1313236492
   }
 ]

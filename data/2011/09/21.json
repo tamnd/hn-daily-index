@@ -4,99 +4,99 @@
     "id": 3019729,
     "title": "Running a startup on Haskell",
     "url": "http://bos.github.com/strange-loop-2011/talk/talk.html#(1)",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "DanielRibeiro",
+    "descendants": 70,
+    "time": 1316555059
   },
   {
     "rank": 2,
     "id": 3019869,
     "title": "Wikileaks Takes Down the Head of Al Jazeera",
     "url": "http://www.readwriteweb.com/archives/wikileaks_takes_down_the_head_of_al_jazeera.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "mwilcox",
+    "descendants": 60,
+    "time": 1316557823
   },
   {
     "rank": 3,
     "id": 3020280,
     "title": "Parse (S11) is hiring engineers.",
     "url": "http://news.ycombinator.com/item?id=3020280",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "csmajorfive",
     "descendants": 0,
-    "time": 0
+    "time": 1316566603
   },
   {
     "rank": 4,
     "id": 3020459,
     "title": "Windows 8 OEM specs may block Linux booting",
     "url": "http://www.itworld.com/it-managementstrategy/205255/windows-8-oem-specs-may-block-linux-booting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "ramen",
+    "descendants": 139,
+    "time": 1316571722
   },
   {
     "rank": 5,
     "id": 3022224,
     "title": "Why do Windows functions all begin with a pointless MOV EDI, EDI instruction?",
     "url": "http://blogs.msdn.com/b/oldnewthing/archive/2011/09/21/10214405.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "cabacon",
+    "descendants": 43,
+    "time": 1316616992
   },
   {
     "rank": 6,
     "id": 3022366,
     "title": "Betty Weissman (mother of edw519) 1930-2011",
     "url": "http://edweissman.com/betty-weissman-1930-2011",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "edw519",
+    "descendants": 65,
+    "time": 1316619103
   },
   {
     "rank": 7,
     "id": 3022479,
     "title": "Very cool, but very creepy, open source project",
     "url": "http://www.notcot.org/post/43233/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "monochromatic",
+    "descendants": 75,
+    "time": 1316620684
   },
   {
     "rank": 8,
     "id": 3022537,
     "title": "A First Look at BankSimple",
     "url": "http://banksimple.com/blog/BankSimple/a-first-look-at-BankSimple/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 477,
+    "by": "ahhrrr",
+    "descendants": 189,
+    "time": 1316621662
   },
   {
     "rank": 9,
     "id": 3022883,
     "title": "Comprehend Systems (YC W11) hiring frontend and backend engineers",
     "url": "http://news.ycombinator.com/item?id=3022883",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "rmorrison",
     "descendants": 0,
-    "time": 0
+    "time": 1316625863
   },
   {
     "rank": 10,
     "id": 3023723,
     "title": "Love startups but not a developer? We need tenacious biz dev individuals!",
     "url": "http://news.ycombinator.com/item?id=3023723",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "brian_campbell",
     "descendants": 0,
-    "time": 0
+    "time": 1316639682
   }
 ]

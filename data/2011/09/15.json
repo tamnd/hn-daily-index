@@ -4,99 +4,99 @@
     "id": 2996618,
     "title": "David Kadavy's \"Design for Hackers\" now on Amazon",
     "url": "http://www.amazon.com/dp/1119998956",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "tsycho",
+    "descendants": 62,
+    "time": 1316014457
   },
   {
     "rank": 2,
     "id": 2997952,
     "title": "JavaScript is Not Web Assembly",
     "url": "http://blog.izs.me/post/10213512387/javascript-is-not-web-assembly",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "jashkenas",
+    "descendants": 83,
+    "time": 1316036074
   },
   {
     "rank": 3,
     "id": 2998180,
     "title": "Metro",
     "url": "http://daringfireball.net/2011/09/metro",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "aaronbrethorst",
+    "descendants": 158,
+    "time": 1316040857
   },
   {
     "rank": 4,
     "id": 2998591,
     "title": "TinyProj connects developers, designers, etc. with paid, short-term projects.",
     "url": "http://kylewritescode.com/post/10224111214/i-just-launched-tinyproj-the-latest-in-my-line-of",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "jmonegro",
+    "descendants": 76,
+    "time": 1316051594
   },
   {
     "rank": 5,
     "id": 2999096,
     "title": "Microsoft has Abandoned Silverlight and All Other Plugins",
     "url": "http://www.infoq.com/news/2011/09/Metro-Plug-ins",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "bleakgadfly",
+    "descendants": 194,
+    "time": 1316068066
   },
   {
     "rank": 6,
     "id": 3000102,
     "title": "37signals.com - Evolution of a homepage",
     "url": "http://37signals.com/svn/posts/3007-37signalscom-homepage-evolution",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "wlll",
+    "descendants": 22,
+    "time": 1316091639
   },
   {
     "rank": 7,
     "id": 3000200,
     "title": "From $0-100million with no sales people. Atlassian's commandments for startups.",
     "url": "http://blog.businessofsoftware.org/2011/09/from-0-100million-with-no-sales-people-the-atlassian-10-commandments-for-startups.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 166,
+    "by": "joshuacc",
+    "descendants": 112,
+    "time": 1316093283
   },
   {
     "rank": 8,
     "id": 3001153,
     "title": "Remembering a relationship, one chat at a time",
     "url": "http://www.good.is/post/chat-history/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "danso",
+    "descendants": 68,
+    "time": 1316106631
   },
   {
     "rank": 9,
     "id": 3001371,
     "title": "Facebook and Heroku",
     "url": "http://blog.heroku.com/archives/2011/9/15/facebook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "briandoll",
+    "descendants": 61,
+    "time": 1316110113
   },
   {
     "rank": 10,
     "id": 3002344,
     "title": "MobileWorks (YCS11) is Hiring (San Francisco/Berkeley)  ",
     "url": "http://news.ycombinator.com/item?id=3002344",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "prayag",
     "descendants": 0,
-    "time": 0
+    "time": 1316124825
   }
 ]

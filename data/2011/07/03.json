@@ -4,99 +4,99 @@
     "id": 2721868,
     "title": "Pure CSS GUI icons (experimental)",
     "url": "http://nicolasgallagher.com/pure-css-gui-icons/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 127,
+    "by": "tswicegood",
+    "descendants": 28,
+    "time": 1309624843
   },
   {
     "rank": 2,
     "id": 2721886,
     "title": "Hemingway, Hounded by the Feds",
     "url": "http://www.nytimes.com/2011/07/02/opinion/02hotchner.html?_r=1&pagewanted=print",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "metaprinter",
+    "descendants": 49,
+    "time": 1309625500
   },
   {
     "rank": 3,
     "id": 2722147,
     "title": "The 44 Chromosome Man",
     "url": "http://www.thetech.org/genetics/news.php?id=124",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 134,
+    "by": "russell",
+    "descendants": 32,
+    "time": 1309631723
   },
   {
     "rank": 4,
     "id": 2722325,
     "title": "Tom Anderson: Google+ makes Google a better, more integrated set of services",
     "url": "https://plus.google.com/112063946124358686266/posts/SrQrSSXeViq",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "genericone",
+    "descendants": 63,
+    "time": 1309637262
   },
   {
     "rank": 5,
     "id": 2722549,
     "title": "Web Intents - the future of web apps",
     "url": "http://paul.kinlan.me/web-intents-a-fresh-look",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "kinlan",
+    "descendants": 39,
+    "time": 1309644705
   },
   {
     "rank": 6,
     "id": 2722790,
     "title": "Introduction to Computer Science with Python [pdf]",
     "url": "http://mit.edu/6.01/mercurial/spring11/www/handouts/readings.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "wicknicks",
+    "descendants": 5,
+    "time": 1309655420
   },
   {
     "rank": 7,
     "id": 2722833,
     "title": "Learn C The Hard Way",
     "url": "http://learncodethehardway.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "mcantelon",
+    "descendants": 246,
+    "time": 1309658100
   },
   {
     "rank": 8,
     "id": 2723089,
     "title": "TrueCrypt Discrepancy",
     "url": "http://16s.us/TCHunt/discrepancy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 150,
+    "by": "16s",
+    "descendants": 47,
+    "time": 1309667969
   },
   {
     "rank": 9,
     "id": 2723675,
     "title": "Thorium nuclear reactors: a possible solution of the energy crisis? (video)",
     "url": "http://www.youtube.com/watch?v=5LeM-Dyuk6g",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "japaget",
+    "descendants": 102,
+    "time": 1309700855
   },
   {
     "rank": 10,
     "id": 2724488,
     "title": "Nobody Understands REST or HTTP",
     "url": "http://blog.steveklabnik.com/2011/07/03/nobody-understands-rest-or-http.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "dermatthias",
+    "descendants": 133,
+    "time": 1309724116
   }
 ]

@@ -4,99 +4,99 @@
     "id": 2857214,
     "title": "Some People Understand REST and HTTP",
     "url": "http://blog.steveklabnik.com/2011/08/07/some-people-understand-rest-and-http.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "llambda",
+    "descendants": 56,
+    "time": 1312739599
   },
   {
     "rank": 2,
     "id": 2857422,
     "title": "The demise of the low level programmer",
     "url": "http://altdevblogaday.com/2011/08/06/demise-low-level-programmer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "dr_art",
+    "descendants": 65,
+    "time": 1312743621
   },
   {
     "rank": 3,
     "id": 2857753,
     "title": "Lessons from a Design Legend (a before-and-after)",
     "url": "http://www.giftrocket.com/blog/design-tips-from-a-master",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "kapilkale",
+    "descendants": 47,
+    "time": 1312751721
   },
   {
     "rank": 4,
     "id": 2858668,
     "title": "Anonymous hijacks Syria's government pages",
     "url": "http://mod.gov.sy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "jimmyjim",
+    "descendants": 47,
+    "time": 1312775266
   },
   {
     "rank": 5,
     "id": 2859182,
     "title": "Retiring a Great Interview Problem",
     "url": "http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 173,
+    "by": "dtunkelang",
+    "descendants": 117,
+    "time": 1312789453
   },
   {
     "rank": 6,
     "id": 2859234,
     "title": "The Definitive Guide To Website Authentication",
     "url": "http://stackoverflow.com/questions/549/the-definitive-guide-to-website-authentication/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "moonlighter",
+    "descendants": 54,
+    "time": 1312791229
   },
   {
     "rank": 7,
     "id": 2859546,
     "title": "Redesigning the browser window",
     "url": "http://blogg.antrop.se/interaktionsdesign/redesigning-the-browser-window/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "Oestrogen",
+    "descendants": 96,
+    "time": 1312800597
   },
   {
     "rank": 8,
     "id": 2860759,
     "title": "Why GNU grep is fast",
     "url": "http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "ColinWright",
+    "descendants": 43,
+    "time": 1312823644
   },
   {
     "rank": 9,
     "id": 2860956,
     "title": "Kicksend (YC S11) Launches To Make Sharing Big Files A Breeze",
     "url": "http://techcrunch.com/2011/08/08/y-combinator-backed-kicksend-launches-in-beta-to-make-sharing-big-files-a-breeze/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "brendanlim",
+    "descendants": 74,
+    "time": 1312826495
   },
   {
     "rank": 10,
     "id": 2861352,
     "title": "YC S11 Company Seeks Front-End Hacker",
     "url": "http://news.ycombinator.com/item?id=2861352",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "workingBen",
     "descendants": 0,
-    "time": 0
+    "time": 1312833358
   }
 ]

@@ -4,90 +4,90 @@
     "id": 2880875,
     "title": "Silence: Because I talked so rarely, people took the time to listen to me",
     "url": "http://swombat.com/2011/8/13/silence",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "joshuacc",
+    "descendants": 59,
+    "time": 1313240388
   },
   {
     "rank": 2,
     "id": 2881455,
     "title": "The Sad Reality of Post-Mature Optimization",
     "url": "http://blog.yafla.com/The_Sad_Reality_of_PostMature_Optimization/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "p4bl0",
+    "descendants": 62,
+    "time": 1313256767
   },
   {
     "rank": 3,
     "id": 2882070,
     "title": "Hyperpolyglot: PHP, Perl, Python, Ruby",
     "url": "http://hyperpolyglot.org/scripting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "tathagatadg",
+    "descendants": 54,
+    "time": 1313271474
   },
   {
     "rank": 4,
     "id": 2882301,
     "title": "Requests: HTTP for Humans",
     "url": "http://docs.python-requests.org/en/latest/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "DanielRibeiro",
+    "descendants": 66,
+    "time": 1313278704
   },
   {
     "rank": 5,
     "id": 2882356,
     "title": "Ask HN: How can I do something meaningful?",
     "url": "http://news.ycombinator.com/item?id=2882356",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "DotOrg",
+    "descendants": 152,
+    "time": 1313280706
   },
   {
     "rank": 6,
     "id": 2882399,
     "title": "2005 Zuckerberg Didn't Want To Take On The World",
     "url": "http://techcrunch.com/2011/08/13/2005-zuckerberg-didnt-want-to-take-over-the-world/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 140,
+    "by": "JJMalina",
+    "descendants": 49,
+    "time": 1313281944
   },
   {
     "rank": 7,
     "id": 2883651,
     "title": "The quick website launch checklist",
     "url": "http://newsletter.agiliq.com/the-quick-website-launch-checklist",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "shabda",
+    "descendants": 44,
+    "time": 1313330233
   },
   {
     "rank": 8,
     "id": 2883868,
     "title": "Perlis Languages",
     "url": "http://blog.fogus.me/2011/08/14/perlis-languages/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "pepijndevos",
+    "descendants": 35,
+    "time": 1313337927
   },
   {
     "rank": 9,
     "id": 2884141,
     "title": "WebGL Water Simulation",
     "url": "http://madebyevan.com/webgl-water/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "devongovett",
+    "descendants": 85,
+    "time": 1313347076
   },
   {
     "rank": 10,
@@ -97,6 +97,6 @@
     "score": 0,
     "by": "",
     "descendants": 0,
-    "time": 0
+    "time": 1313353379
   }
 ]

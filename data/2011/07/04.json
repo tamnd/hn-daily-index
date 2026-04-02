@@ -4,99 +4,99 @@
     "id": 2724436,
     "title": "Once Greece goes...",
     "url": "http://www.lrb.co.uk/2011/06/30/john-lanchester/once-greece-goes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "andrewcooke",
+    "descendants": 194,
+    "time": 1309722666
   },
   {
     "rank": 2,
     "id": 2725015,
     "title": "What every programmer should know about time",
     "url": "http://unix4lyfe.org/time/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "enneff",
+    "descendants": 126,
+    "time": 1309741319
   },
   {
     "rank": 3,
     "id": 2725060,
     "title": "Illustrated Calculus Textbook",
     "url": "http://www.math.upenn.edu/~ghrist/FLCT/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 131,
+    "by": "iwwr",
+    "descendants": 35,
+    "time": 1309742849
   },
   {
     "rank": 4,
     "id": 2725547,
     "title": "Google just launched prizes.org",
     "url": "http://www.prizes.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "adora",
+    "descendants": 86,
+    "time": 1309759079
   },
   {
     "rank": 5,
     "id": 2725983,
     "title": "Google made my son cry",
     "url": "http://www.sunpig.com/martin/archives/2011/07/03/google-made-my-son-cry.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 583,
+    "by": "rostayob",
+    "descendants": 265,
+    "time": 1309772333
   },
   {
     "rank": 6,
     "id": 2726243,
     "title": "Very clever story telling using HTML and Javascript...",
     "url": "http://hobolobo.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "dclaysmith",
+    "descendants": 28,
+    "time": 1309780010
   },
   {
     "rank": 7,
     "id": 2726673,
     "title": "Twitter Shifting More Code to JVM, Citing Performance and Encapsulation",
     "url": "http://www.infoq.com/articles/twitter-java-use",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "colin_jack",
+    "descendants": 86,
+    "time": 1309791057
   },
   {
     "rank": 8,
     "id": 2726763,
     "title": "The Capacitive Button Cult Must Be Stopped",
     "url": "http://ignorethecode.net/blog/2011/07/04/the_capacitive_button_cult_must_be_stopped/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IgnoreTheCode+%28ignore+the+code%29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 166,
+    "by": "ddagradi",
+    "descendants": 113,
+    "time": 1309792965
   },
   {
     "rank": 9,
     "id": 2727123,
     "title": "Hover.com: we store & email passwords in plaintext for usability",
     "url": "http://help.hover.com/2011/04/21/feedback-fuels-features-what-we-have-coming-up/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "MattHampel",
+    "descendants": 185,
+    "time": 1309800124
   },
   {
     "rank": 10,
     "id": 2727463,
     "title": "Google Loses Access to Twitter Stream, Suspends Realtime Search",
     "url": "http://mashable.com/2011/07/04/google-realtime-search-suspended/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "tilt",
+    "descendants": 50,
+    "time": 1309806148
   }
 ]

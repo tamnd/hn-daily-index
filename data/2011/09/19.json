@@ -4,99 +4,99 @@
     "id": 3010970,
     "title": "Show HN: Kerning.js \u2014 Take control of your web typography",
     "url": "http://endtwist.github.com/kerning.js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 154,
+    "by": "endtwist",
+    "descendants": 30,
+    "time": 1316372374
   },
   {
     "rank": 2,
     "id": 3011947,
     "title": "SSH Tricks",
     "url": "http://tychoish.com/rhizome/9-awesome-ssh-tricks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "ahalan",
+    "descendants": 59,
+    "time": 1316398412
   },
   {
     "rank": 3,
     "id": 3012214,
     "title": "Netflix Splits DVD And Streaming Businesses",
     "url": "http://techcrunch.com/2011/09/18/netflix-qwikster/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "ssclafani",
+    "descendants": 197,
+    "time": 1316405796
   },
   {
     "rank": 4,
     "id": 3012427,
     "title": "Greedy Register Allocation in LLVM 3.0",
     "url": "http://blog.llvm.org/2011/09/greedy-register-allocation-in-llvm-30.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "daniel02216",
+    "descendants": 9,
+    "time": 1316410468
   },
   {
     "rank": 5,
     "id": 3012489,
     "title": "Mining of Massive Datasets ",
     "url": "http://infolab.stanford.edu/~ullman/mmds.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "rajesht",
+    "descendants": 11,
+    "time": 1316411807
   },
   {
     "rank": 6,
     "id": 3012764,
     "title": "Don't make my eyes bleed: a rant about business plans by Neil Davidson",
     "url": "http://www.neildavidson.com/dontmakemyeyesbleed.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "revorad",
+    "descendants": 37,
+    "time": 1316420632
   },
   {
     "rank": 7,
     "id": 3013654,
     "title": "A resume template in TeX",
     "url": "http://github.com/sc932/resume",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "Zephyr314",
+    "descendants": 87,
+    "time": 1316442390
   },
   {
     "rank": 8,
     "id": 3013752,
     "title": "Bootstrapping a $30k profit/month company from our internship earnings (Part 4)",
     "url": "http://blog.fiplab.com/70617419",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 163,
+    "by": "n9com",
+    "descendants": 20,
+    "time": 1316443842
   },
   {
     "rank": 9,
     "id": 3014039,
     "title": "Twitter's Storm (complex event processing system) is now open source",
     "url": "https://github.com/nathanmarz/storm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "harrigan",
+    "descendants": 56,
+    "time": 1316448119
   },
   {
     "rank": 10,
     "id": 3015400,
     "title": "Five Stars (YC W11) has really challenging technology problems.",
     "url": "http://news.ycombinator.com/item?id=3015400",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "jingsong",
     "descendants": 0,
-    "time": 0
+    "time": 1316469807
   }
 ]

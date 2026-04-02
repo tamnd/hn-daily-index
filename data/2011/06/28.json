@@ -4,90 +4,90 @@
     "id": 2703465,
     "title": "Looking for designer number 1",
     "url": "http://news.ycombinator.com/item?id=2703465",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "arram",
     "descendants": 0,
-    "time": 0
+    "time": 1309219297
   },
   {
     "rank": 2,
     "id": 2704359,
     "title": "Groupon leaks entire Indian user database",
     "url": "http://risky.biz/sosasta",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "Garbage",
+    "descendants": 90,
+    "time": 1309244461
   },
   {
     "rank": 3,
     "id": 2705440,
     "title": "How (not) to sell your iOS app",
     "url": "http://stoicjesterstudios.com/2011/06/iphone-app-marketing-mistakes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "thestoicjester",
+    "descendants": 95,
+    "time": 1309270426
   },
   {
     "rank": 4,
     "id": 2705475,
     "title": "How to take advantage of Redis just adding it to your stack",
     "url": "http://antirez.com/post/take-advantage-of-redis-adding-it-to-your-stack.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "antirez",
+    "descendants": 53,
+    "time": 1309270968
   },
   {
     "rank": 5,
     "id": 2705918,
     "title": "Swiffy: convert SWF files to HTML5",
     "url": "http://googlecode.blogspot.com/2011/06/swiffy-convert-swf-files-to-html5.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "Robin_Message",
+    "descendants": 71,
+    "time": 1309277198
   },
   {
     "rank": 6,
     "id": 2706214,
     "title": "Google Reveals Its Stealth Social Project, Google+",
     "url": "http://mashable.com/2011/06/28/google-plus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 526,
+    "by": "bproper",
+    "descendants": 339,
+    "time": 1309281189
   },
   {
     "rank": 7,
     "id": 2706219,
     "title": "Google+ Project: It\u2019s Social, It\u2019s Bold, It\u2019s Fun, And It Looks Good",
     "url": "http://techcrunch.com/2011/06/28/google-plus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "philipDS",
+    "descendants": 78,
+    "time": 1309281309
   },
   {
     "rank": 8,
     "id": 2706369,
     "title": "Google+ Demo",
     "url": "http://www.google.com/intl/en/+/demo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "cskau",
+    "descendants": 76,
+    "time": 1309283295
   },
   {
     "rank": 9,
     "id": 2707089,
     "title": "Designing GitHub for Mac",
     "url": "http://warpspire.com/posts/designing-github-mac/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "rtomayko",
+    "descendants": 76,
+    "time": 1309292096
   },
   {
     "rank": 10,
@@ -97,6 +97,6 @@
     "score": 0,
     "by": "",
     "descendants": 0,
-    "time": 0
+    "time": 1309302866
   }
 ]

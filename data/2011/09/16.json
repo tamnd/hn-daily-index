@@ -4,20 +4,20 @@
     "id": 3002117,
     "title": "Show HN: Hacker News Mobile - A fast and readable mobile HN website",
     "url": "http://hn.gethifi.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "JoelSutherland",
+    "descendants": 58,
+    "time": 1316120452
   },
   {
     "rank": 2,
     "id": 3002679,
     "title": "Break Google",
     "url": "http://www.mahdiyusuf.com/post/10246392773/break-google-search",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "volksman",
+    "descendants": 87,
+    "time": 1316133901
   },
   {
     "rank": 3,
@@ -27,76 +27,76 @@
     "score": 0,
     "by": "",
     "descendants": 0,
-    "time": 0
+    "time": 1316137077
   },
   {
     "rank": 4,
     "id": 3003750,
     "title": "SingleHop Are Cheats",
     "url": "http://charlie.bz/articles/singlehop_are_cheats.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "charliesome",
+    "descendants": 50,
+    "time": 1316164604
   },
   {
     "rank": 5,
     "id": 3004080,
     "title": "What's wrong with this code, really?",
     "url": "http://cvmountain.com/2011/09/whats-wrong-with-this-code-really/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "KiwiCoder",
+    "descendants": 196,
+    "time": 1316173997
   },
   {
     "rank": 6,
     "id": 3004674,
     "title": "Sony to ban gamers from PSN unless they waive right sue over security breaches.",
     "url": "http://www.bbc.co.uk/news/technology-14948701",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "sambeau",
+    "descendants": 102,
+    "time": 1316185170
   },
   {
     "rank": 7,
     "id": 3005365,
     "title": "Be Careful when Speaking to Federal Agents - 18 U.S.C. Section 1001",
     "url": "http://library.findlaw.com/2004/May/11/147945.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "conover",
+    "descendants": 176,
+    "time": 1316193826
   },
   {
     "rank": 8,
     "id": 3005519,
     "title": "PageLever is hiring Ruby developers ",
     "url": "http://news.ycombinator.com/item?id=3005519",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "wdavidturner",
     "descendants": 0,
-    "time": 0
+    "time": 1316195876
   },
   {
     "rank": 9,
     "id": 3005832,
     "title": "Opening *.txt file is dangerous on Windows",
     "url": "http://technet.microsoft.com/en-us/security/bulletin/ms11-071",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "gaika",
+    "descendants": 46,
+    "time": 1316200213
   },
   {
     "rank": 10,
     "id": 3006394,
     "title": "Love startups but not a developer? We need tenacious biz dev individuals!",
     "url": "http://news.ycombinator.com/item?id=3006394",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "brian_campbell",
     "descendants": 0,
-    "time": 0
+    "time": 1316208472
   }
 ]

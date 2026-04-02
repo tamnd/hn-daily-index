@@ -4,99 +4,99 @@
     "id": 2745597,
     "title": "Steve Jobs isn\u2019t our Dad",
     "url": "http://blog.getjar.com/developer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 135,
+    "by": "bakbak",
+    "descendants": 45,
+    "time": 1310220528
   },
   {
     "rank": 2,
     "id": 2745606,
     "title": "Stanford's CS 101 course uses Javascript",
     "url": "http://www.stanford.edu/class/cs101/cs101-demo.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 139,
+    "by": "sshrin",
+    "descendants": 48,
+    "time": 1310220868
   },
   {
     "rank": 3,
     "id": 2745773,
     "title": "Rule of Consulting: You can\u2019t stop people from sticking beans up their nose",
     "url": "http://www.uie.com/brainsparks/2011/07/08/beans-and-noses/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "joshuacc",
+    "descendants": 44,
+    "time": 1310227167
   },
   {
     "rank": 4,
     "id": 2746197,
     "title": "China: High GDP, 64 million empty apartments.",
     "url": "http://www.youtube.com/watch?v=rPILhiTJv7E",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 140,
+    "by": "zacharyvoase",
+    "descendants": 77,
+    "time": 1310240087
   },
   {
     "rank": 5,
     "id": 2746360,
     "title": "\"Yes, but what are your credentials, Mr Stross?\"",
     "url": "http://www.antipope.org/charlie/blog-static/2011/07/yes-but-what-are-your-credenti.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "pavel_lishin",
+    "descendants": 93,
+    "time": 1310245818
   },
   {
     "rank": 6,
     "id": 2746449,
     "title": "Three Little Circles",
     "url": "http://mbostock.github.com/d3/tutorial/circle.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "jashmenn",
+    "descendants": 14,
+    "time": 1310249662
   },
   {
     "rank": 7,
     "id": 2746698,
     "title": "Go Rocks - How Can We Avoid Something This Bad In The Future?",
     "url": "http://acooke.org/cute/GoRocksHow0.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "andrewcooke",
+    "descendants": 63,
+    "time": 1310257974
   },
   {
     "rank": 8,
     "id": 2746864,
     "title": "What technologies are under your site",
     "url": "http://underthesite.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "suyash",
+    "descendants": 87,
+    "time": 1310265125
   },
   {
     "rank": 9,
     "id": 2747349,
     "title": "Console.fm - New social music site",
     "url": "http://console.fm",
-    "score": 0,
-    "by": "",
+    "score": 141,
+    "by": "r4vik",
     "descendants": 0,
-    "time": 0
+    "time": 1310287156
   },
   {
     "rank": 10,
     "id": 2747450,
     "title": "The Node Beginner Book, an introduction to Node.js, is now complete",
     "url": "http://nodebeginner.org/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "ManuelKiessling",
+    "descendants": 25,
+    "time": 1310292011
   }
 ]

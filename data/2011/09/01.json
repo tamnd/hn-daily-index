@@ -4,99 +4,99 @@
     "id": 2945513,
     "title": "Now that people are considering NOSQL will more people consider no-DB",
     "url": "http://martinfowler.com/bliki/MemoryImage.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "fogus",
+    "descendants": 140,
+    "time": 1314798760
   },
   {
     "rank": 2,
     "id": 2946911,
     "title": "My Neighbor, Steve Jobs",
     "url": "http://lisenstromberg.wordpress.com/2011/08/29/my-neighbor-steve-jobs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "ryanwhitney",
+    "descendants": 44,
+    "time": 1314815782
   },
   {
     "rank": 3,
     "id": 2947477,
     "title": "Google App Engine leaves preview, new pricing",
     "url": "http://www.google.com/enterprise/cloud/appengine/pricing.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "endlessvoid94",
+    "descendants": 129,
+    "time": 1314823507
   },
   {
     "rank": 4,
     "id": 2948873,
     "title": "You can't google 9999999..99999999999999999999999",
     "url": "http://www.google.com/search?q=9999999..99999999999999999999999",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "reg29",
+    "descendants": 80,
+    "time": 1314858875
   },
   {
     "rank": 5,
     "id": 2948998,
     "title": "Iran forged the wrong SSL certificate",
     "url": "http://www.daemonology.net/blog/2011-09-01-Iran-forged-the-wrong-SSL-certificate.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "cperciva",
+    "descendants": 108,
+    "time": 1314862210
   },
   {
     "rank": 6,
     "id": 2949323,
     "title": "First employee of startup? You are probably getting screwed",
     "url": "http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "Murkin",
+    "descendants": 198,
+    "time": 1314870786
   },
   {
     "rank": 7,
     "id": 2949543,
     "title": "Why Developers Never Use State Machines",
     "url": "http://www.skorks.com/2011/09/why-developers-never-use-state-machines/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "fogus",
+    "descendants": 92,
+    "time": 1314876822
   },
   {
     "rank": 8,
     "id": 2949787,
     "title": "Ask HN: Who is Hiring? (September 2011)",
     "url": "http://news.ycombinator.com/item?id=2949787",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "whoishiring",
+    "descendants": 232,
+    "time": 1314881749
   },
   {
     "rank": 9,
     "id": 2950545,
     "title": "Tilemill: Maps done right",
     "url": "http://tilemill.com/pages/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "will2live",
+    "descendants": 42,
+    "time": 1314892962
   },
   {
     "rank": 10,
     "id": 2950905,
     "title": "ZeroCater is looking for people to talk to restaurants.",
     "url": "http://news.ycombinator.com/item?id=2950905",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "abstractbill",
     "descendants": 0,
-    "time": 0
+    "time": 1314898068
   }
 ]

@@ -4,99 +4,99 @@
     "id": 2887906,
     "title": "YC NYC, September 26",
     "url": "http://ycnyc.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "pg",
+    "descendants": 94,
+    "time": 1313430579
   },
   {
     "rank": 2,
     "id": 2888820,
     "title": "You can list a directory containing 8 million files But not with ls.. ",
     "url": "http://www.olark.com/spw/2011/08/you-can-list-a-directory-with-8-million-files-but-not-with-ls/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "bcx",
+    "descendants": 89,
+    "time": 1313444088
   },
   {
     "rank": 3,
     "id": 2889527,
     "title": "Mixpanel: We're hiring and here's where we're at.",
     "url": "http://news.ycombinator.com/item?id=2889527",
-    "score": 0,
-    "by": "",
+    "score": 1,
+    "by": "suhail",
     "descendants": 0,
-    "time": 0
+    "time": 1313460713
   },
   {
     "rank": 4,
     "id": 2889675,
     "title": "Stanford Fall 2011 - Introduction to Databases",
     "url": "http://www.db-class.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "redouane",
+    "descendants": 44,
+    "time": 1313464444
   },
   {
     "rank": 5,
     "id": 2889725,
     "title": "Stanford Fall 2011 - Machine Learning",
     "url": "http://www.ml-class.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "redouane",
+    "descendants": 23,
+    "time": 1313465387
   },
   {
     "rank": 6,
     "id": 2890099,
     "title": "SpaceX to fly to International Space Station in November",
     "url": "http://hosted.ap.org/dynamic/stories/U/US_SCI_SPACEX_SPACE_STATION_?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-08-15-18-55-31",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "gibsonf1",
+    "descendants": 57,
+    "time": 1313475229
   },
   {
     "rank": 7,
     "id": 2890283,
     "title": "Stay away from This* (thiswebhost.com)",
     "url": "http://www.reddit.com/r/web_design/comments/jk195/stay_the_fuck_away_from_this_thiswebhostcom/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "laCour",
+    "descendants": 167,
+    "time": 1313481194
   },
   {
     "rank": 8,
     "id": 2891222,
     "title": "Stanford Offers 13 classes, including AI, for free",
     "url": "http://see.stanford.edu/see/courses.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "cpfohl",
+    "descendants": 55,
+    "time": 1313504239
   },
   {
     "rank": 9,
     "id": 2891418,
     "title": "SSH productivity tips",
     "url": "http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "bigiain",
+    "descendants": 65,
+    "time": 1313507128
   },
   {
     "rank": 10,
     "id": 2891907,
     "title": "Developer open-sources 200+ hr project after client refuses to pay",
     "url": "https://github.com/fredwu/angel_nest",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "audionerd",
+    "descendants": 131,
+    "time": 1313513797
   }
 ]
