@@ -2,6 +2,10 @@
 
 Top 10 Hacker News stories for each day in October 2010.
 
+- [2010-10-31 (Sunday)](#2010-10-31)
+- [2010-10-30 (Saturday)](#2010-10-30)
+- [2010-10-29 (Friday)](#2010-10-29)
+- [2010-10-28 (Thursday)](#2010-10-28)
 - [2010-10-27 (Wednesday)](#2010-10-27)
 - [2010-10-26 (Tuesday)](#2010-10-26)
 - [2010-10-25 (Monday)](#2010-10-25)
@@ -31,6 +35,66 @@ Top 10 Hacker News stories for each day in October 2010.
 - [2010-10-01 (Friday)](#2010-10-01)
 
 ---
+
+## 2010-10-31
+
+*Sunday*
+
+1. [Things Economists Agree On](http://gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html) (gregmankiw.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1849619)
+2. ["Dead Drops" is an anonymous, offline, p2p file-sharing network in public space](http://datenform.de/blog/dead-drops-preview/) (datenform.de) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1851088)
+3. [Just fucking figure it out](http://www.scriptmag.com/2010/10/29/primetime-juggling-writing-and-a-job-figure-it-out/) (scriptmag.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1851526)
+4. [Stephen King tells everything you need to know about writing in 10 minutes](http://www.greatwriting.co.uk/content/view/312/74/) (greatwriting.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1851957)
+5. [That mysterious J in emails](http://blogs.msdn.com/b/oldnewthing/archive/2006/05/23/604741.aspx) (blogs.msdn.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1852219)
+6. [Why the San Francisco Fire Dept manufactures their own wooden ladders (video)](http://devour.com/video/ladder-shop/) (devour.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1852400)
+7. [Tell HN: Uptick in mean-spirited comments](http://news.ycombinator.com/item?id=1852560) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1852560)
+8. [Are You A Pirate?](http://techcrunch.com/2010/10/31/are-you-a-pirate/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1852844)
+9. [Life and How to Survive It (2008)](http://mrwangsaysso.blogspot.com/2008/08/life-and-how-to-survive-it.html) (mrwangsaysso.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1852924)
+10. [Use Vim Like A Pro](http://tottinge.blogsome.com/use-vim-like-a-pro) (tottinge.blogsome.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1854044)
+
+## 2010-10-30
+
+*Saturday*
+
+1. [HTTP cookies, or how not to design protocols](http://lcamtuf.blogspot.com/2010/10/http-cookies-or-how-not-to-design.html) (lcamtuf.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1847269)
+2. [How I'm Bootstrapping a Startup While Raising Three Kids](http://www.codusoperandi.com/posts/bootstrapping-with-kids) (codusoperandi.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1847497)
+3. [The Mac App Store isn’t for today’s Mac developers](http://www.marco.org/1432156914) (marco.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1847608)
+4. [Ask HN: Anyone been acquired by Google who can talk about it?](http://news.ycombinator.com/item?id=1848227) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1848227)
+5. [For the First Time, the TSA Meets Resistance](http://www.theatlantic.com/national/archive/2010/10/for-the-first-time-the-tsa-meets-resistance/65390/) (theatlantic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1848622)
+6. [Gmail Creator Joins Facebook Co-Founder, Donates 100K To Legalize Marijuana](http://techcrunch.com/2010/10/29/marijuana/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1848680)
+7. [The quest for freedom and safety: Why I donated $100,000 to YesOn19](http://paulbuchheit.blogspot.com/2010/10/quest-for-freedom-and-safety-why-i.html) (paulbuchheit.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1849142)
+8. [Facebook Acquires Drop.io](http://blog.drop.io/2010/10/29/an-important-update-on-the-future-of-drop-io/) (blog.drop.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1849274)
+9. [U.S. Says Genes Should Not Be Eligible for Patents](http://www.nytimes.com/2010/10/30/business/30drug.html) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1850322)
+10. [My dalliance with smart drugs - and the lesson I learned](http://www.johannhari.com/2009/06/21/my-dalliance-with-smart-drugs-and-the-lesson-i-learned) (johannhari.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1850750)
+
+## 2010-10-29
+
+*Friday*
+
+1. [How to Create a Hit Sitcom](http://www.chucklorre.com/?p=writtenby) (chucklorre.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1842400)
+2. [Icing PayPal: How We Did It](http://blog.wepay.com/2010/10/icing-paypal-how-we-did-it/) (blog.wepay.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1843667)
+3. [Web page assignment leads to cease and desist letter. ](http://behind-the-enemy-lines.blogspot.com/2010/10/cease-and-desist.html) (behind-the-enemy-lines.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1844262)
+4. [A Hidden Genius at the Apple Store](http://duncandavidson.com/blog/2010/10/apple-store) (duncandavidson.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1844386)
+5. [Why ReadyForZero (YC S10) Started A Company to Eliminate Credit Card Debt](http://blog.readyforzero.com/2010/10/28/why-we-started-a-company-to-help-people-payoff-credit-card-debt/) (blog.readyforzero.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1844500)
+6. [Asynchrony in C# 5, Part One](http://blogs.msdn.com/b/ericlippert/archive/2010/10/28/asynchrony-in-c-5-part-one.aspx) (blogs.msdn.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1844578)
+7. [Herding Firesheep in a NYC Starbucks: Do Users Care?](http://technologysufficientlyadvanced.blogspot.com/2010/10/herding-firesheep-in-new-york-city.html) (technologysufficientlyadvanced.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1846303)
+8. [Damn you, Arduino...I have no free time for this.](http://ryanwaggoner.com/2010/10/damn-you-arduino-i-have-no-free-time-for-this/) (ryanwaggoner.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1847235)
+9. [Microsoft picks HTML5 over Silverlight for Internet apps](http://www.zdnet.com/blog/microsoft/microsoft-our-strategy-with-silverlight-has-shifted/7834) (zdnet.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1847804)
+10. [How Do You Stop Sea Captains From Killing Their Passengers?](http://www.npr.org/blogs/money/2010/09/09/129757852/pop-quiz-how-do-you-stop-sea-captains-from-killing-their-passengers) (npr.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1848278)
+
+## 2010-10-28
+
+*Thursday*
+
+1. [Ask HN: Visual Design for Hackers](http://news.ycombinator.com/item?id=1839022) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1839022)
+2. [Offer HN: Ex-Ivy League admission officer will review your college application](http://news.ycombinator.com/item?id=1839394) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1839394)
+3. [Mark Zuckerberg on What Hollywood Doesn't Get About Silicon Valley](http://www.foundersatwork.com/1/post/2010/10/mark-zuckerberg-on-what-hollywood-doesnt-get-about-silicon-valley.html) (foundersatwork.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1840043)
+4. [The Geocities Torrent (~1TB of awesomeness)](http://ascii.textfiles.com/archives/2720) (ascii.textfiles.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1840481)
+5. [The $105 Fix That Could Protect You From Copyright-Troll Lawsuits](http://www.wired.com/threatlevel/2010/10/dmca-righthaven-loophole/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Index+3+%28Top+Stories+2%29%29) (wired.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1840732)
+6. [My Favorite Engineering Interview Question](http://skife.org/interviews/design/2010/10/27/favorite-interview-question.html) (skife.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1840774)
+7. [A White iPhone 4 Is Confronted Regarding Its Inability to Be Shipped](http://daringfireball.net/2010/10/anthropomorphized_white_iphone_4) (daringfireball.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1841430)
+8. [How can you program if you're blind?](http://stackoverflow.com/q/118984/4872) (stackoverflow.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1842289)
+9. [Test driven development at Transloadit](http://debuggable.com/posts/test-driven-development-at-transloadit:4cc892a7-b9fc-4d65-bb0c-1b27cbdd56cb) (debuggable.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1842582)
+10. [John Carmack on government](http://media.armadilloaerospace.com/misc/government.htm) (media.armadilloaerospace.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=1843256)
 
 ## 2010-10-27
 
