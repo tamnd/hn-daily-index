@@ -4,99 +4,99 @@
     "id": 35557848,
     "title": "The early days of Linux",
     "url": "https://lwn.net/SubscriberLink/928581/841b747332791ac4/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1378,
+    "by": "Paul-Craft",
+    "descendants": 224,
+    "time": 1681402766
   },
   {
     "rank": 2,
     "id": 35559925,
     "title": "Elixir and Rust is a good mix",
     "url": "https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "rio517",
+    "descendants": 159,
+    "time": 1681410544
   },
   {
     "rank": 3,
     "id": 35561203,
     "title": "Animated Drawings",
     "url": "https://fairanimateddrawings.com/site/home",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 947,
+    "by": "jonbaer",
+    "descendants": 83,
+    "time": 1681415497
   },
   {
     "rank": 4,
     "id": 35561824,
     "title": "End-of-Life Dreams",
     "url": "https://www.commonwealmagazine.org/end-life-dreams",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "nopg",
+    "descendants": 185,
+    "time": 1681418766
   },
   {
     "rank": 5,
     "id": 35562430,
     "title": "SQL:2023 is finished: Here is what's new",
     "url": "http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "petalmind",
+    "descendants": 153,
+    "time": 1681421846
   },
   {
     "rank": 6,
     "id": 35565681,
     "title": "An open source AI tool to animate children's drawings",
     "url": "https://github.com/facebookresearch/AnimatedDrawings",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "snork_alt",
+    "descendants": 14,
+    "time": 1681448369
   },
   {
     "rank": 7,
     "id": 35566145,
     "title": "Temporal quality degradation in AI models",
     "url": "https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "santiviquez",
+    "descendants": 343,
+    "time": 1681453336
   },
   {
     "rank": 8,
     "id": 35567026,
     "title": "Largest island in a lake on an island in a lake on an island (2007)",
     "url": "https://www.elbruz.org/special-projects/islands-and-lakes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 654,
+    "by": "thunderbong",
+    "descendants": 272,
+    "time": 1681461508
   },
   {
     "rank": 9,
     "id": 35567822,
     "title": "Ask HN: Side project of more than $2k monthly revenue? what's your project?",
     "url": "https://news.ycombinator.com/item?id=35567822",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 530,
+    "by": "max_",
+    "descendants": 502,
+    "time": 1681468503
   },
   {
     "rank": 10,
     "id": 35571481,
     "title": "Spanish climber emerges after 500 days in cave",
     "url": "https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "colinprince",
+    "descendants": 251,
+    "time": 1681490114
   }
 ]

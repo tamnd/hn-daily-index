@@ -4,99 +4,99 @@
     "id": 35364383,
     "title": "AAD misconfiguration led to Bing.com results manipulation, account takeover",
     "url": "https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "alosch7",
+    "descendants": 106,
+    "time": 1680127121
   },
   {
     "rank": 2,
     "id": 35365399,
     "title": "Universal Speech Model",
     "url": "https://sites.research.google/usm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 542,
+    "by": "rzk",
+    "descendants": 198,
+    "time": 1680132452
   },
   {
     "rank": 3,
     "id": 35366955,
     "title": "TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]",
     "url": "https://www.youtube.com/watch?v=FWQGA_n5Z4M",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 912,
+    "by": "hitpointdrew",
+    "descendants": 448,
+    "time": 1680142643
   },
   {
     "rank": 4,
     "id": 35369075,
     "title": "The 'Insanely Broad' Restrict Act Could Ban Much More Than Just TikTok",
     "url": "https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "isaacfrond",
+    "descendants": 269,
+    "time": 1680159590
   },
   {
     "rank": 5,
     "id": 35370284,
     "title": "Show HN: StratusGFX, my open-source real-time 3D rendering engine",
     "url": "https://github.com/KTStephano/StratusGFX",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "ktstephano",
+    "descendants": 82,
+    "time": 1680170125
   },
   {
     "rank": 6,
     "id": 35370728,
     "title": "50% of new NPM packages are spam",
     "url": "https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "miohtama",
+    "descendants": 313,
+    "time": 1680173572
   },
   {
     "rank": 7,
     "id": 35370915,
     "title": "Google denies training Bard on ChatGPT chats from ShareGPT",
     "url": "https://twitter.com/steventey/status/1641267979399704576",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "chatmasta",
+    "descendants": 333,
+    "time": 1680174962
   },
   {
     "rank": 8,
     "id": 35371750,
     "title": "There's something off about LED bulbs",
     "url": "https://nymag.com/strategist/article/led-light-bulbs-investigation.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "brainfog",
+    "descendants": 942,
+    "time": 1680180141
   },
   {
     "rank": 9,
     "id": 35373019,
     "title": "Is Y Combinator worth the money? Brutally honest review of W22 batch experience",
     "url": "https://acecreamu.substack.com/p/is-y-combinator-worth-the-money",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 815,
+    "by": "acecreamu",
+    "descendants": 334,
+    "time": 1680185676
   },
   {
     "rank": 10,
     "id": 35373052,
     "title": "Scratch is the world\u2019s largest coding community for children",
     "url": "https://scratch.mit.edu/about",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 956,
+    "by": "khochesh_kushat",
+    "descendants": 331,
+    "time": 1680185826
   }
 ]

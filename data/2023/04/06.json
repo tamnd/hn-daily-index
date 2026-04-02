@@ -4,99 +4,99 @@
     "id": 35455770,
     "title": "Grid World",
     "url": "https://alex.miller.garden/grid-world/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 623,
+    "by": "tobr",
+    "descendants": 94,
+    "time": 1680708293
   },
   {
     "rank": 2,
     "id": 35456059,
     "title": "A trick to reaching flow: Leave your work broken",
     "url": "https://census.dev/blog/an-on-ramp-to-flow",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 572,
+    "by": "nate",
+    "descendants": 190,
+    "time": 1680709452
   },
   {
     "rank": 3,
     "id": 35459031,
     "title": "Neural Networks: Zero to Hero",
     "url": "https://karpathy.ai/zero-to-hero.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 642,
+    "by": "whereistimbo",
+    "descendants": 68,
+    "time": 1680721929
   },
   {
     "rank": 4,
     "id": 35459333,
     "title": "Programmer interrupted: The cost of interruption and context switching (2022)",
     "url": "https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 549,
+    "by": "jeron",
+    "descendants": 265,
+    "time": 1680723431
   },
   {
     "rank": 5,
     "id": 35460732,
     "title": "Dang is going to have 65,535 karma points soon",
     "url": "https://news.ycombinator.com/user?id=dang",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 600,
+    "by": "codetrotter",
+    "descendants": 399,
+    "time": 1680730735
   },
   {
     "rank": 6,
     "id": 35461011,
     "title": "The Bitcoin whitepaper is hidden in every copy of macOS",
     "url": "https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 844,
+    "by": "waxpancake",
+    "descendants": 426,
+    "time": 1680732218
   },
   {
     "rank": 7,
     "id": 35461596,
     "title": "I don't want streaming music, I just want to stream my music",
     "url": "https://coryd.dev/posts/2023/i-dont-want-streaming-music/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 537,
+    "by": "cdme",
+    "descendants": 407,
+    "time": 1680735258
   },
   {
     "rank": 8,
     "id": 35465729,
     "title": "Chrome ships WebGPU",
     "url": "https://developer.chrome.com/blog/webgpu-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 936,
+    "by": "itsuka",
+    "descendants": 398,
+    "time": 1680769340
   },
   {
     "rank": 9,
     "id": 35468753,
     "title": "If we lose the Internet Archive, we\u2019re screwed",
     "url": "https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1790,
+    "by": "raybb",
+    "descendants": 588,
+    "time": 1680791410
   },
   {
     "rank": 10,
     "id": 35471826,
     "title": "Tesla workers shared images from car cameras, including \u201cscenes of intimacy\u201d",
     "url": "https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "barbazoo",
+    "descendants": 4,
+    "time": 1680803214
   }
 ]

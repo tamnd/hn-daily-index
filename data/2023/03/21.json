@@ -4,99 +4,99 @@
     "id": 35239972,
     "title": "Run 100B+ language models at home, BitTorrent\u2011style",
     "url": "https://petals.ml/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 724,
+    "by": "srameshc",
+    "descendants": 193,
+    "time": 1679352603
   },
   {
     "rank": 2,
     "id": 35242193,
     "title": "Zero-1-to-3: Zero-shot One Image to 3D Object",
     "url": "https://zero123.cs.columbia.edu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 530,
+    "by": "GaggiX",
+    "descendants": 110,
+    "time": 1679369052
   },
   {
     "rank": 3,
     "id": 35243355,
     "title": "Web fingerprinting is worse than I thought",
     "url": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "Bright_Machine",
+    "descendants": 510,
+    "time": 1679383108
   },
   {
     "rank": 4,
     "id": 35246139,
     "title": "Adobe Firefly: AI Art Generator",
     "url": "https://www.adobe.com/sensei/generative-ai/firefly.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 908,
+    "by": "adrian_mrd",
+    "descendants": 483,
+    "time": 1679406958
   },
   {
     "rank": 5,
     "id": 35246260,
     "title": "Google Bard enters open beta",
     "url": "https://bard.google.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "tfsh",
+    "descendants": 388,
+    "time": 1679407480
   },
   {
     "rank": 6,
     "id": 35247242,
     "title": "MySQL for Developers",
     "url": "https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "AYBABTME",
+    "descendants": 113,
+    "time": 1679411111
   },
   {
     "rank": 7,
     "id": 35248098,
     "title": "So you've installed `fzf` \u2013 now what?",
     "url": "https://andrew-quinn.me/fzf/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1102,
+    "by": "hiAndrewQuinn",
+    "descendants": 285,
+    "time": 1679414494
   },
   {
     "rank": 8,
     "id": 35248296,
     "title": "DPReview.com to close",
     "url": "https://www.dpreview.com/news/5901145460/dpreview-com-to-close",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 845,
+    "by": "int_daniel",
+    "descendants": 374,
+    "time": 1679415298
   },
   {
     "rank": 9,
     "id": 35248517,
     "title": "uBlock Origin 1.48 adds readiness status, code viewer, and other fixes",
     "url": "https://github.com/gorhill/uBlock/releases/tag/1.48.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "rc00",
+    "descendants": 127,
+    "time": 1679416081
   },
   {
     "rank": 10,
     "id": 35250210,
     "title": "Typst, a new markup-based typesetting system, is now open source",
     "url": "https://github.com/typst/typst",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "reknih",
+    "descendants": 146,
+    "time": 1679422680
   }
 ]
