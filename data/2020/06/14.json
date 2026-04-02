@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 23511183,
+    "title": "SageMath \u2013 Open-Source Mathematical Software System",
+    "url": "https://www.sagemath.org/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 23512297,
+    "title": "Music Grid",
+    "url": "https://music-grid.surge.sh",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 23512897,
+    "title": "Fast 2D Rendering on GPU",
+    "url": "https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 23514682,
+    "title": "Show HN: Collected Notes \u2013 A note-taking blogging app I made",
+    "url": "https://collectednotes.com/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 23514686,
+    "title": "Readings in Database Systems, 5th Edition (2015)",
+    "url": "http://www.redbook.io/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 23515797,
+    "title": "Never Hertz to Ask",
+    "url": "https://alexdanco.com/2020/06/14/never-hertz-to-ask/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 23516088,
+    "title": "Google adds experimental setting to hide full URLs in Chrome 85 address bar",
+    "url": "https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 23517193,
+    "title": "Amazon added a non-compete after the employee entered the U.S. on an L1B visa",
+    "url": "https://twitter.com/dvassallo/status/1157729616259235840",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 23519439,
+    "title": "Show HN: My daughter and I made a site to explore the photos from the ISS",
+    "url": "https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0#",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 23520240,
+    "title": "Zsh and Fish\u2019s simple but clever trick for highlighting missing linefeeds",
+    "url": "https://www.vidarholen.net/contents/blog/?p=878",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
