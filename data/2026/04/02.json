@@ -4,7 +4,7 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 122,
+    "score": 123,
     "by": "bonzini",
     "descendants": 72,
     "time": 1775119724
@@ -14,7 +14,7 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 137,
+    "score": 139,
     "by": "novaRom",
     "descendants": 63,
     "time": 1775127000
@@ -41,30 +41,30 @@
   },
   {
     "rank": 5,
-    "id": 47613350,
-    "title": "Leaked IRGC manual shows systematic use of civilian sites as missile cover",
-    "url": "https://www.iranintl.com/en/202603319302",
-    "score": 5,
-    "by": "ukblewis",
-    "descendants": 1,
-    "time": 1775131835
-  },
-  {
-    "rank": 6,
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 12,
+    "score": 13,
     "by": "AbuAssar",
     "descendants": 1,
     "time": 1775127891
+  },
+  {
+    "rank": 6,
+    "id": 47613350,
+    "title": "Leaked IRGC manual shows systematic use of civilian sites as missile cover",
+    "url": "https://www.iranintl.com/en/202603319302",
+    "score": 6,
+    "by": "ukblewis",
+    "descendants": 1,
+    "time": 1775131835
   },
   {
     "rank": 7,
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 49,
+    "score": 50,
     "by": "stratos123",
     "descendants": 20,
     "time": 1775121258
@@ -84,7 +84,7 @@
     "id": 47613078,
     "title": "Inside Nepal's Fake Rescue Racket",
     "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 8,
+    "score": 9,
     "by": "lode",
     "descendants": 0,
     "time": 1775130041
