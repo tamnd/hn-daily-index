@@ -4,99 +4,99 @@
     "id": 21585774,
     "title": "The Firefox UI Is Now Built with Web Components",
     "url": "https://briangrinstead.com/blog/firefox-webcomponents/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 587,
+    "by": "joewalker",
+    "descendants": 253,
+    "time": 1574269631
   },
   {
     "rank": 2,
     "id": 21588101,
     "title": "Neural correlates of the DMT experience assessed with multivariate EEG",
     "url": "https://www.nature.com/articles/s41598-019-51974-4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "bookofjoe",
+    "descendants": 197,
+    "time": 1574281524
   },
   {
     "rank": 3,
     "id": 21588893,
     "title": "Myths Programmers Believe about CPU Caches (2018)",
     "url": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "noego",
+    "descendants": 119,
+    "time": 1574286280
   },
   {
     "rank": 4,
     "id": 21589647,
     "title": "Slack\u2019s new WYSIWYG input box is terrible",
     "url": "https://quuxplusone.github.io/blog/2019/11/20/slack-rich-text-box/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2776,
+    "by": "ingve",
+    "descendants": 1077,
+    "time": 1574291589
   },
   {
     "rank": 5,
     "id": 21591441,
     "title": "Developer Roadmaps",
     "url": "https://roadmap.sh/roadmaps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "dskrvk",
+    "descendants": 136,
+    "time": 1574310151
   },
   {
     "rank": 6,
     "id": 21591950,
     "title": "Disable new Slack WYSIWYG editor with this bookmarklet",
     "url": "https://github.com/kfahy/slack-disable-wysiwyg-bookmarklet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "akhaku",
+    "descendants": 108,
+    "time": 1574318757
   },
   {
     "rank": 7,
     "id": 21594596,
     "title": "Microsoft's \u201cLove\u201d of Linux",
     "url": "http://pedrocr.pt/text/microsofts-love-of-linux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "pedrocr",
+    "descendants": 408,
+    "time": 1574348103
   },
   {
     "rank": 8,
     "id": 21594793,
     "title": "1000fps image projection on deforming non-rigid surface",
     "url": "http://www.k2.t.u-tokyo.ac.jp/vision/DPM/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1306,
+    "by": "hongzi",
+    "descendants": 128,
+    "time": 1574349046
   },
   {
     "rank": 9,
     "id": 21596003,
     "title": "When will Google shut down Stadia?",
     "url": "http://stadiacountdown.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 824,
+    "by": "naeemnur",
+    "descendants": 638,
+    "time": 1574354500
   },
   {
     "rank": 10,
     "id": 21597585,
     "title": "Half-Life: Alyx",
     "url": "https://half-life.com/en/alyx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "arthurfm",
+    "descendants": 437,
+    "time": 1574361076
   }
 ]

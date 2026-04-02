@@ -4,99 +4,99 @@
     "id": 21429621,
     "title": "Shared Cache Is Going Away",
     "url": "https://www.jefftk.com/p/shared-cache-is-going-away",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "luu",
+    "descendants": 146,
+    "time": 1572723930
   },
   {
     "rank": 2,
     "id": 21429697,
     "title": "SSH Handshake Explained",
     "url": "https://gravitational.com/blog/ssh-handshake-explained/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "gk1",
+    "descendants": 15,
+    "time": 1572724709
   },
   {
     "rank": 3,
     "id": 21430157,
     "title": "NeverSSL",
     "url": "http://fdbhclmrkstnvwxz.neverssl.com/online",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "rahuldottech",
+    "descendants": 198,
+    "time": 1572729515
   },
   {
     "rank": 4,
     "id": 21430321,
     "title": "Build Your Own X",
     "url": "https://github.com/danistefanovic/build-your-own-x",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 867,
+    "by": "hakanderyal",
+    "descendants": 64,
+    "time": 1572731158
   },
   {
     "rank": 5,
     "id": 21430835,
     "title": "AMD is having its day",
     "url": "https://www.economist.com/business/2019/10/31/amd-a-chipmaking-underdog-is-having-its-day",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "jkuria",
+    "descendants": 262,
+    "time": 1572737053
   },
   {
     "rank": 6,
     "id": 21430997,
     "title": "Ubiquiti adds phone-home to the access point firmware",
     "url": "https://community.ui.com/questions/UI-official-urgent-please-answer/14259289-e4c3-4c5e-aaa0-02a5baa6cbbe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 593,
+    "by": "shantara",
+    "descendants": 270,
+    "time": 1572739195
   },
   {
     "rank": 7,
     "id": 21431023,
     "title": "'Alarming' loss of insects and spiders recorded",
     "url": "https://www.bbc.com/news/science-environment-50226367",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "ciconia",
+    "descendants": 148,
+    "time": 1572739459
   },
   {
     "rank": 8,
     "id": 21431071,
     "title": "Extract voice, piano, drums, etc. from any music track",
     "url": "https://github.com/deezer/spleeter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1460,
+    "by": "dsr12",
+    "descendants": 175,
+    "time": 1572740094
   },
   {
     "rank": 9,
     "id": 21433710,
     "title": "Microsoft Japan\u2019s 3-day weekend boosts worker productivity",
     "url": "https://soranews24.com/2019/11/03/microsoft-japans-experiment-with-3-day-weekend-boosts-worker-productivity-by-40-percent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "nefitty",
+    "descendants": 210,
+    "time": 1572787348
   },
   {
     "rank": 10,
     "id": 21435195,
     "title": "PostgREST",
     "url": "https://postgrest.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 771,
+    "by": "deepersprout",
+    "descendants": 237,
+    "time": 1572801965
   }
 ]

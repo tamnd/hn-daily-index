@@ -4,99 +4,99 @@
     "id": 21534990,
     "title": "The Mind of a Mathematician",
     "url": "https://paw.princeton.edu/article/mind-mathematician",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "lordgrenville",
+    "descendants": 61,
+    "time": 1573736071
   },
   {
     "rank": 2,
     "id": 21553496,
     "title": "CSS Utility Classes and \u201cSeparation of Concerns\u201d (2017)",
     "url": "https://adamwathan.me/css-utility-classes-and-separation-of-concerns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "aarondf",
+    "descendants": 106,
+    "time": 1573922390
   },
   {
     "rank": 3,
     "id": 21553882,
     "title": "Infectious Executable Stacks",
     "url": "https://nullprogram.com/blog/2019/11/15/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "pantalaimon",
+    "descendants": 53,
+    "time": 1573926443
   },
   {
     "rank": 4,
     "id": 21554459,
     "title": "Internet in Iran gradually shuttting down due to protests",
     "url": "https://twitter.com/netblocks/status/1195775905907576832",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "anticensor",
+    "descendants": 103,
+    "time": 1573932916
   },
   {
     "rank": 5,
     "id": 21555238,
     "title": "Joplin \u2013 a note taking and to-do application with synchronization capabilities",
     "url": "https://github.com/laurent22/joplin",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "adulau",
+    "descendants": 150,
+    "time": 1573941394
   },
   {
     "rank": 6,
     "id": 21557309,
     "title": "Firefox\u2019s Fight for the Future of the Web",
     "url": "https://www.theguardian.com/technology/2019/nov/17/firefox-mozilla-fights-back-against-google-chrome-dominance-privacy-fears",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "inception44",
+    "descendants": 283,
+    "time": 1573986328
   },
   {
     "rank": 7,
     "id": 21557890,
     "title": "Tetrachromats: people who see colors invisible to most of us",
     "url": "https://www.bbc.com/future/article/20140905-the-women-with-super-human-vision",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "jakub_g",
+    "descendants": 221,
+    "time": 1573998530
   },
   {
     "rank": 8,
     "id": 21557902,
     "title": "The Power of Shower Thoughts",
     "url": "https://alexanderell.is/posts/trust-in-your-unconscious/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "otras",
+    "descendants": 78,
+    "time": 1573998678
   },
   {
     "rank": 9,
     "id": 21558250,
     "title": "Writing userspace USB drivers for abandoned devices",
     "url": "https://blog.benjojo.co.uk/post/userspace-usb-drivers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 872,
+    "by": "signa11",
+    "descendants": 114,
+    "time": 1574003806
   },
   {
     "rank": 10,
     "id": 21558793,
     "title": "The Efficiency-Destroying Magic of Tidying Up",
     "url": "https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 594,
+    "by": "cryptozeus",
+    "descendants": 190,
+    "time": 1574010631
   }
 ]

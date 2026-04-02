@@ -4,99 +4,99 @@
     "id": 21626972,
     "title": "Writing An Interpreter In Go (2016)",
     "url": "https://interpreterbook.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "tambourine_man",
+    "descendants": 60,
+    "time": 1574679156
   },
   {
     "rank": 2,
     "id": 21627166,
     "title": "Novelty and Heresy",
     "url": "http://paulgraham.com/nov.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "davnicwil",
+    "descendants": 333,
+    "time": 1574681428
   },
   {
     "rank": 3,
     "id": 21631074,
     "title": "The California DMV Is Selling Drivers\u2019 Personal Information",
     "url": "https://www.vice.com/en_us/article/evjekz/the-california-dmv-is-making-dollar50m-a-year-selling-drivers-personal-information",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "cgoodmac",
+    "descendants": 162,
+    "time": 1574705968
   },
   {
     "rank": 4,
     "id": 21635613,
     "title": "RISC-V Foundation moving to Switzerland over trade curb fears",
     "url": "https://www.reuters.com/article/us-usa-china-semiconductors-insight/u-s-based-chip-tech-group-moving-to-switzerland-over-trade-curb-fears-idUSKBN1XZ16L",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "thesausageking",
+    "descendants": 269,
+    "time": 1574741965
   },
   {
     "rank": 5,
     "id": 21635896,
     "title": "The Real Class War",
     "url": "https://americanaffairsjournal.org/2019/11/the-real-class-war",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 773,
+    "by": "arcanus",
+    "descendants": 608,
+    "time": 1574747013
   },
   {
     "rank": 6,
     "id": 21636583,
     "title": "Google Fires Four Workers, Including Staffer Tied to Protest",
     "url": "https://www.bloomberg.com/news/articles/2019-11-25/google-fires-four-employees-citing-data-security-violations",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "phissk",
+    "descendants": 353,
+    "time": 1574758434
   },
   {
     "rank": 7,
     "id": 21638290,
     "title": "Psilocybin for major depression granted Breakthrough Therapy by FDA",
     "url": "https://newatlas.com/science/psilocybin-major-depression-mdd-usona-breakthrough-therapy-fda/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1240,
+    "by": "elorant",
+    "descendants": 466,
+    "time": 1574776878
   },
   {
     "rank": 8,
     "id": 21638639,
     "title": "Machine Learning on Encrypted Data Without Decrypting It",
     "url": "https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html?hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "KenoFischer",
+    "descendants": 116,
+    "time": 1574779539
   },
   {
     "rank": 9,
     "id": 21639200,
     "title": "Vinod Khosla Wins Ruling Threatening Public Beach Access",
     "url": "https://www.bloomberg.com/news/articles/2019-11-26/billionaire-khosla-wins-ruling-threatening-public-beach-access",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "chollida1",
+    "descendants": 333,
+    "time": 1574782856
   },
   {
     "rank": 10,
     "id": 21640200,
     "title": "Eternal Terminal",
     "url": "https://eternalterminal.dev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "ofrzeta",
+    "descendants": 101,
+    "time": 1574788085
   }
 ]

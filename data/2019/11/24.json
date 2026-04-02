@@ -4,99 +4,99 @@
     "id": 21603986,
     "title": "The care and feeding of software engineers, or why engineers are grumpy (2012)",
     "url": "https://humanwhocodes.com/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "1900jwatson",
+    "descendants": 145,
+    "time": 1574413042
   },
   {
     "rank": 2,
     "id": 21604825,
     "title": "Cname cloaking, a disguise of third-party trackers",
     "url": "https://medium.com/nextdns/cname-cloaking-the-dangerous-disguise-of-third-party-trackers-195205dc522a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "nextdns",
+    "descendants": 196,
+    "time": 1574424370
   },
   {
     "rank": 3,
     "id": 21615924,
     "title": "An 84-year-old Japanese app developer",
     "url": "https://asia.nikkei.com/Business/Technology/Meet-the-84-year-old-Japanese-app-developer-who-inspired-Tim-Cook2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "raleighm",
+    "descendants": 65,
+    "time": 1574536907
   },
   {
     "rank": 4,
     "id": 21617016,
     "title": "Show HN: Hacker News Title Edit Tracker",
     "url": "https://hackernewstitles.netlify.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "petercooper",
+    "descendants": 93,
+    "time": 1574547751
   },
   {
     "rank": 5,
     "id": 21618079,
     "title": "Hard Problems in Cryptocurrency: Five Years Later",
     "url": "https://vitalik.ca/general/2019/11/22/progress.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "feross",
+    "descendants": 360,
+    "time": 1574564592
   },
   {
     "rank": 6,
     "id": 21618346,
     "title": "Cryptoqueen: A woman scammed the world, then vanished",
     "url": "https://www.bbc.co.uk/news/stories-50435014",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "lnguyen",
+    "descendants": 157,
+    "time": 1574569626
   },
   {
     "rank": 7,
     "id": 21618373,
     "title": "The Web Began Dying in 2014 (2017)",
     "url": "https://staltz.com/the-web-began-dying-in-2014-heres-how.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "goranmoomin",
+    "descendants": 263,
+    "time": 1574570141
   },
   {
     "rank": 8,
     "id": 21620687,
     "title": "Today\u2019s Top Tech Skills",
     "url": "https://www.hiringlab.org/2019/11/19/todays-top-tech-skills/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "netcyrax",
+    "descendants": 357,
+    "time": 1574606633
   },
   {
     "rank": 9,
     "id": 21622322,
     "title": "Tell HN: Google should drop Quora from search results",
     "url": "https://news.ycombinator.com/item?id=21622322",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1007,
+    "by": "babuskov",
+    "descendants": 346,
+    "time": 1574620701
   },
   {
     "rank": 10,
     "id": 21622830,
     "title": "Beating C with one line of Brainfuck",
     "url": "https://kiwec.net/blog/posts/beating-c-with-brainfuck/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 567,
+    "by": "pmontra",
+    "descendants": 86,
+    "time": 1574624876
   }
 ]

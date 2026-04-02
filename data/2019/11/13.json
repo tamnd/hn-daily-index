@@ -4,99 +4,99 @@
     "id": 21513771,
     "title": "How VCs Make Money",
     "url": "https://vcstarterkit.substack.com/p/how-vcs-make-money",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "zigzaggy",
+    "descendants": 84,
+    "time": 1573564416
   },
   {
     "rank": 2,
     "id": 21515725,
     "title": "The Bytecode Alliance: Building a secure, composable future for WebAssembly",
     "url": "https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "markdog12",
+    "descendants": 255,
+    "time": 1573578304
   },
   {
     "rank": 3,
     "id": 21515772,
     "title": "How to sleep at night having a cloud service: common architecture do's",
     "url": "https://danielsada.tech/blog/cloud-services-dos/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "dshacker",
+    "descendants": 69,
+    "time": 1573578587
   },
   {
     "rank": 4,
     "id": 21518422,
     "title": "Tesla\u2019s European gigafactory will be built in Berlin",
     "url": "https://techcrunch.com/2019/11/12/elon-musk-picks-berlin-for-teslas-europe-gigafactory/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "etoykan",
+    "descendants": 428,
+    "time": 1573594580
   },
   {
     "rank": 5,
     "id": 21518549,
     "title": "Privacy: Is That iPhone?",
     "url": "https://foundation.mozilla.org/en/blog/what-half-of-iphone-users-dont-know-about-their-privacy-new-poll/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "vladivstok",
+    "descendants": 180,
+    "time": 1573595406
   },
   {
     "rank": 6,
     "id": 21518558,
     "title": "Announcing .NET Jupyter Notebooks",
     "url": "https://www.hanselman.com/blog/AnnouncingNETJupyterNotebooks.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "GordonS",
+    "descendants": 81,
+    "time": 1573595479
   },
   {
     "rank": 7,
     "id": 21521472,
     "title": "More Intel speculative execution vulnerabilities",
     "url": "https://mdsattacks.com/#ridl-ng",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 640,
+    "by": "wolf550e",
+    "descendants": 249,
+    "time": 1573624575
   },
   {
     "rank": 8,
     "id": 21523780,
     "title": "16-inch MacBook Pro",
     "url": "https://www.apple.com/newsroom/2019/11/apple-introduces-16-inch-macbook-pro-the-worlds-best-pro-notebook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1840,
+    "by": "0x4542",
+    "descendants": 1688,
+    "time": 1573652284
   },
   {
     "rank": 9,
     "id": 21525592,
     "title": "Brave launches 1.0",
     "url": "https://brave.com/brave-launches-next-generation-browser/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1008,
+    "by": "etr71115",
+    "descendants": 630,
+    "time": 1573660892
   },
   {
     "rank": 10,
     "id": 21525878,
     "title": "AI Clones Your Voice After Listening for 5 Seconds (2018)",
     "url": "https://google.github.io/tacotron/publications/speaker_adaptation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 911,
+    "by": "lukeplato",
+    "descendants": 319,
+    "time": 1573662158
   }
 ]
