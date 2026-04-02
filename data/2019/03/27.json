@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 19492660,
+    "title": "Add detailed message to NullPointerException describing what is null",
+    "url": "https://openjdk.java.net/jeps/8220715",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 19493378,
+    "title": "Google launches AMP for email",
+    "url": "https://techcrunch.com/2019/03/26/google-makes-emails-more-dynamic-with-amp-for-email/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 19495225,
+    "title": "On Internal Engineering Practices at Amazon",
+    "url": "https://jatins.gitlab.io/me/amazon-internal-tools/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 19498356,
+    "title": "The Illustrated Word2vec",
+    "url": "https://jalammar.github.io/illustrated-word2vec/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 19498379,
+    "title": "Paul Graham inspired the creation of Redis",
+    "url": "https://twitter.com/antirez/status/1110468354542919681",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 19499515,
+    "title": "Yann LeCun, Geoffrey Hinton and Yoshua Bengio win Turing Award",
+    "url": "https://www.nytimes.com/2019/03/27/technology/turing-award-hinton-lecun-bengio.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 19500151,
+    "title": "Ask HN: Physicists of HN, what are you working on these days?",
+    "url": "https://news.ycombinator.com/item?id=19500151",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 19501614,
+    "title": "Standardizing WASI: A system interface to run WebAssembly outside the web",
+    "url": "https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 19502657,
+    "title": "Keybase is not softer than TOFU",
+    "url": "https://keybase.io/blog/chat-apps-softer-than-tofu",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 19503094,
+    "title": "Facebook to ban white nationalist content",
+    "url": "https://newsroom.fb.com/news/2019/03/standing-against-hate/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
