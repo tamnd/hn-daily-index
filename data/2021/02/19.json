@@ -4,99 +4,99 @@
     "id": 26180260,
     "title": "Nvidia announces mining GPUs, cuts the hash rate of RTX-3060 in half",
     "url": "https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "bcatanzaro",
+    "descendants": 737,
+    "time": 1613659269
   },
   {
     "rank": 2,
     "id": 26187881,
     "title": "Why is it so hard to see code from 5 minutes ago?",
     "url": "https://web.eecs.utk.edu/~azh/blog/yestercode.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 523,
+    "by": "azhenley",
+    "descendants": 408,
+    "time": 1613694792
   },
   {
     "rank": 3,
     "id": 26188710,
     "title": "I Miss My Bar",
     "url": "http://imissmybar.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "interweb",
+    "descendants": 448,
+    "time": 1613700848
   },
   {
     "rank": 4,
     "id": 26188765,
     "title": "12 requests per second: A realistic look at Python web frameworks",
     "url": "https://suade.org/dev/12-requests-per-second-with-python/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "gilad",
+    "descendants": 237,
+    "time": 1613701296
   },
   {
     "rank": 5,
     "id": 26190584,
     "title": "Monolith First (2015)",
     "url": "https://martinfowler.com/bliki/MonolithFirst.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 820,
+    "by": "asyrafql",
+    "descendants": 340,
+    "time": 1613719671
   },
   {
     "rank": 6,
     "id": 26192025,
     "title": "\u201cI will slaughter you\u201d",
     "url": "https://daniel.haxx.se/blog/2021/02/19/i-will-slaughter-you/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 567,
+    "by": "ingve",
+    "descendants": 242,
+    "time": 1613734583
   },
   {
     "rank": 7,
     "id": 26192792,
     "title": "WhatsApp to move ahead with privacy update despite backlash",
     "url": "https://www.reuters.com/article/facebook-whatsapp-privacy-idUSL4N2KP0XY",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 615,
+    "by": "sidcool",
+    "descendants": 291,
+    "time": 1613740611
   },
   {
     "rank": 8,
     "id": 26193544,
     "title": "Facebook reported fake numbers to advertisers",
     "url": "https://news.yahoo.com/unsealed-court-document-claims-facebook-203236002.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 618,
+    "by": "elorant",
+    "descendants": 213,
+    "time": 1613745265
   },
   {
     "rank": 9,
     "id": 26194990,
     "title": "Tauri: An Electron alternative written in Rust",
     "url": "https://tauri.studio/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1113,
+    "by": "metalwhale",
+    "descendants": 417,
+    "time": 1613753343
   },
   {
     "rank": 10,
     "id": 26197280,
     "title": "Mars becomes the 2nd planet that has more computers running Linux than Windows",
     "url": "https://twitter.com/mikko/status/1362763793042972673",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1185,
+    "by": "fireball_blaze",
+    "descendants": 283,
+    "time": 1613764372
   }
 ]

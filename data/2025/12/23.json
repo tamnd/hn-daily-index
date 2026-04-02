@@ -4,99 +4,99 @@
     "id": 46313962,
     "title": "Adobe Photoshop 1.0 Source Code (1990)",
     "url": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "tosh",
+    "descendants": 152,
+    "time": 1766072238
   },
   {
     "rank": 2,
     "id": 46355165,
     "title": "Claude Code gets native LSP support",
     "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 511,
+    "by": "JamesSwift",
+    "descendants": 339,
+    "time": 1766419141
   },
   {
     "rank": 3,
     "id": 46355548,
     "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
     "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 827,
+    "by": "chaps",
+    "descendants": 471,
+    "time": 1766421100
   },
   {
     "rank": 4,
     "id": 46357287,
     "title": "GLM-4.7: Advancing the Coding Capability",
     "url": "https://z.ai/blog/glm-4.7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "pretext",
+    "descendants": 235,
+    "time": 1766429192
   },
   {
     "rank": 5,
     "id": 46357675,
     "title": "The Illustrated Transformer",
     "url": "https://jalammar.github.io/illustrated-transformer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "auraham",
+    "descendants": 88,
+    "time": 1766430956
   },
   {
     "rank": 6,
     "id": 46359120,
     "title": "It's Always TCP_NODELAY",
     "url": "https://brooker.co.za/blog/2024/05/09/nagle.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "eieio",
+    "descendants": 179,
+    "time": 1766437799
   },
   {
     "rank": 7,
     "id": 46361024,
     "title": "Inside CECOT \u2013 60 Minutes [video]",
     "url": "https://archive.org/details/insidececot",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1679,
+    "by": "lawlessone",
+    "descendants": 549,
+    "time": 1766450187
   },
   {
     "rank": 8,
     "id": 46363360,
     "title": "Instant database clones with PostgreSQL 18",
     "url": "https://boringsql.com/posts/instant-database-clones/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "radimm",
+    "descendants": 162,
+    "time": 1766476705
   },
   {
     "rank": 9,
     "id": 46366998,
     "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
     "url": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "yellow_lead",
+    "descendants": 392,
+    "time": 1766509714
   },
   {
     "rank": 10,
     "id": 46367224,
     "title": "Fabrice Bellard Releases MicroQuickJS",
     "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1507,
+    "by": "Aissen",
+    "descendants": 569,
+    "time": 1766511222
   }
 ]

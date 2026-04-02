@@ -160,16 +160,16 @@ Top 10 Hacker News stories for each day in December 2025.
 
 *Tuesday*
 
-1. [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/) (computerhistory.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46313962)
-2. [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46355165)
-3. [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) (404media.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46355548)
-4. [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7) (z.ai) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46357287)
-5. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (jalammar.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46357675)
-6. [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html) (brooker.co.za) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46359120)
-7. [Inside CECOT – 60 Minutes [video]](https://archive.org/details/insidececot) (archive.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46361024)
-8. [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/) (boringsql.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46363360)
-9. [Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server) (phoronix.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46366998)
-10. [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46367224)
+1. [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/) (computerhistory.org) - 440 points by [tosh](https://news.ycombinator.com/user?id=tosh), [152 comments](https://news.ycombinator.com/item?id=46313962)
+2. [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) (github.com) - 511 points by [JamesSwift](https://news.ycombinator.com/user?id=JamesSwift), [339 comments](https://news.ycombinator.com/item?id=46355165)
+3. [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) (404media.co) - 827 points by [chaps](https://news.ycombinator.com/user?id=chaps), [471 comments](https://news.ycombinator.com/item?id=46355548)
+4. [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7) (z.ai) - 437 points by [pretext](https://news.ycombinator.com/user?id=pretext), [235 comments](https://news.ycombinator.com/item?id=46357287)
+5. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (jalammar.github.io) - 500 points by [auraham](https://news.ycombinator.com/user?id=auraham), [88 comments](https://news.ycombinator.com/item?id=46357675)
+6. [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html) (brooker.co.za) - 491 points by [eieio](https://news.ycombinator.com/user?id=eieio), [179 comments](https://news.ycombinator.com/item?id=46359120)
+7. [Inside CECOT – 60 Minutes [video]](https://archive.org/details/insidececot) (archive.org) - 1.7k points by [lawlessone](https://news.ycombinator.com/user?id=lawlessone), [549 comments](https://news.ycombinator.com/item?id=46361024)
+8. [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/) (boringsql.com) - 435 points by [radimm](https://news.ycombinator.com/user?id=radimm), [162 comments](https://news.ycombinator.com/item?id=46363360)
+9. [Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server) (phoronix.com) - 701 points by [yellow_lead](https://news.ycombinator.com/user?id=yellow_lead), [392 comments](https://news.ycombinator.com/item?id=46366998)
+10. [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md) (github.com) - 1.5k points by [Aissen](https://news.ycombinator.com/user?id=Aissen), [569 comments](https://news.ycombinator.com/item?id=46367224)
 
 ## 2025-12-22
 

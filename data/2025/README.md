@@ -141,16 +141,16 @@ Top 10 Hacker News stories for each day in 2025.
 
 *Tuesday*
 
-1. [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/) (computerhistory.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46313962)
-2. [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46355165)
-3. [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) (404media.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46355548)
-4. [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7) (z.ai) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46357287)
-5. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (jalammar.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46357675)
-6. [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html) (brooker.co.za) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46359120)
-7. [Inside CECOT – 60 Minutes [video]](https://archive.org/details/insidececot) (archive.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46361024)
-8. [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/) (boringsql.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46363360)
-9. [Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server) (phoronix.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46366998)
-10. [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46367224)
+1. [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/) (computerhistory.org) - 440 points by [tosh](https://news.ycombinator.com/user?id=tosh), [152 comments](https://news.ycombinator.com/item?id=46313962)
+2. [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) (github.com) - 511 points by [JamesSwift](https://news.ycombinator.com/user?id=JamesSwift), [339 comments](https://news.ycombinator.com/item?id=46355165)
+3. [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) (404media.co) - 827 points by [chaps](https://news.ycombinator.com/user?id=chaps), [471 comments](https://news.ycombinator.com/item?id=46355548)
+4. [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7) (z.ai) - 437 points by [pretext](https://news.ycombinator.com/user?id=pretext), [235 comments](https://news.ycombinator.com/item?id=46357287)
+5. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (jalammar.github.io) - 500 points by [auraham](https://news.ycombinator.com/user?id=auraham), [88 comments](https://news.ycombinator.com/item?id=46357675)
+6. [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html) (brooker.co.za) - 491 points by [eieio](https://news.ycombinator.com/user?id=eieio), [179 comments](https://news.ycombinator.com/item?id=46359120)
+7. [Inside CECOT – 60 Minutes [video]](https://archive.org/details/insidececot) (archive.org) - 1.7k points by [lawlessone](https://news.ycombinator.com/user?id=lawlessone), [549 comments](https://news.ycombinator.com/item?id=46361024)
+8. [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/) (boringsql.com) - 435 points by [radimm](https://news.ycombinator.com/user?id=radimm), [162 comments](https://news.ycombinator.com/item?id=46363360)
+9. [Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server) (phoronix.com) - 701 points by [yellow_lead](https://news.ycombinator.com/user?id=yellow_lead), [392 comments](https://news.ycombinator.com/item?id=46366998)
+10. [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md) (github.com) - 1.5k points by [Aissen](https://news.ycombinator.com/user?id=Aissen), [569 comments](https://news.ycombinator.com/item?id=46367224)
 
 ## 2025-12-22
 
@@ -1011,16 +1011,16 @@ Top 10 Hacker News stories for each day in 2025.
 
 *Sunday*
 
-1. [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search) (hrc.contentdm.oclc.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45630599)
-2. [A bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/) (elanapearl.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45684253)
-3. [The Journey Before main()](https://amit.prasad.me/blog/before-main) (amit.prasad.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45706380)
-4. [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert) (latimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45706527)
-5. [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) (0xkato.xyz) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45707658)
-6. [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE) (nrc.gov) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45708292)
-7. [Pico-Banana-400k](https://github.com/apple/pico-banana-400k) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45708524)
-8. [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days) (adventofcode.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45710006)
-9. [You already have a Git server](https://maurycyz.com/misc/easy_git/) (maurycyz.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45710721)
-10. [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html) (mail-index.netbsd.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45711279)
+1. [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search) (hrc.contentdm.oclc.org) - 480 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [89 comments](https://news.ycombinator.com/item?id=45630599)
+2. [A bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/) (elanapearl.github.io) - 465 points by [bblcla](https://news.ycombinator.com/user?id=bblcla), [80 comments](https://news.ycombinator.com/item?id=45684253)
+3. [The Journey Before main()](https://amit.prasad.me/blog/before-main) (amit.prasad.me) - 316 points by [amitprasad](https://news.ycombinator.com/user?id=amitprasad), [143 comments](https://news.ycombinator.com/item?id=45706380)
+4. [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert) (latimes.com) - 349 points by [JumpCrisscross](https://news.ycombinator.com/user?id=JumpCrisscross), [346 comments](https://news.ycombinator.com/item?id=45706527)
+5. [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) (0xkato.xyz) - 482 points by [0xkato](https://news.ycombinator.com/user?id=0xkato), [89 comments](https://news.ycombinator.com/item?id=45707658)
+6. [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE) (nrc.gov) - 689 points by [nvahalik](https://news.ycombinator.com/user?id=nvahalik), [507 comments](https://news.ycombinator.com/item?id=45708292)
+7. [Pico-Banana-400k](https://github.com/apple/pico-banana-400k) (github.com) - 395 points by [dvrp](https://news.ycombinator.com/user?id=dvrp), [64 comments](https://news.ycombinator.com/item?id=45708524)
+8. [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days) (adventofcode.com) - 480 points by [vismit2000](https://news.ycombinator.com/user?id=vismit2000), [219 comments](https://news.ycombinator.com/item?id=45710006)
+9. [You already have a Git server](https://maurycyz.com/misc/easy_git/) (maurycyz.com) - 653 points by [chmaynard](https://news.ycombinator.com/user?id=chmaynard), [427 comments](https://news.ycombinator.com/item?id=45710721)
+10. [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html) (mail-index.netbsd.org) - 406 points by [jaypatelani](https://news.ycombinator.com/user?id=jaypatelani), [238 comments](https://news.ycombinator.com/item?id=45711279)
 
 ## 2025-10-25
 

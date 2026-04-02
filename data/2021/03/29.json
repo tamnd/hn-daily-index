@@ -4,99 +4,99 @@
     "id": 26612894,
     "title": "Developer tools can be magic but instead collect dust",
     "url": "http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "todsacerdoti",
+    "descendants": 355,
+    "time": 1616956443
   },
   {
     "rank": 2,
     "id": 26615791,
     "title": "Text to Image Generation",
     "url": "https://github.com/lucidrains/deep-daze",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 467,
+    "by": "indigodaddy",
+    "descendants": 88,
+    "time": 1616973680
   },
   {
     "rank": 3,
     "id": 26615938,
     "title": "Terminal escape sequences in Git commit email field",
     "url": "https://twitter.com/ryancdotorg/status/1375484757916672000",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "whack",
+    "descendants": 157,
+    "time": 1616974634
   },
   {
     "rank": 4,
     "id": 26616454,
     "title": "Everyone wants to do the model work, not the data work [pdf]",
     "url": "https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "Anon84",
+    "descendants": 112,
+    "time": 1616978430
   },
   {
     "rank": 5,
     "id": 26616707,
     "title": "PHP's Git server compromised, moving to GitHub",
     "url": "https://news-web.php.net/php.internals/113838",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "jsmith45",
+    "descendants": 135,
+    "time": 1616980860
   },
   {
     "rank": 6,
     "id": 26617081,
     "title": "Ever Given Everywhere",
     "url": "https://evergiven-everywhere.glitch.me/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "jbegley",
+    "descendants": 68,
+    "time": 1616984742
   },
   {
     "rank": 7,
     "id": 26620116,
     "title": "The Deno Company",
     "url": "https://deno.com/blog/the-deno-company",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 883,
+    "by": "elisee",
+    "descendants": 431,
+    "time": 1617017468
   },
   {
     "rank": 8,
     "id": 26620892,
     "title": "Gallup: U.S. church membership dips below 50% for first time",
     "url": "https://www.axios.com/church-membership-gallup-26cc020b-5405-417a-a786-e10c286a30db.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "cwwc",
+    "descendants": 1404,
+    "time": 1617022891
   },
   {
     "rank": 9,
     "id": 26621308,
     "title": "Suez Canal says traffic in channel resumes after stranded ship refloated",
     "url": "https://www.reuters.com/article/us-egypt-suezcanal-ship-floated/suez-canal-says-traffic-in-channel-resumes-after-stranded-ship-refloated-idUSKBN2BL1S9",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1068,
+    "by": "WJW",
+    "descendants": 569,
+    "time": 1617024952
   },
   {
     "rank": 10,
     "id": 26628233,
     "title": "Moderna mRNA sequence released to GitHub [pdf]",
     "url": "https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1248,
+    "by": "aty268",
+    "descendants": 367,
+    "time": 1617052309
   }
 ]

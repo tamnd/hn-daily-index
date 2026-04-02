@@ -4,99 +4,99 @@
     "id": 26037461,
     "title": "Veloren \u2013 Open-source MMORPG written in Rust",
     "url": "https://veloren.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "agluszak",
+    "descendants": 143,
+    "time": 1612539502
   },
   {
     "rank": 2,
     "id": 26040234,
     "title": "Spyder \u2013 a free and open source scientific environment written in Python",
     "url": "https://www.spyder-ide.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "jka",
+    "descendants": 160,
+    "time": 1612553441
   },
   {
     "rank": 3,
     "id": 26042416,
     "title": "I'm the high QA guy. Let me test your website",
     "url": "http://www.highqaguy.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "highqaguy",
+    "descendants": 205,
+    "time": 1612566872
   },
   {
     "rank": 4,
     "id": 26042463,
     "title": "Show HN: Ht \u2013 HTTPie Clone in Rust",
     "url": "https://github.com/ducaale/ht",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "ducaale",
+    "descendants": 96,
+    "time": 1612567195
   },
   {
     "rank": 5,
     "id": 26043294,
     "title": "Netflix's Annual Reports (10-Ks) used to be a work of art. What happened?",
     "url": "https://singhkays.com/blog/netflix-annual-reports-work-of-art/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "singhkays",
+    "descendants": 77,
+    "time": 1612574928
   },
   {
     "rank": 6,
     "id": 26045835,
     "title": "Complexity Explained",
     "url": "https://complexityexplained.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "harscoat",
+    "descendants": 128,
+    "time": 1612610554
   },
   {
     "rank": 7,
     "id": 26046642,
     "title": "NordVPN disables features when you turn off auto-renew",
     "url": "https://www.reddit.com/r/assholedesign/comments/ldf9g9/nordvpn_disables_features_when_you_turn_off/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "decrypt",
+    "descendants": 229,
+    "time": 1612621214
   },
   {
     "rank": 8,
     "id": 26046942,
     "title": "Big name corporations more likely to commit fraud: study",
     "url": "https://news.wsu.edu/2021/02/02/big-name-corporations-likely-commit-fraud/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "CapitalistCartr",
+    "descendants": 109,
+    "time": 1612623697
   },
   {
     "rank": 9,
     "id": 26047238,
     "title": "Programming for Cats",
     "url": "https://programmingforcats.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "tigerlilythecat",
+    "descendants": 109,
+    "time": 1612626126
   },
   {
     "rank": 10,
     "id": 26048784,
     "title": "Architecture.md",
     "url": "https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1349,
+    "by": "todsacerdoti",
+    "descendants": 153,
+    "time": 1612637218
   }
 ]
