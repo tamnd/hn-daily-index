@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 6373185,
+    "title": "Cocktails for programmers",
+    "url": "https://github.com/the-teacher/cocktails_for_programmers/blob/master/cocktails_for_programers.md",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 6376954,
+    "title": "Bruce Schneier has changed his PGP key to 4096 bits",
+    "url": "http://news.ycombinator.com/item?id=6376954",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 6377082,
+    "title": "Michael Dell buys back PC company he founded in $24.8bn deal",
+    "url": "http://www.theguardian.com/technology/2013/sep/12/michael-dell-buys-back-pc-company-founded",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 6378250,
+    "title": "How is Docker.io different from a normal virtual machine?",
+    "url": "http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 6378415,
+    "title": "Happy Programmers' Day",
+    "url": "https://en.wikipedia.org/wiki/Programmer%27s_day",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 6379272,
+    "title": "USB Condoms",
+    "url": "http://usbcondoms.com/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 6379439,
+    "title": "Google knows nearly every Wi-Fi password in the world",
+    "url": "http://blogs.computerworld.com/android/22806/google-knows-nearly-every-wi-fi-password-world",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 6379928,
+    "title": "New NSA Leak Shows MITM Attacks Against Major Internet Services",
+    "url": "https://www.schneier.com/blog/archives/2013/09/new_nsa_leak_sh.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 6380187,
+    "title": "The Feynman Lectures on Physics, Volume I",
+    "url": "http://www.feynmanlectures.caltech.edu/I_toc.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 6382963,
+    "title": "FBI Admits It Controlled Tor Servers Behind Mass Malware Attack",
+    "url": "http://www.wired.com/threatlevel/2013/09/freedom-hosting-fbi/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
