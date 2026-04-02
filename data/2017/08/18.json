@@ -4,99 +4,99 @@
     "id": 15039204,
     "title": "Making Visible Watermarks More Effective",
     "url": "https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "runesoerensen",
+    "descendants": 96,
+    "time": 1502993044
   },
   {
     "rank": 2,
     "id": 15039587,
     "title": "Wekan: An open-source Trello-like kanban",
     "url": "https://wekan.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "mcone",
+    "descendants": 92,
+    "time": 1502995361
   },
   {
     "rank": 3,
     "id": 15040373,
     "title": "Blood Test That Spots Tumor-Derived DNA in Early-Stage Cancers",
     "url": "http://www.hopkinsmedicine.org/news/media/releases/scientists_develop_blood_test_that_spots_tumor_derived_dna_in_people_with_early_stage_cancers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "ncw96",
+    "descendants": 63,
+    "time": 1503000396
   },
   {
     "rank": 4,
     "id": 15041986,
     "title": "Afraid of Makefiles? Don't be",
     "url": "https://matthias-endler.de/2017/makefiles/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 502,
+    "by": "tdurden",
+    "descendants": 272,
+    "time": 1503012231
   },
   {
     "rank": 5,
     "id": 15042893,
     "title": "GitHub CEO Chris Wanstrath To Step Down After Finding Replacement",
     "url": "https://www.forbes.com/sites/alexkonrad/2017/08/17/github-ceo-chris-wanstrath-to-step-down/?c=0#33c9269eadd3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "ahmedfromtunis",
+    "descendants": 49,
+    "time": 1503021821
   },
   {
     "rank": 6,
     "id": 15043354,
     "title": "Why the Brain Needs More Downtime (2013)",
     "url": "https://www.scientificamerican.com/article/mental-downtime/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "tim_sw",
+    "descendants": 106,
+    "time": 1503027282
   },
   {
     "rank": 7,
     "id": 15045341,
     "title": "Towards a JavaScript Binary AST",
     "url": "https://yoric.github.io/post/binary-ast-newsletter-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "Yoric",
+    "descendants": 205,
+    "time": 1503057315
   },
   {
     "rank": 8,
     "id": 15045617,
     "title": "Google's stance on neo-Nazis 'dangerous', says EFF",
     "url": "http://www.bbc.co.uk/news/technology-40974069",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "dberhane",
+    "descendants": 363,
+    "time": 1503060688
   },
   {
     "rank": 9,
     "id": 15046601,
     "title": "E-commerce will evolve next month as Amazon loses the 1-Click patent",
     "url": "https://thirtybees.com/blog/e-commerce-will-change-forever/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "themaveness",
+    "descendants": 223,
+    "time": 1503067408
   },
   {
     "rank": 10,
     "id": 15049171,
     "title": "Firefox Focus \u2013 A new private browser for iOS and Android",
     "url": "https://blog.mozilla.org/firefox/lightweight-browser-focus-does-less-which-is-much-more/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 684,
+    "by": "happy-go-lucky",
+    "descendants": 335,
+    "time": 1503085611
   }
 ]

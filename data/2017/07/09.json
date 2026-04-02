@@ -4,99 +4,99 @@
     "id": 14724403,
     "title": "Linux tracing systems and how they fit together",
     "url": "https://jvns.ca/blog/2017/07/05/linux-tracing-systems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "ingve",
+    "descendants": 59,
+    "time": 1499495713
   },
   {
     "rank": 2,
     "id": 14726130,
     "title": "Ask HN: How to prepare for an Engineering Manager interview?",
     "url": "https://news.ycombinator.com/item?id=14726130",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "throwmeplease",
+    "descendants": 73,
+    "time": 1499533273
   },
   {
     "rank": 3,
     "id": 14726394,
     "title": "100 days of algorithms",
     "url": "https://github.com/coells/100days",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "jpn",
+    "descendants": 18,
+    "time": 1499536510
   },
   {
     "rank": 4,
     "id": 14727252,
     "title": "API Security Checklist for developers",
     "url": "https://github.com/shieldfy/API-Security-Checklist",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "eslamsalem",
+    "descendants": 69,
+    "time": 1499549084
   },
   {
     "rank": 5,
     "id": 14727662,
     "title": "Minimal PDF",
     "url": "https://brendanzagaeski.appspot.com/0004.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "ingve",
+    "descendants": 99,
+    "time": 1499555928
   },
   {
     "rank": 6,
     "id": 14727673,
     "title": "Benchmarking TensorFlow on Cloud CPUs: Cheaper Deep Learning Than Cloud GPUs",
     "url": "http://minimaxir.com/2017/07/cpu-or-gpu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "myth_drannon",
+    "descendants": 104,
+    "time": 1499556006
   },
   {
     "rank": 7,
     "id": 14728563,
     "title": "BayesDB: A probabilistic programming platform",
     "url": "http://probcomp.csail.mit.edu/bayesdb/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "erwan",
+    "descendants": 15,
+    "time": 1499579916
   },
   {
     "rank": 8,
     "id": 14729400,
     "title": "Counterintuitive problem: People in a room keep giving dollars to random others",
     "url": "http://www.decisionsciencenews.com/2017/06/19/counterintuitive-problem-everyone-room-keeps-giving-dollars-random-others-youll-never-guess-happens-next/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 555,
+    "by": "aqsalose",
+    "descendants": 240,
+    "time": 1499602687
   },
   {
     "rank": 9,
     "id": 14729600,
     "title": "DRM Is Toxic to Culture",
     "url": "https://meshedinsights.com/2017/07/09/drm-is-toxic-to-culture/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "jrepinc",
+    "descendants": 250,
+    "time": 1499606413
   },
   {
     "rank": 10,
     "id": 14732023,
     "title": "It's been 191 days since Google Drive worked for me",
     "url": "https://dynalist.io/d/wRIiJ0s0ONiB1w98ginB4g_n",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "wabi-sabi",
+    "descendants": 230,
+    "time": 1499638544
   }
 ]

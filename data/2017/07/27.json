@@ -4,99 +4,99 @@
     "id": 14858495,
     "title": "Breaking open the Mt. Gox case, part 1",
     "url": "http://blog.wizsec.jp/2017/07/breaking-open-mtgox-1.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "pcorey",
+    "descendants": 91,
+    "time": 1501091902
   },
   {
     "rank": 2,
     "id": 14858644,
     "title": "Google and a nuclear fusion company have developed a new algorithm",
     "url": "https://www.theguardian.com/environment/2017/jul/25/google-enters-race-for-nuclear-fusion-technology",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "jonbaer",
+    "descendants": 114,
+    "time": 1501092721
   },
   {
     "rank": 3,
     "id": 14859084,
     "title": "Show HN: Chromeless \u2013 Headless Chrome Automation on AWS Lambda",
     "url": "https://github.com/graphcool/chromeless",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "schickling",
+    "descendants": 89,
+    "time": 1501095492
   },
   {
     "rank": 4,
     "id": 14859602,
     "title": "Remotely Compromising Android and iOS via a bug in Broadcom's WI-FI Chipsets",
     "url": "https://blog.exodusintel.com/2017/07/26/broadpwn/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "pedro84",
+    "descendants": 161,
+    "time": 1501098702
   },
   {
     "rank": 5,
     "id": 14861205,
     "title": "First Human Embryos Edited in U.S",
     "url": "https://www.technologyreview.com/s/608350/first-human-embryos-edited-in-us/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "astdb",
+    "descendants": 277,
+    "time": 1501110452
   },
   {
     "rank": 6,
     "id": 14861925,
     "title": "BTC-e and its founder charged in 21-count indictment over hack of Mt. Gox",
     "url": "https://www.justice.gov/usao-ndca/pr/russian-national-and-bitcoin-exchange-charged-21-count-indictment-operating-alleged",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "ryanlol",
+    "descendants": 243,
+    "time": 1501118747
   },
   {
     "rank": 7,
     "id": 14863580,
     "title": "How Chrome OS, Termux, YubiKey and Duo Mobile make for great usable security",
     "url": "https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "walterbell",
+    "descendants": 171,
+    "time": 1501144580
   },
   {
     "rank": 8,
     "id": 14865112,
     "title": "Jeff Bezos Surpasses Bill Gates as World's Richest Person",
     "url": "https://www.bloomberg.com/news/articles/2017-07-27/bezos-surpasses-gates-as-world-s-richest-ahead-of-amazon-results",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "fargo",
+    "descendants": 406,
+    "time": 1501162826
   },
   {
     "rank": 9,
     "id": 14866573,
     "title": "Ravens OL John Urschel, 26, retires abruptly, two days after CTE study",
     "url": "http://www.espn.com/nfl/story/_/id/20170808",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "petethomas",
+    "descendants": 336,
+    "time": 1501171611
   },
   {
     "rank": 10,
     "id": 14868033,
     "title": "Sci-Hub\u2019s cache of pirated papers is so big, subscription journals are doomed",
     "url": "http://www.sciencemag.org/news/2017/07/sci-hub-s-cache-pirated-papers-so-big-subscription-journals-are-doomed-data-analyst",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 632,
+    "by": "happy-go-lucky",
+    "descendants": 241,
+    "time": 1501179934
   }
 ]

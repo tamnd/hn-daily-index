@@ -4,99 +4,99 @@
     "id": 15027870,
     "title": "How Postgres Makes Transactions Atomic",
     "url": "https://brandur.org/postgres-atomicity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "craigkerstiens",
+    "descendants": 48,
+    "time": 1502894964
   },
   {
     "rank": 2,
     "id": 15028575,
     "title": "The Token Effect",
     "url": "https://blog.ycombinator.com/the-token-effect",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "rrecuero",
+    "descendants": 154,
+    "time": 1502899409
   },
   {
     "rank": 3,
     "id": 15029086,
     "title": "Kubernetes at GitHub",
     "url": "https://githubengineering.com/kubernetes-at-github/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "darwhy",
+    "descendants": 137,
+    "time": 1502902806
   },
   {
     "rank": 4,
     "id": 15029186,
     "title": "ProtonMail Now Supports Bitcoin Payments",
     "url": "https://protonmail.com/blog/bitcoin-secure-email/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "vabmit",
+    "descendants": 183,
+    "time": 1502903412
   },
   {
     "rank": 5,
     "id": 15031922,
     "title": "Why We Terminated Daily Stormer",
     "url": "https://blog.cloudflare.com/why-we-terminated-daily-stormer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 857,
+    "by": "SamWhited",
+    "descendants": 1526,
+    "time": 1502922910
   },
   {
     "rank": 6,
     "id": 15033156,
     "title": "Ask HN: What mistakes in your experience does management keep making?",
     "url": "https://news.ycombinator.com/item?id=15033156",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "oggyfredcake",
+    "descendants": 379,
+    "time": 1502935274
   },
   {
     "rank": 7,
     "id": 15034715,
     "title": "Peanut allergy cured in majority of children in immunotherapy trial",
     "url": "https://www.theguardian.com/australia-news/2017/aug/17/peanut-allergy-cured-in-majority-of-children-in-immunotherapy-trial?CMP=twt_gu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "DanBC",
+    "descendants": 169,
+    "time": 1502957569
   },
   {
     "rank": 8,
     "id": 15036060,
     "title": "Elixir in Depth \u2013 Reading and personal notes",
     "url": "http://digitalfreepen.com/2017/08/16/elixir-in-depth-notes.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "rudi-c",
+    "descendants": 146,
+    "time": 1502972716
   },
   {
     "rank": 9,
     "id": 15037960,
     "title": "Essential Phone, available now",
     "url": "https://www.essential.com/blog/essential-phone-available-now",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 818,
+    "by": "Garbage",
+    "descendants": 672,
+    "time": 1502985695
   },
   {
     "rank": 10,
     "id": 15038433,
     "title": "A 2:15 Alarm, 2 Trains and a Bus Get Her to Work by 7 A.M",
     "url": "https://www.nytimes.com/2017/08/17/business/economy/san-francisco-commute.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "el_benhameen",
+    "descendants": 301,
+    "time": 1502988631
   }
 ]

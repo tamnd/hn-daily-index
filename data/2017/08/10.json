@@ -4,99 +4,99 @@
     "id": 14971650,
     "title": "Principles of Sharding for Relational Databases",
     "url": "https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "tikhon",
+    "descendants": 47,
+    "time": 1502300362
   },
   {
     "rank": 2,
     "id": 14972872,
     "title": "Why GitHub Can't Host the Linux Kernel Community",
     "url": "http://blog.ffwll.ch/2017/08/github-why-cant-host-the-kernel.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "okket",
+    "descendants": 236,
+    "time": 1502308012
   },
   {
     "rank": 3,
     "id": 14973424,
     "title": "uBlock Origin Maintainer on Chrome vs. Firefox WebExtensions",
     "url": "https://discourse.mozilla.org/t/support-ublock-origin/6746/451",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 776,
+    "by": "nachtigall",
+    "descendants": 324,
+    "time": 1502311599
   },
   {
     "rank": 4,
     "id": 14973506,
     "title": "Salesforce fires red team staffers who gave Defcon talk",
     "url": "http://www.zdnet.com/article/salesforce-fires-red-team-staffers-who-gave-defcon-talk/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "stevekillian",
+    "descendants": 290,
+    "time": 1502312128
   },
   {
     "rank": 5,
     "id": 14974383,
     "title": "VPN Report \u2013 Reviews of the top VPNs",
     "url": "https://vpnreport.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "mobitar",
+    "descendants": 223,
+    "time": 1502318104
   },
   {
     "rank": 6,
     "id": 14976028,
     "title": "Outraged about the Google diversity memo?",
     "url": "http://backreaction.blogspot.com/2017/08/outraged-about-google-diversity-memo-i.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "rice_otaku",
+    "descendants": 800,
+    "time": 1502334928
   },
   {
     "rank": 7,
     "id": 14976648,
     "title": "Learn Regex the Easy Way",
     "url": "https://github.com/zeeshanu/learn-regex",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "shubhamjain",
+    "descendants": 66,
+    "time": 1502342159
   },
   {
     "rank": 8,
     "id": 14977369,
     "title": "The 1980 Citro\u00ebn Karin",
     "url": "http://www.citroenet.org.uk/prototypes/karin/karin.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "dayve",
+    "descendants": 186,
+    "time": 1502351456
   },
   {
     "rank": 9,
     "id": 14980512,
     "title": "Four Earth-sized planets detected orbiting the nearest sun-like star",
     "url": "https://news.ucsc.edu/2017/08/tau-ceti-planets.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 641,
+    "by": "mrfusion",
+    "descendants": 295,
+    "time": 1502378096
   },
   {
     "rank": 10,
     "id": 14983157,
     "title": "Benchmark Capital Sues Travis Kalanick for Fraud",
     "url": "https://www.axios.com/benchmark-capital-sues-travis-kalanick-for-fraud-2471455477.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 467,
+    "by": "bobsky",
+    "descendants": 181,
+    "time": 1502392861
   }
 ]

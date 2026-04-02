@@ -4,99 +4,99 @@
     "id": 15256215,
     "title": "Show HN: Nulis \u2013 Open Source Tree Editor for Writers",
     "url": "https://github.com/raymestalez/nulis",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "rayalez",
+    "descendants": 83,
+    "time": 1505475097
   },
   {
     "rank": 2,
     "id": 15258238,
     "title": "Sysadmin war story: the network ate my font",
     "url": "http://verticalsysadmin.com/blog/sysadmin-war-story-the-network-ate-my-font/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "atsaloli",
+    "descendants": 66,
+    "time": 1505491585
   },
   {
     "rank": 3,
     "id": 15260384,
     "title": "World's largest electric vehicle",
     "url": "https://www.empa.ch/web/s604/e-dumper",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "prostoalex",
+    "descendants": 152,
+    "time": 1505506344
   },
   {
     "rank": 4,
     "id": 15261771,
     "title": "Court OKs child porn prosecution of minors distributing pictures of themselves",
     "url": "https://www.washingtonpost.com/news/volokh-conspiracy/wp/2017/09/14/its-okay-to-prosecute-minors-for-child-porn-for-distributing-sexual-pictures-of-themselves/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "ikeboy",
+    "descendants": 302,
+    "time": 1505519085
   },
   {
     "rank": 5,
     "id": 15261963,
     "title": "Why Dropbox decided to build its own infrastructure and network",
     "url": "https://techcrunch.com/2017/09/15/why-dropbox-decided-to-drop-aws-and-build-its-own-infrastructure-and-network/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "zachperret",
+    "descendants": 152,
+    "time": 1505521379
   },
   {
     "rank": 6,
     "id": 15262218,
     "title": "Linear Algebra for AI",
     "url": "https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "stablemap",
+    "descendants": 37,
+    "time": 1505524792
   },
   {
     "rank": 7,
     "id": 15262620,
     "title": "Cost of iPhone X in 1957",
     "url": "http://www.bradford-delong.com/2017/09/do-they-really-say-technological-progress-is-slowing-down.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "lsh123",
+    "descendants": 167,
+    "time": 1505531203
   },
   {
     "rank": 8,
     "id": 15264191,
     "title": "Europilot: A toolkit for Euro Truck Simulator to develop self-driving algorithms",
     "url": "https://github.com/marshq/europilot",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "daftshady",
+    "descendants": 39,
+    "time": 1505562605
   },
   {
     "rank": 9,
     "id": 15265356,
     "title": "Rob Pike's Rules of Programming (1989)",
     "url": "http://users.ece.utexas.edu/~adnan/pike.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "tosh",
+    "descendants": 112,
+    "time": 1505579755
   },
   {
     "rank": 10,
     "id": 15265507,
     "title": "We've failed: open access is winning and we must change our approach",
     "url": "http://onlinelibrary.wiley.com/doi/10.1002/leap.1116/full",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 626,
+    "by": "mathgenius",
+    "descendants": 377,
+    "time": 1505581853
   }
 ]

@@ -4,99 +4,99 @@
     "id": 15117825,
     "title": "Why successful startups stumble at 40 employees",
     "url": "https://thinkgrowth.org/why-successful-startups-stumble-at-40-employees-66312ac70fba",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "rmason",
+    "descendants": 119,
+    "time": 1503937847
   },
   {
     "rank": 2,
     "id": 15117865,
     "title": "KSQL: Open Source Streaming SQL for Apache Kafka",
     "url": "https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "uptown",
+    "descendants": 81,
+    "time": 1503938057
   },
   {
     "rank": 3,
     "id": 15118141,
     "title": "Maybe today\u2019s Navy is just not very good at driving ships",
     "url": "https://www.militarytimes.com/news/your-navy/2017/08/27/navy-swos-a-culture-in-crisis/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "smacktoward",
+    "descendants": 342,
+    "time": 1503939751
   },
   {
     "rank": 4,
     "id": 15118710,
     "title": "An MNIST-like fashion product dataset",
     "url": "https://github.com/zalandoresearch/fashion-mnist",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "kashifr",
+    "descendants": 21,
+    "time": 1503943456
   },
   {
     "rank": 5,
     "id": 15120656,
     "title": "FDA grants Breakthrough Therapy designation to MDMA for treatment of PTSD",
     "url": "http://www.maps.org/news/media/6786-press-release-fda-grants-breakthrough-therapy-designation-for-mdma-assisted-psychotherapy-for-ptsd,-agrees-on-special-protocol-assessment-for-phase-3-trials",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "anythingnonidin",
+    "descendants": 113,
+    "time": 1503959239
   },
   {
     "rank": 6,
     "id": 15122540,
     "title": "FizzleFade",
     "url": "http://fabiensanglard.net/fizzlefade/index.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 604,
+    "by": "pietrofmaggi",
+    "descendants": 176,
+    "time": 1503988689
   },
   {
     "rank": 7,
     "id": 15123923,
     "title": "Burger King launches WhopperCoin crypto-cash in Russia",
     "url": "http://www.bbc.com/news/technology-41082388",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "colinscape",
+    "descendants": 154,
+    "time": 1504011288
   },
   {
     "rank": 8,
     "id": 15124809,
     "title": "ARCore: Augmented reality at Android scale",
     "url": "https://www.blog.google/products/google-vr/arcore-augmented-reality-android-scale/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "transcranial",
+    "descendants": 317,
+    "time": 1504019483
   },
   {
     "rank": 9,
     "id": 15124881,
     "title": "When it comes to internet privacy, be afraid, analyst suggests",
     "url": "https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "petethomas",
+    "descendants": 255,
+    "time": 1504020237
   },
   {
     "rank": 10,
     "id": 15125340,
     "title": "Backblaze's Hard Drive Stats for Q2 2017",
     "url": "https://www.backblaze.com/blog/hard-drive-failure-stats-q2-2017/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "LaSombra",
+    "descendants": 143,
+    "time": 1504023589
   }
 ]

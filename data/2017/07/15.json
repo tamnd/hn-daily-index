@@ -4,99 +4,99 @@
     "id": 14771104,
     "title": "Yanni \u2013 An artificial neural network for Erlang",
     "url": "http://blog.ikura.co/posts/yanni-sings.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "_nato_",
+    "descendants": 71,
+    "time": 1500050033
   },
   {
     "rank": 2,
     "id": 14772169,
     "title": "Cracking the code behind Apple\u2019s App Store promo card design",
     "url": "http://blog.equinux.com/2017/07/cracking-the-code-behind-apples-app-store-promo-card-design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "reklawnos",
+    "descendants": 57,
+    "time": 1500057451
   },
   {
     "rank": 3,
     "id": 14772547,
     "title": "I mean, why not tell everyone our password hashes?",
     "url": "https://theobsidiantower.com/2017/07/12/aef453e9f6c1a6125bcb97cc6a97ec2fde128574.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "jorkro",
+    "descendants": 151,
+    "time": 1500060968
   },
   {
     "rank": 4,
     "id": 14773964,
     "title": "Gpu.js \u2013 GPU Accelerated JavaScript",
     "url": "http://gpu.rocks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "olegkikin",
+    "descendants": 77,
+    "time": 1500074050
   },
   {
     "rank": 5,
     "id": 14774167,
     "title": "Seeing AI for iOS",
     "url": "https://www.microsoft.com/en-us/seeing-ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 835,
+    "by": "kmather73",
+    "descendants": 126,
+    "time": 1500076371
   },
   {
     "rank": 6,
     "id": 14774655,
     "title": "50 days of postmarketOS",
     "url": "https://ollieparanoid.github.io/post/50-days-of-postmarketOS",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "ollieparanoid",
+    "descendants": 55,
+    "time": 1500084611
   },
   {
     "rank": 7,
     "id": 14774817,
     "title": "Australian PM Calls for End-To-End Encryption Ban",
     "url": "https://www.eff.org/deeplinks/2017/07/australian-pm-calls-end-end-encryption-ban-says-laws-mathematics-dont-apply-down",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "theunamedguy",
+    "descendants": 150,
+    "time": 1500087449
   },
   {
     "rank": 8,
     "id": 14775229,
     "title": "I Have No Enemies: My Final Statement (2009)",
     "url": "https://www.nobelprize.org/nobel_prizes/peace/laureates/2010/xiaobo-lecture.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "z3t1",
+    "descendants": 212,
+    "time": 1500098731
   },
   {
     "rank": 9,
     "id": 14775937,
     "title": "Broadcom BCM43xx Wi-Fi chips allow remote attackers to execute arbitrary code",
     "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-9417",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "rnhmjoj",
+    "descendants": 42,
+    "time": 1500113549
   },
   {
     "rank": 10,
     "id": 14776357,
     "title": "Maryam Mirzakhani, first woman and Iranian to win Fields Medal, has died",
     "url": "https://thewire.in/158018/maryam-mirzakhani-fields-medal-rouhani/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 614,
+    "by": "urahara",
+    "descendants": 105,
+    "time": 1500122040
   }
 ]

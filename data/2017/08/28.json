@@ -4,99 +4,99 @@
     "id": 15113613,
     "title": "Uber\u2019s board wants Expedia CEO Dara Khosrowshahi to be its next CEO",
     "url": "https://www.recode.net/2017/8/27/16212552/uber-board-ceo-decision-staff",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "danso",
+    "descendants": 199,
+    "time": 1503880037
   },
   {
     "rank": 2,
     "id": 15114055,
     "title": "Void Linux",
     "url": "https://www.voidlinux.eu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "da02",
+    "descendants": 88,
+    "time": 1503887264
   },
   {
     "rank": 3,
     "id": 15114139,
     "title": "Teach Yourself Logic 2017: A Study Guide [pdf]",
     "url": "http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "adamnemecek",
+    "descendants": 43,
+    "time": 1503888793
   },
   {
     "rank": 4,
     "id": 15114687,
     "title": "My wonderful world of macOS",
     "url": "https://github.com/nikitavoloboev/my-mac-os/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "thmslee",
+    "descendants": 231,
+    "time": 1503900279
   },
   {
     "rank": 5,
     "id": 15114934,
     "title": "Software development and screen readers at 450 words per minute",
     "url": "https://www.vincit.fi/en/blog/software-development-450-words-per-minute/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "mieky",
+    "descendants": 106,
+    "time": 1503904625
   },
   {
     "rank": 6,
     "id": 15115318,
     "title": "Show HN: Kubernetes as a back-end for OpenFaaS",
     "url": "https://github.com/alexellis/faas-netes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "alexellisuk",
+    "descendants": 67,
+    "time": 1503911048
   },
   {
     "rank": 7,
     "id": 15115874,
     "title": "Lessons learned from implementing a text editor related to front-end development",
     "url": "http://lpan.io/what-i-learnt-from-viw/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "mxstbr",
+    "descendants": 181,
+    "time": 1503920448
   },
   {
     "rank": 8,
     "id": 15116379,
     "title": "Ask HN: What maths are critical to pursuing ML/AI?",
     "url": "https://news.ycombinator.com/item?id=15116379",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 628,
+    "by": "chrisherd",
+    "descendants": 135,
+    "time": 1503927101
   },
   {
     "rank": 9,
     "id": 15116719,
     "title": "Disabling Intel ME 11 via undocumented mode",
     "url": "http://blog.ptsecurity.com/2017/08/disabling-intel-me.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 734,
+    "by": "Severian",
+    "descendants": 218,
+    "time": 1503930435
   },
   {
     "rank": 10,
     "id": 15116861,
     "title": "Toyota Research Institute head says full autonomous driving is \u201cnot even close\u201d",
     "url": "https://techcrunch.com/2017/01/04/toyotas-research-institute-head-says-full-autonomous-driving-is-not-even-close/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "rbanffy",
+    "descendants": 428,
+    "time": 1503931827
   }
 ]

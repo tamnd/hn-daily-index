@@ -4,99 +4,99 @@
     "id": 14978631,
     "title": "Ask HN: Projects that don't make you money but you're doing it out of sheer joy?",
     "url": "https://news.ycombinator.com/item?id=14978631",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 488,
+    "by": "superasn",
+    "descendants": 569,
+    "time": 1502364959
   },
   {
     "rank": 2,
     "id": 14979642,
     "title": "A rising sentiment that IBM\u2019s Watson can\u2019t deliver on its promises",
     "url": "http://gizmodo.com/why-everyone-is-hating-on-watson-including-the-people-w-1797510888",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "artsandsci",
+    "descendants": 278,
+    "time": 1502373267
   },
   {
     "rank": 3,
     "id": 14984464,
     "title": "Timescale, an open-source time-series SQL database for PostgreSQL",
     "url": "http://www.timescale.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "pbowyer",
+    "descendants": 100,
+    "time": 1502400391
   },
   {
     "rank": 4,
     "id": 14985604,
     "title": "HyperCard On The Archive",
     "url": "http://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "dogecoinbase",
+    "descendants": 115,
+    "time": 1502410741
   },
   {
     "rank": 5,
     "id": 14986324,
     "title": "The world in which IPv6 was a good design",
     "url": "http://apenwarr.ca/log/?m=201708#10",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 677,
+    "by": "dbenamy",
+    "descendants": 191,
+    "time": 1502421117
   },
   {
     "rank": 6,
     "id": 14986869,
     "title": "UX brutalism",
     "url": "https://www.uxbrutalism.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "takinola",
+    "descendants": 177,
+    "time": 1502430316
   },
   {
     "rank": 7,
     "id": 14987853,
     "title": "Critical security updates for Git, Subversion and Mercurial",
     "url": "http://marc.info/?l=git&m=150238802328673&w=2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "mnw21cam",
+    "descendants": 125,
+    "time": 1502442501
   },
   {
     "rank": 8,
     "id": 14990137,
     "title": "Ad blocking is under attack",
     "url": "https://blog.adguard.com/en/ad-blocking-is-under-attack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1111,
+    "by": "tiagobraw",
+    "descendants": 559,
+    "time": 1502462723
   },
   {
     "rank": 9,
     "id": 14990911,
     "title": "SoundCloud saved by emergency funding as CEO steps aside",
     "url": "https://techcrunch.com/2017/08/11/soundcloud-saved",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 550,
+    "by": "janober",
+    "descendants": 218,
+    "time": 1502466666
   },
   {
     "rank": 10,
     "id": 14993216,
     "title": "I Fell Victim to a $1,500 Used Camera Lens Scam on Amazon",
     "url": "https://petapixel.com/2017/08/11/fell-victim-1500-used-camera-lens-scam-amazon/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 937,
+    "by": "_vvdf",
+    "descendants": 428,
+    "time": 1502478855
   }
 ]

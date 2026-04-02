@@ -4,99 +4,99 @@
     "id": 15133830,
     "title": "Concurrent JavaScript: It can work",
     "url": "https://webkit.org/blog/7846/concurrent-javascript-it-can-work/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "stablemap",
+    "descendants": 186,
+    "time": 1504112587
   },
   {
     "rank": 2,
     "id": 15133956,
     "title": "Intro to Low-Level Graphics on Linux",
     "url": "http://betteros.org/tut/graphics1.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "mabynogy",
+    "descendants": 108,
+    "time": 1504113316
   },
   {
     "rank": 3,
     "id": 15134262,
     "title": "How the GDPR Will Disrupt Google and Facebook",
     "url": "https://pagefair.com/blog/2017/gdpr_risk_to_the_duopoly/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "cpeterso",
+    "descendants": 346,
+    "time": 1504115085
   },
   {
     "rank": 4,
     "id": 15134670,
     "title": "Bitcoin's Academic Pedigree",
     "url": "http://queue.acm.org/detail.cfm?id=3136559",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "kushti",
+    "descendants": 142,
+    "time": 1504117698
   },
   {
     "rank": 5,
     "id": 15137986,
     "title": "Astronomers have found the stars responsible for an explosion recorded in 1437",
     "url": "https://www.theatlantic.com/science/archive/2017/08/a-cosmic-whodunit/538482/?single_page=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "curtis",
+    "descendants": 60,
+    "time": 1504150565
   },
   {
     "rank": 6,
     "id": 15140043,
     "title": "The FCC.gov Website Lets You Upload Malware Using Its Own Public API Key",
     "url": "https://hackernoon.com/the-fcc-gov-website-lets-you-upload-documents-and-host-them-there-bdcd5c1a5b8b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "knaik94",
+    "descendants": 100,
+    "time": 1504185594
   },
   {
     "rank": 7,
     "id": 15140669,
     "title": "Interview with Ryan Dahl, Creator of Node.js",
     "url": "https://www.mappingthejourney.com/single-post/2017/08/31/Episode-8-Interview-with-Ryan-Dahl-Creator-of-Nodejs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "WhiteSource1",
+    "descendants": 228,
+    "time": 1504190906
   },
   {
     "rank": 8,
     "id": 15141495,
     "title": "ESPN Football Analyst Walks Away, Disturbed by Brain Trauma on Field",
     "url": "https://www.nytimes.com/2017/08/30/sports/espn-ed-cunningham-football-concussions.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "daegloe",
+    "descendants": 383,
+    "time": 1504197300
   },
   {
     "rank": 9,
     "id": 15141975,
     "title": "Announcing Rust 1.20",
     "url": "https://blog.rust-lang.org/2017/08/31/Rust-1.20.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "steveklabnik",
+    "descendants": 272,
+    "time": 1504200286
   },
   {
     "rank": 10,
     "id": 15142853,
     "title": "Criticizing Google got me fired",
     "url": "https://www.washingtonpost.com/news/posteverything/wp/2017/08/31/i-criticized-google-it-got-me-fired-thats-how-corporate-power-works/?hpid=hp_no-name_opinion-card-f%3Ahomepage%2Fstory",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1010,
+    "by": "pyrophane",
+    "descendants": 440,
+    "time": 1504206143
   }
 ]

@@ -4,99 +4,99 @@
     "id": 14928177,
     "title": "Porting 4.5K lines of C to Go",
     "url": "https://blog.kowalczyk.info/article/wN9R/experience-porting-4.5k-loc-of-c-to-go-facebooks-css-flexbox-implementation-yoga.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "ingve",
+    "descendants": 143,
+    "time": 1501849855
   },
   {
     "rank": 2,
     "id": 14929076,
     "title": "JetBrains Web UI components open-sourced",
     "url": "https://blog.jetbrains.com/hub/2017/08/02/jetbrains-web-ui-components-open-sourced/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "uptown",
+    "descendants": 90,
+    "time": 1501858286
   },
   {
     "rank": 3,
     "id": 14929220,
     "title": "Roman Ruins Found in France Are Called \u2018Exceptional\u2019",
     "url": "https://www.nytimes.com/2017/08/02/world/europe/france-roman-neighborhood-sainte-colombe-vienne.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "whocansay",
+    "descendants": 145,
+    "time": 1501859250
   },
   {
     "rank": 4,
     "id": 14929223,
     "title": "Prodigy: A new tool for radically efficient machine teaching",
     "url": "https://explosion.ai/blog/prodigy-annotation-tool-active-learning",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "Young_God",
+    "descendants": 69,
+    "time": 1501859267
   },
   {
     "rank": 5,
     "id": 14929988,
     "title": "US Supreme Court will require electronic filings and post them free online",
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2017/08/03/the-supreme-court-has-finally-embraced-the-21st-century/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "scott00",
+    "descendants": 32,
+    "time": 1501865394
   },
   {
     "rank": 6,
     "id": 14932899,
     "title": "A Candle Loses Nothing by Lighting Another Candle",
     "url": "http://stephaniehurlburt.com/blog/2017/8/4/a-candle-loses-nothing-by-lighting-another-candle",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "ingve",
+    "descendants": 73,
+    "time": 1501885796
   },
   {
     "rank": 7,
     "id": 14933317,
     "title": "A tall chimney to facilitate heat exchange in the atmosphere",
     "url": "http://www.superchimney.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "chr1",
+    "descendants": 190,
+    "time": 1501890551
   },
   {
     "rank": 8,
     "id": 14934874,
     "title": "Bitcoin: Evidence of spoofing, wash trading, and a scheme known as \u2018Tether\u2019",
     "url": "https://medium.com/@bitfinexed/meet-spoofy-how-a-single-entity-dominates-the-price-of-bitcoin-39c711d28eb4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "Artemis2",
+    "descendants": 78,
+    "time": 1501923646
   },
   {
     "rank": 9,
     "id": 14935700,
     "title": "ThyssenKrupp Multi \u2013 world\u2019s first rope-free elevator [video]",
     "url": "https://www.youtube.com/watch?v=E7QlAsxJP-g",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "based2",
+    "descendants": 196,
+    "time": 1501941356
   },
   {
     "rank": 10,
     "id": 14936025,
     "title": "Detecting Chrome headless",
     "url": "http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "avastel",
+    "descendants": 157,
+    "time": 1501945258
   }
 ]

@@ -4,99 +4,99 @@
     "id": 14880734,
     "title": "Millennials are keeping libraries alive",
     "url": "https://qz.com/1039294/millennials-are-the-ones-keeping-libraries-alive/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "prostoalex",
+    "descendants": 230,
+    "time": 1501329400
   },
   {
     "rank": 2,
     "id": 14881703,
     "title": "How Shor's Algorithm works (2007)",
     "url": "http://www.scottaaronson.com/blog/?p=208",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "monort",
+    "descendants": 17,
+    "time": 1501342861
   },
   {
     "rank": 3,
     "id": 14883776,
     "title": "Build an 8-bit computer from scratch",
     "url": "https://eater.net/8bit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "necrodome",
+    "descendants": 28,
+    "time": 1501374993
   },
   {
     "rank": 4,
     "id": 14884183,
     "title": "Postage \u2013 A fast replacement for pgAdmin",
     "url": "https://github.com/workflowproducts/postage/issues",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "justintocci",
+    "descendants": 127,
+    "time": 1501383082
   },
   {
     "rank": 5,
     "id": 14884418,
     "title": "SoundCloud's Collapse",
     "url": "https://www.buzzfeed.com/ryanmac/inside-the-storm-at-soundcloud",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 410,
+    "by": "lxm",
+    "descendants": 320,
+    "time": 1501388085
   },
   {
     "rank": 6,
     "id": 14884992,
     "title": "Ubershaders: A Ridiculous Solution to an Impossible Problem",
     "url": "https://dolphin-emu.org/blog/2017/07/30/ubershaders/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 772,
+    "by": "voltagex_",
+    "descendants": 88,
+    "time": 1501403102
   },
   {
     "rank": 7,
     "id": 14885168,
     "title": "A Look into NASA\u2019s Coding Philosophy",
     "url": "https://mystudentvoices.com/a-look-into-nasas-coding-philosophy-b747957c7f8a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "astdb",
+    "descendants": 51,
+    "time": 1501406722
   },
   {
     "rank": 8,
     "id": 14885733,
     "title": "Why I left Medium and moved back to my own domain",
     "url": "https://arslan.io/2017/07/30/why-i-left-medium-and-moved-back-to-my-own-domain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 482,
+    "by": "ingve",
+    "descendants": 247,
+    "time": 1501419147
   },
   {
     "rank": 9,
     "id": 14885863,
     "title": "Ask HN: Have you regretted making something open-source?",
     "url": "https://news.ycombinator.com/item?id=14885863",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "haydenlee",
+    "descendants": 214,
+    "time": 1501421613
   },
   {
     "rank": 10,
     "id": 14887414,
     "title": "Deep Learning for Coders \u2013 Launching Deep Learning Part 2",
     "url": "http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 716,
+    "by": "jph00",
+    "descendants": 91,
+    "time": 1501443342
   }
 ]

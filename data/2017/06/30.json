@@ -4,99 +4,99 @@
     "id": 14661636,
     "title": "The Rise of the Thought Leader",
     "url": "https://newrepublic.com/article/143004/rise-thought-leader-how-superrich-funded-new-class-intellectual",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "imartin2k",
+    "descendants": 148,
+    "time": 1498725037
   },
   {
     "rank": 2,
     "id": 14661659,
     "title": "Pattern-defeating quicksort",
     "url": "https://github.com/orlp/pdqsort",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "pettou",
+    "descendants": 72,
+    "time": 1498725476
   },
   {
     "rank": 3,
     "id": 14662107,
     "title": "The .feedback scam",
     "url": "http://everythingsysadmin.com/2017/06/the-feedback-scam.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 559,
+    "by": "0x0",
+    "descendants": 160,
+    "time": 1498732268
   },
   {
     "rank": 4,
     "id": 14664148,
     "title": "Once a Model City, Hong Kong Is in Trouble",
     "url": "https://www.nytimes.com/2017/06/29/world/asia/hong-kong-china-handover.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "acdanger",
+    "descendants": 303,
+    "time": 1498750911
   },
   {
     "rank": 5,
     "id": 14664703,
     "title": "John Carmack Archive \u2013 Interviews [pdf]",
     "url": "http://fd.fabiensanglard.net/doom3/pdfs/johnc-interviews.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "Arjuna",
+    "descendants": 61,
+    "time": 1498754737
   },
   {
     "rank": 6,
     "id": 14666359,
     "title": "EFF's Letter to Zillow on Behalf of McMansion Hell [pdf]",
     "url": "https://www.eff.org/files/2017/06/29/wagner_eff_letter_to_zillow_-_2017.06.29.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "harryh",
+    "descendants": 122,
+    "time": 1498766106
   },
   {
     "rank": 7,
     "id": 14668706,
     "title": "Effectively Using Matplotlib",
     "url": "http://pbpython.com/effective-matplotlib.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "kercker",
+    "descendants": 76,
+    "time": 1498798429
   },
   {
     "rank": 8,
     "id": 14670306,
     "title": "\u201cWhich word begins with \u201cy\u201d and looks like an axe in this picture?\u201d",
     "url": "https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 615,
+    "by": "Gigablah",
+    "descendants": 159,
+    "time": 1498826031
   },
   {
     "rank": 9,
     "id": 14670801,
     "title": "Exactly-once Semantics: How Kafka Does it",
     "url": "https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "listentojohan",
+    "descendants": 39,
+    "time": 1498831698
   },
   {
     "rank": 10,
     "id": 14671070,
     "title": "Scott's Cheap Flights: Growing a small side project into a booming business",
     "url": "https://www.indiehackers.com/businesses/scotts-cheap-flights-02",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 559,
+    "by": "bkidwell",
+    "descendants": 227,
+    "time": 1498834082
   }
 ]

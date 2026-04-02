@@ -4,99 +4,99 @@
     "id": 15146905,
     "title": "Great Ideas in Theoretical Computer Science",
     "url": "http://www.cs.cmu.edu/~aada/courses/15251f15/www/schedule.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "tu7001",
+    "descendants": 58,
+    "time": 1504253112
   },
   {
     "rank": 2,
     "id": 15151865,
     "title": "Internet Censorship Bill Could Spell Disaster for Speech and Innovation",
     "url": "https://www.eff.org/deeplinks/2017/08/internet-censorship-bill-would-spell-disaster-speech-and-innovation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "snsr",
+    "descendants": 74,
+    "time": 1504295466
   },
   {
     "rank": 3,
     "id": 15152155,
     "title": "Bad UX: How Booking.com deceives clients",
     "url": "https://medium.com/@ilyadoroshin/bad-ux-how-booking-com-deceives-clients-5dc9e9485f32",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "ivan_gammel",
+    "descendants": 145,
+    "time": 1504297898
   },
   {
     "rank": 4,
     "id": 15152931,
     "title": "US government halts study on health effects of coal mining",
     "url": "https://www.nature.com/news/closure-of-us-coal-study-marks-an-alarming-precedent-1.22512",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "gwerbret",
+    "descendants": 92,
+    "time": 1504306258
   },
   {
     "rank": 5,
     "id": 15153956,
     "title": "My first fifteen compilers",
     "url": "http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "dhanush",
+    "descendants": 76,
+    "time": 1504320889
   },
   {
     "rank": 6,
     "id": 15154903,
     "title": "Ask HN: What are your favourite developer blogs?",
     "url": "https://news.ycombinator.com/item?id=15154903",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "mubaris",
+    "descendants": 66,
+    "time": 1504340033
   },
   {
     "rank": 7,
     "id": 15155609,
     "title": "Where will Artificial General Intelligence come from? [slides]",
     "url": "https://docs.google.com/presentation/d/119VW6ueBGLQXsw-jGMboGP2-WuOnyMAOYLgd44SL6xM/edit#slide=id.p",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "nshr",
+    "descendants": 240,
+    "time": 1504355075
   },
   {
     "rank": 8,
     "id": 15155833,
     "title": "Ask HN: What books have made the biggest impact on your mental models?",
     "url": "https://news.ycombinator.com/item?id=15155833",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 692,
+    "by": "baran",
+    "descendants": 247,
+    "time": 1504358469
   },
   {
     "rank": 9,
     "id": 15156291,
     "title": "Rental camera gear destroyed by the 2017 eclipse",
     "url": "https://www.lensrentals.com/blog/2017/09/rental-camera-gear-destroyed-by-the-solar-eclipse-of-2017/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 599,
+    "by": "blueintegral",
+    "descendants": 153,
+    "time": 1504364437
   },
   {
     "rank": 10,
     "id": 15156363,
     "title": "\u201cI'm Kabir and I'm a 13 y/o maker\u201d",
     "url": "https://twitter.com/kbrshah/status/903122136293769216",
-    "score": 0,
-    "by": "",
+    "score": 234,
+    "by": "alexquort",
     "descendants": 0,
-    "time": 0
+    "time": 1504365335
   }
 ]

@@ -4,99 +4,99 @@
     "id": 15231302,
     "title": "What every software engineer should know about search",
     "url": "https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "forwidur",
+    "descendants": 55,
+    "time": 1505245086
   },
   {
     "rank": 2,
     "id": 15232147,
     "title": "Washington Post integrates Talk \u2013 Mozilla\u2019s open-source commenting platform",
     "url": "https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 564,
+    "by": "mwheeler",
+    "descendants": 334,
+    "time": 1505247891
   },
   {
     "rank": 3,
     "id": 15233127,
     "title": "Reddit's Ad Changes Reduce Your ROI",
     "url": "https://news.ycombinator.com/item?id=15233127",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "bold_panda",
+    "descendants": 87,
+    "time": 1505252671
   },
   {
     "rank": 4,
     "id": 15233399,
     "title": "Equifax Argentinian portal secured with admin/admin",
     "url": "https://krebsonsecurity.com/2017/09/ayuda-help-equifax-has-my-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "mjcl",
+    "descendants": 52,
+    "time": 1505254355
   },
   {
     "rank": 5,
     "id": 15234207,
     "title": "It appears my Google account is slated for deletion",
     "url": "https://alexaobrien.com/archives/3647",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 657,
+    "by": "harryh",
+    "descendants": 266,
+    "time": 1505260975
   },
   {
     "rank": 6,
     "id": 15235221,
     "title": "Better Database Migrations in Postgres",
     "url": "http://www.craigkerstiens.com/2017/09/10/better-postgres-migrations/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "jbreihan",
+    "descendants": 85,
+    "time": 1505272550
   },
   {
     "rank": 7,
     "id": 15235466,
     "title": "Blender 2.79 released",
     "url": "https://www.blender.org/features/releases/2-79/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "Tomte",
+    "descendants": 147,
+    "time": 1505275747
   },
   {
     "rank": 8,
     "id": 15236377,
     "title": "General and Surprising",
     "url": "http://paulgraham.com/sun.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "maguay",
+    "descendants": 197,
+    "time": 1505289952
   },
   {
     "rank": 9,
     "id": 15237896,
     "title": "Sublime Text 3.0",
     "url": "https://www.sublimetext.com/blog/articles/sublime-text-3-point-0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1653,
+    "by": "fbnlsr",
+    "descendants": 675,
+    "time": 1505308412
   },
   {
     "rank": 10,
     "id": 15240781,
     "title": "EFF, ACLU Sue Over Warrantless Phone, Laptop Searches at U.S. Border",
     "url": "https://www.eff.org/press/releases/eff-aclu-media-conference-call-today-announce-lawsuit-over-warrantless-phone-and",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 549,
+    "by": "DiabloD3",
+    "descendants": 118,
+    "time": 1505325375
   }
 ]
