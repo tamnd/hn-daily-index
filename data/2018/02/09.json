@@ -4,99 +4,99 @@
     "id": 16332139,
     "title": "Science\u2019s Pirate Queen",
     "url": "https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "IntronExon",
+    "descendants": 251,
+    "time": 1518099584
   },
   {
     "rank": 2,
     "id": 16333939,
     "title": "Exploring ReasonML and functional programming",
     "url": "http://reasonmlhub.com/exploring-reasonml/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "jasim",
+    "descendants": 63,
+    "time": 1518111724
   },
   {
     "rank": 3,
     "id": 16334241,
     "title": "Chrome 68 will mark all HTTP sites as \u201cnot secure\u201d",
     "url": "https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 806,
+    "by": "el_duderino",
+    "descendants": 812,
+    "time": 1518113899
   },
   {
     "rank": 4,
     "id": 16337434,
     "title": "Is developer compensation becoming bimodal?",
     "url": "https://danluu.com/bimodal-compensation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "signa11",
+    "descendants": 561,
+    "time": 1518143270
   },
   {
     "rank": 5,
     "id": 16339004,
     "title": "Show HN: TablePlus \u2013 A macOS client for relational databases",
     "url": "https://medium.com/tableplus/modern-native-tool-for-relational-database-79efc35b647d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "bit_4l",
+    "descendants": 155,
+    "time": 1518168861
   },
   {
     "rank": 6,
     "id": 16340315,
     "title": "Facebook's Desperate Smoke Screen",
     "url": "http://calnewport.com/blog/2018/02/09/facebooks-desperate-smoke-screen/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "mengledowl",
+    "descendants": 248,
+    "time": 1518186052
   },
   {
     "rank": 7,
     "id": 16340462,
     "title": "Postmortem of Service Outage at 3.4M Concurrent Users",
     "url": "https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-at-3-4m-ccu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "johnnyapol",
+    "descendants": 174,
+    "time": 1518187370
   },
   {
     "rank": 8,
     "id": 16340732,
     "title": "Amazon will launch its own delivery service to compete with FedEx, UPS",
     "url": "https://bgr.com/2018/02/09/amazon-delivery-service-swa-fedex-ups/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "artsandsci",
+    "descendants": 296,
+    "time": 1518189269
   },
   {
     "rank": 9,
     "id": 16340741,
     "title": "VLC 3.0 release",
     "url": "https://www.videolan.org/vlc/releases/3.0.0.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 827,
+    "by": "jbk",
+    "descendants": 294,
+    "time": 1518189325
   },
   {
     "rank": 10,
     "id": 16341094,
     "title": "Uber and Waymo Reach Settlement",
     "url": "https://www.uber.com/newsroom/uber-waymo-settlement/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "chollida1",
+    "descendants": 266,
+    "time": 1518191666
   }
 ]

@@ -4,99 +4,99 @@
     "id": 16406822,
     "title": "Apache OpenWhisk \u2013 A serverless, open-source cloud platform",
     "url": "https://openwhisk.apache.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "based2",
+    "descendants": 137,
+    "time": 1518972202
   },
   {
     "rank": 2,
     "id": 16409429,
     "title": "Asciinema 2.0",
     "url": "http://blog.asciinema.org/post/two-point-o/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "troydavis",
+    "descendants": 46,
+    "time": 1518995292
   },
   {
     "rank": 3,
     "id": 16409572,
     "title": "Show HN: Decentralized application starter with Vue, Ethereum and IPFS",
     "url": "https://github.com/redacademy/vue-ethereum-ipfs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "mknze",
+    "descendants": 80,
+    "time": 1518996947
   },
   {
     "rank": 4,
     "id": 16409768,
     "title": "Ask HN: What has HN given you?",
     "url": "https://news.ycombinator.com/item?id=16409768",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1095,
+    "by": "jxub",
+    "descendants": 570,
+    "time": 1518999283
   },
   {
     "rank": 5,
     "id": 16411210,
     "title": "The Real History of TechCrunch",
     "url": "https://uncrunched.com/2018/02/18/the-real-history-of-techcrunch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "zastrowm",
+    "descendants": 89,
+    "time": 1519023556
   },
   {
     "rank": 6,
     "id": 16411363,
     "title": "Working remotely, 4 years in",
     "url": "https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "samdk",
+    "descendants": 199,
+    "time": 1519025996
   },
   {
     "rank": 7,
     "id": 16411662,
     "title": "Ask HN: Is it 'normal' to struggle so hard with work?",
     "url": "https://news.ycombinator.com/item?id=16411662",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 802,
+    "by": "throwawayqdhd",
+    "descendants": 369,
+    "time": 1519031007
   },
   {
     "rank": 8,
     "id": 16412263,
     "title": "Rust things I miss in C",
     "url": "https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "heinrich5991",
+    "descendants": 162,
+    "time": 1519040166
   },
   {
     "rank": 9,
     "id": 16413668,
     "title": "Elm changed my mind about unpopular languages",
     "url": "https://blog.realkinetic.com/elm-changed-my-mind-about-unpopular-languages-190a23f4a834",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "lyddonb",
+    "descendants": 312,
+    "time": 1519056590
   },
   {
     "rank": 10,
     "id": 16413917,
     "title": "Maybe you don't need Rust and WASM to speed up your JS",
     "url": "http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 600,
+    "by": "youngtaff",
+    "descendants": 181,
+    "time": 1519058833
   }
 ]

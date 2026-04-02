@@ -4,99 +4,99 @@
     "id": 16367997,
     "title": "Who Killed the Junior Developer?",
     "url": "https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 803,
+    "by": "gregorymichael",
+    "descendants": 777,
+    "time": 1518536908
   },
   {
     "rank": 2,
     "id": 16368653,
     "title": "Show HN: Curated, Pre-trained ML Models for Transfer Learning",
     "url": "https://modeldepot.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "hsikka",
+    "descendants": 27,
+    "time": 1518541161
   },
   {
     "rank": 3,
     "id": 16369994,
     "title": "What I wish I knew when I became CTO",
     "url": "https://medium.com/sketchdeck-developer-blog/what-i-wish-i-knew-when-i-became-cto-fdc934b790e3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 519,
+    "by": "edmack",
+    "descendants": 249,
+    "time": 1518550494
   },
   {
     "rank": 4,
     "id": 16370049,
     "title": "Italian Anti-Corruption Authority Adopts Onion Services",
     "url": "https://blog.torproject.org/italian-anti-corruption-authority-anac-adopts-onion-services",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "jakobdabo",
+    "descendants": 97,
+    "time": 1518550911
   },
   {
     "rank": 5,
     "id": 16371030,
     "title": "Don't use VPN services",
     "url": "https://gist.github.com/joepie91/5a9909939e6ce7d09e29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "miles",
+    "descendants": 195,
+    "time": 1518557880
   },
   {
     "rank": 6,
     "id": 16372234,
     "title": "AMP for email is a terrible idea",
     "url": "https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1151,
+    "by": "coloneltcb",
+    "descendants": 465,
+    "time": 1518567466
   },
   {
     "rank": 7,
     "id": 16372375,
     "title": "Phaser 3.0: HTML5 game framework",
     "url": "https://github.com/photonstorm/phaser",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "johnhattan",
+    "descendants": 59,
+    "time": 1518568858
   },
   {
     "rank": 8,
     "id": 16374075,
     "title": "Farewell from Rusty Russell",
     "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ed875ea1fcc6c34ea232610c3041d0978e327bbe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "erwan",
+    "descendants": 65,
+    "time": 1518592104
   },
   {
     "rank": 9,
     "id": 16375938,
     "title": "Dtrace for Linux",
     "url": "https://gnu.wildebeest.org/blog/mjw/2018/02/14/dtrace-for-linux-oracle-does-the-right-thing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "espadrine",
+    "descendants": 104,
+    "time": 1518618765
   },
   {
     "rank": 10,
     "id": 16378458,
     "title": "Let's Learn About Waveforms",
     "url": "http://waveforms.surge.sh/waveforms-intro",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 989,
+    "by": "tomduncalf",
+    "descendants": 128,
+    "time": 1518635855
   }
 ]

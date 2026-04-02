@@ -4,99 +4,99 @@
     "id": 16431037,
     "title": "Startup Ideas We'd Like to Fund (2008)",
     "url": "http://old.ycombinator.com/ideas.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "evsamsonov",
+    "descendants": 176,
+    "time": 1519233472
   },
   {
     "rank": 2,
     "id": 16434758,
     "title": "Disney loses bid to stop Redbox from selling its digital download codes",
     "url": "https://www.theverge.com/2018/2/21/17036932/disney-redbox-lawsuit-star-wars-marvel-pixar-digital-downloads",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "IntronExon",
+    "descendants": 178,
+    "time": 1519266837
   },
   {
     "rank": 3,
     "id": 16435305,
     "title": "Do not use NPM 5.7",
     "url": "https://github.com/npm/npm/issues/19883",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "jguimont",
+    "descendants": 225,
+    "time": 1519276705
   },
   {
     "rank": 4,
     "id": 16435306,
     "title": "I don\u2019t understand Graph Theory",
     "url": "https://medium.com/@vardanator/i-dont-understand-graph-theory-1c96572a1401",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 566,
+    "by": "signa11",
+    "descendants": 138,
+    "time": 1519276729
   },
   {
     "rank": 5,
     "id": 16435688,
     "title": "Electron 2.0.0 beta",
     "url": "https://electronjs.org/releases#2.0.0-beta.1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "l2dy",
+    "descendants": 428,
+    "time": 1519281859
   },
   {
     "rank": 6,
     "id": 16435949,
     "title": "Computer History Museum 2018 Fellow: Guido van Rossum",
     "url": "http://www.computerhistory.org/fellowawards/hall/guido-van-rossum/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "rbanffy",
+    "descendants": 64,
+    "time": 1519285650
   },
   {
     "rank": 7,
     "id": 16436886,
     "title": "Preparing for Malicious Uses of AI",
     "url": "https://blog.openai.com/preparing-for-malicious-uses-of-ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "williamtrask",
+    "descendants": 227,
+    "time": 1519299550
   },
   {
     "rank": 8,
     "id": 16437452,
     "title": "Taiwan ban single-use plastic straws, plastic bags, disposable utensils by 2030",
     "url": "https://www.hongkongfp.com/2018/02/22/taiwan-ban-single-use-plastic-drinking-straws-plastic-bags-disposable-utensils-entirely-2030/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 659,
+    "by": "jacksmith21006",
+    "descendants": 402,
+    "time": 1519307033
   },
   {
     "rank": 9,
     "id": 16437973,
     "title": "Hacker News's Undocumented Features and Behaviors",
     "url": "https://github.com/minimaxir/hacker-news-undocumented",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 803,
+    "by": "minimaxir",
+    "descendants": 391,
+    "time": 1519311854
   },
   {
     "rank": 10,
     "id": 16439270,
     "title": "My Python Development Environment, 2018 Edition",
     "url": "https://jacobian.org/writing/python-environment-2018/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 530,
+    "by": "craigkerstiens",
+    "descendants": 219,
+    "time": 1519320232
   }
 ]

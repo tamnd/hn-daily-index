@@ -4,99 +4,99 @@
     "id": 16375534,
     "title": "Germany considers free public transport in fight to banish air pollution",
     "url": "https://www.thelocal.de/20180213/germany-considers-making-public-transport-free-to-fight-air-pollution",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "keeganjw",
+    "descendants": 193,
+    "time": 1518614918
   },
   {
     "rank": 2,
     "id": 16377534,
     "title": "CSS Grid for UI Layouts",
     "url": "https://hacks.mozilla.org/2018/02/css-grid-for-ui-layouts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "jhatax",
+    "descendants": 104,
+    "time": 1518629742
   },
   {
     "rank": 3,
     "id": 16377751,
     "title": "Launch HN: SheerlyGenius (YC W18) \u2013 Indestructible Tights from Bulletproof Fiber",
     "url": "https://news.ycombinator.com/item?id=16377751",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "kathomuth",
+    "descendants": 168,
+    "time": 1518631174
   },
   {
     "rank": 4,
     "id": 16378846,
     "title": "The FBI, CIA and NSA say American citizens shouldn't use Huawei phones",
     "url": "http://money.cnn.com/2018/02/14/technology/huawei-intelligence-chiefs/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "daegloe",
+    "descendants": 254,
+    "time": 1518638406
   },
   {
     "rank": 5,
     "id": 16378888,
     "title": "Facebook spamming users via their 2FA phone numbers",
     "url": "https://mashable.com/2018/02/14/facebook-spam-2fa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 550,
+    "by": "pinewurst",
+    "descendants": 367,
+    "time": 1518638699
   },
   {
     "rank": 6,
     "id": 16379939,
     "title": "MPEG-2 Patents Have Expired",
     "url": "http://www.mpegla.com/main/programs/M2/Pages/PatentList.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "symisc_devel",
+    "descendants": 176,
+    "time": 1518645997
   },
   {
     "rank": 7,
     "id": 16380345,
     "title": "Email is your electronic memory",
     "url": "https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1248,
+    "by": "brongondwana",
+    "descendants": 282,
+    "time": 1518649159
   },
   {
     "rank": 8,
     "id": 16384001,
     "title": "MongoDB gets support for multi-document ACID transactions",
     "url": "https://techcrunch.com/2018/02/15/mongodb-gets-support-for-multi-document-acid-transactions/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "uptown",
+    "descendants": 242,
+    "time": 1518703316
   },
   {
     "rank": 9,
     "id": 16386429,
     "title": "Hey Microsoft, Stop Installing Apps on My PC Without Asking",
     "url": "https://www.howtogeek.com/342871/hey-microsoft-stop-installing-apps-on-my-pc-without-asking/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "Scramblejams",
+    "descendants": 331,
+    "time": 1518720306
   },
   {
     "rank": 10,
     "id": 16386509,
     "title": "Rust 1.24",
     "url": "https://blog.rust-lang.org/2018/02/15/Rust-1.24.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "steveklabnik",
+    "descendants": 208,
+    "time": 1518720945
   }
 ]
