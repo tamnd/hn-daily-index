@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 27151993,
+    "title": "Lima: Linux-on-Mac",
+    "url": "https://github.com/AkihiroSuda/lima/tree/master",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 27152920,
+    "title": "Rust Weird Expressions",
+    "url": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 27156859,
+    "title": "Delaying a Covid vaccine\u2019s second dose boosts immune response",
+    "url": "https://www.nature.com/articles/d41586-021-01299-y",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 27159906,
+    "title": "Quake3e, a modern Quake III Arena engine",
+    "url": "https://github.com/ec-/Quake3e",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 27160983,
+    "title": "The Return of Fancy Tools",
+    "url": "https://macwright.com/2021/03/16/return-of-fancy-tools.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 27161011,
+    "title": "TikTok Remix Culture",
+    "url": "https://twitter.com/Iameaschris/status/1391207396979007488",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 27161217,
+    "title": "TSMC looks to double down on U.S. chip factories as talks in Europe falter",
+    "url": "https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 27161524,
+    "title": "China lands rover on Mars",
+    "url": "https://www.bbc.com/news/science-environment-57122914",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 27164000,
+    "title": "Things you can\u2019t do in Rust (and what to do instead)",
+    "url": "https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 27165954,
+    "title": "Modern Javascript: Everything you missed over the last 10 years (2020)",
+    "url": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
