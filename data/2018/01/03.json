@@ -4,99 +4,99 @@
     "id": 16055027,
     "title": "Using Java 9 Modularization to Ship Zero-Dependency Apps",
     "url": "https://steveperkins.com/using-java-9-modularization-to-ship-zero-dependency-native-apps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "lfischer",
+    "descendants": 225,
+    "time": 1514923262
   },
   {
     "rank": 2,
     "id": 16056156,
     "title": "Spotify hit with $1.6B copyright lawsuit",
     "url": "https://www.reuters.com/article/us-spotify-lawsuit/spotify-hit-with-1-6-billion-copyright-lawsuit-idUSKBN1ER1RX",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "uptown",
+    "descendants": 326,
+    "time": 1514930336
   },
   {
     "rank": 3,
     "id": 16057449,
     "title": "NSA\u2019s top talent is leaving because of low pay, flagging morale, unpopular reorg",
     "url": "https://www.washingtonpost.com/world/national-security/the-nsas-top-talent-is-leaving-because-of-low-pay-and-battered-morale/2018/01/02/ff19f0c6-ec04-11e7-9f92-10a2203f6c8d_story.html?utm_term=.0388eaf826c3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 824,
+    "by": "sea6ear",
+    "descendants": 514,
+    "time": 1514941355
   },
   {
     "rank": 4,
     "id": 16058920,
     "title": "Serious Intel CPU bugs (2016)",
     "url": "https://danluu.com/cpu-bugs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "derek",
+    "descendants": 106,
+    "time": 1514960273
   },
   {
     "rank": 5,
     "id": 16059257,
     "title": "Why the U.S. Spends So Much More Than Other Nations on Health Care",
     "url": "https://www.nytimes.com/2018/01/02/upshot/us-health-care-expensive-country-comparison.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "yeukhon",
+    "descendants": 556,
+    "time": 1514965120
   },
   {
     "rank": 6,
     "id": 16060855,
     "title": "Intel Confronts Potential \u2018PR Nightmare\u2019 With Reported Chip Flaw",
     "url": "https://www.bloomberg.com/news/articles/2018-01-03/amd-soars-after-rival-intel-said-to-reveal-processor-flaw?cmpid=socialflow-twitter-business",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1026,
+    "by": "el_duderino",
+    "descendants": 543,
+    "time": 1514987004
   },
   {
     "rank": 7,
     "id": 16061837,
     "title": "Spotify files for its IPO",
     "url": "https://www.axios.com/exclusive-spotify-files-for-its-ipo-2522109160.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "rahulchhabra07",
+    "descendants": 212,
+    "time": 1514993945
   },
   {
     "rank": 8,
     "id": 16063273,
     "title": "After beating cable lobby, Colorado city moves ahead with muni broadband",
     "url": "https://arstechnica.com/tech-policy/2018/01/colorado-city-to-build-fiber-broadband-network-with-net-neutrality/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 511,
+    "by": "jseliger",
+    "descendants": 135,
+    "time": 1515002445
   },
   {
     "rank": 9,
     "id": 16064545,
     "title": "Intel Responds to Security Research Findings",
     "url": "https://newsroom.intel.com/news/intel-responds-to-security-research-findings/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 588,
+    "by": "runesoerensen",
+    "descendants": 229,
+    "time": 1515009970
   },
   {
     "rank": 10,
     "id": 16065845,
     "title": "Reading privileged memory with a side-channel",
     "url": "https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2334,
+    "by": "brandon",
+    "descendants": 593,
+    "time": 1515018048
   }
 ]

@@ -4,99 +4,99 @@
     "id": 15938082,
     "title": "Attention Is All You Need",
     "url": "https://papers.nips.cc/paper/7181-attention-is-all-you-need",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "espeed",
+    "descendants": 30,
+    "time": 1513404942
   },
   {
     "rank": 2,
     "id": 15939036,
     "title": "WebAssembly Raytracer",
     "url": "https://sniklaus.com/blog/raytracer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "omn1",
+    "descendants": 84,
+    "time": 1513423669
   },
   {
     "rank": 3,
     "id": 15940674,
     "title": "The Pentagon\u2019s U.F.O. Program",
     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "farseer",
+    "descendants": 272,
+    "time": 1513446885
   },
   {
     "rank": 4,
     "id": 15941838,
     "title": "In B-Flat",
     "url": "http://www.inbflat.net",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "sdenton4",
+    "descendants": 43,
+    "time": 1513456079
   },
   {
     "rank": 5,
     "id": 15944112,
     "title": "IOTA: A tangled mess",
     "url": "http://codesuppository.blogspot.com/2017/12/iota-tangled-mess.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "wglb",
+    "descendants": 234,
+    "time": 1513485006
   },
   {
     "rank": 6,
     "id": 15944186,
     "title": "As crime dries up, Japan\u2019s police hunt for things to do",
     "url": "https://www.economist.com/news/asia/21722216-there-was-just-one-fatal-shooting-whole-2015-crime-dries-up-japans-police-hunt?fsrc=scn/tw/te/rfd/pe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "lxm",
+    "descendants": 178,
+    "time": 1513486260
   },
   {
     "rank": 7,
     "id": 15944419,
     "title": "In Japan, small children take the subway and run errands alone (2015)",
     "url": "https://www.citylab.com/transportation/2015/09/why-are-little-kids-in-japan-so-independent/407590/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "lighttower",
+    "descendants": 240,
+    "time": 1513490175
   },
   {
     "rank": 8,
     "id": 15945490,
     "title": "Show HN: An educational blockchain implementation in Python",
     "url": "https://github.com/julienr/ipynb_playground/blob/master/bitcoin/dumbcoin/dumbcoin.ipynb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "jre",
+    "descendants": 41,
+    "time": 1513513926
   },
   {
     "rank": 9,
     "id": 15946095,
     "title": "Internet Chemotherapy",
     "url": "https://ghostbin.com/paste/q2vq2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 616,
+    "by": "signa11",
+    "descendants": 135,
+    "time": 1513524694
   },
   {
     "rank": 10,
     "id": 15946425,
     "title": "Boardgame.io: State management and more for turn-based games",
     "url": "https://google.github.io/boardgame.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 657,
+    "by": "ingve",
+    "descendants": 90,
+    "time": 1513529174
   }
 ]

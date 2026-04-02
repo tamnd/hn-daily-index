@@ -4,99 +4,99 @@
     "id": 16010930,
     "title": "Why TLS 1.3 isn't in browsers yet",
     "url": "https://blog.cloudflare.com/why-tls-1-3-isnt-in-browsers-yet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "el_duderino",
+    "descendants": 116,
+    "time": 1514321360
   },
   {
     "rank": 2,
     "id": 16013448,
     "title": "India\u2019s IT industry laid off more than 56k employees this year",
     "url": "https://qz.com/1152683/indian-it-layoffs-in-2017-top-56000-led-by-tcs-infosys-cognizant/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "codesternews",
+    "descendants": 394,
+    "time": 1514360440
   },
   {
     "rank": 3,
     "id": 16013543,
     "title": "Learning from Scratch by Thinking Fast and Slow",
     "url": "https://davidbarber.github.io/blog/2017/11/07/Learning-From-Scratch-by-Thinking-Fast-and-Slow-with-Deep-Learning-and-Tree-Search/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "rusht",
+    "descendants": 14,
+    "time": 1514362013
   },
   {
     "rank": 4,
     "id": 16014278,
     "title": "A pattern language for microservices",
     "url": "http://microservices.io/patterns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "exploreshaifali",
+    "descendants": 100,
+    "time": 1514376310
   },
   {
     "rank": 5,
     "id": 16014375,
     "title": "From inboxing to thought showers: how business bullshit took over",
     "url": "https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "tomduncalf",
+    "descendants": 169,
+    "time": 1514377941
   },
   {
     "rank": 6,
     "id": 16021486,
     "title": "High Sierra macOS freezing and stops",
     "url": "https://discussions.apple.com/thread/8101384",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "mhasbini",
+    "descendants": 327,
+    "time": 1514460541
   },
   {
     "rank": 7,
     "id": 16021876,
     "title": "Building a Distributed Log from Scratch: Data Replication",
     "url": "https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "bhattisatish",
+    "descendants": 21,
+    "time": 1514467773
   },
   {
     "rank": 8,
     "id": 16022228,
     "title": "The lucrative business of America\u2019s opioid crisis",
     "url": "https://www.nytimes.com/interactive/2017/12/27/business/addiction-inc.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "dpflan",
+    "descendants": 192,
+    "time": 1514472424
   },
   {
     "rank": 9,
     "id": 16022916,
     "title": "Effective Engineer \u2013 Notes",
     "url": "https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 751,
+    "by": "signa11",
+    "descendants": 225,
+    "time": 1514478104
   },
   {
     "rank": 10,
     "id": 16025112,
     "title": "A Message to Our Customers about iPhone Batteries and Performance",
     "url": "https://www.apple.com/iphone-battery-and-performance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1176,
+    "by": "jayachdee",
+    "descendants": 832,
+    "time": 1514497177
   }
 ]

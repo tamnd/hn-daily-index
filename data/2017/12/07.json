@@ -4,99 +4,99 @@
     "id": 15861888,
     "title": "The suicide rate for farmers in the U.S. is more than double that of veterans",
     "url": "https://www.theguardian.com/us-news/2017/dec/06/why-are-americas-farmers-killing-themselves-in-record-numbers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "liyanage",
+    "descendants": 380,
+    "time": 1512574879
   },
   {
     "rank": 2,
     "id": 15861952,
     "title": "PostgreSQL HA cluster failure: a post-mortem",
     "url": "https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "stevedomin",
+    "descendants": 117,
+    "time": 1512575249
   },
   {
     "rank": 3,
     "id": 15866233,
     "title": "Volkswagen Official Gets 7-Year Term in Diesel-Emissions Cheating",
     "url": "https://www.nytimes.com/2017/12/06/business/oliver-schmidt-volkswagen.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "veidr",
+    "descendants": 285,
+    "time": 1512604068
   },
   {
     "rank": 4,
     "id": 15866459,
     "title": "Uber paid 20-year-old Florida man to keep data breach secret",
     "url": "https://www.reuters.com/article/us-uber-cyber-payment-exclusive/exclusive-uber-paid-20-year-old-florida-man-to-keep-data-breach-secret-sources-idUSKBN1E101C",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "QUFB",
+    "descendants": 95,
+    "time": 1512606266
   },
   {
     "rank": 5,
     "id": 15866946,
     "title": "Coinbase: The Heart of the Bitcoin Frenzy",
     "url": "https://www.nytimes.com/2017/12/06/technology/coinbase-bitcoin.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "rahulshiv",
+    "descendants": 347,
+    "time": 1512611452
   },
   {
     "rank": 6,
     "id": 15867918,
     "title": "The Big Vitamin D Mistake",
     "url": "https://www.ncbi.nlm.nih.gov/m/pubmed/28768407/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 756,
+    "by": "pacaro",
+    "descendants": 440,
+    "time": 1512625955
   },
   {
     "rank": 7,
     "id": 15868595,
     "title": "Introduction to R Programming",
     "url": "https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "cecilialee",
+    "descendants": 136,
+    "time": 1512636081
   },
   {
     "rank": 8,
     "id": 15869083,
     "title": "Google's AlphaZero Beats Stockfish In 100-Game Match",
     "url": "https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "tambourine_man",
+    "descendants": 197,
+    "time": 1512644678
   },
   {
     "rank": 9,
     "id": 15869800,
     "title": "A Classic Extension Reborn: Tree Style Tab",
     "url": "https://hacks.mozilla.org/2017/12/webextension-tree-style-tab/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "clouddrover",
+    "descendants": 215,
+    "time": 1512653472
   },
   {
     "rank": 10,
     "id": 15870555,
     "title": "I gave Amazon a key to my house and regretted it",
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2017/12/07/amazon-wants-a-key-to-your-house-i-did-it-i-regretted-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 478,
+    "by": "eevilspock",
+    "descendants": 389,
+    "time": 1512659155
   }
 ]

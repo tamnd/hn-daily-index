@@ -4,99 +4,99 @@
     "id": 15986753,
     "title": "Netflix: What Happens When You Press Play?",
     "url": "http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "yarapavan",
+    "descendants": 130,
+    "time": 1513942312
   },
   {
     "rank": 2,
     "id": 15999036,
     "title": "Tricks to make yourself effortlessly charming",
     "url": "http://www.bbc.com/capital/story/20170627-the-tricks-to-make-yourself-effortlessly-charming",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "diminish",
+    "descendants": 159,
+    "time": 1514113617
   },
   {
     "rank": 3,
     "id": 15999688,
     "title": "Vue.js vs. React: what happened in 2017",
     "url": "http://pixeljets.com/blog/vue-js-vs-react-what-to-expect-in-2018/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "jetter",
+    "descendants": 167,
+    "time": 1514126170
   },
   {
     "rank": 4,
     "id": 16001275,
     "title": "LisaOS to be open-sourced and donated to Computer History Museum",
     "url": "https://twitter.com/6502lane/status/944965691710496769",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "mpweiher",
+    "descendants": 84,
+    "time": 1514149065
   },
   {
     "rank": 5,
     "id": 16001407,
     "title": "Computer latency: 1977-2017",
     "url": "https://danluu.com/input-lag/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 588,
+    "by": "kens",
+    "descendants": 161,
+    "time": 1514151353
   },
   {
     "rank": 6,
     "id": 16002068,
     "title": "NVIDIA GeForce driver deployment in datacenters is forbidden now",
     "url": "http://www.nvidia.com/content/DriverDownload-March2009/licence.php?lang=us&type=GeForce",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "f2n",
+    "descendants": 200,
+    "time": 1514162766
   },
   {
     "rank": 7,
     "id": 16002687,
     "title": "One-on-one meetings are underrated, whereas group meetings waste time",
     "url": "http://www.smashcompany.com/business/one-on-one-meetings-are-underrated-whereas-group-meetings-waste-time",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "lkrubner",
+    "descendants": 113,
+    "time": 1514176960
   },
   {
     "rank": 8,
     "id": 16003491,
     "title": "Not raising funds to stay small and happy",
     "url": "https://antoine.finkelstein.fr/not-raising-funds-to-stay-small-and-happy-938535c9c09d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "antoinefink",
+    "descendants": 58,
+    "time": 1514195308
   },
   {
     "rank": 9,
     "id": 16003590,
     "title": "Ruby 2.5.0 Released",
     "url": "https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "phereford",
+    "descendants": 108,
+    "time": 1514198268
   },
   {
     "rank": 10,
     "id": 16004193,
     "title": "Yew: Rust framework for making React-like client web apps",
     "url": "https://github.com/DenisKolodin/yew",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "syrusakbary",
+    "descendants": 137,
+    "time": 1514212327
   }
 ]

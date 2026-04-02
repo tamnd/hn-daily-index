@@ -4,99 +4,99 @@
     "id": 16015811,
     "title": "Operating System Design Book Series",
     "url": "http://www.fysnet.net/osdesign_book_series.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "adamnemecek",
+    "descendants": 25,
+    "time": 1514392804
   },
   {
     "rank": 2,
     "id": 16017969,
     "title": "No boundaries for user identities: Web trackers exploit browser login managers",
     "url": "https://freedom-to-tinker.com/2017/12/27/no-boundaries-for-user-identities-web-trackers-exploit-browser-login-managers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "randomwalker",
+    "descendants": 62,
+    "time": 1514408252
   },
   {
     "rank": 3,
     "id": 16022971,
     "title": "Exmo Bitcoin exchange chief executive kidnapped in Kiev",
     "url": "http://www.bbc.com/news/business-42505261",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "boto3",
+    "descendants": 126,
+    "time": 1514478424
   },
   {
     "rank": 4,
     "id": 16024507,
     "title": "How I Find Consulting Clients",
     "url": "https://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "gk1",
+    "descendants": 42,
+    "time": 1514491601
   },
   {
     "rank": 5,
     "id": 16024624,
     "title": "Economics of Minecraft",
     "url": "https://www.alicemaz.com/writing/minecraft.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 642,
+    "by": "scribu",
+    "descendants": 112,
+    "time": 1514492509
   },
   {
     "rank": 6,
     "id": 16025255,
     "title": "Many major websites are taking silent anti-ad-blocking measures",
     "url": "https://techcrunch.com/2017/12/27/thousands-of-major-sites-are-taking-silent-anti-ad-blocking-measures/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "ytNumbers",
+    "descendants": 365,
+    "time": 1514498242
   },
   {
     "rank": 7,
     "id": 16028429,
     "title": "Things I have learnt as the software engineering lead of a multinational",
     "url": "https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "kuahyeow",
+    "descendants": 218,
+    "time": 1514536868
   },
   {
     "rank": 8,
     "id": 16029316,
     "title": "Open-source clone of the Age of Empires II engine",
     "url": "https://github.com/SFTtech/openage",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "doener",
+    "descendants": 74,
+    "time": 1514553476
   },
   {
     "rank": 9,
     "id": 16029987,
     "title": "From Bootstrap to CSS Grid",
     "url": "https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4?pagewanted=all",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "kawera",
+    "descendants": 102,
+    "time": 1514562403
   },
   {
     "rank": 10,
     "id": 16030107,
     "title": "Escaping Docker container using waitid() \u2013 CVE-2017-5123",
     "url": "https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "Da5hes",
+    "descendants": 121,
+    "time": 1514563570
   }
 ]

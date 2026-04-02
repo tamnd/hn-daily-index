@@ -4,99 +4,99 @@
     "id": 16063946,
     "title": "GIMPS Project Discovers Largest Known Prime Number",
     "url": "https://www.mersenne.org/primes/press/M77232917.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "seycombi",
+    "descendants": 108,
+    "time": 1515006118
   },
   {
     "rank": 2,
     "id": 16066429,
     "title": "HDR Photography in Microsoft Excel (2017) [video]",
     "url": "https://www.youtube.com/watch?v=bkQJdaGGVM8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "rayshan",
+    "descendants": 26,
+    "time": 1515021567
   },
   {
     "rank": 3,
     "id": 16066871,
     "title": "Mitigations landing for new class of timing attack",
     "url": "https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "Nrbelex",
+    "descendants": 110,
+    "time": 1515025770
   },
   {
     "rank": 4,
     "id": 16067322,
     "title": "Intel was aware of the chip vulnerability when its CEO sold off company stock",
     "url": "http://www.businessinsider.com/intel-ceo-krzanich-sold-shares-after-company-was-informed-of-chip-flaw-2018-1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "MollyR",
+    "descendants": 85,
+    "time": 1515030554
   },
   {
     "rank": 5,
     "id": 16067901,
     "title": "Why things might have taken so long",
     "url": "https://meteuphoric.wordpress.com/2017/12/31/16417/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "blonky",
+    "descendants": 190,
+    "time": 1515037760
   },
   {
     "rank": 6,
     "id": 16070050,
     "title": "LLVM patch to fix half of Spectre attack",
     "url": "https://reviews.llvm.org/D41723",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "Kristine1975",
+    "descendants": 242,
+    "time": 1515071392
   },
   {
     "rank": 7,
     "id": 16070394,
     "title": "Show HN: PAST, a secure alternative to JWT",
     "url": "https://github.com/paragonie/past",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "CiPHPerCoder",
+    "descendants": 138,
+    "time": 1515075095
   },
   {
     "rank": 8,
     "id": 16070465,
     "title": "Meltdown and Spectre",
     "url": "https://spectreattack.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "dustinmoris",
+    "descendants": 141,
+    "time": 1515075811
   },
   {
     "rank": 9,
     "id": 16071290,
     "title": "iMac Pro's T2 chip",
     "url": "https://www.macworld.com/article/3245764/macs/the-t2-chip-makes-the-imac-pro-the-start-of-a-mac-revolution.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 538,
+    "by": "lumisota",
+    "descendants": 279,
+    "time": 1515081434
   },
   {
     "rank": 10,
     "id": 16072368,
     "title": "Intel Issues Updates to Protect Systems from Security Exploits",
     "url": "https://newsroom.intel.com/news-releases/intel-issues-updates-protect-systems-security-exploits/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 502,
+    "by": "runesoerensen",
+    "descendants": 389,
+    "time": 1515088416
   }
 ]

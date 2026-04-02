@@ -4,99 +4,99 @@
     "id": 15845114,
     "title": "Evolution of <img>: Gif without the GIF",
     "url": "https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "cflat",
+    "descendants": 138,
+    "time": 1512405272
   },
   {
     "rank": 2,
     "id": 15845118,
     "title": "Debugging an evil Go runtime bug",
     "url": "https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "cmsimike",
+    "descendants": 48,
+    "time": 1512405290
   },
   {
     "rank": 3,
     "id": 15849184,
     "title": "Apple CEO backs China\u2019s \u2018open\u2019 Internet vision as censorship reaches new heights",
     "url": "https://www.washingtonpost.com/news/worldviews/wp/2017/12/04/apple-ceo-backs-chinas-vision-of-an-open-internet-as-censorship-reaches-new-heights/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "tony101",
+    "descendants": 310,
+    "time": 1512438717
   },
   {
     "rank": 4,
     "id": 15849297,
     "title": "The compelling case for working less",
     "url": "http://www.bbc.com/capital/story/20171204-the-compelling-case-for-working-a-lot-less",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "bigben00763",
+    "descendants": 230,
+    "time": 1512440716
   },
   {
     "rank": 5,
     "id": 15850874,
     "title": "Introduction to logic programming with Prolog",
     "url": "https://www.matchilling.com/introduction-to-logic-programming-with-prolog/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "matchilling",
+    "descendants": 91,
+    "time": 1512468366
   },
   {
     "rank": 6,
     "id": 15851824,
     "title": "An $814M Mystery Near the Heart of the Biggest Bitcoin Exchange",
     "url": "https://www.bloomberg.com/news/articles/2017-12-05/mystery-shrouds-tether-and-its-links-to-biggest-bitcoin-exchange",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "rayuela",
+    "descendants": 341,
+    "time": 1512483606
   },
   {
     "rank": 7,
     "id": 15852586,
     "title": "Student Loan Debt Is Now as Big as the U.S. Junk Bond Market",
     "url": "https://www.bloomberg.com/news/articles/2017-12-05/student-loans-raise-other-risks-as-debt-equals-u-s-junk-market",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "rayuela",
+    "descendants": 422,
+    "time": 1512490102
   },
   {
     "rank": 8,
     "id": 15853149,
     "title": "Parcel \u2013 A fast, zero configuration web application bundler",
     "url": "https://parceljs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "KeitIG",
+    "descendants": 163,
+    "time": 1512493524
   },
   {
     "rank": 9,
     "id": 15853374,
     "title": "AMA: NY AG Schneiderman on net neutrality and protecting our voice in government",
     "url": "https://news.ycombinator.com/item?id=15853374",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1126,
+    "by": "AGSchneiderman",
+    "descendants": 269,
+    "time": 1512494704
   },
   {
     "rank": 10,
     "id": 15855195,
     "title": "Microsoft launches Windows 10 on ARM",
     "url": "https://www.anandtech.com/show/12119/microsoft-launches-windows-10-on-arm-always-connected-pcs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "OberstKrueger",
+    "descendants": 247,
+    "time": 1512503706
   }
 ]

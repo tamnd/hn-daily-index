@@ -4,99 +4,99 @@
     "id": 15969940,
     "title": "Apple Plans Combined iPhone, iPad and Mac Apps to Create One User Experience",
     "url": "https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "uptown",
+    "descendants": 262,
+    "time": 1513781329
   },
   {
     "rank": 2,
     "id": 15970412,
     "title": "Funding Yourself as a Free Software Developer",
     "url": "https://tyil.nl/articles/funding-yourself-as-free-software-developer.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "mabynogy",
+    "descendants": 105,
+    "time": 1513784135
   },
   {
     "rank": 3,
     "id": 15972771,
     "title": "US Federal Ban on Making Lethal Viruses Is Lifted",
     "url": "https://www.nytimes.com/2017/12/19/health/lethal-viruses-nih.html?_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "fern12",
+    "descendants": 112,
+    "time": 1513797337
   },
   {
     "rank": 4,
     "id": 15973552,
     "title": "Learning to operate Kubernetes reliably",
     "url": "https://stripe.com/blog/operating-kubernetes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "mglukhovsky",
+    "descendants": 100,
+    "time": 1513802112
   },
   {
     "rank": 5,
     "id": 15974603,
     "title": "Dozens of Companies Are Using Facebook to Exclude Older Workers From Job Ads",
     "url": "https://www.propublica.org/article/facebook-ads-age-discrimination-targeting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1186,
+    "by": "danso",
+    "descendants": 786,
+    "time": 1513810168
   },
   {
     "rank": 6,
     "id": 15976486,
     "title": "SQL Injection Wiki",
     "url": "https://sqlwiki.netspi.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "sidcool",
+    "descendants": 35,
+    "time": 1513831296
   },
   {
     "rank": 7,
     "id": 15976657,
     "title": "Racing for Realism",
     "url": "https://renderman.pixar.com/stories/cars-3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "mariuz",
+    "descendants": 150,
+    "time": 1513833863
   },
   {
     "rank": 8,
     "id": 15977166,
     "title": "A Letter from the Publisher of Nautilus",
     "url": "http://m.nautil.us/blog/a-letter-from-the-publisher-of-nautilus",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "juretriglav",
+    "descendants": 145,
+    "time": 1513842603
   },
   {
     "rank": 9,
     "id": 15980359,
     "title": "Rust in 2017: what we achieved",
     "url": "https://blog.rust-lang.org/2017/12/21/rust-in-2017.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "steveklabnik",
+    "descendants": 41,
+    "time": 1513874829
   },
   {
     "rank": 10,
     "id": 15980653,
     "title": "Chrome is Not the Standard",
     "url": "http://www.chriskrycho.com/2017/chrome-is-not-the-standard.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 807,
+    "by": "chriskrycho",
+    "descendants": 451,
+    "time": 1513876477
   }
 ]

@@ -4,99 +4,99 @@
     "id": 16041245,
     "title": "Ask HN: What did you work on in 2017?",
     "url": "https://news.ycombinator.com/item?id=16041245",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "freeelncer",
+    "descendants": 562,
+    "time": 1514739197
   },
   {
     "rank": 2,
     "id": 16042070,
     "title": "Ethereum Foundation Releases Alpha Casper Proof of Stake Testnet",
     "url": "http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "sethbannon",
+    "descendants": 199,
+    "time": 1514746927
   },
   {
     "rank": 3,
     "id": 16042233,
     "title": "Three Years on Google App Engine",
     "url": "https://blog.stephanbehnke.com/3-years-on-google-app-engine-an-epic-review/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "indigodaddy",
+    "descendants": 115,
+    "time": 1514748260
   },
   {
     "rank": 4,
     "id": 16042471,
     "title": "How I Learned to Stop Worrying and Love the Job Hunt",
     "url": "https://blog.stephanbehnke.com/how-i-learned-to-stop-worrying-and-love-the-job-hunt-in-toronto/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "rbanffy",
+    "descendants": 227,
+    "time": 1514749967
   },
   {
     "rank": 5,
     "id": 16043578,
     "title": "IOHIDeous OS X Local Kernel Vulnerability",
     "url": "https://siguza.github.io/IOHIDeous/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "tptacek",
+    "descendants": 112,
+    "time": 1514762278
   },
   {
     "rank": 6,
     "id": 16044568,
     "title": "Tiny, weird online communities made a comeback in 2017",
     "url": "https://www.theverge.com/2017/12/28/16795090/internet-community-2017-post-mortem-tumblr-amino-drip-tinyletter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "prostoalex",
+    "descendants": 84,
+    "time": 1514778407
   },
   {
     "rank": 7,
     "id": 16045852,
     "title": "What Could Have Entered the Public Domain on January 1, 2018",
     "url": "https://law.duke.edu/cspd/publicdomainday/2018/pre-1976/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "aw3c2",
+    "descendants": 133,
+    "time": 1514810465
   },
   {
     "rank": 8,
     "id": 16045859,
     "title": "Ask HN: What\u2019s your favorite talk from 2017?",
     "url": "https://news.ycombinator.com/item?id=16045859",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "dev_256",
+    "descendants": 106,
+    "time": 1514810584
   },
   {
     "rank": 9,
     "id": 16046329,
     "title": "Zero-Width Characters: Invisibly fingerprinting text",
     "url": "https://www.zachaysan.com/writing/2017-12-30-zero-width-characters",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 572,
+    "by": "based2",
+    "descendants": 146,
+    "time": 1514819879
   },
   {
     "rank": 10,
     "id": 16046636,
     "title": "The mysterious case of the Linux Page Table Isolation patches",
     "url": "http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 988,
+    "by": "KirinDave",
+    "descendants": 254,
+    "time": 1514824062
   }
 ]
