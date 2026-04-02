@@ -4,99 +4,99 @@
     "id": 7861906,
     "title": "RFC 2616 is dead",
     "url": "https://www.mnot.net/blog/2014/06/07/rfc2616_is_dead",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "felixrabe",
+    "descendants": 15,
+    "time": 1402142731
   },
   {
     "rank": 2,
     "id": 7861942,
     "title": "PyParallel: How we removed the GIL and exploited all cores",
     "url": "https://speakerdeck.com/trent/pyparallel-how-we-removed-the-gil-and-exploited-all-cores",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "trentnelson",
+    "descendants": 85,
+    "time": 1402144196
   },
   {
     "rank": 3,
     "id": 7862578,
     "title": "Show HN: Create pretty resumes in HTML, Latex, Markdown from a single JSON",
     "url": "http://prat0318.github.io/json_resume",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "prat0318",
+    "descendants": 49,
+    "time": 1402163024
   },
   {
     "rank": 4,
     "id": 7862589,
     "title": "Free SSL Certificate for Open Source Projects",
     "url": "https://www.globalsign.com/ssl/ssl-open-source/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "iancarroll",
+    "descendants": 64,
+    "time": 1402163304
   },
   {
     "rank": 5,
     "id": 7863303,
     "title": "Patent troll on the verge of winning 1% of iPhone revenue",
     "url": "http://arstechnica.com/tech-policy/2014/06/apples-last-ditch-effort-to-dodge-a-368m-patent-verdict-has-backfired/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "kenjackson",
+    "descendants": 120,
+    "time": 1402179684
   },
   {
     "rank": 6,
     "id": 7863856,
     "title": "Call me maybe: RabbitMQ",
     "url": "http://aphyr.com/posts/315-call-me-maybe-rabbitmq",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "timf",
+    "descendants": 42,
+    "time": 1402196703
   },
   {
     "rank": 7,
     "id": 7863902,
     "title": "Cable Companies Are Astroturfing Fake Consumer Support to End Net Neutrality",
     "url": "http://www.vice.com/read/cables-companies-are-astroturfing-fake-consumer-support-to-end-net-neutrality",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "ghosh",
+    "descendants": 47,
+    "time": 1402198790
   },
   {
     "rank": 8,
     "id": 7864765,
     "title": "Valve sponsors Mesa development",
     "url": "http://lunarg.com/glassymesa/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "Rovanion",
+    "descendants": 28,
+    "time": 1402238570
   },
   {
     "rank": 9,
     "id": 7864813,
     "title": "iOS 8 randomises the MAC address while scanning for WiFi networks",
     "url": "https://twitter.com/fredericjacobs/status/475601665836744704",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "DavidChouinard",
+    "descendants": 260,
+    "time": 1402239652
   },
   {
     "rank": 10,
     "id": 7865024,
     "title": "Nobody. Understands. Punctuation.",
     "url": "http://stilldrinking.org/nobody-understands-punctuation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "hachiya",
+    "descendants": 149,
+    "time": 1402244055
   }
 ]

@@ -4,99 +4,99 @@
     "id": 7830881,
     "title": "The boy who stole Half Life 2 source code (2011)",
     "url": "http://www.eurogamer.net/articles/2011-02-21-the-boy-who-stole-half-life-2-article",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "abhimir",
+    "descendants": 153,
+    "time": 1401660818
   },
   {
     "rank": 2,
     "id": 7832385,
     "title": "Facebook Hidden Friends Vulnerability?",
     "url": "http://blog.cyberint.com/2014/05/facebook-hidden-friends-vulnerability.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "ccINR",
+    "descendants": 79,
+    "time": 1401696279
   },
   {
     "rank": 3,
     "id": 7832730,
     "title": "Runnable \u2013 jsfiddle for everything",
     "url": "http://runnable.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "jbverschoor",
+    "descendants": 100,
+    "time": 1401705034
   },
   {
     "rank": 4,
     "id": 7833251,
     "title": "Thank HN: You guys helped me land my dream job.",
     "url": "http://news.ycombinator.com/item?id=7833251",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "jader201",
+    "descendants": 60,
+    "time": 1401714877
   },
   {
     "rank": 5,
     "id": 7833594,
     "title": "Common Server Setups For Your Web App",
     "url": "https://www.digitalocean.com/community/articles/5-common-server-setups-for-your-web-application",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "beigeotter",
+    "descendants": 88,
+    "time": 1401718869
   },
   {
     "rank": 6,
     "id": 7834665,
     "title": "OS X Yosemite",
     "url": "https://www.apple.com/osx/preview/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "salimmadjd",
+    "descendants": 292,
+    "time": 1401730276
   },
   {
     "rank": 7,
     "id": 7834779,
     "title": "Apple Introduces iOS 8",
     "url": "http://www.apple.com/ios/ios8/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "J-H",
+    "descendants": 205,
+    "time": 1401731523
   },
   {
     "rank": 8,
     "id": 7835099,
     "title": "Introducing Swift",
     "url": "https://developer.apple.com/swift/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1216,
+    "by": "falava",
+    "descendants": 926,
+    "time": 1401735038
   },
   {
     "rank": 9,
     "id": 7835217,
     "title": "Introducing Swift",
     "url": "https://developer.apple.com/swift/",
-    "score": 0,
-    "by": "",
+    "score": 366,
+    "by": "pdknsk",
     "descendants": 0,
-    "time": 0
+    "time": 1401735690
   },
   {
     "rank": 10,
     "id": 7835253,
     "title": "HomeKit",
     "url": "https://developer.apple.com/homekit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "taylorbuley",
+    "descendants": 140,
+    "time": 1401735847
   }
 ]

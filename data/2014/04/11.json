@@ -4,99 +4,99 @@
     "id": 7564680,
     "title": "When two-factor authentication is not enough",
     "url": "http://blog.fastmail.fm/2014/04/10/when-two-factor-authentication-is-not-enough/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "ab9",
+    "descendants": 53,
+    "time": 1397115218
   },
   {
     "rank": 2,
     "id": 7565577,
     "title": "Were Intelligence Agencies Using Heartbleed in November 2013?",
     "url": "https://www.eff.org/deeplinks/2014/04/wild-heart-were-intelligence-agencies-using-heartbleed-november-2013",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "things",
+    "descendants": 80,
+    "time": 1397133886
   },
   {
     "rank": 3,
     "id": 7565896,
     "title": "Massachusetts Governor Announces Plan to Abolish Noncompetes",
     "url": "http://bostinno.streetwise.co/2014/04/10/patrick-announces-plan-to-abolish-noncompetes-launch-a-global-eir-program-aimed-at-h1-b-visa-program/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "cmatthias",
+    "descendants": 112,
+    "time": 1397136937
   },
   {
     "rank": 4,
     "id": 7571276,
     "title": "Memories of Steve",
     "url": "http://donmelton.com/2014/04/10/memories-of-steve/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "zekers",
+    "descendants": 152,
+    "time": 1397191967
   },
   {
     "rank": 5,
     "id": 7571942,
     "title": "How we got read access on Google\u2019s production servers",
     "url": "http://blog.detectify.com/post/82370846588/how-we-got-read-access-on-googles-production-servers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1156,
+    "by": "detectify",
+    "descendants": 192,
+    "time": 1397208189
   },
   {
     "rank": 6,
     "id": 7571947,
     "title": "Xkcd: Heartbleed Explanation",
     "url": "http://xkcd.com/1354",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 558,
+    "by": "MattBearman",
+    "descendants": 75,
+    "time": 1397208233
   },
   {
     "rank": 7,
     "id": 7572530,
     "title": "The Heartbleed Challenge",
     "url": "https://www.cloudflarechallenge.com/heartbleed",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "jgrahamc",
+    "descendants": 118,
+    "time": 1397220382
   },
   {
     "rank": 8,
     "id": 7573317,
     "title": "3rd Circuit vacates Weev's conviction [pdf]",
     "url": "http://pdfserver.amlaw.com/nlj/auernheimer-op-usca3.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "rdl",
+    "descendants": 130,
+    "time": 1397229193
   },
   {
     "rank": 9,
     "id": 7574776,
     "title": "NSA Said to Exploit Heartbleed Bug for Intelligence for Years",
     "url": "http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "taylorbuley",
+    "descendants": 174,
+    "time": 1397242921
   },
   {
     "rank": 10,
     "id": 7575210,
     "title": "\u201cIn a typical year the OpenSSL project receives about US $2000 in donations\u201d",
     "url": "https://groups.google.com/forum/m/?authuser=0#!topic/mailing.openssl.users/-P4T62ml_1I",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "blazespin",
+    "descendants": 161,
+    "time": 1397246324
   }
 ]

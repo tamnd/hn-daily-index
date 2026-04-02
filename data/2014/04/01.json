@@ -4,99 +4,99 @@
     "id": 7503143,
     "title": "NSA blows its own top secret program in order to propagandize",
     "url": "https://firstlook.org/theintercept/2014/03/31/nsa-worlds-blows-top-secret-program/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "danielsiders",
+    "descendants": 30,
+    "time": 1396289638
   },
   {
     "rank": 2,
     "id": 7503736,
     "title": "MariaDB 10",
     "url": "https://blog.mariadb.org/the-mariadb-foundation-announces-general-availability-of-mariadb-10",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "conductor",
+    "descendants": 66,
+    "time": 1396295955
   },
   {
     "rank": 3,
     "id": 7503842,
     "title": "How the Most Expensive Game Jam Crashed And Burned in a Single Day",
     "url": "http://indiestatik.com/2014/03/31/most-expensive-game-jam/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "jmduke",
+    "descendants": 124,
+    "time": 1396297102
   },
   {
     "rank": 4,
     "id": 7506774,
     "title": "Redis new data structure: the HyperLogLog",
     "url": "http://antirez.com/news/75",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "antirez",
+    "descendants": 66,
+    "time": 1396340275
   },
   {
     "rank": 5,
     "id": 7507280,
     "title": "The inexplicable rise of open floor plans in tech companies",
     "url": "http://nathanmarz.com/blog/the-inexplicable-rise-of-open-floor-plans-in-tech-companies.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "romain_g",
+    "descendants": 253,
+    "time": 1396350805
   },
   {
     "rank": 6,
     "id": 7507297,
     "title": "The crushing lameness of April Fools Day on the Internet.",
     "url": "http://news.ycombinator.com/item?id=7507297",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "hoodoof",
+    "descendants": 170,
+    "time": 1396351085
   },
   {
     "rank": 7,
     "id": 7507493,
     "title": "Coinbase user emails and full names leaked",
     "url": "http://pastebin.com/RzWipJFb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "cbcbcb",
+    "descendants": 282,
+    "time": 1396354857
   },
   {
     "rank": 8,
     "id": 7507765,
     "title": "Ask HN: Who is hiring? (April 2014)",
     "url": "http://news.ycombinator.com/item?id=7507765",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "whoishiring",
+    "descendants": 527,
+    "time": 1396357727
   },
   {
     "rank": 9,
     "id": 7508122,
     "title": "Slick \u2013 Carousel",
     "url": "http://kenwheeler.github.io/slick/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "ca98am79",
+    "descendants": 112,
+    "time": 1396360153
   },
   {
     "rank": 10,
     "id": 7508248,
     "title": "Portia, an open-source visual web scraper",
     "url": "http://blog.scrapinghub.com/2014/04/01/announcing-portia/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "pablohoffman",
+    "descendants": 67,
+    "time": 1396361319
   }
 ]

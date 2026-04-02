@@ -4,99 +4,99 @@
     "id": 7554801,
     "title": "NSA Spied On Human Rights Groups, Says Snowden",
     "url": "http://techcrunch.com/2014/04/08/snowden-council-of-europe-testimony/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "haile",
+    "descendants": 76,
+    "time": 1396978231
   },
   {
     "rank": 2,
     "id": 7555426,
     "title": "How I Came to Write D",
     "url": "http://www.drdobbs.com/architecture-and-design/how-i-came-to-write-d/240165322",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "ingve",
+    "descendants": 74,
+    "time": 1396985226
   },
   {
     "rank": 3,
     "id": 7556826,
     "title": "Neel Mehta donates Heartbleed bounty to Freedom of the Press Foundation",
     "url": "https://hackerone.com/reports/6626",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "_pius",
+    "descendants": 25,
+    "time": 1397001220
   },
   {
     "rank": 4,
     "id": 7557089,
     "title": "TLS/SSL implementation in Haskell",
     "url": "https://github.com/vincenthz/hs-tls",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "dyoder",
+    "descendants": 176,
+    "time": 1397005093
   },
   {
     "rank": 5,
     "id": 7557911,
     "title": "Free Programming Books",
     "url": "https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "nilsbunger",
+    "descendants": 47,
+    "time": 1397024689
   },
   {
     "rank": 6,
     "id": 7558199,
     "title": "\"OpenSSL has exploit mitigation countermeasures to make sure it's exploitable\"",
     "url": "http://article.gmane.org/gmane.os.openbsd.misc/211963",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "anon1385",
+    "descendants": 236,
+    "time": 1397030759
   },
   {
     "rank": 7,
     "id": 7558563,
     "title": "Heartbleed",
     "url": "https://www.schneier.com/blog/archives/2014/04/heartbleed.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "crumbly",
+    "descendants": 158,
+    "time": 1397039731
   },
   {
     "rank": 8,
     "id": 7559200,
     "title": "What Heartbleed Can Teach The OSS Community About Marketing",
     "url": "http://www.kalzumeus.com/2014/04/09/what-heartbleed-can-teach-the-oss-community-about-marketing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "spatulon",
+    "descendants": 113,
+    "time": 1397051146
   },
   {
     "rank": 9,
     "id": 7559658,
     "title": "Giving Away Our Recommendation Engine",
     "url": "http://blog.mortardata.com/post/82195614895/giving-away-our-recommendation-engine-for-free",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "kky",
+    "descendants": 43,
+    "time": 1397055363
   },
   {
     "rank": 10,
     "id": 7562379,
     "title": "When Life Gives You Lemons...",
     "url": "http://www.teslamotors.com/blog/when-life-gives-you-lemons",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "maibaum",
+    "descendants": 159,
+    "time": 1397077432
   }
 ]

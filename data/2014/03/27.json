@@ -4,99 +4,99 @@
     "id": 7474791,
     "title": "We may have witnessed a NSA \"Shotgiant\" TAO-like action",
     "url": "http://blog.erratasec.com/2014/03/we-may-have-witnessed-nsa-shotgiant-tao.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "julespitt",
+    "descendants": 138,
+    "time": 1395854013
   },
   {
     "rank": 2,
     "id": 7475284,
     "title": "Amazon EC2 Pricing Changes Effective April 1, 2014",
     "url": "http://aws.amazon.com/ec2/pricing/effective-april-2014/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "tluthra",
+    "descendants": 147,
+    "time": 1395858260
   },
   {
     "rank": 3,
     "id": 7477736,
     "title": "MLB.com is using my Google Analytics code",
     "url": "http://www.websanova.com/blog/articles/websanova-is-tracking-mlb-com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "rduchnik",
+    "descendants": 135,
+    "time": 1395880266
   },
   {
     "rank": 4,
     "id": 7477801,
     "title": "Gunshot victims to be suspended between life and death",
     "url": "http://www.newscientist.com/article/mg22129623.000-gunshot-victims-to-be-suspended-between-life-and-death.html#.UzNzxfBdXme",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "Torgo",
+    "descendants": 146,
+    "time": 1395881122
   },
   {
     "rank": 5,
     "id": 7479550,
     "title": "Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)? (2013)",
     "url": "http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "Doublon",
+    "descendants": 83,
+    "time": 1395917373
   },
   {
     "rank": 6,
     "id": 7480278,
     "title": "\u201cThe Mill\u201d \u2013 It just might Work",
     "url": "http://jakob.engbloms.se/archives/2004",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "dochtman",
+    "descendants": 94,
+    "time": 1395927632
   },
   {
     "rank": 7,
     "id": 7480706,
     "title": "Turkish government takes down YouTube too",
     "url": "http://en.webrazzi.com/2014/03/27/defiant-turkish-goverment-takes-down-youtube-too-breaking-news/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "boolean",
+    "descendants": 146,
+    "time": 1395931872
   },
   {
     "rank": 8,
     "id": 7481244,
     "title": "Stripe: Bitcoin Sign-up",
     "url": "http://stripe.com/bitcoin",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 597,
+    "by": "cperciva",
+    "descendants": 190,
+    "time": 1395936611
   },
   {
     "rank": 9,
     "id": 7481804,
     "title": "Microsoft launches Office for iPad",
     "url": "http://thenextweb.com/microsoft/2014/03/27/microsoft-unveils-office-ipad/?utm_medium=Spreadus&amp;utm_source=Twitter&amp;utm_campaign=social%20media&amp;awesm=tnw.to_s3Js0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "msoliman",
+    "descendants": 273,
+    "time": 1395940504
   },
   {
     "rank": 10,
     "id": 7483405,
     "title": "Whatever goes up, that\u2019s what we do",
     "url": "http://dcurt.is/facebooks-predicament",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 609,
+    "by": "uptown",
+    "descendants": 222,
+    "time": 1395953658
   }
 ]

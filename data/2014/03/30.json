@@ -4,99 +4,99 @@
     "id": 7492418,
     "title": "Why Use Make? (2013)",
     "url": "http://bost.ocks.org/mike/make/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "jeffreyrogers",
+    "descendants": 103,
+    "time": 1396105089
   },
   {
     "rank": 2,
     "id": 7494321,
     "title": "Coffee and its Effects on Feature Creep (2011)",
     "url": "http://royrapoport.blogspot.com/2011/05/coffee-and-its-effects-on-feature-creep.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "shadytrees",
+    "descendants": 46,
+    "time": 1396133625
   },
   {
     "rank": 3,
     "id": 7494500,
     "title": "Ask YC (dang and kogir): How about some transparency?",
     "url": "http://news.ycombinator.com/item?id=7494500",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "swombat",
+    "descendants": 57,
+    "time": 1396137096
   },
   {
     "rank": 4,
     "id": 7494682,
     "title": "Wrong and Right Reasons To Be Upset About Oculus \u2013 with Carmack response",
     "url": "http://peterberkman.tumblr.com/post/80827337212/wrong-and-right-reasons-to-be-upset-about-oculus",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "julespitt",
+    "descendants": 150,
+    "time": 1396141253
   },
   {
     "rank": 5,
     "id": 7494705,
     "title": "How Sleep Deprivation Drives The High Failure Rates of Tech Startups",
     "url": "http://www.forbes.com/sites/michaelthomsen/2014/03/27/how-sleep-deprivation-drives-the-high-failure-rates-of-tech-startups/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 173,
+    "by": "thelinuxkid",
+    "descendants": 54,
+    "time": 1396141936
   },
   {
     "rank": 6,
     "id": 7495337,
     "title": "Pass: The standard unix password manager",
     "url": "http://www.zx2c4.com/projects/password-store/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 159,
+    "by": "po",
+    "descendants": 77,
+    "time": 1396157425
   },
   {
     "rank": 7,
     "id": 7495358,
     "title": "Rendering Head in WebGL",
     "url": "http://alteredqualia.com/xg/examples/deferred_skin.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "itamarb",
+    "descendants": 77,
+    "time": 1396158311
   },
   {
     "rank": 8,
     "id": 7496137,
     "title": "Good Samaritan Backfire",
     "url": "https://medium.com/human-parts/9f53ef6a1c10",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "blearyeyed",
+    "descendants": 130,
+    "time": 1396187504
   },
   {
     "rank": 9,
     "id": 7496154,
     "title": "Abstract Ideas Don\u2019t Deserve Patents",
     "url": "http://www.nytimes.com/2014/03/30/opinion/sunday/abstract-ideas-dont-deserve-patents.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "wrongc0ntinent",
+    "descendants": 174,
+    "time": 1396188117
   },
   {
     "rank": 10,
     "id": 7496968,
     "title": "Class Hierarchies? Don't Do That",
     "url": "http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "johanbrook",
+    "descendants": 240,
+    "time": 1396200473
   }
 ]

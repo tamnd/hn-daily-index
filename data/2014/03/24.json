@@ -4,99 +4,99 @@
     "id": 7453897,
     "title": "Link Bubble - A new browser for Android",
     "url": "https://play.google.com/store/apps/details?id=com.linkbubble.playstore",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "intull",
+    "descendants": 106,
+    "time": 1395592102
   },
   {
     "rank": 2,
     "id": 7455757,
     "title": "The Brutal Ageism of Tech",
     "url": "http://www.newrepublic.com/article/117088/silicons-valleys-brutal-ageism",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 535,
+    "by": "GabrielF00",
+    "descendants": 346,
+    "time": 1395617841
   },
   {
     "rank": 3,
     "id": 7457132,
     "title": "WTF, HTML and CSS?",
     "url": "http://wtfhtmlcss.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 485,
+    "by": "nreece",
+    "descendants": 111,
+    "time": 1395646223
   },
   {
     "rank": 4,
     "id": 7457197,
     "title": "PostgreSQL: Jsonb has committed",
     "url": "http://obartunov.livejournal.com/177247.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "r4um",
+    "descendants": 131,
+    "time": 1395648288
   },
   {
     "rank": 5,
     "id": 7457352,
     "title": "Genetic Algorithms Produce Winning StarCraft II Build Order (2010)",
     "url": "http://www.rockpapershotgun.com/2010/11/02/genetic-algorithms-find-build-order-from-hell/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "AndyBaker",
+    "descendants": 50,
+    "time": 1395653615
   },
   {
     "rank": 6,
     "id": 7458076,
     "title": "Wanelo: The First Million Users",
     "url": "http://www.slideshare.net/500startups/eric-koger-cofounder-ceo-modcloth",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "kristynazdot",
+    "descendants": 153,
+    "time": 1395667951
   },
   {
     "rank": 7,
     "id": 7458485,
     "title": "Basecamp was under network attack",
     "url": "https://gist.github.com/dhh/9741477",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "ibsathish",
+    "descendants": 185,
+    "time": 1395672594
   },
   {
     "rank": 8,
     "id": 7458768,
     "title": "Turkey becomes first country ever to ban Google DNS",
     "url": "http://www.todayszaman.com/news-342851-turkey-becomes-first-country-ever-to-ban-google-dns.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "_ks3e",
+    "descendants": 144,
+    "time": 1395675203
   },
   {
     "rank": 9,
     "id": 7459435,
     "title": "Gbatteries (YC W14) Launches BatteryBox, A 50Whr Backup Battery For MacBooks",
     "url": "http://techcrunch.com/2014/03/24/gbatteries-batterybox/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "timsher",
+    "descendants": 193,
+    "time": 1395680714
   },
   {
     "rank": 10,
     "id": 7459529,
     "title": "Brendan Eich becomes Mozilla CEO",
     "url": "https://brendaneich.com/2014/03/mozilla-news/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "bevacqua",
+    "descendants": 524,
+    "time": 1395681350
   }
 ]

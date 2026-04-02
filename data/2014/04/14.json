@@ -4,99 +4,99 @@
     "id": 7580465,
     "title": "GitHub Cheat Sheet",
     "url": "https://github.com/tiimgreen/github-cheat-sheet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "jlemoine",
+    "descendants": 42,
+    "time": 1397370475
   },
   {
     "rank": 2,
     "id": 7582990,
     "title": "Willem Pinckaers on Akamai's flawed OpenSSL allocator patch",
     "url": "http://lekkertech.net/akamai.txt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "tptacek",
+    "descendants": 72,
+    "time": 1397422838
   },
   {
     "rank": 3,
     "id": 7583909,
     "title": "Heartbleed Update v3",
     "url": "https://blogs.akamai.com/2014/04/heartbleed-update-v3.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "mycodebreaks",
+    "descendants": 52,
+    "time": 1397436408
   },
   {
     "rank": 4,
     "id": 7585029,
     "title": "The MIT Lockpicking Guide",
     "url": "http://www.blurofinsanity.com/mit/lockpick.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "AndyBaker",
+    "descendants": 71,
+    "time": 1397463070
   },
   {
     "rank": 5,
     "id": 7585605,
     "title": "Huginn: Like Yahoo Pipes plus IFTTT on your server",
     "url": "https://github.com/cantino/huginn/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 524,
+    "by": "ColinWright",
+    "descendants": 94,
+    "time": 1397475806
   },
   {
     "rank": 6,
     "id": 7585799,
     "title": "Sketch 3 released",
     "url": "http://bohemiancoding.com/sketch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "jrnkntl",
+    "descendants": 125,
+    "time": 1397479922
   },
   {
     "rank": 7,
     "id": 7585846,
     "title": "SpaceX CRS-3 launch scrubbed due to helium leak",
     "url": "http://new.livestream.com/spacex/events/2833937/statuses/48058415",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "mkempe",
+    "descendants": 112,
+    "time": 1397480442
   },
   {
     "rank": 8,
     "id": 7586248,
     "title": "Avow-CI Is No More",
     "url": "https://github.com/Fluidbyte/avow-ci/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "campuscodi",
+    "descendants": 242,
+    "time": 1397484895
   },
   {
     "rank": 9,
     "id": 7588149,
     "title": "The Guardian and Washington Post win the 2014 Pulitzer Prize for Public Service ",
     "url": "http://www.pulitzer.org/citation/2014-Public-Service",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "danso",
+    "descendants": 41,
+    "time": 1397502704
   },
   {
     "rank": 10,
     "id": 7588205,
     "title": "Kernel 101 \u2013 Let\u2019s write a Kernel",
     "url": "http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "slashdotaccount",
+    "descendants": 100,
+    "time": 1397503287
   }
 ]

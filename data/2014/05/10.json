@@ -4,99 +4,99 @@
     "id": 7721096,
     "title": "Why Python is Slow: Looking Under the Hood",
     "url": "http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "underyx",
+    "descendants": 176,
+    "time": 1399646572
   },
   {
     "rank": 2,
     "id": 7722185,
     "title": "CoreOS Beta Release",
     "url": "https://coreos.com/blog/coreos-beta-release/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "grk",
+    "descendants": 37,
+    "time": 1399657293
   },
   {
     "rank": 3,
     "id": 7722652,
     "title": "Haskell tutorial for C programmers",
     "url": "http://www.haskell.org/haskellwiki/Haskell_Tutorial_for_C_Programmers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "foulas",
+    "descendants": 51,
+    "time": 1399661605
   },
   {
     "rank": 4,
     "id": 7722751,
     "title": "The Hitchhiker\u2019s Guide to Python",
     "url": "http://docs.python-guide.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "dsego",
+    "descendants": 12,
+    "time": 1399662710
   },
   {
     "rank": 5,
     "id": 7722838,
     "title": "Jsfmt \u2013 Like Gofmt, but for JavaScript",
     "url": "https://github.com/rdio/jsfmt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "jimfleming",
+    "descendants": 47,
+    "time": 1399664037
   },
   {
     "rank": 6,
     "id": 7723291,
     "title": "Wayback Machine Hits 400,000,000,000",
     "url": "http://blog.archive.org/2014/05/09/wayback-machine-hits-400000000000/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "tweakz",
+    "descendants": 56,
+    "time": 1399670098
   },
   {
     "rank": 7,
     "id": 7723597,
     "title": "Brain.js Demo \u2013 Train a neural network to recognize color contrast",
     "url": "https://harthur.github.io/brain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "davidbarker",
+    "descendants": 26,
+    "time": 1399674628
   },
   {
     "rank": 8,
     "id": 7725129,
     "title": "Amazon granted patent for taking photos against a white background",
     "url": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;S1=08676045&amp;OS=PN/08676045&amp;RS=PN/08676045",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "edandersen",
+    "descendants": 157,
+    "time": 1399723677
   },
   {
     "rank": 9,
     "id": 7725247,
     "title": "Google Maps Has Forsaken Us",
     "url": "http://techcrunch.com/2014/05/10/google-maps-has-forsaken-us/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "rorhug",
+    "descendants": 226,
+    "time": 1399726984
   },
   {
     "rank": 10,
     "id": 7725736,
     "title": "Are you paid to look busy?",
     "url": "http://www.pbs.org/newshour/making-sense/ask-says-notorious-occupy-academic-job-exist/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "resdirector",
+    "descendants": 210,
+    "time": 1399735886
   }
 ]

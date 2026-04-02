@@ -4,99 +4,99 @@
     "id": 7743186,
     "title": "An Introduction to Programming in Go",
     "url": "http://www.golang-book.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "dwevlo",
+    "descendants": 75,
+    "time": 1400068104
   },
   {
     "rank": 2,
     "id": 7743447,
     "title": "AT&T\u2019s GigaPower plans turn privacy into a luxury that few would choose",
     "url": "http://gigaom.com/2014/05/13/atts-gigapower-plans-turn-privacy-into-a-luxury-that-few-would-choose/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "TwoFactor",
+    "descendants": 133,
+    "time": 1400072455
   },
   {
     "rank": 3,
     "id": 7744733,
     "title": "Dropbox Webhooks",
     "url": "https://www.dropbox.com/developers/blog/90/announcing-dropbox-webhooks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "smarx",
+    "descendants": 119,
+    "time": 1400086714
   },
   {
     "rank": 4,
     "id": 7745601,
     "title": "Network Neutrality",
     "url": "https://stripe.com/blog/network-neutrality",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "tweakz",
+    "descendants": 97,
+    "time": 1400094418
   },
   {
     "rank": 5,
     "id": 7746822,
     "title": "Maze Tree",
     "url": "http://bl.ocks.org/mbostock/061b3929ba0f3964d335",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "yaph",
+    "descendants": 38,
+    "time": 1400106305
   },
   {
     "rank": 6,
     "id": 7747982,
     "title": "OS X Command Line Utilities",
     "url": "http://www.mitchchn.me/2014/os-x-terminal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 567,
+    "by": "brianwillis",
+    "descendants": 235,
+    "time": 1400131555
   },
   {
     "rank": 7,
     "id": 7748386,
     "title": "Woman\u2019s cancer killed by measles virus in trial",
     "url": "http://www.washingtonpost.com/news/morning-mix/wp/2014/05/15/womans-cancer-killed-by-measles-virus-in-unprecedented-trial/?tid=hp_mm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "arunpjohny",
+    "descendants": 131,
+    "time": 1400143107
   },
   {
     "rank": 8,
     "id": 7749108,
     "title": "FSF condemns partnership between Mozilla and Adobe to support DRM",
     "url": "http://www.fsf.org/news/fsf-condemns-partnership-between-mozilla-and-adobe-to-support-digital-restrictions-management",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 459,
+    "by": "mikegerwitz",
+    "descendants": 276,
+    "time": 1400158715
   },
   {
     "rank": 9,
     "id": 7750036,
     "title": "FCC approves plan to consider paid priority on Internet",
     "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/05/15/fcc-approves-plan-to-allow-for-paid-priority-on-internet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 679,
+    "by": "jkupferman",
+    "descendants": 331,
+    "time": 1400168163
   },
   {
     "rank": 10,
     "id": 7751110,
     "title": "The purpose of DRM is not to prevent copyright violations (2013)",
     "url": "https://plus.google.com/+IanHickson/posts/iPmatxBYuj2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 782,
+    "by": "adrianmsmith",
+    "descendants": 234,
+    "time": 1400177102
   }
 ]

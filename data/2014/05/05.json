@@ -4,99 +4,99 @@
     "id": 7695964,
     "title": "Linus Torvalds Receives 2014 IEEE Computer Pioneer Award",
     "url": "http://www.computer.org/portal/web/pressroom/Linus-Torvalds-Named-Recipient-of-the-2014-IEEE-Computer-Society-Computer-Pioneer-Award",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "r4um",
+    "descendants": 86,
+    "time": 1399240228
   },
   {
     "rank": 2,
     "id": 7696017,
     "title": "Magic mirror: One way mirror with a monitor behind it",
     "url": "http://michaelteeuw.nl/post/80391333672/magic-mirror-part-i-the-idea-the-mirror",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "redman25",
+    "descendants": 30,
+    "time": 1399241220
   },
   {
     "rank": 3,
     "id": 7696200,
     "title": "Betty \u2013 English-like interface for the command line",
     "url": "https://github.com/pickhardt/betty",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 190,
+    "by": "jrpt",
+    "descendants": 81,
+    "time": 1399244862
   },
   {
     "rank": 4,
     "id": 7698002,
     "title": "Volvo\u2019s first self-driving cars now being tested live on public roads in Sweden",
     "url": "http://www.kurzweilai.net/volvos-first-self-driving-cars-now-being-tested-live-on-public-roads-in-swedish-city",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "taivo",
+    "descendants": 172,
+    "time": 1399291142
   },
   {
     "rank": 5,
     "id": 7698130,
     "title": "Swype makes almost 4000 location requests every day",
     "url": "http://forum.swype.com/showthread.php?13052-Swype-makes-almost-4000-location-requests-every-day",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "seaghost",
+    "descendants": 158,
+    "time": 1399292941
   },
   {
     "rank": 6,
     "id": 7698597,
     "title": "Startup School is going global",
     "url": "http://blog.ycombinator.com/startup-school-is-going-global",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "katm",
+    "descendants": 96,
+    "time": 1399298672
   },
   {
     "rank": 7,
     "id": 7699322,
     "title": "Refactored PHP engine makes Wordpress 20% faster",
     "url": "http://news.php.net/php.internals/73888",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "mrsaint",
+    "descendants": 139,
+    "time": 1399305878
   },
   {
     "rank": 8,
     "id": 7699332,
     "title": "Minimum Viable Block Chain",
     "url": "http://www.igvita.com/2014/05/05/minimum-viable-block-chain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "vikrum",
+    "descendants": 73,
+    "time": 1399306006
   },
   {
     "rank": 9,
     "id": 7699862,
     "title": "Observations of an Internet Middleman",
     "url": "http://blog.level3.com/global-connectivity/observations-internet-middleman/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "staticsafe",
+    "descendants": 175,
+    "time": 1399311170
   },
   {
     "rank": 10,
     "id": 7700192,
     "title": "The next version of DuckDuckGo",
     "url": "https://next.duckduckgo.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 738,
+    "by": "vgnanand",
+    "descendants": 322,
+    "time": 1399314332
   }
 ]

@@ -4,99 +4,99 @@
     "id": 7739469,
     "title": "Pervasive Monitoring Is an Attack",
     "url": "https://www.tbray.org/ongoing/When/201x/2014/05/13/Pervasive-Monitoring-is-an-Attack",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "kallus",
+    "descendants": 27,
+    "time": 1400002617
   },
   {
     "rank": 2,
     "id": 7739604,
     "title": "MIT's Scratch Team releases Scratch 2.0 editor and player as open source",
     "url": "https://github.com/LLK/scratch-flash",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "speakvisually",
+    "descendants": 61,
+    "time": 1400004144
   },
   {
     "rank": 3,
     "id": 7739752,
     "title": "Source code of ASP.NET",
     "url": "https://github.com/aspnet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "wfjackson",
+    "descendants": 99,
+    "time": 1400005545
   },
   {
     "rank": 4,
     "id": 7740226,
     "title": "Octotree: the missing GitHub tree view (Chrome extension)",
     "url": "https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "yblu",
+    "descendants": 106,
+    "time": 1400010284
   },
   {
     "rank": 5,
     "id": 7740925,
     "title": "Introducing the WebKit FTL JIT",
     "url": "https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "panic",
+    "descendants": 96,
+    "time": 1400018244
   },
   {
     "rank": 6,
     "id": 7741443,
     "title": "Passwords for JetBlue accounts cannot contain a Q or a Z",
     "url": "http://help.jetblue.com/SRVS/CGI-BIN/webisapi.dll?New,Kb=askBlue,case=obj(403864)",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "alexdmiller",
+    "descendants": 211,
+    "time": 1400026635
   },
   {
     "rank": 7,
     "id": 7742339,
     "title": "Introducing Moto E and Moto G with 4G LTE: Smart phones priced for all",
     "url": "http://motorola-blog.blogspot.com/2014/05/introducing-moto-e-and-moto-g-with-4g-lte.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "neduma",
+    "descendants": 171,
+    "time": 1400045130
   },
   {
     "rank": 8,
     "id": 7743064,
     "title": "AdBlock Plus\u2019s effect on Firefox\u2019s memory usage",
     "url": "https://blog.mozilla.org/nnethercote/2014/05/14/adblock-pluss-effect-on-firefoxs-memory-usage/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 492,
+    "by": "harshal",
+    "descendants": 258,
+    "time": 1400065244
   },
   {
     "rank": 9,
     "id": 7743952,
     "title": "Articles Every Programmer Should Read",
     "url": "http://javarevisited.blogspot.com/2014/05/10-articles-every-programmer-must-read.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "javinpaul",
+    "descendants": 66,
+    "time": 1400077939
   },
   {
     "rank": 10,
     "id": 7746585,
     "title": "Can This Web Be Saved? Mozilla Accepts DRM, and We All Lose",
     "url": "https://www.eff.org/deeplinks/2014/05/mozilla-and-drm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "DiabloD3",
+    "descendants": 365,
+    "time": 1400103276
   }
 ]

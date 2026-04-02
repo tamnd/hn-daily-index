@@ -4,99 +4,99 @@
     "id": 7771875,
     "title": "The desktop and the developer",
     "url": "http://mjg59.dreamwidth.org/31714.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "ekianjo",
+    "descendants": 301,
+    "time": 1400581513
   },
   {
     "rank": 2,
     "id": 7772245,
     "title": "How a Raccoon Became an Aardvark",
     "url": "http://www.newyorker.com/online/blogs/elements/2014/05/how-a-raccoon-became-an-aardvark.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "jrochkind1",
+    "descendants": 93,
+    "time": 1400590201
   },
   {
     "rank": 3,
     "id": 7773812,
     "title": "Script-injected \"async scripts\" considered harmful",
     "url": "https://www.igvita.com/2015/05/20/script-injected-async-scripts-considered-harmful/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "igrigorik",
+    "descendants": 56,
+    "time": 1400606600
   },
   {
     "rank": 4,
     "id": 7775036,
     "title": "Questions for Donald Knuth",
     "url": "http://www.informit.com/articles/article.aspx?p=2213858&amp;WT.mc_id=Author_Knuth_20Questions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "robinhouston",
+    "descendants": 58,
+    "time": 1400618396
   },
   {
     "rank": 5,
     "id": 7775308,
     "title": "Erlang and code style",
     "url": "https://medium.com/p/b5936dceb5e4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "kungfooguru",
+    "descendants": 57,
+    "time": 1400621055
   },
   {
     "rank": 6,
     "id": 7776112,
     "title": "Pixel graphics in terminal",
     "url": "https://github.com/asciimoo/drawille/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "potatoPhD",
+    "descendants": 68,
+    "time": 1400633254
   },
   {
     "rank": 7,
     "id": 7778051,
     "title": "eBay customers\u2019 personal data was compromised in March",
     "url": "http://www.ebayinc.com/in_the_news/story/ebay-inc-ask-ebay-users-change-passwords",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "patchoulol",
+    "descendants": 139,
+    "time": 1400678907
   },
   {
     "rank": 8,
     "id": 7778995,
     "title": "The greatest bug I never fixed (2010)",
     "url": "http://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "triskweline",
+    "descendants": 61,
+    "time": 1400688601
   },
   {
     "rank": 9,
     "id": 7779186,
     "title": "Guide to Landing Page Optimization",
     "url": "http://moz.com/blog/most-entertaining-guide-to-landing-page-optimization",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "ra00l",
+    "descendants": 25,
+    "time": 1400690545
   },
   {
     "rank": 10,
     "id": 7780419,
     "title": "Arrakis",
     "url": "http://arrakis.cs.washington.edu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "conductor",
+    "descendants": 84,
+    "time": 1400702249
   }
 ]
