@@ -4,99 +4,99 @@
     "id": 41846636,
     "title": "Show HN: Pumpkin \u2013 A Modern Minecraft server written in Rust",
     "url": "https://github.com/Snowiiii/Pumpkin",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "alex_medvedev",
+    "descendants": 153,
+    "time": 1728983896
   },
   {
     "rank": 2,
     "id": 41847640,
     "title": "Asterinas: OS kernel written in Rust and providing Linux-compatible ABI",
     "url": "https://github.com/asterinas/asterinas",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "Klasiaster",
+    "descendants": 224,
+    "time": 1728993719
   },
   {
     "rank": 3,
     "id": 41848099,
     "title": "Show HN: I 3D scanned the tunnels inside the Maya Pyramid Temples at Copan",
     "url": "https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "lukehollis",
+    "descendants": 96,
+    "time": 1728997074
   },
   {
     "rank": 4,
     "id": 41852821,
     "title": "CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3",
     "url": "https://capibarazero.github.io/docs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "andreock",
+    "descendants": 79,
+    "time": 1729024481
   },
   {
     "rank": 5,
     "id": 41853637,
     "title": "Why don't we use awnings anymore (2022)",
     "url": "https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "samclemens",
+    "descendants": 337,
+    "time": 1729030295
   },
   {
     "rank": 6,
     "id": 41853810,
     "title": "Show HN: Graphite, a Blender-inspired 2D procedural design Rust app",
     "url": "https://graphite.rs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 785,
+    "by": "Keavon",
+    "descendants": 128,
+    "time": 1729031526
   },
   {
     "rank": 7,
     "id": 41856883,
     "title": "MacOS sometimes leaks traffic after system updates",
     "url": "https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "dulvui",
+    "descendants": 252,
+    "time": 1729067843
   },
   {
     "rank": 8,
     "id": 41857032,
     "title": "FLOSS/fund for free and open source projects",
     "url": "https://floss.fund/blog/announcing-floss-fund/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "joice",
+    "descendants": 108,
+    "time": 1729069345
   },
   {
     "rank": 9,
     "id": 41858665,
     "title": "FTC announces \\\"click-to-cancel\\\" rule making it easier to cancel subscriptions",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1747,
+    "by": "pseudolus",
+    "descendants": 760,
+    "time": 1729084144
   },
   {
     "rank": 10,
     "id": 41860909,
     "title": "ArchiveBox is evolving: the future of self-hosted internet archives",
     "url": "https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 669,
+    "by": "nikisweeting",
+    "descendants": 156,
+    "time": 1729095519
   }
 ]

@@ -4,99 +4,99 @@
     "id": 41830699,
     "title": "Inkscape 1.4",
     "url": "https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 561,
+    "by": "s1291",
+    "descendants": 124,
+    "time": 1728846870
   },
   {
     "rank": 2,
     "id": 41831735,
     "title": "Use Prolog to improve LLM's reasoning",
     "url": "https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "shchegrikovich",
+    "descendants": 155,
+    "time": 1728854568
   },
   {
     "rank": 3,
     "id": 41868683,
     "title": "Cats are (almost) liquid",
     "url": "https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "lnyan",
+    "descendants": 185,
+    "time": 1729165380
   },
   {
     "rank": 4,
     "id": 41869460,
     "title": "Gamedev in Lisp. Part 2: Dungeons and Interfaces",
     "url": "https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "awkravchuk",
+    "descendants": 64,
+    "time": 1729171585
   },
   {
     "rank": 5,
     "id": 41871262,
     "title": "NotebookLM launches feature to customize and guide audio overviews",
     "url": "https://blog.google/technology/ai/notebooklm-update-october-2024/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "alphabetting",
+    "descendants": 127,
+    "time": 1729183324
   },
   {
     "rank": 6,
     "id": 41871375,
     "title": "Crokinole",
     "url": "https://pudding.cool/2024/10/crokinole/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 621,
+    "by": "Tomte",
+    "descendants": 166,
+    "time": 1729184089
   },
   {
     "rank": 7,
     "id": 41872813,
     "title": "Grandmaster-level chess without search",
     "url": "https://github.com/google-deepmind/searchless_chess",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "lawrenceyan",
+    "descendants": 168,
+    "time": 1729192400
   },
   {
     "rank": 8,
     "id": 41876750,
     "title": "Using static websites for tiny archives",
     "url": "https://alexwlchan.net/2024/static-websites/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "ingve",
+    "descendants": 78,
+    "time": 1729231959
   },
   {
     "rank": 9,
     "id": 41877513,
     "title": "Secret 3D scans in the French Supreme Court",
     "url": "https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 776,
+    "by": "abetusk",
+    "descendants": 303,
+    "time": 1729241400
   },
   {
     "rank": 10,
     "id": 41878290,
     "title": "Apple Passwords\u2019 generated strong password format",
     "url": "https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "tambourine_man",
+    "descendants": 268,
+    "time": 1729249937
   }
 ]

@@ -4,99 +4,99 @@
     "id": 41715883,
     "title": "Noise",
     "url": "https://noise.jake.fun/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 632,
+    "by": "amadeuspagel",
+    "descendants": 85,
+    "time": 1727828186
   },
   {
     "rank": 2,
     "id": 41736429,
     "title": "\u708a\u7d19(kashikishi) is a text editor that utilizes GPU to edit text in a 3D space",
     "url": "https://github.com/mitoma/kashiki2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "hiroshi3110",
+    "descendants": 101,
+    "time": 1728000450
   },
   {
     "rank": 3,
     "id": 41740568,
     "title": "Show HN: Chebyshev approximation calculator",
     "url": "https://stuffmatic.com/chebyshev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "stuffmatic",
+    "descendants": 51,
+    "time": 1728043758
   },
   {
     "rank": 4,
     "id": 41743327,
     "title": "Show HN: Open source framework OpenAI uses for Advanced Voice",
     "url": "https://github.com/livekit/agents",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "russ",
+    "descendants": 61,
+    "time": 1728061264
   },
   {
     "rank": 5,
     "id": 41744434,
     "title": "Mitmproxy 11: Full HTTP/3 Support",
     "url": "https://mitmproxy.org/posts/releases/mitmproxy-11/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "mhils",
+    "descendants": 75,
+    "time": 1728067966
   },
   {
     "rank": 6,
     "id": 41745788,
     "title": "LLMs, Theory of Mind, and Cheryl's Birthday",
     "url": "https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "stereoabuse",
+    "descendants": 142,
+    "time": 1728077647
   },
   {
     "rank": 7,
     "id": 41747966,
     "title": "Linux from Scratch",
     "url": "https://www.linuxfromscratch.org/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "udev4096",
+    "descendants": 159,
+    "time": 1728107039
   },
   {
     "rank": 8,
     "id": 41749371,
     "title": "It's Time to Stop Taking Sam Altman at His Word",
     "url": "https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 703,
+    "by": "redwoolf",
+    "descendants": 576,
+    "time": 1728130644
   },
   {
     "rank": 9,
     "id": 41749592,
     "title": "The Remarkable Life of Ibelin",
     "url": "https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "_tk_",
+    "descendants": 112,
+    "time": 1728133966
   },
   {
     "rank": 10,
     "id": 41750716,
     "title": "Cloudflare beats patent troll so badly it basically gives up",
     "url": "https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "Brajeshwar",
+    "descendants": 58,
+    "time": 1728143501
   }
 ]

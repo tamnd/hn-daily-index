@@ -4,99 +4,99 @@
     "id": 42057139,
     "title": "The deep learning boom caught almost everyone by surprise",
     "url": "https://www.understandingai.org/p/why-the-deep-learning-boom-caught",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "slyall",
+    "descendants": 188,
+    "time": 1730865901
   },
   {
     "rank": 2,
     "id": 42060856,
     "title": "Show HN: SuperSplat \u2013 open-source 3D Gaussian Splat Editor",
     "url": "https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "ovenchips",
+    "descendants": 59,
+    "time": 1730894826
   },
   {
     "rank": 3,
     "id": 42062230,
     "title": "Private Cloud Compute Security Guide",
     "url": "https://security.apple.com/documentation/private-cloud-compute/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "djoldman",
+    "descendants": 213,
+    "time": 1730900935
   },
   {
     "rank": 4,
     "id": 42062841,
     "title": "Switch 2 will be backwards compatible with Switch",
     "url": "https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "ashitlerferad",
+    "descendants": 217,
+    "time": 1730903552
   },
   {
     "rank": 5,
     "id": 42063709,
     "title": "Show HN: Hacker News frontpage as a print newspaper that you can personalize",
     "url": "https://yourhackernews.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 564,
+    "by": "nimbusega",
+    "descendants": 139,
+    "time": 1730906622
   },
   {
     "rank": 6,
     "id": 42067275,
     "title": "WebSockets cost us $1M on our AWS bill",
     "url": "https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "tosh",
+    "descendants": 231,
+    "time": 1730919002
   },
   {
     "rank": 7,
     "id": 42070946,
     "title": "Trudeau government bans TikTok from operating in Canada",
     "url": "https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 747,
+    "by": "empressplay",
+    "descendants": 453,
+    "time": 1730934279
   },
   {
     "rank": 8,
     "id": 42071310,
     "title": "Australia proposes ban on social media for those under 16",
     "url": "https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "robbiet480",
+    "descendants": 552,
+    "time": 1730936338
   },
   {
     "rank": 9,
     "id": 42076884,
     "title": "Using Ghidra and Python to reverse engineer Ecco the Dolphin",
     "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "bbayles",
+    "descendants": 134,
+    "time": 1730989530
   },
   {
     "rank": 10,
     "id": 42079460,
     "title": "QNX is now free for anything non-commercial, plus there's an RPi image",
     "url": "https://blackberry.qnx.com/en/products/qnx-everywhere",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 658,
+    "by": "JohnAtQNX",
+    "descendants": 357,
+    "time": 1731004522
   }
 ]

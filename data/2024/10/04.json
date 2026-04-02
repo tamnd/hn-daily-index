@@ -4,99 +4,99 @@
     "id": 41730896,
     "title": "Dance training superior to physical exercise in inducing brain plasticity (2018)",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "Tomte",
+    "descendants": 195,
+    "time": 1727964083
   },
   {
     "rank": 2,
     "id": 41730983,
     "title": "Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]",
     "url": "https://arxiv.org/abs/2410.00531",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "simonpure",
+    "descendants": 58,
+    "time": 1727964680
   },
   {
     "rank": 3,
     "id": 41732415,
     "title": "Why and how we\u2019re migrating many of our servers from Linux to the BSDs",
     "url": "https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "msangi",
+    "descendants": 226,
+    "time": 1727973905
   },
   {
     "rank": 4,
     "id": 41735544,
     "title": "Robert Dennard, DRAM Pioneer, has died",
     "url": "https://spectrum.ieee.org/in-memoriam-oct-2024",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "jnord",
+    "descendants": 29,
+    "time": 1727993007
   },
   {
     "rank": 5,
     "id": 41736903,
     "title": "Why does man print \\\"gimme gimme gimme\\\" at 00:30? (2017)",
     "url": "https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1058,
+    "by": "jamesy0ung",
+    "descendants": 409,
+    "time": 1728005151
   },
   {
     "rank": 6,
     "id": 41738502,
     "title": "Experimental web browser optimized for rabbit-holing",
     "url": "https://szymonkaliski.com/projects/cartographist/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 613,
+    "by": "cernocky",
+    "descendants": 117,
+    "time": 1728024477
   },
   {
     "rank": 7,
     "id": 41740965,
     "title": "Meta Movie Gen",
     "url": "https://ai.meta.com/research/movie-gen/?_fb_noscript=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1107,
+    "by": "brianjking",
+    "descendants": 1008,
+    "time": 1728046980
   },
   {
     "rank": 8,
     "id": 41742210,
     "title": "Getting my daily news from a dot matrix printer",
     "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 904,
+    "by": "chrisdemarco",
+    "descendants": 253,
+    "time": 1728054522
   },
   {
     "rank": 9,
     "id": 41742278,
     "title": "Show HN: One \u2013 A new React framework unifying web, native and local-first",
     "url": "https://onestack.dev",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 506,
+    "by": "nwienert",
+    "descendants": 254,
+    "time": 1728054924
   },
   {
     "rank": 10,
     "id": 41742432,
     "title": "12 Months of Mandarin",
     "url": "https://isaak.net/mandarin/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 502,
+    "by": "misiti3780",
+    "descendants": 295,
+    "time": 1728055731
   }
 ]

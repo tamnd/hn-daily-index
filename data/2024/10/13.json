@@ -4,99 +4,99 @@
     "id": 41793485,
     "title": "Turkish language has a gossip tense",
     "url": "https://twitter.com/esesci/status/1843769276471349698",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "sedatk",
+    "descendants": 255,
+    "time": 1728513268
   },
   {
     "rank": 2,
     "id": 41815173,
     "title": "Swarm, a new agent framework by OpenAI",
     "url": "https://github.com/openai/swarm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "mnk47",
+    "descendants": 106,
+    "time": 1728691550
   },
   {
     "rank": 3,
     "id": 41820785,
     "title": "Starship Flight 5 license issued by FAA",
     "url": "https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001?modalOpened=true",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "LorenDB",
+    "descendants": 226,
+    "time": 1728753833
   },
   {
     "rank": 4,
     "id": 41821361,
     "title": "Exploring Typst, a new typesetting system similar to LaTeX",
     "url": "https://blog.jreyesr.com/posts/typst/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 593,
+    "by": "judell",
+    "descendants": 235,
+    "time": 1728758491
   },
   {
     "rank": 5,
     "id": 41822178,
     "title": "PayPal (USA) will automatically share data about you to participating stores",
     "url": "https://www.paypal.com/us/legalhub/upcoming-policies-full",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "xyst",
+    "descendants": 137,
+    "time": 1728764372
   },
   {
     "rank": 6,
     "id": 41826402,
     "title": "Diffusion for World Modeling",
     "url": "https://diamond-wm.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 476,
+    "by": "francoisfleuret",
+    "descendants": 218,
+    "time": 1728811084
   },
   {
     "rank": 7,
     "id": 41827043,
     "title": "Large language models reduce public knowledge sharing on online Q&A platforms",
     "url": "https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 448,
+    "by": "croes",
+    "descendants": 358,
+    "time": 1728818802
   },
   {
     "rank": 8,
     "id": 41827362,
     "title": "Starship Flight 5: Launch and booster catch [video]",
     "url": "https://twitter.com/SpaceX/status/1845152255944819015",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2263,
+    "by": "alecco",
+    "descendants": 1350,
+    "time": 1728822197
   },
   {
     "rank": 9,
     "id": 41828601,
     "title": "The quiet art of attention",
     "url": "https://billwear.github.io/art-of-attention.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 875,
+    "by": "billwear",
+    "descendants": 279,
+    "time": 1728831708
   },
   {
     "rank": 10,
     "id": 41830717,
     "title": "CRLF is obsolete and should be abolished",
     "url": "https://fossil-scm.org/home/ext/crlf-harmful.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "km",
+    "descendants": 264,
+    "time": 1728847001
   }
 ]

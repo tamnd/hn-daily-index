@@ -4,99 +4,99 @@
     "id": 42004219,
     "title": "RCE Vulnerability in QBittorrent",
     "url": "https://sharpsec.run/rce-vulnerability-in-qbittorrent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "udev4096",
+    "descendants": 187,
+    "time": 1730359089
   },
   {
     "rank": 2,
     "id": 42014650,
     "title": "Oasis: A Universe in a Transformer",
     "url": "https://oasis-model.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "ChadNauseam",
+    "descendants": 88,
+    "time": 1730444568
   },
   {
     "rank": 3,
     "id": 42016597,
     "title": "Make It Yourself",
     "url": "https://makeityourself.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 670,
+    "by": "deivid",
+    "descendants": 94,
+    "time": 1730466590
   },
   {
     "rank": 4,
     "id": 42016931,
     "title": "Apple's M4 Max chip is the fastest single-core performer in consumer computing",
     "url": "https://twitter.com/LeakerApple/status/1852280766471999661",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "retskrad",
+    "descendants": 529,
+    "time": 1730469212
   },
   {
     "rank": 5,
     "id": 42019192,
     "title": "Tell HN: We (Causal) got acquired \u2013 thank you HN",
     "url": "https://news.ycombinator.com/item?id=42019192",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "refrigerator",
+    "descendants": 83,
+    "time": 1730481080
   },
   {
     "rank": 6,
     "id": 42021237,
     "title": "Linux on Apple Silicon with Alyssa Rosenzweig [audio]",
     "url": "https://softwareengineeringdaily.com/2024/10/15/linux-apple-silicon-alyssa-rosenzweig/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "tosh",
+    "descendants": 226,
+    "time": 1730493013
   },
   {
     "rank": 7,
     "id": 42022151,
     "title": "Sleep regularity is a stronger predictor of mortality than sleep duration (2023)",
     "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "rzk",
+    "descendants": 247,
+    "time": 1730499803
   },
   {
     "rank": 8,
     "id": 42022282,
     "title": "Nvidia to join Dow Jones Industrial Average, replacing Intel",
     "url": "https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "koolba",
+    "descendants": 222,
+    "time": 1730500995
   },
   {
     "rank": 9,
     "id": 42023089,
     "title": "My Time Working at Stripe",
     "url": "https://jondlm.github.io/website/blog/leaving_stripe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "jondlm",
+    "descendants": 382,
+    "time": 1730508282
   },
   {
     "rank": 10,
     "id": 42024727,
     "title": "Weird Lexical Syntax",
     "url": "https://justine.lol/lex/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "jart",
+    "descendants": 227,
+    "time": 1730533526
   }
 ]

@@ -4,99 +4,99 @@
     "id": 41970406,
     "title": "The motor turns too much",
     "url": "https://www.projectgus.com/2024/01/kona-motor-turns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "mooreds",
+    "descendants": 192,
+    "time": 1730118597
   },
   {
     "rank": 2,
     "id": 41970571,
     "title": "Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free",
     "url": "https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "Luc",
+    "descendants": 44,
+    "time": 1730119797
   },
   {
     "rank": 3,
     "id": 41984184,
     "title": "Prisma Postgres \u2013 Runs on bare metal and unikernels",
     "url": "https://www.prisma.io/blog/announcing-prisma-postgres-early-access",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "gniting",
+    "descendants": 150,
+    "time": 1730212059
   },
   {
     "rank": 4,
     "id": 41995549,
     "title": "Boston Dynamics robot Atlas goes hands on [video]",
     "url": "https://www.youtube.com/watch?v=F_7IPm7f1vI",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "PotatoNinja",
+    "descendants": 215,
+    "time": 1730299570
   },
   {
     "rank": 5,
     "id": 42010249,
     "title": "Get me out of data hell",
     "url": "https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "pavel_lishin",
+    "descendants": 299,
+    "time": 1730401315
   },
   {
     "rank": 6,
     "id": 42027187,
     "title": "Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script",
     "url": "https://github.com/rbbydotdev/someday",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "rbbydotdev",
+    "descendants": 51,
+    "time": 1730563480
   },
   {
     "rank": 7,
     "id": 42027654,
     "title": "Show HN: A minimalist (brutalist?) website for sharing all your links",
     "url": "https://lynx.boo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "TravisPeacock",
+    "descendants": 160,
+    "time": 1730567425
   },
   {
     "rank": 8,
     "id": 42031169,
     "title": "Speed, scale and reliability: 25 years of Google datacenter networking evolution",
     "url": "https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "sandwichsphinx",
+    "descendants": 78,
+    "time": 1730608154
   },
   {
     "rank": 9,
     "id": 42032638,
     "title": "If you need the money, don't take the job",
     "url": "https://bitfieldconsulting.com/posts/need-money",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "gus_leonel",
+    "descendants": 157,
+    "time": 1730636244
   },
   {
     "rank": 10,
     "id": 42033241,
     "title": "Touchscreens are out, and tactile controls are back",
     "url": "https://spectrum.ieee.org/touchscreens",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1317,
+    "by": "pseudolus",
+    "descendants": 890,
+    "time": 1730644197
   }
 ]

@@ -4,99 +4,99 @@
     "id": 41748738,
     "title": "Congress fights to keep AM radio in cars",
     "url": "https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "giuliomagnifico",
+    "descendants": 572,
+    "time": 1728121622
   },
   {
     "rank": 2,
     "id": 41759112,
     "title": "AVX Bitwise ternary logic instruction busted",
     "url": "https://arnaud-carre.github.io/2024-10-06-vpternlogd/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "msephton",
+    "descendants": 68,
+    "time": 1728239906
   },
   {
     "rank": 3,
     "id": 41760421,
     "title": "Rust needs a web framework",
     "url": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "dcminter",
+    "descendants": 382,
+    "time": 1728249707
   },
   {
     "rank": 4,
     "id": 41760697,
     "title": "Sq.io: jq for databases and more",
     "url": "https://sq.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 606,
+    "by": "stavepan",
+    "descendants": 129,
+    "time": 1728252154
   },
   {
     "rank": 5,
     "id": 41761497,
     "title": "Google\u2019s AI thinks I left a Gatorade bottle on the moon",
     "url": "https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "gwintrob",
+    "descendants": 194,
+    "time": 1728259643
   },
   {
     "rank": 6,
     "id": 41765716,
     "title": "Can you get root with only a cigarette lighter?",
     "url": "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 681,
+    "by": "1317",
+    "descendants": 150,
+    "time": 1728307219
   },
   {
     "rank": 7,
     "id": 41766515,
     "title": "What's New in Ruby on Rails 8",
     "url": "https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "amalinovic",
+    "descendants": 281,
+    "time": 1728312312
   },
   {
     "rank": 8,
     "id": 41767648,
     "title": "Nearly all of the Google images results for \\\"baby peacock\\\" are AI generated",
     "url": "https://twitter.com/notengoprisa/status/1842550658102079556",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "jsheard",
+    "descendants": 420,
+    "time": 1728318303
   },
   {
     "rank": 9,
     "id": 41768658,
     "title": "US antitrust case against Amazon to move forward",
     "url": "https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "christhecaribou",
+    "descendants": 221,
+    "time": 1728322822
   },
   {
     "rank": 10,
     "id": 41769657,
     "title": "Google must open Android for third-party stores, rules Epic judge",
     "url": "https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 787,
+    "by": "dblitt",
+    "descendants": 580,
+    "time": 1728327610
   }
 ]
