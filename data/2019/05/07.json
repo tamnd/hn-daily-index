@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 19839104,
+    "title": "JMAP: A modern, open email protocol",
+    "url": "https://www.ietf.org/blog/jmap/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 19843464,
+    "title": "Efficient IO with io_uring [pdf]",
+    "url": "http://kernel.dk/io_uring.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 19844153,
+    "title": "Using Altair for most of my visualization in Python",
+    "url": "http://fernandoi.cl/blog/posts/altair/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 19844989,
+    "title": "Microsoft is going to ship a full Linux kernel in Windows 10",
+    "url": "https://www.theverge.com/2019/5/6/18534687/microsoft-windows-10-linux-kernel-feature",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 19845776,
+    "title": "Open source collaborative text editors",
+    "url": "https://juretriglav.si/open-source-collaborative-text-editors/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 19848965,
+    "title": "Red Hat Enterprise Linux 8 released",
+    "url": "https://www.redhat.com/en/enterprise-linux-8?701f20000012hnlAAA#",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 19849445,
+    "title": "Researchers identify sleep as a reason why personality traits predict longevity",
+    "url": "https://digest.bps.org.uk/2019/05/01/researchers-identity-sleep-as-a-key-reason-why-personality-traits-predict-longevity",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 19850629,
+    "title": "Dear Client, Here\u2019s Why That Change Took So Long",
+    "url": "https://www.simplethread.com/dear-client-heres-why-that-change-took-so-long/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 19851744,
+    "title": "The Amazing $1 Microcontroller (2017)",
+    "url": "https://jaycarlson.net/microcontrollers/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 19852105,
+    "title": "Css-only-chat: A truly monstrous async web chat using no JS on the front end",
+    "url": "https://github.com/kkuchta/css-only-chat",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
