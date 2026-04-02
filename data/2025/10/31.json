@@ -4,99 +4,99 @@
     "id": 45746020,
     "title": "Zig's New Async I/O",
     "url": "https://andrewkelley.me/post/zig-new-async-io-text-version.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "todsacerdoti",
+    "descendants": 172,
+    "time": 1761741312
   },
   {
     "rank": 2,
     "id": 45755027,
     "title": "NPM flooded with malicious packages downloaded more than 86k times",
     "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "jnord",
+    "descendants": 295,
+    "time": 1761784653
   },
   {
     "rank": 3,
     "id": 45760328,
     "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
     "url": "https://therecord.media/us-declines-signing-cybercrime-treaty?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "pcaharrier",
+    "descendants": 243,
+    "time": 1761834164
   },
   {
     "rank": 4,
     "id": 45762259,
     "title": "How the cochlea computes (2024)",
     "url": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "izhak",
+    "descendants": 150,
+    "time": 1761843680
   },
   {
     "rank": 5,
     "id": 45765664,
     "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
     "url": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 577,
+    "by": "layer8",
+    "descendants": 235,
+    "time": 1761860142
   },
   {
     "rank": 6,
     "id": 45765787,
     "title": "Phone numbers for use in TV shows, films and creative works",
     "url": "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "nomilk",
+    "descendants": 139,
+    "time": 1761860951
   },
   {
     "rank": 7,
     "id": 45767725,
     "title": "John Carmack on mutable variables",
     "url": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 515,
+    "by": "azhenley",
+    "descendants": 627,
+    "time": 1761878076
   },
   {
     "rank": 8,
     "id": 45767916,
     "title": "AMD could enter ARM market with Sound Wave APU built on TSMC 3nm process",
     "url": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "walterbell",
+    "descendants": 236,
+    "time": 1761880068
   },
   {
     "rank": 9,
     "id": 45771538,
     "title": "How OpenAI uses complex and circular deals to fuel its multibillion-dollar rise",
     "url": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "reaperducer",
+    "descendants": 407,
+    "time": 1761915826
   },
   {
     "rank": 10,
     "id": 45771636,
     "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
     "url": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 619,
+    "by": "gmays",
+    "descendants": 291,
+    "time": 1761916463
   }
 ]

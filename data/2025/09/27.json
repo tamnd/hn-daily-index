@@ -4,99 +4,99 @@
     "id": 45364932,
     "title": "CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells",
     "url": "https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "jonbruner",
+    "descendants": 124,
+    "time": 1758742153
   },
   {
     "rank": 2,
     "id": 45381810,
     "title": "Britain to introduce compulsory digital ID for workers",
     "url": "https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "alex77456",
+    "descendants": 780,
+    "time": 1758852587
   },
   {
     "rank": 3,
     "id": 45386578,
     "title": "US cities pay too much for buses",
     "url": "https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "pavel_lishin",
+    "descendants": 578,
+    "time": 1758895037
   },
   {
     "rank": 4,
     "id": 45387462,
     "title": "Fast UDP I/O for Firefox in Rust",
     "url": "https://max-inden.de/post/fast-udp-io-in-firefox/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "Bender",
+    "descendants": 108,
+    "time": 1758899684
   },
   {
     "rank": 5,
     "id": 45389267,
     "title": "SimpleFold: Folding proteins is simpler than you think",
     "url": "https://github.com/apple/ml-simplefold",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "kevlened",
+    "descendants": 132,
+    "time": 1758909686
   },
   {
     "rank": 6,
     "id": 45391444,
     "title": "Moondream 3 Preview: Frontier-level reasoning at a blazing speed",
     "url": "https://moondream.ai/blog/moondream-3-preview",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "kristianp",
+    "descendants": 41,
+    "time": 1758923997
   },
   {
     "rank": 7,
     "id": 45393842,
     "title": "Typst: A Possible LaTeX Replacement",
     "url": "https://lwn.net/Articles/1037577/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 786,
+    "by": "pykello",
+    "descendants": 384,
+    "time": 1758958299
   },
   {
     "rank": 8,
     "id": 45395991,
     "title": "SSH3: Faster and rich secure shell using HTTP/3",
     "url": "https://github.com/francoismichel/ssh3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "tempaccount420",
+    "descendants": 263,
+    "time": 1758983230
   },
   {
     "rank": 9,
     "id": 45396441,
     "title": "A WebGL game where you deliver messages on a tiny planet",
     "url": "https://messenger.abeto.co/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2131,
+    "by": "thecupisblue",
+    "descendants": 338,
+    "time": 1758986250
   },
   {
     "rank": 10,
     "id": 45396754,
     "title": "Greenland is a beautiful nightmare",
     "url": "https://matduggan.com/greenland-is-a-beautiful-nightmare/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 625,
+    "by": "zdw",
+    "descendants": 338,
+    "time": 1758988006
   }
 ]

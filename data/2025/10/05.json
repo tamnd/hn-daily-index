@@ -4,99 +4,99 @@
     "id": 45472319,
     "title": "Paged Out Issue #7 [pdf]",
     "url": "https://pagedout.institute/download/PagedOut_007.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "todsacerdoti",
+    "descendants": 24,
+    "time": 1759574286
   },
   {
     "rank": 2,
     "id": 45473852,
     "title": "How I influence tech company politics as a staff software engineer",
     "url": "https://www.seangoedecke.com/how-to-influence-politics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "facundo_olano",
+    "descendants": 205,
+    "time": 1759590581
   },
   {
     "rank": 3,
     "id": 45473861,
     "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
     "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "andsoitis",
+    "descendants": 253,
+    "time": 1759590649
   },
   {
     "rank": 4,
     "id": 45475529,
     "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
     "url": "https://github.com/DebarghaG/proofofthought",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "barthelomew",
+    "descendants": 175,
+    "time": 1759602863
   },
   {
     "rank": 5,
     "id": 45476273,
     "title": "The UK is still trying to backdoor encryption for Apple users",
     "url": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "CharlesW",
+    "descendants": 158,
+    "time": 1759608431
   },
   {
     "rank": 6,
     "id": 45478749,
     "title": "Americans increasingly see legal sports betting as a bad thing for society",
     "url": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 555,
+    "by": "aloukissas",
+    "descendants": 490,
+    "time": 1759636917
   },
   {
     "rank": 7,
     "id": 45479165,
     "title": "Social Cooling (2017)",
     "url": "https://www.socialcooling.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "laurex",
+    "descendants": 276,
+    "time": 1759644084
   },
   {
     "rank": 8,
     "id": 45480106,
     "title": "Personal data storage is an idea whose time has come",
     "url": "https://blog.muni.town/personal-data-storage-idea/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "erlend_sh",
+    "descendants": 279,
+    "time": 1759655258
   },
   {
     "rank": 9,
     "id": 45480622,
     "title": "The deadline isn't when AI outsmarts us \u2013 it's when we stop using our own minds",
     "url": "https://www.theargumentmag.com/p/you-have-18-months",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "NotInOurNames",
+    "descendants": 324,
+    "time": 1759662505
   },
   {
     "rank": 10,
     "id": 45483386,
     "title": "Fire destroys S. Korean government's cloud storage system, no backups available",
     "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2080,
+    "by": "ksec",
+    "descendants": 933,
+    "time": 1759684839
   }
 ]

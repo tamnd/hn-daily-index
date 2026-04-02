@@ -4,99 +4,99 @@
     "id": 45636285,
     "title": "Airliner hit by possible space debris",
     "url": "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "d_silin",
+    "descendants": 224,
+    "time": 1760896461
   },
   {
     "rank": 2,
     "id": 45637744,
     "title": "Novo Nordisk's Canadian Mistake",
     "url": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "jbm",
+    "descendants": 232,
+    "time": 1760906353
   },
   {
     "rank": 3,
     "id": 45639995,
     "title": "Entire Linux Network stack diagram (2024)",
     "url": "https://zenodo.org/records/14179366",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 608,
+    "by": "hhutw",
+    "descendants": 56,
+    "time": 1760931191
   },
   {
     "rank": 4,
     "id": 45640226,
     "title": "Space Elevator",
     "url": "https://neal.fun/space-elevator/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1802,
+    "by": "kaonwarb",
+    "descendants": 403,
+    "time": 1760935328
   },
   {
     "rank": 5,
     "id": 45640594,
     "title": "DeepSeek OCR",
     "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1003,
+    "by": "pierre",
+    "descendants": 244,
+    "time": 1760941593
   },
   {
     "rank": 6,
     "id": 45640772,
     "title": "Major AWS Outage Happening",
     "url": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1079,
+    "by": "vvoyer",
+    "descendants": 12,
+    "time": 1760944266
   },
   {
     "rank": 7,
     "id": 45640838,
     "title": "AWS Multiple Services Down in us-east-1",
     "url": "https://health.aws.amazon.com/health/status?ts=20251020",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2246,
+    "by": "kondro",
+    "descendants": 2057,
+    "time": 1760944948
   },
   {
     "rank": 8,
     "id": 45640877,
     "title": "Docker Systems Status: Full Service Disruption",
     "url": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "l2dy",
+    "descendants": 134,
+    "time": 1760945483
   },
   {
     "rank": 9,
     "id": 45643357,
     "title": "Servo v0.0.1",
     "url": "https://github.com/servo/servo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "undeveloper",
+    "descendants": 204,
+    "time": 1760964930
   },
   {
     "rank": 10,
     "id": 45644328,
     "title": "BERT is just a single text diffusion step",
     "url": "https://nathan.rs/posts/roberta-diffusion/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "nathan-barry",
+    "descendants": 110,
+    "time": 1760970676
   }
 ]

@@ -4,99 +4,99 @@
     "id": 45407953,
     "title": "We bought the whole GPU, so we're damn well going to use the whole GPU",
     "url": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "sydriax",
+    "descendants": 110,
+    "time": 1759093218
   },
   {
     "rank": 2,
     "id": 45410068,
     "title": "I built ChatGPT with Minecraft redstone [video]",
     "url": "https://www.youtube.com/watch?v=VaeI9YgE1o8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "ghuntley",
+    "descendants": 86,
+    "time": 1759116147
   },
   {
     "rank": 3,
     "id": 45437759,
     "title": "F3: Open-source data file format for the future [pdf]",
     "url": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "eatonphil",
+    "descendants": 125,
+    "time": 1759326761
   },
   {
     "rank": 4,
     "id": 45437893,
     "title": "Unix philosophy and filesystem access makes Claude Code amazing",
     "url": "https://www.alephic.com/writing/the-magic-of-claude-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "noahbrier",
+    "descendants": 216,
+    "time": 1759327545
   },
   {
     "rank": 5,
     "id": 45438496,
     "title": "Building the heap: racking 30 petabytes of hard drives for pretraining",
     "url": "https://si.inc/posts/the-heap/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "nee1r",
+    "descendants": 274,
+    "time": 1759330841
   },
   {
     "rank": 6,
     "id": 45439670,
     "title": "Gmail will no longer support checking emails from third-party accounts via POP",
     "url": "https://support.google.com/mail/answer/16604719?hl=en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 658,
+    "by": "sumanep",
+    "descendants": 369,
+    "time": 1759335958
   },
   {
     "rank": 7,
     "id": 45446834,
     "title": "Immich v2.0.0 \u2013 First stable release",
     "url": "https://github.com/immich-app/immich/discussions/22546",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "Alexvb",
+    "descendants": 159,
+    "time": 1759386343
   },
   {
     "rank": 8,
     "id": 45447699,
     "title": "How Israeli actions caused famine in Gaza, visualized",
     "url": "https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1205,
+    "by": "nashashmi",
+    "descendants": 1364,
+    "time": 1759397030
   },
   {
     "rank": 9,
     "id": 45449348,
     "title": "Potential issues in curl found using AI assisted tools",
     "url": "https://mastodon.social/@bagder/115241241075258997",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "robhlam",
+    "descendants": 189,
+    "time": 1759411795
   },
   {
     "rank": 10,
     "id": 45451527,
     "title": "Signal Protocol and Post-Quantum Ratchets",
     "url": "https://signal.org/blog/spqr/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "pluto_modadic",
+    "descendants": 287,
+    "time": 1759421170
   }
 ]

@@ -4,99 +4,99 @@
     "id": 45713959,
     "title": "A definition of AGI",
     "url": "https://arxiv.org/abs/2510.18212",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "pegasus",
+    "descendants": 514,
+    "time": 1761502177
   },
   {
     "rank": 2,
     "id": 45716109,
     "title": "How I turned Zig into my favorite language to write network programs in",
     "url": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "0x1997",
+    "descendants": 144,
+    "time": 1761523277
   },
   {
     "rank": 3,
     "id": 45718231,
     "title": "Recall for Linux",
     "url": "https://github.com/rolflobker/recall-for-linux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "anticensor",
+    "descendants": 216,
+    "time": 1761549859
   },
   {
     "rank": 4,
     "id": 45718665,
     "title": "What happened to running what you wanted on your own machine?",
     "url": "https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "marbartolome",
+    "descendants": 296,
+    "time": 1761555010
   },
   {
     "rank": 5,
     "id": 45719004,
     "title": "Rust cross-platform GPUI components",
     "url": "https://github.com/longbridge/gpui-component",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 515,
+    "by": "xvilka",
+    "descendants": 218,
+    "time": 1761558258
   },
   {
     "rank": 6,
     "id": 45719140,
     "title": "Tags to make HTML work like you expect",
     "url": "https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "FromTheArchives",
+    "descendants": 238,
+    "time": 1761559272
   },
   {
     "rank": 7,
     "id": 45720376,
     "title": "10M people watched a YouTuber shim a lock; the lock company sued him \u2013 bad idea",
     "url": "https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1587,
+    "by": "Brajeshwar",
+    "descendants": 632,
+    "time": 1761568962
   },
   {
     "rank": 8,
     "id": 45721904,
     "title": "PSF has withdrawn $1.5M proposal to US Government grant program",
     "url": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 735,
+    "by": "lumpa",
+    "descendants": 770,
+    "time": 1761577928
   },
   {
     "rank": 9,
     "id": 45722069,
     "title": "It's insulting to read AI-generated blog posts",
     "url": "https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1300,
+    "by": "speckx",
+    "descendants": 540,
+    "time": 1761578858
   },
   {
     "rank": 10,
     "id": 45722639,
     "title": "Claude for Excel",
     "url": "https://www.claude.com/claude-for-excel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 684,
+    "by": "meetpateltech",
+    "descendants": 459,
+    "time": 1761581362
   }
 ]

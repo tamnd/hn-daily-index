@@ -4,99 +4,99 @@
     "id": 45474301,
     "title": "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
     "url": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 609,
+    "by": "pseudolus",
+    "descendants": 463,
+    "time": 1759593864
   },
   {
     "rank": 2,
     "id": 45490713,
     "title": "An illustrated introduction to linear algebra",
     "url": "https://www.ducktyped.org/p/an-illustrated-introduction-to-linear",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "egonschiele",
+    "descendants": 88,
+    "time": 1759754320
   },
   {
     "rank": 3,
     "id": 45501189,
     "title": "Nobel Prize in Physics 2025",
     "url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 476,
+    "by": "luisb",
+    "descendants": 99,
+    "time": 1759830649
   },
   {
     "rank": 4,
     "id": 45502216,
     "title": "Canadian bill would strip internet access from 'specified persons', no warrant",
     "url": "https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 603,
+    "by": "walterbell",
+    "descendants": 369,
+    "time": 1759839614
   },
   {
     "rank": 5,
     "id": 45503867,
     "title": "Vibe engineering",
     "url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 654,
+    "by": "janpio",
+    "descendants": 719,
+    "time": 1759848914
   },
   {
     "rank": 6,
     "id": 45504470,
     "title": "IKEA Catalogs 1951-2021",
     "url": "https://ikeamuseum.com/en/explore/ikea-catalogue/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "bookofjoe",
+    "descendants": 139,
+    "time": 1759851348
   },
   {
     "rank": 7,
     "id": 45504973,
     "title": "Show HN: Timelinize \u2013 Privately organize your own data from everywhere, locally",
     "url": "https://timelinize.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 630,
+    "by": "mholt",
+    "descendants": 163,
+    "time": 1759853422
   },
   {
     "rank": 8,
     "id": 45507936,
     "title": "Gemini 2.5 Computer Use model",
     "url": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 636,
+    "by": "mfiguiere",
+    "descendants": 325,
+    "time": 1759866551
   },
   {
     "rank": 9,
     "id": 45513485,
     "title": "Synology reverses policy banning third-party HDDs",
     "url": "https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1037,
+    "by": "baobun",
+    "descendants": 667,
+    "time": 1759911576
   },
   {
     "rank": 10,
     "id": 45516000,
     "title": "We found a bug in Go's ARM64 compiler",
     "url": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 835,
+    "by": "jgrahamc",
+    "descendants": 140,
+    "time": 1759930395
   }
 ]

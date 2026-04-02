@@ -4,99 +4,99 @@
     "id": 45712620,
     "title": "987654321 / 123456789",
     "url": "https://www.johndcook.com/blog/2025/10/26/987654321/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "ColinWright",
+    "descendants": 107,
+    "time": 1761492136
   },
   {
     "rank": 2,
     "id": 45732800,
     "title": "China has added forest the size of Texas since 1990",
     "url": "https://e360.yale.edu/digest/china-new-forest-report",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 674,
+    "by": "Brajeshwar",
+    "descendants": 631,
+    "time": 1761658964
   },
   {
     "rank": 3,
     "id": 45742907,
     "title": "Who needs Graphviz when you can build it yourself?",
     "url": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 524,
+    "by": "pdubroy",
+    "descendants": 108,
+    "time": 1761715069
   },
   {
     "rank": 4,
     "id": 45746482,
     "title": "Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders",
     "url": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 963,
+    "by": "skilled",
+    "descendants": 437,
+    "time": 1761744003
   },
   {
     "rank": 5,
     "id": 45747018,
     "title": "Kafka is Fast \u2013 I'll use Postgres",
     "url": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 561,
+    "by": "enether",
+    "descendants": 401,
+    "time": 1761746761
   },
   {
     "rank": 6,
     "id": 45749017,
     "title": "Tailscale Peer Relays",
     "url": "https://tailscale.com/blog/peer-relays-beta",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "seemaze",
+    "descendants": 114,
+    "time": 1761754896
   },
   {
     "rank": 7,
     "id": 45750954,
     "title": "Dithering \u2013 Part 1",
     "url": "https://visualrambling.space/dithering-part-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "Bogdanp",
+    "descendants": 96,
+    "time": 1761762095
   },
   {
     "rank": 8,
     "id": 45754509,
     "title": "Crunchyroll is destroying its subtitles",
     "url": "https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "Daiz",
+    "descendants": 163,
+    "time": 1761780684
   },
   {
     "rank": 9,
     "id": 45760878,
     "title": "Free software scares normal people",
     "url": "https://danieldelaney.net/normal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 944,
+    "by": "cryptophreak",
+    "descendants": 623,
+    "time": 1761836835
   },
   {
     "rank": 10,
     "id": 45761445,
     "title": "Affinity Studio now free",
     "url": "https://www.affinity.studio/get-affinity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1217,
+    "by": "dagmx",
+    "descendants": 793,
+    "time": 1761839678
   }
 ]

@@ -4,99 +4,99 @@
     "id": 45332859,
     "title": "I'm spoiled by Apple Silicon but still love Framework",
     "url": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "deevus",
+    "descendants": 525,
+    "time": 1758546190
   },
   {
     "rank": 2,
     "id": 45334545,
     "title": "PlanetScale for Postgres is now GA",
     "url": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "munns",
+    "descendants": 190,
+    "time": 1758553848
   },
   {
     "rank": 3,
     "id": 45342364,
     "title": "Nine things I learned in ninety years",
     "url": "http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1006,
+    "by": "coderintherye",
+    "descendants": 382,
+    "time": 1758596586
   },
   {
     "rank": 4,
     "id": 45342943,
     "title": "Zoxide: A Better CD Command",
     "url": "https://github.com/ajeetdsouza/zoxide",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "gasull",
+    "descendants": 194,
+    "time": 1758602908
   },
   {
     "rank": 5,
     "id": 45343108,
     "title": "Delete FROM users WHERE location = 'Iran';",
     "url": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 941,
+    "by": "avestura",
+    "descendants": 802,
+    "time": 1758605428
   },
   {
     "rank": 6,
     "id": 45344708,
     "title": "Go has added Valgrind support",
     "url": "https://go-review.googlesource.com/c/go/+/674077",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 519,
+    "by": "cirelli94",
+    "descendants": 147,
+    "time": 1758619617
   },
   {
     "rank": 7,
     "id": 45347117,
     "title": "Libghostty is coming",
     "url": "https://mitchellh.com/writing/libghostty-is-coming",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 828,
+    "by": "kingori",
+    "descendants": 266,
+    "time": 1758635788
   },
   {
     "rank": 8,
     "id": 45348390,
     "title": "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
     "url": "https://joel.drapper.me/p/rubygems-takeover/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 597,
+    "by": "bradgessler",
+    "descendants": 430,
+    "time": 1758641129
   },
   {
     "rank": 9,
     "id": 45348495,
     "title": "Always Invite Anna",
     "url": "https://sharif.io/anna-alexei",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1154,
+    "by": "walterbell",
+    "descendants": 178,
+    "time": 1758641603
   },
   {
     "rank": 10,
     "id": 45350690,
     "title": "Find SF parking cops",
     "url": "https://walzr.com/sf-parking/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 849,
+    "by": "alazsengul",
+    "descendants": 470,
+    "time": 1758650767
   }
 ]
