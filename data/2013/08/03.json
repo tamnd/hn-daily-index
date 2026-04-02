@@ -4,99 +4,99 @@
     "id": 6146150,
     "title": "TimelineJS: build visually rich interactive timelines",
     "url": "http://timeline.verite.co/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "cnivolle",
+    "descendants": 29,
+    "time": 1375437076
   },
   {
     "rank": 2,
     "id": 6146279,
     "title": "Don't Plug Your Phone into a Charger You Don't Own",
     "url": "http://securitywatch.pcmag.com/hacking/314361-black-hat-don-t-plug-your-phone-into-a-charger-you-don-t-own",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 153,
+    "by": "vinhnx",
+    "descendants": 93,
+    "time": 1375440173
   },
   {
     "rank": 3,
     "id": 6146446,
     "title": "Did Goldman Overstep in Criminally Charging Its Ex-Programmer?",
     "url": "http://www.vanityfair.com/business/2013/09/michael-lewis-goldman-sachs-programmer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "yummyfajitas",
+    "descendants": 220,
+    "time": 1375444819
   },
   {
     "rank": 4,
     "id": 6147744,
     "title": "After NSA's XKeyscore, Wikipedia Switches to HTTPS",
     "url": "http://www.fastcompany.com/3015199/the-code-war/after-nsas-xkeyscore-wikipedia-switches-to-secure-https",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "alecco",
+    "descendants": 114,
+    "time": 1375459211
   },
   {
     "rank": 5,
     "id": 6149393,
     "title": "FBI pressures Internet providers to install surveillance software",
     "url": "http://news.cnet.com/8301-13578_3-57596791-38/fbi-pressures-internet-providers-to-install-surveillance-software",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "ojbyrne",
+    "descendants": 97,
+    "time": 1375474571
   },
   {
     "rank": 6,
     "id": 6151030,
     "title": "NSA Collects 'Word for Word' Every Domestic Communication, Says Former Analyst",
     "url": "http://www.pbs.org/newshour/bb/government_programs/july-dec13/whistleblowers_08-01.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "chakalakasp",
+    "descendants": 106,
+    "time": 1375501846
   },
   {
     "rank": 7,
     "id": 6151500,
     "title": "What a 600,000-megapixel-wide picture looks like",
     "url": "http://www.oddly-even.com/2013/07/31/the-largest-photo-ever-taken-of-tokyo-is-zoomable-and-it-is-glorious/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 204,
+    "by": "lukedeering",
+    "descendants": 88,
+    "time": 1375518385
   },
   {
     "rank": 8,
     "id": 6151823,
     "title": "Nightcode: An IDE for Clojure and Java",
     "url": "http://nightcode.info/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "anon1i40292",
+    "descendants": 52,
+    "time": 1375529938
   },
   {
     "rank": 9,
     "id": 6152046,
     "title": "Mailpile: Let\u2019s take email back",
     "url": "http://www.mailpile.is/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "threedaymonk",
+    "descendants": 232,
+    "time": 1375537690
   },
   {
     "rank": 10,
     "id": 6152103,
     "title": "Why does Angular.js rock?",
     "url": "http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "Foxandxss",
+    "descendants": 125,
+    "time": 1375538831
   }
 ]

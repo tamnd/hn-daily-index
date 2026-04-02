@@ -4,99 +4,99 @@
     "id": 6106940,
     "title": "Feds tell web firms to turn over user passwords",
     "url": "http://m.cnet.com/news/feds-tell-web-firms-to-turn-over-user-account-passwords/57595529",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "antman",
+    "descendants": 148,
+    "time": 1374821148
   },
   {
     "rank": 2,
     "id": 6107553,
     "title": "How to kill an unresponsive SSH session",
     "url": "http://www.laszlo.nu/post/553591402/how-to-kill-an-unresponsive-ssh-session",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "oarmstrong",
+    "descendants": 109,
+    "time": 1374836557
   },
   {
     "rank": 3,
     "id": 6108217,
     "title": "Hacker Barnaby Jack has died",
     "url": "http://www.reuters.com/article/2013/07/26/us-hacker-death-idUSBRE96P0K120130726",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "cyanbane",
+    "descendants": 82,
+    "time": 1374847158
   },
   {
     "rank": 4,
     "id": 6109069,
     "title": "Simple API with Nginx and PostgreSQL",
     "url": "http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "ricny046",
+    "descendants": 73,
+    "time": 1374856728
   },
   {
     "rank": 5,
     "id": 6109905,
     "title": "Free email address validation API for web forms",
     "url": "http://blog.mailgun.com/post/free-email-validation-api-for-web-forms/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "old-gregg",
+    "descendants": 129,
+    "time": 1374865767
   },
   {
     "rank": 6,
     "id": 6110398,
     "title": "Porting dl.google.com from C++ to Go",
     "url": "http://talks.golang.org/2013/oscon-dl.slide",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "swah",
+    "descendants": 120,
+    "time": 1374870743
   },
   {
     "rank": 7,
     "id": 6110575,
     "title": "Scientist banned from revealing codes used to start luxury cars",
     "url": "http://www.guardian.co.uk/technology/2013/jul/26/scientist-banned-revealing-codes-cars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 180,
+    "by": "justincormack",
+    "descendants": 88,
+    "time": 1374872734
   },
   {
     "rank": 8,
     "id": 6110671,
     "title": "Big-O notation explained by a self-taught programmer",
     "url": "http://justin.abrah.ms/computer-science/big-o-notation-explained.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "abrahms",
+    "descendants": 78,
+    "time": 1374873642
   },
   {
     "rank": 9,
     "id": 6111399,
     "title": "Why 'Passive Income' Is A Dangerous Fantasy (2011)",
     "url": "http://www.forbes.com/sites/michaelellsberg/2011/06/24/the-top-4-reasons-why-passive-income-is-a-dangerous-fantasy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "nanodeath",
+    "descendants": 164,
+    "time": 1374886703
   },
   {
     "rank": 10,
     "id": 6112141,
     "title": "Bootstrap 3 RC1",
     "url": "http://twitter.github.io/bootstrap/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "taspeotis",
+    "descendants": 130,
+    "time": 1374910288
   }
 ]

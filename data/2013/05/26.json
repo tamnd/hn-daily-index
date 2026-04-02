@@ -4,99 +4,99 @@
     "id": 5767116,
     "title": "Tarsnap \u2013 Online backups for the truly paranoid",
     "url": "http://www.tarsnap.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "tete",
+    "descendants": 132,
+    "time": 1369486262
   },
   {
     "rank": 2,
     "id": 5768174,
     "title": "HTML5 Features you need to know",
     "url": "http://daker.me/2013/05/5-html5-features-you-need-to-know.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "daker",
+    "descendants": 73,
+    "time": 1369505937
   },
   {
     "rank": 3,
     "id": 5768482,
     "title": "Four Steps to Google, Without a Degree",
     "url": "https://medium.com/this-happened-to-me/8f381aa6bd5e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "davidbyttow",
+    "descendants": 142,
+    "time": 1369509599
   },
   {
     "rank": 4,
     "id": 5769295,
     "title": "Google defends dropping chat federation with inaccurate comments",
     "url": "https://plus.google.com/116276248303121270590/posts/ggNwh9eLYWu",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "AndrewDucker",
+    "descendants": 102,
+    "time": 1369524468
   },
   {
     "rank": 5,
     "id": 5770145,
     "title": "Linux To Become Exclusive OS Of The International Space Station",
     "url": "http://www.redorbit.com/news/space/1112844374/linux-windows-xp-os-iss-international-space-station-opslan-051213/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "moo",
+    "descendants": 55,
+    "time": 1369546023
   },
   {
     "rank": 6,
     "id": 5770461,
     "title": "The Mozilla Manifesto",
     "url": "https://www.mozilla.org/en-US/about/manifesto/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "sauravt",
+    "descendants": 92,
+    "time": 1369556462
   },
   {
     "rank": 7,
     "id": 5771276,
     "title": "Rustboot: a 32 bit kernel written in Rust",
     "url": "https://github.com/charliesome/rustboot",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "steveklabnik",
+    "descendants": 54,
+    "time": 1369581315
   },
   {
     "rank": 8,
     "id": 5771558,
     "title": "I took the $300K",
     "url": "http://boundary.com/blog/2013/05/26/i-took-the-300k/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "geekfactor",
+    "descendants": 101,
+    "time": 1369586679
   },
   {
     "rank": 9,
     "id": 5771647,
     "title": "Full Disclosure: PayPal.com XSS Vulnerability",
     "url": "http://seclists.org/fulldisclosure/2013/May/163",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "instakill",
+    "descendants": 71,
+    "time": 1369588250
   },
   {
     "rank": 10,
     "id": 5771779,
     "title": "42",
     "url": "http://johncarlosbaez.wordpress.com/2013/05/25/42/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 528,
+    "by": "robinhouston",
+    "descendants": 58,
+    "time": 1369590275
   }
 ]

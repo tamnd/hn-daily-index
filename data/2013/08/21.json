@@ -4,99 +4,99 @@
     "id": 6242445,
     "title": "Why was Mini USB deprecated in favor of Micro USB?",
     "url": "http://electronics.stackexchange.com/questions/18552/why-was-mini-usb-deprecated-in-favor-of-micro-usb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "dchester195",
+    "descendants": 125,
+    "time": 1376987761
   },
   {
     "rank": 2,
     "id": 6242451,
     "title": "Nanomsg \u2013 MIT-licensed ZeroMQ alternative",
     "url": "http://www.freelists.org/post/nanomsg/nanomsg-01alpha-released",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "rumcajz",
+    "descendants": 114,
+    "time": 1376987855
   },
   {
     "rank": 3,
     "id": 6246128,
     "title": "An Absolute Beginner's Guide to Node.js",
     "url": "http://blog.modulus.io/absolute-beginners-guide-to-nodejs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "zwigby",
+    "descendants": 66,
+    "time": 1377028563
   },
   {
     "rank": 4,
     "id": 6246777,
     "title": "Don't reinvent the scrollbar",
     "url": "http://bbrks.me/blog/reinventing-scrollbars/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "bbrks",
+    "descendants": 167,
+    "time": 1377034955
   },
   {
     "rank": 5,
     "id": 6246884,
     "title": "Ungit \u2013 Git UI that makes you understand git",
     "url": "https://github.com/FredrikNoren/ungit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "rplnt",
+    "descendants": 65,
+    "time": 1377036057
   },
   {
     "rank": 6,
     "id": 6247552,
     "title": "Soylent: What Happened When I Stopped Eating For 2 Weeks",
     "url": "http://www.fourhourworkweek.com/blog/2013/08/20/soylent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "rjsamson",
+    "descendants": 360,
+    "time": 1377046547
   },
   {
     "rank": 7,
     "id": 6249452,
     "title": "'Sending a message': what the US and UK are attempting to do",
     "url": "http://www.theguardian.com/commentisfree/2013/aug/21/sending-message-miranda-gchq-nsa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "qubitsam",
+    "descendants": 152,
+    "time": 1377085289
   },
   {
     "rank": 8,
     "id": 6249815,
     "title": "We Need To Talk, Google",
     "url": "http://www.f-secure.com/weblog/archives/00002593.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "Sami_Lehtinen",
+    "descendants": 234,
+    "time": 1377089481
   },
   {
     "rank": 9,
     "id": 6250431,
     "title": "Judge sentences Bradley Manning to 35 years",
     "url": "http://www.washingtonpost.com/world/national-security/judge-to-sentence-bradley-manning-today/2013/08/20/85bee184-09d0-11e3-b87c-476db8ac34cd_story.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 640,
+    "by": "antr",
+    "descendants": 471,
+    "time": 1377094858
   },
   {
     "rank": 10,
     "id": 6251087,
     "title": "I will not do a tech interview",
     "url": "https://medium.com/lessons-learned/80ba19c55883",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1032,
+    "by": "ikeellis",
+    "descendants": 542,
+    "time": 1377099717
   }
 ]

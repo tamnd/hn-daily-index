@@ -4,60 +4,60 @@
     "id": 6125838,
     "title": "Linus on git rebase and merge (2009)",
     "url": "http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "Brajeshwar",
+    "descendants": 52,
+    "time": 1375171963
   },
   {
     "rank": 2,
     "id": 6127122,
     "title": "Android Fragmentation Visualized",
     "url": "http://opensignal.com/reports/fragmentation-2013/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "muratmutlu",
+    "descendants": 154,
+    "time": 1375194673
   },
   {
     "rank": 3,
     "id": 6127332,
     "title": "MIT releases report on its actions in the Aaron Swartz case",
     "url": "http://web.mit.edu/newsoffice/2013/mit-releases-swartz-report-0730.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "bguthrie",
+    "descendants": 94,
+    "time": 1375196691
   },
   {
     "rank": 4,
     "id": 6128837,
     "title": "Reversing Bits in C",
     "url": "http://corner.squareup.com/2013/07/reversing-bits-on-arm.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "pvilchez",
+    "descendants": 89,
+    "time": 1375207840
   },
   {
     "rank": 5,
     "id": 6131136,
     "title": "Looking at CPU/GPU Benchmark Optimizations in Galaxy S 4",
     "url": "http://www.anandtech.com/show/7187/looking-at-cpugpu-benchmark-optimizations-galaxy-s-4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "MBCook",
+    "descendants": 78,
+    "time": 1375231467
   },
   {
     "rank": 6,
     "id": 6131777,
     "title": "Introducing Quip",
     "url": "https://quip.com/blog/introducing-quip",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "jamesjyu",
+    "descendants": 155,
+    "time": 1375242123
   },
   {
     "rank": 7,
@@ -67,36 +67,36 @@
     "score": 0,
     "by": "",
     "descendants": 0,
-    "time": 0
+    "time": 1375270894
   },
   {
     "rank": 8,
     "id": 6133349,
     "title": "XKeyscore: NSA program collects 'nearly everything a user does on the internet'",
     "url": "http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1688,
+    "by": "sinak",
+    "descendants": 612,
+    "time": 1375275943
   },
   {
     "rank": 9,
     "id": 6135504,
     "title": "The entire US Code is now online in XML",
     "url": "http://uscodebeta.house.gov/download/download.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "liscovich",
+    "descendants": 237,
+    "time": 1375292640
   },
   {
     "rank": 10,
     "id": 6135833,
     "title": "NSA director heckled on stage at Black Hat security conference",
     "url": "http://www.forbes.com/sites/andygreenberg/2013/07/31/nsa-director-heckled-at-conference-as-he-asks-for-security-communitys-understanding/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "tjaerv",
+    "descendants": 208,
+    "time": 1375295212
   }
 ]

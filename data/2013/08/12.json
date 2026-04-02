@@ -4,99 +4,99 @@
     "id": 6195117,
     "title": "Injectable oxygen keeps people alive without breathing",
     "url": "http://techandfacts.com/injectable-oxygen/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "TeMPOraL",
+    "descendants": 63,
+    "time": 1376233573
   },
   {
     "rank": 2,
     "id": 6195565,
     "title": "Pixel Shaders: Proposal for an Interactive Introduction to Graphics Programming",
     "url": "http://pixelshaders.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 206,
+    "by": "msvan",
+    "descendants": 21,
+    "time": 1376243663
   },
   {
     "rank": 3,
     "id": 6196952,
     "title": "Papers, Please - A Dystopian Document Thriller",
     "url": "http://papersplea.se/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "flyt",
+    "descendants": 73,
+    "time": 1376265934
   },
   {
     "rank": 4,
     "id": 6197912,
     "title": "The NSA is turning the Internet into a total surveillance system",
     "url": "http://www.theguardian.com/commentisfree/2013/aug/11/nsa-internet-surveillance-email",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "northwest",
+    "descendants": 114,
+    "time": 1376287994
   },
   {
     "rank": 5,
     "id": 6198068,
     "title": "Mio: A High-Performance Multicore IO Manager for GHC [pdf]",
     "url": "http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf?haskellworkshop",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "dons",
+    "descendants": 78,
+    "time": 1376292198
   },
   {
     "rank": 6,
     "id": 6198400,
     "title": "The algorithm for a perfectly balanced photo gallery",
     "url": "http://www.crispymtn.com/stories/the-algorithm-for-a-perfectly-balanced-photo-gallery",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "jtreitz",
+    "descendants": 99,
+    "time": 1376300337
   },
   {
     "rank": 7,
     "id": 6199043,
     "title": "Do things, write about it",
     "url": "http://mdswanson.com/blog/2013/08/11/write-things-tell-people.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "swanson",
+    "descendants": 88,
+    "time": 1376314096
   },
   {
     "rank": 8,
     "id": 6201069,
     "title": "Google Fiber Continues Awful ISP Tradition of Banning \u201cServers\u201d",
     "url": "https://www.eff.org/deeplinks/2013/08/google-fiber-continues-awful-isp-tradition-banning-servers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "sinak",
+    "descendants": 240,
+    "time": 1376334985
   },
   {
     "rank": 9,
     "id": 6201586,
     "title": "Hyperloop",
     "url": "http://www.spacex.com/hyperloop",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2666,
+    "by": "spikels",
+    "descendants": 954,
+    "time": 1376339341
   },
   {
     "rank": 10,
     "id": 6201728,
     "title": "Hyperloop Alpha [pdf]",
     "url": "http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "soupboy",
+    "descendants": 193,
+    "time": 1376340176
   }
 ]

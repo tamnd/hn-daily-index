@@ -4,99 +4,99 @@
     "id": 5819227,
     "title": "IBM to Acquire SoftLayer",
     "url": "http://www-03.ibm.com/press/us/en/pressrelease/41191.wss",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "porker",
+    "descendants": 112,
+    "time": 1370352185
   },
   {
     "rank": 2,
     "id": 5819231,
     "title": "Designing a Pragmatic RESTful API",
     "url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "veesahni",
+    "descendants": 132,
+    "time": 1370352257
   },
   {
     "rank": 3,
     "id": 5822137,
     "title": "Bitbucket passes one million users",
     "url": "http://blog.bitbucket.org/2013/06/04/atlassian-bitbucket-passes-one-million-users/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "Lightning",
+    "descendants": 183,
+    "time": 1370380233
   },
   {
     "rank": 4,
     "id": 5823365,
     "title": "Firefox 25 will get a major UI overhaul",
     "url": "https://wiki.mozilla.org/Firefox/Features/Theme_Refinement_and_Evolution_%28Australis%29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "enthdegree",
+    "descendants": 189,
+    "time": 1370399887
   },
   {
     "rank": 5,
     "id": 5824286,
     "title": "Wi-Fi signals enable gesture recognition throughout entire home",
     "url": "http://www.washington.edu/news/2013/06/04/wi-fi-signals-enable-gesture-recognition-throughout-entire-home/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "risent",
+    "descendants": 77,
+    "time": 1370420200
   },
   {
     "rank": 6,
     "id": 5824339,
     "title": "Buttons with built-in loading indicators",
     "url": "http://lab.hakim.se/ladda/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "Spiritus",
+    "descendants": 61,
+    "time": 1370421530
   },
   {
     "rank": 7,
     "id": 5825087,
     "title": "Exhibit A \u2013 the \u201cchild pornographer\u201d",
     "url": "http://abarristerswife.wordpress.com/2013/05/05/exhibit-a-the-child-pornographer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "q_revert",
+    "descendants": 379,
+    "time": 1370435011
   },
   {
     "rank": 8,
     "id": 5826482,
     "title": "Send payouts with Stripe",
     "url": "https://stripe.com/blog/send-payouts-with-stripe/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "pc",
+    "descendants": 137,
+    "time": 1370448345
   },
   {
     "rank": 9,
     "id": 5826579,
     "title": "Making Google\u2019s CalDAV and CardDAV APIs available for everyone",
     "url": "http://googledevelopers.blogspot.com/2013/06/making-googles-caldav-and-carddav-apis.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "Zikes",
+    "descendants": 81,
+    "time": 1370449220
   },
   {
     "rank": 10,
     "id": 5827941,
     "title": "Seriously.js",
     "url": "http://seriouslyjs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 643,
+    "by": "Aissen",
+    "descendants": 181,
+    "time": 1370460191
   }
 ]

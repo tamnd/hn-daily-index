@@ -4,99 +4,99 @@
     "id": 6085254,
     "title": "A Tour Inside CloudFlare's Latest Generation Servers",
     "url": "http://blog.cloudflare.com/a-tour-inside-cloudflares-latest-generation-servers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "jgrahamc",
+    "descendants": 94,
+    "time": 1374515181
   },
   {
     "rank": 2,
     "id": 6086031,
     "title": "Upton: A Web Scraping Framework",
     "url": "http://www.propublica.org/nerds/item/upton-a-web-scraping-framework",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "t1c1",
+    "descendants": 61,
+    "time": 1374522112
   },
   {
     "rank": 3,
     "id": 6086983,
     "title": "ZeroMQ instead of HTTP, for internal services",
     "url": "http://augustl.com/blog/2013/zeromq_instead_of_http/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 206,
+    "by": "augustl",
+    "descendants": 99,
+    "time": 1374533424
   },
   {
     "rank": 4,
     "id": 6087404,
     "title": "Reginald Braithwaite is a GitHubber",
     "url": "https://github.com/blog/1567-reginald-braithwaite-is-a-githubber",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "llambda",
+    "descendants": 63,
+    "time": 1374539112
   },
   {
     "rank": 5,
     "id": 6087572,
     "title": "Leaked report shows high civilian death toll from CIA drone strikes",
     "url": "http://www.salon.com/2013/07/22/leaked_report_shows_high_civilian_death_toll_from_cia_drone_strikes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "stfu",
+    "descendants": 151,
+    "time": 1374541845
   },
   {
     "rank": 6,
     "id": 6087935,
     "title": "Forgotten Employee (2002)",
     "url": "https://sites.google.com/site/forgottenemployee/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 747,
+    "by": "bgar",
+    "descendants": 291,
+    "time": 1374548062
   },
   {
     "rank": 7,
     "id": 6089294,
     "title": "Block NSA funding for collecting the call records of all Americans",
     "url": "http://DefundTheNSA.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 482,
+    "by": "sinak",
+    "descendants": 220,
+    "time": 1374578120
   },
   {
     "rank": 8,
     "id": 6090111,
     "title": "Sneak peek of Macaw \u2013 a code-savvy web design tool [video]",
     "url": "http://macaw.co/peek/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "jack7890",
+    "descendants": 71,
+    "time": 1374588599
   },
   {
     "rank": 9,
     "id": 6091171,
     "title": "The sad story of Facebook Platform",
     "url": "http://pandodaily.com/2013/07/23/move-fast-break-things-the-sad-story-of-platform-facebooks-gigantic-missed-opportunity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "rpsubhub",
+    "descendants": 100,
+    "time": 1374597802
   },
   {
     "rank": 10,
     "id": 6091251,
     "title": "How Gmail\u2019s New Inbox Is Affecting Open Rates",
     "url": "http://blog.mailchimp.com/how-gmails-new-inbox-is-affecting-open-rates/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "duck",
+    "descendants": 213,
+    "time": 1374598480
   }
 ]
