@@ -1,30 +1,30 @@
 [
   {
     "rank": 1,
-    "id": 47611721,
-    "title": "IBM Announces Strategic Collaboration with Arm",
-    "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 141,
-    "by": "bonzini",
-    "descendants": 76,
-    "time": 1775119724
-  },
-  {
-    "rank": 2,
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 42,
+    "score": 43,
     "by": "AbuAssar",
     "descendants": 11,
     "time": 1775127891
+  },
+  {
+    "rank": 2,
+    "id": 47611721,
+    "title": "IBM Announces Strategic Collaboration with Arm",
+    "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+    "score": 143,
+    "by": "bonzini",
+    "descendants": 76,
+    "time": 1775119724
   },
   {
     "rank": 3,
     "id": 47613078,
     "title": "Inside Nepal's Fake Rescue Racket",
     "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 35,
+    "score": 36,
     "by": "lode",
     "descendants": 1,
     "time": 1775130041
@@ -34,9 +34,9 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 181,
+    "score": 183,
     "by": "novaRom",
-    "descendants": 95,
+    "descendants": 96,
     "time": 1775127000
   },
   {
@@ -54,7 +54,7 @@
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 59,
+    "score": 61,
     "by": "stratos123",
     "descendants": 27,
     "time": 1775121258
@@ -74,7 +74,7 @@
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 193,
+    "score": 194,
     "by": "jaden",
     "descendants": 61,
     "time": 1775100933
