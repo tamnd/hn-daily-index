@@ -4,99 +4,99 @@
     "id": 21669234,
     "title": "Adventures in Netflix",
     "url": "https://lars.ingebrigtsen.no/2019/02/14/adventures-in-netflix/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "deng",
+    "descendants": 74,
+    "time": 1575105641
   },
   {
     "rank": 2,
     "id": 21669416,
     "title": "Longevity Linked to Proteins That Calm Overexcited Neurons",
     "url": "https://www.quantamagazine.org/longevity-linked-to-proteins-that-calm-overexcited-neurons-20191126/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "tiagom87",
+    "descendants": 51,
+    "time": 1575110235
   },
   {
     "rank": 3,
     "id": 21671568,
     "title": "Garbage Collection (2017)",
     "url": "http://craftinginterpreters.com/garbage-collection.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "tosh",
+    "descendants": 108,
+    "time": 1575140294
   },
   {
     "rank": 4,
     "id": 21672481,
     "title": "Urbit",
     "url": "https://urbit.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "tomrod",
+    "descendants": 288,
+    "time": 1575152619
   },
   {
     "rank": 5,
     "id": 21672528,
     "title": "Gnu: Net",
     "url": "https://gnunet.org/en/#about",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "tomrod",
+    "descendants": 50,
+    "time": 1575153404
   },
   {
     "rank": 6,
     "id": 21672563,
     "title": "Small Projects, Big Companies",
     "url": "https://pioneer.app/blog/small-projects-big-companies/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "marceee0901",
+    "descendants": 74,
+    "time": 1575153988
   },
   {
     "rank": 7,
     "id": 21674599,
     "title": "Shibboleths that get you past the initial script stage",
     "url": "https://twitter.com/patio11/status/1201003855770607618",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "signor_bosco",
+    "descendants": 235,
+    "time": 1575190313
   },
   {
     "rank": 8,
     "id": 21674729,
     "title": "HTTPie \u2013 A user-friendly CLI HTTP client",
     "url": "https://github.com/jakubroztocil/httpie",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "_ghm2",
+    "descendants": 89,
+    "time": 1575193629
   },
   {
     "rank": 9,
     "id": 21675456,
     "title": "Unbundling AWS",
     "url": "https://www.tclauson.com/2019/09/11/Unbundling-AWS.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "taylorwc",
+    "descendants": 175,
+    "time": 1575208021
   },
   {
     "rank": 10,
     "id": 21676252,
     "title": "The world needs more search engines",
     "url": "https://www.0x65.dev/blog/2019-12-01/the-world-needs-cliqz-the-world-needs-more-search-engines.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 795,
+    "by": "kkm",
+    "descendants": 519,
+    "time": 1575218518
   }
 ]

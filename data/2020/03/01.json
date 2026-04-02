@@ -4,99 +4,99 @@
     "id": 22442479,
     "title": "iNaturalist is a social network of people helping each other learn about nature",
     "url": "https://www.wired.com/story/inaturalist-app-disconnection/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "SirLJ",
+    "descendants": 56,
+    "time": 1582895240
   },
   {
     "rank": 2,
     "id": 22452065,
     "title": "2020 Leap Day Bugs",
     "url": "https://codeofmatt.com/list-of-2020-leap-day-bugs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "mj1586",
+    "descendants": 146,
+    "time": 1583000888
   },
   {
     "rank": 3,
     "id": 22452343,
     "title": "64 bit OS Raspberry Pi4 Benchmarks",
     "url": "https://medium.com/@matteocroce/why-you-should-run-a-64-bit-os-on-your-raspberry-pi4-bd5290d48947",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "tosh",
+    "descendants": 101,
+    "time": 1583003410
   },
   {
     "rank": 4,
     "id": 22454115,
     "title": "Flutter and Dart, or how to quickly build a mobile app without losing your hair",
     "url": "https://altkomsoftware.pl/blog/flutter-dart-quickly-build-mobile-app-without-losing-much-hair/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "witek1902",
+    "descendants": 174,
+    "time": 1583020672
   },
   {
     "rank": 5,
     "id": 22454333,
     "title": "Ask HN: Good ways to capture institutional knowledge?",
     "url": "https://news.ycombinator.com/item?id=22454333",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "alhirzel",
+    "descendants": 213,
+    "time": 1583023836
   },
   {
     "rank": 6,
     "id": 22454520,
     "title": "How many users block Google analytics? (2017)",
     "url": "https://blog.wesleyac.com/posts/google-analytics",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "luu",
+    "descendants": 234,
+    "time": 1583026776
   },
   {
     "rank": 7,
     "id": 22455779,
     "title": "Learn Awk by Example (2019)",
     "url": "https://github.com/thewhitetulip/awk-anti-textbook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "thewhitetulip",
+    "descendants": 29,
+    "time": 1583050568
   },
   {
     "rank": 8,
     "id": 22456702,
     "title": "Why Cloudflare Chose AMD EPYC for Gen X Servers",
     "url": "https://blog.cloudflare.com/technical-details-of-why-cloudflare-chose-amd-epyc-for-gen-x-servers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "jgrahamc",
+    "descendants": 117,
+    "time": 1583067917
   },
   {
     "rank": 9,
     "id": 22457326,
     "title": "Better Business Bureau rejects Molekule\u2019s air purifier claims",
     "url": "https://thewirecutter.com/blog/watchdog-rejects-molekule-air-purifier-claims/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "lxm",
+    "descendants": 130,
+    "time": 1583077840
   },
   {
     "rank": 10,
     "id": 22457351,
     "title": "NymphCast: Casual attempt at open alternative to Chromecast",
     "url": "https://mayaposch.blogspot.com/2020/03/nymphcast-casual-attempt-at-open.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "ingve",
+    "descendants": 184,
+    "time": 1583078171
   }
 ]

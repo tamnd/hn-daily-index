@@ -4,99 +4,99 @@
     "id": 22465476,
     "title": "Ask HN: Who is hiring? (March 2020)",
     "url": "https://news.ycombinator.com/item?id=22465476",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "whoishiring",
+    "descendants": 771,
+    "time": 1583164834
   },
   {
     "rank": 2,
     "id": 22466462,
     "title": "LightSpeed: Rewriting Messenger\u2019s codebase for a faster, smaller, simpler app",
     "url": "https://engineering.fb.com/data-infrastructure/messenger/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "moneil971",
+    "descendants": 321,
+    "time": 1583169809
   },
   {
     "rank": 3,
     "id": 22468370,
     "title": "Project Svalbard, Have I Been Pwned and its ongoing independence",
     "url": "https://www.troyhunt.com/project-svalbard-have-i-been-pwned-and-its-ongoing-independence/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "MattConfluence",
+    "descendants": 97,
+    "time": 1583179770
   },
   {
     "rank": 4,
     "id": 22471355,
     "title": "Simple Systems Have Less Downtime",
     "url": "https://www.gkogan.co/blog/simple-systems/?r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 685,
+    "by": "gk1",
+    "descendants": 263,
+    "time": 1583203550
   },
   {
     "rank": 5,
     "id": 22472175,
     "title": "Postgres Explain Visualizer",
     "url": "https://github.com/dalibo/pev2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "vishesh92",
+    "descendants": 33,
+    "time": 1583214849
   },
   {
     "rank": 6,
     "id": 22473255,
     "title": "Revoking certain certificates on March 4",
     "url": "https://community.letsencrypt.org/t/revoking-certain-certificates-on-march-4/114864",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "teddyh",
+    "descendants": 155,
+    "time": 1583230844
   },
   {
     "rank": 7,
     "id": 22473263,
     "title": "What's so hard about PDF text extraction?",
     "url": "https://www.filingdb.com/pdf-text-extraction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 733,
+    "by": "maest",
+    "descendants": 342,
+    "time": 1583230925
   },
   {
     "rank": 8,
     "id": 22474641,
     "title": "Firefox 75 on Wayland now to have full WebGL, working VA-API acceleration",
     "url": "https://www.phoronix.com/scan.php?page=news_item&px=Firefox-75-Wayland-Great-Shape",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "nirv",
+    "descendants": 173,
+    "time": 1583245466
   },
   {
     "rank": 9,
     "id": 22474965,
     "title": "Fed cuts half point in emergency move amid spreading virus",
     "url": "https://www.bloomberg.com/news/articles/2020-03-03/fed-cuts-rates-half-point-in-emergency-move-amid-spreading-virus",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "a2h",
+    "descendants": 481,
+    "time": 1583247892
   },
   {
     "rank": 10,
     "id": 22476930,
     "title": "Introduction to D3",
     "url": "https://observablehq.com/@mitvis/introduction-to-d3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 599,
+    "by": "kickout",
+    "descendants": 92,
+    "time": 1583258115
   }
 ]

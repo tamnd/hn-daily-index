@@ -2,6 +2,8 @@
 
 Top 10 Hacker News stories for each day in February 2020.
 
+- [2020-02-27 (Thursday)](#2020-02-27)
+- [2020-02-26 (Wednesday)](#2020-02-26)
 - [2020-02-25 (Tuesday)](#2020-02-25)
 - [2020-02-24 (Monday)](#2020-02-24)
 - [2020-02-23 (Sunday)](#2020-02-23)
@@ -29,6 +31,36 @@ Top 10 Hacker News stories for each day in February 2020.
 - [2020-02-01 (Saturday)](#2020-02-01)
 
 ---
+
+## 2020-02-27
+
+*Thursday*
+
+1. [Reddit’s profane, greedy traders are shaking up the stock market](https://www.bloomberg.com/news/articles/2020-02-26/reddit-s-profane-greedy-traders-are-shaking-up-the-stock-market) (bloomberg.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22423079)
+2. [YC’s new guide to raising a Series A](https://blog.ycombinator.com/ycs-series-a-guide/) (blog.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22424854)
+3. [Cursed Adapters](https://twitter.com/Foone/status/1224206741602062336) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22428321)
+4. [The Simpsons in CSS](https://pattle.github.io/simpsons-in-css/) (pattle.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22429958)
+5. [Rome: An experimental JavaScript toolchain](https://github.com/facebookexperimental/rome) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22430682)
+6. [Japan's PM to ask all schools to temporarily close](https://www3.nhk.or.jp/nhkworld/en/news/20200227_49/) (www3.nhk.or.jp) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22432233)
+7. [Age, Sex, Existing Conditions of Covid-19 Cases and Deaths](https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/) (worldometers.info) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22432358)
+8. [Why the Gov.uk Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) (technology.blog.gov.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22433654)
+9. [CDC declined to test new coronavirus patient for days, California hospital says](https://thehill.com/policy/healthcare/484903-cdc-declined-to-test-new-coronavirus-patient-for-days-california-hospital) (thehill.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22434366)
+10. [Let's Encrypt Has Issued a Billion Certificates](https://letsencrypt.org/2020/02/27/one-billion-certs.html) (letsencrypt.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22434466)
+
+## 2020-02-26
+
+*Wednesday*
+
+1. [MSPaint in JavaScript](https://jspaint.app) (jspaint.app) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22415735)
+2. [Disney CEO Bob Iger immediately steps down from CEO position](https://techcrunch.com/2020/02/25/disney-ceo-bob-iger-immediately-steps-down-from-ceo-position/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22418554)
+3. [Tokyo Olympics “looking at a cancellation” if coronavirus not contained](https://www.axios.com/olympic-official-tokyo-cancellation-coronavirus-contained-4ca69a5a-b573-4ec5-8714-959d04ae8592.html) (axios.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22420148)
+4. [Things I Learned from Five Years in Climate Tech](https://evanm.website/2020/02/five-years-in-energy/) (evanm.website) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22420548)
+5. [Secret doorway in UK Parliament leads to historical treasure trove](https://www.bbc.co.uk/news/uk-politics-51630630) (bbc.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22421365)
+6. [Assange Hearing Day 2](https://www.craigmurray.org.uk/archives/2020/02/your-man-in-the-public-gallery-assange-hearing-day-2/) (craigmurray.org.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22422077)
+7. [Tailwind UI](https://tailwindui.com/) (tailwindui.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22422873)
+8. [NeutralinoJS: Lightweight Electron alternative using native browser controls](https://neutralino.js.org) (neutralino.js.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22422989)
+9. [DOJ plans to strike against encryption while the Techlash iron is hot](https://cyberlaw.stanford.edu/blog/2020/02/doj-plans-strike-against-encryption-while-techlash-iron-hot) (cyberlaw.stanford.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22425454)
+10. [Hard Startups](https://blog.samaltman.com/hard-startups) (blog.samaltman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=22425745)
 
 ## 2020-02-25
 
