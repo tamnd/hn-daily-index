@@ -4,7 +4,7 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 132,
+    "score": 133,
     "by": "bonzini",
     "descendants": 75,
     "time": 1775119724
@@ -14,7 +14,7 @@
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 29,
+    "score": 30,
     "by": "AbuAssar",
     "descendants": 5,
     "time": 1775127891
@@ -24,9 +24,9 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 161,
+    "score": 163,
     "by": "novaRom",
-    "descendants": 78,
+    "descendants": 80,
     "time": 1775127000
   },
   {
@@ -54,9 +54,9 @@
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 52,
+    "score": 53,
     "by": "stratos123",
-    "descendants": 22,
+    "descendants": 23,
     "time": 1775121258
   },
   {
@@ -71,6 +71,16 @@
   },
   {
     "rank": 8,
+    "id": 47596739,
+    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "score": 76,
+    "by": "jackson-mcd",
+    "descendants": 21,
+    "time": 1775016881
+  },
+  {
+    "rank": 9,
     "id": 47613351,
     "title": "A Founder Tried to Pitch \u2013 and Got a Restraining Order",
     "url": "https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan",
@@ -78,16 +88,6 @@
     "by": "elonmm",
     "descendants": 2,
     "time": 1775131846
-  },
-  {
-    "rank": 9,
-    "id": 47596739,
-    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 75,
-    "by": "jackson-mcd",
-    "descendants": 21,
-    "time": 1775016881
   },
   {
     "rank": 10,
