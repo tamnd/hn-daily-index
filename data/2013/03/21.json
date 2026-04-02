@@ -4,99 +4,99 @@
     "id": 5408038,
     "title": "Voyager 1 has left the solar system",
     "url": "http://www.agu.org/news/press/pr_archives/2013/2013-11.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "j4mie",
+    "descendants": 63,
+    "time": 1363794992
   },
   {
     "rank": 2,
     "id": 5412231,
     "title": "Sorry Google; you can Keep it to yourself",
     "url": "http://gigaom.com/2013/03/20/sorry-google-you-can-keep-it-to-yourself/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "iProject",
+    "descendants": 228,
+    "time": 1363830452
   },
   {
     "rank": 3,
     "id": 5414235,
     "title": "Chrome World Wide Maze",
     "url": "http://chrome.com/maze/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "pytrin",
+    "descendants": 117,
+    "time": 1363864104
   },
   {
     "rank": 4,
     "id": 5415256,
     "title": "PyCon Code of Conduct changed to avoid public shaming",
     "url": "https://github.com/python/pycon-code-of-conduct/commit/500a3d25c27065598002f7c999de3fdfb7ab18b1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "Argorak",
+    "descendants": 371,
+    "time": 1363876294
   },
   {
     "rank": 5,
     "id": 5415585,
     "title": "I\u2019m done with the web",
     "url": "http://randyluecke.tumblr.com/post/45915323813/im-done-with-the-web",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "paulirish",
+    "descendants": 275,
+    "time": 1363878960
   },
   {
     "rank": 6,
     "id": 5416908,
     "title": "Official comment from HN on dead threads",
     "url": "http://news.ycombinator.com/item?id=5416908",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "bryogenic",
+    "descendants": 184,
+    "time": 1363886147
   },
   {
     "rank": 7,
     "id": 5417514,
     "title": "What happens when the Secret Service uses a NSL on you",
     "url": "https://www.noisebridge.net/pipermail/noisebridge-discuss/2013-March/035200.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "squeed",
+    "descendants": 151,
+    "time": 1363889549
   },
   {
     "rank": 8,
     "id": 5417736,
     "title": "SendGrid Fires Company Evangelist After Twitter Fracas",
     "url": "http://mashable.com/2013/03/21/sendgrid-fires-adria-richards/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "subsystem",
+    "descendants": 559,
+    "time": 1363891501
   },
   {
     "rank": 9,
     "id": 5419071,
     "title": "Adria Richards, PyCon, and How We All Lost",
     "url": "https://amandablumwords.wordpress.com/2013/03/21/3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1023,
+    "by": "hexis",
+    "descendants": 367,
+    "time": 1363900438
   },
   {
     "rank": 10,
     "id": 5419610,
     "title": "A Difficult Situation",
     "url": "http://blog.sendgrid.com/a-difficult-situation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 587,
+    "by": "jbaudanza",
+    "descendants": 432,
+    "time": 1363904431
   }
 ]

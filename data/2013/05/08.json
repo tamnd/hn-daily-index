@@ -4,99 +4,99 @@
     "id": 5667659,
     "title": "Nginx security advisory (CVE-2013-2028)",
     "url": "http://mailman.nginx.org/pipermail/nginx-announce/2013/000112.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "QUFB",
+    "descendants": 54,
+    "time": 1367928661
   },
   {
     "rank": 2,
     "id": 5668629,
     "title": "Pizza Compass",
     "url": "http://pizza-compass.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "briangonzalez",
+    "descendants": 117,
+    "time": 1367940901
   },
   {
     "rank": 3,
     "id": 5669601,
     "title": "CSS Zen Garden is 10 Years Old Today",
     "url": "http://mezzoblue.com/archives/2013/05/07/10_years/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "youngerdryas",
+    "descendants": 50,
+    "time": 1367949326
   },
   {
     "rank": 4,
     "id": 5671652,
     "title": "John Carmack starting port of Wolf 3D in Haskell",
     "url": "https://twitter.com/id_aa_carmack/status/331918309916295168",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "bobfunk",
+    "descendants": 137,
+    "time": 1367970616
   },
   {
     "rank": 5,
     "id": 5672515,
     "title": "Show HN: Flattest Route - A web app to help you avoid hills in SF",
     "url": "http://www.flattestroute.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "jonny_eh",
+    "descendants": 75,
+    "time": 1367987917
   },
   {
     "rank": 6,
     "id": 5673339,
     "title": "The Freelancer's Guide to Recurring Revenue",
     "url": "https://planscope.io/blog/the-freelancers-guide-to-recurring-revenue/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "sherm8n",
+    "descendants": 65,
+    "time": 1368006809
   },
   {
     "rank": 7,
     "id": 5673628,
     "title": "Dear Apple, let's talk about photos",
     "url": "http://peternixey.com/post/49928526270/dear-apple-lets-talk-about-photos",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "robheaton",
+    "descendants": 297,
+    "time": 1368014538
   },
   {
     "rank": 8,
     "id": 5674230,
     "title": "Food Practices Banned in Europe But Allowed in the US",
     "url": "http://www.motherjones.com/tom-philpott/2013/05/7-dodgy-foodag-practices-banned-europe-just-fine-here",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "casca",
+    "descendants": 197,
+    "time": 1368022780
   },
   {
     "rank": 9,
     "id": 5674438,
     "title": "Why Anti-Authoritarians are Diagnosed as Mentally Ill (2012)",
     "url": "http://www.madinamerica.com/2012/02/why-anti-authoritarians-are-diagnosed-as-mentally-ill/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "yesbabyyes",
+    "descendants": 204,
+    "time": 1368024775
   },
   {
     "rank": 10,
     "id": 5676189,
     "title": "Want to Spam Your LinkedIn Contacts and Be Humiliated? Try FounderDating",
     "url": "http://ilikestuffblog.com/2013/04/26/do-you-want-to-spam-your-linkedin-contacts-and-be-humiliated-try-founderdating/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "tlrobinson",
+    "descendants": 126,
+    "time": 1368040108
   }
 ]

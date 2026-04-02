@@ -4,99 +4,99 @@
     "id": 5310280,
     "title": "Postgres: The Bits You Haven't Found",
     "url": "http://postgres-bits.herokuapp.com/#1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "craigkerstiens",
+    "descendants": 111,
+    "time": 1362246456
   },
   {
     "rank": 2,
     "id": 5310563,
     "title": "What Coke Contains",
     "url": "https://medium.com/the-ingredients-2/221d449929ef",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "rchaudhary",
+    "descendants": 137,
+    "time": 1362250711
   },
   {
     "rank": 3,
     "id": 5310646,
     "title": "Bradley Manning\u2019s Statement",
     "url": "http://www.bradleymanning.org/news/update-3113-bradley-mannings-statement-taking-responsibility-for-releasing-docs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "ivancdg",
+    "descendants": 117,
+    "time": 1362252140
   },
   {
     "rank": 4,
     "id": 5311151,
     "title": "Stack Overflow ranks #2 for Google Search for \"Stack Overflow\"",
     "url": "https://www.google.com/search?q=stackoverflow&aq=0&oq=stackover&aqs=chrome.0.0j5j57j0j62.3537&sourceid=chrome&ie=UTF-8#hl=en&safe=off&sclient=psy-ab&q=stack+overflow&oq=stack+overflow&gs_l=serp.3..0l4.4882.4882.0.5337.1.1.0.0.0.0.135.135.0j1.1.0.les%3B..0.0...1c.1.5.psy-ab.gWmJt4vWzvg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.43148975,d.dmQ&fp=c1794afd088c3d78&biw=1440&bih=795",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "momchenr",
+    "descendants": 121,
+    "time": 1362259784
   },
   {
     "rank": 5,
     "id": 5312213,
     "title": "How not to send password reset notification email",
     "url": "http://scriptogr.am/slaven/post/how-not-to-send-password-reset-notification-email",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "slaven",
+    "descendants": 40,
+    "time": 1362277795
   },
   {
     "rank": 6,
     "id": 5312484,
     "title": "What the smartest people do on the weekend, everyone else will do in 10 years",
     "url": "http://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "mmahemoff",
+    "descendants": 114,
+    "time": 1362283982
   },
   {
     "rank": 7,
     "id": 5312762,
     "title": "(Presumably) Apple engineer comment on Lightning AV adapter design",
     "url": "https://www.panic.com/blog/2013/03/the-lightning-digital-av-adapter-surprise/#comment-16841",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "dmishe",
+    "descendants": 167,
+    "time": 1362292046
   },
   {
     "rank": 8,
     "id": 5313000,
     "title": "What I\u2019ve learned from 35 years of wearing computerized eyewear",
     "url": "http://spectrum.ieee.org/geek-life/profiles/steve-mann-my-augmediated-life?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "twentysix",
+    "descendants": 117,
+    "time": 1362299702
   },
   {
     "rank": 9,
     "id": 5313716,
     "title": "Today's Outage Post Mortem",
     "url": "http://blog.cloudflare.com/todays-outage-post-mortem-82515",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "buttscicles",
+    "descendants": 144,
+    "time": 1362318864
   },
   {
     "rank": 10,
     "id": 5314268,
     "title": "The Apprentice Programmer",
     "url": "http://tobi.lutke.com/the-apprentice-programmer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "seubert",
+    "descendants": 146,
+    "time": 1362329048
   }
 ]

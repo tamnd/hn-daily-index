@@ -4,99 +4,99 @@
     "id": 5491750,
     "title": "The new sandbox: open-source and self-hosted",
     "url": "http://blog.dotcloud.com/new-sandbox",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "zimbatm",
+    "descendants": 47,
+    "time": 1365068825
   },
   {
     "rank": 2,
     "id": 5492557,
     "title": "Apple's iMessage encryption trips up feds' surveillance",
     "url": "http://news.cnet.com/8301-13578_3-57577887-38/apples-imessage-encryption-trips-up-feds-surveillance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "donohoe",
+    "descendants": 147,
+    "time": 1365082897
   },
   {
     "rank": 3,
     "id": 5493029,
     "title": "Learn Vimscript the Hard Way",
     "url": "http://learnvimscriptthehardway.stevelosh.com/?published",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "stevelosh",
+    "descendants": 33,
+    "time": 1365087588
   },
   {
     "rank": 4,
     "id": 5493222,
     "title": "Association between muscular strength and mortality in men (2008) [pdf]",
     "url": "http://www.bmj.com/highwire/filestream/397551/field_highwire_article_pdf/0/bmj.a439",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "davidtanner",
+    "descendants": 199,
+    "time": 1365089606
   },
   {
     "rank": 5,
     "id": 5494125,
     "title": "Media Queries are a Hack",
     "url": "http://ianstormtaylor.com/media-queries-are-a-hack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "ianstormtaylor",
+    "descendants": 78,
+    "time": 1365098453
   },
   {
     "rank": 6,
     "id": 5494946,
     "title": "Facebook Home destroys any notion of privacy",
     "url": "http://gigaom.com/2013/04/04/why-facebook-home-bothers-me-it-destroys-any-notion-of-privacy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 198,
+    "by": "shawndumas",
+    "descendants": 155,
+    "time": 1365106036
   },
   {
     "rank": 7,
     "id": 5495919,
     "title": "Are Bitcoins The Future?",
     "url": "http://blog.priceonomics.com/post/47135650437/are-bitcoins-the-future",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "patrickod",
+    "descendants": 226,
+    "time": 1365117455
   },
   {
     "rank": 8,
     "id": 5496324,
     "title": "The Story Of A Failed Startup And A Founder Driven To Suicide",
     "url": "http://www.businessinsider.com/jody-sherman-ecomom-2013-4?op=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "chaz",
+    "descendants": 67,
+    "time": 1365124928
   },
   {
     "rank": 9,
     "id": 5498198,
     "title": "URLs are for People, not Computers",
     "url": "http://www.not-implemented.com/urls-are-for-people-not-computers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "Kop",
+    "descendants": 152,
+    "time": 1365168006
   },
   {
     "rank": 10,
     "id": 5500612,
     "title": "New GitHub Pages domain: github.io",
     "url": "https://github.com/blog/1452-new-github-pages-domain-github-io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "xPaw",
+    "descendants": 90,
+    "time": 1365191206
   }
 ]

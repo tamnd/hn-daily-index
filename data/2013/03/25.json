@@ -4,99 +4,99 @@
     "id": 5432130,
     "title": "Introduction to Machine Learning",
     "url": "http://alex.smola.org/teaching/cmu2013-10-701/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "chorola",
+    "descendants": 21,
+    "time": 1364135442
   },
   {
     "rank": 2,
     "id": 5432403,
     "title": "Python data tools just keep getting better",
     "url": "http://strata.oreilly.com/2013/03/python-data-tools-just-keep-getting-better.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "datascientist",
+    "descendants": 34,
+    "time": 1364140819
   },
   {
     "rank": 3,
     "id": 5432610,
     "title": "Why Use Nginx?",
     "url": "http://wiki.nginx.org/WhyUseIt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "seclabor",
+    "descendants": 88,
+    "time": 1364144250
   },
   {
     "rank": 4,
     "id": 5432713,
     "title": "Poll: Do you meditate?",
     "url": "http://news.ycombinator.com/item?id=5432713",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "gnosis",
+    "descendants": 222,
+    "time": 1364145759
   },
   {
     "rank": 5,
     "id": 5434186,
     "title": "Show HN: My side project \u2013 Do I need a visa for...?",
     "url": "http://www.doineedavisafor.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "jlangenauer",
+    "descendants": 158,
+    "time": 1364165692
   },
   {
     "rank": 6,
     "id": 5434627,
     "title": "Learning JavaScript - my experience and advice",
     "url": "http://sivers.org/learn-js",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "ibrahimcesar",
+    "descendants": 93,
+    "time": 1364172687
   },
   {
     "rank": 7,
     "id": 5435968,
     "title": "Checkout github pull requests locally",
     "url": "https://gist.github.com/piscisaureus/3342247",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "DanielRibeiro",
+    "descendants": 12,
+    "time": 1364199593
   },
   {
     "rank": 8,
     "id": 5436236,
     "title": "\u2018Functional Programming Principles in Scala\u2019 starts today",
     "url": "https://class.coursera.org/progfun-002",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "Zolomon",
+    "descendants": 119,
+    "time": 1364205025
   },
   {
     "rank": 9,
     "id": 5436614,
     "title": "Can We Stop Drawing Trees on Top of Skyscrapers?",
     "url": "http://www.archdaily.com/346374/can-we-please-stop-drawing-trees-on-top-of-skyscrapers/#.UU-2q9uRnOI.facebook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "tumblen",
+    "descendants": 132,
+    "time": 1364214505
   },
   {
     "rank": 10,
     "id": 5438797,
     "title": "How Google Sliced Away Our Knife Ads",
     "url": "http://www.knife-depot.com/blog/how-google-sliced-away-our-knife-ads/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "AJ007",
+    "descendants": 327,
+    "time": 1364237080
   }
 ]

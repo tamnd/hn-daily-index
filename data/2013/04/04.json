@@ -4,99 +4,99 @@
     "id": 5486605,
     "title": "Asm.js: The JavaScript Compile Target",
     "url": "http://ejohn.org/blog/asmjs-javascript-compile-target/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "dave1010uk",
+    "descendants": 103,
+    "time": 1365002462
   },
   {
     "rank": 2,
     "id": 5487316,
     "title": "Answering your questions about Heroku routing and web performance",
     "url": "https://blog.heroku.com/archives/2013/4/2/routing_and_web_performance_on_heroku_a_faq",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "adamwiggins",
+    "descendants": 160,
+    "time": 1365008552
   },
   {
     "rank": 3,
     "id": 5488214,
     "title": "The Jellyfish Entrepreneur",
     "url": "http://blog.priceonomics.com/post/47035579568/the-jellyfish-entrepreneur",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "aandon",
+    "descendants": 40,
+    "time": 1365015144
   },
   {
     "rank": 4,
     "id": 5489054,
     "title": "Google going its own way, forking WebKit rendering engine",
     "url": "http://arstechnica.com/information-technology/2013/04/google-going-its-own-way-forking-webkit-rendering-engine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "kolistivra",
+    "descendants": 99,
+    "time": 1365023074
   },
   {
     "rank": 5,
     "id": 5491611,
     "title": "Stop externalising your life",
     "url": "http://jshakespeare.com/stop-externalising-your-life/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "daGrevis",
+    "descendants": 152,
+    "time": 1365064752
   },
   {
     "rank": 6,
     "id": 5491826,
     "title": "Valve's GDC Talk: Porting Source to Linux [pdf]",
     "url": "https://developer.nvidia.com/sites/default/files/akamai/gamedev/docs/Porting%20Source%20to%20Linux.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "fafner",
+    "descendants": 68,
+    "time": 1365070848
   },
   {
     "rank": 7,
     "id": 5492464,
     "title": "PostgreSQL 9.2.4, 9.1.9, 9.0.13 and 8.4.17 released",
     "url": "http://www.postgresql.org/about/news/1456/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "edwinvlieg",
+    "descendants": 99,
+    "time": 1365081998
   },
   {
     "rank": 8,
     "id": 5494022,
     "title": "Facebook Home",
     "url": "http://www.facebook.com/home",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "samuel02",
+    "descendants": 220,
+    "time": 1365097677
   },
   {
     "rank": 9,
     "id": 5494767,
     "title": "Roger Ebert dies at 70 after battle with cancer",
     "url": "http://www.suntimes.com/17320958-761/roger-ebert-dies-at-70-after-battle-with-cancer.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 841,
+    "by": "tptacek",
+    "descendants": 167,
+    "time": 1365104359
   },
   {
     "rank": 10,
     "id": 5494777,
     "title": "Why Rackspace Is Suing The Most Notorious Patent Troll In America",
     "url": "http://www.rackspace.com/blog/why-rackspace-sued-the-most-notorious-patent-troll-in-america/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 622,
+    "by": "grimey27",
+    "descendants": 101,
+    "time": 1365104474
   }
 ]

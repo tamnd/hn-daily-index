@@ -4,99 +4,99 @@
     "id": 5543465,
     "title": "Exposed Webcam Viewer",
     "url": "http://cryptogasm.com/webcams/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "taintlove",
+    "descendants": 110,
+    "time": 1365865324
   },
   {
     "rank": 2,
     "id": 5545378,
     "title": "Obama Campaign AWS Infrastructure In One Diagram",
     "url": "http://awsofa.info",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "sethbannon",
+    "descendants": 104,
+    "time": 1365901258
   },
   {
     "rank": 3,
     "id": 5545625,
     "title": "What's Going On (on \"Why Python, Ruby, and Javascript are Slow\")",
     "url": "http://jmoiron.net/blog/whats-going-on/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "ANTSANTS",
+    "descendants": 192,
+    "time": 1365907219
   },
   {
     "rank": 4,
     "id": 5545816,
     "title": "Hal Finney: Bitcoin and me",
     "url": "https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "bcl",
+    "descendants": 15,
+    "time": 1365911422
   },
   {
     "rank": 5,
     "id": 5545946,
     "title": "Show HN: vim-multiple-cursors - True Sublime Text style multiple selection",
     "url": "https://github.com/terryma/vim-multiple-cursors",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "tma",
+    "descendants": 37,
+    "time": 1365915120
   },
   {
     "rank": 6,
     "id": 5545990,
     "title": "Mozilla TowTruck \u2013 real-time collaboration on any site",
     "url": "https://towtruck.mozillalabs.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "aeontech",
+    "descendants": 44,
+    "time": 1365916689
   },
   {
     "rank": 7,
     "id": 5546101,
     "title": "The Queen\u2019s stylesheets",
     "url": "http://spiffingcss.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "marcolz",
+    "descendants": 72,
+    "time": 1365920460
   },
   {
     "rank": 8,
     "id": 5546450,
     "title": "Things I Won't Work With: Dioxygen Difluoride",
     "url": "http://pipeline.corante.com/archives/2010/02/23/things_i_wont_work_with_dioxygen_difluoride.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "hythloday",
+    "descendants": 59,
+    "time": 1365932056
   },
   {
     "rank": 9,
     "id": 5546679,
     "title": "What I Wish I Knew When Learning Haskell",
     "url": "http://dev.stephendiehl.com/hask/#%281%29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "gtani",
+    "descendants": 99,
+    "time": 1365940759
   },
   {
     "rank": 10,
     "id": 5547423,
     "title": "Ask HN: Why would a government have created bitcoin?",
     "url": "http://news.ycombinator.com/item?id=5547423",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "pg",
+    "descendants": 294,
+    "time": 1365959519
   }
 ]

@@ -4,99 +4,99 @@
     "id": 5519158,
     "title": "Teach Yourself Programming in Ten Years (2001)",
     "url": "http://norvig.com/21-days.html?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "llambda",
+    "descendants": 86,
+    "time": 1365524597
   },
   {
     "rank": 2,
     "id": 5523054,
     "title": "XKCD: Time",
     "url": "http://www.explainxkcd.com/wiki/index.php?title=Time",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "swatkat",
+    "descendants": 33,
+    "time": 1365564575
   },
   {
     "rank": 3,
     "id": 5523404,
     "title": "AT&T Pretends It, Too, Will Build A 1 Gigabit Network ",
     "url": "http://www.techdirt.com/articles/20130409/12014922636/hours-after-google-announces-google-fiber-austin-att-pretends-it-too-will-build-1-gigabit-network-there.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "mtgx",
+    "descendants": 144,
+    "time": 1365572275
   },
   {
     "rank": 4,
     "id": 5523992,
     "title": "How can we get Google Support?",
     "url": "http://news.ycombinator.com/item?id=5523992",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "fabpot",
+    "descendants": 217,
+    "time": 1365584573
   },
   {
     "rank": 5,
     "id": 5524002,
     "title": "Obfuscated C Code Contest 2006. Please explain sykes2.c",
     "url": "http://stackoverflow.com/questions/15393441/obfuscated-c-code-contest-2006-please-explain-sykes2-c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "gedrap",
+    "descendants": 23,
+    "time": 1365584709
   },
   {
     "rank": 6,
     "id": 5524674,
     "title": "Lulu: Sexist gossip about men you know, anonymously, without their permission.",
     "url": "http://www.compylr.com/post/lulu-an-app-no-one-should-accept",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "triplec1988",
+    "descendants": 342,
+    "time": 1365597235
   },
   {
     "rank": 7,
     "id": 5525111,
     "title": "Mendeley users revolt against Elsevier takeover",
     "url": "http://paidcontent.org/2013/04/09/the-empire-acquires-the-rebel-alliance-mendeley-users-revolt-against-elsevier-takeover/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "pms",
+    "descendants": 147,
+    "time": 1365601943
   },
   {
     "rank": 8,
     "id": 5525190,
     "title": "Csscss: a CSS redundancy analyzer that analyzes redundancy",
     "url": "http://zmoazeni.github.io/csscss/?hn=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "zmoazeni",
+    "descendants": 43,
+    "time": 1365602753
   },
   {
     "rank": 9,
     "id": 5526684,
     "title": "Bitcoin falls from $266",
     "url": "https://data.mtgox.com/api/0/png/24hours.png?Currency=USD",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "sillysaurus",
+    "descendants": 486,
+    "time": 1365615502
   },
   {
     "rank": 10,
     "id": 5528274,
     "title": "Hummingbird \u2013 A fresh take on music notation",
     "url": "http://www.hummingbirdnotation.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "pie",
+    "descendants": 276,
+    "time": 1365628868
   }
 ]

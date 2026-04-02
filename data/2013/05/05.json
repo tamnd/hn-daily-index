@@ -4,99 +4,99 @@
     "id": 5655015,
     "title": "A \u201csimple\u201d 3rd grade problem",
     "url": "http://math.stackexchange.com/q/379927/44971",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "adito",
+    "descendants": 163,
+    "time": 1367676181
   },
   {
     "rank": 2,
     "id": 5655049,
     "title": "Geometee",
     "url": "http://geometee.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 140,
+    "by": "mxxx",
+    "descendants": 46,
+    "time": 1367677455
   },
   {
     "rank": 3,
     "id": 5655243,
     "title": "The cost of hand-to-mouth living",
     "url": "http://www.ft.com/intl/cms/s/2/f5763610-b2bb-11e2-8540-00144feabdc0.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 139,
+    "by": "cs702",
+    "descendants": 122,
+    "time": 1367682545
   },
   {
     "rank": 4,
     "id": 5656249,
     "title": "Experiment in paying villagers in India an unconditional basic income",
     "url": "http://mondediplo.com/2013/05/04income",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "xSwag",
+    "descendants": 225,
+    "time": 1367700160
   },
   {
     "rank": 5,
     "id": 5656603,
     "title": "ClojureC, a compiler for Clojure that targets C as a backend",
     "url": "https://github.com/schani/clojurec",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "terhechte",
+    "descendants": 86,
+    "time": 1367707740
   },
   {
     "rank": 6,
     "id": 5656677,
     "title": "A determined 'hacker' decrypts RDS-TMC",
     "url": "http://windytan.blogspot.fi/2013/05/a-determined-hacker-decrypts-rds-tmc.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "emhart",
+    "descendants": 45,
+    "time": 1367709157
   },
   {
     "rank": 7,
     "id": 5657048,
     "title": "Debian 7.0 \"Wheezy\" released",
     "url": "http://www.debian.org/News/2013/20130504",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "sciurus",
+    "descendants": 126,
+    "time": 1367716889
   },
   {
     "rank": 8,
     "id": 5658062,
     "title": "Enable tab-completion in the interactive interpreter by default",
     "url": "http://hg.python.org/cpython/rev/d5ef330bac50",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "tshepang",
+    "descendants": 53,
+    "time": 1367751795
   },
   {
     "rank": 9,
     "id": 5658653,
     "title": "Why I Develop For The Mac",
     "url": "http://www.evanmiller.org/why-i-develop-for-the-mac.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "plinkplonk",
+    "descendants": 180,
+    "time": 1367768693
   },
   {
     "rank": 10,
     "id": 5659719,
     "title": "Lenticular Photo Used To Secretly Convey Hot Line Number To Abused Kids",
     "url": "http://www.diyphotography.net/lenticular-photo-used-secretly-convey-hot-line-number-abused-kids",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "scholia",
+    "descendants": 140,
+    "time": 1367787665
   }
 ]

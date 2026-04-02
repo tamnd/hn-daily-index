@@ -4,99 +4,99 @@
     "id": 5241085,
     "title": "Diablo in JavaScript",
     "url": "http://mitallast.github.com/diablo-js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "sebkomianos",
+    "descendants": 113,
+    "time": 1361225533
   },
   {
     "rank": 2,
     "id": 5241220,
     "title": "Beej's Guide to Network Programming",
     "url": "http://www.beej.us/guide/bgnet/output/html/singlepage/bgnet.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "alanthonyc",
+    "descendants": 47,
+    "time": 1361226883
   },
   {
     "rank": 3,
     "id": 5242268,
     "title": "Using Silk Road",
     "url": "http://www.gwern.net/Silk%20Road",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "HockeyPlayer",
+    "descendants": 165,
+    "time": 1361241392
   },
   {
     "rank": 4,
     "id": 5243029,
     "title": "Sergey Brin, Please Pick up your Paychecks",
     "url": "http://angrystatistician.blogspot.com/2013/02/sergey-brin-please-pick-up-your.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "octonion",
+    "descendants": 84,
+    "time": 1361256621
   },
   {
     "rank": 5,
     "id": 5243196,
     "title": "AWS OpsWorks - Flexible Application Management in the Cloud Using Chef",
     "url": "http://aws.typepad.com/aws/2013/02/aws-opsworks-flexible-application-management-in-the-cloud.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "jeffbarr",
+    "descendants": 77,
+    "time": 1361260559
   },
   {
     "rank": 6,
     "id": 5243389,
     "title": "Hello. I'm a compiler",
     "url": "http://stackoverflow.com/a/2685541/5646",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "andremedeiros",
+    "descendants": 154,
+    "time": 1361264841
   },
   {
     "rank": 7,
     "id": 5244222,
     "title": "What Does 200 Calories Look Like?",
     "url": "http://www.wisegeek.com/what-does-200-calories-look-like.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "shawndumas",
+    "descendants": 255,
+    "time": 1361282014
   },
   {
     "rank": 8,
     "id": 5244752,
     "title": "Vim After 11 Years",
     "url": "http://statico.github.com/vim.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "statico",
+    "descendants": 239,
+    "time": 1361287812
   },
   {
     "rank": 9,
     "id": 5244906,
     "title": "Nginx now supports Websockets",
     "url": "http://nginx.com/news/nginx-websockets.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "Jhsto",
+    "descendants": 65,
+    "time": 1361289382
   },
   {
     "rank": 10,
     "id": 5244956,
     "title": "Ubuntu on tablets",
     "url": "http://www.ubuntu.com/devices/tablet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 528,
+    "by": "jrgifford",
+    "descendants": 259,
+    "time": 1361289820
   }
 ]

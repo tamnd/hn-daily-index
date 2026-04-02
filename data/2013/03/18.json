@@ -4,99 +4,99 @@
     "id": 5388535,
     "title": "Computer Science in Vietnam",
     "url": "http://neil.fraser.name/news/2013/03/16/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "skybrian",
+    "descendants": 49,
+    "time": 1363506910
   },
   {
     "rank": 2,
     "id": 5390820,
     "title": "So You Want To Be A Breaker, Part 1: Web Security",
     "url": "http://daeken.com/2013-03-17_So_You_Want_To_Be_A_Breaker__Pt__1__Web_Security.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "daeken",
+    "descendants": 83,
+    "time": 1363551392
   },
   {
     "rank": 3,
     "id": 5391713,
     "title": "Three Months to Scale NewsBlur",
     "url": "http://blog.newsblur.com/post/45632737156/three-months-to-scale-newsblur",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "conesus",
+    "descendants": 141,
+    "time": 1363566312
   },
   {
     "rank": 4,
     "id": 5391814,
     "title": "Chart.js - open source HTML5 charting library",
     "url": "http://www.chartjs.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "nnnnnick",
+    "descendants": 58,
+    "time": 1363568905
   },
   {
     "rank": 5,
     "id": 5392024,
     "title": "Bills seek end to farm animal abuse videos",
     "url": "http://www.google.com/hostednews/ap/article/ALeqM5hjvniP8-_PXxQNvTlVa5RILhNyOQ?docId=46e365b1d58743e7b839dcbdcd94b4a9",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "calebgilbert",
+    "descendants": 300,
+    "time": 1363573100
   },
   {
     "rank": 6,
     "id": 5392193,
     "title": "First-person Tetris",
     "url": "http://www.firstpersontetris.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "thecosas",
+    "descendants": 82,
+    "time": 1363575856
   },
   {
     "rank": 7,
     "id": 5393864,
     "title": "Future of Firefox DevTools",
     "url": "http://paulrouget.com/e/devtoolsnext/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 612,
+    "by": "paulrouget",
+    "descendants": 165,
+    "time": 1363612282
   },
   {
     "rank": 8,
     "id": 5394494,
     "title": "Checkboxes that kill your product",
     "url": "http://limi.net/checkboxes-that-kill",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "robin_reala",
+    "descendants": 244,
+    "time": 1363618272
   },
   {
     "rank": 9,
     "id": 5395215,
     "title": "Fizz Buzz: Enterprise Edition",
     "url": "https://github.com/Mikkeren/FizzBuzzEnterpriseEdition",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "geetarista",
+    "descendants": 166,
+    "time": 1363624175
   },
   {
     "rank": 10,
     "id": 5395463,
     "title": "Show HN: XKCD-inspired StackSort",
     "url": "http://gkoberger.github.com/stacksort/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 948,
+    "by": "gkoberger",
+    "descendants": 198,
+    "time": 1363626081
   }
 ]

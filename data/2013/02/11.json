@@ -4,99 +4,99 @@
     "id": 5197985,
     "title": "Rel=\"logo\" (2011)",
     "url": "http://relogo.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "johns",
+    "descendants": 40,
+    "time": 1360531741
   },
   {
     "rank": 2,
     "id": 5198187,
     "title": "The Importance of Excel",
     "url": "http://baselinescenario.com/2013/02/09/the-importance-of-excel/#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "DavidChouinard",
+    "descendants": 203,
+    "time": 1360534476
   },
   {
     "rank": 3,
     "id": 5198720,
     "title": "Why Discourse uses Ember.js",
     "url": "http://eviltrout.com/2013/02/10/why-discourse-uses-emberjs.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "EvilTrout",
+    "descendants": 72,
+    "time": 1360544656
   },
   {
     "rank": 4,
     "id": 5198935,
     "title": "At Facebook, zero-day exploits, backdoor code bring war games drill to life",
     "url": "http://arstechnica.com/security/2013/02/at-facebook-zero-day-exploits-backdoor-code-bring-war-games-drill-to-life/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "Meist",
+    "descendants": 48,
+    "time": 1360548595
   },
   {
     "rank": 5,
     "id": 5198956,
     "title": "It's all who you know?",
     "url": "http://sivers.org/xn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "duck",
+    "descendants": 103,
+    "time": 1360549401
   },
   {
     "rank": 6,
     "id": 5200171,
     "title": "The Promise of Firefox OS",
     "url": "http://sergimansilla.com/blog/promise-of-ffos/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "cornbread_bun",
+    "descendants": 143,
+    "time": 1360578542
   },
   {
     "rank": 7,
     "id": 5200719,
     "title": "Realtime Responsive Typography Based on Viewing Distance via Webcam",
     "url": "http://webdesign.maratz.com/lab/responsivetypography/realtime/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "tblancpain",
+    "descendants": 59,
+    "time": 1360590659
   },
   {
     "rank": 8,
     "id": 5201082,
     "title": "In 2005 Motorola Tried to Sue Me For Unlocking Phones",
     "url": "http://sina.is/unlocking-phones/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "sinak",
+    "descendants": 98,
+    "time": 1360594765
   },
   {
     "rank": 9,
     "id": 5202138,
     "title": "I\u2019m Bill Gates, co-chair of the Bill and Melinda Gates Foundation. AMA",
     "url": "http://www.reddit.com/r/IAmA/comments/18bhme/im_bill_gates_cochair_of_the_bill_melinda_gates/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 579,
+    "by": "taylorbuley",
+    "descendants": 146,
+    "time": 1360605544
   },
   {
     "rank": 10,
     "id": 5203036,
     "title": "Elon Musk calls NYT review of the Tesla Model S \u2018fake,\u2019 citing vehicle log data",
     "url": "http://thenextweb.com/insider/2013/02/11/elon-musk-calls-nytimes-review-of-the-tesla-model-s-fake-citing-vehicle-log-data-as-proof/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "sethbannon",
+    "descendants": 485,
+    "time": 1360614811
   }
 ]
