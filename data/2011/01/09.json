@@ -4,99 +4,99 @@
     "id": 2083453,
     "title": "A Healthy Diet For The Mind",
     "url": "http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2011-01.html#e2011-01-08T10_41_10.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 110,
+    "by": "bgray",
+    "descendants": 32,
+    "time": 1294508867
   },
   {
     "rank": 2,
     "id": 2084157,
     "title": "Latency Compensating Methods in Client/Server Games",
     "url": "http://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 129,
+    "by": "zemanel",
+    "descendants": 54,
+    "time": 1294526331
   },
   {
     "rank": 3,
     "id": 2084416,
     "title": "The PhD Problem: \"Talk of a \u2018higher education bubble\u2019 may not be idle chatter\u201d",
     "url": "http://pipeline.corante.com/archives/2011/01/07/the_phd_problem.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 96,
+    "by": "cwan",
+    "descendants": 78,
+    "time": 1294534002
   },
   {
     "rank": 4,
     "id": 2084732,
     "title": "The Python Paradox",
     "url": "http://www.paulgraham.com/pypar.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "tswicegood",
+    "descendants": 78,
+    "time": 1294543972
   },
   {
     "rank": 5,
     "id": 2085276,
     "title": "And suddenly, you're hip",
     "url": "http://blogs.perl.org/users/su-shee/2011/01/and-suddenly-youre-hip.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "Phra",
+    "descendants": 142,
+    "time": 1294568793
   },
   {
     "rank": 6,
     "id": 2085351,
     "title": "StackOverflow clone, created entirely with Redis and jQuery",
     "url": "http://servicestack.net/RedisStackOverflow/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 123,
+    "by": "mythz",
+    "descendants": 61,
+    "time": 1294574066
   },
   {
     "rank": 7,
     "id": 2085380,
     "title": "Ie7-js ",
     "url": "http://code.google.com/p/ie7-js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 111,
+    "by": "olalonde",
+    "descendants": 28,
+    "time": 1294576217
   },
   {
     "rank": 8,
     "id": 2085664,
     "title": "Reddit/HN clone in Clojure",
     "url": "http://bestinclass.dk/index.clj/2011/01/building-a-social-media-site.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 124,
+    "by": "pepijndevos",
+    "descendants": 21,
+    "time": 1294589734
   },
   {
     "rank": 9,
     "id": 2086029,
     "title": "Obama administration moves forward with unique Internet ID for all Americans",
     "url": "http://www.engadget.com/2011/01/09/obama-administration-moves-forward-with-unique-internet-id-for-a/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "Stevenup7002",
+    "descendants": 186,
+    "time": 1294598698
   },
   {
     "rank": 10,
     "id": 2086628,
     "title": "Steve's story - Google employee #13",
     "url": "http://googler13.blogspot.com/2011/01/steves-story-googler-13.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "paul",
+    "descendants": 89,
+    "time": 1294612011
   }
 ]

@@ -4,99 +4,99 @@
     "id": 2063798,
     "title": "Facebook-Goldman: Where Is the S.E.C.?",
     "url": "http://www.newyorker.com/online/blogs/johncassidy/2011/01/facebook-goldman-where-is-the-sec.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 130,
+    "by": "jsm386",
+    "descendants": 86,
+    "time": 1294074861
   },
   {
     "rank": 2,
     "id": 2064030,
     "title": "The MOS 6502 and the Best Layout Guy in the World",
     "url": "http://research.swtch.com/2011/01/mos-6502-and-best-layout-guy-in-world.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "skymt",
+    "descendants": 51,
+    "time": 1294078442
   },
   {
     "rank": 3,
     "id": 2065314,
     "title": "Paul Buchheit: Angel investing, my first three years",
     "url": "http://paulbuchheit.blogspot.com/2011/01/angel-investing-my-first-three-years.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 227,
+    "by": "paul",
+    "descendants": 85,
+    "time": 1294101874
   },
   {
     "rank": 4,
     "id": 2065604,
     "title": "Dating Denial of Service attack",
     "url": "http://www.reddit.com/r/AskReddit/comments/evkwy/what_are_some_lifehacks_youd_never_admit_to/c1bb70v",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "mcantelon",
+    "descendants": 123,
+    "time": 1294108224
   },
   {
     "rank": 5,
     "id": 2065828,
     "title": "I Paid a Bribe",
     "url": "http://www.ipaidabribe.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 146,
+    "by": "albertsun",
+    "descendants": 98,
+    "time": 1294114566
   },
   {
     "rank": 6,
     "id": 2066084,
     "title": "PHP 5.3.3 hangs on numeric value 2.2250738585072011e-308",
     "url": "http://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "anorwell",
+    "descendants": 93,
+    "time": 1294122280
   },
   {
     "rank": 7,
     "id": 2066178,
     "title": "How to build an 8x8x8 LED cube",
     "url": "http://daid.mine.nu/instructabliss/?url=http://www.instructables.com/id/Led-Cube-8x8x8/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "bvi",
+    "descendants": 37,
+    "time": 1294125124
   },
   {
     "rank": 8,
     "id": 2066540,
     "title": "Firefox overtakes IE in Europe",
     "url": "http://gs.statcounter.com/press/firefox-overtakes-internet-explorer-in-europe-in-browser-wars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 171,
+    "by": "rmc",
+    "descendants": 49,
+    "time": 1294138524
   },
   {
     "rank": 9,
     "id": 2067078,
     "title": "Rich Hickey stops Clojure funding appeal from 2011 onwards",
     "url": "http://clojure.org/funding",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "zaph0d",
+    "descendants": 68,
+    "time": 1294152536
   },
   {
     "rank": 10,
     "id": 2068077,
     "title": "Profitable W11 startup looking for hackers. Join us in our quest to kick healthcare's ass.",
     "url": "http://news.ycombinator.com/item?id=2068077",
-    "score": 0,
-    "by": "",
+    "score": 194,
+    "by": "yccompany",
     "descendants": 0,
-    "time": 0
+    "time": 1294168688
   }
 ]

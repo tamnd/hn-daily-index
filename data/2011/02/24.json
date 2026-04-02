@@ -4,99 +4,99 @@
     "id": 2254604,
     "title": "Eth0 no more?",
     "url": "http://lists.us.dell.com/pipermail/linux-desktops/2011-February/003757.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 154,
+    "by": "PassTheAmmo",
+    "descendants": 50,
+    "time": 1298478268
   },
   {
     "rank": 2,
     "id": 2255232,
     "title": "Breakup Notifier Shut Down By Facebook",
     "url": "http://techcrunch.com/2011/02/23/breakup-notifier/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 189,
+    "by": "ssclafani",
+    "descendants": 159,
+    "time": 1298487261
   },
   {
     "rank": 3,
     "id": 2255573,
     "title": "Cappuccino 0.9",
     "url": "http://cappuccino.org/discuss/2011/02/23/cappuccino-0-9/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 150,
+    "by": "klaaspieter",
+    "descendants": 30,
+    "time": 1298491579
   },
   {
     "rank": 4,
     "id": 2255982,
     "title": "JQuery Waypoints - execute a function whenever you scroll to an element",
     "url": "http://imakewebthings.github.com/jquery-waypoints/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "moeffju",
+    "descendants": 26,
+    "time": 1298498007
   },
   {
     "rank": 5,
     "id": 2256150,
     "title": "Warn HN: How to accidentally, irreversibly nuke your Facebook account",
     "url": "http://news.ycombinator.com/item?id=2256150",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 159,
+    "by": "jpadvo",
+    "descendants": 60,
+    "time": 1298501102
   },
   {
     "rank": 6,
     "id": 2257327,
     "title": "Why We Stick With PHP (and don't move to Ruby or Python) ",
     "url": "http://blog.liip.ch/archive/2011/02/24/why-we-stick-to-php.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 151,
+    "by": "jv22222",
+    "descendants": 133,
+    "time": 1298535609
   },
   {
     "rank": 7,
     "id": 2257347,
     "title": "Pattern: A web mining & natural language processing system for Python",
     "url": "http://www.clips.ua.ac.be/pages/pattern",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "rbreve",
+    "descendants": 22,
+    "time": 1298536645
   },
   {
     "rank": 8,
     "id": 2257827,
     "title": "New MacBook Pro series",
     "url": "http://apple.com/macbookpro/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "frytaz",
+    "descendants": 347,
+    "time": 1298555032
   },
   {
     "rank": 9,
     "id": 2257937,
     "title": "Thunderbolt",
     "url": "http://www.apple.com/thunderbolt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "arnemart",
+    "descendants": 197,
+    "time": 1298556665
   },
   {
     "rank": 10,
     "id": 2258794,
     "title": "Calculus Revisited - a complete self-study calculus course from MIT OCW",
     "url": "http://ocw.mit.edu/resources/res-18-006-calculus-revisited-fall-2010/index.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "stiff",
+    "descendants": 44,
+    "time": 1298567805
   }
 ]

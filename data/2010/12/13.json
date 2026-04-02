@@ -4,99 +4,99 @@
     "id": 1998376,
     "title": "The frontpage with a threshold of 100 points",
     "url": "http://news.ycombinator.com/over?points=100",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "pg",
+    "descendants": 110,
+    "time": 1292194709
   },
   {
     "rank": 2,
     "id": 1998642,
     "title": "Gawker Website source, databases & passwords now on BitTorrent",
     "url": "http://thepiratebay.org/torrent/6034669/Gawkmedia_source_code___database_release_",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "tenaciousJk",
+    "descendants": 188,
+    "time": 1292200184
   },
   {
     "rank": 3,
     "id": 1999171,
     "title": "The War on Cameras",
     "url": "http://reason.com/archives/2010/12/07/the-war-on-cameras/print",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 173,
+    "by": "ccoop",
+    "descendants": 64,
+    "time": 1292211400
   },
   {
     "rank": 4,
     "id": 1999340,
     "title": "Check if your email is amongst those compromised in Gawker break-in",
     "url": "http://www.google.com/fusiontables/DataSource?dsrcid=350662",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "sathyabhat",
+    "descendants": 48,
+    "time": 1292215076
   },
   {
     "rank": 5,
     "id": 2000073,
     "title": "HN:  We're starting a \"Move to Silicon Valley\" wiki.  We could use some help.",
     "url": "http://svstartup.com/~svstartu/index.php?title=Main_Page",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "iamelgringo",
+    "descendants": 45,
+    "time": 1292238249
   },
   {
     "rank": 6,
     "id": 2000394,
     "title": "What if we tested laws before passing them?",
     "url": "http://www.boston.com/bostonglobe/ideas/articles/2010/12/12/law_lab/?page=full",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 150,
+    "by": "robg",
+    "descendants": 133,
+    "time": 1292247248
   },
   {
     "rank": 7,
     "id": 2000660,
     "title": "Author Slams eBook Piracy, Son Outs Her As a Music Pirate",
     "url": "http://torrentfreak.com/author-slams-ebook-piracy-son-outs-her-as-a-music-pirate-101213/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "lockem",
+    "descendants": 170,
+    "time": 1292253214
   },
   {
     "rank": 8,
     "id": 2001067,
     "title": "Wik-Bee Leaks: EPA Knowingly Allowed Pesticide That Kills Honey Bees",
     "url": "http://www.fastcompany.com/1708896/wiki-bee-leaks-epa-document-reveals-agency-knowingly-allowed-use-of-bee-toxic-pesticide",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "monkeygrinder",
+    "descendants": 40,
+    "time": 1292259651
   },
   {
     "rank": 9,
     "id": 2001501,
     "title": "The Anatomy of a Perfect Landing Page",
     "url": "http://www.formstack.com/the-anatomy-of-a-perfect-landing-page",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "jaybol",
+    "descendants": 56,
+    "time": 1292265818
   },
   {
     "rank": 10,
     "id": 2001565,
     "title": "FreeBSD/EC2 lives",
     "url": "http://www.daemonology.net/blog/2010-12-13-FreeBSD-on-EC2.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "cperciva",
+    "descendants": 46,
+    "time": 1292266838
   }
 ]

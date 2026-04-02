@@ -4,99 +4,99 @@
     "id": 2034790,
     "title": "The $20 Starbucks Test",
     "url": "http://blog.snootymonkey.com/post/2432103782/the-20-starbucks-test",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 139,
+    "by": "ph0rque",
+    "descendants": 64,
+    "time": 1293120661
   },
   {
     "rank": 2,
     "id": 2034981,
     "title": "Spelling Corrector in 21 lines of Python ",
     "url": "http://norvig.com/spell-correct.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "l0nwlf",
+    "descendants": 27,
+    "time": 1293123892
   },
   {
     "rank": 3,
     "id": 2035572,
     "title": "Unicode Snowman for You",
     "url": "http://xn--n3h.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 115,
+    "by": "jamesjyu",
+    "descendants": 48,
+    "time": 1293132608
   },
   {
     "rank": 4,
     "id": 2035926,
     "title": "The Sad Story Of The Unicode Snowman",
     "url": "http://\u2601\u2192\u2744\u2192\u2603\u2192\u2600\u2192\u263a\u2192\u2602\u2192\u2639\u2192\u271d.ws",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "treitnauer",
+    "descendants": 36,
+    "time": 1293140004
   },
   {
     "rank": 5,
     "id": 2035933,
     "title": "Who Writes Wikipedia?",
     "url": "http://www.aaronsw.com/weblog/whowriteswikipedia",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "hiteshiitk",
+    "descendants": 55,
+    "time": 1293140210
   },
   {
     "rank": 6,
     "id": 2036032,
     "title": "1k 3D Christmas tree in Javascript",
     "url": "http://js1k.com/2010-xmas/demo/848",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "gourneau",
+    "descendants": 15,
+    "time": 1293142327
   },
   {
     "rank": 7,
     "id": 2036588,
     "title": "Google Engineer bails out student in jail",
     "url": "http://neil.fraser.name/news/2010/12/23/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 540,
+    "by": "staktrace",
+    "descendants": 196,
+    "time": 1293166162
   },
   {
     "rank": 8,
     "id": 2037192,
     "title": "If you're visiting family over the holiday, turn off Internet Explorer. ",
     "url": "http://www.f-secure.com/weblog/archives/00002080.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 204,
+    "by": "FSecurePal",
+    "descendants": 58,
+    "time": 1293196296
   },
   {
     "rank": 9,
     "id": 2037576,
     "title": "Write code like you just learned how to program",
     "url": "http://prog21.dadgum.com/87.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "angrycoder",
+    "descendants": 51,
+    "time": 1293210999
   },
   {
     "rank": 10,
     "id": 2037801,
     "title": "CoffeeScript hits 1.0 -- Happy Holidays, HN",
     "url": "http://jashkenas.github.com/coffee-script/#top",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "jashkenas",
+    "descendants": 53,
+    "time": 1293217662
   }
 ]

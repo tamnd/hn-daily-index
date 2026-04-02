@@ -4,99 +4,99 @@
     "id": 2123808,
     "title": "Apple\u2019s diabolical plan to screw your iPhone",
     "url": "http://www.ifixit.com/blog/blog/2011/01/20/apples-diabolical-plan-to-screw-your-iphone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 161,
+    "by": "kgarten",
+    "descendants": 86,
+    "time": 1295535647
   },
   {
     "rank": 2,
     "id": 2125115,
     "title": "Ask HN: Do you meditate? How/Why? ",
     "url": "http://news.ycombinator.com/item?id=2125115",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "fredoliveira",
+    "descendants": 118,
+    "time": 1295554887
   },
   {
     "rank": 3,
     "id": 2125250,
     "title": "Learning from Twitter",
     "url": "http://ejohn.org/blog/learning-from-twitter/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "flapjack",
+    "descendants": 36,
+    "time": 1295557552
   },
   {
     "rank": 4,
     "id": 2126093,
     "title": "Google to Launch Groupon Competitor",
     "url": "http://mashable.com/2011/01/20/google-offers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "jamesjyu",
+    "descendants": 98,
+    "time": 1295574322
   },
   {
     "rank": 5,
     "id": 2126300,
     "title": "AppHarbor (YC W11): \"Azure Done Right\"",
     "url": "http://techcrunch.com/2011/01/20/yc-funded-appharbor-a-heroku-for-net-or-azure-done-right/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 153,
+    "by": "troethom",
+    "descendants": 68,
+    "time": 1295579717
   },
   {
     "rank": 6,
     "id": 2127461,
     "title": "Pypy wants you - now's the time to start contributing to Pypy",
     "url": "http://morepypy.blogspot.com/2011/01/pypy-wants-you.html?uhttp://morepypy.blogspot.com/2011/01/pypy-wants-you.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "djipko",
+    "descendants": 21,
+    "time": 1295621205
   },
   {
     "rank": 7,
     "id": 2127724,
     "title": "Oops: Android contains directly copied Java code, strengthening Oracle\u2019s case",
     "url": "http://www.engadget.com/2011/01/21/oops-android-contains-directly-copied-java-code-strengthening/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "shawndumas",
+    "descendants": 95,
+    "time": 1295626008
   },
   {
     "rank": 8,
     "id": 2127937,
     "title": "Google search and search engine spam",
     "url": "http://googleblog.blogspot.com/2011/01/google-search-and-search-engine-spam.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "jsm386",
+    "descendants": 212,
+    "time": 1295629516
   },
   {
     "rank": 9,
     "id": 2128038,
     "title": "Why can't all \"tech\" journalism be like this?",
     "url": "http://kottke.org/11/01/why-is-schmidt-stepping-down-at-google",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "hernan7",
+    "descendants": 78,
+    "time": 1295630954
   },
   {
     "rank": 10,
     "id": 2128825,
     "title": "Oops: No copied Java code or weapons of mass destruction found in Android",
     "url": "http://www.zdnet.com/blog/burnette/oops-no-copied-java-code-or-weapons-of-mass-destruction-found-in-android/2162",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 584,
+    "by": "sigzero",
+    "descendants": 57,
+    "time": 1295642933
   }
 ]
