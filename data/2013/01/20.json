@@ -4,99 +4,99 @@
     "id": 5083030,
     "title": "Send a Facebook message to anyone's inbox, for free",
     "url": "http://lukasklein.com/blog/free-facebook-message-inbox/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "lukashed",
+    "descendants": 31,
+    "time": 1358588220
   },
   {
     "rank": 2,
     "id": 5083186,
     "title": "MIT Legal repudiated Xbox hacker too",
     "url": "http://www.bunniestudios.com/blog/?p=2860",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "irq",
+    "descendants": 52,
+    "time": 1358597186
   },
   {
     "rank": 3,
     "id": 5083321,
     "title": "Some Notes About Time",
     "url": "http://unix4lyfe.org/time/?v=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 210,
+    "by": "arb99",
+    "descendants": 113,
+    "time": 1358602237
   },
   {
     "rank": 4,
     "id": 5083891,
     "title": "We expect too much of geeks",
     "url": "http://threads2.scripting.com/2013/january/weExpectTooMuchOfGeeks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "benatkin",
+    "descendants": 90,
+    "time": 1358614898
   },
   {
     "rank": 5,
     "id": 5084791,
     "title": "Another Ortiz case",
     "url": "http://www.wbur.org/2012/11/14/tewksbury-motel-owner-fights-property-seizure",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "eric_bullington",
+    "descendants": 136,
+    "time": 1358630379
   },
   {
     "rank": 6,
     "id": 5085915,
     "title": "Microsoft hires designer behind \"The Next Microsoft\", Andrew Kim",
     "url": "http://www.minimallyminimal.com/blog/msft",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "dbcooper",
+    "descendants": 83,
+    "time": 1358653621
   },
   {
     "rank": 7,
     "id": 5086736,
     "title": "Parsley.js: never write a single JavaScript line to validate your forms",
     "url": "http://parsleyjs.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "guillaumepotier",
+    "descendants": 78,
+    "time": 1358685749
   },
   {
     "rank": 8,
     "id": 5086793,
     "title": "So you think you can tell Arial from Helvetica?",
     "url": "http://www.ironicsans.com/helvarialquiz/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "AlexMuir",
+    "descendants": 177,
+    "time": 1358687471
   },
   {
     "rank": 9,
     "id": 5087223,
     "title": "Edward Tufte\u2019s defense of Aaron Swartz and the \u201cmarvelously different\u201d",
     "url": "http://danwin.com/2013/01/edward-tufte-aaron-swartz-marvelously-different/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "danso",
+    "descendants": 63,
+    "time": 1358697621
   },
   {
     "rank": 10,
     "id": 5087673,
     "title": "Leiningen version 2.0.0 released",
     "url": "https://www.github.com/technomancy/leiningen/blob/2.0.0/NEWS.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "llambda",
+    "descendants": 44,
+    "time": 1358706947
   }
 ]

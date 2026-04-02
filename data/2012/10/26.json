@@ -4,99 +4,99 @@
     "id": 4698529,
     "title": "GitHub Game Off",
     "url": "https://github.com/blog/1303-github-game-off",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "remi",
+    "descendants": 40,
+    "time": 1351186285
   },
   {
     "rank": 2,
     "id": 4699862,
     "title": "Jessica Livingston: What Goes Wrong",
     "url": "http://www.foundersatwork.com/1/post/2012/10/what-goes-wrong.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "nswanberg",
+    "descendants": 88,
+    "time": 1351203732
   },
   {
     "rank": 3,
     "id": 4700160,
     "title": "The Future of Markdown",
     "url": "http://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 877,
+    "by": "dko",
+    "descendants": 328,
+    "time": 1351208839
   },
   {
     "rank": 4,
     "id": 4701321,
     "title": "Mastering Linear Algebra in 10 Days: Astounding Experiments in Ultra-Learning",
     "url": "http://calnewport.com/blog/2012/10/26/mastering-linear-algebra-in-10-days-astounding-experiments-in-ultra-learning/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "phenylene",
+    "descendants": 76,
+    "time": 1351239250
   },
   {
     "rank": 5,
     "id": 4701454,
     "title": "dl.google.com now served by Go",
     "url": "https://groups.google.com/forum/?fromgroups=#!topic/golang-nuts/BNUNbKSypE0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "mseepgood",
+    "descendants": 123,
+    "time": 1351242631
   },
   {
     "rank": 6,
     "id": 4701873,
     "title": "Steam for Linux Beta",
     "url": "http://steamcommunity.com/games/221410",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "futureperson",
+    "descendants": 62,
+    "time": 1351254778
   },
   {
     "rank": 7,
     "id": 4701958,
     "title": "Is it better to turn up the volume in the software or on the speakers?",
     "url": "http://superuser.com/questions/492281/from-a-quality-perspective-what-is-better-turning-volume-up-in-the-software-i",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "ivoflipse",
+    "descendants": 95,
+    "time": 1351256730
   },
   {
     "rank": 8,
     "id": 4702032,
     "title": "China Blocks Web Access to The New York Times After Article",
     "url": "http://www.nytimes.com/2012/10/26/world/asia/china-blocks-web-access-to-new-york-times.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "jimmyjim",
+    "descendants": 120,
+    "time": 1351257891
   },
   {
     "rank": 9,
     "id": 4702428,
     "title": "Put Alan Turing on the next \u00a310 note",
     "url": "http://epetitions.direct.gov.uk/petitions/31659",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "dmitri1981",
+    "descendants": 54,
+    "time": 1351263925
   },
   {
     "rank": 10,
     "id": 4702559,
     "title": "The Internet is experiencing severe outages across North American and Asia",
     "url": "http://internettrafficreport.com/namerica.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "davis_m",
+    "descendants": 95,
+    "time": 1351265240
   }
 ]

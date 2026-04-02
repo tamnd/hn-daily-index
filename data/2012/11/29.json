@@ -4,99 +4,99 @@
     "id": 4842867,
     "title": "British aerospace company claims biggest engine advance since the jet",
     "url": "http://uk.reuters.com/article/2012/11/28/uk-science-spaceplane-idUKBRE8AR0R520121128",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "james_ash",
+    "descendants": 104,
+    "time": 1354115478
   },
   {
     "rank": 2,
     "id": 4843508,
     "title": "Announcing HashiCorp (a Company for Vagrant)",
     "url": "http://www.hashicorp.com/blog/announcing-hashicorp.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 206,
+    "by": "Argorak",
+    "descendants": 62,
+    "time": 1354121945
   },
   {
     "rank": 3,
     "id": 4844180,
     "title": "Alertify.js",
     "url": "https://github.com/fabien-d/alertify.js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "googletron",
+    "descendants": 75,
+    "time": 1354130718
   },
   {
     "rank": 4,
     "id": 4844347,
     "title": "APIs that will transform the Web in 2013",
     "url": "http://blog.alexmaccaw.com/the-next-web",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "olivercameron",
+    "descendants": 105,
+    "time": 1354132636
   },
   {
     "rank": 5,
     "id": 4844862,
     "title": "The EC2 firewall is broken",
     "url": "http://www.daemonology.net/blog/2012-11-28-broken-EC2-firewall.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "cperciva",
+    "descendants": 53,
+    "time": 1354138061
   },
   {
     "rank": 6,
     "id": 4846495,
     "title": "B&N Decides That Purchased Ebooks Are Only Yours Until Your Credit Card Expires",
     "url": "https://www.techdirt.com/articles/20121126/18084721154/barnes-noble-decides-that-purchased-ebooks-are-only-yours-until-your-credit-card-expires.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "chanux",
+    "descendants": 131,
+    "time": 1354169685
   },
   {
     "rank": 7,
     "id": 4847468,
     "title": "Tor exit node operator raided in Austria",
     "url": "http://www.lowendtalk.com/discussion/6283/raided-for-running-a-tor-exit-accepting-donations-for-legal-expenses",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "Nyr",
+    "descendants": 310,
+    "time": 1354194659
   },
   {
     "rank": 8,
     "id": 4847720,
     "title": "Dell releases powerful, well-supported Linux Ultrabook",
     "url": "http://arstechnica.com/gadgets/2012/11/dell-releases-powerful-well-supported-linux-ultrabook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "iProject",
+    "descendants": 349,
+    "time": 1354198176
   },
   {
     "rank": 9,
     "id": 4847758,
     "title": "Syrian Internet Is Off The Air",
     "url": "http://www.renesys.com/blog/2012/11/syria-off-the-air.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "charliesome",
+    "descendants": 57,
+    "time": 1354198607
   },
   {
     "rank": 10,
     "id": 4849628,
     "title": "Staples Announces In-Store 3D Printing Service",
     "url": "http://www.wired.com/design/2012/11/staples-goes-3-d/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Top+Stories%29",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "swohns",
+    "descendants": 78,
+    "time": 1354215985
   }
 ]

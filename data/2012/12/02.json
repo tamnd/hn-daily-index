@@ -4,99 +4,99 @@
     "id": 4857473,
     "title": "Poll: What's your favorite static site generator?",
     "url": "http://news.ycombinator.com/item?id=4857473",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "diggan",
+    "descendants": 119,
+    "time": 1354365581
   },
   {
     "rank": 2,
     "id": 4858715,
     "title": "Editorial: \"How piracy changed my life\"",
     "url": "http://www.neowin.net/news/editorial-how-piracy-changed-my-life",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "Breakthrough",
+    "descendants": 229,
+    "time": 1354390776
   },
   {
     "rank": 3,
     "id": 4858943,
     "title": "Netflix open sources resilience engineering library",
     "url": "https://github.com/Netflix/Hystrix/wiki",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 148,
+    "by": "jondot",
+    "descendants": 34,
+    "time": 1354395282
   },
   {
     "rank": 4,
     "id": 4860370,
     "title": "Show HN: Interactive SICP",
     "url": "http://xuanji.appspot.com/isicp/1-1-elements.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "zodiac",
+    "descendants": 51,
+    "time": 1354430397
   },
   {
     "rank": 5,
     "id": 4860820,
     "title": "Android Performance Case Study",
     "url": "http://www.curious-creature.org/docs/android-performance-case-study-1.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "jkn",
+    "descendants": 31,
+    "time": 1354445246
   },
   {
     "rank": 6,
     "id": 4861022,
     "title": "Ask HN: what was the best life/programming choice you ever made?",
     "url": "http://news.ycombinator.com/item?id=4861022",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "batgaijin",
+    "descendants": 223,
+    "time": 1354451841
   },
   {
     "rank": 7,
     "id": 4861643,
     "title": "You don't have to be local",
     "url": "http://sivers.org/local",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "joeyespo",
+    "descendants": 51,
+    "time": 1354466354
   },
   {
     "rank": 8,
     "id": 4861867,
     "title": "YC W13 Will Be Smaller",
     "url": "http://ycombinator.com/w13smaller.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "jkopelman",
+    "descendants": 161,
+    "time": 1354470468
   },
   {
     "rank": 9,
     "id": 4861960,
     "title": "Understanding The Fourier Transform",
     "url": "http://www.altdevblogaday.com/2011/05/17/understanding-the-fourier-transform/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "mannjani",
+    "descendants": 44,
+    "time": 1354472211
   },
   {
     "rank": 10,
     "id": 4862830,
     "title": "Notch trying jsFiddle",
     "url": "http://jsfiddle.net/uzMPU/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 659,
+    "by": "vasco",
+    "descendants": 134,
+    "time": 1354487383
   }
 ]

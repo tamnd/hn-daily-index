@@ -4,99 +4,99 @@
     "id": 4714341,
     "title": "Mozilla UX: Save For Later (why bookmarks are broken and how to fix it)",
     "url": "https://blog.mozilla.org/ux/2012/10/save-for-later/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "spindritf",
+    "descendants": 107,
+    "time": 1351543118
   },
   {
     "rank": 2,
     "id": 4714388,
     "title": "Hacking language learning",
     "url": "http://blog.rinik.net/hacking-language",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "Void_",
+    "descendants": 52,
+    "time": 1351543947
   },
   {
     "rank": 3,
     "id": 4714773,
     "title": "Forstall Out; Ive Up",
     "url": "http://daringfireball.net/2012/10/forstall_out",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "rkrishnakumar",
+    "descendants": 124,
+    "time": 1351548477
   },
   {
     "rank": 4,
     "id": 4715823,
     "title": "Why I Program in Erlang",
     "url": "http://www.evanmiller.org/why-i-program-in-erlang.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "tel",
+    "descendants": 93,
+    "time": 1351566416
   },
   {
     "rank": 5,
     "id": 4715829,
     "title": "Poll: Should we push the YC deadline back by a day because of the storm?",
     "url": "http://news.ycombinator.com/item?id=4715829",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "pg",
+    "descendants": 145,
+    "time": 1351566544
   },
   {
     "rank": 6,
     "id": 4716520,
     "title": "Bootstrap 2.2.0 released",
     "url": "http://blog.getbootstrap.com/2012/10/29/bootstrap-2-2-0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "niels",
+    "descendants": 138,
+    "time": 1351583652
   },
   {
     "rank": 7,
     "id": 4717923,
     "title": "Introducing the new compose in Gmail",
     "url": "http://gmailblog.blogspot.co.uk/2012/10/introducing-new-compose-in-gmail.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "derpenxyne",
+    "descendants": 191,
+    "time": 1351613079
   },
   {
     "rank": 8,
     "id": 4718415,
     "title": "Google\u2019s most advanced voice search has arrived on iOS",
     "url": "http://googleblog.blogspot.com/2012/10/googles-most-advanced-voice-search-has.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "cleverjake",
+    "descendants": 184,
+    "time": 1351618390
   },
   {
     "rank": 9,
     "id": 4718447,
     "title": "Because of the storm we're pushing the YC application deadline back to Friday",
     "url": "http://news.ycombinator.com/item?id=4718447",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "pg",
+    "descendants": 50,
+    "time": 1351618671
   },
   {
     "rank": 10,
     "id": 4719197,
     "title": "Disney to Acquire Lucasfilm Ltd.",
     "url": "http://thewaltdisneycompany.com/disney-news/press-releases/2012/10/disney-acquire-lucasfilm-ltd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "antr",
+    "descendants": 290,
+    "time": 1351627175
   }
 ]

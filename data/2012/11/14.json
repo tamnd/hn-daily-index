@@ -4,99 +4,99 @@
     "id": 4780514,
     "title": "Commercial freedom",
     "url": "http://37signals.com/svn/posts/3324-commercial-freedom",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "scott_meade",
+    "descendants": 73,
+    "time": 1352839805
   },
   {
     "rank": 2,
     "id": 4781372,
     "title": "Raymond Chen patches MS Money executable to fix bug",
     "url": "http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "joe_bleau",
+    "descendants": 30,
+    "time": 1352852114
   },
   {
     "rank": 3,
     "id": 4781482,
     "title": "Understanding Like-gate",
     "url": "http://daltoncaldwell.com/understanding-likegate",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "bdb",
+    "descendants": 50,
+    "time": 1352854798
   },
   {
     "rank": 4,
     "id": 4781894,
     "title": "OOP Isn't a Fundamental Particle of Computing",
     "url": "http://prog21.dadgum.com/156.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "joeyespo",
+    "descendants": 158,
+    "time": 1352863903
   },
   {
     "rank": 5,
     "id": 4781906,
     "title": "Google Fiber is live in Kansas City, real-world speeds at 700 Mbps",
     "url": "http://arstechnica.com/business/2012/11/google-fiber-is-live-in-kansas-city-real-world-speeds-at-700-mbps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "zoowar",
+    "descendants": 146,
+    "time": 1352864361
   },
   {
     "rank": 6,
     "id": 4782519,
     "title": "Skype vulnerability allowing hijacking of an account if you know just the email",
     "url": "http://pixus-ru.blogspot.ru/2012/11/hack-any-skype-account-in-6-easy-steps.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "jtraub",
+    "descendants": 119,
+    "time": 1352882237
   },
   {
     "rank": 7,
     "id": 4783301,
     "title": "Algorithms [pdf]",
     "url": "http://www.cs.berkeley.edu/~vazirani/algorithms/all.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "sonabinu",
+    "descendants": 92,
+    "time": 1352901631
   },
   {
     "rank": 8,
     "id": 4784772,
     "title": "Why aren't we all using Japanese toilets?",
     "url": "http://priceonomics.com/toilets/#japanese",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "rohin",
+    "descendants": 371,
+    "time": 1352918660
   },
   {
     "rank": 9,
     "id": 4784821,
     "title": "What do 100,000 stars look like? ",
     "url": "http://workshop.chromeexperiments.com/stars/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 746,
+    "by": "davex",
+    "descendants": 109,
+    "time": 1352919238
   },
   {
     "rank": 10,
     "id": 4785245,
     "title": "CyanogenMod.com hijacked. Transition to CyanogenMod.org",
     "url": "http://www.cyanogenmod.org/blog/psa-transition-to-cyanogenmod-org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "saket123",
+    "descendants": 102,
+    "time": 1352923679
   }
 ]

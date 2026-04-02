@@ -4,99 +4,99 @@
     "id": 4928052,
     "title": "Tor trip report to an FBI conference",
     "url": "https://blog.torproject.org/blog/trip-report-october-fbi-conference",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 156,
+    "by": "onosendai",
+    "descendants": 53,
+    "time": 1355657309
   },
   {
     "rank": 2,
     "id": 4930061,
     "title": "I Don't Understand",
     "url": "http://bjk5.com/post/38101106878/i-dont-understand",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "rsobers",
+    "descendants": 91,
+    "time": 1355701533
   },
   {
     "rank": 3,
     "id": 4930965,
     "title": "List of data science and machine learning resources",
     "url": "http://conductrics.com/data-science-resources/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "seats",
+    "descendants": 15,
+    "time": 1355722333
   },
   {
     "rank": 4,
     "id": 4931575,
     "title": "Why 256 bit keys are large enough",
     "url": "http://security.stackexchange.com/questions/25375/why-not-use-larger-cipher-keys",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "mef",
+    "descendants": 133,
+    "time": 1355737088
   },
   {
     "rank": 5,
     "id": 4932196,
     "title": "Making Facebook's native mobile app faster using HTML5",
     "url": "http://www.sencha.com/blog/the-making-of-fastbook-an-html5-love-story",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "steffenhiller",
+    "descendants": 162,
+    "time": 1355751717
   },
   {
     "rank": 6,
     "id": 4932210,
     "title": "Why I Love Being A Programmer in Louisville",
     "url": "http://erniemiller.org/2012/12/15/why-i-love-being-a-programmer-in-louisville-or-why-i-wont-relocate-to-work-for-your-startup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "emiller829",
+    "descendants": 187,
+    "time": 1355752180
   },
   {
     "rank": 7,
     "id": 4932501,
     "title": "Requests, Python HTTP for Humans, reached v1.0",
     "url": "http://kennethreitz.org/announcing-requests-v100.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "jorde",
+    "descendants": 86,
+    "time": 1355756612
   },
   {
     "rank": 8,
     "id": 4933608,
     "title": "Show HN: Scratchpad.io - a real-time HTML and CSS editor",
     "url": "http://scratchpad.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "brycecolquitt",
+    "descendants": 82,
+    "time": 1355769752
   },
   {
     "rank": 9,
     "id": 4933655,
     "title": "Cards Against Humanity: Results of \"pay what you want\"",
     "url": "http://www.cardsagainsthumanity.com/holidaystats/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 549,
+    "by": "thaumaturgy",
+    "descendants": 162,
+    "time": 1355770229
   },
   {
     "rank": 10,
     "id": 4934739,
     "title": "The Gift",
     "url": "http://paulbuchheit.blogspot.com/2012/12/the-gift.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 669,
+    "by": "paul",
+    "descendants": 173,
+    "time": 1355782539
   }
 ]

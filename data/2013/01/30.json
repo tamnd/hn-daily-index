@@ -4,99 +4,99 @@
     "id": 5135075,
     "title": "Functional thinking: Why functional programming is on the rise",
     "url": "http://www.ibm.com/developerworks/library/j-ft20/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "Adrock",
+    "descendants": 81,
+    "time": 1359479868
   },
   {
     "rank": 2,
     "id": 5135789,
     "title": "Your Credentials Are Worthless Here",
     "url": "http://iamexec.com/blog/your-credentials-are-worthless-here",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "emmett",
+    "descendants": 202,
+    "time": 1359488349
   },
   {
     "rank": 3,
     "id": 5137421,
     "title": "Aaron Swartz",
     "url": "http://www.economist.com/news/obituary/21569674-aaron-swartz-computer-programmer-and-activist-committed-suicide-january-11th-aged-26-aaron?frsc=dg%7Ca",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "hoag",
+    "descendants": 35,
+    "time": 1359507085
   },
   {
     "rank": 4,
     "id": 5137641,
     "title": "Elon Musk: Boeing 787 battery fundamentally unsafe",
     "url": "http://www.flightglobal.com/news/articles/elon-musk-boeing-787-battery-fundamentally-unsafe-381627/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "aaronbrethorst",
+    "descendants": 242,
+    "time": 1359511121
   },
   {
     "rank": 5,
     "id": 5137859,
     "title": "Our First Node.js App: Backbone on the Client and Server",
     "url": "http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "AirbnbNerds",
+    "descendants": 61,
+    "time": 1359515975
   },
   {
     "rank": 6,
     "id": 5138809,
     "title": "Julian Assange to run for Australian Senate",
     "url": "http://www.theage.com.au/opinion/political-news/julian-assange-to-run-for-senate-20130130-2dl92.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 180,
+    "by": "gavinballard",
+    "descendants": 115,
+    "time": 1359540377
   },
   {
     "rank": 7,
     "id": 5139583,
     "title": "Rubygems.org compromised",
     "url": "http://rubygems.org/gems/exploit/versions/22.31.31",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "benmmurphy",
+    "descendants": 158,
+    "time": 1359556295
   },
   {
     "rank": 8,
     "id": 5140049,
     "title": "Are Placebos Really Sugar Pills?",
     "url": "http://asserttrue.blogspot.com/2013/01/are-placebos-really-sugar-pills.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "techdog",
+    "descendants": 138,
+    "time": 1359562061
   },
   {
     "rank": 9,
     "id": 5140135,
     "title": "The sound of the dialup, pictured",
     "url": "http://windytan.blogspot.com/2012/11/the-sound-of-dialup-pictured.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "randomdrake",
+    "descendants": 46,
+    "time": 1359562839
   },
   {
     "rank": 10,
     "id": 5140697,
     "title": "Visual Studio and Team Foundation Server will have Git support",
     "url": "http://blogs.msdn.com/b/bharry/archive/2013/01/30/git-init-vs.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "logictrip",
+    "descendants": 213,
+    "time": 1359568280
   }
 ]
