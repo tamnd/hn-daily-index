@@ -4,99 +4,99 @@
     "id": 22827275,
     "title": "Ask HN: How to properly manage a product roadmap?",
     "url": "https://news.ycombinator.com/item?id=22827275",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "joantorres",
+    "descendants": 123,
+    "time": 1586466862
   },
   {
     "rank": 2,
     "id": 22831506,
     "title": "Firefox 75.0",
     "url": "https://www.mozilla.org/en-US/firefox/75.0/releasenotes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "abixb",
+    "descendants": 340,
+    "time": 1586512893
   },
   {
     "rank": 3,
     "id": 22834286,
     "title": "FreeRDP 2.0 \u2013 A Remote Desktop Protocol implementation",
     "url": "https://www.freerdp.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "conductor",
+    "descendants": 122,
+    "time": 1586534062
   },
   {
     "rank": 4,
     "id": 22834524,
     "title": "Senate Stock Watcher",
     "url": "https://senatestockwatcher.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 677,
+    "by": "ericmay",
+    "descendants": 239,
+    "time": 1586535602
   },
   {
     "rank": 5,
     "id": 22837753,
     "title": "COBOL programmers answer call",
     "url": "https://spectrum.ieee.org/tech-talk/computing/software/cobol-programmers-answer-call-unemployment-benefits-systems",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "furcyd",
+    "descendants": 238,
+    "time": 1586555965
   },
   {
     "rank": 6,
     "id": 22839943,
     "title": "IBM will offer free COBOL training",
     "url": "https://www.inputmag.com/tech/ibm-will-offer-free-cobol-training-to-address-overloaded-unemployment-systems",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "jacobedawson",
+    "descendants": 227,
+    "time": 1586585530
   },
   {
     "rank": 7,
     "id": 22840034,
     "title": "After 50 years of effort, researchers made silicon emit light",
     "url": "https://www.wired.com/story/after-50-years-of-effort-researchers-made-silicon-emit-light/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "john_alan",
+    "descendants": 97,
+    "time": 1586587166
   },
   {
     "rank": 8,
     "id": 22840211,
     "title": "What I Wish I Knew When Learning Haskell",
     "url": "http://dev.stephendiehl.com/hask/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "Cieplak",
+    "descendants": 143,
+    "time": 1586590282
   },
   {
     "rank": 9,
     "id": 22842774,
     "title": "YouTube accidentally permanently terminated my account",
     "url": "https://medium.com/@alexhowlett/youtube-accidentally-permanently-terminated-my-account-4b5852c80679",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 674,
+    "by": "Suncho",
+    "descendants": 263,
+    "time": 1586625456
   },
   {
     "rank": 10,
     "id": 22843306,
     "title": "John Conway has died",
     "url": "https://twitter.com/CardColm/status/1249038195880341505",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2305,
+    "by": "ColinWright",
+    "descendants": 178,
+    "time": 1586630768
   }
 ]

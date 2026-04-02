@@ -4,99 +4,99 @@
     "id": 22899654,
     "title": "Show HN: ZoomerBackgrounds \u2013 community-sourced virtual video backgrounds",
     "url": "https://zoomerbackgrounds.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "logane",
+    "descendants": 78,
+    "time": 1587136205
   },
   {
     "rank": 2,
     "id": 22900226,
     "title": "NASA, SpaceX set May 27 as target date for first crew launch",
     "url": "https://spaceflightnow.com/2020/04/17/nasa-spacex-set-may-27-as-target-date-for-first-crew-launch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "whiskers",
+    "descendants": 71,
+    "time": 1587139838
   },
   {
     "rank": 3,
     "id": 22901231,
     "title": "Shopify CTO: our platform is now handling Black Friday level traffic every day",
     "url": "https://twitter.com/jmwind/status/1250816681024331777",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "i_am_viet",
+    "descendants": 126,
+    "time": 1587145770
   },
   {
     "rank": 4,
     "id": 22901856,
     "title": "Why do we need Flask, Celery, and Redis? (2019)",
     "url": "https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "feross",
+    "descendants": 181,
+    "time": 1587150062
   },
   {
     "rank": 5,
     "id": 22902462,
     "title": "Gleam: A statically typed language for the Erlang VM",
     "url": "https://gleam.run/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "andrenth",
+    "descendants": 109,
+    "time": 1587153876
   },
   {
     "rank": 6,
     "id": 22905390,
     "title": "X410 \u2013 X Server for Windows 10",
     "url": "https://x410.dev",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "zdw",
+    "descendants": 240,
+    "time": 1587185144
   },
   {
     "rank": 7,
     "id": 22906617,
     "title": "Avatarify lets users run realtime deepfakes on live video calls",
     "url": "https://www.inputmag.com/tech/open-source-program-will-let-you-run-deepfakes-on-live-video-calls",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "adenner",
+    "descendants": 117,
+    "time": 1587204316
   },
   {
     "rank": 8,
     "id": 22907367,
     "title": "U.S. judge blocks Twitter's bid to reveal government surveillance requests",
     "url": "https://www.reuters.com/article/us-usa-twitter-lawsuit/u-s-judge-blocks-twitters-bid-to-reveal-government-surveillance-requests-idUSKBN2200CS",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "antpls",
+    "descendants": 183,
+    "time": 1587214458
   },
   {
     "rank": 9,
     "id": 22908044,
     "title": "I've been writing TILs for 5 years",
     "url": "https://github.com/jbranchaud/til/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 558,
+    "by": "jbranchaud",
+    "descendants": 135,
+    "time": 1587220527
   },
   {
     "rank": 10,
     "id": 22908224,
     "title": "TablePlus \u2013 Modern, Native Tool for Database Management",
     "url": "https://tableplus.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "bottle2",
+    "descendants": 190,
+    "time": 1587222387
   }
 ]

@@ -4,99 +4,99 @@
     "id": 22759628,
     "title": "All Pluralsight videos are free for the month of April",
     "url": "https://www.pluralsight.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "nreece",
+    "descendants": 44,
+    "time": 1585839081
   },
   {
     "rank": 2,
     "id": 22762508,
     "title": "ACM has made 'Concurrency: the Works of Leslie Lamport' free to download",
     "url": "https://dl.acm.org/doi/book/10.1145/3335772",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "eigen-vector",
+    "descendants": 60,
+    "time": 1585854858
   },
   {
     "rank": 3,
     "id": 22763100,
     "title": "What's a virus, anyway? The bare-bones basics",
     "url": "https://scopeblog.stanford.edu/2020/04/02/whats-a-virus-anyway-part-1-the-bare-bones-basics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "chmaynard",
+    "descendants": 194,
+    "time": 1585857777
   },
   {
     "rank": 4,
     "id": 22764811,
     "title": "A crash course in compilers (2018)",
     "url": "https://increment.com/programming-languages/crash-course-in-compilers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 480,
+    "by": "cristoperb",
+    "descendants": 42,
+    "time": 1585868933
   },
   {
     "rank": 5,
     "id": 22764910,
     "title": "Lyme disease bacteria eradicated by new drug in early tests",
     "url": "https://scopeblog.stanford.edu/2020/03/30/lyme-disease-bacteria-eradicated-by-new-drug-in-early-tests/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 816,
+    "by": "dempedempe",
+    "descendants": 178,
+    "time": 1585869904
   },
   {
     "rank": 6,
     "id": 22766138,
     "title": "Unauthorized access to cameras in Safari on macOS and iOS",
     "url": "https://www.ryanpickren.com/webcam-hacking-overview",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "notRobot",
+    "descendants": 100,
+    "time": 1585885324
   },
   {
     "rank": 7,
     "id": 22766681,
     "title": "PostgreSQL is the worlds\u2019 best database",
     "url": "https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 591,
+    "by": "known",
+    "descendants": 355,
+    "time": 1585894133
   },
   {
     "rank": 8,
     "id": 22767843,
     "title": "Hardware Microphone Disconnect in Mac and iPad",
     "url": "https://support.apple.com/guide/security/secbbd20b00b/1/web/1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 771,
+    "by": "gtufano",
+    "descendants": 312,
+    "time": 1585909818
   },
   {
     "rank": 9,
     "id": 22768494,
     "title": "Zoom rolled their own encryption scheme, transmit keys through servers in China",
     "url": "https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1248,
+    "by": "gasull",
+    "descendants": 302,
+    "time": 1585917027
   },
   {
     "rank": 10,
     "id": 22769263,
     "title": "Three free meals available daily for any New Yorker",
     "url": "http://schools.nyc.gov/freemeals",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 710,
+    "by": "KoftaBob",
+    "descendants": 454,
+    "time": 1585922975
   }
 ]

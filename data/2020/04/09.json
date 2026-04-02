@@ -4,99 +4,99 @@
     "id": 22804079,
     "title": "The Power of Prolog",
     "url": "https://www.metalevel.at/prolog",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "fogus",
+    "descendants": 82,
+    "time": 1586273231
   },
   {
     "rank": 2,
     "id": 22810514,
     "title": "A music discovery site used in over 1M videos and games",
     "url": "http://dig.ccmixter.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "mkesper",
+    "descendants": 50,
+    "time": 1586326954
   },
   {
     "rank": 3,
     "id": 22812509,
     "title": "Moving from reCAPTCHA to hCaptcha",
     "url": "https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "migueldemoura",
+    "descendants": 189,
+    "time": 1586350870
   },
   {
     "rank": 4,
     "id": 22815583,
     "title": "Tell HN: Cisco WebEx on OS X uses the same pre-installer tricks as Zoom",
     "url": "https://news.ycombinator.com/item?id=22815583",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 673,
+    "by": "mmastrac",
+    "descendants": 180,
+    "time": 1586370579
   },
   {
     "rank": 5,
     "id": 22818150,
     "title": "I can't keep up with idiomatic Rust",
     "url": "https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "ddevault",
+    "descendants": 420,
+    "time": 1586387165
   },
   {
     "rank": 6,
     "id": 22820852,
     "title": "Swift: Google\u2019s Bet on Differentiable Programming",
     "url": "https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 675,
+    "by": "BerislavLopac",
+    "descendants": 539,
+    "time": 1586422464
   },
   {
     "rank": 7,
     "id": 22821447,
     "title": "Why I\u2019m Leaving Elm",
     "url": "https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 732,
+    "by": "neillyons",
+    "descendants": 432,
+    "time": 1586430991
   },
   {
     "rank": 8,
     "id": 22822784,
     "title": "Yelp lays off 1000, furloughs 1100",
     "url": "https://blog.yelp.com/2020/04/planning-for-yelps-future",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "rpncreator",
+    "descendants": 307,
+    "time": 1586442185
   },
   {
     "rank": 9,
     "id": 22823058,
     "title": "Japan to fund firms to shift production out of China",
     "url": "https://www.bloomberg.com/news/articles/2020-04-08/japan-to-fund-firms-to-shift-production-out-of-china",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "undefined1",
+    "descendants": 439,
+    "time": 1586443768
   },
   {
     "rank": 10,
     "id": 22825344,
     "title": "Signal threatens to dump US market if EARN IT act passes",
     "url": "https://uk.pcmag.com/security-5/125569/messaging-app-signal-threatens-to-dump-us-market-if-anti-encryption-bill-passes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 862,
+    "by": "tzm",
+    "descendants": 343,
+    "time": 1586455127
   }
 ]

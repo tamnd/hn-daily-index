@@ -4,99 +4,99 @@
     "id": 22970120,
     "title": "Analyzing Analytics (Featuring: The FBI)",
     "url": "https://exploits.run/analytics-analysis-fbi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "benryon",
+    "descendants": 43,
+    "time": 1587746778
   },
   {
     "rank": 2,
     "id": 22970771,
     "title": "Long-lost U.S. military satellite found by amateur radio operator",
     "url": "https://www.npr.org/2020/04/24/843493304/long-lost-u-s-military-satellite-found-by-amateur-radio-operator",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "wglb",
+    "descendants": 56,
+    "time": 1587749663
   },
   {
     "rank": 3,
     "id": 22972983,
     "title": "Seinfeld Adventure",
     "url": "https://www.seinfeldgame.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 861,
+    "by": "tosh",
+    "descendants": 168,
+    "time": 1587762928
   },
   {
     "rank": 4,
     "id": 22973455,
     "title": "A Third Solution",
     "url": "https://paulbuchheit.blogspot.com/2020/04/a-third-solution.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 673,
+    "by": "rafaelc",
+    "descendants": 516,
+    "time": 1587766367
   },
   {
     "rank": 5,
     "id": 22974585,
     "title": "Asian American Discrimination in Harvard Admissions [pdf]",
     "url": "http://public.econ.duke.edu/~psarcidi/realpenalty.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "undefined1",
+    "descendants": 493,
+    "time": 1587776090
   },
   {
     "rank": 6,
     "id": 22975437,
     "title": "Shell Productivity Tips and Tricks",
     "url": "https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "goranmoomin",
+    "descendants": 96,
+    "time": 1587787244
   },
   {
     "rank": 7,
     "id": 22976611,
     "title": "PlantNet \u2013 App that helps identify plants from pictures",
     "url": "https://plantnet.org/en/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "shrikant",
+    "descendants": 71,
+    "time": 1587803237
   },
   {
     "rank": 8,
     "id": 22977637,
     "title": "Time is the only real currency we have",
     "url": "https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 595,
+    "by": "hackeryogi",
+    "descendants": 300,
+    "time": 1587818331
   },
   {
     "rank": 9,
     "id": 22979245,
     "title": "A one-line package broke `npm create-react-app`",
     "url": "https://github.com/then/is-promise/issues/13",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 599,
+    "by": "tessela",
+    "descendants": 459,
+    "time": 1587832299
   },
   {
     "rank": 10,
     "id": 22980932,
     "title": "In 4 US state prisons, 3,300 inmates test positive, 96% without symptoms",
     "url": "https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 785,
+    "by": "throwaway888abc",
+    "descendants": 603,
+    "time": 1587844706
   }
 ]

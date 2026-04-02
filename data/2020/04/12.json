@@ -4,99 +4,99 @@
     "id": 22826710,
     "title": "Attack Matrix for Kubernetes",
     "url": "https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "based2",
+    "descendants": 27,
+    "time": 1586463259
   },
   {
     "rank": 2,
     "id": 22830779,
     "title": "What's Next for Scala",
     "url": "http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "arbhassan",
+    "descendants": 195,
+    "time": 1586503469
   },
   {
     "rank": 3,
     "id": 22843140,
     "title": "Things That Turbo Pascal Is Smaller Than (2011)",
     "url": "https://prog21.dadgum.com/116.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "Tomte",
+    "descendants": 170,
+    "time": 1586629010
   },
   {
     "rank": 4,
     "id": 22843326,
     "title": "Moving Away from Gmail",
     "url": "https://rolisz.ro/2020/04/11/moving-away-from-gmail/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "rolisz",
+    "descendants": 278,
+    "time": 1586630986
   },
   {
     "rank": 5,
     "id": 22844458,
     "title": "John Conway \u2013 The Free Will Lectures (2009) [video]",
     "url": "https://www.youtube.com/watch?v=tmx2tpcdKZY",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "jessup",
+    "descendants": 60,
+    "time": 1586641072
   },
   {
     "rank": 6,
     "id": 22845629,
     "title": "Nasty macOS flaw is bricking MacBooks: Don't install this update",
     "url": "https://www.tomsguide.com/news/nasty-macos-flaw-is-bricking-macbooks-dont-install-this-update",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 607,
+    "by": "Corrado",
+    "descendants": 424,
+    "time": 1586658128
   },
   {
     "rank": 7,
     "id": 22846250,
     "title": "Bored? How about trying a Linux speed run?",
     "url": "https://rachelbythebay.com/w/2020/04/11/pengrun/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "lwhsiao",
+    "descendants": 279,
+    "time": 1586669547
   },
   {
     "rank": 8,
     "id": 22847491,
     "title": "Social distancing is bringing drive-in theaters back to life",
     "url": "https://www.atlasobscura.com/articles/drive-in-theaters-adapt-to-coronavirus",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "lukestateson",
+    "descendants": 208,
+    "time": 1586690585
   },
   {
     "rank": 9,
     "id": 22848034,
     "title": "How to Speak (2018) [video]",
     "url": "https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 531,
+    "by": "pagade",
+    "descendants": 43,
+    "time": 1586697305
   },
   {
     "rank": 10,
     "id": 22848106,
     "title": "Enemy AI: chasing a player without Navigation2D or A* pathfinding",
     "url": "https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "atomlib",
+    "descendants": 118,
+    "time": 1586698101
   }
 ]

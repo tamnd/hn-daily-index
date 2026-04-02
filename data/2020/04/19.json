@@ -4,99 +4,99 @@
     "id": 22895842,
     "title": "A Guide to Pricing Plans",
     "url": "https://capitalandgrowth.org/answers/Article/3169972/The-Definitive-Guide-to-Pricing-Plans",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "jkuria",
+    "descendants": 75,
+    "time": 1587092679
   },
   {
     "rank": 2,
     "id": 22909984,
     "title": "Scuttlebot: Peer-to-peer database, identity provider, and messaging system",
     "url": "http://scuttlebot.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "pcr910303",
+    "descendants": 116,
+    "time": 1587234929
   },
   {
     "rank": 3,
     "id": 22911379,
     "title": "Running postmarketOS on iPhone 7",
     "url": "https://blog.project-insanity.org/2020/04/16/running-postmarketos-on-iphone-7/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "zdw",
+    "descendants": 100,
+    "time": 1587246464
   },
   {
     "rank": 4,
     "id": 22911533,
     "title": "It\u2019s Time to Build",
     "url": "https://a16z.com/2020/04/18/its-time-to-build/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1820,
+    "by": "jger15",
+    "descendants": 1008,
+    "time": 1587247814
   },
   {
     "rank": 5,
     "id": 22912226,
     "title": "When did I run that command? Update your Bash prompt with the command start time",
     "url": "https://redandblack.io/blog/2020/bash-prompt-with-updating-time/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "countermeasure",
+    "descendants": 77,
+    "time": 1587254901
   },
   {
     "rank": 6,
     "id": 22912378,
     "title": "Covid-19\u2019s impact on Tor",
     "url": "https://blog.torproject.org/covid19-impact-tor",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "netsec_burn",
+    "descendants": 193,
+    "time": 1587256514
   },
   {
     "rank": 7,
     "id": 22913871,
     "title": "Paul Graham\u2019s thoughts, discoveries, and tricks on parenthood",
     "url": "https://www.unclepaul.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "k0stas",
+    "descendants": 235,
+    "time": 1587275728
   },
   {
     "rank": 8,
     "id": 22914610,
     "title": "Hands-on Scala Programming",
     "url": "https://www.handsonscala.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "jvican",
+    "descendants": 103,
+    "time": 1587288414
   },
   {
     "rank": 9,
     "id": 22916281,
     "title": "OpenCore: Hackintosh Alternative to Clover",
     "url": "https://github.com/dortania/OpenCore-Desktop-Guide/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "tambourine_man",
+    "descendants": 165,
+    "time": 1587307984
   },
   {
     "rank": 10,
     "id": 22918980,
     "title": "Ask HN: I'm a software engineer going blind, how should I prepare?",
     "url": "https://news.ycombinator.com/item?id=22918980",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 3270,
+    "by": "zachrip",
+    "descendants": 473,
+    "time": 1587332026
   }
 ]

@@ -4,99 +4,99 @@
     "id": 22849208,
     "title": "Ask HN: Programs that saved you 100 hours?",
     "url": "https://news.ycombinator.com/item?id=22849208",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 629,
+    "by": "zJayv",
+    "descendants": 516,
+    "time": 1586708533
   },
   {
     "rank": 2,
     "id": 22850817,
     "title": "Writing a SQL database from scratch in Go",
     "url": "https://notes.eatonphil.com/database-basics.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "v3gas",
+    "descendants": 54,
+    "time": 1586723371
   },
   {
     "rank": 3,
     "id": 22851622,
     "title": "New nuclear reactor designs promise safe, clean electricity",
     "url": "https://www.city-journal.org/next-generation-nuclear-power",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "jseliger",
+    "descendants": 467,
+    "time": 1586732014
   },
   {
     "rank": 4,
     "id": 22852316,
     "title": "Technical reasons to choose FreeBSD over GNU/Linux",
     "url": "https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "signa11",
+    "descendants": 361,
+    "time": 1586741473
   },
   {
     "rank": 5,
     "id": 22852646,
     "title": "Colornames.org \u2013 A collaborative effort to name all 16.7M colors",
     "url": "https://colornames.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 557,
+    "by": "picdit",
+    "descendants": 224,
+    "time": 1586745332
   },
   {
     "rank": 6,
     "id": 22854120,
     "title": "Saving money on international payments as a remote freelancer",
     "url": "https://blog.jurn.io/international-payments-freelancers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "0verAchiever",
+    "descendants": 244,
+    "time": 1586767024
   },
   {
     "rank": 7,
     "id": 22854332,
     "title": "Writing a Book with Pandoc, Make, and Vim",
     "url": "https://keleshev.com/my-book-writing-setup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "halst",
+    "descendants": 60,
+    "time": 1586770431
   },
   {
     "rank": 8,
     "id": 22854475,
     "title": "Your statement is correct but misses the point",
     "url": "http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "notRobot",
+    "descendants": 257,
+    "time": 1586772583
   },
   {
     "rank": 9,
     "id": 22855357,
     "title": "Inkscape 1.0 Release Candidate",
     "url": "https://inkscape.org/release/inkscape-1.0rc1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 710,
+    "by": "Vinnl",
+    "descendants": 156,
+    "time": 1586782042
   },
   {
     "rank": 10,
     "id": 22855407,
     "title": "Proof of concept: end-to-end encryption in Jitsi Meet",
     "url": "https://jitsi.org/news/e2ee/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 617,
+    "by": "jrepinc",
+    "descendants": 155,
+    "time": 1586782523
   }
 ]

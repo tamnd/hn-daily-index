@@ -4,99 +4,99 @@
     "id": 22537944,
     "title": "Redwood: An integrated, full-stack, JavaScript web framework for the JAMstack",
     "url": "https://redwoodjs.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "mojombo",
+    "descendants": 167,
+    "time": 1583864018
   },
   {
     "rank": 2,
     "id": 22540004,
     "title": "Google recommends all North America employees work from home",
     "url": "https://www.businessinsider.com/coronavirus-google-north-america-employees-work-from-home-2020-3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "apaprocki",
+    "descendants": 522,
+    "time": 1583876210
   },
   {
     "rank": 3,
     "id": 22540066,
     "title": "We're making an open-source $30 GPS/mesh radio, would like advice",
     "url": "https://www.meshtastic.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "punkgeek",
+    "descendants": 166,
+    "time": 1583876661
   },
   {
     "rank": 4,
     "id": 22540904,
     "title": "Tesla\u2019s success in Europe catches industry off guard",
     "url": "https://www.nytimes.com/2020/03/04/business/tesla-europe-success.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "lxm",
+    "descendants": 477,
+    "time": 1583881450
   },
   {
     "rank": 5,
     "id": 22544554,
     "title": "AvastSvc.exe contains a full, unsandboxed JavaScript/DOM implementation",
     "url": "https://github.com/taviso/avscript",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "phoe-krk",
+    "descendants": 191,
+    "time": 1583921954
   },
   {
     "rank": 6,
     "id": 22544688,
     "title": "How some good corporate engineering blogs are written",
     "url": "https://danluu.com/corp-eng-blogs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 617,
+    "by": "jgrahamc",
+    "descendants": 94,
+    "time": 1583923966
   },
   {
     "rank": 7,
     "id": 22545878,
     "title": "Show HN: Fraidycat",
     "url": "https://fraidyc.at/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 807,
+    "by": "kickscondor",
+    "descendants": 150,
+    "time": 1583935168
   },
   {
     "rank": 8,
     "id": 22546931,
     "title": "E3 2020 Cancelled",
     "url": "https://www.e3expo.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "haunter",
+    "descendants": 112,
+    "time": 1583942849
   },
   {
     "rank": 9,
     "id": 22547283,
     "title": "Covid-19 is now officially a pandemic, WHO says",
     "url": "https://www.npr.org/sections/goatsandsoda/2020/03/11/814474930/coronavirus-covid-19-is-now-officially-a-pandemic-who-says",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1243,
+    "by": "tmlee",
+    "descendants": 1038,
+    "time": 1583945316
   },
   {
     "rank": 10,
     "id": 22548750,
     "title": "San Francisco bans public events holding more than 1,000 people",
     "url": "https://thehill.com/homenews/state-watch/487047-san-francisco-bans-public-events-holding-more-than-1000-people",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "maerF0x0",
+    "descendants": 385,
+    "time": 1583951426
   }
 ]
