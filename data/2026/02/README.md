@@ -28,6 +28,7 @@ Top 10 Hacker News stories for each day in February 2026.
 - [2026-02-05 (Thursday)](#2026-02-05)
 - [2026-02-04 (Wednesday)](#2026-02-04)
 - [2026-02-03 (Tuesday)](#2026-02-03)
+- [2026-02-02 (Monday)](#2026-02-02)
 - [2026-02-01 (Sunday)](#2026-02-01)
 
 ---
@@ -421,6 +422,21 @@ Top 10 Hacker News stories for each day in February 2026.
 8. [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/) (lars.ingebrigtsen.no) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46868759)
 9. [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next) (qwen.ai) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46872706)
 10. [France dumps Zoom and Teams as Europe seeks digital autonomy from the US](https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060) (apnews.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46873294)
+
+## 2026-02-02
+
+*Monday*
+
+1. [Best Gas Masks](https://www.theverge.com/policy/868571/best-gas-masks) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46813867)
+2. [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) (fieggen.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46848231)
+3. [My iPhone 16 Pro Max produces garbage output when running MLX LLMs](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/) (journal.rafaelcosta.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46849258)
+4. [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle) (dmitrybrant.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46849567)
+5. [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46850205)
+6. [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org) (xikipedia.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46850803)
+7. [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/) (notepad-plus-plus.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46851548)
+8. [Termux](https://github.com/termux/termux-app) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46854642)
+9. [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46854999)
+10. [The Codex App](https://openai.com/index/introducing-the-codex-app/) (openai.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46859054)
 
 ## 2026-02-01
 

@@ -10,6 +10,7 @@ Top 10 Hacker News stories for each day in March 2026.
 - [2026-03-26 (Thursday)](#2026-03-26)
 - [2026-03-25 (Wednesday)](#2026-03-25)
 - [2026-03-24 (Tuesday)](#2026-03-24)
+- [2026-03-23 (Monday)](#2026-03-23)
 - [2026-03-22 (Sunday)](#2026-03-22)
 - [2026-03-21 (Saturday)](#2026-03-21)
 - [2026-03-20 (Friday)](#2026-03-20)
@@ -154,6 +155,21 @@ Top 10 Hacker News stories for each day in March 2026.
 8. [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) (apple.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47504112)
 9. [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/) (xda-developers.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47507150)
 10. [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/) (blog.jakesaunders.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47508745)
+
+## 2026-03-23
+
+*Monday*
+
+1. [Walmart: ChatGPT checkout converted 3x worse than website](https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071) (searchengineland.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47444812)
+2. [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) (stevekrouse.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47476315)
+3. [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html) (birkey.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47479751)
+4. [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) (stuartbreckenridge.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47480507)
+5. [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) (larstofus.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47480886)
+6. [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830) (grapheneos.social) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47482217)
+7. [POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) (indieweb.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47486726)
+8. [Migrating to the EU](https://rz01.org/eu-migration/) (rz01.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47487436)
+9. [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/) (theregister.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47487584)
+10. [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47490070)
 
 ## 2026-03-22
 

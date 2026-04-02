@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | [Mar 29](#2026-03-29) | [Mar 28](#2026-03-28) | [Mar 27](#2026-03-27) | [Mar 26](#2026-03-26)
+Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | [Mar 29](#2026-03-29) | [Mar 28](#2026-03-28) | [Mar 27](#2026-03-27)
 
-### 2026 (88/92 days)
+### 2026 (92/92 days)
 
-**April** (1/2)
+**April** (2/2)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  | 1 | [**2**](#2026-04-02) |  |  |  |
+|  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) |  |  |  |
 
-**March** (30/31)
+**March** (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -31,30 +31,30 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 | [**2**](#2026-03-02) | [**3**](#2026-03-03) | [**4**](#2026-03-04) | [**5**](#2026-03-05) | [**6**](#2026-03-06) | [**7**](#2026-03-07) | [**8**](#2026-03-08) |
 | [**9**](#2026-03-09) | [**10**](#2026-03-10) | [**11**](#2026-03-11) | [**12**](#2026-03-12) | [**13**](#2026-03-13) | [**14**](#2026-03-14) | [**15**](#2026-03-15) |
 | [**16**](#2026-03-16) | [**17**](#2026-03-17) | [**18**](#2026-03-18) | [**19**](#2026-03-19) | [**20**](#2026-03-20) | [**21**](#2026-03-21) | [**22**](#2026-03-22) |
-| 23 | [**24**](#2026-03-24) | [**25**](#2026-03-25) | [**26**](#2026-03-26) | [**27**](#2026-03-27) | [**28**](#2026-03-28) | [**29**](#2026-03-29) |
+| [**23**](#2026-03-23) | [**24**](#2026-03-24) | [**25**](#2026-03-25) | [**26**](#2026-03-26) | [**27**](#2026-03-27) | [**28**](#2026-03-28) | [**29**](#2026-03-29) |
 | [**30**](#2026-03-30) | [**31**](#2026-03-31) |  |  |  |  |  |
 
-**February** (27/28)
+**February** (28/28)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-02-01) |
-| 2 | [**3**](#2026-02-03) | [**4**](#2026-02-04) | [**5**](#2026-02-05) | [**6**](#2026-02-06) | [**7**](#2026-02-07) | [**8**](#2026-02-08) |
+| [**2**](#2026-02-02) | [**3**](#2026-02-03) | [**4**](#2026-02-04) | [**5**](#2026-02-05) | [**6**](#2026-02-06) | [**7**](#2026-02-07) | [**8**](#2026-02-08) |
 | [**9**](#2026-02-09) | [**10**](#2026-02-10) | [**11**](#2026-02-11) | [**12**](#2026-02-12) | [**13**](#2026-02-13) | [**14**](#2026-02-14) | [**15**](#2026-02-15) |
 | [**16**](#2026-02-16) | [**17**](#2026-02-17) | [**18**](#2026-02-18) | [**19**](#2026-02-19) | [**20**](#2026-02-20) | [**21**](#2026-02-21) | [**22**](#2026-02-22) |
 | [**23**](#2026-02-23) | [**24**](#2026-02-24) | [**25**](#2026-02-25) | [**26**](#2026-02-26) | [**27**](#2026-02-27) | [**28**](#2026-02-28) |  |
 
-**January** (30/31)
+**January** (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-01-01) | [**2**](#2026-01-02) | [**3**](#2026-01-03) | [**4**](#2026-01-04) |
 | [**5**](#2026-01-05) | [**6**](#2026-01-06) | [**7**](#2026-01-07) | [**8**](#2026-01-08) | [**9**](#2026-01-09) | [**10**](#2026-01-10) | [**11**](#2026-01-11) |
-| [**12**](#2026-01-12) | [**13**](#2026-01-13) | 14 | [**15**](#2026-01-15) | [**16**](#2026-01-16) | [**17**](#2026-01-17) | [**18**](#2026-01-18) |
+| [**12**](#2026-01-12) | [**13**](#2026-01-13) | [**14**](#2026-01-14) | [**15**](#2026-01-15) | [**16**](#2026-01-16) | [**17**](#2026-01-17) | [**18**](#2026-01-18) |
 | [**19**](#2026-01-19) | [**20**](#2026-01-20) | [**21**](#2026-01-21) | [**22**](#2026-01-22) | [**23**](#2026-01-23) | [**24**](#2026-01-24) | [**25**](#2026-01-25) |
 | [**26**](#2026-01-26) | [**27**](#2026-01-27) | [**28**](#2026-01-28) | [**29**](#2026-01-29) | [**30**](#2026-01-30) | [**31**](#2026-01-31) |  |
 
-### [2025](data/2025/) (332/365 days)
+### [2025](data/2025/) (363/365 days)
 
 [December](data/2025/12/) (30/31) 
 [November](data/2025/11/) (30/30) 
@@ -67,7 +67,7 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 [April](data/2025/04/) (30/30) 
 [March](data/2025/03/) (31/31) 
 [February](data/2025/02/) (28/28) 
-[January](data/2025/01/) (0/31) 
+[January](data/2025/01/) (31/31) 
 
 ---
 
@@ -76,15 +76,30 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 *Thursday*
 
 1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 76 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [33 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 21 points by [bundie](https://news.ycombinator.com/user?id=bundie), [17 comments](https://news.ycombinator.com/item?id=47612127)
+2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 22 points by [bundie](https://news.ycombinator.com/user?id=bundie), [17 comments](https://news.ycombinator.com/item?id=47612127)
 3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 55 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
-4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 938 points by [apitman](https://news.ycombinator.com/user?id=apitman), [801 comments](https://news.ycombinator.com/item?id=47603657)
+4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 939 points by [apitman](https://news.ycombinator.com/user?id=apitman), [801 comments](https://news.ycombinator.com/item?id=47603657)
 5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 40 points by [luu](https://news.ycombinator.com/user?id=luu), [17 comments](https://news.ycombinator.com/item?id=47582987)
 6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 150 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
-7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 53 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [16 comments](https://news.ycombinator.com/item?id=47596739)
+7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 54 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [16 comments](https://news.ycombinator.com/item?id=47596739)
 8. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 418 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [196 comments](https://news.ycombinator.com/item?id=47609564)
 9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 183 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
 10. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) (blog.cloudflare.com) - 580 points by [elithrar](https://news.ycombinator.com/user?id=elithrar), [429 comments](https://news.ycombinator.com/item?id=47602832)
+
+## 2026-04-01
+
+*Wednesday*
+
+1. [Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz](https://responsiblestatecraft.org/iran-strait-of-hormuz/) (responsiblestatecraft.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47584795)
+2. [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) (arstechnica.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47591104)
+3. [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/) (damrnelson.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47591928)
+4. [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) (cnbc.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47592755)
+5. [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/) (prismml.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47593422)
+6. [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) (scottlawsonbc.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47593556)
+7. [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) (ccunpacked.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47597085)
+8. [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) (home.cern) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47597935)
+9. [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) (blog.cloudflare.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47602832)
+10. [NASA Artemis II moon mission live launch broadcast](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/) (plus.nasa.gov) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47603657)
 
 ## 2026-03-31
 
@@ -205,6 +220,21 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 8. [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) (apple.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47504112)
 9. [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/) (xda-developers.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47507150)
 10. [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/) (blog.jakesaunders.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47508745)
+
+## 2026-03-23
+
+*Monday*
+
+1. [Walmart: ChatGPT checkout converted 3x worse than website](https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071) (searchengineland.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47444812)
+2. [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) (stevekrouse.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47476315)
+3. [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html) (birkey.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47479751)
+4. [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) (stuartbreckenridge.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47480507)
+5. [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) (larstofus.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47480886)
+6. [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830) (grapheneos.social) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47482217)
+7. [POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) (indieweb.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47486726)
+8. [Migrating to the EU](https://rz01.org/eu-migration/) (rz01.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47487436)
+9. [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/) (theregister.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47487584)
+10. [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47490070)
 
 ## 2026-03-22
 
@@ -926,6 +956,21 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 9. [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next) (qwen.ai) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46872706)
 10. [France dumps Zoom and Teams as Europe seeks digital autonomy from the US](https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060) (apnews.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46873294)
 
+## 2026-02-02
+
+*Monday*
+
+1. [Best Gas Masks](https://www.theverge.com/policy/868571/best-gas-masks) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46813867)
+2. [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) (fieggen.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46848231)
+3. [My iPhone 16 Pro Max produces garbage output when running MLX LLMs](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/) (journal.rafaelcosta.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46849258)
+4. [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle) (dmitrybrant.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46849567)
+5. [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46850205)
+6. [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org) (xikipedia.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46850803)
+7. [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/) (notepad-plus-plus.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46851548)
+8. [Termux](https://github.com/termux/termux-app) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46854642)
+9. [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46854999)
+10. [The Codex App](https://openai.com/index/introducing-the-codex-app/) (openai.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46859054)
+
 ## 2026-02-01
 
 *Sunday*
@@ -1195,6 +1240,21 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 8. [The Palantir app helping ICE raids in Minneapolis](https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/) (404media.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46633378)
 9. [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc) (culpium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46633488)
 10. [Ask HN: How can we solve the loneliness epidemic?](https://news.ycombinator.com/item?id=46635345) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46635345)
+
+## 2026-01-14
+
+*Wednesday*
+
+1. [Why some clothes shrink in the wash and how to unshrink them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/) (swinburne.edu.au) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46572307)
+2. [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html) (blog.jgc.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46591810)
+3. [Influencers and OnlyFans models are dominating U.S. O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46603535)
+4. [We can't have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/) (blog.metabrainz.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46608840)
+5. [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/) (questdb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46609630)
+6. [I hate GitHub Actions with passion](https://xlii.space/eng/i-hate-github-actions-with-passion/) (xlii.space) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46614558)
+7. [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response) (sparkfun.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46616488)
+8. [FBI raids Washington Post reporter's home](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46616745)
+9. [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46618714)
+10. [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/) (electrek.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46618901)
 
 ## 2026-01-13
 

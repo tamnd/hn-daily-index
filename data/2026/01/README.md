@@ -19,6 +19,7 @@ Top 10 Hacker News stories for each day in January 2026.
 - [2026-01-17 (Saturday)](#2026-01-17)
 - [2026-01-16 (Friday)](#2026-01-16)
 - [2026-01-15 (Thursday)](#2026-01-15)
+- [2026-01-14 (Wednesday)](#2026-01-14)
 - [2026-01-13 (Tuesday)](#2026-01-13)
 - [2026-01-12 (Monday)](#2026-01-12)
 - [2026-01-11 (Sunday)](#2026-01-11)
@@ -289,6 +290,21 @@ Top 10 Hacker News stories for each day in January 2026.
 8. [The Palantir app helping ICE raids in Minneapolis](https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/) (404media.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46633378)
 9. [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc) (culpium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46633488)
 10. [Ask HN: How can we solve the loneliness epidemic?](https://news.ycombinator.com/item?id=46635345) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46635345)
+
+## 2026-01-14
+
+*Wednesday*
+
+1. [Why some clothes shrink in the wash and how to unshrink them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/) (swinburne.edu.au) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46572307)
+2. [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html) (blog.jgc.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46591810)
+3. [Influencers and OnlyFans models are dominating U.S. O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46603535)
+4. [We can't have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/) (blog.metabrainz.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46608840)
+5. [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/) (questdb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46609630)
+6. [I hate GitHub Actions with passion](https://xlii.space/eng/i-hate-github-actions-with-passion/) (xlii.space) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46614558)
+7. [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response) (sparkfun.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46616488)
+8. [FBI raids Washington Post reporter's home](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46616745)
+9. [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46618714)
+10. [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/) (electrek.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46618901)
 
 ## 2026-01-13
 
