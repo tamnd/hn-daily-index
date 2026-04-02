@@ -11,11 +11,11 @@ Top 10 Hacker News stories for each day in April 2026.
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 100 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [55 comments](https://news.ycombinator.com/item?id=47611721)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 101 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [55 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 73 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [11 comments](https://news.ycombinator.com/item?id=47611481)
 3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 958 points by [apitman](https://news.ycombinator.com/user?id=apitman), [813 comments](https://news.ycombinator.com/item?id=47603657)
-4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 81 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [28 comments](https://news.ycombinator.com/item?id=47612601)
-5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 57 points by [luu](https://news.ycombinator.com/user?id=luu), [28 comments](https://news.ycombinator.com/item?id=47582987)
+4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 82 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [30 comments](https://news.ycombinator.com/item?id=47612601)
+5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 58 points by [luu](https://news.ycombinator.com/user?id=luu), [28 comments](https://news.ycombinator.com/item?id=47582987)
 6. [Reinventing the Pull Request](https://lubeno.dev/blog/reinventing-the-pull-request) (lubeno.dev) - 14 points by [bkolobara](https://news.ycombinator.com/user?id=bkolobara), [7 comments](https://news.ycombinator.com/item?id=47540441)
 7. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 36 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [14 comments](https://news.ycombinator.com/item?id=47611921)
 8. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 172 points by [jaden](https://news.ycombinator.com/user?id=jaden), [51 comments](https://news.ycombinator.com/item?id=47609694)
