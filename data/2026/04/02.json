@@ -4,13 +4,23 @@
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 52,
+    "score": 53,
     "by": "AbuAssar",
     "descendants": 15,
     "time": 1775127891
   },
   {
     "rank": 2,
+    "id": 47613078,
+    "title": "Inside Nepal's Fake Rescue Racket",
+    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+    "score": 40,
+    "by": "lode",
+    "descendants": 1,
+    "time": 1775130041
+  },
+  {
+    "rank": 3,
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
@@ -20,21 +30,11 @@
     "time": 1775119724
   },
   {
-    "rank": 3,
-    "id": 47613078,
-    "title": "Inside Nepal's Fake Rescue Racket",
-    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 39,
-    "by": "lode",
-    "descendants": 1,
-    "time": 1775130041
-  },
-  {
     "rank": 4,
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 191,
+    "score": 193,
     "by": "novaRom",
     "descendants": 99,
     "time": 1775127000
@@ -46,7 +46,7 @@
     "url": "https://blogit.michelin.io/clojure-programming/",
     "score": 95,
     "by": "smartmic",
-    "descendants": 30,
+    "descendants": 31,
     "time": 1775117951
   },
   {
@@ -54,7 +54,7 @@
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 61,
+    "score": 63,
     "by": "stratos123",
     "descendants": 30,
     "time": 1775121258
@@ -76,7 +76,7 @@
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
     "score": 194,
     "by": "jaden",
-    "descendants": 61,
+    "descendants": 62,
     "time": 1775100933
   },
   {
@@ -94,7 +94,7 @@
     "id": 47608495,
     "title": "Quantum computing bombshells that are not April Fools",
     "url": "https://scottaaronson.blog/?p=9665",
-    "score": 207,
+    "score": 208,
     "by": "Strilanc",
     "descendants": 67,
     "time": 1775089483

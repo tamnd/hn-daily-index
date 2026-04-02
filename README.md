@@ -1216,16 +1216,16 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 *Thursday*
 
-1. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 52 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [15 comments](https://news.ycombinator.com/item?id=47612724)
-2. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 144 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [76 comments](https://news.ycombinator.com/item?id=47611721)
-3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 39 points by [lode](https://news.ycombinator.com/user?id=lode), [1 comments](https://news.ycombinator.com/item?id=47613078)
-4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 191 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [99 comments](https://news.ycombinator.com/item?id=47612601)
-5. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 95 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [30 comments](https://news.ycombinator.com/item?id=47611481)
-6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 61 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [30 comments](https://news.ycombinator.com/item?id=47611921)
+1. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 53 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [15 comments](https://news.ycombinator.com/item?id=47612724)
+2. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 40 points by [lode](https://news.ycombinator.com/user?id=lode), [1 comments](https://news.ycombinator.com/item?id=47613078)
+3. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 144 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [76 comments](https://news.ycombinator.com/item?id=47611721)
+4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 193 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [99 comments](https://news.ycombinator.com/item?id=47612601)
+5. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 95 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [31 comments](https://news.ycombinator.com/item?id=47611481)
+6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 63 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [30 comments](https://news.ycombinator.com/item?id=47611921)
 7. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 72 points by [luu](https://news.ycombinator.com/user?id=luu), [32 comments](https://news.ycombinator.com/item?id=47582987)
-8. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 194 points by [jaden](https://news.ycombinator.com/user?id=jaden), [61 comments](https://news.ycombinator.com/item?id=47609694)
+8. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 194 points by [jaden](https://news.ycombinator.com/user?id=jaden), [62 comments](https://news.ycombinator.com/item?id=47609694)
 9. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 81 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [22 comments](https://news.ycombinator.com/item?id=47596739)
-10. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 207 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [67 comments](https://news.ycombinator.com/item?id=47608495)
+10. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 208 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [67 comments](https://news.ycombinator.com/item?id=47608495)
 
 ## 2026-04-01
 
