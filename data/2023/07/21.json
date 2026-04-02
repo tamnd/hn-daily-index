@@ -4,99 +4,99 @@
     "id": 36779855,
     "title": "Human Shader",
     "url": "https://humanshader.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "bpierre",
+    "descendants": 124,
+    "time": 1689719018
   },
   {
     "rank": 2,
     "id": 36803124,
     "title": "TypeChat",
     "url": "https://microsoft.github.io/TypeChat/blog/introducing-typechat/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 556,
+    "by": "DanRosenwasser",
+    "descendants": 169,
+    "time": 1689871270
   },
   {
     "rank": 3,
     "id": 36807028,
     "title": "Good code is like a love letter to the next developer who will maintain it",
     "url": "https://addyosmani.com/blog/good-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "feross",
+    "descendants": 263,
+    "time": 1689888749
   },
   {
     "rank": 4,
     "id": 36807108,
     "title": "A 17th-century font in a 21st-century thesis",
     "url": "https://www.linyangchen.com/Typography-Fell-Types-font",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 513,
+    "by": "_emacsomancer_",
+    "descendants": 137,
+    "time": 1689889132
   },
   {
     "rank": 5,
     "id": 36808296,
     "title": "Fly.io Postgres cluster down for 3 days, no word from them about it",
     "url": "https://webcache.googleusercontent.com/search?q=cache:2T9NpG8thZgJ:https://community.fly.io/t/service-interruption-cant-destroy-machine-deploy-or-restart/14227&cd=9&hl=en&ct=clnk&gl=au",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 797,
+    "by": "burnerbob",
+    "descendants": 477,
+    "time": 1689896530
   },
   {
     "rank": 6,
     "id": 36809565,
     "title": "Study finds billions of nanoplastics released when microwaving containers",
     "url": "https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "thunderbong",
+    "descendants": 333,
+    "time": 1689909016
   },
   {
     "rank": 7,
     "id": 36811554,
     "title": "I have written a JVM in Rust",
     "url": "https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 718,
+    "by": "lukastyrychtr",
+    "descendants": 181,
+    "time": 1689929328
   },
   {
     "rank": 8,
     "id": 36813086,
     "title": "Show HN: Primo \u2013 a visual CMS with Svelte blocks, a code editor, and SSG",
     "url": "https://primocms.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "mmmateo",
+    "descendants": 117,
+    "time": 1689943094
   },
   {
     "rank": 9,
     "id": 36813564,
     "title": "Dementia risk linked to blood-protein imbalance in middle age",
     "url": "https://www.nature.com/articles/d41586-023-02374-2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "pseudolus",
+    "descendants": 109,
+    "time": 1689946451
   },
   {
     "rank": 10,
     "id": 36815255,
     "title": "In the LLM space, \\\"open source\\\" is being used to mean \\\"downloadable weights\\\"",
     "url": "https://www.alessiofanelli.com/blog/llama2-isnt-open-source",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "FanaHOVA",
+    "descendants": 228,
+    "time": 1689954544
   }
 ]

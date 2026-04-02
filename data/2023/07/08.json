@@ -4,99 +4,99 @@
     "id": 36630652,
     "title": "Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP",
     "url": "http://windowsupdaterestored.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "gslin",
+    "descendants": 175,
+    "time": 1688732727
   },
   {
     "rank": 2,
     "id": 36635489,
     "title": "Sleeping through the technical interview (2022)",
     "url": "https://xeiaso.net/blog/sleeping-the-technical-interview",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "xena",
+    "descendants": 108,
+    "time": 1688751973
   },
   {
     "rank": 3,
     "id": 36637221,
     "title": "TypeScript please give us reflection/runtime types",
     "url": "https://github.com/akutruff/typescript-needs-types",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "decs",
+    "descendants": 274,
+    "time": 1688758604
   },
   {
     "rank": 4,
     "id": 36637295,
     "title": "How the new Threads app is made",
     "url": "https://www.emergetools.com/deep-dives/threads",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "maxptop",
+    "descendants": 238,
+    "time": 1688758899
   },
   {
     "rank": 5,
     "id": 36637655,
     "title": "Why I Hate Frameworks (2005)",
     "url": "https://factoryfactoryfactory.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 666,
+    "by": "jameslk",
+    "descendants": 392,
+    "time": 1688760664
   },
   {
     "rank": 6,
     "id": 36639530,
     "title": "ProtonMail Rewrites Your Emails",
     "url": "http://jfloren.net/b/2023/7/7/0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "floren",
+    "descendants": 263,
+    "time": 1688771903
   },
   {
     "rank": 7,
     "id": 36642796,
     "title": "Software engineers hate code",
     "url": "https://www.dancowell.com/software-engineers-hate-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "dfcowell",
+    "descendants": 220,
+    "time": 1688808492
   },
   {
     "rank": 8,
     "id": 36643670,
     "title": "If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython",
     "url": "https://discuss.python.org/t/a-fast-free-threading-python/27903/99",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 656,
+    "by": "bratao",
+    "descendants": 441,
+    "time": 1688818726
   },
   {
     "rank": 9,
     "id": 36644895,
     "title": "When an app asks for permissions, it should have a \u201cfeed fake data\u201d option",
     "url": "https://mastodon.gamedev.place/@Nifflas/110668040598715116",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1102,
+    "by": "janandonly",
+    "descendants": 395,
+    "time": 1688827413
   },
   {
     "rank": 10,
     "id": 36645575,
     "title": "Langchain Is Pointless",
     "url": "https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "behnamoh",
+    "descendants": 178,
+    "time": 1688831779
   }
 ]

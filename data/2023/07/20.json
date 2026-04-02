@@ -4,99 +4,99 @@
     "id": 36791434,
     "title": "Launch HN: Twenty.com (YC S23) \u2013 Open-source CRM",
     "url": "https://news.ycombinator.com/item?id=36791434",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "iFelix",
+    "descendants": 311,
+    "time": 1689792890
   },
   {
     "rank": 2,
     "id": 36795173,
     "title": "Kevin Mitnick has died",
     "url": "https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 3699,
+    "by": "thirtyseven",
+    "descendants": 613,
+    "time": 1689810839
   },
   {
     "rank": 3,
     "id": 36798593,
     "title": "Docuseal: Open-source DocuSign alternative",
     "url": "https://github.com/docusealco/docuseal",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 671,
+    "by": "thunderbong",
+    "descendants": 196,
+    "time": 1689847484
   },
   {
     "rank": 4,
     "id": 36798854,
     "title": "The past is not true",
     "url": "https://sive.rs/pnt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "swah",
+    "descendants": 355,
+    "time": 1689850359
   },
   {
     "rank": 5,
     "id": 36799548,
     "title": "Anytype \u2013 local-first, P2P Notion alternative",
     "url": "https://anytype.io/?hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "TTTZ",
+    "descendants": 273,
+    "time": 1689856231
   },
   {
     "rank": 6,
     "id": 36799776,
     "title": "No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers",
     "url": "https://github.com/bartobri/no-more-secrets",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1002,
+    "by": "tambourine_man",
+    "descendants": 257,
+    "time": 1689857823
   },
   {
     "rank": 7,
     "id": 36800151,
     "title": "Accidentally Load Bearing",
     "url": "https://www.jefftk.com/p/accidentally-load-bearing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "jamessun",
+    "descendants": 196,
+    "time": 1689859796
   },
   {
     "rank": 8,
     "id": 36800297,
     "title": "Apple says it'll remove iMessage and FaceTime in UK rather than break encryption",
     "url": "https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1495,
+    "by": "samwillis",
+    "descendants": 749,
+    "time": 1689860475
   },
   {
     "rank": 9,
     "id": 36801448,
     "title": "JPEG XL: How it started, how it\u2019s going",
     "url": "https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "ksec",
+    "descendants": 204,
+    "time": 1689865041
   },
   {
     "rank": 10,
     "id": 36801491,
     "title": "FedNow Is Live",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1177,
+    "by": "lavp",
+    "descendants": 1022,
+    "time": 1689865225
   }
 ]

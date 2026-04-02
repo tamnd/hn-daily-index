@@ -568,7 +568,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2021](data/2021/) (275/365 days)
+### [2021](data/2021/) (306/365 days)
 
 <details><summary>Show calendars</summary>
 
@@ -664,15 +664,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**19**](data/2021/04/README.md#2021-04-19) | [**20**](data/2021/04/README.md#2021-04-20) | [**21**](data/2021/04/README.md#2021-04-21) | [**22**](data/2021/04/README.md#2021-04-22) | [**23**](data/2021/04/README.md#2021-04-23) | [**24**](data/2021/04/README.md#2021-04-24) | [**25**](data/2021/04/README.md#2021-04-25) |
 | [**26**](data/2021/04/README.md#2021-04-26) | [**27**](data/2021/04/README.md#2021-04-27) | [**28**](data/2021/04/README.md#2021-04-28) | [**29**](data/2021/04/README.md#2021-04-29) | [**30**](data/2021/04/README.md#2021-04-30) |  |  |
 
-[**March**](data/2021/03/) (0/31)
+[**March**](data/2021/03/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |  |  |  |  |
+| [**1**](data/2021/03/README.md#2021-03-01) | [**2**](data/2021/03/README.md#2021-03-02) | [**3**](data/2021/03/README.md#2021-03-03) | [**4**](data/2021/03/README.md#2021-03-04) | [**5**](data/2021/03/README.md#2021-03-05) | [**6**](data/2021/03/README.md#2021-03-06) | [**7**](data/2021/03/README.md#2021-03-07) |
+| [**8**](data/2021/03/README.md#2021-03-08) | [**9**](data/2021/03/README.md#2021-03-09) | [**10**](data/2021/03/README.md#2021-03-10) | [**11**](data/2021/03/README.md#2021-03-11) | [**12**](data/2021/03/README.md#2021-03-12) | [**13**](data/2021/03/README.md#2021-03-13) | [**14**](data/2021/03/README.md#2021-03-14) |
+| [**15**](data/2021/03/README.md#2021-03-15) | [**16**](data/2021/03/README.md#2021-03-16) | [**17**](data/2021/03/README.md#2021-03-17) | [**18**](data/2021/03/README.md#2021-03-18) | [**19**](data/2021/03/README.md#2021-03-19) | [**20**](data/2021/03/README.md#2021-03-20) | [**21**](data/2021/03/README.md#2021-03-21) |
+| [**22**](data/2021/03/README.md#2021-03-22) | [**23**](data/2021/03/README.md#2021-03-23) | [**24**](data/2021/03/README.md#2021-03-24) | [**25**](data/2021/03/README.md#2021-03-25) | [**26**](data/2021/03/README.md#2021-03-26) | [**27**](data/2021/03/README.md#2021-03-27) | [**28**](data/2021/03/README.md#2021-03-28) |
+| [**29**](data/2021/03/README.md#2021-03-29) | [**30**](data/2021/03/README.md#2021-03-30) | [**31**](data/2021/03/README.md#2021-03-31) |  |  |  |  |
 
 [**February**](data/2021/02/) (0/28)
 
@@ -701,11 +701,11 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 94 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [48 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 66 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [9 comments](https://news.ycombinator.com/item?id=47611481)
-3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 951 points by [apitman](https://news.ycombinator.com/user?id=apitman), [810 comments](https://news.ycombinator.com/item?id=47603657)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 95 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [48 comments](https://news.ycombinator.com/item?id=47611721)
+2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 67 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [9 comments](https://news.ycombinator.com/item?id=47611481)
+3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 952 points by [apitman](https://news.ycombinator.com/user?id=apitman), [810 comments](https://news.ycombinator.com/item?id=47603657)
 4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 57 points by [luu](https://news.ycombinator.com/user?id=luu), [25 comments](https://news.ycombinator.com/item?id=47582987)
-5. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 51 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [8 comments](https://news.ycombinator.com/item?id=47612601)
+5. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 52 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [9 comments](https://news.ycombinator.com/item?id=47612601)
 6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 24 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [10 comments](https://news.ycombinator.com/item?id=47611921)
 7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 164 points by [jaden](https://news.ycombinator.com/user?id=jaden), [47 comments](https://news.ycombinator.com/item?id=47609694)
 8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 59 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [20 comments](https://news.ycombinator.com/item?id=47596739)

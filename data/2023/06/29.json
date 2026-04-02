@@ -4,99 +4,99 @@
     "id": 36508811,
     "title": "Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",
     "url": "https://github.com/jetpack-io/typeid",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "dloreto",
+    "descendants": 221,
+    "time": 1687969705
   },
   {
     "rank": 2,
     "id": 36513881,
     "title": "National Geographic lays off its last remaining staff writers",
     "url": "https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "supportengineer",
+    "descendants": 389,
+    "time": 1687993286
   },
   {
     "rank": 3,
     "id": 36515531,
     "title": "CLI tools hidden in the Python standard library",
     "url": "https://til.simonwillison.net/python/stdlib-cli-tools",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "swyx",
+    "descendants": 154,
+    "time": 1688004916
   },
   {
     "rank": 4,
     "id": 36517149,
     "title": "Kagi raises $670k",
     "url": "https://blog.kagi.com/safe-round",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "erwinmatijsen",
+    "descendants": 359,
+    "time": 1688020690
   },
   {
     "rank": 5,
     "id": 36517525,
     "title": "The Awk Programming Language, Second Edition",
     "url": "https://awk.dev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 554,
+    "by": "0x54MUR41",
+    "descendants": 155,
+    "time": 1688024095
   },
   {
     "rank": 6,
     "id": 36519497,
     "title": "Programming languages going above and beyond",
     "url": "https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "rrampage",
+    "descendants": 180,
+    "time": 1688041759
   },
   {
     "rank": 7,
     "id": 36520658,
     "title": "Supreme Court strikes down affirmative action in college admissions",
     "url": "https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 959,
+    "by": "rbrown",
+    "descendants": 1681,
+    "time": 1688048191
   },
   {
     "rank": 8,
     "id": 36520925,
     "title": "Monster gravitational waves spotted for first time",
     "url": "https://www.nature.com/articles/d41586-023-02167-7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "throw0101c",
+    "descendants": 209,
+    "time": 1688049381
   },
   {
     "rank": 9,
     "id": 36522665,
     "title": "Valve bans games using AI generated graphics or text from Steam",
     "url": "https://old.reddit.com/r/aigamedev/comments/142j3yt/valve_is_not_willing_to_publish_games_with_ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 622,
+    "by": "Wouter33",
+    "descendants": 395,
+    "time": 1688056058
   },
   {
     "rank": 10,
     "id": 36523878,
     "title": "Ask HN: Is GitHub down?",
     "url": "https://news.ycombinator.com/item?id=36523878",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "mikebonnell",
+    "descendants": 184,
+    "time": 1688060522
   }
 ]

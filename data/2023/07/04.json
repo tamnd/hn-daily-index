@@ -4,99 +4,99 @@
     "id": 36571110,
     "title": "Data-Oriented Design (2018)",
     "url": "https://www.dataorienteddesign.com/dodbook/dodmain.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "DeathArrow",
+    "descendants": 133,
+    "time": 1688380869
   },
   {
     "rank": 2,
     "id": 36575081,
     "title": "Ask HN: Could you share your personal blog here?",
     "url": "https://news.ycombinator.com/item?id=36575081",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1014,
+    "by": "revskill",
+    "descendants": 1940,
+    "time": 1688400993
   },
   {
     "rank": 3,
     "id": 36580192,
     "title": "Threads, an Instagram app",
     "url": "https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1045,
+    "by": "Xeophon",
+    "descendants": 1258,
+    "time": 1688427104
   },
   {
     "rank": 4,
     "id": 36580417,
     "title": "Hunting for Nginx alias traversals in the wild",
     "url": "https://labs.hakaioffsec.com/nginx-alias-traversal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 534,
+    "by": "celesian",
+    "descendants": 160,
+    "time": 1688428574
   },
   {
     "rank": 5,
     "id": 36580837,
     "title": "Learning needs to be effortful to be effective",
     "url": "https://giansegato.com/essays/edutainment-is-not-learning",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "bvsrinivasan",
+    "descendants": 149,
+    "time": 1688432545
   },
   {
     "rank": 6,
     "id": 36583906,
     "title": "Companies must stop using Google Analytics",
     "url": "https://www.imy.se/en/news/companies-must-stop-using-google-analytics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 646,
+    "by": "pseudotrash",
+    "descendants": 456,
+    "time": 1688460076
   },
   {
     "rank": 7,
     "id": 36584656,
     "title": "Sourcegraph is no longer open source",
     "url": "https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "CAP_NET_ADMIN",
+    "descendants": 253,
+    "time": 1688466062
   },
   {
     "rank": 8,
     "id": 36586346,
     "title": "More than 75% of Steam games tested are playable or verified on the Steam Deck",
     "url": "https://mastodon.cloud/@boilingsteam/110655979942850128",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 635,
+    "by": "ekianjo",
+    "descendants": 412,
+    "time": 1688477261
   },
   {
     "rank": 9,
     "id": 36586632,
     "title": "Sao Paulo: A city with no outdoor advertisements (2013)",
     "url": "https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 688,
+    "by": "pmoriarty",
+    "descendants": 413,
+    "time": 1688478602
   },
   {
     "rank": 10,
     "id": 36591032,
     "title": "How to build a website without frameworks and tons of libraries",
     "url": "https://www.kodingkitty.com/blog/how-to-build-a-website/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "KodingKitty",
+    "descendants": 253,
+    "time": 1688496475
   }
 ]

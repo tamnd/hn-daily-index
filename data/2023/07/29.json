@@ -4,99 +4,99 @@
     "id": 36906085,
     "title": "Threads users down by more than a half",
     "url": "https://www.bbc.com/news/technology-66336058",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "KingOfCoders",
+    "descendants": 538,
+    "time": 1690548863
   },
   {
     "rank": 2,
     "id": 36908574,
     "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
     "url": "https://news.ycombinator.com/item?id=36908574",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "proberts",
+    "descendants": 391,
+    "time": 1690559036
   },
   {
     "rank": 3,
     "id": 36909427,
     "title": "Why is DNS still hard to learn?",
     "url": "https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "TangerineDream",
+    "descendants": 254,
+    "time": 1690562031
   },
   {
     "rank": 4,
     "id": 36911361,
     "title": "Free prison phone calls boost family ties, rehabilitation",
     "url": "https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "ohjeez",
+    "descendants": 201,
+    "time": 1690569912
   },
   {
     "rank": 5,
     "id": 36913268,
     "title": "The U.K. government is close to eroding encryption worldwide",
     "url": "https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 638,
+    "by": "pwmtr",
+    "descendants": 415,
+    "time": 1690578101
   },
   {
     "rank": 6,
     "id": 36913328,
     "title": "Intent to approve PEP 703: making the GIL optional",
     "url": "https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 478,
+    "by": "pablogsal",
+    "descendants": 499,
+    "time": 1690578437
   },
   {
     "rank": 7,
     "id": 36914401,
     "title": "No-GIL mode coming for Python",
     "url": "https://lwn.net/Articles/939568/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "mappu",
+    "descendants": 1,
+    "time": 1690584427
   },
   {
     "rank": 8,
     "id": 36918435,
     "title": "So you want to build your own open source chatbot",
     "url": "https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "edo-codes",
+    "descendants": 122,
+    "time": 1690622928
   },
   {
     "rank": 9,
     "id": 36918655,
     "title": "IRC is the only viable chat protocol (2022)",
     "url": "https://koshka.love/babel/irc-forever.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "CHB0403085482",
+    "descendants": 428,
+    "time": 1690625538
   },
   {
     "rank": 10,
     "id": 36920622,
     "title": "If we want a shift to walking we need to prioritize dignity",
     "url": "https://streets.mn/2023/07/19/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 608,
+    "by": "PaulHoule",
+    "descendants": 688,
+    "time": 1690640703
   }
 ]

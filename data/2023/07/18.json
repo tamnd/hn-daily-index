@@ -4,99 +4,99 @@
     "id": 36756504,
     "title": "How to be a consultant, a freelancer, or an independent contractor (2009)",
     "url": "https://jacquesmattheij.com/be-consultant/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "wofo",
+    "descendants": 165,
+    "time": 1689591936
   },
   {
     "rank": 2,
     "id": 36762682,
     "title": "Coroutines for Go",
     "url": "https://research.swtch.com/coro",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "trulyrandom",
+    "descendants": 182,
+    "time": 1689621391
   },
   {
     "rank": 3,
     "id": 36763419,
     "title": "The US economy and the EU were the same size in 2008, the US is now nearly 2X",
     "url": "https://twitter.com/scienceisstrat1/status/1680959906969444352",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "Dig1t",
+    "descendants": 730,
+    "time": 1689624805
   },
   {
     "rank": 4,
     "id": 36765479,
     "title": "Never waste a midlife crisis",
     "url": "https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "herbertl",
+    "descendants": 437,
+    "time": 1689636135
   },
   {
     "rank": 5,
     "id": 36766523,
     "title": "Stable Diffusion WebGPU demo",
     "url": "https://islamov.ai/stable-diffusion-webgpu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "aislamov",
+    "descendants": 116,
+    "time": 1689642898
   },
   {
     "rank": 6,
     "id": 36767092,
     "title": "A few things to know before stealing my 914 (2022)",
     "url": "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "colinprince",
+    "descendants": 303,
+    "time": 1689647545
   },
   {
     "rank": 7,
     "id": 36770883,
     "title": "Firefox has surpassed Chrome on Speedometer",
     "url": "https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1282,
+    "by": "akyuu",
+    "descendants": 544,
+    "time": 1689681621
   },
   {
     "rank": 8,
     "id": 36771980,
     "title": "A Grub theme in the style of Minecraft",
     "url": "https://github.com/Lxtharia/minegrub-theme",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "sijmen",
+    "descendants": 69,
+    "time": 1689687523
   },
   {
     "rank": 9,
     "id": 36774627,
     "title": "Llama 2",
     "url": "https://ai.meta.com/llama/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2268,
+    "by": "friggeri",
+    "descendants": 820,
+    "time": 1689696109
   },
   {
     "rank": 10,
     "id": 36774940,
     "title": "Refusing to teach kids math will not improve equity",
     "url": "https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 684,
+    "by": "bankershill",
+    "descendants": 750,
+    "time": 1689697110
   }
 ]
