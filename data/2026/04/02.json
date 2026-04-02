@@ -16,7 +16,7 @@
     "url": "https://blogit.michelin.io/clojure-programming/",
     "score": 71,
     "by": "smartmic",
-    "descendants": 10,
+    "descendants": 11,
     "time": 1775117951
   },
   {
@@ -34,9 +34,9 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 77,
+    "score": 78,
     "by": "novaRom",
-    "descendants": 22,
+    "descendants": 24,
     "time": 1775127000
   },
   {
@@ -51,6 +51,16 @@
   },
   {
     "rank": 6,
+    "id": 47540441,
+    "title": "Reinventing the Pull Request",
+    "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
+    "score": 14,
+    "by": "bkolobara",
+    "descendants": 7,
+    "time": 1774602269
+  },
+  {
+    "rank": 7,
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
@@ -58,16 +68,6 @@
     "by": "stratos123",
     "descendants": 14,
     "time": 1775121258
-  },
-  {
-    "rank": 7,
-    "id": 47540441,
-    "title": "Reinventing the Pull Request",
-    "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
-    "score": 13,
-    "by": "bkolobara",
-    "descendants": 7,
-    "time": 1774602269
   },
   {
     "rank": 8,
