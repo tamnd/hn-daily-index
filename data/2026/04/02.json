@@ -4,9 +4,9 @@
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 58,
+    "score": 79,
     "by": "AbuAssar",
-    "descendants": 17,
+    "descendants": 25,
     "time": 1775127891
   },
   {
@@ -14,9 +14,9 @@
     "id": 47613078,
     "title": "Inside Nepal's Fake Rescue Racket",
     "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 45,
+    "score": 56,
     "by": "lode",
-    "descendants": 2,
+    "descendants": 9,
     "time": 1775130041
   },
   {
@@ -24,9 +24,9 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 144,
+    "score": 147,
     "by": "bonzini",
-    "descendants": 76,
+    "descendants": 80,
     "time": 1775119724
   },
   {
@@ -34,39 +34,39 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 197,
+    "score": 225,
     "by": "novaRom",
-    "descendants": 101,
+    "descendants": 117,
     "time": 1775127000
   },
   {
     "rank": 5,
-    "id": 47611481,
-    "title": "Bringing Clojure programming to Enterprise (2021)",
-    "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 95,
-    "by": "smartmic",
-    "descendants": 32,
-    "time": 1775117951
-  },
-  {
-    "rank": 6,
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 67,
+    "score": 78,
     "by": "stratos123",
-    "descendants": 31,
+    "descendants": 41,
     "time": 1775121258
+  },
+  {
+    "rank": 6,
+    "id": 47611481,
+    "title": "Bringing Clojure programming to Enterprise (2021)",
+    "url": "https://blogit.michelin.io/clojure-programming/",
+    "score": 100,
+    "by": "smartmic",
+    "descendants": 37,
+    "time": 1775117951
   },
   {
     "rank": 7,
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-    "score": 72,
+    "score": 79,
     "by": "luu",
-    "descendants": 32,
+    "descendants": 33,
     "time": 1774933899
   },
   {
@@ -74,9 +74,9 @@
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 194,
+    "score": 200,
     "by": "jaden",
-    "descendants": 62,
+    "descendants": 63,
     "time": 1775100933
   },
   {
@@ -84,9 +84,9 @@
     "id": 47596739,
     "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 81,
+    "score": 84,
     "by": "jackson-mcd",
-    "descendants": 22,
+    "descendants": 26,
     "time": 1775016881
   },
   {
@@ -94,9 +94,9 @@
     "id": 47608495,
     "title": "Quantum computing bombshells that are not April Fools",
     "url": "https://scottaaronson.blog/?p=9665",
-    "score": 208,
+    "score": 211,
     "by": "Strilanc",
-    "descendants": 67,
+    "descendants": 66,
     "time": 1775089483
   }
 ]
