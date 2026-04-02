@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 35370152,
+    "title": "The Twitter API is now effectively unmaintained",
+    "url": "https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 35376488,
+    "title": "San Jose police union executive director charged with smuggling fentanyl into US",
+    "url": "https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 35379099,
+    "title": "Grand jury votes to indict Donald Trump",
+    "url": "https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 35379136,
+    "title": "My kids and I just played D&D with ChatGPT4 as the DM",
+    "url": "https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 35382698,
+    "title": "AI-enhanced development makes me more ambitious with my projects",
+    "url": "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 35385075,
+    "title": "Italian privacy regulator bans ChatGPT",
+    "url": "https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 35386948,
+    "title": "Postgres as a graph database",
+    "url": "https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 35387000,
+    "title": "NYPD is refusing to comply with NYC\u2019s new surveillance tech laws",
+    "url": "https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 35391433,
+    "title": "Twitter's Recommendation Algorithm",
+    "url": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 35393284,
+    "title": "Llama.cpp 30B runs with only 6GB of RAM now",
+    "url": "https://github.com/ggerganov/llama.cpp/pull/613",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

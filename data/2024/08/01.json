@@ -4,99 +4,99 @@
     "id": 41104288,
     "title": "Amazon's exabyte-scale migration from Apache Spark to Ray on EC2",
     "url": "https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "nojito",
+    "descendants": 90,
+    "time": 1722291291
   },
   {
     "rank": 2,
     "id": 41105130,
     "title": "Show HN: Turn any website into a knowledge base for LLMs",
     "url": "https://www.embedding.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "tompec",
+    "descendants": 122,
+    "time": 1722300845
   },
   {
     "rank": 3,
     "id": 41120254,
     "title": "I prefer rST to Markdown",
     "url": "https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "BerislavLopac",
+    "descendants": 422,
+    "time": 1722440995
   },
   {
     "rank": 4,
     "id": 41125490,
     "title": "Just disconnect the internet",
     "url": "https://computer.rip/2024-07-31-just-disconnect-the-internet.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "bathtub365",
+    "descendants": 210,
+    "time": 1722477177
   },
   {
     "rank": 5,
     "id": 41126944,
     "title": "Breakthrough a step toward revealing hidden structure of prime numbers",
     "url": "https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "igitur",
+    "descendants": 146,
+    "time": 1722497670
   },
   {
     "rank": 6,
     "id": 41127706,
     "title": "How I got my laser eye injury",
     "url": "https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 792,
+    "by": "omnibrain",
+    "descendants": 361,
+    "time": 1722507934
   },
   {
     "rank": 7,
     "id": 41127726,
     "title": "I recreated Shazam's algorithm with Go",
     "url": "https://github.com/cgzirim/not-shazam",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "ccgzirim",
+    "descendants": 117,
+    "time": 1722508161
   },
   {
     "rank": 8,
     "id": 41130620,
     "title": "Flux: Open-source text-to-image model with 12B parameters",
     "url": "https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 683,
+    "by": "CuriouslyC",
+    "descendants": 226,
+    "time": 1722528199
   },
   {
     "rank": 9,
     "id": 41131181,
     "title": "Hundred Rabbits is a small collective exploring the failability of modern tech",
     "url": "https://100r.co/site/about_us.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 780,
+    "by": "Bluestein",
+    "descendants": 488,
+    "time": 1722531653
   },
   {
     "rank": 10,
     "id": 41133917,
     "title": "CrowdStrike attempts takedown of parody site",
     "url": "https://clownstrike.lol/crowdmad/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1234,
+    "by": "clownstrikelol",
+    "descendants": 229,
+    "time": 1722548300
   }
 ]

@@ -4,99 +4,99 @@
     "id": 40914635,
     "title": "So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide",
     "url": "https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "ea016",
+    "descendants": 139,
+    "time": 1720522942
   },
   {
     "rank": 2,
     "id": 40916326,
     "title": "Show HN: 30ms latency screen sharing in Rust",
     "url": "https://github.com/bitwhip/bitwhip",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "Sean-Der",
+    "descendants": 69,
+    "time": 1720534029
   },
   {
     "rank": 3,
     "id": 40923096,
     "title": "Crocotile3D low poly modelling tool",
     "url": "https://crocotile3d.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "bananaboy",
+    "descendants": 47,
+    "time": 1720577105
   },
   {
     "rank": 4,
     "id": 40940241,
     "title": "Beating the L1 cache with value speculation (2021)",
     "url": "https://mazzo.li/posts/value-speculation.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "nickdevx",
+    "descendants": 80,
+    "time": 1720729078
   },
   {
     "rank": 5,
     "id": 40948806,
     "title": "Free-threaded CPython is ready to experiment with",
     "url": "https://labs.quansight.org/blog/free-threaded-python-rollout",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "ngoldbaum",
+    "descendants": 378,
+    "time": 1720813972
   },
   {
     "rank": 6,
     "id": 40949943,
     "title": "Optimizing the Lichess Tablebase Server",
     "url": "https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "cristoperb",
+    "descendants": 55,
+    "time": 1720822447
   },
   {
     "rank": 7,
     "id": 40950235,
     "title": "Crafting Interpreters",
     "url": "https://craftinginterpreters.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 607,
+    "by": "metadat",
+    "descendants": 187,
+    "time": 1720825225
   },
   {
     "rank": 8,
     "id": 40950584,
     "title": "Use a work journal",
     "url": "https://fev.al/posts/work-journal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1083,
+    "by": "charles_f",
+    "descendants": 293,
+    "time": 1720829123
   },
   {
     "rank": 9,
     "id": 40951800,
     "title": "Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)",
     "url": "http://timhulsizer.com/cwords/cintro.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "thunderbong",
+    "descendants": 127,
+    "time": 1720845422
   },
   {
     "rank": 10,
     "id": 40955693,
     "title": "Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data",
     "url": "https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "artninja1988",
+    "descendants": 232,
+    "time": 1720893934
   }
 ]

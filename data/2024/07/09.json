@@ -4,99 +4,99 @@
     "id": 40907581,
     "title": "Entering text in the terminal is complicated",
     "url": "https://jvns.ca/blog/2024/07/08/readline/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "todsacerdoti",
+    "descendants": 226,
+    "time": 1720461143
   },
   {
     "rank": 2,
     "id": 40908273,
     "title": "C++ patterns for low-latency applications including high-frequency trading",
     "url": "https://arxiv.org/abs/2309.04259",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "chris_overseas",
+    "descendants": 231,
+    "time": 1720465136
   },
   {
     "rank": 3,
     "id": 40908878,
     "title": "Anna's Archive Faces Millions in Damages and a Permanent Injunction",
     "url": "https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "mistercheph",
+    "descendants": 203,
+    "time": 1720468351
   },
   {
     "rank": 4,
     "id": 40909076,
     "title": "DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)",
     "url": "https://sqlitebrowser.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "punnerud",
+    "descendants": 68,
+    "time": 1720469283
   },
   {
     "rank": 5,
     "id": 40909327,
     "title": "Making my own wedding rings",
     "url": "https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "robenkleene",
+    "descendants": 131,
+    "time": 1720470548
   },
   {
     "rank": 6,
     "id": 40911637,
     "title": "Rye: A Hassle-Free Python Experience",
     "url": "https://rye.astral.sh/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 527,
+    "by": "jcbhmr",
+    "descendants": 317,
+    "time": 1720487895
   },
   {
     "rank": 7,
     "id": 40912684,
     "title": "The zombie misconception of theoretical computer science",
     "url": "https://scottaaronson.blog/?p=8106",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "Tomte",
+    "descendants": 216,
+    "time": 1720501627
   },
   {
     "rank": 8,
     "id": 40915082,
     "title": "PySkyWiFi: Free stupid wi-fi on long-haul flights",
     "url": "https://robertheaton.com/pyskywifi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 917,
+    "by": "oumua_don17",
+    "descendants": 419,
+    "time": 1720526497
   },
   {
     "rank": 9,
     "id": 40917312,
     "title": "Linksys Velop routers send Wi-Fi passwords in plaintext to US servers",
     "url": "https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "skilled",
+    "descendants": 219,
+    "time": 1720539209
   },
   {
     "rank": 10,
     "id": 40918052,
     "title": "Google Chrome has an API accesible only from *.google.com",
     "url": "https://twitter.com/lcasdev/status/1810696257137959018",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 895,
+    "by": "develatio",
+    "descendants": 368,
+    "time": 1720542911
   }
 ]

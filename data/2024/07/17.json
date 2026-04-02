@@ -4,99 +4,99 @@
     "id": 40949489,
     "title": "How we sped up Notion in the browser with WASM SQLite",
     "url": "https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "jFriedensreich",
+    "descendants": 103,
+    "time": 1720818701
   },
   {
     "rank": 2,
     "id": 40969693,
     "title": "Story points are pointless, measure queues",
     "url": "https://www.brightball.com/articles/story-points-are-pointless-measure-queues",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "brightball",
+    "descendants": 288,
+    "time": 1721063790
   },
   {
     "rank": 3,
     "id": 40978073,
     "title": "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
     "url": "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "wasmitnetzen",
+    "descendants": 354,
+    "time": 1721147887
   },
   {
     "rank": 4,
     "id": 40978372,
     "title": "XLSTMTime: Long-Term Time Series Forecasting with xLSTM",
     "url": "https://arxiv.org/abs/2407.10240",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "beefman",
+    "descendants": 53,
+    "time": 1721150087
   },
   {
     "rank": 5,
     "id": 40982118,
     "title": "Import and Export Markdown in Google Docs",
     "url": "https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 652,
+    "by": "pentagrama",
+    "descendants": 135,
+    "time": 1721184291
   },
   {
     "rank": 6,
     "id": 40983734,
     "title": "The Greatest Educational Life Hack: Learning Math Ahead of Time",
     "url": "https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "harperlee",
+    "descendants": 223,
+    "time": 1721206015
   },
   {
     "rank": 7,
     "id": 40986894,
     "title": "Panic at the Job Market",
     "url": "https://matt.sh/panic-at-the-job-market",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1717,
+    "by": "speckx",
+    "descendants": 1562,
+    "time": 1721229911
   },
   {
     "rank": 8,
     "id": 40987402,
     "title": "TinyPod \u2013 Apple Watch case with scroll wheel",
     "url": "https://thetinypod.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 934,
+    "by": "herbertl",
+    "descendants": 343,
+    "time": 1721232502
   },
   {
     "rank": 9,
     "id": 40987730,
     "title": "Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations",
     "url": "https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1089,
+    "by": "Retr0id",
+    "descendants": 265,
+    "time": 1721234498
   },
   {
     "rank": 10,
     "id": 40988954,
     "title": "NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules",
     "url": "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 881,
+    "by": "shaicoleman",
+    "descendants": 254,
+    "time": 1721241636
   }
 ]

@@ -4,99 +4,99 @@
     "id": 40845628,
     "title": "Shipt\u2019s algorithm squeezed gig workers, who fought back",
     "url": "https://spectrum.ieee.org/shipt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "cyberlimerence",
+    "descendants": 156,
+    "time": 1719840093
   },
   {
     "rank": 2,
     "id": 40853665,
     "title": "Should this be a map or 500 maps?",
     "url": "https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "cromulent",
+    "descendants": 107,
+    "time": 1719895840
   },
   {
     "rank": 3,
     "id": 40868504,
     "title": "Analyzing my electricity consumption",
     "url": "https://zdimension.fr/analyzing-my-electricity-consumption/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "skadamat",
+    "descendants": 277,
+    "time": 1720029899
   },
   {
     "rank": 4,
     "id": 40872332,
     "title": "Building a data compression utility in Haskell using Huffman codes",
     "url": "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 232,
+    "by": "lazamar",
+    "descendants": 88,
+    "time": 1720067352
   },
   {
     "rank": 5,
     "id": 40872438,
     "title": "Finding near-duplicates with Jaccard similarity and MinHash",
     "url": "https://blog.nelhage.com/post/fuzzy-dedup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "brianyu8",
+    "descendants": 36,
+    "time": 1720069449
   },
   {
     "rank": 6,
     "id": 40876848,
     "title": "SCIM: Ncurses based, Vim-like spreadsheet",
     "url": "https://github.com/andmarti1424/sc-im",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "emersonrsantos",
+    "descendants": 122,
+    "time": 1720116240
   },
   {
     "rank": 7,
     "id": 40877136,
     "title": "Insights from over 10,000 comments on \\\"Ask HN: Who Is Hiring\\\" using GPT-4o",
     "url": "https://tamerc.com/posts/ask-hn-who-is-hiring/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "comcuoglu",
+    "descendants": 160,
+    "time": 1720119009
   },
   {
     "rank": 8,
     "id": 40877337,
     "title": "Batteries: How cheap can they get?",
     "url": "https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "hoerensagen",
+    "descendants": 303,
+    "time": 1720120825
   },
   {
     "rank": 9,
     "id": 40880932,
     "title": "I have no constructor, and I must initialize",
     "url": "https://consteval.ca/2024/07/03/initialization/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "cyber1",
+    "descendants": 226,
+    "time": 1720168947
   },
   {
     "rank": 10,
     "id": 40883277,
     "title": "Put the DVD logo in the corner (2023)",
     "url": "https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "EndXA",
+    "descendants": 79,
+    "time": 1720190894
   }
 ]

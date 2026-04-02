@@ -4,99 +4,99 @@
     "id": 40913736,
     "title": "Show HN: Crawlee for Python \u2013 a web scraping and browser automation library",
     "url": "https://crawlee.dev/python/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "jancurn",
+    "descendants": 57,
+    "time": 1720513838
   },
   {
     "rank": 2,
     "id": 40915005,
     "title": "MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use",
     "url": "https://github.com/facebookresearch/MobileLLM",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "tosh",
+    "descendants": 55,
+    "time": 1720525722
   },
   {
     "rank": 3,
     "id": 40916786,
     "title": "Turbopuffer: Fast search on object storage",
     "url": "https://turbopuffer.com/blog/turbopuffer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "Sirupsen",
+    "descendants": 64,
+    "time": 1720536539
   },
   {
     "rank": 4,
     "id": 40919253,
     "title": "Judge dismisses DMCA copyright claim in GitHub Copilot suit",
     "url": "https://www.theregister.com/2024/07/08/github_copilot_dmca/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "samspenc",
+    "descendants": 445,
+    "time": 1720549503
   },
   {
     "rank": 5,
     "id": 40920122,
     "title": "How CD pregaps gained their hidden track superpowers",
     "url": "https://tedium.co/2024/07/06/compact-disc-pregap-history/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "shortformblog",
+    "descendants": 134,
+    "time": 1720553916
   },
   {
     "rank": 6,
     "id": 40924915,
     "title": "Europe's new Ariane 6 rocket powers into space",
     "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "gostsamo",
+    "descendants": 382,
+    "time": 1720600932
   },
   {
     "rank": 7,
     "id": 40926648,
     "title": "AMD to buy Silo AI for $665M",
     "url": "https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "helsinkiandrew",
+    "descendants": 272,
+    "time": 1720617975
   },
   {
     "rank": 8,
     "id": 40926734,
     "title": "Vision language models are blind",
     "url": "https://vlmsareblind.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "taesiri",
+    "descendants": 191,
+    "time": 1720618522
   },
   {
     "rank": 9,
     "id": 40927438,
     "title": "Weird things I learned while writing an x86 emulator",
     "url": "https://www.timdbg.com/posts/useless-x86-trivia/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "fanf2",
+    "descendants": 127,
+    "time": 1720622523
   },
   {
     "rank": 10,
     "id": 40928893,
     "title": "Zed on Linux Is Here",
     "url": "https://zed.dev/linux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 923,
+    "by": "0xedb",
+    "descendants": 677,
+    "time": 1720630562
   }
 ]
