@@ -4,99 +4,99 @@
     "id": 19817584,
     "title": "The Rate of Return on Everything, 1870\u20132015 [pdf]",
     "url": "https://economics.harvard.edu/files/economics/files/ms28533.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "dredmorbius",
+    "descendants": 260,
+    "time": 1556884978
   },
   {
     "rank": 2,
     "id": 19835608,
     "title": "Boeing Believed a 737 Max Warning Light Was Standard",
     "url": "https://www.nytimes.com/2019/05/05/business/boeing-737-max-warning-light.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "aaronbrethorst",
+    "descendants": 324,
+    "time": 1557097016
   },
   {
     "rank": 3,
     "id": 19837981,
     "title": "Clear is better than clever [pdf]",
     "url": "https://dave.cheney.net/paste/clear-is-better-than-clever.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "ngaut",
+    "descendants": 318,
+    "time": 1557135700
   },
   {
     "rank": 4,
     "id": 19838229,
     "title": "Up to one million species are on the verge of extinction, U.N. panel says",
     "url": "https://www.washingtonpost.com/climate-environment/2019/05/06/one-million-species-face-extinction-un-panel-says-humans-will-suffer-result/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 548,
+    "by": "uptown",
+    "descendants": 494,
+    "time": 1557139550
   },
   {
     "rank": 5,
     "id": 19839081,
     "title": "Go-perfbook: best practices for writing high-performance Go code",
     "url": "https://github.com/dgryski/go-perfbook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "ingve",
+    "descendants": 97,
+    "time": 1557148380
   },
   {
     "rank": 6,
     "id": 19840042,
     "title": "Rolling your own servers with Kubernetes",
     "url": "https://gravitational.com/blog/aws_vs_colocation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "old-gregg",
+    "descendants": 203,
+    "time": 1557154884
   },
   {
     "rank": 7,
     "id": 19840095,
     "title": "A final proposal for Rust await syntax",
     "url": "https://boats.gitlab.io/blog/post/await-decision/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "gaogao",
+    "descendants": 261,
+    "time": 1557155224
   },
   {
     "rank": 8,
     "id": 19840447,
     "title": "Windows gets a new terminal",
     "url": "https://techcrunch.com/2019/05/06/windows-gets-a-new-terminal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "TiredOfLife",
+    "descendants": 422,
+    "time": 1557157565
   },
   {
     "rank": 9,
     "id": 19840763,
     "title": ".NET 5",
     "url": "https://devblogs.microsoft.com/dotnet/introducing-net-5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 730,
+    "by": "benaadams",
+    "descendants": 410,
+    "time": 1557159258
   },
   {
     "rank": 10,
     "id": 19842240,
     "title": "Launch HN: Prometheus (YC W19) \u2013 Remove CO2 from Air and Turn It into Gasoline",
     "url": "https://news.ycombinator.com/item?id=19842240",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1250,
+    "by": "rmcginnis",
+    "descendants": 565,
+    "time": 1557166918
   }
 ]

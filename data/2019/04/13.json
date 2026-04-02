@@ -4,99 +4,99 @@
     "id": 19632412,
     "title": "Jailbreaking Subaru StarLink",
     "url": "https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "lelf",
+    "descendants": 106,
+    "time": 1554975165
   },
   {
     "rank": 2,
     "id": 19642190,
     "title": "Learn more programming languages, even if you won't use them",
     "url": "https://thorstenball.com/blog/2019/04/09/learn-more-programming-languages/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "ingve",
+    "descendants": 304,
+    "time": 1555046595
   },
   {
     "rank": 3,
     "id": 19649409,
     "title": "As China Hacked, U.S. Businesses Turned a Blind Eye",
     "url": "https://www.npr.org/2019/04/12/711779130/as-china-hacked-u-s-businesses-turned-a-blind-eye",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "derchu",
+    "descendants": 195,
+    "time": 1555106254
   },
   {
     "rank": 4,
     "id": 19649761,
     "title": "I got tired of PHP and Perl, so I tried bash",
     "url": "https://github.com/nerdgeneration/www.sh",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "nerdgeneration",
+    "descendants": 177,
+    "time": 1555109608
   },
   {
     "rank": 5,
     "id": 19650109,
     "title": "VSCodium \u2013 An Open Source Visual Studio Code Without Trackers",
     "url": "https://www.fossmint.com/vscodium-clone-of-visual-studio-code-for-linux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "arthurz",
+    "descendants": 253,
+    "time": 1555113605
   },
   {
     "rank": 6,
     "id": 19652642,
     "title": "Ola Bini, Swedish Software Developer with Ties to Assange, Arrested in Ecuador",
     "url": "https://nypost.com/2019/04/12/software-engineer-close-to-julian-assange-arrested-while-trying-to-leave-ecuador/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "synthc",
+    "descendants": 88,
+    "time": 1555158898
   },
   {
     "rank": 7,
     "id": 19653012,
     "title": "The Indictment of Julian Assange Is a Threat to Journalism",
     "url": "https://www.newyorker.com/news/our-columnists/the-indictment-of-julian-assange-is-a-threat-to-journalism",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "headalgorithm",
+    "descendants": 196,
+    "time": 1555163546
   },
   {
     "rank": 8,
     "id": 19653138,
     "title": "South Korea now recycles 95% of its food waste",
     "url": "https://www.weforum.org/agenda/2019/04/south-korea-recycling-food-waste/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 538,
+    "by": "okket",
+    "descendants": 163,
+    "time": 1555165212
   },
   {
     "rank": 9,
     "id": 19653647,
     "title": "Tracking Phones, Google Is a Dragnet for the Police",
     "url": "https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "rasmi",
+    "descendants": 203,
+    "time": 1555170315
   },
   {
     "rank": 10,
     "id": 19653834,
     "title": "JSON as configuration files: please don\u2019t",
     "url": "https://arp242.net/weblog/json_as_configuration_files-_please_dont",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "goranmoomin",
+    "descendants": 426,
+    "time": 1555171856
   }
 ]

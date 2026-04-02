@@ -4,99 +4,99 @@
     "id": 19726520,
     "title": "Foundations of Databases (1995)",
     "url": "http://webdam.inria.fr/Alice/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 662,
+    "by": "tosh",
+    "descendants": 52,
+    "time": 1556007045
   },
   {
     "rank": 2,
     "id": 19727795,
     "title": "A 'Blockchain Bandit' Is Guessing Private Keys and Scoring Millions",
     "url": "https://www.wired.com/story/blockchain-bandit-ethereum-weak-private-keys/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "qzrt",
+    "descendants": 177,
+    "time": 1556021482
   },
   {
     "rank": 3,
     "id": 19729998,
     "title": "Court Says Using Chalk on Tires for Parking Enforcement Violates Constitution",
     "url": "https://www.npr.org/2019/04/23/716248823/court-says-using-chalk-on-tires-for-parking-enforcement-violates-constitution",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "codezero",
+    "descendants": 464,
+    "time": 1556036003
   },
   {
     "rank": 4,
     "id": 19730799,
     "title": "Relearning Matrices as Linear Functions",
     "url": "https://www.dhruvonmath.com/2018/12/31/matrices/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "dhruvp",
+    "descendants": 93,
+    "time": 1556040313
   },
   {
     "rank": 5,
     "id": 19732032,
     "title": "Tech Needs More Conscientious Objectors",
     "url": "https://www.nytimes.com/2019/04/23/opinion/google-privacy-china.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "andrewvc",
+    "descendants": 211,
+    "time": 1556047891
   },
   {
     "rank": 6,
     "id": 19734565,
     "title": "Changes to Models S and X allow them to travel longer without larger batteries",
     "url": "https://www.tesla.com/blog/longest-range-electric-vehicle-now-goes-even-farther",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "azhenley",
+    "descendants": 507,
+    "time": 1556067087
   },
   {
     "rank": 7,
     "id": 19736309,
     "title": "QEMU v4.0.0 released",
     "url": "https://www.qemu.org/2019/04/24/qemu-4-0-0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "ingve",
+    "descendants": 159,
+    "time": 1556091083
   },
   {
     "rank": 8,
     "id": 19738120,
     "title": "OpenBSD 6.5",
     "url": "http://openbsd.org/65.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "vetelko",
+    "descendants": 205,
+    "time": 1556112769
   },
   {
     "rank": 9,
     "id": 19738394,
     "title": "Private Key Extraction from Qualcomm Hardware-Backed Keystores",
     "url": "https://www.nccgroup.trust/us/our-research/private-key-extraction-qualcomm-keystore/?research=Technical+advisories",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "griffinmb",
+    "descendants": 56,
+    "time": 1556114390
   },
   {
     "rank": 10,
     "id": 19742270,
     "title": "Facebook Expects to Be Fined Up to $5B by FTC Over Privacy Issues",
     "url": "https://www.nytimes.com/2019/04/24/technology/facebook-ftc-fine-earnings.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "Dangeranger",
+    "descendants": 302,
+    "time": 1556137675
   }
 ]

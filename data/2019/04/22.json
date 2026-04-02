@@ -4,99 +4,99 @@
     "id": 19713604,
     "title": "The Web is missing an essential part of infrastructure: an open web index",
     "url": "https://arxiv.org/abs/1903.03846",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 548,
+    "by": "DicIfTEx",
+    "descendants": 129,
+    "time": 1555870772
   },
   {
     "rank": 2,
     "id": 19714627,
     "title": "Elixir, Phoenix, Absinthe, GraphQL, React, and Apollo",
     "url": "https://schneider.dev/blog/elixir-phoenix-absinthe-graphql-react-apollo-absurdly-deep-dive/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 526,
+    "by": "schneidmaster",
+    "descendants": 153,
+    "time": 1555881305
   },
   {
     "rank": 3,
     "id": 19715191,
     "title": "Why OO Sucks by Joe Armstrong",
     "url": "http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 656,
+    "by": "andrewl",
+    "descendants": 380,
+    "time": 1555889170
   },
   {
     "rank": 4,
     "id": 19716019,
     "title": "Manim \u2013 3Blue1Brown's animation engine for explanatory math videos",
     "url": "https://github.com/3b1b/manim",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 669,
+    "by": "amingilani",
+    "descendants": 80,
+    "time": 1555901221
   },
   {
     "rank": 5,
     "id": 19716401,
     "title": "Ask HN: What Hacker News comments have you bookmarked?",
     "url": "https://news.ycombinator.com/item?id=19716401",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 740,
+    "by": "_lo3k",
+    "descendants": 184,
+    "time": 1555905266
   },
   {
     "rank": 6,
     "id": 19717786,
     "title": "PySnooper: Never use print for debugging again",
     "url": "https://github.com/cool-RR/pysnooper",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 675,
+    "by": "cool-RR",
+    "descendants": 168,
+    "time": 1555928978
   },
   {
     "rank": 7,
     "id": 19718284,
     "title": "TurboTax Uses Dark Patterns to Trick You into Paying to File Your Taxes",
     "url": "https://www.propublica.org/article/turbotax-just-tricked-you-into-paying-to-file-your-taxes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 608,
+    "by": "justinpropub",
+    "descendants": 274,
+    "time": 1555935358
   },
   {
     "rank": 8,
     "id": 19719118,
     "title": "Svelte 3: Rethinking Reactivity",
     "url": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 639,
+    "by": "uzername",
+    "descendants": 179,
+    "time": 1555942843
   },
   {
     "rank": 9,
     "id": 19719380,
     "title": "Otonomo, with nearly $55M in funding, is cloning our product",
     "url": "https://smartcar.com/blog/how-otonomo-is-cloning-our-product/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2292,
+    "by": "sahaskatta",
+    "descendants": 603,
+    "time": 1555944904
   },
   {
     "rank": 10,
     "id": 19720099,
     "title": "Beyond Meat S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1655210/000162828019004543/beyondmeats-1a5.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 477,
+    "by": "doppp",
+    "descendants": 417,
+    "time": 1555949563
   }
 ]

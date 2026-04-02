@@ -4,99 +4,99 @@
     "id": 19674355,
     "title": "EU gives 'high-level' protection to whistleblowers",
     "url": "https://www.bbc.co.uk/news/world-europe-47936682",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "toyg",
+    "descendants": 120,
+    "time": 1555427761
   },
   {
     "rank": 2,
     "id": 19676499,
     "title": "Qualcomm and Apple agree to drop all litigation",
     "url": "https://www.apple.com/newsroom/2019/04/qualcomm-and-apple-agree-to-drop-all-litigation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "saeedjabbar",
+    "descendants": 126,
+    "time": 1555442592
   },
   {
     "rank": 3,
     "id": 19677721,
     "title": "Pyodide: Bringing the scientific Python stack to the browser",
     "url": "https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "barryvan",
+    "descendants": 112,
+    "time": 1555451875
   },
   {
     "rank": 4,
     "id": 19677850,
     "title": "Panic\u2019s Next Editor",
     "url": "https://panic.com/next/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "whalesalad",
+    "descendants": 230,
+    "time": 1555453143
   },
   {
     "rank": 5,
     "id": 19678498,
     "title": "Intel Exiting 5G Modems",
     "url": "https://newsroom.intel.com/news-releases/intel-modem-statement/#gs.639at4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "ItsTotallyOn",
+    "descendants": 216,
+    "time": 1555459853
   },
   {
     "rank": 6,
     "id": 19679890,
     "title": "Animating URLs with JavaScript and Emojis",
     "url": "http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%92",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 747,
+    "by": "bemmu",
+    "descendants": 165,
+    "time": 1555477386
   },
   {
     "rank": 7,
     "id": 19679946,
     "title": "Let\u2019s Encrypt to transition to ISRG root",
     "url": "https://scotthelme.co.uk/lets-encrypt-to-transition-to-isrg-root/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "trygvis",
+    "descendants": 110,
+    "time": 1555478341
   },
   {
     "rank": 8,
     "id": 19680662,
     "title": "Fluent 1.0: a localization system for natural-sounding translations",
     "url": "https://hacks.mozilla.org/2019/04/fluent-1-0-a-localization-system-for-natural-sounding-translations/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "feross",
+    "descendants": 115,
+    "time": 1555488238
   },
   {
     "rank": 9,
     "id": 19682451,
     "title": "Post-surgical deaths in Scotland drop by a third, attributed to a checklist",
     "url": "https://www.bbc.co.uk/news/uk-scotland-47953541",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1036,
+    "by": "fanf2",
+    "descendants": 366,
+    "time": 1555508584
   },
   {
     "rank": 10,
     "id": 19684688,
     "title": "Microsoft turned down facial-recognition sales on human rights concerns",
     "url": "https://www.reuters.com/article/us-microsoft-ai/microsoft-turned-down-facial-recognition-sales-on-human-rights-concerns-idUSKCN1RS2FV",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "dredmorbius",
+    "descendants": 111,
+    "time": 1555522864
   }
 ]

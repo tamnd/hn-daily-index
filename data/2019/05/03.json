@@ -4,99 +4,99 @@
     "id": 19799893,
     "title": "Guardian records first operating profit since 1998",
     "url": "https://www.bbc.co.uk/news/entertainment-arts-48111464",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "laurex",
+    "descendants": 314,
+    "time": 1556733833
   },
   {
     "rank": 2,
     "id": 19804478,
     "title": "Local-first software: You own your data, in spite of the cloud",
     "url": "https://www.inkandswitch.com/local-first.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 566,
+    "by": "c-cube",
+    "descendants": 190,
+    "time": 1556768430
   },
   {
     "rank": 3,
     "id": 19810504,
     "title": "Show HN: Risp \u2013 Lisp in Rust",
     "url": "https://m.stopa.io/risp-lisp-in-rust-90a0dad5b116",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "stopachka",
+    "descendants": 84,
+    "time": 1556819391
   },
   {
     "rank": 4,
     "id": 19810897,
     "title": "Facebook Bans Louis Farrakhan, Milo Yiannopoulos, InfoWars and Others",
     "url": "https://edition.cnn.com/2019/05/02/tech/facebook-ban-louis-farrakhan-infowars-alex-jones-milo-laura-loomer/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "aestetix",
+    "descendants": 697,
+    "time": 1556821270
   },
   {
     "rank": 5,
     "id": 19812557,
     "title": "JetBlue explains to a passenger how it got a photo of her face",
     "url": "https://boingboing.net/2019/04/23/in-this-twitter-exchange-jetb.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "wizeman",
+    "descendants": 229,
+    "time": 1556829175
   },
   {
     "rank": 6,
     "id": 19813607,
     "title": "Android App Reverse Engineering 101",
     "url": "https://maddiestone.github.io/AndroidAppRE/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "conductor",
+    "descendants": 32,
+    "time": 1556836328
   },
   {
     "rank": 7,
     "id": 19814370,
     "title": "Huge study finds drugs stop HIV transmission",
     "url": "https://www.theguardian.com/society/2019/may/02/end-to-aids-in-sight-as-huge-study-finds-drugs-stop-hiv-transmission",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "ahakki",
+    "descendants": 132,
+    "time": 1556843236
   },
   {
     "rank": 8,
     "id": 19817531,
     "title": "Common mistakes in PostgreSQL",
     "url": "https://wiki.postgresql.org/wiki/Don%27t_Do_This",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1084,
+    "by": "kawera",
+    "descendants": 253,
+    "time": 1556884328
   },
   {
     "rank": 9,
     "id": 19818899,
     "title": "I/O Is Faster Than CPU \u2013 Let\u2019s Partition Resources and Eliminate OS Abstractions [pdf]",
     "url": "https://penberg.org/parakernel-hotos19.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 817,
+    "by": "ingve",
+    "descendants": 277,
+    "time": 1556894791
   },
   {
     "rank": 10,
     "id": 19819608,
     "title": "Pornhub wants to buy Tumblr",
     "url": "https://arstechnica.com/information-technology/2019/05/pornhub-wants-to-buy-tumblr-and-restore-site-to-former-porn-filled-glory/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "AdmiralAsshat",
+    "descendants": 188,
+    "time": 1556899591
   }
 ]

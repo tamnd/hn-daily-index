@@ -4,99 +4,99 @@
     "id": 19946730,
     "title": "Aggressive Chess Openings (2012)",
     "url": "https://chess.stackexchange.com/questions/75/very-aggressive-openings",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "tosh",
+    "descendants": 98,
+    "time": 1558176702
   },
   {
     "rank": 2,
     "id": 19946941,
     "title": "Show HN: The Cyber Plumber's Handbook \u2013 SSH Tunnel Like a Boss",
     "url": "https://news.ycombinator.com/item?id=19946941",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "opsdisk",
+    "descendants": 49,
+    "time": 1558181017
   },
   {
     "rank": 3,
     "id": 19947214,
     "title": "Flexible data tables with CSS Grid",
     "url": "https://adamlynch.com/flexible-data-tables-with-css-grid/?1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "adamlynch",
+    "descendants": 62,
+    "time": 1558185160
   },
   {
     "rank": 4,
     "id": 19948642,
     "title": "\u201cPython's batteries are leaking\u201d",
     "url": "http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "narimiran",
+    "descendants": 409,
+    "time": 1558201252
   },
   {
     "rank": 5,
     "id": 19950253,
     "title": "Virtual DOM is pure overhead (2018)",
     "url": "https://svelte.dev/blog/virtual-dom-is-pure-overhead",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 720,
+    "by": "nailer",
+    "descendants": 332,
+    "time": 1558221352
   },
   {
     "rank": 6,
     "id": 19952714,
     "title": "Why Racket? Why Lisp?",
     "url": "https://beautifulracket.com/appendix/why-racket-why-lisp.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "alokrai",
+    "descendants": 122,
+    "time": 1558264470
   },
   {
     "rank": 7,
     "id": 19953213,
     "title": "Modern SAT solvers: fast, neat and underused",
     "url": "https://codingnest.com/modern-sat-solvers-fast-neat-and-underused-part-3-of-n/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "kachnuv_ocasek",
+    "descendants": 118,
+    "time": 1558273019
   },
   {
     "rank": 8,
     "id": 19953532,
     "title": "\u201cA company is copyright-claiming every video I have ever made\u201d",
     "url": "https://twitter.com/ThatMumboJumbo/status/1130009515766755328",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "MagicPropmaker",
+    "descendants": 304,
+    "time": 1558277162
   },
   {
     "rank": 9,
     "id": 19953854,
     "title": "A Decade of Remote Work",
     "url": "https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "mvip",
+    "descendants": 163,
+    "time": 1558280877
   },
   {
     "rank": 10,
     "id": 19954673,
     "title": "Google suspends some business with Huawei",
     "url": "https://www.reuters.com/article/us-huawei-tech-alphabet-exclusive/exclusive-google-suspends-some-business-with-huawei-after-trump-blacklist-source-idUSKCN1SP0NB",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "samsonradu",
+    "descendants": 481,
+    "time": 1558290532
   }
 ]

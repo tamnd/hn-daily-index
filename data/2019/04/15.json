@@ -4,99 +4,99 @@
     "id": 19660349,
     "title": "Org-mode parser in Rust",
     "url": "https://github.com/ngortheone/org-rs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "sodiumjoe",
+    "descendants": 82,
+    "time": 1555259999
   },
   {
     "rank": 2,
     "id": 19661329,
     "title": "Learn TLA+ (2018)",
     "url": "https://learntla.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "brodo",
+    "descendants": 92,
+    "time": 1555271702
   },
   {
     "rank": 3,
     "id": 19661603,
     "title": "Icons: Avoid temptation and start with user needs",
     "url": "https://digital.nhs.uk/blog/transformation-blog/2019/icons-avoid-temptation-and-start-with-user-needs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "open-source-ux",
+    "descendants": 110,
+    "time": 1555274722
   },
   {
     "rank": 4,
     "id": 19661949,
     "title": "Want to learn a new skill? Take some short breaks",
     "url": "https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Want-learn-new-skill-Take-some-short-breaks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "occamschainsaw",
+    "descendants": 120,
+    "time": 1555279043
   },
   {
     "rank": 5,
     "id": 19662575,
     "title": "1060-hour image of the Large Magellanic Cloud captured by amateur astronomers",
     "url": "https://astrospace-page.blogspot.com/2019/04/1060-hours-image-of-the-large-magellanic-cloud-chile.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 752,
+    "by": "dmitrybrant",
+    "descendants": 114,
+    "time": 1555289620
   },
   {
     "rank": 6,
     "id": 19662852,
     "title": "A tale of how Google tried to win against Mozilla",
     "url": "https://twitter.com/johnath/status/1116871231792455686",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "8x8squares",
+    "descendants": 189,
+    "time": 1555295663
   },
   {
     "rank": 7,
     "id": 19663009,
     "title": "GameBoy CPU Manual (2013) [pdf]",
     "url": "https://realboyemulator.files.wordpress.com/2013/01/gbcpuman.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "pplonski86",
+    "descendants": 41,
+    "time": 1555299922
   },
   {
     "rank": 8,
     "id": 19664862,
     "title": "Baked MacBook Air: A cautionary recipe",
     "url": "https://www.woolie.co.uk/article/baked-macbook-air/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "woolie",
+    "descendants": 209,
+    "time": 1555332100
   },
   {
     "rank": 9,
     "id": 19666545,
     "title": "How Apple, Google, and other tech companies conspired against their own workers",
     "url": "https://www.whenrulesdontapply.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 717,
+    "by": "alienlid",
+    "descendants": 280,
+    "time": 1555345598
   },
   {
     "rank": 10,
     "id": 19666991,
     "title": "Notre-Dame cathedral: Firefighters tackle blaze in Paris",
     "url": "https://www.bbc.co.uk/news/world-europe-47941794",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 989,
+    "by": "kragniz",
+    "descendants": 521,
+    "time": 1555348962
   }
 ]

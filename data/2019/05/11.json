@@ -4,99 +4,99 @@
     "id": 19867401,
     "title": "The Beauty of Calculus [video]",
     "url": "https://frankeprogram.yale.edu/event/steven-strogatz-lecture-april-26-2019",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "okket",
+    "descendants": 54,
+    "time": 1557403274
   },
   {
     "rank": 2,
     "id": 19877499,
     "title": "40% of the top sellers on Amazon are based in China, according to research",
     "url": "https://www.marketplacepulse.com/articles/40-of-merchants-on-amazon-based-in-china",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "juokaz",
+    "descendants": 187,
+    "time": 1557495131
   },
   {
     "rank": 3,
     "id": 19879679,
     "title": "Libmill: Go-Style Concurrency in C",
     "url": "http://libmill.org/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "Cieplak",
+    "descendants": 76,
+    "time": 1557507305
   },
   {
     "rank": 4,
     "id": 19881673,
     "title": "U.S. regulators approve the Long-Term Stock Exchange",
     "url": "https://www.reuters.com/article/us-usa-sec-siliconvalley/u-s-regulators-approve-new-silicon-valley-stock-exchange-idUSKCN1SG21K",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "yahelc",
+    "descendants": 187,
+    "time": 1557518359
   },
   {
     "rank": 5,
     "id": 19883714,
     "title": "Pilotwings demos act differently depending on when the cartridge was made",
     "url": "https://twitter.com/Foone/status/1126996260026605568",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 460,
+    "by": "ilamont",
+    "descendants": 137,
+    "time": 1557536154
   },
   {
     "rank": 6,
     "id": 19883876,
     "title": "Show HN: I replaced Google Analytics with simple log-based analytics",
     "url": "https://benhoyt.com/writings/replacing-google-analytics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "benhoyt",
+    "descendants": 137,
+    "time": 1557537978
   },
   {
     "rank": 7,
     "id": 19885764,
     "title": "Twilio Super SIM",
     "url": "https://www.twilio.com/wireless/super-sim",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "galfarragem",
+    "descendants": 175,
+    "time": 1557576811
   },
   {
     "rank": 8,
     "id": 19886718,
     "title": "Adults learn language to fluency nearly as well as children: study",
     "url": "https://medium.com/@chacon/mit-scientists-prove-adults-learn-language-to-fluency-nearly-as-well-as-children-1de888d1d45f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 751,
+    "by": "bluffroom",
+    "descendants": 335,
+    "time": 1557589638
   },
   {
     "rank": 9,
     "id": 19886754,
     "title": "Show HN: Python Machine Learning \u2013 A Crash Course",
     "url": "https://github.com/machinelearningmindset/machine-learning-course",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "irsina",
+    "descendants": 20,
+    "time": 1557590073
   },
   {
     "rank": 10,
     "id": 19886883,
     "title": "Why CRDT didn't work out as well for collaborative editing xi-editor",
     "url": "https://github.com/xi-editor/xi-editor/issues/1187#issuecomment-491473599",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "UkiahSmith",
+    "descendants": 83,
+    "time": 1557591582
   }
 ]
