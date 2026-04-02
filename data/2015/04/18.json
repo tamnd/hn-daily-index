@@ -4,99 +4,99 @@
     "id": 9393884,
     "title": "Bloomberg Terminals Suffer Widespread Failures",
     "url": "http://www.nytimes.com/2015/04/18/business/dealbook/bloomberg-terminals-outage.html?_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 132,
+    "by": "svtrent",
+    "descendants": 66,
+    "time": 1429274393
   },
   {
     "rank": 2,
     "id": 9395540,
     "title": "Why and How I Wrote My Academic Book in Plain Text",
     "url": "http://wcm1.web.rice.edu/my-academic-book-in-plain-text.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "diodorus",
+    "descendants": 133,
+    "time": 1429289386
   },
   {
     "rank": 3,
     "id": 9396409,
     "title": "Female Chimps Seen Making, Wielding Spears",
     "url": "http://news.discovery.com/animals/female-chimps-seen-making-wielding-spears-150414.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "curtis",
+    "descendants": 99,
+    "time": 1429296942
   },
   {
     "rank": 4,
     "id": 9396694,
     "title": "A Million Lines of Bad Code",
     "url": "http://varianceexplained.org/programming/bad-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "var_explained",
+    "descendants": 121,
+    "time": 1429299533
   },
   {
     "rank": 5,
     "id": 9396950,
     "title": "The death of optimizing compilers [pdf]",
     "url": "http://cr.yp.to/talks/2015%2E04%2E16/slides-djb-20150416-a4.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "fcambus",
+    "descendants": 216,
+    "time": 1429301940
   },
   {
     "rank": 6,
     "id": 9397320,
     "title": "PEP 492 \u2013 Coroutines with async and await syntax",
     "url": "http://python.org/dev/peps/pep-0492",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "1st1",
+    "descendants": 126,
+    "time": 1429306462
   },
   {
     "rank": 7,
     "id": 9398876,
     "title": "PizzaHut still serves its first homepage",
     "url": "http://www.pizzahut.com/assets/pizzanet/home.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "narfz",
+    "descendants": 123,
+    "time": 1429351547
   },
   {
     "rank": 8,
     "id": 9399379,
     "title": "Einstein's Letter to Marie Curie (1911)",
     "url": "http://einsteinpapers.press.princeton.edu/vol8-trans/34",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "anacleto",
+    "descendants": 30,
+    "time": 1429363728
   },
   {
     "rank": 9,
     "id": 9399394,
     "title": "French Senate Backs Bid To Force Google To Disclose Search Algorithm Workings",
     "url": "http://techcrunch.com/2015/04/17/french-senate-backs-bid-to-force-google-to-disclose-search-algorithm-workings/#.dpycrz:HNHc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 140,
+    "by": "krisgenre",
+    "descendants": 216,
+    "time": 1429364049
   },
   {
     "rank": 10,
     "id": 9399517,
     "title": "Tea with strangers",
     "url": "http://www.teawithstrangers.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 181,
+    "by": "j2kun",
+    "descendants": 91,
+    "time": 1429366727
   }
 ]

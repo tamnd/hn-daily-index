@@ -4,99 +4,99 @@
     "id": 9511872,
     "title": "Microsoft Surface Hub",
     "url": "https://www.microsoft.com/microsoft-surface-hub/en-us",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "SanderMak",
+    "descendants": 117,
+    "time": 1431095148
   },
   {
     "rank": 2,
     "id": 9512360,
     "title": "Full text search in milliseconds with PostgreSQL",
     "url": "https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "maxnov",
+    "descendants": 45,
+    "time": 1431100394
   },
   {
     "rank": 3,
     "id": 9513064,
     "title": "Scroll Back: The Theory and Practice of Cameras in Side-Scrollers",
     "url": "https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "sp332",
+    "descendants": 27,
+    "time": 1431106983
   },
   {
     "rank": 4,
     "id": 9514404,
     "title": "Chile is introducing free higher education",
     "url": "http://www.attn.com/stories/836/chile-makes-college-tuition-free",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "rememberlenny",
+    "descendants": 168,
+    "time": 1431122632
   },
   {
     "rank": 5,
     "id": 9515137,
     "title": "Under the hood: Facebook\u2019s cold storage system",
     "url": "https://code.facebook.com/posts/1433093613662262/-under-the-hood-facebook-s-cold-storage-system-/?hn=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "slyall",
+    "descendants": 89,
+    "time": 1431136614
   },
   {
     "rank": 6,
     "id": 9515392,
     "title": "React JS Best Practices",
     "url": "http://blog.siftscience.com/blog/2015/react-applications-that-scale",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "lopatin",
+    "descendants": 89,
+    "time": 1431142613
   },
   {
     "rank": 7,
     "id": 9515993,
     "title": "A re-introduction to JavaScript",
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "hikz",
+    "descendants": 109,
+    "time": 1431166373
   },
   {
     "rank": 8,
     "id": 9516093,
     "title": "UN Experts Say TPP and Fast Track Threaten Human Rights",
     "url": "https://www.eff.org/deeplinks/2015/05/how-tpp-and-fast-track-threaten-human-rights",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "DiabloD3",
+    "descendants": 80,
+    "time": 1431170958
   },
   {
     "rank": 9,
     "id": 9516613,
     "title": "Computational Hydrographic Printing [video]",
     "url": "https://www.youtube.com/watch?v=YlUhPrAqiY0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "bpierre",
+    "descendants": 32,
+    "time": 1431185013
   },
   {
     "rank": 10,
     "id": 9516910,
     "title": "How to Build a Unicorn and Walk Away with Nothing",
     "url": "http://heidiroizen.tumblr.com/post/118473647305/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "whbk",
+    "descendants": 131,
+    "time": 1431190707
   }
 ]

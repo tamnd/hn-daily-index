@@ -4,99 +4,99 @@
     "id": 9824884,
     "title": "React Performance",
     "url": "https://aerotwist.com/blog/react-plus-performance-equals-what/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 145,
+    "by": "teamhappy",
+    "descendants": 89,
+    "time": 1435924172
   },
   {
     "rank": 2,
     "id": 9825738,
     "title": "The Aol Chat Room Monitor Revolt (2014)",
     "url": "http://priceonomics.com/the-aol-chat-room-monitor-revolt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 128,
+    "by": "wcummings",
+    "descendants": 65,
+    "time": 1435933431
   },
   {
     "rank": 3,
     "id": 9826867,
     "title": "Fireside Chat with Paul Graham [video]",
     "url": "https://www.youtube.com/watch?v=UWh_iAG9cGw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "rnc",
+    "descendants": 37,
+    "time": 1435945047
   },
   {
     "rank": 4,
     "id": 9828061,
     "title": "Anonymous Reddit without servers",
     "url": "http://getaether.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "vyrotek",
+    "descendants": 102,
+    "time": 1435959051
   },
   {
     "rank": 5,
     "id": 9828507,
     "title": "Dune, 50 years on",
     "url": "http://www.theguardian.com/books/2015/jul/03/dune-50-years-on-science-fiction-novel-world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "Tycho",
+    "descendants": 108,
+    "time": 1435967172
   },
   {
     "rank": 6,
     "id": 9828962,
     "title": "Show HN: Trigrad, a novel image compression with interesting results",
     "url": "http://ruarai.github.io/Trigrad/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "ruarai",
+    "descendants": 67,
+    "time": 1435978691
   },
   {
     "rank": 7,
     "id": 9829025,
     "title": "Golang data structures",
     "url": "https://github.com/Workiva/go-datastructures",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "laex",
+    "descendants": 58,
+    "time": 1435980426
   },
   {
     "rank": 8,
     "id": 9830232,
     "title": "How I\u2019d redesign piano sheet music",
     "url": "https://medium.com/@alexcouch/how-i-d-redesign-piano-sheet-music-355c4f9012f1?source=tw-a086ba56b195-1435792847059?source=tw-504c7870fdb6-1428623404341",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "cyanbane",
+    "descendants": 159,
+    "time": 1436020010
   },
   {
     "rank": 9,
     "id": 9830531,
     "title": "Show HN: Silicon Valley Dictionary \u2013 Urban Dictionary Meets Silicon Valley",
     "url": "http://svdictionary.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "kilimchoi",
+    "descendants": 49,
+    "time": 1436026018
   },
   {
     "rank": 10,
     "id": 9830675,
     "title": "Many Bitcoin wallets vulnerable to double-spending of confirmed transactions",
     "url": "https://bitcoin.org/en/alert/2015-07-04-spv-mining",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "aburan28",
+    "descendants": 44,
+    "time": 1436028006
   }
 ]

@@ -4,99 +4,99 @@
     "id": 9662335,
     "title": "RedditStorage",
     "url": "https://github.com/Rossem/RedditStorage",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "newtonapple",
+    "descendants": 166,
+    "time": 1433454292
   },
   {
     "rank": 2,
     "id": 9662338,
     "title": "Let's Encrypt Root and Intermediate Certificates",
     "url": "https://letsencrypt.org/2015/06/04/isrg-ca-certs.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "schoen",
+    "descendants": 37,
+    "time": 1433454320
   },
   {
     "rank": 3,
     "id": 9663203,
     "title": "Nobody's Going to Steal Your Idea",
     "url": "http://www.candyjapan.com/nobodys-going-to-steal-your-idea",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "bemmu",
+    "descendants": 196,
+    "time": 1433465389
   },
   {
     "rank": 4,
     "id": 9663343,
     "title": "Three months of Rust",
     "url": "http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "abecedarius",
+    "descendants": 114,
+    "time": 1433467894
   },
   {
     "rank": 5,
     "id": 9663415,
     "title": "Edward Snowden: The World Says No to Surveillance",
     "url": "http://www.nytimes.com/2015/06/05/opinion/edward-snowden-the-world-says-no-to-surveillance.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "digisth",
+    "descendants": 49,
+    "time": 1433469156
   },
   {
     "rank": 6,
     "id": 9663421,
     "title": "Steam Hardware pre-order",
     "url": "http://store.steampowered.com/hardware",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "joubert",
+    "descendants": 199,
+    "time": 1433469239
   },
   {
     "rank": 7,
     "id": 9664983,
     "title": "In Search of the Red Cross' $500M in Haiti Relief",
     "url": "http://www.npr.org/2015/06/03/411524156/in-search-of-the-red-cross-500-million-in-haiti-relief",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "juanplusjuan",
+    "descendants": 208,
+    "time": 1433506152
   },
   {
     "rank": 8,
     "id": 9665577,
     "title": "Goodbye?",
     "url": "https://news.ycombinator.com/item?id=9665577",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "throwaway_norep",
+    "descendants": 114,
+    "time": 1433513310
   },
   {
     "rank": 9,
     "id": 9665746,
     "title": "Welcome to America: Here's Your Linux Computer",
     "url": "http://opensource.com/life/15/6/five-linux-programs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "FOSSSquirrel",
+    "descendants": 105,
+    "time": 1433514947
   },
   {
     "rank": 10,
     "id": 9666013,
     "title": "Autopsy: Lessons from Failed Startups",
     "url": "http://autopsy.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "tilt",
+    "descendants": 186,
+    "time": 1433517491
   }
 ]

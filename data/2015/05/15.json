@@ -4,99 +4,99 @@
     "id": 9546382,
     "title": "A Taste of Rust",
     "url": "http://www.evanmiller.org/a-taste-of-rust.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "cp9",
+    "descendants": 80,
+    "time": 1431625021
   },
   {
     "rank": 2,
     "id": 9547125,
     "title": "In Flight",
     "url": "http://www.nytimes.com/interactive/2015/05/14/opinion/14-in-flight-mark-vanhoenacker.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "matsur",
+    "descendants": 77,
+    "time": 1431632393
   },
   {
     "rank": 3,
     "id": 9548138,
     "title": "RFC 7540 \u2013 HTTP2",
     "url": "http://www.rfc-editor.org/rfc/rfc7540.txt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "treve",
+    "descendants": 52,
+    "time": 1431645785
   },
   {
     "rank": 4,
     "id": 9548801,
     "title": "In 1962, a college student answers an ad: \u201cMortuary Assistant required\u201d",
     "url": "http://laphamsquarterly.org/roundtable/my-first-mistake",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "Petiver",
+    "descendants": 94,
+    "time": 1431659982
   },
   {
     "rank": 5,
     "id": 9548981,
     "title": "Many of the NSA\u2019s Loudest Defenders Have Financial Ties to NSA Contractors",
     "url": "https://firstlook.org/theintercept/2015/05/12/intelligence-industry-cash-flows-media-echo-chamber-defending-nsa-surveillance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "rl3",
+    "descendants": 85,
+    "time": 1431665141
   },
   {
     "rank": 6,
     "id": 9549181,
     "title": "B. B. King, Defining Bluesman for Generations, Dies at 89",
     "url": "http://www.nytimes.com/2015/05/16/arts/music/b-b-king-blues-singer-dies-at-89.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 647,
+    "by": "aaronbrethorst",
+    "descendants": 86,
+    "time": 1431671284
   },
   {
     "rank": 7,
     "id": 9549651,
     "title": "Replacing jQuery with D3",
     "url": "http://blog.webkid.io/replacing-jquery-with-d3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "chrtze",
+    "descendants": 61,
+    "time": 1431682560
   },
   {
     "rank": 8,
     "id": 9550353,
     "title": "Decoding the Enigma of Satoshi Nakamoto and the Birth of Bitcoin",
     "url": "http://www.nytimes.com/2015/05/17/business/decoding-the-enigma-of-satoshi-nakamoto-and-the-birth-of-bitcoin.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "mdelias",
+    "descendants": 156,
+    "time": 1431696101
   },
   {
     "rank": 9,
     "id": 9551378,
     "title": "JavaScript at 20",
     "url": "http://brendaneich.github.io/ModernWeb.tw-2015/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "kolodny",
+    "descendants": 315,
+    "time": 1431705055
   },
   {
     "rank": 10,
     "id": 9551937,
     "title": "Announcing Rust 1.0",
     "url": "http://blog.rust-lang.org/2015/05/15/Rust-1.0.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1363,
+    "by": "jhund",
+    "descendants": 306,
+    "time": 1431709329
   }
 ]

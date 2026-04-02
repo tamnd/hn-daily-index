@@ -4,99 +4,99 @@
     "id": 9516217,
     "title": "C\u03bbaSH \u2013 From Haskell to Hardware",
     "url": "http://www.clash-lang.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "jdmoreira",
+    "descendants": 55,
+    "time": 1431175801
   },
   {
     "rank": 2,
     "id": 9516656,
     "title": "Implementing a Virtual Machine in C",
     "url": "http://www.blog.felixangell.com/virtual-machine-in-c/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 159,
+    "by": "freefouran",
+    "descendants": 50,
+    "time": 1431185647
   },
   {
     "rank": 3,
     "id": 9516824,
     "title": "Stupid certificate tricks",
     "url": "https://rya.nc/cert-tricks.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "ryan-c",
+    "descendants": 25,
+    "time": 1431189123
   },
   {
     "rank": 4,
     "id": 9517707,
     "title": "Harvard engineering students devise BBQ smoker",
     "url": "http://www.bostonglobe.com/metro/2015/05/05/harvard-class-cooks-ultimate-bbq-smoker/0O4fLQ0rbt9qMGsllPoTjK/story.html?p1=Article_Trending_Most_Viewed#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "mhb",
+    "descendants": 55,
+    "time": 1431206095
   },
   {
     "rank": 5,
     "id": 9517892,
     "title": "Code Review Best Practices",
     "url": "http://kevinlondon.com/2015/05/05/code-review-best-practices.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "Kaedon",
+    "descendants": 92,
+    "time": 1431209587
   },
   {
     "rank": 6,
     "id": 9518601,
     "title": "Typedrummer",
     "url": "http://typedrummer.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "moritzplassnig",
+    "descendants": 126,
+    "time": 1431226518
   },
   {
     "rank": 7,
     "id": 9518870,
     "title": "Django 1.8 and Python 3: Complex app tutorial, end-to-end",
     "url": "http://www.marinamele.com/taskbuster-django-tutorial",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "dlcmh",
+    "descendants": 29,
+    "time": 1431233692
   },
   {
     "rank": 8,
     "id": 9519742,
     "title": "Whoever Is Leaking Trans-Pacific Partnership Drafts: Please Leak More",
     "url": "http://motherboard.vice.com/read/whoever-is-leaking-trans-pacific-partnership-drafts-please-leak-more",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "DiabloD3",
+    "descendants": 91,
+    "time": 1431261780
   },
   {
     "rank": 9,
     "id": 9520145,
     "title": "Git in six hundred words",
     "url": "http://maryrosecook.com/blog/post/git-in-six-hundred-words",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "monsterix",
+    "descendants": 108,
+    "time": 1431271128
   },
   {
     "rank": 10,
     "id": 9521151,
     "title": "Microsoft to stop producing Windows versions",
     "url": "http://m.bbc.com/news/technology-32658340",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "ahelwer",
+    "descendants": 312,
+    "time": 1431288949
   }
 ]

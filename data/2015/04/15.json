@@ -4,99 +4,99 @@
     "id": 9380624,
     "title": "Computer Science by Mail",
     "url": "https://neil.fraser.name/news/2015/04/13/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 151,
+    "by": "pavel_lishin",
+    "descendants": 50,
+    "time": 1429102664
   },
   {
     "rank": 2,
     "id": 9380792,
     "title": "EU Formally Accuses Google of Antitrust Violations",
     "url": "http://www.wired.com/2015/04/eu-google/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 165,
+    "by": "simas",
+    "descendants": 295,
+    "time": 1429104468
   },
   {
     "rank": 3,
     "id": 9380962,
     "title": "Yahoo in Talks to Buy Foursquare",
     "url": "http://techcrunch.com/2015/04/15/sources-yahoo-in-talks-to-buy-foursquare/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "theyeti",
+    "descendants": 83,
+    "time": 1429106166
   },
   {
     "rank": 4,
     "id": 9381315,
     "title": "How AeroPress Fans Are Hacking Their Way to a Better Cup of Coffee",
     "url": "http://www.npr.org/blogs/thesalt/2015/04/14/399337724/how-aeropress-fans-are-hacking-their-way-to-a-better-cup-of-coffee",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 123,
+    "by": "sudoscience",
+    "descendants": 122,
+    "time": 1429109438
   },
   {
     "rank": 5,
     "id": 9381792,
     "title": "Keeping Your Car Safe from Electronic Thieves",
     "url": "http://www.nytimes.com/2015/04/16/style/keeping-your-car-safe-from-electronic-thieves.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 139,
+    "by": "pzb",
+    "descendants": 102,
+    "time": 1429113239
   },
   {
     "rank": 6,
     "id": 9382055,
     "title": "PyFormat \u2013\u00a0Practical examples of old and new style string formatting",
     "url": "http://pyformat.info",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 159,
+    "by": "hgezim",
+    "descendants": 65,
+    "time": 1429114949
   },
   {
     "rank": 7,
     "id": 9382981,
     "title": "Introducing T3: Enabling Large Scale JavaScript Applications",
     "url": "https://www.box.com/blog/introducing-t3-enabling-large-scale-javascript-applications/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "mparr4",
+    "descendants": 109,
+    "time": 1429122104
   },
   {
     "rank": 8,
     "id": 9384013,
     "title": "Space X CR6 First stage landing",
     "url": "https://www.youtube.com/watch?v=rAzwuEmZcmE",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "atroyn",
+    "descendants": 199,
+    "time": 1429131097
   },
   {
     "rank": 9,
     "id": 9384538,
     "title": "GNU Hurd 0.6 released",
     "url": "http://permalink.gmane.org/gmane.os.hurd.bugs/27135",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "agumonkey",
+    "descendants": 113,
+    "time": 1429135766
   },
   {
     "rank": 10,
     "id": 9385538,
     "title": "OS X Reviewed",
     "url": "http://hypercritical.co/2015/04/15/os-x-reviewed",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "Doubleguitars",
+    "descendants": 109,
+    "time": 1429150460
   }
 ]

@@ -4,99 +4,99 @@
     "id": 9592637,
     "title": "PEP 0484 \u2013 Type Hints is accepted",
     "url": "https://www.python.org/dev/peps/pep-0484/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "ilevkivskyi",
+    "descendants": 72,
+    "time": 1432381241
   },
   {
     "rank": 2,
     "id": 9592928,
     "title": "Mastering Emacs",
     "url": "https://www.masteringemacs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "amatheus",
+    "descendants": 99,
+    "time": 1432389594
   },
   {
     "rank": 3,
     "id": 9593294,
     "title": "Rust Programming Language Book",
     "url": "https://doc.rust-lang.org/book/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "dolftax",
+    "descendants": 48,
+    "time": 1432396845
   },
   {
     "rank": 4,
     "id": 9593507,
     "title": "Silk",
     "url": "http://weavesilk.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "cdvonstinkpot",
+    "descendants": 63,
+    "time": 1432400913
   },
   {
     "rank": 5,
     "id": 9593916,
     "title": "Cryptographic Right Answers",
     "url": "https://gist.github.com/tqbf/be58d2d39690c3b366ad",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "sweis",
+    "descendants": 130,
+    "time": 1432407206
   },
   {
     "rank": 6,
     "id": 9594635,
     "title": "Organizational debt is like technical debt, but worse",
     "url": "http://steveblank.com/2015/05/19/organizational-debt-is-like-technical-debt-but-worse/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "webhat",
+    "descendants": 73,
+    "time": 1432420415
   },
   {
     "rank": 7,
     "id": 9595579,
     "title": "Rust Playground",
     "url": "http://play.rust-lang.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "dolftax",
+    "descendants": 42,
+    "time": 1432452061
   },
   {
     "rank": 8,
     "id": 9596160,
     "title": "John Nash Has Died",
     "url": "http://www.nj.com/middlesex/index.ssf/2015/05/famed_a_beautiful_mind_mathematician_wife_killed_in_taxi_crash_police_say.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1282,
+    "by": "rcina",
+    "descendants": 249,
+    "time": 1432474072
   },
   {
     "rank": 9,
     "id": 9596268,
     "title": "John Nash's letters to the NSA (1955) [pdf]",
     "url": "https://www.nsa.gov/public_info/_files/nash_letters/nash_letters1.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "jonbaer",
+    "descendants": 47,
+    "time": 1432476246
   },
   {
     "rank": 10,
     "id": 9596688,
     "title": "The responsibility we have as software engineers",
     "url": "http://benlog.com/2015/05/23/the-responsibility-we-have-as-software-engineers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "ingve",
+    "descendants": 130,
+    "time": 1432485036
   }
 ]

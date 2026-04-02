@@ -4,99 +4,99 @@
     "id": 9560708,
     "title": "Learning C with gdb",
     "url": "https://www.recurse.com/blog/5-learning-c-with-gdb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "luu",
+    "descendants": 24,
+    "time": 1431881792
   },
   {
     "rank": 2,
     "id": 9560839,
     "title": "Elliptic Curve Cryptography: a gentle introduction",
     "url": "http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "onestone",
+    "descendants": 38,
+    "time": 1431883736
   },
   {
     "rank": 3,
     "id": 9561920,
     "title": "About the supposed factoring of a 4096 bit RSA key",
     "url": "https://blog.hboeck.de/archives/872-About-the-supposed-factoring-of-a-4096-bit-RSA-key.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "hachiya",
+    "descendants": 33,
+    "time": 1431900751
   },
   {
     "rank": 4,
     "id": 9562379,
     "title": "Top data mining algorithms in plain English",
     "url": "http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "Rexxar",
+    "descendants": 22,
+    "time": 1431909867
   },
   {
     "rank": 5,
     "id": 9563529,
     "title": "What one may find in robots.txt",
     "url": "http://xn--thibaud-dya.fr/robots.txt.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "cellover",
+    "descendants": 122,
+    "time": 1431942970
   },
   {
     "rank": 6,
     "id": 9564122,
     "title": "Introducing Preemptible VMs",
     "url": "http://googlecloudplatform.blogspot.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "boulos",
+    "descendants": 94,
+    "time": 1431953905
   },
   {
     "rank": 7,
     "id": 9564187,
     "title": "CEO Wanted University Scientists Dismissed Over Link Between Fracking and Quakes",
     "url": "http://www.bloomberg.com/news/articles/2015-05-15/oil-tycoon-harold-hamm-wanted-scientists-dismissed-dean-s-e-mail-says",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "CapitalistCartr",
+    "descendants": 52,
+    "time": 1431954651
   },
   {
     "rank": 8,
     "id": 9564281,
     "title": "Thoughtcrime",
     "url": "http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "panarky",
+    "descendants": 257,
+    "time": 1431955949
   },
   {
     "rank": 9,
     "id": 9565891,
     "title": "Deus Ex: Human Revolution \u2013 Graphics Study",
     "url": "http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "epsylon",
+    "descendants": 120,
+    "time": 1431971978
   },
   {
     "rank": 10,
     "id": 9566441,
     "title": "Fish shell",
     "url": "http://fishshell.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "Aloha",
+    "descendants": 182,
+    "time": 1431978132
   }
 ]

@@ -4,99 +4,99 @@
     "id": 9698785,
     "title": "Computer scientists prove that a 40-year-old algorithm is optimal",
     "url": "http://newsoffice.mit.edu/2015/algorithm-genome-best-possible-0610",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "kercker",
+    "descendants": 63,
+    "time": 1434018755
   },
   {
     "rank": 2,
     "id": 9699065,
     "title": "Creating a language using only assembly language",
     "url": "https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "nineties",
+    "descendants": 65,
+    "time": 1434023838
   },
   {
     "rank": 3,
     "id": 9700126,
     "title": "Experimental Dependency Vendoring in Go 1.5",
     "url": "https://groups.google.com/forum/#!msg/golang-dev/74zjMON9glU/4lWCRDCRZg0J",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "NateDad",
+    "descendants": 47,
+    "time": 1434035083
   },
   {
     "rank": 4,
     "id": 9703384,
     "title": "Inverting Binary Trees Considered Harmful",
     "url": "http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "lackbeard",
+    "descendants": 216,
+    "time": 1434070362
   },
   {
     "rank": 5,
     "id": 9703480,
     "title": "Snowden Document Search",
     "url": "https://search.edwardsnowden.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "sinak",
+    "descendants": 84,
+    "time": 1434072126
   },
   {
     "rank": 6,
     "id": 9704698,
     "title": "European Parliament TTIP vote postponed \u2018because of huge public pressure\u2019",
     "url": "http://www.eureporter.co/frontpage/2015/06/10/european-parliament-ttip-vote-cancelled-because-of-huge-public-pressure-say-green-meps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "walterbell",
+    "descendants": 109,
+    "time": 1434098876
   },
   {
     "rank": 7,
     "id": 9704952,
     "title": "\u201cAn ISP in Asia is leaking routes to a Tier 1 transit provider\u201d",
     "url": "https://www.cloudflarestatus.com/incidents/bzknm1t91kjq",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "nothingbutslide",
+    "descendants": 100,
+    "time": 1434104178
   },
   {
     "rank": 8,
     "id": 9705446,
     "title": "Show HN: Retroospect \u2013 How was your work week?",
     "url": "http://www.retroospect.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "hunglee2",
+    "descendants": 112,
+    "time": 1434112676
   },
   {
     "rank": 9,
     "id": 9705830,
     "title": "1980s computer controls Grand Rapids Public School heat and AC",
     "url": "http://woodtv.com/2015/06/11/1980s-computer-controls-grps-heat-and-ac/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "ScottWRobinson",
+    "descendants": 264,
+    "time": 1434117210
   },
   {
     "rank": 10,
     "id": 9707170,
     "title": "Let's Encrypt Overview",
     "url": "http://www.cryptologie.net/article/274/lets-encrypt-overview/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "baby",
+    "descendants": 114,
+    "time": 1434128803
   }
 ]

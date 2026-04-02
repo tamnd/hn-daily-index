@@ -4,99 +4,99 @@
     "id": 9665204,
     "title": "Using Protobuf instead of JSON to communicate with a front end",
     "url": "https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "teh",
+    "descendants": 95,
+    "time": 1433509267
   },
   {
     "rank": 2,
     "id": 9666194,
     "title": "GiveDirectly Gives Poor People a Year's Income",
     "url": "http://www.huffingtonpost.com/2015/06/04/givedirectly-cash-transfers_n_7339040.html?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "bcx",
+    "descendants": 128,
+    "time": 1433519483
   },
   {
     "rank": 3,
     "id": 9666701,
     "title": "Visual Studio Online Supports Cross-Platform Development",
     "url": "http://blogs.msdn.com/b/visualstudioalm/archive/2015/06/05/visual-studio-online-supports-true-cross_2d00_platform-development-_2200_team-explorer-everywhere_2200_-tee-jenkins-git-xcode-mac-tfs-vso-_2200_visual-studio-online_2200_.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "dstaheli",
+    "descendants": 151,
+    "time": 1433525009
   },
   {
     "rank": 4,
     "id": 9667809,
     "title": "Firefox Bugzilla: Remove Pocket Integration",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1172126",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "toggle",
+    "descendants": 183,
+    "time": 1433534996
   },
   {
     "rank": 5,
     "id": 9668302,
     "title": "A year with Go",
     "url": "http://vagabond.github.io/rants/2015/06/05/a-year-with-go/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "FraaJad",
+    "descendants": 222,
+    "time": 1433539823
   },
   {
     "rank": 6,
     "id": 9669166,
     "title": "Crystal Language",
     "url": "http://crystal-lang.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "necrodome",
+    "descendants": 171,
+    "time": 1433553103
   },
   {
     "rank": 7,
     "id": 9670093,
     "title": "The real scars of Korean gaming",
     "url": "http://www.bbc.com/news/technology-32996009",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 124,
+    "by": "schrofer",
+    "descendants": 101,
+    "time": 1433577829
   },
   {
     "rank": 8,
     "id": 9670325,
     "title": "TTIP explained: The secretive US-EU treaty that undermines democracy",
     "url": "http://arstechnica.co.uk/tech-policy/2015/05/ttip-explained-the-secretive-us-eu-treaty-that-undermines-democracy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "walterbell",
+    "descendants": 117,
+    "time": 1433586092
   },
   {
     "rank": 9,
     "id": 9670785,
     "title": "Winners of the 7th Underhanded C Contest",
     "url": "http://www.underhanded-c.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "vezzy-fnord",
+    "descendants": 44,
+    "time": 1433598516
   },
   {
     "rank": 10,
     "id": 9671398,
     "title": "Java: Real or Not?",
     "url": "http://java.metagno.me/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "mechazawa",
+    "descendants": 66,
+    "time": 1433609399
   }
 ]

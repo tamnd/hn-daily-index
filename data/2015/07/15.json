@@ -4,99 +4,99 @@
     "id": 9884915,
     "title": "Interview: Larry Wall",
     "url": "http://www.linuxvoice.com/interview-larry-wall/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "mksaunders",
+    "descendants": 102,
+    "time": 1436882409
   },
   {
     "rank": 2,
     "id": 9886640,
     "title": "How Big is Space?",
     "url": "http://www.bbc.com/future/bespoke/20140304-how-big-is-space-interactive/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "jonathansizz",
+    "descendants": 90,
+    "time": 1436895613
   },
   {
     "rank": 3,
     "id": 9886817,
     "title": "Outlier Detection at Netflix",
     "url": "http://techblog.netflix.com/2015/07/tracking-down-villains-outlier.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "diab0lic",
+    "descendants": 62,
+    "time": 1436896930
   },
   {
     "rank": 4,
     "id": 9888442,
     "title": "Banks Forgot Who Was Supposed to Own Dell Shares",
     "url": "http://www.bloombergview.com/articles/2015-07-14/banks-forgot-who-was-supposed-to-own-dell-shares",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "dsri",
+    "descendants": 104,
+    "time": 1436912189
   },
   {
     "rank": 5,
     "id": 9889152,
     "title": "New Horizons phones home",
     "url": "http://www.bbc.com/news/science-environment-33531811",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "aestetix",
+    "descendants": 91,
+    "time": 1436922689
   },
   {
     "rank": 6,
     "id": 9890188,
     "title": "The anatomy of a credit card form",
     "url": "https://medium.com/user-experience-design-1/the-anatomy-of-a-credit-card-payment-form-32ec0e5708bb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "cellover",
+    "descendants": 124,
+    "time": 1436946002
   },
   {
     "rank": 7,
     "id": 9890824,
     "title": "Thanks Pivotal, Hello Redis Labs",
     "url": "http://antirez.com/news/91",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "djanowski",
+    "descendants": 36,
+    "time": 1436961402
   },
   {
     "rank": 8,
     "id": 9891705,
     "title": "Keybase raises $10.8M",
     "url": "https://keybase.io/blog/2015-07-15/keybase-raises-series-a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "doppp",
+    "descendants": 122,
+    "time": 1436973351
   },
   {
     "rank": 9,
     "id": 9892810,
     "title": "Vim's 400 line function to wait for keyboard input",
     "url": "http://geoff.greer.fm/vim/#realwaitforchar",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "shubhamjain",
+    "descendants": 231,
+    "time": 1436982012
   },
   {
     "rank": 10,
     "id": 9893412,
     "title": "The Icy Mountains of Pluto",
     "url": "https://www.nasa.gov/image-feature/the-icy-mountains-of-pluto",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 591,
+    "by": "Thorondor",
+    "descendants": 136,
+    "time": 1436987690
   }
 ]

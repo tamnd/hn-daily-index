@@ -4,99 +4,99 @@
     "id": 9924276,
     "title": "How we took our tests from 100 seconds to 100ms",
     "url": "http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "kevinburke",
+    "descendants": 115,
+    "time": 1437501224
   },
   {
     "rank": 2,
     "id": 9925440,
     "title": "Examining Microsoft Edge Browser Performance",
     "url": "http://www.anandtech.com/show/9458/examining-microsoft-edge-browser-performance",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "dwgirvan",
+    "descendants": 135,
+    "time": 1437509799
   },
   {
     "rank": 3,
     "id": 9926478,
     "title": "Isolated people in Sweden only stopped using runes 100 years ago",
     "url": "http://sciencenordic.com/isolated-people-sweden-only-stopped-using-runes-100-years-ago",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "curtis",
+    "descendants": 64,
+    "time": 1437519550
   },
   {
     "rank": 4,
     "id": 9927219,
     "title": "Career Advice for Engineers and Designers",
     "url": "http://www.breakoutcareers.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "sinak",
+    "descendants": 64,
+    "time": 1437529322
   },
   {
     "rank": 5,
     "id": 9927771,
     "title": "PostgREST \u2013 REST API from any PostgreSQL database",
     "url": "https://github.com/begriffs/postgrest",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "cdjk",
+    "descendants": 204,
+    "time": 1437540121
   },
   {
     "rank": 6,
     "id": 9928036,
     "title": "Sandra Bland arrest video has continuity problems, anomalies",
     "url": "http://www.latimes.com/nation/nationnow/la-na-nn-sandra-bland-footage-20150721-htmlstory.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "lisper",
+    "descendants": 318,
+    "time": 1437546672
   },
   {
     "rank": 7,
     "id": 9929719,
     "title": "Sell it or run it, there is no middle ground",
     "url": "http://jacquesmattheij.com/sell-it-or-run-it-there-is-no-middle-ground",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "jacquesm",
+    "descendants": 146,
+    "time": 1437574245
   },
   {
     "rank": 8,
     "id": 9930097,
     "title": "F21 Thread Screen",
     "url": "http://f21threadscreen.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "s0rce",
+    "descendants": 68,
+    "time": 1437578273
   },
   {
     "rank": 9,
     "id": 9930399,
     "title": "JRuby 9000 released",
     "url": "http://blog.jruby.org/2015/07/jruby_9000/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "headius",
+    "descendants": 117,
+    "time": 1437580868
   },
   {
     "rank": 10,
     "id": 9931121,
     "title": "Pro Rata",
     "url": "http://blog.ycombinator.com/pro-rata",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "craigkerstiens",
+    "descendants": 102,
+    "time": 1437587125
   }
 ]

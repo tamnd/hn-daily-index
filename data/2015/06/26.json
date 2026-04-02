@@ -4,99 +4,99 @@
     "id": 9781333,
     "title": "Quake in your browser",
     "url": "http://webquake.quaddicted.com/Client/WebQuake.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "highCs",
+    "descendants": 66,
+    "time": 1435271568
   },
   {
     "rank": 2,
     "id": 9781977,
     "title": "Uber's Original Blog and First Posts",
     "url": "http://uberexpansion.com/flashback-original-uber-blog/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "UberEstimate",
+    "descendants": 75,
+    "time": 1435281334
   },
   {
     "rank": 3,
     "id": 9782083,
     "title": "Tell HN: Entrepreneurs, make sure you are getting guaranteed wins in life",
     "url": "https://news.ycombinator.com/item?id=9782083",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "hoodoof",
+    "descendants": 78,
+    "time": 1435283755
   },
   {
     "rank": 4,
     "id": 9782368,
     "title": "LLVM merges SafeStack",
     "url": "https://github.com/llvm-mirror/llvm/commit/7ffec838a2b72e6841d9fb993b5fe6a45f3b2a90",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "theraven",
+    "descendants": 79,
+    "time": 1435290225
   },
   {
     "rank": 5,
     "id": 9782537,
     "title": "Life paint",
     "url": "http://www.volvolifepaint.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "erbdex",
+    "descendants": 156,
+    "time": 1435293857
   },
   {
     "rank": 6,
     "id": 9784008,
     "title": "Ask HN: How do you familiarize yourself with a new codebase?",
     "url": "https://news.ycombinator.com/item?id=9784008",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "roflc0ptic",
+    "descendants": 238,
+    "time": 1435324027
   },
   {
     "rank": 7,
     "id": 9784247,
     "title": "Fighting spam with Haskell",
     "url": "https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "vamega",
+    "descendants": 93,
+    "time": 1435326296
   },
   {
     "rank": 8,
     "id": 9784470,
     "title": "Same-Sex Marriage Is a Right, Supreme Court Rules",
     "url": "http://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html?emc=edit_na_20150626&nlid=63565976&ref=headline&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1905,
+    "by": "_hv99",
+    "descendants": 1215,
+    "time": 1435328035
   },
   {
     "rank": 9,
     "id": 9785944,
     "title": "Running Lisp in Production",
     "url": "http://tech.grammarly.com/blog/posts/Running-Lisp-in-Production.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "f00biebletch",
+    "descendants": 114,
+    "time": 1435337166
   },
   {
     "rank": 10,
     "id": 9786642,
     "title": "How side projects saved our startup",
     "url": "https://blog.crew.co/how-side-projects-saved-our-startup",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "rmason",
+    "descendants": 43,
+    "time": 1435342502
   }
 ]
