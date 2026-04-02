@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 8699178,
+    "title": "Write the Docs",
+    "url": "http://docs.writethedocs.org",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 8700136,
+    "title": "Julian Assange on Living in a Surveillance Society",
+    "url": "http://www.nytimes.com/2014/12/04/opinion/julian-assange-on-living-in-a-surveillance-society.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 8700258,
+    "title": "Pg_shard \u2013\u00a0PostgreSQL extension to scale out real-time reads and writes",
+    "url": "https://github.com/citusdata/pg_shard",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 8701114,
+    "title": "Steve Wozniak remembers the early days [video]",
+    "url": "http://www.bloomberg.com/video/steve-wozniak-on-steve-jobs-geekiness-and-starting-apple-GVS_jUoTQtGYj9fwLg8dbQ.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 8701852,
+    "title": "Introducing .NET Core",
+    "url": "http://blogs.msdn.com/b/dotnet/archive/2014/12/04/introducing-net-core.aspx",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 8702516,
+    "title": "Firefox for iOS on GitHub",
+    "url": "https://github.com/mozilla/firefox-ios",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 8703152,
+    "title": "Lyft for Work",
+    "url": "https://www.lyft.com/work",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 8704303,
+    "title": "Freelancing: How to talk yourself into charging more",
+    "url": "http://andyadams.org/you-can-charge-more/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 8704629,
+    "title": "BPG Image format",
+    "url": "http://bellard.org/bpg/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 8704659,
+    "title": "Node.js, a popular tool for building modern internet services, has split in two",
+    "url": "http://www.wired.com/2014/12/io-js/?hn",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

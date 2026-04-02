@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 8340283,
+    "title": "Announcing PilMCU, the Lisp Machine on a Chip",
+    "url": "http://www.mail-archive.com/picolisp@software-lab.de/msg04823.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 8340731,
+    "title": "mdp \u2013 A command-line based markdown presentation tool",
+    "url": "https://github.com/visit1985/mdp",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 8341799,
+    "title": "What Coke Contains (2013)",
+    "url": "https://medium.com/@kevin_ashton/what-coke-contains-221d449929ef",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 8341842,
+    "title": "Node.js Best Practices",
+    "url": "https://www.joyent.com/developers/node/design",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 8342718,
+    "title": "\u201cTransducers\u201d by Rich Hickey at Strange Loop [video]",
+    "url": "https://www.youtube.com/watch?v=6mTbuzafcII",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 8343469,
+    "title": "sshrc \u2013 make your ssh sessions feel like home",
+    "url": "https://github.com/Russell91/sshrc/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 8343884,
+    "title": "Rust lifetimes: Getting away with things that would be reckless in C++",
+    "url": "http://www.randomhacks.net/2014/09/19/rust-lifetimes-reckless-cxx/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 8344049,
+    "title": "JavaScript is a trademark owned by Oracle",
+    "url": "http://tsdr.uspto.gov/#caseNumber=75026640&amp;caseType=SERIAL_NO&amp;searchType=statusSearch",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 8344330,
+    "title": "Tim Berners Lee slams Internet fast lanes: \u2018It\u2019s bribery.\u2019",
+    "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/19/world-wide-web-inventor-lashes-out-at-internet-fast-lanes-its-bribery/?tid=rssfeed",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 8344355,
+    "title": "FBI and Secret Service Files: Aaron Swartz",
+    "url": "http://www.theblackvault.com/m/articles/view/Aaron-Swartz",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

@@ -2,6 +2,10 @@
 
 Top 10 Hacker News stories for each day in August 2014.
 
+- [2014-08-31 (Sunday)](#2014-08-31)
+- [2014-08-30 (Saturday)](#2014-08-30)
+- [2014-08-29 (Friday)](#2014-08-29)
+- [2014-08-28 (Thursday)](#2014-08-28)
 - [2014-08-27 (Wednesday)](#2014-08-27)
 - [2014-08-26 (Tuesday)](#2014-08-26)
 - [2014-08-25 (Monday)](#2014-08-25)
@@ -31,6 +35,66 @@ Top 10 Hacker News stories for each day in August 2014.
 - [2014-08-01 (Friday)](#2014-08-01)
 
 ---
+
+## 2014-08-31
+
+*Sunday*
+
+1. [Say hello to x64 Assembly, part 1](http://0xax.blogspot.com/2014/08/say-hello-to-x64-assembly-part-1.html) (0xax.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8245581)
+2. [We're building the GNU system [pdf]](http://git.savannah.gnu.org/cgit/guix/maintenance.git/plain/talks/ghm-2014/guix-ghm-2014.20140815.pdf) (git.savannah.gnu.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8246029)
+3. [Kitematic – The easiest way to start using Docker on your Mac](http://kitematic.com/) (kitematic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8246240)
+4. [Psychedelics in problem-solving experiment](https://en.wikipedia.org/wiki/Psychedelics_in_problem-solving_experiment) (en.wikipedia.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8247132)
+5. [A React.js case study](http://blog.krawaller.se/posts/a-react-js-case-study/) (blog.krawaller.se) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8247223)
+6. [Man builds 3D printed concrete castle in his own backyard](http://www.3ders.org/articles/20140826-minnesotan-world-first-3d-printed-concrete-castle-in-his-own-backyard.html) (3ders.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8247731)
+7. [Atreus: My Custom Keyboard](http://blog.mattgauger.com/blog/2014/08/19/atreus-my-custom-keyboard/) (blog.mattgauger.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8247803)
+8. [The Road Ahead](http://www.anandtech.com/show/8456/the-road-ahead) (anandtech.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8247911)
+9. [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/) (code-experience.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8248536)
+10. [FTP Server at LSUHealth New Orleans](http://samsclass.info/125/proj11/conway.htm) (samsclass.info) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8248864)
+
+## 2014-08-30
+
+*Saturday*
+
+1. [Coinbase Insured](http://blog.coinbase.com/post/95927658922/coinbase-insured) (blog.coinbase.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8243131)
+2. [Leading Anti-Marijuana Academics Are Paid by Painkiller Drug Companies](http://www.vice.com/en_uk/read/leading-anti-marijuana-academics-are-paid-by-painkiller-drug-companies) (vice.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8244022)
+3. [Show HN: Chan – pure C implementation of Go channels](https://github.com/tylertreat/chan) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8244815)
+4. [Intel Unleashes Its First 8-Core Desktop Processor](http://newsroom.intel.com/community/intel_newsroom/blog/2014/08/29/intel-unleashes-its-first-8-core-desktop-processor?utm_source=twitterfeed&amp;utm_medium=twitter) (newsroom.intel.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8244930)
+5. [States with Medical Marijuana Have Fewer Painkiller Deaths](http://www.smithsonianmag.com/smart-news/states-medical-marijuana-have-fewer-painkiller-deaths-180952552/?no-ist) (smithsonianmag.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8245373)
+6. [Facebook's std::vector optimization](https://github.com/facebook/folly/blob/master/folly/docs/FBVector.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8245855)
+7. [US cable giants calls on FCC to block cities' expansion of high-speed internet](http://www.theguardian.com/business/2014/aug/29/us-telecoms-fcc-block-high-speed-internet-chattanooga) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8245907)
+8. [Show HN: Restore tmux environment after a system restart](https://github.com/tmux-plugins/tmux-resurrect) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8246218)
+9. [Ask HN: How to start earning $500/month in passive income in next 12-18 months?](http://news.ycombinator.com/item?id=8246255) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8246255)
+10. [Microsoft Defies Court Order, Will Not Give Emails to US Government](http://windowsitpro.com/paul-thurrotts-wininfo/microsoft-defies-court-order-will-not-give-emails-us-government) (windowsitpro.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8246956)
+
+## 2014-08-29
+
+*Friday*
+
+1. [Minting Money with Monero and CPU Vector Intrinsics](http://da-data.blogspot.com/2014/08/minting-money-with-monero-and-cpu.html) (da-data.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8238133)
+2. [Coffee naps are better than coffee or naps alone](http://www.vox.com/2014/8/28/6074177/coffee-naps-caffeine-science) (vox.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8239251)
+3. [Hal Finney: Bitcoin and me (2013)](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833) (bitcointalk.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8239585)
+4. [Inside Google’s Drone-Delivery Program](http://www.theatlantic.com/technology/archive/2014/08/inside-googles-secret-drone-delivery-program/379306/?single_page=true) (theatlantic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8240088)
+5. [Readings in Databases](http://rxin.github.io/db-readings/) (rxin.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8240176)
+6. [At Multiverse Impasse, a New Theory of Scale](http://www.simonsfoundation.org/quanta/20140818-at-multiverse-impasse-a-new-theory-of-scale/) (simonsfoundation.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8241376)
+7. [Chartist – Simple responsive charts](http://gionkunz.github.io/chartist-js/) (gionkunz.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8242073)
+8. [Submarine Cable Map 2014](http://submarine-cable-map-2014.telegeography.com/#) (submarine-cable-map-2014.telegeography.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8242448)
+9. [Conrod – A Rust GUI Library](http://blog.piston.rs/2014/08/30/conrod-update/) (blog.piston.rs) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8243277)
+10. [Yahoo stopping all new development of YUI](http://yahooeng.tumblr.com/post/96098168666/important-announcement-regarding-yui) (yahooeng.tumblr.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8243523)
+
+## 2014-08-28
+
+*Thursday*
+
+1. [The Technology Behind Hyperlapse from Instagram](http://instagram-engineering.tumblr.com/post/95922900787/hyperlapse) (instagram-engineering.tumblr.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8233291)
+2. [What happened to Motorola](http://www.chicagomag.com/Chicago-Magazine/September-2014/What-Happened-to-Motorola/) (chicagomag.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8233479)
+3. [Proposal for a Friendly Dialect of C](http://blog.regehr.org/archives/1180) (blog.regehr.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8233484)
+4. [How to walk through walls using the 4th dimension [video]](http://marctenbosch.com/news/2014/08/new-trailer-how-to-walk-through-walls-using-the-fourth-dimension/) (marctenbosch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8233732)
+5. [Google's end-to-end key distribution proposal](https://code.google.com/p/end-to-end/wiki/KeyDistribution) (code.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8235449)
+6. [The executive order that led to mass spying, as told by NSA alumni](http://arstechnica.com/tech-policy/2014/08/a-twisted-history-how-a-reagan-era-executive-order-led-to-mass-spying/) (arstechnica.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8235561)
+7. [Myths About Working as an Engineer at a Startup](http://karllhughes.com/2014/myths-working-engineer-startup/) (karllhughes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8237020)
+8. [With $30M More in Hand, IFTTT Looks to the Internet of Things](http://bits.blogs.nytimes.com/2014/08/28/with-30-million-more-in-hand-ifttt-looks-to-the-internet-of-things/) (bits.blogs.nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8237952)
+9. [Citymapper is what happens when you understand user experience](https://medium.com/@zmh/bye-google-maps-ea3ea10f84dc) (medium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8238260)
+10. [Hal Finney being cryopreserved now](http://lists.extropy.org/pipermail/extropy-chat/2014-August/082585.html) (lists.extropy.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=8239129)
 
 ## 2014-08-27
 

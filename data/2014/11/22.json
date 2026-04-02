@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 8641004,
+    "title": "The Next Chapter",
+    "url": "http://blog.aereo.com/2014/11/next-chapter/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 8642035,
+    "title": "Representing Trees in PostgreSQL",
+    "url": "http://woss.name/articles/representing-trees-in-postgresql/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 8642988,
+    "title": "The Algorithm Design Manual",
+    "url": "http://www.algorist.com/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 8643428,
+    "title": "Why I do not want to work at Google (2011)",
+    "url": "https://www.mail-archive.com/kragen-tol@canonical.org/msg00268.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 8644080,
+    "title": "Rides of Glory \u2013 Uber Blog (2012)",
+    "url": "https://web.archive.org/web/20140827195715/http://blog.uber.com/ridesofglory",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 8644175,
+    "title": "How to reward skilled coders with something other than people management",
+    "url": "http://lizthedeveloper.com/how-to-reward-skilled-coders-with-something-other-than-people-management",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 8645188,
+    "title": "FreeBSD: the next 10 years",
+    "url": "http://www.slideshare.net/iXsystems/jordan-hubbard-free-bsd-the-next-10-years",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 8645287,
+    "title": "Reduction in Garbage Collection Pause Time in Ruby 2.2",
+    "url": "https://www.omniref.com/blog/blog/2014/11/18/ko1-at-rubyconf-2014-massive-garbage-collection-speedup-in-ruby-2-dot-2/?hn=1",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 8645443,
+    "title": "Ask HN: Can we talk about FreeBSD vs. Linux?",
+    "url": "http://news.ycombinator.com/item?id=8645443",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 8645504,
+    "title": "Quantum OS - OS based on Linux which conforms to Material Design guidelines",
+    "url": "http://quantum-os.github.io/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 8678336,
+    "title": "Nobody expects CDATA sections in XML",
+    "url": "http://lcamtuf.blogspot.com/2014/11/afl-fuzz-nobody-expects-cdata-sections.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 8678718,
+    "title": "Great Works in Programming Languages",
+    "url": "http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 8679245,
+    "title": "The State of JavaScript in 2015",
+    "url": "http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 8679820,
+    "title": "Speeding up Rails 4.2",
+    "url": "http://samsaffron.com/archive/2014/12/01/speeding-up-rails-4-2",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 8680177,
+    "title": "From hacker to hospice in seven weeks",
+    "url": "http://www.benjamincburns.com/2014/11/30/from-hacker-to-hospice-in-seven-weeks.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 8680598,
+    "title": "Django REST framework 3.0",
+    "url": "http://www.django-rest-framework.org/topics/3.0-announcement/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 8681040,
+    "title": "Ask HN: Who is hiring? (December 2014)",
+    "url": "http://news.ycombinator.com/item?id=8681040",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 8682525,
+    "title": "CoreOS is building a container runtime, Rocket",
+    "url": "https://coreos.com/blog/rocket/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 8683003,
+    "title": "\u201cInvalid username or password\u201d is a useless security measure",
+    "url": "https://kev.inburke.com/kevin/invalid-username-or-password-useless/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 8683827,
+    "title": "The Case for Slow Programming",
+    "url": "http://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
