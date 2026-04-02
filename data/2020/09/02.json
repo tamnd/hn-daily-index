@@ -4,99 +4,99 @@
     "id": 24342498,
     "title": "Ask HN: Who is hiring? (September 2020)",
     "url": "https://news.ycombinator.com/item?id=24342498",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "whoishiring",
+    "descendants": 697,
+    "time": 1598972474
   },
   {
     "rank": 2,
     "id": 24342540,
     "title": "Amazon drivers are hanging smartphones in trees to get more work",
     "url": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "Umofomia",
+    "descendants": 241,
+    "time": 1598972626
   },
   {
     "rank": 3,
     "id": 24343572,
     "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
     "url": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "KoftaBob",
+    "descendants": 562,
+    "time": 1598978015
   },
   {
     "rank": 4,
     "id": 24345035,
     "title": "Bottlerocket, an open source Linux distribution built to run containers",
     "url": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "sshroot",
+    "descendants": 129,
+    "time": 1598984671
   },
   {
     "rank": 5,
     "id": 24350647,
     "title": "Lesser-known Web APIs",
     "url": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "Sandeepg33k",
+    "descendants": 128,
+    "time": 1599029049
   },
   {
     "rank": 6,
     "id": 24351073,
     "title": "Most-favorited Hacker News posts",
     "url": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1266,
+    "by": "tlarkworthy",
+    "descendants": 259,
+    "time": 1599034054
   },
   {
     "rank": 7,
     "id": 24353003,
     "title": "Police-issued \\\"courtesy cards\\\" help friends and family out of minor infractions",
     "url": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 608,
+    "by": "danso",
+    "descendants": 435,
+    "time": 1599053427
   },
   {
     "rank": 8,
     "id": 24353686,
     "title": "Supercomputer analysis of Covid-19 leads to new theory",
     "url": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "mvgoogler",
+    "descendants": 147,
+    "time": 1599057374
   },
   {
     "rank": 9,
     "id": 24354265,
     "title": "Russia opposition leader poisoned with Novichok",
     "url": "https://www.bbc.com/news/world-europe-54002880",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 515,
+    "by": "amai",
+    "descendants": 306,
+    "time": 1599061159
   },
   {
     "rank": 10,
     "id": 24356741,
     "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
     "url": "https://news.yahoo.com/court-rules-nsa-phone-snooping-181157311.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1722,
+    "by": "AndrewBissell",
+    "descendants": 472,
+    "time": 1599073943
   }
 ]

@@ -4,99 +4,99 @@
     "id": 24431975,
     "title": "TikTok reveals details of how its algorithm works",
     "url": "https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "0xedb",
+    "descendants": 185,
+    "time": 1599743390
   },
   {
     "rank": 2,
     "id": 24432461,
     "title": "What Clojure Spec is and what you can do with it",
     "url": "https://www.pixelated-noise.com/blog/2020/09/10/what-spec-is/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "icey",
+    "descendants": 63,
+    "time": 1599746697
   },
   {
     "rank": 3,
     "id": 24432930,
     "title": "Analog Terminal Bell",
     "url": "http://analogterminalbell.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "tenderlove",
+    "descendants": 62,
+    "time": 1599749890
   },
   {
     "rank": 4,
     "id": 24435454,
     "title": "How Do Routers Work, Really?",
     "url": "https://kamila.is//teaching/how-routers-work/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "turingbook",
+    "descendants": 98,
+    "time": 1599764418
   },
   {
     "rank": 5,
     "id": 24437459,
     "title": "LLVM merges machine function splitter for reduction in TLB misses",
     "url": "https://lists.llvm.org/pipermail/llvm-dev/2020-August/144012.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "lelf",
+    "descendants": 106,
+    "time": 1599778759
   },
   {
     "rank": 6,
     "id": 24437715,
     "title": "How I operated as a staff engineer at Heroku",
     "url": "http://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "craigkerstiens",
+    "descendants": 84,
+    "time": 1599780754
   },
   {
     "rank": 7,
     "id": 24438129,
     "title": "Let employees sell their equity",
     "url": "https://kevin.burke.dev/kevin/let-employees-sell-equity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "craigkerstiens",
+    "descendants": 276,
+    "time": 1599785510
   },
   {
     "rank": 8,
     "id": 24439744,
     "title": "Minitel: The Online World France Built Before the Web (2017)",
     "url": "https://spectrum.ieee.org/tech-history/cyberspace/minitel-the-online-world-france-built-before-the-web",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "abixb",
+    "descendants": 196,
+    "time": 1599805731
   },
   {
     "rank": 9,
     "id": 24444497,
     "title": "Security by obscurity is underrated",
     "url": "https://utkusen.com/blog/security-by-obscurity-is-underrated.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 939,
+    "by": "goranmoomin",
+    "descendants": 510,
+    "time": 1599842072
   },
   {
     "rank": 10,
     "id": 24445936,
     "title": "Apple: Apps should not require users to opt into tracking to access content",
     "url": "https://developer.apple.com/app-store/review/guidelines/#unacceptable",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "Nextgrid",
+    "descendants": 259,
+    "time": 1599849509
   }
 ]
