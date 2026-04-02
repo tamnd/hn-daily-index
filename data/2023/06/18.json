@@ -4,99 +4,99 @@
     "id": 36372284,
     "title": "GB Studio: Drag and drop retro game creator for GameBoy",
     "url": "https://www.gbstudio.dev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "CharlesW",
+    "descendants": 48,
+    "time": 1687022797
   },
   {
     "rank": 2,
     "id": 36373190,
     "title": "Bullshit Jobs (2018)",
     "url": "https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "TotalCrackpot",
+    "descendants": 391,
+    "time": 1687027565
   },
   {
     "rank": 3,
     "id": 36374936,
     "title": "The Secret Sauce behind 100K context window in LLMs: all tricks in one place",
     "url": "https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "T-A",
+    "descendants": 99,
+    "time": 1687038033
   },
   {
     "rank": 4,
     "id": 36376669,
     "title": "A single line of code made a 24-core server slower than a laptop (2021)",
     "url": "https://pkolaczk.github.io/server-slower-than-a-laptop/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 526,
+    "by": "xk3",
+    "descendants": 163,
+    "time": 1687054090
   },
   {
     "rank": 5,
     "id": 36377805,
     "title": "I have received a $100k sponsorship for Ladybird browser",
     "url": "https://twitter.com/awesomekling/status/1670298370550779905",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 541,
+    "by": "samwillis",
+    "descendants": 166,
+    "time": 1687069284
   },
   {
     "rank": 6,
     "id": 36377875,
     "title": "Sennheiser HD 555 to HD 595 Mod",
     "url": "http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 609,
+    "by": "edent",
+    "descendants": 317,
+    "time": 1687070151
   },
   {
     "rank": 7,
     "id": 36378689,
     "title": "Jellyfin: Free software media system",
     "url": "https://github.com/jellyfin/jellyfin",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 592,
+    "by": "majkinetor",
+    "descendants": 393,
+    "time": 1687081404
   },
   {
     "rank": 8,
     "id": 36380711,
     "title": "Imaginary problems are the root of bad software",
     "url": "https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 946,
+    "by": "deofoo",
+    "descendants": 393,
+    "time": 1687099367
   },
   {
     "rank": 9,
     "id": 36382361,
     "title": "Goodbye, Twilio",
     "url": "https://blog.miguelgrinberg.com/post/goodbye-twilio",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "joaopaulomcc",
+    "descendants": 336,
+    "time": 1687109641
   },
   {
     "rank": 10,
     "id": 36382700,
     "title": "Swing VPN app is a DDoS botnet",
     "url": "https://lecromee.github.io/posts/swing_vpn_ddosing_sites/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 723,
+    "by": "campuscodi",
+    "descendants": 253,
+    "time": 1687111777
   }
 ]
