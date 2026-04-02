@@ -4,23 +4,13 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 80,
+    "score": 81,
     "by": "bonzini",
     "descendants": 42,
     "time": 1775119724
   },
   {
     "rank": 2,
-    "id": 47612127,
-    "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
-    "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
-    "score": 29,
-    "by": "bundie",
-    "descendants": 37,
-    "time": 1775122988
-  },
-  {
-    "rank": 3,
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
@@ -30,17 +20,17 @@
     "time": 1775117951
   },
   {
-    "rank": 4,
+    "rank": 3,
     "id": 47603657,
     "title": "Artemis II Launch Day Updates",
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "score": 942,
+    "score": 943,
     "by": "apitman",
     "descendants": 804,
     "time": 1775063491
   },
   {
-    "rank": 5,
+    "rank": 4,
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
@@ -50,7 +40,7 @@
     "time": 1774933899
   },
   {
-    "rank": 6,
+    "rank": 5,
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
@@ -60,7 +50,7 @@
     "time": 1775121258
   },
   {
-    "rank": 7,
+    "rank": 6,
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
@@ -70,7 +60,7 @@
     "time": 1775100933
   },
   {
-    "rank": 8,
+    "rank": 7,
     "id": 47596739,
     "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
@@ -80,23 +70,33 @@
     "time": 1775016881
   },
   {
-    "rank": 9,
+    "rank": 8,
     "id": 47609564,
     "title": "Steam on Linux Use Skyrocketed Above 5% in March",
     "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-    "score": 421,
+    "score": 423,
     "by": "hkmaxpro",
     "descendants": 199,
     "time": 1775099544
   },
   {
-    "rank": 10,
+    "rank": 9,
     "id": 47608495,
     "title": "Quantum computing bombshells that are not April Fools",
     "url": "https://scottaaronson.blog/?p=9665",
-    "score": 187,
+    "score": 188,
     "by": "Strilanc",
     "descendants": 60,
     "time": 1775089483
+  },
+  {
+    "rank": 10,
+    "id": 47602832,
+    "title": "EmDash \u2013 A spiritual successor to WordPress that solves plugin security",
+    "url": "https://blog.cloudflare.com/emdash-wordpress/",
+    "score": 581,
+    "by": "elithrar",
+    "descendants": 431,
+    "time": 1775060078
   }
 ]

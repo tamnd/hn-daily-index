@@ -306,7 +306,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-<details><summary><h3>[2023](data/2023/) (31/365 days)</h3></summary>
+<details><summary><h3>[2023](data/2023/) (61/365 days)</h3></summary>
 
 [**December**](data/2023/12/) (31/31)
 
@@ -318,15 +318,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**18**](data/2023/12/README.md#2023-12-18) | [**19**](data/2023/12/README.md#2023-12-19) | [**20**](data/2023/12/README.md#2023-12-20) | [**21**](data/2023/12/README.md#2023-12-21) | [**22**](data/2023/12/README.md#2023-12-22) | [**23**](data/2023/12/README.md#2023-12-23) | [**24**](data/2023/12/README.md#2023-12-24) |
 | [**25**](data/2023/12/README.md#2023-12-25) | [**26**](data/2023/12/README.md#2023-12-26) | [**27**](data/2023/12/README.md#2023-12-27) | [**28**](data/2023/12/README.md#2023-12-28) | [**29**](data/2023/12/README.md#2023-12-29) | [**30**](data/2023/12/README.md#2023-12-30) | [**31**](data/2023/12/README.md#2023-12-31) |
 
-[**November**](data/2023/11/) (0/30)
+[**November**](data/2023/11/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  | 1 | 2 | 3 | 4 | 5 |
-| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
-| 27 | 28 | 29 | 30 |  |  |  |
+|  |  | [**1**](data/2023/11/README.md#2023-11-01) | [**2**](data/2023/11/README.md#2023-11-02) | [**3**](data/2023/11/README.md#2023-11-03) | [**4**](data/2023/11/README.md#2023-11-04) | [**5**](data/2023/11/README.md#2023-11-05) |
+| [**6**](data/2023/11/README.md#2023-11-06) | [**7**](data/2023/11/README.md#2023-11-07) | [**8**](data/2023/11/README.md#2023-11-08) | [**9**](data/2023/11/README.md#2023-11-09) | [**10**](data/2023/11/README.md#2023-11-10) | [**11**](data/2023/11/README.md#2023-11-11) | [**12**](data/2023/11/README.md#2023-11-12) |
+| [**13**](data/2023/11/README.md#2023-11-13) | [**14**](data/2023/11/README.md#2023-11-14) | [**15**](data/2023/11/README.md#2023-11-15) | [**16**](data/2023/11/README.md#2023-11-16) | [**17**](data/2023/11/README.md#2023-11-17) | [**18**](data/2023/11/README.md#2023-11-18) | [**19**](data/2023/11/README.md#2023-11-19) |
+| [**20**](data/2023/11/README.md#2023-11-20) | [**21**](data/2023/11/README.md#2023-11-21) | [**22**](data/2023/11/README.md#2023-11-22) | [**23**](data/2023/11/README.md#2023-11-23) | [**24**](data/2023/11/README.md#2023-11-24) | [**25**](data/2023/11/README.md#2023-11-25) | [**26**](data/2023/11/README.md#2023-11-26) |
+| [**27**](data/2023/11/README.md#2023-11-27) | [**28**](data/2023/11/README.md#2023-11-28) | [**29**](data/2023/11/README.md#2023-11-29) | [**30**](data/2023/11/README.md#2023-11-30) |  |  |  |
 
 [**October**](data/2023/10/) (0/31)
 
@@ -439,16 +439,16 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 80 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [42 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 29 points by [bundie](https://news.ycombinator.com/user?id=bundie), [37 comments](https://news.ycombinator.com/item?id=47612127)
-3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 58 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
-4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 942 points by [apitman](https://news.ycombinator.com/user?id=apitman), [804 comments](https://news.ycombinator.com/item?id=47603657)
-5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 46 points by [luu](https://news.ycombinator.com/user?id=luu), [20 comments](https://news.ycombinator.com/item?id=47582987)
-6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 15 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [4 comments](https://news.ycombinator.com/item?id=47611921)
-7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 151 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
-8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 55 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [17 comments](https://news.ycombinator.com/item?id=47596739)
-9. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 421 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [199 comments](https://news.ycombinator.com/item?id=47609564)
-10. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 187 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 81 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [42 comments](https://news.ycombinator.com/item?id=47611721)
+2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 58 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
+3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 943 points by [apitman](https://news.ycombinator.com/user?id=apitman), [804 comments](https://news.ycombinator.com/item?id=47603657)
+4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 46 points by [luu](https://news.ycombinator.com/user?id=luu), [20 comments](https://news.ycombinator.com/item?id=47582987)
+5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 15 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [4 comments](https://news.ycombinator.com/item?id=47611921)
+6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 151 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
+7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 55 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [17 comments](https://news.ycombinator.com/item?id=47596739)
+8. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 423 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [199 comments](https://news.ycombinator.com/item?id=47609564)
+9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 188 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
+10. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) (blog.cloudflare.com) - 581 points by [elithrar](https://news.ycombinator.com/user?id=elithrar), [431 comments](https://news.ycombinator.com/item?id=47602832)
 
 ## 2026-04-01
 
