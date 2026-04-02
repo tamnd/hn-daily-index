@@ -4,99 +4,99 @@
     "id": 32775119,
     "title": "Flanderization",
     "url": "https://en.wikipedia.org/wiki/Flanderization",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "egfx",
+    "descendants": 131,
+    "time": 1662695660
   },
   {
     "rank": 2,
     "id": 32793534,
     "title": "Ask HN: What's the best source code you've read?",
     "url": "https://news.ycombinator.com/item?id=32793534",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "KennyFromIT",
+    "descendants": 261,
+    "time": 1662836242
   },
   {
     "rank": 3,
     "id": 32795169,
     "title": "Rethinking GPS: Engineering next-gen location at Uber (2018)",
     "url": "https://www.uber.com/en-SE/blog/rethinking-gps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "bmease",
+    "descendants": 62,
+    "time": 1662849973
   },
   {
     "rank": 4,
     "id": 32795857,
     "title": "Empty offices are becoming apartments in Texas\u2019s big cities",
     "url": "https://www.texasmonthly.com/news-politics/downtown-offices-apartments-conversions/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "vwoolf",
+    "descendants": 202,
+    "time": 1662857325
   },
   {
     "rank": 5,
     "id": 32796324,
     "title": "Brickit scans your pile of bricks and gives you ideas, with instructions",
     "url": "https://brickit.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 659,
+    "by": "Orochikaku",
+    "descendants": 181,
+    "time": 1662863208
   },
   {
     "rank": 6,
     "id": 32797057,
     "title": "Rendering my (billiard) balls in a fragment shader",
     "url": "https://www.getlazarus.org/pool/balls/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "sysrpl",
+    "descendants": 84,
+    "time": 1662873969
   },
   {
     "rank": 7,
     "id": 32798891,
     "title": "Show HN: HiFiScan, a Python app to optimize your loudspeakers",
     "url": "https://github.com/erdewit/HiFiScan",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "erdewit",
+    "descendants": 103,
+    "time": 1662897544
   },
   {
     "rank": 8,
     "id": 32799789,
     "title": "Ask HN: What are some of the best documentaries you've seen?",
     "url": "https://news.ycombinator.com/item?id=32799789",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 650,
+    "by": "rasulkireev",
+    "descendants": 555,
+    "time": 1662905727
   },
   {
     "rank": 9,
     "id": 32799872,
     "title": "Atkinson Hyperlegible Font",
     "url": "https://brailleinstitute.org/freefont",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 799,
+    "by": "zdw",
+    "descendants": 234,
+    "time": 1662906298
   },
   {
     "rank": 10,
     "id": 32801359,
     "title": "Shortest URLs on the Internet",
     "url": "https://jameswillia.ms/posts/shortest-urls.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "jamespwilliams",
+    "descendants": 195,
+    "time": 1662916257
   }
 ]

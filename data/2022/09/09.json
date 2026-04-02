@@ -4,99 +4,99 @@
     "id": 32764501,
     "title": "My VM is lighter (and safer) than your container (2017)",
     "url": "https://dl.acm.org/doi/10.1145/3132747.3132763",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "gaocegege",
+    "descendants": 105,
+    "time": 1662640006
   },
   {
     "rank": 2,
     "id": 32765002,
     "title": "Stop measuring community engagement",
     "url": "https://rosie.land/posts/stop-measuring-community-engagement/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "rosiesherry",
+    "descendants": 118,
+    "time": 1662642818
   },
   {
     "rank": 3,
     "id": 32767218,
     "title": "Not Your Grandfather\u2019s Perl",
     "url": "https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "djha-skin",
+    "descendants": 243,
+    "time": 1662651632
   },
   {
     "rank": 4,
     "id": 32767338,
     "title": "Accelerate Python code by importing Taichi",
     "url": "https://docs.taichi-lang.org/blog/accelerate-python-code-100x",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "synergy20",
+    "descendants": 96,
+    "time": 1662652135
   },
   {
     "rank": 5,
     "id": 32768454,
     "title": "Caddyhttp: Enable HTTP/3 by Default",
     "url": "https://github.com/caddyserver/caddy/pull/4707",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "fariszr",
+    "descendants": 115,
+    "time": 1662656951
   },
   {
     "rank": 6,
     "id": 32772597,
     "title": "Patreon laid off their security team",
     "url": "https://twitter.com/wbm312/status/1567974063578185728",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "BlackLotus89",
+    "descendants": 258,
+    "time": 1662674215
   },
   {
     "rank": 7,
     "id": 32772810,
     "title": "It seems that the good times for online Minecraft play are over",
     "url": "https://bae.st/notice/AL3OGtBIWr6Bz2Y4um",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "airhangerf15",
+    "descendants": 449,
+    "time": 1662675652
   },
   {
     "rank": 8,
     "id": 32776276,
     "title": "What's SAP, and why's it worth $163B? (2020)",
     "url": "https://retool.com/blog/erp-for-engineers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 955,
+    "by": "antonyl",
+    "descendants": 686,
+    "time": 1662707834
   },
   {
     "rank": 9,
     "id": 32777737,
     "title": "Google pays \u2018enormous\u2019 sums to maintain search-engine dominance, DOJ says",
     "url": "https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "helsinkiandrew",
+    "descendants": 532,
+    "time": 1662721342
   },
   {
     "rank": 10,
     "id": 32780388,
     "title": "Meta cuts Responsible Innovation Team",
     "url": "https://www.wsj.com/articles/facebook-parent-meta-platforms-cuts-responsible-innovation-team-11662658423?mod=djemalertNEWS",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "cpeterso",
+    "descendants": 499,
+    "time": 1662737274
   }
 ]

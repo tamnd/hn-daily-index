@@ -4,99 +4,99 @@
     "id": 32987094,
     "title": "A CTO should be technical",
     "url": "https://blog.southparkcommons.com/your-cto-should-actually-be-technical/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 600,
+    "by": "catapultis",
+    "descendants": 354,
+    "time": 1664219971
   },
   {
     "rank": 2,
     "id": 32987160,
     "title": "Go runtime: 4 years later",
     "url": "https://go.dev/blog/go119runtime",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "spacey",
+    "descendants": 284,
+    "time": 1664220329
   },
   {
     "rank": 3,
     "id": 32990177,
     "title": "Experimenting a new syntax to write SVG",
     "url": "https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "bpierre",
+    "descendants": 91,
+    "time": 1664236576
   },
   {
     "rank": 4,
     "id": 32992710,
     "title": "How history/tech YouTube channel Asianometry reached 270K subscribers, $5K/month",
     "url": "https://www.screenlace.com/how-asianometry-grew-to-270k-subscribers-on-youtube/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "aseemscreenlace",
+    "descendants": 173,
+    "time": 1664266091
   },
   {
     "rank": 5,
     "id": 32993130,
     "title": "Show HN: Get conversational practice in over 20 languages by talking to an AI",
     "url": "https://talk.quazel.com/chat/try",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 787,
+    "by": "Hadjimina",
+    "descendants": 335,
+    "time": 1664270316
   },
   {
     "rank": 6,
     "id": 32994723,
     "title": "Workerd: Open-source Cloudflare workers runtime",
     "url": "https://blog.cloudflare.com/workerd-open-source-workers-runtime/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 689,
+    "by": "kentonv",
+    "descendants": 133,
+    "time": 1664283665
   },
   {
     "rank": 7,
     "id": 32994922,
     "title": "Gas Leak in the Baltic Sea",
     "url": "https://www.forsvaret.dk/en/news/2022/gas-leak-in-the-baltic-sea/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 505,
+    "by": "chha",
+    "descendants": 1059,
+    "time": 1664285017
   },
   {
     "rank": 8,
     "id": 32995883,
     "title": "WhatsApp Remote Code Execution in Video Call",
     "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36934",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "louislang",
+    "descendants": 149,
+    "time": 1664289789
   },
   {
     "rank": 9,
     "id": 32996457,
     "title": "Ask HN: Have you experienced \u201chiring fraud?\u201d",
     "url": "https://news.ycombinator.com/item?id=32996457",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "dopamean",
+    "descendants": 546,
+    "time": 1664291931
   },
   {
     "rank": 10,
     "id": 32996953,
     "title": "Someone is pretending to be me",
     "url": "https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2244,
+    "by": "iBotPeaches",
+    "descendants": 383,
+    "time": 1664293801
   }
 ]

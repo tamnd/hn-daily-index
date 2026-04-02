@@ -4,99 +4,99 @@
     "id": 32484584,
     "title": "Raft Consensus Animated (2014)",
     "url": "https://thesecretlivesofdata.com/raft/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "pkilgore",
+    "descendants": 67,
+    "time": 1660665422
   },
   {
     "rank": 2,
     "id": 32486031,
     "title": "SSH tips and tricks",
     "url": "https://carlosbecker.dev/posts/ssh-tips-and-tricks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 589,
+    "by": "feross",
+    "descendants": 157,
+    "time": 1660671083
   },
   {
     "rank": 3,
     "id": 32488308,
     "title": "VPNs on iOS are a scam",
     "url": "https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "alexpc201",
+    "descendants": 243,
+    "time": 1660681203
   },
   {
     "rank": 4,
     "id": 32490455,
     "title": "Adventure game graphics with DALL-E 2",
     "url": "https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "marcodiego",
+    "descendants": 158,
+    "time": 1660692918
   },
   {
     "rank": 5,
     "id": 32492514,
     "title": "RavynOS \u2013 Finesse of macOS, freedom of FreeBSD",
     "url": "https://ravynos.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 769,
+    "by": "behnamoh",
+    "descendants": 363,
+    "time": 1660712134
   },
   {
     "rank": 6,
     "id": 32493946,
     "title": "Show HN: I made a web-based notepad with a built in unit calculator",
     "url": "https://numpad.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 488,
+    "by": "tonyonodi",
+    "descendants": 239,
+    "time": 1660726902
   },
   {
     "rank": 7,
     "id": 32494497,
     "title": "Physical buttons outperform touchscreens in new cars, test finds",
     "url": "https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1614,
+    "by": "eriksdh",
+    "descendants": 953,
+    "time": 1660732822
   },
   {
     "rank": 8,
     "id": 32494659,
     "title": "Why I left Pine64",
     "url": "https://blog.brixit.nl/why-i-left-pine64/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "todsacerdoti",
+    "descendants": 222,
+    "time": 1660734348
   },
   {
     "rank": 9,
     "id": 32495724,
     "title": "Accounting For Developers, Part I",
     "url": "https://www.moderntreasury.com/journal/accounting-for-developers-part-i",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 648,
+    "by": "qin",
+    "descendants": 186,
+    "time": 1660741192
   },
   {
     "rank": 10,
     "id": 32498435,
     "title": "Learn Postgres at the Playground \u2013 Postgres compiled to WASM running in browser",
     "url": "https://www.crunchydata.com/blog/learn-postgres-at-the-playground",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 814,
+    "by": "samwillis",
+    "descendants": 171,
+    "time": 1660753725
   }
 ]

@@ -4,99 +4,99 @@
     "id": 32963021,
     "title": "Want cleaner code? Use the rule of six",
     "url": "https://davidamos.dev/the-rule-of-six/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "da12",
+    "descendants": 333,
+    "time": 1664030398
   },
   {
     "rank": 2,
     "id": 32965288,
     "title": "iPhones and action discoverability",
     "url": "https://alexanderell.is/posts/iphone-discoverability/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "otras",
+    "descendants": 315,
+    "time": 1664043680
   },
   {
     "rank": 3,
     "id": 32966874,
     "title": "web\u042fcade \u2013 WASM based retro emulation on any device",
     "url": "https://github.com/webrcade/webrcade",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "rcarmo",
+    "descendants": 53,
+    "time": 1664056513
   },
   {
     "rank": 4,
     "id": 32968597,
     "title": "This page is a truly naked, brutalist HTML quine (2019)",
     "url": "https://secretgeek.github.io/html_wysiwyg/html.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "thunderbong",
+    "descendants": 44,
+    "time": 1664075263
   },
   {
     "rank": 5,
     "id": 32969957,
     "title": "C++20, How Hard Could It Be",
     "url": "https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "pyler",
+    "descendants": 429,
+    "time": 1664097093
   },
   {
     "rank": 6,
     "id": 32970623,
     "title": "Users reporting artifacts appearing in old images stored in Google Photos",
     "url": "https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 575,
+    "by": "duiker101",
+    "descendants": 282,
+    "time": 1664108158
   },
   {
     "rank": 7,
     "id": 32971085,
     "title": "Analysis of Apple Watch running data",
     "url": "https://applewatchrunner.substack.com/p/apple-watch-running-review",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "maarten3",
+    "descendants": 166,
+    "time": 1664112195
   },
   {
     "rank": 8,
     "id": 32972004,
     "title": "58 bytes of CSS to look great nearly everywhere",
     "url": "https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 723,
+    "by": "thunderbong",
+    "descendants": 242,
+    "time": 1664118275
   },
   {
     "rank": 9,
     "id": 32972923,
     "title": "3x new books added to the Pirate Library Mirror",
     "url": "http://annas-blog.org/blog-3x-new-books.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 624,
+    "by": "pilimi_anna",
+    "descendants": 558,
+    "time": 1664123053
   },
   {
     "rank": 10,
     "id": 32975173,
     "title": "Someday aliens will land and all will be fine until we explain our calendar",
     "url": "https://twitter.com/foone/status/1572260363764400129",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1514,
+    "by": "thunderbong",
+    "descendants": 989,
+    "time": 1664134708
   }
 ]

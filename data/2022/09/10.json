@@ -4,99 +4,99 @@
     "id": 32775339,
     "title": "Tipi \u2013 A personal homeserver for everyone",
     "url": "https://github.com/meienberger/runtipi",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "thunderbong",
+    "descendants": 141,
+    "time": 1662698137
   },
   {
     "rank": 2,
     "id": 32780866,
     "title": "Byte Magazine: The C Programming Language (1983)",
     "url": "https://archive.org/details/byte-magazine-1983-08",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "PaulHoule",
+    "descendants": 275,
+    "time": 1662739203
   },
   {
     "rank": 3,
     "id": 32783730,
     "title": "The Next Chapter for Learning on YouTube",
     "url": "https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "nassimsoftware",
+    "descendants": 288,
+    "time": 1662751501
   },
   {
     "rank": 4,
     "id": 32784181,
     "title": "A Web UI for Stable Diffusion",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "feross",
+    "descendants": 143,
+    "time": 1662753765
   },
   {
     "rank": 5,
     "id": 32787657,
     "title": "On my resignation as regulator of the Dutch intelligence and security services",
     "url": "https://berthub.eu/articles/posts/resignation-as-intelligence-regulator/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 566,
+    "by": "pabs3",
+    "descendants": 230,
+    "time": 1662782107
   },
   {
     "rank": 6,
     "id": 32788475,
     "title": "CS 168: The Modern Algorithmic Toolbox",
     "url": "https://web.stanford.edu/class/cs168/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 589,
+    "by": "samuel246",
+    "descendants": 99,
+    "time": 1662792876
   },
   {
     "rank": 7,
     "id": 32790064,
     "title": "Ask HN: Which books do you consider real gems in your field of work/study?",
     "url": "https://news.ycombinator.com/item?id=32790064",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "curious16",
+    "descendants": 262,
+    "time": 1662813303
   },
   {
     "rank": 8,
     "id": 32790387,
     "title": "Bank tells customers to disable updates and not upgrade to iOS 16",
     "url": "https://www.coutts.com/coutts-digital/Bank-In-the-App.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "pbowyer",
+    "descendants": 298,
+    "time": 1662816255
   },
   {
     "rank": 9,
     "id": 32790428,
     "title": "Visual effects for the Indian blockbuster \u201cRRR\u201d",
     "url": "https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 770,
+    "by": "rrampage",
+    "descendants": 292,
+    "time": 1662816605
   },
   {
     "rank": 10,
     "id": 32793061,
     "title": "YouTube-dl has an interpreter for a subset of JavaScript in 870 lines of Python",
     "url": "https://twitter.com/zhuowei/status/1568659229887664129",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "yuuta",
+    "descendants": 155,
+    "time": 1662833529
   }
 ]

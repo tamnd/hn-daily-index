@@ -4,99 +4,99 @@
     "id": 32690892,
     "title": "The forty-year programmer",
     "url": "https://codefol.io/posts/the-forty-year-programmer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "revorad",
+    "descendants": 238,
+    "time": 1662126912
   },
   {
     "rank": 2,
     "id": 32704598,
     "title": "Cloudflare lobbied FTC to stifle security researchers",
     "url": "https://twitter.com/taviso/status/1566077115992133634",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "zccrkn",
+    "descendants": 113,
+    "time": 1662229278
   },
   {
     "rank": 3,
     "id": 32706548,
     "title": "Less is more agile",
     "url": "https://beny23.github.io/posts/my_take_on_engineering_room_9/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "beny23",
+    "descendants": 173,
+    "time": 1662242532
   },
   {
     "rank": 4,
     "id": 32709329,
     "title": "I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped",
     "url": "https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "Rasbora",
+    "descendants": 228,
+    "time": 1662260288
   },
   {
     "rank": 5,
     "id": 32710365,
     "title": "Running Stable Diffusion on Your GPU with Less Than 10Gb of VRAM",
     "url": "https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "constantlm",
+    "descendants": 137,
+    "time": 1662272375
   },
   {
     "rank": 6,
     "id": 32712015,
     "title": "New performance materials are coming",
     "url": "https://www.tsungxu.com/performance-biomaterials/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "tsungxu",
+    "descendants": 92,
+    "time": 1662291903
   },
   {
     "rank": 7,
     "id": 32712017,
     "title": "C Integer Quiz",
     "url": "https://www.acepace.net/integerQuiz/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "rwmj",
+    "descendants": 231,
+    "time": 1662291917
   },
   {
     "rank": 8,
     "id": 32712325,
     "title": "Thunderbolt, Displayport and Docks",
     "url": "https://stderr.nl/Blog/Hardware/Thunderbolt/TechnologyOverview.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "Hackbraten",
+    "descendants": 265,
+    "time": 1662294628
   },
   {
     "rank": 9,
     "id": 32713375,
     "title": "Google Pixel 6 still freezes when calling Emergency Services",
     "url": "https://old.reddit.com/r/GooglePixel/comments/x5ea32/life_and_death_down_to_a_software_glitch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "curiousgal",
+    "descendants": 347,
+    "time": 1662301475
   },
   {
     "rank": 10,
     "id": 32715437,
     "title": "After self-hosting my email for twenty-three years I have thrown in the towel",
     "url": "https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1887,
+    "by": "carlesfe",
+    "descendants": 728,
+    "time": 1662312520
   }
 ]

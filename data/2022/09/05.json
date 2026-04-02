@@ -4,99 +4,99 @@
     "id": 32714381,
     "title": "Leon: Open-source, self-hosted personal assistant",
     "url": "https://github.com/leon-ai/leon",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "thunderbong",
+    "descendants": 123,
+    "time": 1662307152
   },
   {
     "rank": 2,
     "id": 32714806,
     "title": "Reviving the Pakon film scanner",
     "url": "https://ktkaufman03.github.io/blog/2022/09/04/pakon-reverse-engineering/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "ktkaufman",
+    "descendants": 67,
+    "time": 1662309319
   },
   {
     "rank": 3,
     "id": 32717133,
     "title": "Show HN: Zelda Breath of The Wild Street View",
     "url": "https://nassimsoftware.github.io/zeldabotwstreetview/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "nassimsoftware",
+    "descendants": 88,
+    "time": 1662321753
   },
   {
     "rank": 4,
     "id": 32717388,
     "title": "Unreal Rust",
     "url": "https://maikklein.github.io/unreal-rust-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "ibobev",
+    "descendants": 122,
+    "time": 1662323406
   },
   {
     "rank": 5,
     "id": 32718327,
     "title": "Has  tiktok_us  been breached?",
     "url": "https://twitter.com/troyhunt/status/1566565409939427328",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "unknownaccount",
+    "descendants": 135,
+    "time": 1662330383
   },
   {
     "rank": 6,
     "id": 32720234,
     "title": "Self-hosted email is the hardest it's ever been, but also the easiest",
     "url": "https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "hardwaresofton",
+    "descendants": 191,
+    "time": 1662348888
   },
   {
     "rank": 7,
     "id": 32721602,
     "title": "Why A4? \u2013 The Mathematical Beauty of Paper Size",
     "url": "https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 750,
+    "by": "casca",
+    "descendants": 608,
+    "time": 1662364076
   },
   {
     "rank": 8,
     "id": 32722950,
     "title": "Kiwi Farms is down across all domains as DDoS-Guard terminates service",
     "url": "https://twitter.com/GossiTheDog/status/1566728231893573634",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "intunderflow",
+    "descendants": 1155,
+    "time": 1662375691
   },
   {
     "rank": 9,
     "id": 32723784,
     "title": "Common Lisp vs Racket",
     "url": "https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "ducktective",
+    "descendants": 190,
+    "time": 1662382608
   },
   {
     "rank": 10,
     "id": 32724162,
     "title": "All poverty is energy poverty",
     "url": "https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "bedbot",
+    "descendants": 439,
+    "time": 1662385078
   }
 ]

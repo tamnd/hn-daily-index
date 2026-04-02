@@ -4,99 +4,99 @@
     "id": 32651763,
     "title": "Be good-argument-driven, not data-driven",
     "url": "http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "historynops",
+    "descendants": 161,
+    "time": 1661874351
   },
   {
     "rank": 2,
     "id": 32660443,
     "title": "Want to found a startup? Work at one first",
     "url": "https://blog.lawrencejones.dev/learn-at-scale-up/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "lawrjone",
+    "descendants": 150,
+    "time": 1661942115
   },
   {
     "rank": 3,
     "id": 32666506,
     "title": "Cognitive loads in programming",
     "url": "https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "ajdude",
+    "descendants": 140,
+    "time": 1661971229
   },
   {
     "rank": 4,
     "id": 32667619,
     "title": "WebKit on GitHub",
     "url": "https://webkit.org/blog/13140/webkit-on-github/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "miohtama",
+    "descendants": 250,
+    "time": 1661976224
   },
   {
     "rank": 5,
     "id": 32669215,
     "title": "US Government Bans Export of Nvidia A100 and H100 GPUs to China and Russia",
     "url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 723,
+    "by": "wmf",
+    "descendants": 624,
+    "time": 1661985248
   },
   {
     "rank": 6,
     "id": 32670083,
     "title": "Former world champion reveals that she was ordered to lose Olympic semi-final",
     "url": "https://sport.tv2.dk/badminton/2022-08-27-former-world-champion-reveals-that-she-was-ordered-to-lose-olympic-semi-final",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "danskeren",
+    "descendants": 219,
+    "time": 1661991413
   },
   {
     "rank": 7,
     "id": 32671959,
     "title": "Falsehoods programmers believe about email",
     "url": "https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "tsujp",
+    "descendants": 352,
+    "time": 1662006242
   },
   {
     "rank": 8,
     "id": 32676993,
     "title": "Kagi/Orion status update: First three months",
     "url": "https://blog.kagi.com/status-update-first-three-months",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "darthShadow",
+    "descendants": 191,
+    "time": 1662043372
   },
   {
     "rank": 9,
     "id": 32677473,
     "title": "The Portuguese can no longer afford to live in Portugal",
     "url": "https://medium.com/the-portuguese/the-portuguese-can-no-longer-afford-to-live-in-portugal-or-even-survive-eaa8fdffc4b9",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 477,
+    "by": "nateb2022",
+    "descendants": 780,
+    "time": 1662044998
   },
   {
     "rank": 10,
     "id": 32678664,
     "title": "Run Stable Diffusion on Your M1 Mac\u2019s GPU",
     "url": "https://replicate.com/blog/run-stable-diffusion-on-m1-mac",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1007,
+    "by": "bfirsh",
+    "descendants": 401,
+    "time": 1662049165
   }
 ]

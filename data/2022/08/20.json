@@ -4,99 +4,99 @@
     "id": 32520593,
     "title": "Shazam turns 20",
     "url": "https://www.apple.com/newsroom/2022/08/shazam-turns-20/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "feross",
+    "descendants": 227,
+    "time": 1660915049
   },
   {
     "rank": 2,
     "id": 32520882,
     "title": "LackRack: IKEA's cheapest table is perfectly sized to rackmount computers (2020)",
     "url": "https://wiki.eth0.nl/index.php/LackRack",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "bluehatbrit",
+    "descendants": 238,
+    "time": 1660916829
   },
   {
     "rank": 3,
     "id": 32523584,
     "title": "\u201cQuantum-Safe\u201d Crypto Hacked by 10-Year-Old PC",
     "url": "https://spectrum.ieee.org/quantum-safe-encryption-hacked",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "oipoloi",
+    "descendants": 176,
+    "time": 1660928822
   },
   {
     "rank": 4,
     "id": 32524702,
     "title": "Resolving an unusual WiFi issue",
     "url": "https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 594,
+    "by": "emidoots",
+    "descendants": 122,
+    "time": 1660934905
   },
   {
     "rank": 5,
     "id": 32528433,
     "title": "Diablo 1 for Web Browsers",
     "url": "https://github.com/d07RiV/diabloweb",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "nsoonhui",
+    "descendants": 109,
+    "time": 1660962438
   },
   {
     "rank": 6,
     "id": 32528769,
     "title": "Visual Sum of Cubes",
     "url": "https://x.st/visual-sum-of-cubes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "lnyan",
+    "descendants": 39,
+    "time": 1660966092
   },
   {
     "rank": 7,
     "id": 32529113,
     "title": "Zig is now self\u2013hosted by default",
     "url": "https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "BratishkaErik",
+    "descendants": 111,
+    "time": 1660970136
   },
   {
     "rank": 8,
     "id": 32529412,
     "title": "AWS switch from gzip to zstd \u2013 about 30% reduction in compressed S3 storage",
     "url": "https://twitter.com/adrianco/status/1560854827810361345",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "luu",
+    "descendants": 201,
+    "time": 1660973681
   },
   {
     "rank": 9,
     "id": 32530035,
     "title": "Lessons I wish I had learned before I started teaching differential equations [pdf] (1997)",
     "url": "https://web.williams.edu/Mathematics/lg5/Rota.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "Tomte",
+    "descendants": 177,
+    "time": 1660980662
   },
   {
     "rank": 10,
     "id": 32534173,
     "title": "Brian Kernighan adds Unicode support to Awk",
     "url": "https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 618,
+    "by": "ducktective",
+    "descendants": 208,
+    "time": 1661020351
   }
 ]
