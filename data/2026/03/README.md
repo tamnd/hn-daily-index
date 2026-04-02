@@ -1,75 +1,39 @@
-<div align="center">
+# March 2026
 
-<img src="https://news.ycombinator.com/y18.svg" width="80">
+Top 10 Hacker News stories for each day in March 2026.
 
-# HN Daily Index
-
-</div>
-
-A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.com), organized by date.
-
-> Thanks to [Hacker News](https://news.ycombinator.com) by [Y Combinator](https://www.ycombinator.com) for the [API](https://github.com/HackerNews/API), and to Colin Percival's [Hacker News Daily](https://www.daemonology.net/hn-daily/) for the historical archive going back to 2010.
-
-## Contents
-
-
-Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | [Mar 29](#2026-03-29) | [Mar 28](#2026-03-28) | [Mar 27](#2026-03-27) | [Mar 26](#2026-03-26)
-
-### 2026 (31/92 days)
-
-**April** (1/2)
-
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  | 1 | [**2**](#2026-04-02) |  |  |  |
-
-**March** (30/31)
-
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  |  |  |  |  | [**1**](#2026-03-01) |
-| [**2**](#2026-03-02) | [**3**](#2026-03-03) | [**4**](#2026-03-04) | [**5**](#2026-03-05) | [**6**](#2026-03-06) | [**7**](#2026-03-07) | [**8**](#2026-03-08) |
-| [**9**](#2026-03-09) | [**10**](#2026-03-10) | [**11**](#2026-03-11) | [**12**](#2026-03-12) | [**13**](#2026-03-13) | [**14**](#2026-03-14) | [**15**](#2026-03-15) |
-| [**16**](#2026-03-16) | [**17**](#2026-03-17) | [**18**](#2026-03-18) | [**19**](#2026-03-19) | [**20**](#2026-03-20) | [**21**](#2026-03-21) | [**22**](#2026-03-22) |
-| 23 | [**24**](#2026-03-24) | [**25**](#2026-03-25) | [**26**](#2026-03-26) | [**27**](#2026-03-27) | [**28**](#2026-03-28) | [**29**](#2026-03-29) |
-| [**30**](#2026-03-30) | [**31**](#2026-03-31) |  |  |  |  |  |
-
-**February** (0/28)
-
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  |  |  |  |  | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 |  |
-
-**January** (0/31)
-
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  |  | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 |  |
+- [2026-03-31 (Tuesday)](#2026-03-31)
+- [2026-03-30 (Monday)](#2026-03-30)
+- [2026-03-29 (Sunday)](#2026-03-29)
+- [2026-03-28 (Saturday)](#2026-03-28)
+- [2026-03-27 (Friday)](#2026-03-27)
+- [2026-03-26 (Thursday)](#2026-03-26)
+- [2026-03-25 (Wednesday)](#2026-03-25)
+- [2026-03-24 (Tuesday)](#2026-03-24)
+- [2026-03-22 (Sunday)](#2026-03-22)
+- [2026-03-21 (Saturday)](#2026-03-21)
+- [2026-03-20 (Friday)](#2026-03-20)
+- [2026-03-19 (Thursday)](#2026-03-19)
+- [2026-03-18 (Wednesday)](#2026-03-18)
+- [2026-03-17 (Tuesday)](#2026-03-17)
+- [2026-03-16 (Monday)](#2026-03-16)
+- [2026-03-15 (Sunday)](#2026-03-15)
+- [2026-03-14 (Saturday)](#2026-03-14)
+- [2026-03-13 (Friday)](#2026-03-13)
+- [2026-03-12 (Thursday)](#2026-03-12)
+- [2026-03-11 (Wednesday)](#2026-03-11)
+- [2026-03-10 (Tuesday)](#2026-03-10)
+- [2026-03-09 (Monday)](#2026-03-09)
+- [2026-03-08 (Sunday)](#2026-03-08)
+- [2026-03-07 (Saturday)](#2026-03-07)
+- [2026-03-06 (Friday)](#2026-03-06)
+- [2026-03-05 (Thursday)](#2026-03-05)
+- [2026-03-04 (Wednesday)](#2026-03-04)
+- [2026-03-03 (Tuesday)](#2026-03-03)
+- [2026-03-02 (Monday)](#2026-03-02)
+- [2026-03-01 (Sunday)](#2026-03-01)
 
 ---
-
-## 2026-04-02
-
-*Thursday*
-
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 72 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [30 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 14 points by [bundie](https://news.ycombinator.com/user?id=bundie), [1 comments](https://news.ycombinator.com/item?id=47612127)
-3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 53 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
-4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 936 points by [apitman](https://news.ycombinator.com/user?id=apitman), [800 comments](https://news.ycombinator.com/item?id=47603657)
-5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 37 points by [luu](https://news.ycombinator.com/user?id=luu), [16 comments](https://news.ycombinator.com/item?id=47582987)
-6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 149 points by [jaden](https://news.ycombinator.com/user?id=jaden), [43 comments](https://news.ycombinator.com/item?id=47609694)
-7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 52 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [16 comments](https://news.ycombinator.com/item?id=47596739)
-8. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 411 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [192 comments](https://news.ycombinator.com/item?id=47609564)
-9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 180 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
-10. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) (blog.cloudflare.com) - 578 points by [elithrar](https://news.ycombinator.com/user?id=elithrar), [429 comments](https://news.ycombinator.com/item?id=47602832)
 
 ## 2026-03-31
 
@@ -520,7 +484,3 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 8. [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/) (mlu-explain.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47204964)
 9. [I built a demo of what AI chat will look like when it's \"free\" and ad-supported](https://99helpers.com/tools/ad-supported-chat) (99helpers.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47205890)
 10. [Ghostty – Terminal Emulator](https://ghostty.org/docs) (ghostty.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=47206009)
-
----
-
-Generated by [hn-daily-index](https://github.com/tamnd/hn-daily-index). Data sourced from the [Hacker News API](https://github.com/HackerNews/API).
