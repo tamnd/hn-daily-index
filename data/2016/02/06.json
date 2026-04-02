@@ -4,99 +4,99 @@
     "id": 11038725,
     "title": "Frinkiac: Simpsons quote search engine",
     "url": "https://frinkiac.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "asicboy",
+    "descendants": 84,
+    "time": 1454635410
   },
   {
     "rank": 2,
     "id": 11041210,
     "title": "Unlocking my Lenovo laptop battery",
     "url": "http://www.zmatt.net/unlocking-my-lenovo-laptop-part-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "deadgrey19",
+    "descendants": 54,
+    "time": 1454678915
   },
   {
     "rank": 3,
     "id": 11042096,
     "title": "ZCash (formerly Zerocash/Zerocoin) technology preview",
     "url": "https://z.cash/blog/helloworld.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "malgorithms",
+    "descendants": 109,
+    "time": 1454686907
   },
   {
     "rank": 4,
     "id": 11044980,
     "title": "Docker Official Images Are Moving to Alpine Linux",
     "url": "https://www.brianchristner.io/docker-is-moving-to-alpine-linux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "infodroid",
+    "descendants": 124,
+    "time": 1454709714
   },
   {
     "rank": 5,
     "id": 11045412,
     "title": "Diesel: A Safe, Extensible ORM and Query Builder for Rust",
     "url": "http://diesel.rs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "steveklabnik",
+    "descendants": 162,
+    "time": 1454714057
   },
   {
     "rank": 6,
     "id": 11046178,
     "title": "TempleOS V4.02 Released",
     "url": "http://www.templeos.org/TempleOS402.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "TerryADavis",
+    "descendants": 53,
+    "time": 1454724869
   },
   {
     "rank": 7,
     "id": 11047268,
     "title": "Watson for President",
     "url": "http://watson2016.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "derEitel",
+    "descendants": 212,
+    "time": 1454756936
   },
   {
     "rank": 8,
     "id": 11047359,
     "title": "iPhones 'disabled' if Apple detects third-party repairs",
     "url": "http://www.theguardian.com/money/2016/feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-repair",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "noobie",
+    "descendants": 341,
+    "time": 1454759323
   },
   {
     "rank": 9,
     "id": 11048131,
     "title": "PayPal Starts Banning VPN and SmartDNS Services",
     "url": "https://torrentfreak.com/paypal-starts-banning-vpn-and-smartdns-services-160205/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "fernandotakai",
+    "descendants": 193,
+    "time": 1454773170
   },
   {
     "rank": 10,
     "id": 11049067,
     "title": "GitHub is undergoing a full-blown overhaul as execs and employees depart",
     "url": "http://www.businessinsider.com/github-the-full-inside-story-2016-2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 808,
+    "by": "easyd",
+    "descendants": 973,
+    "time": 1454784189
   }
 ]

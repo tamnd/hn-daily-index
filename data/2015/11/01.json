@@ -4,99 +4,99 @@
     "id": 10482517,
     "title": "Fountain \u2013 A markup language for screenwriting",
     "url": "http://fountain.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "ecopoesis",
+    "descendants": 50,
+    "time": 1446296428
   },
   {
     "rank": 2,
     "id": 10483354,
     "title": "GNU Hurd 0.7 has been released",
     "url": "https://www.gnu.org/software/hurd/news/2015-10-31-releases.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "vezzy-fnord",
+    "descendants": 111,
+    "time": 1446312505
   },
   {
     "rank": 3,
     "id": 10483695,
     "title": "Locked doors, headaches, and intellectual need",
     "url": "http://mkremins.github.io/blog/doors-headaches-intellectual-need/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "luu",
+    "descendants": 26,
+    "time": 1446317973
   },
   {
     "rank": 4,
     "id": 10483747,
     "title": "Linux TCP will have lockless listener processing 3.5M SYNs per sec",
     "url": "https://lwn.net/Articles/659199/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "csasscsscs",
+    "descendants": 48,
+    "time": 1446318731
   },
   {
     "rank": 5,
     "id": 10483780,
     "title": "Busybox removes support for systemd",
     "url": "http://git.busybox.net/busybox/commit/?id=accd9eeb719916da974584b33b1aeced5f3bb346",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "sethvargo",
+    "descendants": 197,
+    "time": 1446319117
   },
   {
     "rank": 6,
     "id": 10484493,
     "title": "Man who created own credit card sues bank for not sticking to terms (2013)",
     "url": "http://www.telegraph.co.uk/finance/personalfinance/borrowing/creditcards/10231556/Man-who-created-own-credit-card-sues-bank-for-not-sticking-to-terms.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "pelario",
+    "descendants": 84,
+    "time": 1446330910
   },
   {
     "rank": 7,
     "id": 10486062,
     "title": "Your own Debian Mail Server (part II): how to prove you are not a spammer",
     "url": "https://scaron.info/blog/debian-mail-spf-dkim.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "tastalian",
+    "descendants": 96,
+    "time": 1446375118
   },
   {
     "rank": 8,
     "id": 10486476,
     "title": "My Livecoding.tv account deletion saga",
     "url": "http://liza.io/my-livecoding-dot-tv-account-deletion-saga/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 667,
+    "by": "drakonka",
+    "descendants": 420,
+    "time": 1446388152
   },
   {
     "rank": 9,
     "id": 10486541,
     "title": "Please don't use Slack for FOSS projects",
     "url": "https://drewdevault.com/2015/11/01/Please-stop-using-slack.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 886,
+    "by": "ddevault",
+    "descendants": 484,
+    "time": 1446389835
   },
   {
     "rank": 10,
     "id": 10487419,
     "title": "How a group of neighbors created their own Internet service",
     "url": "http://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "Deinos",
+    "descendants": 139,
+    "time": 1446401868
   }
 ]

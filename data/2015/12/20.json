@@ -4,99 +4,99 @@
     "id": 10763151,
     "title": "Why 451?",
     "url": "https://www.mnot.net/blog/2015/12/18/451",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "temp",
+    "descendants": 51,
+    "time": 1450518339
   },
   {
     "rank": 2,
     "id": 10763165,
     "title": "How Tor Works: Part One",
     "url": "http://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "billconan",
+    "descendants": 16,
+    "time": 1450518937
   },
   {
     "rank": 3,
     "id": 10763874,
     "title": "Why Are Projects Always Behind Schedule?",
     "url": "http://priceonomics.com/why-are-projects-always-behind-schedule/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "sidcool",
+    "descendants": 108,
+    "time": 1450540762
   },
   {
     "rank": 4,
     "id": 10763969,
     "title": "Wine 1.8 is released",
     "url": "https://www.winehq.org/announce/1.8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "coldpie",
+    "descendants": 38,
+    "time": 1450542537
   },
   {
     "rank": 5,
     "id": 10764693,
     "title": "Norwegians campaign to give Finland a mountain",
     "url": "http://www.thelocal.no/20151216/give-finland-a-new-highest-peak-norway-campaign",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "teh_klev",
+    "descendants": 101,
+    "time": 1450556307
   },
   {
     "rank": 6,
     "id": 10765654,
     "title": "AI will cause \u201cstructural collapse\u201d of law firms by 2030",
     "url": "http://www.legalfutures.co.uk/latest-news/report-ai-will-transform-legal-world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "bootload",
+    "descendants": 148,
+    "time": 1450574909
   },
   {
     "rank": 7,
     "id": 10766022,
     "title": "The Internet Archive Telethon",
     "url": "http://telethon.archive.org/?ref=hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 177,
+    "by": "empressplay",
+    "descendants": 35,
+    "time": 1450584617
   },
   {
     "rank": 8,
     "id": 10766171,
     "title": "Juniper hack has U.S. fearing foreign infiltration",
     "url": "http://edition.cnn.com/2015/12/18/politics/juniper-networks-us-government-security-hack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "doener",
+    "descendants": 104,
+    "time": 1450589542
   },
   {
     "rank": 9,
     "id": 10766731,
     "title": "YC's 2015 Reading List",
     "url": "http://themacro.com/articles/2015/12/yc-2015-reading-list/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "0x54MUR41",
+    "descendants": 71,
+    "time": 1450609492
   },
   {
     "rank": 10,
     "id": 10767039,
     "title": "Real-time GIF images",
     "url": "http://github.com/ErikvdVen/php-gif",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "erikvdven",
+    "descendants": 67,
+    "time": 1450620062
   }
 ]

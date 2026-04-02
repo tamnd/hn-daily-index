@@ -4,99 +4,99 @@
     "id": 10765148,
     "title": "What RESTful actually means",
     "url": "https://codewords.recurse.com/issues/five/what-restful-actually-means",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "luu",
+    "descendants": 133,
+    "time": 1450564423
   },
   {
     "rank": 2,
     "id": 10767889,
     "title": "About those lava lamps",
     "url": "https://gist.github.com/marick/3ec112bc38b2af267e15",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "ColinWright",
+    "descendants": 66,
+    "time": 1450638177
   },
   {
     "rank": 3,
     "id": 10768289,
     "title": "India to make CBSE textbooks available online for free",
     "url": "http://m.economictimes.com/news/politics-and-nation/good-governance-cbse-books-to-be-made-available-online-for-free-says-smriti-irani/articleshow/50245429.cms",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "3dfan",
+    "descendants": 19,
+    "time": 1450645333
   },
   {
     "rank": 4,
     "id": 10768391,
     "title": "Physicists and Philosophers Debate the Boundaries of Science",
     "url": "https://www.quantamagazine.org/20151216-physicists-and-philosophers-debate-the-boundaries-of-science/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "olasaustralia",
+    "descendants": 163,
+    "time": 1450647532
   },
   {
     "rank": 5,
     "id": 10768440,
     "title": "Deep Learning: An MIT Press Book in Preparation",
     "url": "http://goodfeli.github.io/dlbook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "ingve",
+    "descendants": 22,
+    "time": 1450648752
   },
   {
     "rank": 6,
     "id": 10768720,
     "title": "Juniper screenOS authentication backdoor - master ssh password posted",
     "url": "https://community.rapid7.com/community/infosec/blog/2015/12/20/cve-2015-7755-juniper-screenos-authentication-backdoor",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "ghshephard",
+    "descendants": 170,
+    "time": 1450653351
   },
   {
     "rank": 7,
     "id": 10770332,
     "title": "Rails 5.0.0.beta1: Action Cable, API Mode, Rails Command",
     "url": "http://weblog.rubyonrails.org/2015/12/18/Rails-5-0-beta1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "aaronbrethorst",
+    "descendants": 132,
+    "time": 1450690404
   },
   {
     "rank": 8,
     "id": 10771539,
     "title": "Fuck the Cloud (2009)",
     "url": "http://ascii.textfiles.com/archives/1717",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "colinprince",
+    "descendants": 219,
+    "time": 1450712337
   },
   {
     "rank": 9,
     "id": 10771627,
     "title": "Introducing Lektor \u2013 A Static File Content Management System For Python",
     "url": "http://lucumr.pocoo.org/2015/12/21/introducing-lektor/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "jilljennV",
+    "descendants": 91,
+    "time": 1450713271
   },
   {
     "rank": 10,
     "id": 10772841,
     "title": "Boringcc: Proposal for a C compiler for secure software",
     "url": "https://groups.google.com/forum/m/#!msg/boring-crypto/48qa1kWignU/o8GGp2K1DAAJ",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "DCKing",
+    "descendants": 241,
+    "time": 1450725627
   }
 ]

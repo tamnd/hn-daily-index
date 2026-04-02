@@ -4,99 +4,99 @@
     "id": 10595011,
     "title": "Drupal 8.0.0 released",
     "url": "https://www.drupal.org/8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 146,
+    "by": "randomname2",
+    "descendants": 72,
+    "time": 1447944310
   },
   {
     "rank": 2,
     "id": 10598065,
     "title": "Math.random in V8 is broken",
     "url": "https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.7p3lk9bvk",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "r0muald",
+    "descendants": 217,
+    "time": 1447970896
   },
   {
     "rank": 3,
     "id": 10598106,
     "title": "Mo.js \u2013 motion graphics for the web",
     "url": "http://mojs.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 189,
+    "by": "brbcoding",
+    "descendants": 29,
+    "time": 1447971433
   },
   {
     "rank": 4,
     "id": 10598188,
     "title": "Popular Google Chrome extensions are constantly tracking you by default",
     "url": "http://labs.detectify.com/post/133528218381/chrome-extensions-aka-total-absence-of-privacy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 169,
+    "by": "zerotosixty",
+    "descendants": 74,
+    "time": 1447972441
   },
   {
     "rank": 5,
     "id": 10601169,
     "title": "Domain-validated SSL will soon be free from the large CAs",
     "url": "https://certsimple.com/blog/domain-validated-ssl-will-be-free",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "nailer",
+    "descendants": 151,
+    "time": 1448028318
   },
   {
     "rank": 6,
     "id": 10602391,
     "title": "Tesla recalling 90,000 Model S sedans to check seat belts",
     "url": "http://www.reuters.com/article/2015/11/20/us-tesla-recall-idUSKCN0T92CR20151120?feedType=RSS&feedName=topNews&utm_source=twitter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "leephillips",
+    "descendants": 99,
+    "time": 1448040090
   },
   {
     "rank": 7,
     "id": 10604259,
     "title": "File Says N.S.A. Found Way to Replace Email Surveillance Program",
     "url": "http://www.nytimes.com/2015/11/20/us/politics/records-show-email-analysis-continued-after-nsa-program-ended.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "hackuser",
+    "descendants": 54,
+    "time": 1448058077
   },
   {
     "rank": 8,
     "id": 10604654,
     "title": "Mark Zuckerberg Will Take Two Months Off from Facebook for Paternity Leave",
     "url": "http://techcrunch.com/2015/11/20/mark-zuckerberg-will-take-two-months-off-from-facebook-for-paternity-leave/?sr_share=facebook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "markthethomas",
+    "descendants": 314,
+    "time": 1448063431
   },
   {
     "rank": 9,
     "id": 10606355,
     "title": "Covariance and Contravariance",
     "url": "https://mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 156,
+    "by": "marvel_boy",
+    "descendants": 67,
+    "time": 1448099919
   },
   {
     "rank": 10,
     "id": 10607747,
     "title": "Webtorrent \u2013 BitTorrent over WebRTC",
     "url": "https://github.com/feross/webtorrent",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "rvikmanis",
+    "descendants": 108,
+    "time": 1448134316
   }
 ]

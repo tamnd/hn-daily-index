@@ -4,99 +4,99 @@
     "id": 10566312,
     "title": "Xv6",
     "url": "https://en.wikipedia.org/wiki/Xv6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "jdmoreira",
+    "descendants": 47,
+    "time": 1447520539
   },
   {
     "rank": 2,
     "id": 10570069,
     "title": "18F's Micro-Purchase Experiment: Why I Bid $1",
     "url": "http://www.brendansudol.com/writing/18f-micropurchase/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "brensudol",
+    "descendants": 135,
+    "time": 1447605526
   },
   {
     "rank": 3,
     "id": 10570770,
     "title": "Sigma.js: a JavaScript library for graph drawing",
     "url": "http://sigmajs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "tlack",
+    "descendants": 34,
+    "time": 1447616051
   },
   {
     "rank": 4,
     "id": 10570856,
     "title": "Walmart\u2019s $10 Smartphone Has Better Specs Than the Original iPhone",
     "url": "http://motherboard.vice.com/read/walmarts-10-smartphone-has-better-specs-than-the-original-iphone",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "bane",
+    "descendants": 199,
+    "time": 1447616989
   },
   {
     "rank": 5,
     "id": 10572678,
     "title": "Physics Forests",
     "url": "http://people.inf.ethz.ch/sjeong/physicsforests/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "archgoon",
+    "descendants": 31,
+    "time": 1447649747
   },
   {
     "rank": 6,
     "id": 10572863,
     "title": "The Advertising Bubble",
     "url": "http://idlewords.com/2015/11/the_advertising_bubble.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 551,
+    "by": "vorador",
+    "descendants": 325,
+    "time": 1447653253
   },
   {
     "rank": 7,
     "id": 10573399,
     "title": "Modern Java \u2013 A Guide to Java 8",
     "url": "https://github.com/winterbe/java8-tutorial",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "aronhunt470",
+    "descendants": 197,
+    "time": 1447665138
   },
   {
     "rank": 8,
     "id": 10574011,
     "title": "The most popular curl download \u2013 by a malware",
     "url": "http://daniel.haxx.se/blog/2015/11/16/the-most-popular-curl-download-by-a-malware/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "robin_reala",
+    "descendants": 52,
+    "time": 1447677042
   },
   {
     "rank": 9,
     "id": 10575953,
     "title": "Jessica Livingston",
     "url": "http://paulgraham.com/jessica.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1740,
+    "by": "urs",
+    "descendants": 307,
+    "time": 1447697275
   },
   {
     "rank": 10,
     "id": 10577339,
     "title": "Pandora to Buy Rdio Assets for $75M, Rdio Files Ch.11, Will Shutter Service",
     "url": "http://techcrunch.com/2015/11/16/confirmed-pandora-buys-key-rdio-assets-for-75m-in-cash-rdio-files-ch-11-to-shut-down/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "MarlonPro",
+    "descendants": 254,
+    "time": 1447709391
   }
 ]

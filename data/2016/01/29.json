@@ -4,99 +4,99 @@
     "id": 10988948,
     "title": "Tails 2.0 is out",
     "url": "https://tails.boum.org/news/version_2.0/index.en.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "rouma7",
+    "descendants": 76,
+    "time": 1453997121
   },
   {
     "rank": 2,
     "id": 10990765,
     "title": "Announcing TypeScript 1.8 Beta",
     "url": "http://blogs.msdn.com/b/typescript/archive/2016/01/28/announcing-typescript-1-8-beta.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "DanRosenwasser",
+    "descendants": 82,
+    "time": 1454011136
   },
   {
     "rank": 3,
     "id": 10990998,
     "title": "Sit/Stand Desk: IKEA Skarsta Review",
     "url": "http://blog.c-mart.in/posts/sit-stand-desk-ikea-skarsta-review",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "chrismartin",
+    "descendants": 245,
+    "time": 1454012677
   },
   {
     "rank": 4,
     "id": 10992651,
     "title": "The Best Teacher I Never Had",
     "url": "https://www.gatesnotes.com/Education/The-Best-Teacher-I-Never-Had",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 413,
+    "by": "frostmatthew",
+    "descendants": 97,
+    "time": 1454027089
   },
   {
     "rank": 5,
     "id": 10993470,
     "title": "How I fixed Atom",
     "url": "http://davidvgalbraith.com/how-i-fixed-atom/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 551,
+    "by": "Garbage",
+    "descendants": 183,
+    "time": 1454041222
   },
   {
     "rank": 6,
     "id": 10994707,
     "title": "Goldman Sachs and the $580M Black Hole (2012)",
     "url": "http://www.nytimes.com/2012/07/15/business/goldman-sachs-and-a-sale-gone-horribly-awry.html?_r=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "luxpir",
+    "descendants": 141,
+    "time": 1454068625
   },
   {
     "rank": 7,
     "id": 10994736,
     "title": "Kinto by Mozilla \u2013 An open-source Parse alternative",
     "url": "https://github.com/Kinto/kinto/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 537,
+    "by": "yarapavan",
+    "descendants": 73,
+    "time": 1454069281
   },
   {
     "rank": 8,
     "id": 10994784,
     "title": "Login Forms Over HTTPS, Please",
     "url": "https://hacks.mozilla.org/2016/01/login-forms-over-https-please/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "_jomo",
+    "descendants": 113,
+    "time": 1454070032
   },
   {
     "rank": 9,
     "id": 10994885,
     "title": "The Command Line Murders",
     "url": "https://github.com/veltman/clmystery",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "coolvoltage",
+    "descendants": 60,
+    "time": 1454071597
   },
   {
     "rank": 10,
     "id": 10996147,
     "title": "San Francisco Bubble",
     "url": "http://blog.larrold.com/2016/01/29/san-francisco-bubble/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "thelarry",
+    "descendants": 376,
+    "time": 1454084956
   }
 ]

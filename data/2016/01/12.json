@@ -4,99 +4,99 @@
     "id": 10881413,
     "title": "People Call Me Aaron",
     "url": "https://medium.com/@swartzcr/people-call-me-aaron-3761481871e5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "marsvoltaire",
+    "descendants": 105,
+    "time": 1452530042
   },
   {
     "rank": 2,
     "id": 10882766,
     "title": "Superpowers, a collaborative HTML5 2D and 3D game maker, is now open-source",
     "url": "http://superpowers-html5.com/index.en.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "elisee",
+    "descendants": 43,
+    "time": 1452541252
   },
   {
     "rank": 3,
     "id": 10884408,
     "title": "Aaron Swartz died three years ago today",
     "url": "http://crookedtimber.org/2016/01/11/aaron-swartz-died-three-years-ago-today/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 635,
+    "by": "jseliger",
+    "descendants": 204,
+    "time": 1452554486
   },
   {
     "rank": 4,
     "id": 10884893,
     "title": "Shutting down persona.org in November 2016",
     "url": "https://mail.mozilla.org/pipermail/persona-notices/2016/000005.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "buro9",
+    "descendants": 136,
+    "time": 1452561245
   },
   {
     "rank": 5,
     "id": 10885727,
     "title": "A Beginner's Guide to Scaling to 11M+ Users on Amazon's AWS",
     "url": "http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "dsr12",
+    "descendants": 146,
+    "time": 1452576549
   },
   {
     "rank": 6,
     "id": 10886253,
     "title": "Two Weeks of Rust",
     "url": "http://www.matusiak.eu/numerodix/blog/2016/1/10/two-weeks-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "mre",
+    "descendants": 343,
+    "time": 1452588278
   },
   {
     "rank": 7,
     "id": 10886259,
     "title": "Google recommends inlining small CSS",
     "url": "https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "jayfk",
+    "descendants": 136,
+    "time": 1452588474
   },
   {
     "rank": 8,
     "id": 10887981,
     "title": "SSH Backdoor found in Fortinet firewalls",
     "url": "http://seclists.org/fulldisclosure/2016/Jan/26",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "CariadKeigher",
+    "descendants": 121,
+    "time": 1452613053
   },
   {
     "rank": 9,
     "id": 10888061,
     "title": "Code that will break in Python 4",
     "url": "http://astrofrog.github.io/blog/2016/01/12/stop-writing-python-4-incompatible-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "astrofrog",
+    "descendants": 221,
+    "time": 1452613713
   },
   {
     "rank": 10,
     "id": 10889881,
     "title": "Stripe now supports ACH payments",
     "url": "https://stripe.com/blog/accept-ach-payments",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "craigkerstiens",
+    "descendants": 192,
+    "time": 1452628455
   }
 ]

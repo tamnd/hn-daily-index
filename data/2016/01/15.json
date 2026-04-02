@@ -4,99 +4,99 @@
     "id": 10902323,
     "title": "Netflix to block proxy access to content not available locally",
     "url": "http://in.reuters.com/article/us-netflix-launch-idINKCN0US23020160114",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "msravi",
+    "descendants": 467,
+    "time": 1452788827
   },
   {
     "rank": 2,
     "id": 10904452,
     "title": "Why Kubernetes isn't using Docker's libnetwork",
     "url": "http://blog.kubernetes.io/2016/01/why-Kubernetes-doesnt-use-libnetwork.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "brendandburns",
+    "descendants": 43,
+    "time": 1452805338
   },
   {
     "rank": 3,
     "id": 10904798,
     "title": "A statement from f.lux about Apple's recent announcement",
     "url": "https://justgetflux.com/news/2016/01/14/apple.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "mrzool",
+    "descendants": 190,
+    "time": 1452808131
   },
   {
     "rank": 4,
     "id": 10905118,
     "title": "The resolution of the Bitcoin experiment",
     "url": "https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 961,
+    "by": "tptacek",
+    "descendants": 408,
+    "time": 1452809884
   },
   {
     "rank": 5,
     "id": 10905643,
     "title": "There are no secure smartphones",
     "url": "https://www.devever.net/~hl/nosecuresmartphone",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "moehm",
+    "descendants": 118,
+    "time": 1452814063
   },
   {
     "rank": 6,
     "id": 10907163,
     "title": "Amazon Has Just Registered to Sell Ocean Freight",
     "url": "https://www.flexport.com/blog/amazon-ocean-freight-forwarder/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "prostoalex",
+    "descendants": 98,
+    "time": 1452831668
   },
   {
     "rank": 7,
     "id": 10907577,
     "title": "Signs of Secret Phone Surveillance Across London",
     "url": "https://news.vice.com/article/vice-news-investigation-finds-signs-of-secret-phone-surveillance-across-london",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "walterbell",
+    "descendants": 98,
+    "time": 1452838720
   },
   {
     "rank": 8,
     "id": 10907868,
     "title": "Wikipedia Turns 15",
     "url": "https://15.wikipedia.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "doppp",
+    "descendants": 109,
+    "time": 1452844685
   },
   {
     "rank": 9,
     "id": 10910455,
     "title": "An open letter of gratitude to GitHub",
     "url": "https://github.com/thank-you-github/thank-you-github",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "arthurnn",
+    "descendants": 104,
+    "time": 1452876841
   },
   {
     "rank": 10,
     "id": 10911066,
     "title": "Before Growth",
     "url": "http://blog.samaltman.com/before-growth",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "firloop",
+    "descendants": 206,
+    "time": 1452882239
   }
 ]

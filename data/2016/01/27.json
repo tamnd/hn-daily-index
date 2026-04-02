@@ -4,99 +4,99 @@
     "id": 10974870,
     "title": "From Python to Lua: Why We Switched",
     "url": "https://www.distelli.com/blog/using-lua-for-our-most-critical-production-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "chase202",
+    "descendants": 188,
+    "time": 1453832222
   },
   {
     "rank": 2,
     "id": 10974929,
     "title": "Disabling npm's progress bar yields a 2x npm install speed improvement",
     "url": "https://twitter.com/gavinjoyce/status/691773956144119808",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "ishtu",
+    "descendants": 174,
+    "time": 1453832701
   },
   {
     "rank": 3,
     "id": 10975254,
     "title": "\u201cNo Cost\u201d License Plate Readers Are Turning Texas Police into Debt Collectors",
     "url": "https://www.eff.org/deeplinks/2016/01/no-cost-license-plate-readers-are-turning-texas-police-mobile-debt-collectors-and",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "DiabloD3",
+    "descendants": 194,
+    "time": 1453835772
   },
   {
     "rank": 4,
     "id": 10976737,
     "title": "A Badass Way to Connect Programs Together",
     "url": "http://joearms.github.io/2016/01/28/A-Badass-Way-To-Connect-Programs-Together.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "norswap",
+    "descendants": 145,
+    "time": 1453847537
   },
   {
     "rank": 5,
     "id": 10977295,
     "title": "Glittering Blue",
     "url": "https://glittering.blue/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "netinstructions",
+    "descendants": 94,
+    "time": 1453853632
   },
   {
     "rank": 6,
     "id": 10977819,
     "title": "Voxel.css",
     "url": "http://voxelcss.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 771,
+    "by": "notdarkyet",
+    "descendants": 103,
+    "time": 1453861795
   },
   {
     "rank": 7,
     "id": 10978841,
     "title": "Why I Strive to be a 0.1x Engineer",
     "url": "http://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "ingve",
+    "descendants": 272,
+    "time": 1453881479
   },
   {
     "rank": 8,
     "id": 10979452,
     "title": "Why are submarines demagnetized?",
     "url": "http://qi.epfl.ch/en/sondage/show/255/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "fgeorgy",
+    "descendants": 114,
+    "time": 1453893201
   },
   {
     "rank": 9,
     "id": 10981679,
     "title": "Google achieves AI 'breakthrough' by beating Go champion",
     "url": "http://www.bbc.co.uk/news/technology-35420579",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1207,
+    "by": "xianshou",
+    "descendants": 394,
+    "time": 1453917887
   },
   {
     "rank": 10,
     "id": 10982340,
     "title": "Request For Research: Basic Income",
     "url": "https://blog.ycombinator.com/basic-income",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1876,
+    "by": "mattkrisiloff",
+    "descendants": 1121,
+    "time": 1453922605
   }
 ]

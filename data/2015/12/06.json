@@ -4,99 +4,99 @@
     "id": 10678886,
     "title": "I installed CoreOS on a 9-year-old MacBook",
     "url": "https://medium.com/@singuerinc/i-installed-coreos-in-9-years-old-macbook-3aec88489090#.djmramizx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 125,
+    "by": "singuerinc",
+    "descendants": 30,
+    "time": 1449260588
   },
   {
     "rank": 2,
     "id": 10681555,
     "title": "Pricing Programmers",
     "url": "https://www.facebook.com/notes/kent-beck/pricing-programmers/1062181727148024",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 162,
+    "by": "ingve",
+    "descendants": 124,
+    "time": 1449313606
   },
   {
     "rank": 3,
     "id": 10682707,
     "title": "Python: Generators, Coroutines, Native Coroutines and Async/Await",
     "url": "http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "snw",
+    "descendants": 30,
+    "time": 1449339267
   },
   {
     "rank": 4,
     "id": 10683059,
     "title": "Why Japanese leaders attacked Pearl Harbor",
     "url": "https://www.timeline.com/stories/pearl-harbor-was-attacked-because-it-would-have-been-rude-not-to",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "log-fire",
+    "descendants": 129,
+    "time": 1449345288
   },
   {
     "rank": 5,
     "id": 10683217,
     "title": "Why Old Sports Photos Often Have a Blue Haze",
     "url": "http://petapixel.com/2015/10/15/why-old-sports-photos-often-have-a-blue-haze/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 116,
+    "by": "lelf",
+    "descendants": 33,
+    "time": 1449348360
   },
   {
     "rank": 6,
     "id": 10683509,
     "title": "Introducing d3-shape",
     "url": "https://medium.com/@mbostock/introducing-d3-shape-73f8367e6d12",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "ingve",
+    "descendants": 19,
+    "time": 1449354646
   },
   {
     "rank": 7,
     "id": 10683627,
     "title": "Ghost Streets of Los Angeles",
     "url": "http://bldgblog.blogspot.com/2015/12/ghost-streets-of-los-angeles.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 121,
+    "by": "ingve",
+    "descendants": 21,
+    "time": 1449356867
   },
   {
     "rank": 8,
     "id": 10683889,
     "title": "Base65536 \u2013 Unicode's answer to Base64",
     "url": "https://www.npmjs.com/package/base65536",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "tomjakubowski",
+    "descendants": 50,
+    "time": 1449362600
   },
   {
     "rank": 9,
     "id": 10684482,
     "title": "Building the Tamagotchi Singularity",
     "url": "http://spritesmods.com/?art=tamasingularity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "jcreedon",
+    "descendants": 13,
+    "time": 1449379634
   },
   {
     "rank": 10,
     "id": 10686676,
     "title": "Survey of popular Node.js packages reveals credential leaks",
     "url": "https://github.com/ChALkeR/notes/blob/master/Do-not-underestimate-credentials-leaks.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "fapjacks",
+    "descendants": 76,
+    "time": 1449436839
   }
 ]

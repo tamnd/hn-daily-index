@@ -4,99 +4,99 @@
     "id": 10877270,
     "title": "Intel CPU Bugs of 2015 and Implications for the Future",
     "url": "http://danluu.com/cpu-bugs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 204,
+    "by": "tolien",
+    "descendants": 38,
+    "time": 1452461009
   },
   {
     "rank": 2,
     "id": 10877799,
     "title": "Two months after FBI debacle, Tor Project still can\u2019t get an answer from CMU",
     "url": "http://arstechnica.com/security/2016/01/going-forward-the-tor-project-wants-to-be-less-reliant-on-us-govt-funding/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "pavornyoh",
+    "descendants": 45,
+    "time": 1452469342
   },
   {
     "rank": 3,
     "id": 10877810,
     "title": "YouTube change served lower-quality video to Firefox 43 for 2 weeks",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1233970#c25",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "temp",
+    "descendants": 257,
+    "time": 1452469444
   },
   {
     "rank": 4,
     "id": 10878348,
     "title": "Google is Forcing Routebuilder to Shut Down",
     "url": "https://medium.com/@andrewcmartin/google-maps-is-forcing-routebuilder-to-shutdown-615ce42f413a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "Jerry2",
+    "descendants": 190,
+    "time": 1452477994
   },
   {
     "rank": 5,
     "id": 10879262,
     "title": "David Bowie Has Died",
     "url": "http://www.hollywoodreporter.com/news/david-bowie-dead-legendary-artist-854364",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1484,
+    "by": "hccampos",
+    "descendants": 301,
+    "time": 1452495462
   },
   {
     "rank": 6,
     "id": 10880726,
     "title": "Open Guide to Equity Compensation",
     "url": "https://github.com/jlevy/og-equity-compensation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 482,
+    "by": "zalzal",
+    "descendants": 74,
+    "time": 1452520276
   },
   {
     "rank": 7,
     "id": 10880931,
     "title": "IBM ported Go to s390x mainframes",
     "url": "https://github.com/linux-on-ibm-z/go",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "pythonist",
+    "descendants": 120,
+    "time": 1452522866
   },
   {
     "rank": 8,
     "id": 10881262,
     "title": "Why NSA Surveillance Scares Me",
     "url": "http://bentilly.blogspot.com/2016/01/why-nsa-surveillance-scares-me.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "btilly",
+    "descendants": 113,
+    "time": 1452528881
   },
   {
     "rank": 9,
     "id": 10882261,
     "title": "iOS 9.3 Preview",
     "url": "https://www.apple.com/ios/preview/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "jmduke",
+    "descendants": 304,
+    "time": 1452538016
   },
   {
     "rank": 10,
     "id": 10882563,
     "title": "TrendMicro Node.js HTTP server listening on localhost can execute commands",
     "url": "https://code.google.com/p/google-security-research/issues/detail?id=693",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1030,
+    "by": "tptacek",
+    "descendants": 229,
+    "time": 1452540175
   }
 ]

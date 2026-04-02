@@ -4,99 +4,99 @@
     "id": 10594475,
     "title": "Web login using SSH",
     "url": "https://github.com/altitude/login-with-ssh",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "levosmetalo",
+    "descendants": 81,
+    "time": 1447938048
   },
   {
     "rank": 2,
     "id": 10596859,
     "title": "Apache Geode: Distributed, in-memory database",
     "url": "http://geode.incubator.apache.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "espeed",
+    "descendants": 62,
+    "time": 1447960438
   },
   {
     "rank": 3,
     "id": 10598195,
     "title": "Deep inside the Linux kernel: a network latency spike",
     "url": "https://http2.cloudflare.com/the-story-of-one-latency-spike/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "jgrahamc",
+    "descendants": 28,
+    "time": 1447972522
   },
   {
     "rank": 4,
     "id": 10599543,
     "title": "We know the city where HIV first emerged",
     "url": "http://www.bbc.com/earth/story/20151119-we-know-the-city-where-hiv-first-infected-a-human",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "Perados",
+    "descendants": 47,
+    "time": 1447993411
   },
   {
     "rank": 5,
     "id": 10600520,
     "title": "Python's Hidden Regular Expression Gems",
     "url": "http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "temp",
+    "descendants": 47,
+    "time": 1448014749
   },
   {
     "rank": 6,
     "id": 10601154,
     "title": "Introducing the Shift Card: Use Bitcoin where Visa is accepted",
     "url": "https://blog.coinbase.com/2015/11/20/introducing-the-shift-card/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 632,
+    "by": "ntomaino",
+    "descendants": 342,
+    "time": 1448028160
   },
   {
     "rank": 7,
     "id": 10601265,
     "title": "Baseless Calls to Expand Surveillance Fit Familiar, Cynical Pattern",
     "url": "https://www.eff.org/deeplinks/2015/11/baseless-calls-expand-surveillance-fit-familiar-cynical-pattern",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "pavornyoh",
+    "descendants": 118,
+    "time": 1448029603
   },
   {
     "rank": 8,
     "id": 10602106,
     "title": "The Macro",
     "url": "http://macro.ycombinator.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 454,
+    "by": "BIackSwan",
+    "descendants": 133,
+    "time": 1448037707
   },
   {
     "rank": 9,
     "id": 10603360,
     "title": "Saudi Arabia, an ISIS That Has Made It",
     "url": "http://www.nytimes.com/2015/11/21/opinion/saudi-arabia-an-isis-that-has-made-it.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "kawera",
+    "descendants": 265,
+    "time": 1448048632
   },
   {
     "rank": 10,
     "id": 10604010,
     "title": "NASA Orders SpaceX Crew Mission to International Space Station",
     "url": "http://www.nasa.gov/press-release/nasa-orders-spacex-crew-mission-to-international-space-station",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 593,
+    "by": "jkaljundi",
+    "descendants": 136,
+    "time": 1448055075
   }
 ]

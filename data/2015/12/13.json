@@ -4,99 +4,99 @@
     "id": 10709730,
     "title": "Untangling the Tale of Ada Lovelace",
     "url": "http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 157,
+    "by": "lispython",
+    "descendants": 35,
+    "time": 1449739675
   },
   {
     "rank": 2,
     "id": 10718216,
     "title": "Tokyo police are using drones with nets to catch other drones",
     "url": "http://www.telegraph.co.uk/technology/news/12045733/Tokyo-police-are-using-drones-with-nets-to-catch-other-drones.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 134,
+    "by": "kawera",
+    "descendants": 51,
+    "time": 1449853531
   },
   {
     "rank": 3,
     "id": 10720485,
     "title": "How I became a morning person",
     "url": "https://medium.com/@jazer/how-i-became-a-morning-person-and-why-i-decided-to-make-the-change-eb1b012a16e5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "ingve",
+    "descendants": 142,
+    "time": 1449872118
   },
   {
     "rank": 4,
     "id": 10724460,
     "title": "Ask HN: Novelty addiction is ruining my life and career. What should I do?",
     "url": "https://news.ycombinator.com/item?id=10724460",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 174,
+    "by": "atemerev",
+    "descendants": 190,
+    "time": 1449959931
   },
   {
     "rank": 5,
     "id": 10724592,
     "title": "Stockfighter is live",
     "url": "https://www.stockfighter.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 549,
+    "by": "jzig",
+    "descendants": 138,
+    "time": 1449962122
   },
   {
     "rank": 6,
     "id": 10725707,
     "title": "Chris Lattner on Swift and dynamic dispatch",
     "url": "https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20151207/001948.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "_quhg",
+    "descendants": 81,
+    "time": 1449992303
   },
   {
     "rank": 7,
     "id": 10725859,
     "title": "Files Are Hard",
     "url": "http://danluu.com/file-consistency/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "pyb",
+    "descendants": 151,
+    "time": 1449998356
   },
   {
     "rank": 8,
     "id": 10726488,
     "title": "Anki \u2013 a program which makes remembering things easy",
     "url": "http://ankisrs.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "sonabinu",
+    "descendants": 210,
+    "time": 1450019058
   },
   {
     "rank": 9,
     "id": 10726497,
     "title": "Bullshit Startup Experiences",
     "url": "http://totalgarb.tumblr.com/tagged/startupbullshit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 530,
+    "by": "supjeff",
+    "descendants": 288,
+    "time": 1450019336
   },
   {
     "rank": 10,
     "id": 10727431,
     "title": "Avast\u2019s man in the middle",
     "url": "http://www.thesafemac.com/avasts-man-in-the-middle/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "hwdsl2",
+    "descendants": 77,
+    "time": 1450033770
   }
 ]

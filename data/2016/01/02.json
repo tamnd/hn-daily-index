@@ -4,99 +4,99 @@
     "id": 10822244,
     "title": "Reverse Engineering the GoPro Cineform Codec",
     "url": "https://medium.com/@kierank_/reverse-engineering-the-gopro-cineform-codec-7411312bfe1c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "ingve",
+    "descendants": 25,
+    "time": 1451665623
   },
   {
     "rank": 2,
     "id": 10822479,
     "title": "Writing an OS in Rust: Remap the Kernel",
     "url": "http://os.phil-opp.com/remap-the-kernel.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "phil-opp",
+    "descendants": 25,
+    "time": 1451669834
   },
   {
     "rank": 3,
     "id": 10822995,
     "title": "Python moves to GitHub",
     "url": "https://mail.python.org/pipermail/core-workflow/2016-January/000345.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 245,
+    "by": "rashoodkhan",
+    "descendants": 112,
+    "time": 1451676647
   },
   {
     "rank": 4,
     "id": 10824064,
     "title": "Show HN: GPU text rendering with vector textures",
     "url": "http://wdobbie.com/post/gpu-text-rendering-with-vector-textures/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "wjd",
+    "descendants": 87,
+    "time": 1451690802
   },
   {
     "rank": 5,
     "id": 10825536,
     "title": "Happy people don\u2019t leave jobs they love",
     "url": "http://randsinrepose.com/archives/shields-down/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "BerislavLopac",
+    "descendants": 124,
+    "time": 1451723353
   },
   {
     "rank": 6,
     "id": 10826154,
     "title": "BitTorrent file system",
     "url": "https://github.com/johang/btfs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "matt2000",
+    "descendants": 33,
+    "time": 1451742067
   },
   {
     "rank": 7,
     "id": 10826448,
     "title": "Disque 1.0 RC1 is out",
     "url": "http://antirez.com/news/100",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "antirez",
+    "descendants": 51,
+    "time": 1451748868
   },
   {
     "rank": 8,
     "id": 10826836,
     "title": "The Refragmentation",
     "url": "http://paulgraham.com/re.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 852,
+    "by": "urs",
+    "descendants": 444,
+    "time": 1451755306
   },
   {
     "rank": 9,
     "id": 10826838,
     "title": "Economic Inequality",
     "url": "http://paulgraham.com/ineq.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "urs",
+    "descendants": 547,
+    "time": 1451755331
   },
   {
     "rank": 10,
     "id": 10827588,
     "title": "A Response to Paul Graham\u2019s Article on Income Inequality",
     "url": "http://cryoshon.co/2016/01/02/a-response-to-paul-grahams-article-on-income-inequality/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "hobs",
+    "descendants": 224,
+    "time": 1451764222
   }
 ]

@@ -4,99 +4,99 @@
     "id": 10799208,
     "title": "Why Engineers Can\u2019t Stop Los Angeles' Enormous Methane Leak",
     "url": "http://www.laweekly.com/news/what-went-wrong-at-porter-ranch-6405804",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 199,
+    "by": "timr",
+    "descendants": 87,
+    "time": 1451261490
   },
   {
     "rank": 2,
     "id": 10799477,
     "title": "China passes law requiring tech firms to hand over encryption keys",
     "url": "http://betanews.com/2015/12/27/china-passes-law-requiring-tech-firms-to-hand-over-encryption-keys/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "DiabloD3",
+    "descendants": 112,
+    "time": 1451268331
   },
   {
     "rank": 3,
     "id": 10802413,
     "title": "Stupid Patent of the Month: Microsoft\u2019s Design Patent on a Slider",
     "url": "https://www.eff.org/deeplinks/2015/12/stupid-patent-month-microsofts-design-patent-slider",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "sinak",
+    "descendants": 212,
+    "time": 1451326150
   },
   {
     "rank": 4,
     "id": 10802631,
     "title": "SQL Tabs \u2013 Rich SQL Console for Postgresql",
     "url": "http://www.sqltabs.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "craigkerstiens",
+    "descendants": 50,
+    "time": 1451328467
   },
   {
     "rank": 5,
     "id": 10803467,
     "title": "AVG: \u201cWeb TuneUP\u201d extension multiple critical vulnerabilities",
     "url": "https://code.google.com/p/google-security-research/issues/detail?id=675",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "pfg",
+    "descendants": 109,
+    "time": 1451337773
   },
   {
     "rank": 6,
     "id": 10803680,
     "title": "Judge: Drinking tea, shopping at garden store probable cause for SWAT raid",
     "url": "https://www.washingtonpost.com/news/the-watch/wp/2015/12/28/federal-judge-drinking-tea-shopping-at-a-gardening-store-is-probable-cause-for-a-swat-raid-on-your-home/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "eric_h",
+    "descendants": 139,
+    "time": 1451340429
   },
   {
     "rank": 7,
     "id": 10803775,
     "title": "Mysterious Android codebase commit",
     "url": "https://android.googlesource.com/platform/libcore.git/+/51b1b6997fd3f980076b8081f7f1165ccc2a4008",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "rogerthis",
+    "descendants": 158,
+    "time": 1451341579
   },
   {
     "rank": 8,
     "id": 10806686,
     "title": "Linode is suffering on-going DDoS attacks",
     "url": "http://status.linode.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "empressplay",
+    "descendants": 177,
+    "time": 1451397861
   },
   {
     "rank": 9,
     "id": 10806956,
     "title": "When coding style survives compilation: De-anonymizing programmers from binaries",
     "url": "https://freedom-to-tinker.com/blog/aylin/when-coding-style-survives-compilation-de-anonymizing-programmers-from-executable-binaries/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "randomwalker",
+    "descendants": 67,
+    "time": 1451401574
   },
   {
     "rank": 10,
     "id": 10807501,
     "title": "Best things and stuff of 2015",
     "url": "http://blog.fogus.me/2015/12/29/the-best-things-and-stuff-of-2015/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "platz",
+    "descendants": 85,
+    "time": 1451407497
   }
 ]

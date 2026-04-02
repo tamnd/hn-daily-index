@@ -4,99 +4,99 @@
     "id": 10782909,
     "title": "Things I wish I knew earlier about Machine Learning",
     "url": "https://peadarcoyle.wordpress.com/2015/12/23/three-things-i-wish-i-knew-earlier-about-machine-learning/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "ColinWright",
+    "descendants": 11,
+    "time": 1450870697
   },
   {
     "rank": 2,
     "id": 10786411,
     "title": "Neon: Node plus Rust",
     "url": "http://calculist.org/blog/2015/12/23/neon-node-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "aturon",
+    "descendants": 69,
+    "time": 1450916242
   },
   {
     "rank": 3,
     "id": 10786481,
     "title": "How to trick a neural network into thinking a panda is a vulture",
     "url": "https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "jvns",
+    "descendants": 66,
+    "time": 1450917961
   },
   {
     "rank": 4,
     "id": 10786492,
     "title": "Brazil declares emergency after 2,400 babies are born with brain damage",
     "url": "https://www.washingtonpost.com/news/to-your-health/wp/2015/12/23/brazil-declares-emergency-after-2400-babies-are-born-with-brain-damage-possibly-due-to-mosquito-borne-virus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "igonvalue",
+    "descendants": 137,
+    "time": 1450918155
   },
   {
     "rank": 5,
     "id": 10786842,
     "title": "Want to Write a Compiler? Read These Two Papers (2008)",
     "url": "http://prog21.dadgum.com/30.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "rspivak",
+    "descendants": 70,
+    "time": 1450925830
   },
   {
     "rank": 6,
     "id": 10787283,
     "title": "How to get rich in tech",
     "url": "http://startupljackson.com/post/135800367395/how-to-get-rich-in-tech-guaranteed",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "sirteno",
+    "descendants": 190,
+    "time": 1450936390
   },
   {
     "rank": 7,
     "id": 10787608,
     "title": "HackMyResume is a dev-friendly, local-only Swiss Army knife for resumes and CVs",
     "url": "https://github.com/hacksalot/HackMyResume",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "zerotosixty",
+    "descendants": 64,
+    "time": 1450947491
   },
   {
     "rank": 8,
     "id": 10787614,
     "title": "State Considered Harmful \u2013 A Proposal for a Stateless Laptop",
     "url": "http://blog.invisiblethings.org/2015/12/23/state_harmful.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "kushti",
+    "descendants": 103,
+    "time": 1450947664
   },
   {
     "rank": 9,
     "id": 10787972,
     "title": "Open Letter to Mozilla: Bring Back Persona",
     "url": "http://www.stavros.io/posts/open-letter-mozilla-bring-back-persona/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 905,
+    "by": "StavrosK",
+    "descendants": 237,
+    "time": 1450960682
   },
   {
     "rank": 10,
     "id": 10788198,
     "title": "ClojureScript Year in Review",
     "url": "http://swannodette.github.io/2015/12/23/year-in-review/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "pella",
+    "descendants": 58,
+    "time": 1450966599
   }
 ]

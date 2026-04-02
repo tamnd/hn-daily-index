@@ -4,99 +4,99 @@
     "id": 10559387,
     "title": "How Apple Is Giving Design a Bad Name",
     "url": "http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "andyjohnson0",
+    "descendants": 137,
+    "time": 1447416837
   },
   {
     "rank": 2,
     "id": 10564678,
     "title": "Canada's Muzzled Scientists Can Speak Freely Again",
     "url": "http://motherboard.vice.com/read/canadas-muzzled-scientists-can-speak-freely-again-so-i-called-a-few-up",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "mathgenius",
+    "descendants": 71,
+    "time": 1447480835
   },
   {
     "rank": 3,
     "id": 10565940,
     "title": "Julia Computing Granted $600k by Moore Foundation",
     "url": "https://www.moore.org/newsroom/in-the-news/2015/11/10/bringing-julia-from-beta-to-1.0-to-support-data-intensive-scientific-computing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "one-more-minute",
+    "descendants": 128,
+    "time": 1447514813
   },
   {
     "rank": 4,
     "id": 10566664,
     "title": "CVE-2015-8126: Multiple buffer overflows in libpng",
     "url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-8126",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "pjmlp",
+    "descendants": 84,
+    "time": 1447526087
   },
   {
     "rank": 5,
     "id": 10567408,
     "title": "We need less powerful languages",
     "url": "http://lukeplant.me.uk/blog/posts/less-powerful-languages/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "ingve",
+    "descendants": 176,
+    "time": 1447537721
   },
   {
     "rank": 6,
     "id": 10568525,
     "title": "Opposition to Facebook's new internet.org",
     "url": "https://www.techinasia.com/talk/facebooks-internetorg-evil/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "williswee",
+    "descendants": 136,
+    "time": 1447562495
   },
   {
     "rank": 7,
     "id": 10568705,
     "title": "The Birth of ZFS [video]",
     "url": "https://www.youtube.com/watch?v=dcV2PaMTAJ4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "bcantrill",
+    "descendants": 58,
+    "time": 1447568529
   },
   {
     "rank": 8,
     "id": 10569532,
     "title": "We dissent",
     "url": "http://claremontindependent.com/we-dissent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "zabramow",
+    "descendants": 124,
+    "time": 1447593732
   },
   {
     "rank": 9,
     "id": 10569994,
     "title": "Kashmir: A statically typed Lispy language compiling to Go",
     "url": "https://owickstrom.github.io/kashmir/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "owickstrom",
+    "descendants": 71,
+    "time": 1447604539
   },
   {
     "rank": 10,
     "id": 10570731,
     "title": "\u201cf.lux has been ready to ship for iOS for four years, but we need Apple's help.\u201d",
     "url": "https://www.facebook.com/justgetflux/posts/932125010157582",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "KevinBongart",
+    "descendants": 120,
+    "time": 1447615677
   }
 ]

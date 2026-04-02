@@ -4,99 +4,99 @@
     "id": 10534172,
     "title": "Jeff Dean explains TensorFlow [video]",
     "url": "https://www.youtube.com/watch?v=90-S1M7Ny_o&t=21m2s",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "quantisan",
+    "descendants": 62,
+    "time": 1447088597
   },
   {
     "rank": 2,
     "id": 10535210,
     "title": "Looking back at 9 years of Hacker News",
     "url": "http://debarghyadas.com/writes/2015/11/08/looking-back-at-9-years-of-hacker-news/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "dd367",
+    "descendants": 79,
+    "time": 1447097392
   },
   {
     "rank": 3,
     "id": 10536683,
     "title": "Judge Deals a Blow to N.S.A. Data Collection Program",
     "url": "http://www.nytimes.com/2015/11/10/us/politics/judge-deals-a-blow-to-nsa-phone-surveillance-program.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "daegloe",
+    "descendants": 35,
+    "time": 1447113228
   },
   {
     "rank": 4,
     "id": 10536715,
     "title": "The Government Uses Zero Days for \u201cOffense\u201d",
     "url": "https://www.eff.org/deeplinks/2015/11/its-no-secret-government-uses-zero-days-offense",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "DiabloD3",
+    "descendants": 107,
+    "time": 1447113666
   },
   {
     "rank": 5,
     "id": 10537890,
     "title": "Facebook M \u2013 The Anti-Turing Test",
     "url": "https://medium.com/@arikaleph/facebook-m-the-anti-turing-test-74c5af19987c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "arik-so",
+    "descendants": 156,
+    "time": 1447136854
   },
   {
     "rank": 6,
     "id": 10538079,
     "title": "TPP Text Confirms Massive Loss to Canadian Public Domain",
     "url": "http://www.michaelgeist.ca/2015/11/official-release-of-tpp-text-confirms-massive-loss-to-canadian-public-domain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "jdc",
+    "descendants": 119,
+    "time": 1447142185
   },
   {
     "rank": 7,
     "id": 10538307,
     "title": "The most powerful mobile electromagnetic railgun built by a non-government",
     "url": "http://imgur.com/a/GrAiE",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "nkurz",
+    "descendants": 147,
+    "time": 1447147145
   },
   {
     "rank": 8,
     "id": 10539003,
     "title": "Six years of Go",
     "url": "http://blog.golang.org/6years",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "jaxondu",
+    "descendants": 317,
+    "time": 1447160442
   },
   {
     "rank": 9,
     "id": 10539100,
     "title": "Large Companies Game H-1B Visa Program",
     "url": "http://www.nytimes.com/2015/11/11/us/large-companies-game-h-1b-visa-program-leaving-smaller-ones-in-the-cold.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "ganeumann",
+    "descendants": 392,
+    "time": 1447161890
   },
   {
     "rank": 10,
     "id": 10540361,
     "title": "Backblaze Storage Pod 5.0",
     "url": "https://www.backblaze.com/blog/cloud-storage-hardware/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "ingve",
+    "descendants": 216,
+    "time": 1447173719
   }
 ]

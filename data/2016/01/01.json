@@ -4,99 +4,99 @@
     "id": 10812055,
     "title": "Reverse Engineering for Beginners",
     "url": "http://beginners.re/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "ingve",
+    "descendants": 34,
+    "time": 1451484163
   },
   {
     "rank": 2,
     "id": 10812332,
     "title": "Iran's blogfather: Facebook, Instagram and Twitter are killing the web",
     "url": "http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "plg",
+    "descendants": 183,
+    "time": 1451488568
   },
   {
     "rank": 3,
     "id": 10816960,
     "title": "Joyce K. Reynolds, co-editor of RFCs, has died",
     "url": "https://mailarchive.ietf.org/arch/msg/ietf/e9UDzTAAWSlXA2g9bhMbv1SHTx4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 186,
+    "by": "hydragit",
+    "descendants": 9,
+    "time": 1451554495
   },
   {
     "rank": 4,
     "id": 10818981,
     "title": "} // good to go",
     "url": "http://scottmeyers.blogspot.com/2015/12/good-to-go.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "ingve",
+    "descendants": 72,
+    "time": 1451587729
   },
   {
     "rank": 5,
     "id": 10819355,
     "title": "Concepts for Your Cognitive Toolkit",
     "url": "http://mcntyr.com/52-concepts-cognitive-toolkit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "cryoshon",
+    "descendants": 44,
+    "time": 1451592053
   },
   {
     "rank": 6,
     "id": 10819670,
     "title": "Swift: Commonly Rejected Changes",
     "url": "https://github.com/apple/swift-evolution/blob/master/commonly_proposed.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "ingve",
+    "descendants": 87,
+    "time": 1451595897
   },
   {
     "rank": 7,
     "id": 10820445,
     "title": "The Website Obesity Crisis",
     "url": "http://idlewords.com/talks/website_obesity.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1122,
+    "by": "jmduke",
+    "descendants": 367,
+    "time": 1451606506
   },
   {
     "rank": 8,
     "id": 10821493,
     "title": "Clojure 2015 Year in Review",
     "url": "http://stuartsierra.com/2015/12/31/clojure-2015-year-in-review",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 197,
+    "by": "lauriswtf",
+    "descendants": 27,
+    "time": 1451641113
   },
   {
     "rank": 9,
     "id": 10821679,
     "title": "Elixir 1.2.0 Released",
     "url": "https://github.com/elixir-lang/elixir/blob/v1.2.0/CHANGELOG.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "sadiqmmm",
+    "descendants": 66,
+    "time": 1451649154
   },
   {
     "rank": 10,
     "id": 10822019,
     "title": "Ask HN: Who is hiring? (January 2016)",
     "url": "https://news.ycombinator.com/item?id=10822019",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "whoishiring",
+    "descendants": 469,
+    "time": 1451660487
   }
 ]

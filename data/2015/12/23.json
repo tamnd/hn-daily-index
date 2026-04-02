@@ -4,99 +4,99 @@
     "id": 10771567,
     "title": "I analyzed 250 SaaS pricing pages",
     "url": "http://thenextweb.com/insider/2015/12/18/i-analyzed-250-saas-pricing-pages-heres-what-i-found/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "jackgavigan",
+    "descendants": 101,
+    "time": 1450712587
   },
   {
     "rank": 2,
     "id": 10773183,
     "title": "The cold fusion horizon",
     "url": "https://aeon.co/essays/why-do-scientists-dismiss-the-possibility-of-cold-fusion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "jseliger",
+    "descendants": 190,
+    "time": 1450728793
   },
   {
     "rank": 3,
     "id": 10780150,
     "title": "GitLab 8.3 released with Auto-merge and GitLab Pages",
     "url": "https://about.gitlab.com/2015/12/22/gitlab-8-3-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "doppp",
+    "descendants": 101,
+    "time": 1450815789
   },
   {
     "rank": 4,
     "id": 10780579,
     "title": "L\u00d6VE 0.10 released with iOS and Android support",
     "url": "https://love2d.org/wiki/0.10.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "AlexeyBrin",
+    "descendants": 91,
+    "time": 1450820534
   },
   {
     "rank": 5,
     "id": 10780939,
     "title": "Background on the Falcon 9 Launch",
     "url": "http://www.spacex.com/news/2015/12/21/background-tonights-launch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "esm",
+    "descendants": 139,
+    "time": 1450825047
   },
   {
     "rank": 6,
     "id": 10781610,
     "title": "Kim Dotcom loses extradition case",
     "url": "http://www.stuff.co.nz/auckland/75407880/kim-dotcom-loses-extradition-case",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 213,
+    "by": "tptacek",
+    "descendants": 132,
+    "time": 1450836389
   },
   {
     "rank": 7,
     "id": 10781830,
     "title": "Mitigating DoS Attacks with Nginx",
     "url": "https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "Garbage",
+    "descendants": 57,
+    "time": 1450842458
   },
   {
     "rank": 8,
     "id": 10782897,
     "title": "Super small Docker image based on Alpine Linux",
     "url": "https://github.com/gliderlabs/docker-alpine/tree/d751bb2bcacd2a6536280cdc7d313bc6584aa40e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "antouank",
+    "descendants": 159,
+    "time": 1450870395
   },
   {
     "rank": 9,
     "id": 10782969,
     "title": "'New' Python modules of 2015",
     "url": "http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 591,
+    "by": "ColinWright",
+    "descendants": 131,
+    "time": 1450872985
   },
   {
     "rank": 10,
     "id": 10783711,
     "title": "When a Unicorn Startup Stumbles, Its Employees Get Hurt",
     "url": "http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "igonvalue",
+    "descendants": 267,
+    "time": 1450884300
   }
 ]

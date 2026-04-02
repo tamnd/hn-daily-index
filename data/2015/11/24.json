@@ -4,99 +4,99 @@
     "id": 10613213,
     "title": "Garden path sentence",
     "url": "https://en.wikipedia.org/wiki/Garden_path_sentence",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "rgbrgb",
+    "descendants": 81,
+    "time": 1448260839
   },
   {
     "rank": 2,
     "id": 10614121,
     "title": "A Python tutorial on Bayesian modeling techniques",
     "url": "https://github.com/markdregan/Bayesian-Modelling-in-Python",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "gedrap",
+    "descendants": 15,
+    "time": 1448280615
   },
   {
     "rank": 3,
     "id": 10616989,
     "title": "The Architecture of Open Source Applications: Nginx",
     "url": "http://www.aosabook.org/en/nginx.html#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "larsvegas_",
+    "descendants": 126,
+    "time": 1448309616
   },
   {
     "rank": 4,
     "id": 10617681,
     "title": "EC2 Dedicated Hosts",
     "url": "https://aws.amazon.com/blogs/aws/now-available-ec2-dedicated-hosts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "jeffbarr",
+    "descendants": 142,
+    "time": 1448316466
   },
   {
     "rank": 5,
     "id": 10619956,
     "title": "A Cabinet of Infocom Curiosities",
     "url": "http://ascii.textfiles.com/archives/4834",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "bane",
+    "descendants": 72,
+    "time": 1448358839
   },
   {
     "rank": 6,
     "id": 10620369,
     "title": "New Shepard: Bezos claims success on second spaceship flight",
     "url": "http://www.bbc.com/news/science-environment-34909713",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "lentil_soup",
+    "descendants": 223,
+    "time": 1448369043
   },
   {
     "rank": 7,
     "id": 10620420,
     "title": "Blue Origin Makes Historic Rocket Landing",
     "url": "https://www.blueorigin.com/news/news/blue-origin-makes-historic-rocket-landing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "adwn",
+    "descendants": 4,
+    "time": 1448370077
   },
   {
     "rank": 8,
     "id": 10621328,
     "title": "Microsoft's Software is Malware",
     "url": "http://www.gnu.org/philosophy/malware-microsoft.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "talles",
+    "descendants": 173,
+    "time": 1448379757
   },
   {
     "rank": 9,
     "id": 10621337,
     "title": "LittleD \u2013 SQL database for IoT, can run queries in 1KB",
     "url": "https://github.com/graemedouglas/LittleD",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "pfalcon",
+    "descendants": 103,
+    "time": 1448379808
   },
   {
     "rank": 10,
     "id": 10622615,
     "title": "What can a technologist do about climate change?",
     "url": "http://worrydream.com/ClimateChange/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "michael_nielsen",
+    "descendants": 289,
+    "time": 1448390672
   }
 ]

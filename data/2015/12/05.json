@@ -4,99 +4,99 @@
     "id": 10673615,
     "title": "Debugging Node.js in Production",
     "url": "http://techblog.netflix.com/2015/12/debugging-nodejs-in-production.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 173,
+    "by": "aaronbrethorst",
+    "descendants": 72,
+    "time": 1449186523
   },
   {
     "rank": 2,
     "id": 10675394,
     "title": "TPP Threatens Security and Safety by Locking Down US Policy on Source Code Audit",
     "url": "https://www.eff.org/deeplinks/2015/12/tpp-threatens-security-and-safety-locking-down-us-policy-source-code-audit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "DiabloD3",
+    "descendants": 69,
+    "time": 1449221310
   },
   {
     "rank": 3,
     "id": 10676514,
     "title": "KiCad 4.0.0 is Out",
     "url": "http://kicad-pcb.org/post/release-4.0.0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 135,
+    "by": "craigjb",
+    "descendants": 37,
+    "time": 1449239839
   },
   {
     "rank": 4,
     "id": 10677207,
     "title": "Advent of Code \u2013 solve a puzzle every day",
     "url": "http://adventofcode.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "xPaw",
+    "descendants": 47,
+    "time": 1449246367
   },
   {
     "rank": 5,
     "id": 10677465,
     "title": "Cable TV's plan to kill \u201cover the top\u201d internet streaming",
     "url": "https://medium.com/backchannel/big-cable-s-sledgehammer-is-coming-down-2c6854e8bea9#.g30nbcv3y",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "steven",
+    "descendants": 73,
+    "time": 1449248634
   },
   {
     "rank": 6,
     "id": 10678396,
     "title": "Let's Encrypt Stats",
     "url": "https://letsencrypt.org/stats/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 134,
+    "by": "sinak",
+    "descendants": 34,
+    "time": 1449256564
   },
   {
     "rank": 7,
     "id": 10679519,
     "title": "Mozilla to stop Sponsored Tiles in Firefox",
     "url": "https://blog.mozilla.org/advancingcontent/2015/12/04/advancing-content/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "cpeterso",
+    "descendants": 205,
+    "time": 1449266848
   },
   {
     "rank": 8,
     "id": 10681313,
     "title": "The Loading Screen Game Patent Finally Expires",
     "url": "https://www.eff.org/deeplinks/2015/12/loading-screen-game-patent-finally-expires",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "DiabloD3",
+    "descendants": 38,
+    "time": 1449304507
   },
   {
     "rank": 9,
     "id": 10681392,
     "title": "Court: Breaking Your Employer's Computer Policy Isn't a Crime",
     "url": "https://www.eff.org/deeplinks/2015/12/federal-court-appeals-rejects-notion-violating-your-employers-computer-use",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "kjstevo",
+    "descendants": 119,
+    "time": 1449308058
   },
   {
     "rank": 10,
     "id": 10682003,
     "title": "Microsoft Edge's JavaScript engine to go open-source",
     "url": "https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 852,
+    "by": "clarle",
+    "descendants": 268,
+    "time": 1449326912
   }
 ]

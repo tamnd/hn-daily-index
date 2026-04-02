@@ -4,99 +4,99 @@
     "id": 10588849,
     "title": "Signs Point to Unencrypted Communications Between Terror Suspects",
     "url": "https://theintercept.com/2015/11/18/signs-point-to-unencrypted-communications-between-terror-suspects/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "apress",
+    "descendants": 96,
+    "time": 1447865154
   },
   {
     "rank": 2,
     "id": 10590014,
     "title": "A Back Door to Encryption Won't Stop Terrorists",
     "url": "http://www.bloombergview.com/articles/2015-11-18/a-back-door-to-encryption-won-t-stop-terrorists",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "giles",
+    "descendants": 266,
+    "time": 1447874257
   },
   {
     "rank": 3,
     "id": 10590087,
     "title": "Doctors want ban on prescription drug, device advertisements",
     "url": "http://arstechnica.com/science/2015/11/doctors-want-ban-on-prescription-drug-device-advertisements/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 582,
+    "by": "pavornyoh",
+    "descendants": 314,
+    "time": 1447874831
   },
   {
     "rank": 4,
     "id": 10591250,
     "title": "Police Civil Asset Forfeitures Exceed All Burglaries in 2014",
     "url": "http://www.armstrongeconomics.com/archives/39102",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "ccvannorman",
+    "descendants": 129,
+    "time": 1447885879
   },
   {
     "rank": 5,
     "id": 10591329,
     "title": "John McCain wants to outlaw encryption that the US government can't crack",
     "url": "http://www.businessinsider.com/john-mccain-calls-anti-encryption-legislation-paris-attacks-isis-back-doors-2015-11",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "declan",
+    "descendants": 188,
+    "time": 1447886931
   },
   {
     "rank": 6,
     "id": 10592775,
     "title": "Comcast injects JavaScript into webpages to show copyright notices to customers",
     "url": "https://gist.github.com/Jarred-Sumner/90362639f96807b8315b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 645,
+    "by": "Jarred",
+    "descendants": 392,
+    "time": 1447907903
   },
   {
     "rank": 7,
     "id": 10593607,
     "title": "Berlin public transport in real time",
     "url": "http://fahrinfo.vbb.de/bin/help.exe/dn?L=vs_mobilitymap&&tpl=fullmap&tabApp=show&initialX=13354846&initialY=52478287&initialZ=3936&",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "fdellavedova",
+    "descendants": 139,
+    "time": 1447924025
   },
   {
     "rank": 8,
     "id": 10593617,
     "title": "Chuck Forsberg has died \u2013 author of Zmodem",
     "url": "http://www.anewtradition.com/obituaries/obituary/12060_Charles_Alton_Forsberg",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "jacquesm",
+    "descendants": 69,
+    "time": 1447924176
   },
   {
     "rank": 9,
     "id": 10595131,
     "title": "Making Elm faster and friendlier in 0.16",
     "url": "http://elm-lang.org/blog/compilers-as-assistants",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "jwmerrill",
+    "descendants": 90,
+    "time": 1447945596
   },
   {
     "rank": 10,
     "id": 10596667,
     "title": "ARRIS Cable Modem Has a Backdoor in the Backdoor",
     "url": "https://w00tsec.blogspot.com/2015/11/arris-cable-modem-has-backdoor-in.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "geococcyxc",
+    "descendants": 119,
+    "time": 1447958904
   }
 ]

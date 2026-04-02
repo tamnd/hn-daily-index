@@ -4,99 +4,99 @@
     "id": 11040932,
     "title": "Dead Men Write No Code",
     "url": "https://medium.com/@gavanw/dead-men-write-no-code-e9a7c5daf5d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "k__",
+    "descendants": 88,
+    "time": 1454674914
   },
   {
     "rank": 2,
     "id": 11047133,
     "title": "Another Vietnam \u2013 Unseen images of the war from the winning side",
     "url": "http://mashable.com/2016/02/05/another-vietnam-photography/#TBVXB4fMGkqN",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "dnqthao",
+    "descendants": 169,
+    "time": 1454751465
   },
   {
     "rank": 3,
     "id": 11047144,
     "title": "Rust vs. C++: Fine-grained Performance",
     "url": "http://cantrip.org/rust-vs-c++.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "beshrkayali",
+    "descendants": 126,
+    "time": 1454751862
   },
   {
     "rank": 4,
     "id": 11048847,
     "title": "Maybe: run a command, see what it does to your files without actually doing it",
     "url": "https://github.com/p-e-w/maybe",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 515,
+    "by": "colund",
+    "descendants": 94,
+    "time": 1454781907
   },
   {
     "rank": 5,
     "id": 11049149,
     "title": "So you still don't understand Hindley-Milner? (2013)",
     "url": "http://akgupta.ca/blog/2013/05/14/so-you-still-dont-understand-hindley-milner/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "mpgirro",
+    "descendants": 9,
+    "time": 1454785130
   },
   {
     "rank": 6,
     "id": 11049173,
     "title": "Google shuts down Amazon unionization website",
     "url": "https://www.thestranger.com/blogs/slog/2016/02/05/23534490/google-shuts-down-amazon-unionization-website",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "ftfb",
+    "descendants": 64,
+    "time": 1454785430
   },
   {
     "rank": 7,
     "id": 11050868,
     "title": "How We Release So Frequently",
     "url": "http://engineering.skybettingandgaming.com/2016/02/02/how-we-release-so-frequently/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 201,
+    "by": "TomNomNom",
+    "descendants": 50,
+    "time": 1454805492
   },
   {
     "rank": 8,
     "id": 11052905,
     "title": "America Is Flint",
     "url": "http://www.nytimes.com/2016/02/07/opinion/sunday/america-is-flint.html?ref=opinion&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "pavornyoh",
+    "descendants": 143,
+    "time": 1454854899
   },
   {
     "rank": 9,
     "id": 11052959,
     "title": "The Rich Are Already Using Robo-Advisers, and That Scares Banks",
     "url": "http://www.bloomberg.com/news/articles/2016-02-05/the-rich-are-already-using-robo-advisers-and-that-scares-banks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "frostmatthew",
+    "descendants": 173,
+    "time": 1454856113
   },
   {
     "rank": 10,
     "id": 11053525,
     "title": "Records: Python library for making raw SQL queries to Postgres databases",
     "url": "https://github.com/kennethreitz/records",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "infinite8s",
+    "descendants": 129,
+    "time": 1454864038
   }
 ]

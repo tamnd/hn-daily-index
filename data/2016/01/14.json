@@ -4,99 +4,99 @@
     "id": 10896670,
     "title": "Al Jazeera America to Shut Down in April",
     "url": "http://www.nytimes.com/2016/01/14/business/media/al-jazeera-america-to-shut-down-in-april.html?smid=tw-share&_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "coloneltcb",
+    "descendants": 290,
+    "time": 1452712187
   },
   {
     "rank": 2,
     "id": 10896901,
     "title": "Show HN: 3D shooter in your terminal using raycasting in Awk",
     "url": "https://github.com/TheMozg/awk-raycaster",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "TheMozg",
+    "descendants": 55,
+    "time": 1452714100
   },
   {
     "rank": 3,
     "id": 10897309,
     "title": "Before I Can Fix This Tractor, We Have to Fix Copyright Law",
     "url": "http://www.slate.com/blogs/future_tense/2016/01/13/copyright_law_shouldn_t_keep_me_from_fixing_a_tractor.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "sinak",
+    "descendants": 191,
+    "time": 1452717564
   },
   {
     "rank": 4,
     "id": 10900439,
     "title": "A Canvas Made of Pixels",
     "url": "http://www.claybavor.com/?p=407",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "robk",
+    "descendants": 105,
+    "time": 1452765669
   },
   {
     "rank": 5,
     "id": 10900462,
     "title": "When to join a startup",
     "url": "http://tomblomfield.com/post/136759441870/when-to-join-a-startup",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "tomblomfield",
+    "descendants": 113,
+    "time": 1452766104
   },
   {
     "rank": 6,
     "id": 10901178,
     "title": "Alan Rickman, Harry Potter and Die Hard Actor, Dies Aged 69",
     "url": "http://www.bbc.com/news/entertainment-arts-35313604",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "hccampos",
+    "descendants": 182,
+    "time": 1452777860
   },
   {
     "rank": 7,
     "id": 10901588,
     "title": "OpenSSH: client bug CVE-2016-0777",
     "url": "http://undeadly.org/cgi?action=article&sid=20160114142733",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 617,
+    "by": "moviuro",
+    "descendants": 214,
+    "time": 1452782206
   },
   {
     "rank": 8,
     "id": 10901980,
     "title": "Yahoo Releases the Largest-Ever Machine Learning Dataset for Researchers",
     "url": "http://yahoolabs.tumblr.com/post/137281912191/yahoo-releases-the-largest-ever-machine-learning",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "tchalla",
+    "descendants": 76,
+    "time": 1452785738
   },
   {
     "rank": 9,
     "id": 10902791,
     "title": "10th Anniversary of JQuery",
     "url": "http://ejohn.org/blog/10th-anniversary-of-jquery/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "shawndumas",
+    "descendants": 100,
+    "time": 1452792357
   },
   {
     "rank": 10,
     "id": 10904671,
     "title": "Dear GitHub",
     "url": "https://docs.google.com/document/d/14X72QaDT9g6bnWr0lopDYidajTSzMn8WrwsSLFSr-FU/preview?ts=5698049d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1678,
+    "by": "msvan",
+    "descendants": 463,
+    "time": 1452807197
   }
 ]
