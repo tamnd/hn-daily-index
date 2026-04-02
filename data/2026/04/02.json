@@ -4,7 +4,7 @@
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 49,
+    "score": 52,
     "by": "AbuAssar",
     "descendants": 15,
     "time": 1775127891
@@ -24,7 +24,7 @@
     "id": 47613078,
     "title": "Inside Nepal's Fake Rescue Racket",
     "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 38,
+    "score": 39,
     "by": "lode",
     "descendants": 1,
     "time": 1775130041
@@ -34,7 +34,7 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 190,
+    "score": 191,
     "by": "novaRom",
     "descendants": 99,
     "time": 1775127000
@@ -56,7 +56,7 @@
     "url": "https://lwn.net/Articles/1065620/",
     "score": 61,
     "by": "stratos123",
-    "descendants": 29,
+    "descendants": 30,
     "time": 1775121258
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "rank": 10,
-    "id": 47612558,
-    "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
-    "url": "https://modolap.com/publication/hn-analysis-1",
-    "score": 13,
-    "by": "ronfriedhaber",
-    "descendants": 2,
-    "time": 1775126543
+    "id": 47608495,
+    "title": "Quantum computing bombshells that are not April Fools",
+    "url": "https://scottaaronson.blog/?p=9665",
+    "score": 207,
+    "by": "Strilanc",
+    "descendants": 67,
+    "time": 1775089483
   }
 ]
