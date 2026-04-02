@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 44560943,
+    "title": "On doing hard things",
+    "url": "https://parv.bearblog.dev/kayaking/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 44588319,
+    "title": "Perfume reviews",
+    "url": "https://gwern.net/blog/2025/perfume",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 44592377,
+    "title": "My bank keeps on undermining anti-phishing education",
+    "url": "http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 44593972,
+    "title": "Self-taught engineers often outperform (2024)",
+    "url": "https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 44595811,
+    "title": "All AI models might be the same",
+    "url": "https://blog.jxmo.io/p/there-is-only-one-model",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 44596472,
+    "title": "My experience with Claude Code after two weeks of adventures",
+    "url": "https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 44598254,
+    "title": "Anthropic tightens usage limits for Claude Code without telling users",
+    "url": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 44600594,
+    "title": "NIH is cheaper than the wrong dependency",
+    "url": "https://lewiscampbell.tech/blog/250718.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 44601023,
+    "title": "Fully homomorphic encryption and the dawn of a private internet",
+    "url": "https://bozmen.io/fhe",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 44604050,
+    "title": "lsr: ls with io_uring",
+    "url": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
