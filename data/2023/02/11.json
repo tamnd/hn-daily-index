@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 34740105,
+    "title": "My fifth year as a bootstrapped founder",
+    "url": "https://mtlynch.io/solo-developer-year-5/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 34740360,
+    "title": "Is Seattle a 15-minute city? It depends on where you want to walk",
+    "url": "https://nathenry.com/writing/2023-02-07-seattle-walkability.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 34742266,
+    "title": "Junkyard computing \u2013 repurposing discarded smartphones to minimize pollution",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3575693.3575710",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 34742923,
+    "title": "QGIS is the mapping software you didn't know you needed",
+    "url": "https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 34743772,
+    "title": "Ask HN: Why did medium.com \\\"fail\\\"?",
+    "url": "https://news.ycombinator.com/item?id=34743772",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 34744757,
+    "title": "US jet shoots down unknown object flying off Alaska coast",
+    "url": "https://apnews.com/article/pentagon-shoots-down-unknown-flying-object-175f9078d1df36e392b2956ba771001e",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 34746161,
+    "title": "Ask HN: What Happened to Elm?",
+    "url": "https://news.ycombinator.com/item?id=34746161",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 34746716,
+    "title": "A Gentle Introduction to CRDTs",
+    "url": "https://vlcn.io/blog/gentle-intro-to-crdts.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 34751948,
+    "title": "Scientists discover receptor that blocks Covid-19 infection",
+    "url": "https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 34754276,
+    "title": "A Heisenbug lurking in async Python",
+    "url": "https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

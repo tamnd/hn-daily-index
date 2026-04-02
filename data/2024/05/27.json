@@ -4,99 +4,99 @@
     "id": 40480913,
     "title": "To the brain, reading computer code is not the same as reading language (2020)",
     "url": "https://news.mit.edu/2020/brain-reading-computer-code-1215",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "thunderbong",
+    "descendants": 206,
+    "time": 1716717298
   },
   {
     "rank": 2,
     "id": 40482799,
     "title": "Mediocre Engineer's Guide to HTTPS",
     "url": "https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "MediumD",
+    "descendants": 35,
+    "time": 1716736668
   },
   {
     "rank": 3,
     "id": 40484591,
     "title": "What the damaged Svalbard cable looked like",
     "url": "https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 542,
+    "by": "ingve",
+    "descendants": 249,
+    "time": 1716750778
   },
   {
     "rank": 4,
     "id": 40485246,
     "title": "The one-year anniversary of my total glossectomy",
     "url": "https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "jdkee",
+    "descendants": 55,
+    "time": 1716756410
   },
   {
     "rank": 5,
     "id": 40485313,
     "title": "The t-test was invented at the Guinness brewery",
     "url": "https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "rmason",
+    "descendants": 134,
+    "time": 1716756922
   },
   {
     "rank": 6,
     "id": 40488844,
     "title": "Big data is dead (2023)",
     "url": "https://motherduck.com/blog/big-data-is-dead/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 585,
+    "by": "armanke13",
+    "descendants": 457,
+    "time": 1716798605
   },
   {
     "rank": 7,
     "id": 40491480,
     "title": "Instead of \u201cauth\u201d, we should say \u201cpermissions\u201d and \u201clogin\u201d",
     "url": "https://ntietz.com/blog/lets-say-instead-of-auth/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 614,
+    "by": "tambourine_man",
+    "descendants": 345,
+    "time": 1716822698
   },
   {
     "rank": 8,
     "id": 40491694,
     "title": "Should I use JWTs for authentication tokens?",
     "url": "https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 577,
+    "by": "pantalaimon",
+    "descendants": 405,
+    "time": 1716823884
   },
   {
     "rank": 9,
     "id": 40492264,
     "title": "The Internet Archive is under a DDoS attack",
     "url": "https://mastodon.archive.org/@internetarchive/112513905401989149",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 499,
+    "by": "toomanyrichies",
+    "descendants": 211,
+    "time": 1716827330
   },
   {
     "rank": 10,
     "id": 40492515,
     "title": "Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero",
     "url": "https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 971,
+    "by": "jgrahamc",
+    "descendants": 261,
+    "time": 1716828959
   }
 ]

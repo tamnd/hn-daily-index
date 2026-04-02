@@ -4,99 +4,99 @@
     "id": 40263109,
     "title": "A 100x speedup with unsafe Python",
     "url": "https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "ingve",
+    "descendants": 123,
+    "time": 1714896493
   },
   {
     "rank": 2,
     "id": 40273534,
     "title": "Design docs at Google (2020)",
     "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "BerislavLopac",
+    "descendants": 185,
+    "time": 1714996465
   },
   {
     "rank": 3,
     "id": 40273968,
     "title": "Secure Randomness in Go 1.22",
     "url": "https://go.dev/blog/chacha8rand?hn=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "rsc",
+    "descendants": 94,
+    "time": 1714999422
   },
   {
     "rank": 4,
     "id": 40277547,
     "title": "The best way to have complex discussions?",
     "url": "https://cq2.co/blog/the-best-way-to-have-complex-discussions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "anandbaburajan",
+    "descendants": 322,
+    "time": 1715018579
   },
   {
     "rank": 5,
     "id": 40279632,
     "title": "Attackers can decloak routing-based VPNs",
     "url": "https://www.leviathansecurity.com/blog/tunnelvision",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "dsr_",
+    "descendants": 232,
+    "time": 1715030395
   },
   {
     "rank": 6,
     "id": 40280490,
     "title": "Caniemail.com \u2013 like caniuse but for email content",
     "url": "https://www.caniemail.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 755,
+    "by": "fagnerbrack",
+    "descendants": 250,
+    "time": 1715036614
   },
   {
     "rank": 7,
     "id": 40280689,
     "title": "Proton Mail discloses user data leading to arrest in Spain",
     "url": "https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "gulced",
+    "descendants": 263,
+    "time": 1715038498
   },
   {
     "rank": 8,
     "id": 40284823,
     "title": "Cold brew coffee in 3 minutes using acoustic cavitation",
     "url": "https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 537,
+    "by": "ople",
+    "descendants": 351,
+    "time": 1715085974
   },
   {
     "rank": 9,
     "id": 40286029,
     "title": "Apple introduces M4 chip",
     "url": "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1588,
+    "by": "excsn",
+    "descendants": 2061,
+    "time": 1715092652
   },
   {
     "rank": 10,
     "id": 40287020,
     "title": "Road resurfacing during the daytime without stopping traffic [video]",
     "url": "https://www.youtube.com/watch?v=ymyIEGRw4-U",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 917,
+    "by": "sschueller",
+    "descendants": 301,
+    "time": 1715096165
   }
 ]

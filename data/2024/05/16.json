@@ -4,99 +4,99 @@
     "id": 40367090,
     "title": "Show HN: Open-source BI and analytics for engineers",
     "url": "https://github.com/quarylabs/quary",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "louisjoejordan",
+    "descendants": 75,
+    "time": 1715781755
   },
   {
     "rank": 2,
     "id": 40367331,
     "title": "Apple announces new accessibility features, including eye tracking",
     "url": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "dmd",
+    "descendants": 286,
+    "time": 1715782925
   },
   {
     "rank": 3,
     "id": 40369119,
     "title": "Starting emails with \\\"BEGIN PGP MESSAGE\\\" will fool the filter",
     "url": "https://nondeterministic.computer/@martin/112444389342113780",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "ColinWright",
+    "descendants": 117,
+    "time": 1715790728
   },
   {
     "rank": 4,
     "id": 40369467,
     "title": "Jepsen: Datomic Pro 1.0.7075",
     "url": "https://jepsen.io/analyses/datomic-pro-1.0.7075",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "aphyr",
+    "descendants": 98,
+    "time": 1715792250
   },
   {
     "rank": 5,
     "id": 40371612,
     "title": "New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy",
     "url": "https://github.com/ggerganov/llama.cpp/pull/7154",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "weinzierl",
+    "descendants": 72,
+    "time": 1715803021
   },
   {
     "rank": 6,
     "id": 40373931,
     "title": "Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments",
     "url": "https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "WarOnPrivacy",
+    "descendants": 220,
+    "time": 1715818953
   },
   {
     "rank": 7,
     "id": 40375178,
     "title": "Things I won't work with: the higher states of bromine (2019)",
     "url": "https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "fanf2",
+    "descendants": 103,
+    "time": 1715833442
   },
   {
     "rank": 8,
     "id": 40375341,
     "title": "Some notes on Rust, mutable aliasing and formal verification",
     "url": "https://graydon2.dreamwidth.org/312681.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "todsacerdoti",
+    "descendants": 145,
+    "time": 1715835713
   },
   {
     "rank": 9,
     "id": 40375548,
     "title": "VCs aren\u2019t your friends",
     "url": "https://www.openvc.app/blog/vcs-arent-your-friends",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 553,
+    "by": "taubek",
+    "descendants": 374,
+    "time": 1715838143
   },
   {
     "rank": 10,
     "id": 40378499,
     "title": "Llama 3 implemented in pure NumPy",
     "url": "https://docs.likejazz.com/llama3.np/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 476,
+    "by": "orixilus",
+    "descendants": 50,
+    "time": 1715867602
   }
 ]

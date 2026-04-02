@@ -4,99 +4,99 @@
     "id": 40345696,
     "title": "Show HN: An open source framework for voice assistants",
     "url": "https://github.com/pipecat-ai/pipecat",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "kwindla",
+    "descendants": 39,
+    "time": 1715620874
   },
   {
     "rank": 2,
     "id": 40346024,
     "title": "Apple and Google deliver support for unwanted tracking alerts in iOS and Android",
     "url": "https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "WalterSobchak",
+    "descendants": 451,
+    "time": 1715622388
   },
   {
     "rank": 3,
     "id": 40346995,
     "title": "Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant",
     "url": "https://github.com/nkasmanoff/pi-card",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "nkaz123",
+    "descendants": 92,
+    "time": 1715627035
   },
   {
     "rank": 4,
     "id": 40349347,
     "title": "Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right",
     "url": "https://www.macstories.net/stories/not-an-ipad-pro-review/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "ihuman",
+    "descendants": 576,
+    "time": 1715639581
   },
   {
     "rank": 5,
     "id": 40357141,
     "title": "Sir, there's a cat in your mirror dimension",
     "url": "https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "zdw",
+    "descendants": 71,
+    "time": 1715704974
   },
   {
     "rank": 6,
     "id": 40357271,
     "title": "VMware Fusion Pro: Now available free for personal use",
     "url": "https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "ganoushoreilly",
+    "descendants": 174,
+    "time": 1715705758
   },
   {
     "rank": 7,
     "id": 40357681,
     "title": "Model Explorer: intuitive and hierarchical visualization of model graphs",
     "url": "https://ai.google.dev/edge/model-explorer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "antognini",
+    "descendants": 33,
+    "time": 1715707759
   },
   {
     "rank": 8,
     "id": 40358041,
     "title": "Veo",
     "url": "https://deepmind.google/technologies/veo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1727,
+    "by": "meetpateltech",
+    "descendants": 488,
+    "time": 1715709506
   },
   {
     "rank": 9,
     "id": 40358071,
     "title": "Gemini Flash",
     "url": "https://deepmind.google/technologies/gemini/flash/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "meetpateltech",
+    "descendants": 146,
+    "time": 1715709659
   },
   {
     "rank": 10,
     "id": 40358309,
     "title": "Glider \u2013 open-source eInk monitor with an emphasis on low latency",
     "url": "https://github.com/Modos-Labs/Glider",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 756,
+    "by": "mistercheph",
+    "descendants": 148,
+    "time": 1715710741
   }
 ]

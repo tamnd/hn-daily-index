@@ -39,16 +39,16 @@ Top 10 Hacker News stories for each day in April 2024.
 
 *Tuesday*
 
-1. [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US) (play.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40199670)
-2. [GPT-4.5 or GPT-5 being tested on LMSYS?](https://rentry.co/GPT2) (rentry.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40199715)
-3. [Show HN: 3D framework for the web, built on Svelte and Three.js](https://threlte.xyz/) (threlte.xyz) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40205509)
-4. [TypeSpec: A new language for API-centric development](https://typespec.io/blog/2024-04-25-introducing) (typespec.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40206124)
-5. [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html) (sqlite.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40206752)
-6. [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/) (arstechnica.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40207322)
-7. [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40210627)
-8. [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/) (pyinfra.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40211655)
-9. [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40211891)
-10. [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8) (apnews.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=40213591)
+1. [Show HN: I made a privacy friendly and simple app to track my menstruation](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US) (play.google.com) - 732 points by [stormqueen](https://news.ycombinator.com/user?id=stormqueen), [196 comments](https://news.ycombinator.com/item?id=40199670)
+2. [GPT-4.5 or GPT-5 being tested on LMSYS?](https://rentry.co/GPT2) (rentry.co) - 543 points by [atemerev](https://news.ycombinator.com/user?id=atemerev), [360 comments](https://news.ycombinator.com/item?id=40199715)
+3. [Show HN: 3D framework for the web, built on Svelte and Three.js](https://threlte.xyz/) (threlte.xyz) - 389 points by [spxneo](https://news.ycombinator.com/user?id=spxneo), [66 comments](https://news.ycombinator.com/item?id=40205509)
+4. [TypeSpec: A new language for API-centric development](https://typespec.io/blog/2024-04-25-introducing) (typespec.io) - 275 points by [ubolonton_](https://news.ycombinator.com/user?id=ubolonton_), [114 comments](https://news.ycombinator.com/item?id=40206124)
+5. [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html) (sqlite.org) - 790 points by [todsacerdoti](https://news.ycombinator.com/user?id=todsacerdoti), [221 comments](https://news.ycombinator.com/item?id=40206752)
+6. [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/) (arstechnica.com) - 380 points by [rezonant](https://news.ycombinator.com/user?id=rezonant), [358 comments](https://news.ycombinator.com/item?id=40207322)
+7. [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js) (github.com) - 381 points by [cezaraugustodev](https://news.ycombinator.com/user?id=cezaraugustodev), [87 comments](https://news.ycombinator.com/item?id=40210627)
+8. [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/) (pyinfra.com) - 644 points by [InitEnabler](https://news.ycombinator.com/user?id=InitEnabler), [217 comments](https://news.ycombinator.com/item?id=40211655)
+9. [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo) (github.com) - 666 points by [manx](https://news.ycombinator.com/user?id=manx), [545 comments](https://news.ycombinator.com/item?id=40211891)
+10. [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8) (apnews.com) - 662 points by [JacobHenner](https://news.ycombinator.com/user?id=JacobHenner), [863 comments](https://news.ycombinator.com/item?id=40213591)
 
 ## 2024-04-29
 

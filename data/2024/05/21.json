@@ -4,99 +4,99 @@
     "id": 40416109,
     "title": "City in a Bottle \u2013 A 256 Byte Raycasting System",
     "url": "https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "bubblehack3r",
+    "descendants": 23,
+    "time": 1716216408
   },
   {
     "rank": 2,
     "id": 40417347,
     "title": "pg_timeseries: Open-source time-series extension for PostgreSQL",
     "url": "https://tembo.io/blog/pg-timeseries",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "samaysharma",
+    "descendants": 82,
+    "time": 1716223453
   },
   {
     "rank": 3,
     "id": 40419856,
     "title": "Enlightenmentware",
     "url": "https://mmapped.blog/posts/28-enlightenmentware.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "zaik",
+    "descendants": 238,
+    "time": 1716236582
   },
   {
     "rank": 4,
     "id": 40423082,
     "title": "Chameleon: Meta\u2019s New Multi-Modal LLM",
     "url": "https://arxiv.org/abs/2405.09818",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "gabrielbirnbaum",
+    "descendants": 40,
+    "time": 1716255473
   },
   {
     "rank": 5,
     "id": 40424304,
     "title": "Shipbreaking",
     "url": "https://www.edwardburtynsky.com/projects/photographs/shipbreaking",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "thunderbong",
+    "descendants": 200,
+    "time": 1716267367
   },
   {
     "rank": 6,
     "id": 40426621,
     "title": "NoTunes is a macOS application that will prevent Apple Music from launching",
     "url": "https://github.com/tombonez/noTunes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "faebi",
+    "descendants": 266,
+    "time": 1716288150
   },
   {
     "rank": 7,
     "id": 40426701,
     "title": "Going Dark: The war on encryption is on the rise",
     "url": "https://mullvad.net/en/why-privacy-matters/going-dark",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "janandonly",
+    "descendants": 216,
+    "time": 1716288876
   },
   {
     "rank": 8,
     "id": 40428386,
     "title": "What UI density means and how to design for it",
     "url": "https://matthewstrom.com/writing/ui-density/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 767,
+    "by": "delaugust",
+    "descendants": 387,
+    "time": 1716298899
   },
   {
     "rank": 9,
     "id": 40428827,
     "title": "CADmium: A local-first CAD program built for the browser",
     "url": "https://mattferraro.dev/posts/cadmium",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 669,
+    "by": "samwillis",
+    "descendants": 241,
+    "time": 1716301196
   },
   {
     "rank": 10,
     "id": 40432688,
     "title": "Gordon Bell has died",
     "url": "https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1257,
+    "by": "dcminter",
+    "descendants": 70,
+    "time": 1716319439
   }
 ]
