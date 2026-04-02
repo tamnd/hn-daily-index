@@ -54,9 +54,9 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**19**](#2026-01-19) | [**20**](#2026-01-20) | [**21**](#2026-01-21) | [**22**](#2026-01-22) | [**23**](#2026-01-23) | [**24**](#2026-01-24) | [**25**](#2026-01-25) |
 | [**26**](#2026-01-26) | [**27**](#2026-01-27) | [**28**](#2026-01-28) | [**29**](#2026-01-29) | [**30**](#2026-01-30) | [**31**](#2026-01-31) |  |
 
-### [2025](data/2025/) (363/365 days)
+<details><summary><h3>[2025](data/2025/) (363/365 days)</h3></summary>
 
-<details><summary>[<b>December</b>](data/2025/12/) (30/31)</summary>
+[**December**](data/2025/12/) (30/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -66,9 +66,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**22**](data/2025/12/README.md#2025-12-22) | 23 | [**24**](data/2025/12/README.md#2025-12-24) | [**25**](data/2025/12/README.md#2025-12-25) | [**26**](data/2025/12/README.md#2025-12-26) | [**27**](data/2025/12/README.md#2025-12-27) | [**28**](data/2025/12/README.md#2025-12-28) |
 | [**29**](data/2025/12/README.md#2025-12-29) | [**30**](data/2025/12/README.md#2025-12-30) | [**31**](data/2025/12/README.md#2025-12-31) |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>November</b>](data/2025/11/) (30/30)</summary>
+[**November**](data/2025/11/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -78,9 +76,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**17**](data/2025/11/README.md#2025-11-17) | [**18**](data/2025/11/README.md#2025-11-18) | [**19**](data/2025/11/README.md#2025-11-19) | [**20**](data/2025/11/README.md#2025-11-20) | [**21**](data/2025/11/README.md#2025-11-21) | [**22**](data/2025/11/README.md#2025-11-22) | [**23**](data/2025/11/README.md#2025-11-23) |
 | [**24**](data/2025/11/README.md#2025-11-24) | [**25**](data/2025/11/README.md#2025-11-25) | [**26**](data/2025/11/README.md#2025-11-26) | [**27**](data/2025/11/README.md#2025-11-27) | [**28**](data/2025/11/README.md#2025-11-28) | [**29**](data/2025/11/README.md#2025-11-29) | [**30**](data/2025/11/README.md#2025-11-30) |
 
-</details>
-
-<details><summary>[<b>October</b>](data/2025/10/) (30/31)</summary>
+[**October**](data/2025/10/) (30/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -90,9 +86,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**20**](data/2025/10/README.md#2025-10-20) | [**21**](data/2025/10/README.md#2025-10-21) | [**22**](data/2025/10/README.md#2025-10-22) | [**23**](data/2025/10/README.md#2025-10-23) | [**24**](data/2025/10/README.md#2025-10-24) | [**25**](data/2025/10/README.md#2025-10-25) | 26 |
 | [**27**](data/2025/10/README.md#2025-10-27) | [**28**](data/2025/10/README.md#2025-10-28) | [**29**](data/2025/10/README.md#2025-10-29) | [**30**](data/2025/10/README.md#2025-10-30) | [**31**](data/2025/10/README.md#2025-10-31) |  |  |
 
-</details>
-
-<details><summary>[<b>September</b>](data/2025/09/) (30/30)</summary>
+[**September**](data/2025/09/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -102,9 +96,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**22**](data/2025/09/README.md#2025-09-22) | [**23**](data/2025/09/README.md#2025-09-23) | [**24**](data/2025/09/README.md#2025-09-24) | [**25**](data/2025/09/README.md#2025-09-25) | [**26**](data/2025/09/README.md#2025-09-26) | [**27**](data/2025/09/README.md#2025-09-27) | [**28**](data/2025/09/README.md#2025-09-28) |
 | [**29**](data/2025/09/README.md#2025-09-29) | [**30**](data/2025/09/README.md#2025-09-30) |  |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>August</b>](data/2025/08/) (31/31)</summary>
+[**August**](data/2025/08/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -114,9 +106,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**18**](data/2025/08/README.md#2025-08-18) | [**19**](data/2025/08/README.md#2025-08-19) | [**20**](data/2025/08/README.md#2025-08-20) | [**21**](data/2025/08/README.md#2025-08-21) | [**22**](data/2025/08/README.md#2025-08-22) | [**23**](data/2025/08/README.md#2025-08-23) | [**24**](data/2025/08/README.md#2025-08-24) |
 | [**25**](data/2025/08/README.md#2025-08-25) | [**26**](data/2025/08/README.md#2025-08-26) | [**27**](data/2025/08/README.md#2025-08-27) | [**28**](data/2025/08/README.md#2025-08-28) | [**29**](data/2025/08/README.md#2025-08-29) | [**30**](data/2025/08/README.md#2025-08-30) | [**31**](data/2025/08/README.md#2025-08-31) |
 
-</details>
-
-<details><summary>[<b>July</b>](data/2025/07/) (31/31)</summary>
+[**July**](data/2025/07/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -126,9 +116,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**21**](data/2025/07/README.md#2025-07-21) | [**22**](data/2025/07/README.md#2025-07-22) | [**23**](data/2025/07/README.md#2025-07-23) | [**24**](data/2025/07/README.md#2025-07-24) | [**25**](data/2025/07/README.md#2025-07-25) | [**26**](data/2025/07/README.md#2025-07-26) | [**27**](data/2025/07/README.md#2025-07-27) |
 | [**28**](data/2025/07/README.md#2025-07-28) | [**29**](data/2025/07/README.md#2025-07-29) | [**30**](data/2025/07/README.md#2025-07-30) | [**31**](data/2025/07/README.md#2025-07-31) |  |  |  |
 
-</details>
-
-<details><summary>[<b>June</b>](data/2025/06/) (30/30)</summary>
+[**June**](data/2025/06/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -139,9 +127,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**23**](data/2025/06/README.md#2025-06-23) | [**24**](data/2025/06/README.md#2025-06-24) | [**25**](data/2025/06/README.md#2025-06-25) | [**26**](data/2025/06/README.md#2025-06-26) | [**27**](data/2025/06/README.md#2025-06-27) | [**28**](data/2025/06/README.md#2025-06-28) | [**29**](data/2025/06/README.md#2025-06-29) |
 | [**30**](data/2025/06/README.md#2025-06-30) |  |  |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>May</b>](data/2025/05/) (31/31)</summary>
+[**May**](data/2025/05/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -151,9 +137,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**19**](data/2025/05/README.md#2025-05-19) | [**20**](data/2025/05/README.md#2025-05-20) | [**21**](data/2025/05/README.md#2025-05-21) | [**22**](data/2025/05/README.md#2025-05-22) | [**23**](data/2025/05/README.md#2025-05-23) | [**24**](data/2025/05/README.md#2025-05-24) | [**25**](data/2025/05/README.md#2025-05-25) |
 | [**26**](data/2025/05/README.md#2025-05-26) | [**27**](data/2025/05/README.md#2025-05-27) | [**28**](data/2025/05/README.md#2025-05-28) | [**29**](data/2025/05/README.md#2025-05-29) | [**30**](data/2025/05/README.md#2025-05-30) | [**31**](data/2025/05/README.md#2025-05-31) |  |
 
-</details>
-
-<details><summary>[<b>April</b>](data/2025/04/) (30/30)</summary>
+[**April**](data/2025/04/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -163,9 +147,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**21**](data/2025/04/README.md#2025-04-21) | [**22**](data/2025/04/README.md#2025-04-22) | [**23**](data/2025/04/README.md#2025-04-23) | [**24**](data/2025/04/README.md#2025-04-24) | [**25**](data/2025/04/README.md#2025-04-25) | [**26**](data/2025/04/README.md#2025-04-26) | [**27**](data/2025/04/README.md#2025-04-27) |
 | [**28**](data/2025/04/README.md#2025-04-28) | [**29**](data/2025/04/README.md#2025-04-29) | [**30**](data/2025/04/README.md#2025-04-30) |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>March</b>](data/2025/03/) (31/31)</summary>
+[**March**](data/2025/03/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -176,9 +158,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**24**](data/2025/03/README.md#2025-03-24) | [**25**](data/2025/03/README.md#2025-03-25) | [**26**](data/2025/03/README.md#2025-03-26) | [**27**](data/2025/03/README.md#2025-03-27) | [**28**](data/2025/03/README.md#2025-03-28) | [**29**](data/2025/03/README.md#2025-03-29) | [**30**](data/2025/03/README.md#2025-03-30) |
 | [**31**](data/2025/03/README.md#2025-03-31) |  |  |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>February</b>](data/2025/02/) (28/28)</summary>
+[**February**](data/2025/02/) (28/28)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -188,9 +168,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**17**](data/2025/02/README.md#2025-02-17) | [**18**](data/2025/02/README.md#2025-02-18) | [**19**](data/2025/02/README.md#2025-02-19) | [**20**](data/2025/02/README.md#2025-02-20) | [**21**](data/2025/02/README.md#2025-02-21) | [**22**](data/2025/02/README.md#2025-02-22) | [**23**](data/2025/02/README.md#2025-02-23) |
 | [**24**](data/2025/02/README.md#2025-02-24) | [**25**](data/2025/02/README.md#2025-02-25) | [**26**](data/2025/02/README.md#2025-02-26) | [**27**](data/2025/02/README.md#2025-02-27) | [**28**](data/2025/02/README.md#2025-02-28) |  |  |
 
-</details>
-
-<details><summary>[<b>January</b>](data/2025/01/) (31/31)</summary>
+[**January**](data/2025/01/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -202,9 +180,9 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2024](data/2024/) (366/366 days)
+<details><summary><h3>[2024](data/2024/) (366/366 days)</h3></summary>
 
-<details><summary>[<b>December</b>](data/2024/12/) (31/31)</summary>
+[**December**](data/2024/12/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -215,9 +193,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**23**](data/2024/12/README.md#2024-12-23) | [**24**](data/2024/12/README.md#2024-12-24) | [**25**](data/2024/12/README.md#2024-12-25) | [**26**](data/2024/12/README.md#2024-12-26) | [**27**](data/2024/12/README.md#2024-12-27) | [**28**](data/2024/12/README.md#2024-12-28) | [**29**](data/2024/12/README.md#2024-12-29) |
 | [**30**](data/2024/12/README.md#2024-12-30) | [**31**](data/2024/12/README.md#2024-12-31) |  |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>November</b>](data/2024/11/) (30/30)</summary>
+[**November**](data/2024/11/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -227,9 +203,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**18**](data/2024/11/README.md#2024-11-18) | [**19**](data/2024/11/README.md#2024-11-19) | [**20**](data/2024/11/README.md#2024-11-20) | [**21**](data/2024/11/README.md#2024-11-21) | [**22**](data/2024/11/README.md#2024-11-22) | [**23**](data/2024/11/README.md#2024-11-23) | [**24**](data/2024/11/README.md#2024-11-24) |
 | [**25**](data/2024/11/README.md#2024-11-25) | [**26**](data/2024/11/README.md#2024-11-26) | [**27**](data/2024/11/README.md#2024-11-27) | [**28**](data/2024/11/README.md#2024-11-28) | [**29**](data/2024/11/README.md#2024-11-29) | [**30**](data/2024/11/README.md#2024-11-30) |  |
 
-</details>
-
-<details><summary>[<b>October</b>](data/2024/10/) (31/31)</summary>
+[**October**](data/2024/10/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -239,9 +213,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**21**](data/2024/10/README.md#2024-10-21) | [**22**](data/2024/10/README.md#2024-10-22) | [**23**](data/2024/10/README.md#2024-10-23) | [**24**](data/2024/10/README.md#2024-10-24) | [**25**](data/2024/10/README.md#2024-10-25) | [**26**](data/2024/10/README.md#2024-10-26) | [**27**](data/2024/10/README.md#2024-10-27) |
 | [**28**](data/2024/10/README.md#2024-10-28) | [**29**](data/2024/10/README.md#2024-10-29) | [**30**](data/2024/10/README.md#2024-10-30) | [**31**](data/2024/10/README.md#2024-10-31) |  |  |  |
 
-</details>
-
-<details><summary>[<b>September</b>](data/2024/09/) (30/30)</summary>
+[**September**](data/2024/09/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -252,9 +224,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**23**](data/2024/09/README.md#2024-09-23) | [**24**](data/2024/09/README.md#2024-09-24) | [**25**](data/2024/09/README.md#2024-09-25) | [**26**](data/2024/09/README.md#2024-09-26) | [**27**](data/2024/09/README.md#2024-09-27) | [**28**](data/2024/09/README.md#2024-09-28) | [**29**](data/2024/09/README.md#2024-09-29) |
 | [**30**](data/2024/09/README.md#2024-09-30) |  |  |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>August</b>](data/2024/08/) (31/31)</summary>
+[**August**](data/2024/08/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -264,9 +234,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**19**](data/2024/08/README.md#2024-08-19) | [**20**](data/2024/08/README.md#2024-08-20) | [**21**](data/2024/08/README.md#2024-08-21) | [**22**](data/2024/08/README.md#2024-08-22) | [**23**](data/2024/08/README.md#2024-08-23) | [**24**](data/2024/08/README.md#2024-08-24) | [**25**](data/2024/08/README.md#2024-08-25) |
 | [**26**](data/2024/08/README.md#2024-08-26) | [**27**](data/2024/08/README.md#2024-08-27) | [**28**](data/2024/08/README.md#2024-08-28) | [**29**](data/2024/08/README.md#2024-08-29) | [**30**](data/2024/08/README.md#2024-08-30) | [**31**](data/2024/08/README.md#2024-08-31) |  |
 
-</details>
-
-<details><summary>[<b>July</b>](data/2024/07/) (31/31)</summary>
+[**July**](data/2024/07/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -276,9 +244,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**22**](data/2024/07/README.md#2024-07-22) | [**23**](data/2024/07/README.md#2024-07-23) | [**24**](data/2024/07/README.md#2024-07-24) | [**25**](data/2024/07/README.md#2024-07-25) | [**26**](data/2024/07/README.md#2024-07-26) | [**27**](data/2024/07/README.md#2024-07-27) | [**28**](data/2024/07/README.md#2024-07-28) |
 | [**29**](data/2024/07/README.md#2024-07-29) | [**30**](data/2024/07/README.md#2024-07-30) | [**31**](data/2024/07/README.md#2024-07-31) |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>June</b>](data/2024/06/) (30/30)</summary>
+[**June**](data/2024/06/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -288,9 +254,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**17**](data/2024/06/README.md#2024-06-17) | [**18**](data/2024/06/README.md#2024-06-18) | [**19**](data/2024/06/README.md#2024-06-19) | [**20**](data/2024/06/README.md#2024-06-20) | [**21**](data/2024/06/README.md#2024-06-21) | [**22**](data/2024/06/README.md#2024-06-22) | [**23**](data/2024/06/README.md#2024-06-23) |
 | [**24**](data/2024/06/README.md#2024-06-24) | [**25**](data/2024/06/README.md#2024-06-25) | [**26**](data/2024/06/README.md#2024-06-26) | [**27**](data/2024/06/README.md#2024-06-27) | [**28**](data/2024/06/README.md#2024-06-28) | [**29**](data/2024/06/README.md#2024-06-29) | [**30**](data/2024/06/README.md#2024-06-30) |
 
-</details>
-
-<details><summary>[<b>May</b>](data/2024/05/) (31/31)</summary>
+[**May**](data/2024/05/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -300,9 +264,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**20**](data/2024/05/README.md#2024-05-20) | [**21**](data/2024/05/README.md#2024-05-21) | [**22**](data/2024/05/README.md#2024-05-22) | [**23**](data/2024/05/README.md#2024-05-23) | [**24**](data/2024/05/README.md#2024-05-24) | [**25**](data/2024/05/README.md#2024-05-25) | [**26**](data/2024/05/README.md#2024-05-26) |
 | [**27**](data/2024/05/README.md#2024-05-27) | [**28**](data/2024/05/README.md#2024-05-28) | [**29**](data/2024/05/README.md#2024-05-29) | [**30**](data/2024/05/README.md#2024-05-30) | [**31**](data/2024/05/README.md#2024-05-31) |  |  |
 
-</details>
-
-<details><summary>[<b>April</b>](data/2024/04/) (30/30)</summary>
+[**April**](data/2024/04/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -312,9 +274,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**22**](data/2024/04/README.md#2024-04-22) | [**23**](data/2024/04/README.md#2024-04-23) | [**24**](data/2024/04/README.md#2024-04-24) | [**25**](data/2024/04/README.md#2024-04-25) | [**26**](data/2024/04/README.md#2024-04-26) | [**27**](data/2024/04/README.md#2024-04-27) | [**28**](data/2024/04/README.md#2024-04-28) |
 | [**29**](data/2024/04/README.md#2024-04-29) | [**30**](data/2024/04/README.md#2024-04-30) |  |  |  |  |  |
 
-</details>
-
-<details><summary>[<b>March</b>](data/2024/03/) (31/31)</summary>
+[**March**](data/2024/03/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -324,9 +284,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**18**](data/2024/03/README.md#2024-03-18) | [**19**](data/2024/03/README.md#2024-03-19) | [**20**](data/2024/03/README.md#2024-03-20) | [**21**](data/2024/03/README.md#2024-03-21) | [**22**](data/2024/03/README.md#2024-03-22) | [**23**](data/2024/03/README.md#2024-03-23) | [**24**](data/2024/03/README.md#2024-03-24) |
 | [**25**](data/2024/03/README.md#2024-03-25) | [**26**](data/2024/03/README.md#2024-03-26) | [**27**](data/2024/03/README.md#2024-03-27) | [**28**](data/2024/03/README.md#2024-03-28) | [**29**](data/2024/03/README.md#2024-03-29) | [**30**](data/2024/03/README.md#2024-03-30) | [**31**](data/2024/03/README.md#2024-03-31) |
 
-</details>
-
-<details><summary>[<b>February</b>](data/2024/02/) (29/29)</summary>
+[**February**](data/2024/02/) (29/29)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -336,9 +294,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**19**](data/2024/02/README.md#2024-02-19) | [**20**](data/2024/02/README.md#2024-02-20) | [**21**](data/2024/02/README.md#2024-02-21) | [**22**](data/2024/02/README.md#2024-02-22) | [**23**](data/2024/02/README.md#2024-02-23) | [**24**](data/2024/02/README.md#2024-02-24) | [**25**](data/2024/02/README.md#2024-02-25) |
 | [**26**](data/2024/02/README.md#2024-02-26) | [**27**](data/2024/02/README.md#2024-02-27) | [**28**](data/2024/02/README.md#2024-02-28) | [**29**](data/2024/02/README.md#2024-02-29) |  |  |  |
 
-</details>
-
-<details><summary>[<b>January</b>](data/2024/01/) (31/31)</summary>
+[**January**](data/2024/01/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -350,22 +306,149 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
+<details><summary><h3>[2023](data/2023/) (9/365 days)</h3></summary>
+
+[**December**](data/2023/12/) (9/31)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  | [**1**](data/2023/12/README.md#2023-12-01) | [**2**](data/2023/12/README.md#2023-12-02) | [**3**](data/2023/12/README.md#2023-12-03) |
+| [**4**](data/2023/12/README.md#2023-12-04) | [**5**](data/2023/12/README.md#2023-12-05) | [**6**](data/2023/12/README.md#2023-12-06) | [**7**](data/2023/12/README.md#2023-12-07) | [**8**](data/2023/12/README.md#2023-12-08) | [**9**](data/2023/12/README.md#2023-12-09) | 10 |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+
+[**November**](data/2023/11/) (0/30)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 |  |  |  |
+
+[**October**](data/2023/10/) (0/31)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |  | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 |  |  |  |  |  |
+
+[**September**](data/2023/09/) (0/30)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 | 30 |  |
+
+[**August**](data/2023/08/) (0/31)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 31 |  |  |  |
+
+[**July**](data/2023/07/) (0/31)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  | 1 | 2 |
+| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 |  |  |  |  |  |  |
+
+[**June**](data/2023/06/) (0/30)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |  |  |
+
+[**May**](data/2023/05/) (0/31)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 31 |  |  |  |  |
+
+[**April**](data/2023/04/) (0/30)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  | 1 | 2 |
+| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+
+[**March**](data/2023/03/) (0/31)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 31 |  |  |
+
+[**February**](data/2023/02/) (0/28)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 |  |  |  |  |  |
+
+[**January**](data/2023/01/) (0/31)
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |  | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 |  |  |  |  |  |
+
+</details>
+
 ---
 
 ## 2026-04-02
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 79 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [41 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 29 points by [bundie](https://news.ycombinator.com/user?id=bundie), [36 comments](https://news.ycombinator.com/item?id=47612127)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 80 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [42 comments](https://news.ycombinator.com/item?id=47611721)
+2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 29 points by [bundie](https://news.ycombinator.com/user?id=bundie), [37 comments](https://news.ycombinator.com/item?id=47612127)
 3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 58 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 942 points by [apitman](https://news.ycombinator.com/user?id=apitman), [804 comments](https://news.ycombinator.com/item?id=47603657)
 5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 46 points by [luu](https://news.ycombinator.com/user?id=luu), [20 comments](https://news.ycombinator.com/item?id=47582987)
-6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 151 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
-7. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 14 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [4 comments](https://news.ycombinator.com/item?id=47611921)
+6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 15 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [4 comments](https://news.ycombinator.com/item?id=47611921)
+7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 151 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
 8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 55 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [17 comments](https://news.ycombinator.com/item?id=47596739)
 9. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 421 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [199 comments](https://news.ycombinator.com/item?id=47609564)
-10. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 186 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
+10. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 187 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
 
 ## 2026-04-01
 

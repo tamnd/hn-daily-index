@@ -268,11 +268,6 @@ def _generate_readme() -> str:
         covered = sum(1 for d in all_dates if d.isoformat() in available)
         is_current = year == current_year
 
-        lines.append(
-            f"### [{year}](data/{year}/) ({covered}/{total_days} days)"
-        )
-        lines.append("")
-
         # Group by month, most recent first
         months: dict[str, list[date]] = {}
         for d in all_dates:
@@ -282,7 +277,11 @@ def _generate_readme() -> str:
         month_keys = sorted(months.keys(), reverse=True)
 
         if is_current:
-            # Current year: full calendar with collapsible months
+            lines.append(
+                f"### [{year}](data/{year}/) ({covered}/{total_days} days)"
+            )
+            lines.append("")
+
             for month_key in month_keys:
                 month_dates = months[month_key]
                 month_label = month_dates[0].strftime("%B")
@@ -297,7 +296,10 @@ def _generate_readme() -> str:
                 )
                 lines.append("")
         else:
-            # Older years: collapsed calendar for each month
+            # Older years: single collapsed details with all month calendars
+            lines.append(f"<details><summary><h3>[{year}](data/{year}/) ({covered}/{total_days} days)</h3></summary>")
+            lines.append("")
+
             for month_key in month_keys:
                 month_dates = months[month_key]
                 month_label = month_dates[0].strftime("%B")
@@ -305,14 +307,15 @@ def _generate_readme() -> str:
                 month_covered = sum(1 for d in month_dates if d.isoformat() in available)
                 month_total = len(month_dates)
 
-                lines.append(f"<details><summary>[<b>{month_label}</b>](data/{year}/{month_num:02d}/) ({month_covered}/{month_total})</summary>")
+                lines.append(f"[**{month_label}**](data/{year}/{month_num:02d}/) ({month_covered}/{month_total})")
                 lines.append("")
                 lines.extend(
                     _render_month_calendar(month_dates, available, inline=False)
                 )
                 lines.append("")
-                lines.append("</details>")
-                lines.append("")
+
+            lines.append("</details>")
+            lines.append("")
 
     lines.append("---")
     lines.append("")
