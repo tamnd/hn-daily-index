@@ -11,10 +11,10 @@ Top 10 Hacker News stories for each day in April 2026.
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 138 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [76 comments](https://news.ycombinator.com/item?id=47611721)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 139 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [76 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 41 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [11 comments](https://news.ycombinator.com/item?id=47612724)
-3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 31 points by [lode](https://news.ycombinator.com/user?id=lode), [1 comments](https://news.ycombinator.com/item?id=47613078)
-4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 174 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [93 comments](https://news.ycombinator.com/item?id=47612601)
+3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 33 points by [lode](https://news.ycombinator.com/user?id=lode), [1 comments](https://news.ycombinator.com/item?id=47613078)
+4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 175 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [93 comments](https://news.ycombinator.com/item?id=47612601)
 5. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 93 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [29 comments](https://news.ycombinator.com/item?id=47611481)
 6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 58 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [25 comments](https://news.ycombinator.com/item?id=47611921)
 7. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 72 points by [luu](https://news.ycombinator.com/user?id=luu), [32 comments](https://news.ycombinator.com/item?id=47582987)
