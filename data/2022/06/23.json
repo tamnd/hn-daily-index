@@ -4,99 +4,99 @@
     "id": 31835843,
     "title": "FDA to order Juul e-cigarettes off U.S. market",
     "url": "https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 418,
+    "by": "kgwgk",
+    "descendants": 717,
+    "time": 1655905088
   },
   {
     "rank": 2,
     "id": 31836974,
     "title": "Stack Overflow Developer Survey 2022",
     "url": "https://survey.stackoverflow.co/2022/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "klez",
+    "descendants": 364,
+    "time": 1655910346
   },
   {
     "rank": 3,
     "id": 31838049,
     "title": "Twitter Notes",
     "url": "https://twitter.com/TwitterWrite/status/1539640956915290112",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "yellow_lead",
+    "descendants": 302,
+    "time": 1655914902
   },
   {
     "rank": 4,
     "id": 31843996,
     "title": "Introducing PyScript (summary of PyCon keynote)",
     "url": "https://lwn.net/SubscriberLink/898452/357b195db1ecce28/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "benhoyt",
+    "descendants": 234,
+    "time": 1655946726
   },
   {
     "rank": 5,
     "id": 31846543,
     "title": "Copilot sells code other people wrote",
     "url": "https://twitter.com/ReinH/status/1539626662274269185",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 713,
+    "by": "joemanaco",
+    "descendants": 815,
+    "time": 1655974126
   },
   {
     "rank": 6,
     "id": 31846593,
     "title": "YaLM-100B: Pretrained language model with 100B parameters",
     "url": "https://github.com/yandex/YaLM-100B",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 736,
+    "by": "f311a",
+    "descendants": 625,
+    "time": 1655974826
   },
   {
     "rank": 7,
     "id": 31848210,
     "title": "Ask HN: Does anybody still use bookmarking services?",
     "url": "https://news.ycombinator.com/item?id=31848210",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "joe8756438",
+    "descendants": 470,
+    "time": 1655988054
   },
   {
     "rank": 8,
     "id": 31848499,
     "title": "Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20",
     "url": "https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "FPGAhacker",
+    "descendants": 293,
+    "time": 1655989547
   },
   {
     "rank": 9,
     "id": 31851755,
     "title": "Whatever happened to SHA-256 support in Git?",
     "url": "https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "chmaynard",
+    "descendants": 214,
+    "time": 1656002865
   },
   {
     "rank": 10,
     "id": 31852384,
     "title": "Italian watchdog bans use of Google Analytics",
     "url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 942,
+    "by": "giuliomagnifico",
+    "descendants": 587,
+    "time": 1656005229
   }
 ]

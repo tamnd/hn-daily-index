@@ -4,99 +4,99 @@
     "id": 31557809,
     "title": "Ffmpeg Buddy",
     "url": "https://evanhahn.github.io/ffmpeg-buddy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "thunderbong",
+    "descendants": 147,
+    "time": 1653909430
   },
   {
     "rank": 2,
     "id": 31571476,
     "title": "RCE over ham radio \u2013 Reverse shell via WinAPRS memory corruption bug",
     "url": "https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "rickostuff",
+    "descendants": 47,
+    "time": 1654014358
   },
   {
     "rank": 3,
     "id": 31575909,
     "title": "Find Wikipedia photos needed near you",
     "url": "https://wikishootme.toolforge.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "thcipriani",
+    "descendants": 127,
+    "time": 1654037782
   },
   {
     "rank": 4,
     "id": 31577325,
     "title": "I got hacked and Facebook banned me",
     "url": "https://emilycordes.com/facebook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "kzrl",
+    "descendants": 317,
+    "time": 1654050018
   },
   {
     "rank": 5,
     "id": 31577376,
     "title": "Science needs more research software engineers",
     "url": "https://www.nature.com/articles/d41586-022-01516-2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "sohkamyung",
+    "descendants": 347,
+    "time": 1654050522
   },
   {
     "rank": 6,
     "id": 31580763,
     "title": "Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?",
     "url": "https://news.ycombinator.com/item?id=31580763",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 437,
+    "by": "picozeta",
+    "descendants": 416,
+    "time": 1654085983
   },
   {
     "rank": 7,
     "id": 31582796,
     "title": "Ask HN: Who is hiring? (June 2022)",
     "url": "https://news.ycombinator.com/item?id=31582796",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "whoishiring",
+    "descendants": 842,
+    "time": 1654095711
   },
   {
     "rank": 8,
     "id": 31585612,
     "title": "Tim Hortons app violated laws in collection of \u2018vast amounts\u2019 of location data",
     "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 700,
+    "by": "danso",
+    "descendants": 406,
+    "time": 1654106354
   },
   {
     "rank": 9,
     "id": 31586833,
     "title": "Show HN: A friend and I spent 6 years making a simulation game, finally released",
     "url": "https://news.ycombinator.com/item?id=31586833",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1157,
+    "by": "iliketrains",
+    "descendants": 279,
+    "time": 1654111907
   },
   {
     "rank": 10,
     "id": 31586885,
     "title": "Sheryl Sandberg stepping down as Facebook COO",
     "url": "https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "coloneltcb",
+    "descendants": 589,
+    "time": 1654112208
   }
 ]

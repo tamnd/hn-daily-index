@@ -4,99 +4,99 @@
     "id": 31539549,
     "title": "Ask HN: How to learn math from zero for adults?",
     "url": "https://news.ycombinator.com/item?id=31539549",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 559,
+    "by": "stArrow",
+    "descendants": 172,
+    "time": 1653738373
   },
   {
     "rank": 2,
     "id": 31540521,
     "title": "Time Series and FoundationDB (2019)",
     "url": "https://github.com/richardartoul/tsdb-layer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "richieartoul",
+    "descendants": 86,
+    "time": 1653747556
   },
   {
     "rank": 3,
     "id": 31543054,
     "title": "System Font Stack",
     "url": "https://systemfontstack.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "SenHeng",
+    "descendants": 167,
+    "time": 1653766574
   },
   {
     "rank": 4,
     "id": 31544634,
     "title": "My students cheated... a lot",
     "url": "https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1840,
+    "by": "benjyhirsch",
+    "descendants": 1402,
+    "time": 1653779084
   },
   {
     "rank": 5,
     "id": 31546799,
     "title": "Britain should scrap its online safety bill",
     "url": "https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "samizdis",
+    "descendants": 202,
+    "time": 1653803961
   },
   {
     "rank": 6,
     "id": 31548268,
     "title": "Electronic Catan LCD Tiles",
     "url": "https://coliniuliano.ca/projects/catan-tiles/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 529,
+    "by": "jsnell",
+    "descendants": 59,
+    "time": 1653823791
   },
   {
     "rank": 7,
     "id": 31548829,
     "title": "Building a Budget Homelab NAS Server",
     "url": "https://mtlynch.io/budget-nas/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "mtlynch",
+    "descendants": 307,
+    "time": 1653829473
   },
   {
     "rank": 8,
     "id": 31549050,
     "title": "Why does this code execute more slowly after strength-reducing multiplications?",
     "url": "https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "ttsiodras",
+    "descendants": 148,
+    "time": 1653831601
   },
   {
     "rank": 9,
     "id": 31549237,
     "title": "Study claims Amazon, Apple, Google, Meta, Microsoft work to derail data rules",
     "url": "https://www.theregister.com/2022/05/27/big_tech_privacy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "Bender",
+    "descendants": 190,
+    "time": 1653833298
   },
   {
     "rank": 10,
     "id": 31549238,
     "title": "Setting up a Pi Hole made my home network faster",
     "url": "https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "pmoriarty",
+    "descendants": 242,
+    "time": 1653833304
   }
 ]

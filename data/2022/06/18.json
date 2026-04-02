@@ -4,99 +4,99 @@
     "id": 31780128,
     "title": "CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot",
     "url": "https://github.com/sarsko/CreuSAT",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "ingve",
+    "descendants": 72,
+    "time": 1655481474
   },
   {
     "rank": 2,
     "id": 31782200,
     "title": "Ask HN: Best dev tool pitches of all time?",
     "url": "https://news.ycombinator.com/item?id=31782200",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "swyx",
+    "descendants": 122,
+    "time": 1655489921
   },
   {
     "rank": 3,
     "id": 31784602,
     "title": "Three Arrows Capital reportedly facing insolvency",
     "url": "https://www.fxstreet.com/cryptocurrencies/news/three-arrows-capitals-zhu-su-speaks-out-after-400-million-liquidation-due-to-celsius-and-terras-luna-fiasco-202206150841",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "paulpauper",
+    "descendants": 377,
+    "time": 1655501335
   },
   {
     "rank": 4,
     "id": 31785199,
     "title": "Show HN: A central bank simulator game with a realistic economic model",
     "url": "https://benoitessiambre.com/macro.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 815,
+    "by": "BenoitEssiambre",
+    "descendants": 309,
+    "time": 1655504661
   },
   {
     "rank": 5,
     "id": 31788894,
     "title": "Apple has a bug in its disk I/O throttling code that affects raw disk copies",
     "url": "https://mjacobson.net/blog/2022-02-throttling.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "lapcat",
+    "descendants": 127,
+    "time": 1655551656
   },
   {
     "rank": 6,
     "id": 31788923,
     "title": "Patreon cuts deep inside creators\u2019 pockets",
     "url": "https://thoughts.jatan.space/p/patreon-cuts-deep",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "solospace",
+    "descendants": 336,
+    "time": 1655551824
   },
   {
     "rank": 7,
     "id": 31789809,
     "title": "Construction is life",
     "url": "https://kk.org/thetechnium/construction-is-life/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "galfarragem",
+    "descendants": 148,
+    "time": 1655560242
   },
   {
     "rank": 8,
     "id": 31791124,
     "title": "Japan's NTT to begin remote work as norm for 30k employees",
     "url": "https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "njacobs5074",
+    "descendants": 98,
+    "time": 1655568453
   },
   {
     "rank": 9,
     "id": 31791444,
     "title": "DOE announces breakthrough in residential cold climate heat pump technology",
     "url": "https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 605,
+    "by": "josephscott",
+    "descendants": 398,
+    "time": 1655570344
   },
   {
     "rank": 10,
     "id": 31793030,
     "title": "Cold Showers",
     "url": "https://github.com/hwayne/awesome-cold-showers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 629,
+    "by": "blopeur",
+    "descendants": 355,
+    "time": 1655580873
   }
 ]
