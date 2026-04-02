@@ -54,7 +54,7 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 | [**19**](#2026-01-19) | [**20**](#2026-01-20) | [**21**](#2026-01-21) | [**22**](#2026-01-22) | [**23**](#2026-01-23) | [**24**](#2026-01-24) | [**25**](#2026-01-25) |
 | [**26**](#2026-01-26) | [**27**](#2026-01-27) | [**28**](#2026-01-28) | [**29**](#2026-01-29) | [**30**](#2026-01-30) | [**31**](#2026-01-31) |  |
 
-### [2025](data/2025/) (304/365 days)
+### [2025](data/2025/) (332/365 days)
 
 [December](data/2025/12/) (30/31) 
 [November](data/2025/11/) (30/30) 
@@ -66,7 +66,7 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 [May](data/2025/05/) (31/31) 
 [April](data/2025/04/) (30/30) 
 [March](data/2025/03/) (31/31) 
-[February](data/2025/02/) (0/28) 
+[February](data/2025/02/) (28/28) 
 [January](data/2025/01/) (0/31) 
 
 ---
@@ -75,11 +75,11 @@ Recent: [Apr 02](#2026-04-02) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | 
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 75 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [33 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 20 points by [bundie](https://news.ycombinator.com/user?id=bundie), [13 comments](https://news.ycombinator.com/item?id=47612127)
-3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 54 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 76 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [33 comments](https://news.ycombinator.com/item?id=47611721)
+2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 21 points by [bundie](https://news.ycombinator.com/user?id=bundie), [17 comments](https://news.ycombinator.com/item?id=47612127)
+3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 55 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 938 points by [apitman](https://news.ycombinator.com/user?id=apitman), [801 comments](https://news.ycombinator.com/item?id=47603657)
-5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 39 points by [luu](https://news.ycombinator.com/user?id=luu), [17 comments](https://news.ycombinator.com/item?id=47582987)
+5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 40 points by [luu](https://news.ycombinator.com/user?id=luu), [17 comments](https://news.ycombinator.com/item?id=47582987)
 6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 150 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
 7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 53 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [16 comments](https://news.ycombinator.com/item?id=47596739)
 8. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 418 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [196 comments](https://news.ycombinator.com/item?id=47609564)
