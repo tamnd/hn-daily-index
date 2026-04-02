@@ -4,99 +4,99 @@
     "id": 31217802,
     "title": "Distributed Systems Shibboleths",
     "url": "https://jolynch.github.io/posts/distsys_shibboleths/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "jolynch",
+    "descendants": 66,
+    "time": 1651341175
   },
   {
     "rank": 2,
     "id": 31224687,
     "title": "Why Jony Ive left Apple to the \u2018accountants\u2019",
     "url": "https://www.nytimes.com/2022/05/01/technology/jony-ive-apple-design.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "mcone",
+    "descendants": 592,
+    "time": 1651410115
   },
   {
     "rank": 3,
     "id": 31228710,
     "title": "DALL-E 2 open source implementation",
     "url": "https://github.com/lucidrains/DALLE2-pytorch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "jonas_kgomo",
+    "descendants": 152,
+    "time": 1651439532
   },
   {
     "rank": 4,
     "id": 31229504,
     "title": "My experience getting a tech job with no degree or relevant work experience",
     "url": "https://lowlyswe.substack.com/p/my-experience-getting-a-tech-job",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "leesec",
+    "descendants": 283,
+    "time": 1651445420
   },
   {
     "rank": 5,
     "id": 31230181,
     "title": "Occlusion Grotesque Experimental Typeface (2021)",
     "url": "https://bjoernkarmann.dk/occlusion-grotesque",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "accrual",
+    "descendants": 33,
+    "time": 1651452118
   },
   {
     "rank": 6,
     "id": 31230457,
     "title": "I won free load testing",
     "url": "https://fasterthanli.me/articles/i-won-free-load-testing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "0xedb",
+    "descendants": 134,
+    "time": 1651454845
   },
   {
     "rank": 7,
     "id": 31230967,
     "title": "The Game: A continually-run D&D campaign, since 1982",
     "url": "https://thegamednd.com/the-game-out-of-game/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "gaws",
+    "descendants": 156,
+    "time": 1651460213
   },
   {
     "rank": 8,
     "id": 31231968,
     "title": "Lenovo ThinkPad P1 Gen3 Review \u2013 with Linux",
     "url": "https://ernestas.me/lenovo-thinkpad-p1-gen3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "narmontas",
+    "descendants": 479,
+    "time": 1651472488
   },
   {
     "rank": 9,
     "id": 31235968,
     "title": "Ask HN: Who is hiring? (May 2022)",
     "url": "https://news.ycombinator.com/item?id=31235968",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "whoishiring",
+    "descendants": 832,
+    "time": 1651503698
   },
   {
     "rank": 10,
     "id": 31236157,
     "title": "Brendan at Intel.com",
     "url": "https://www.brendangregg.com/blog/2022-05-02/brendan-at-intel.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "ABS",
+    "descendants": 137,
+    "time": 1651504328
   }
 ]

@@ -2,6 +2,11 @@
 
 Top 10 Hacker News stories for each day in November 2020.
 
+- [2020-11-30 (Monday)](#2020-11-30)
+- [2020-11-29 (Sunday)](#2020-11-29)
+- [2020-11-28 (Saturday)](#2020-11-28)
+- [2020-11-27 (Friday)](#2020-11-27)
+- [2020-11-26 (Thursday)](#2020-11-26)
 - [2020-11-25 (Wednesday)](#2020-11-25)
 - [2020-11-24 (Tuesday)](#2020-11-24)
 - [2020-11-23 (Monday)](#2020-11-23)
@@ -29,6 +34,81 @@ Top 10 Hacker News stories for each day in November 2020.
 - [2020-11-01 (Sunday)](#2020-11-01)
 
 ---
+
+## 2020-11-30
+
+*Monday*
+
+1. [Chess tactics explained](https://www.chesstactics.org/) (chesstactics.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25236094)
+2. [Sleep duration is associated with brain structure and cognitive performance](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25132) (onlinelibrary.wiley.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25246419)
+3. [Would you be willing to fund a Linux port to Apple Silicon?](https://twitter.com/marcan42/status/1333126001161773056) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25247338)
+4. [How to Run a Ponzi Scheme for Tech People](https://callmenish.com/how-to-run-a-tech-ponzi-scheme/) (callmenish.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25248563)
+5. [A free-as-in-freedom re-implementation of Google’s Android user space](https://microg.org/) (microg.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25252598)
+6. [E Foundation – deGoogled unGoogled smartphone OS and online services](https://e.foundation/) (e.foundation) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25253129)
+7. [AlphaFold: a solution to a 50-year-old grand challenge in biology](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) (deepmind.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25253488)
+8. [No one who got Moderna's vaccine in trial developed severe Covid-19](https://www.sciencemag.org/news/2020/11/absolutely-remarkable-no-one-who-got-modernas-vaccine-trial-developed-severe-covid-19) (sciencemag.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25253722)
+9. [AlphaFold: a solution to a 50-year-old grand challenge in biology](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) (deepmind.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25254772)
+10. [Why is Apple's M1 chip so fast?](https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2) (erik-engheim.medium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25257932)
+
+## 2020-11-29
+
+*Sunday*
+
+1. [Please – A cross-language build system](https://please.build/) (please.build) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25238453)
+2. [No Config for Old Men](https://datagubbe.se/noconf/) (datagubbe.se) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25238523)
+3. [30 years later, QBasic is still the best](http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/) (nicolasbize.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25239424)
+4. [Growl in Retirement](http://336699.org/GrowlRetirement) (336699.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25241030)
+5. [Ruffle – A Flash Player emulator written in Rust](https://ruffle.rs/) (ruffle.rs) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25242115)
+6. [Gallery-dl – download images from several image hosting sites](https://github.com/mikf/gallery-dl) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25244589)
+7. [Watercooling a Canon R5 to enable unlimited 8K recording](https://petapixel.com/2020/11/28/this-guy-watercooled-his-canon-r5-and-unlocked-unlimited-8k/) (petapixel.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25244771)
+8. [YouTube shadowbans video titled “The CIA is a Terrorist Organization”](https://twitter.com/_SecondThought/status/1332746158947635202) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25245026)
+9. [Ask HN: Top Coursera Courses?](https://news.ycombinator.com/item?id=25245125) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25245125)
+10. [Show HN: I Rebuilt MySpace from 2007](https://spacehey.com/?ref=hn) (spacehey.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25245740)
+
+## 2020-11-28
+
+*Saturday*
+
+1. [Digital Tools I Wish Existed](https://jon.bo/posts/digital-tools/) (jon.bo) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25228089)
+2. [Glucose metabolism responds to perceived sugar intake more than actual intake](https://www.nature.com/articles/s41598-020-72501-w?mc_cid=2b33d59ff8&mc_eid=e358e73db6) (nature.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25229050)
+3. [Windows for Arm on M1 Mac Successfully Virtualized](https://www.macrumors.com/2020/11/27/developer-successfully-virtualizes-windows-on-m1/?ref=upstract.com) (macrumors.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25230697)
+4. [Reveal.js: HTML presentation framework](https://revealjs.com/) (revealjs.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25233136)
+5. [Apple CPU tricks: memory reordering, JavaScript support, ref counting](https://twitter.com/ErrataRob/status/1331735383193903104) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25233554)
+6. [K6: Like unit testing, for performance](https://github.com/loadimpact/k6) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25234746)
+7. [Tony Hsieh has died](https://www.yahoo.com/lifestyle/tony-hsieh-zappos-luminary-revolutionized-045239863.html) (yahoo.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25235490)
+8. [Summary of the Amazon Kinesis Event in the Northern Virginia (US-East-1) Region](https://aws.amazon.com/message/11201/) (aws.amazon.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25236057)
+9. [Amazon hires 427,000 people in 10 months](https://www.nytimes.com/2020/11/27/technology/pushed-by-pandemic-amazon-goes-on-a-hiring-spree-without-equal.html) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25237552)
+10. [Apple Silicon M1: A Developer's Perspective](https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/) (steipete.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25238608)
+
+## 2020-11-27
+
+*Friday*
+
+1. [Ragya – Indian classical music played by time of the day](https://www.ragya.com/) (ragya.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25222370)
+2. [Leaf-cutter ants have rocky crystal armor, never before seen in insects](https://www.nationalgeographic.com/animals/2020/11/leaf-cutter-ants-have-strong-mineral-armor/) (nationalgeographic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25223180)
+3. [Fucking, Austria changes name to Fugging](https://www.theguardian.com/world/2020/nov/26/fugging-hell-tired-of-mockery-austrian-village-changes-name) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25223633)
+4. [Due to a problem with AWS, many \"smart\" vacuums or doorbells will stop working](https://eminetra.com.au/people-cant-vacuum-or-use-their-doorbell-because-amazons-cloud-servers-are-down/74505/) (eminetra.com.au) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25224220)
+5. [Microsoft's Creepy New 'Productivity Score' Gamifies Workplace Surveillance](https://gizmodo.com/microsofts-creepy-new-productivity-score-gamifies-workp-1845763063) (gizmodo.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25225271)
+6. [Tell HN: Thank You Dang](https://news.ycombinator.com/item?id=25225775) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25225775)
+7. [Amazon Workers to Stage Coordinated Black Friday Protests in 15 Countries](https://www.vice.com/en/article/epdvzp/amazon-workers-to-stage-coordinated-black-friday-protests-in-12-countries) (vice.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25226430)
+8. [CAPTCHAs don’t prove you’re human – they prove you’re American (2017)](https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/) (shkspr.mobi) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25226805)
+9. [How to Think for Yourself](http://paulgraham.com/think.html) (paulgraham.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25227651)
+10. [‘Tokenized’: Black Workers’ Struggles at Coinbase](https://www.nytimes.com/2020/11/27/technology/coinbase-cryptocurrency-black-employees.html#click=https://t.co/akHbGxS2QL) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25229544)
+
+## 2020-11-26
+
+*Thursday*
+
+1. [Diego Maradona has died](https://www.theguardian.com/football/2020/nov/25/diego-maradona-dies-one-of-greatest-footballers-of-all-time-argentina-world-cup-1986) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25211069)
+2. [Mmhmm](https://www.mmhmm.app/) (mmhmm.app) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25211414)
+3. [Blender 2.91](https://www.blender.org/download/releases/2-91/) (blender.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25211460)
+4. [Quiver: A modern commutative diagram editor](https://github.com/varkor/quiver) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25213201)
+5. [I spent eleven years working on this Line Rider track](https://delu.medium.com/i-spent-11-years-working-on-this-line-rider-track-96742fc0b709) (delu.medium.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25216499)
+6. [An ex-Googler’s guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/) (about.sourcegraph.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25217291)
+7. [Magic mushrooms are changing the lives of terminal cancer patients](https://thetyee.ca/News/2020/11/25/Magic-Mushrooms-Changing-Lives-Terminal-Cancer-Patients/) (thetyee.ca) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25217874)
+8. [PHP 8](https://www.php.net/archive/2020.php#2020-11-26-3) (php.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25220674)
+9. [Modern storage is plenty fast, but the APIs are bad](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a) (itnext.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25220892)
+10. [io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/) (scylladb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25222243)
 
 ## 2020-11-25
 

@@ -14,7 +14,7 @@
     "id": 47611481,
     "title": "Bringing Clojure programming to Enterprise (2021)",
     "url": "https://blogit.michelin.io/clojure-programming/",
-    "score": 69,
+    "score": 70,
     "by": "smartmic",
     "descendants": 9,
     "time": 1775117951
@@ -31,6 +31,16 @@
   },
   {
     "rank": 4,
+    "id": 47612601,
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+    "score": 55,
+    "by": "novaRom",
+    "descendants": 10,
+    "time": 1775127000
+  },
+  {
+    "rank": 5,
     "id": 47582987,
     "title": "Gone (Almost) Phishin'",
     "url": "https://ma.tt/2026/03/gone-almost-phishin/",
@@ -40,21 +50,11 @@
     "time": 1774933899
   },
   {
-    "rank": 5,
-    "id": 47612601,
-    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 54,
-    "by": "novaRom",
-    "descendants": 10,
-    "time": 1775127000
-  },
-  {
     "rank": 6,
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 27,
+    "score": 29,
     "by": "stratos123",
     "descendants": 12,
     "time": 1775121258
@@ -94,9 +94,9 @@
     "id": 47608495,
     "title": "Quantum computing bombshells that are not April Fools",
     "url": "https://scottaaronson.blog/?p=9665",
-    "score": 193,
+    "score": 195,
     "by": "Strilanc",
-    "descendants": 62,
+    "descendants": 63,
     "time": 1775089483
   }
 ]

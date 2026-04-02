@@ -4,99 +4,99 @@
     "id": 31249181,
     "title": "I fell in love with low-JS",
     "url": "https://edofic.com/posts/2022-01-28-low-js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "im_dario",
+    "descendants": 295,
+    "time": 1651590009
   },
   {
     "rank": 2,
     "id": 31258469,
     "title": "Keycloak: Open-Source Identity and Access Management",
     "url": "https://www.keycloak.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "memorable",
+    "descendants": 235,
+    "time": 1651658348
   },
   {
     "rank": 3,
     "id": 31262361,
     "title": "Stripe Financial Connections",
     "url": "https://stripe.com/financial-connections",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "ianhawes",
+    "descendants": 247,
+    "time": 1651680355
   },
   {
     "rank": 4,
     "id": 31265554,
     "title": "IBM's Asshole Test",
     "url": "https://johnpublic.mataroa.blog/blog/the-asshole-test/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 683,
+    "by": "johnpublic",
+    "descendants": 577,
+    "time": 1651696776
   },
   {
     "rank": 5,
     "id": 31268222,
     "title": "Teen mental health is plummeting and social media is a major contributing cause [pdf]",
     "url": "https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 818,
+    "by": "insamniac",
+    "descendants": 1074,
+    "time": 1651713829
   },
   {
     "rank": 6,
     "id": 31269062,
     "title": "Heroku Security Notification",
     "url": "https://status.heroku.com/incidents/2413?updated",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "peterwallhead",
+    "descendants": 155,
+    "time": 1651721306
   },
   {
     "rank": 7,
     "id": 31271451,
     "title": "I Accidentally Deleted 7TB of Videos Before Going to Production",
     "url": "https://blog.thevinter.com/posts/vimeo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 516,
+    "by": "thevinter",
+    "descendants": 345,
+    "time": 1651744804
   },
   {
     "rank": 8,
     "id": 31273802,
     "title": "7GUIs",
     "url": "https://eugenkiss.github.io/7guis/tasks/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 753,
+    "by": "miguelrochefort",
+    "descendants": 113,
+    "time": 1651760971
   },
   {
     "rank": 9,
     "id": 31273989,
     "title": "Please stop disabling zoom",
     "url": "https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "zachflower",
+    "descendants": 303,
+    "time": 1651761756
   },
   {
     "rank": 10,
     "id": 31277998,
     "title": "Including \u201cAnd. And. And. And. And.\u201d in a Google doc causes it to crash",
     "url": "https://support.google.com/docs/thread/162510194/including-and-and-and-and-and-in-a-google-doc-causes-it-to-crash?hl=en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1473,
+    "by": "patneedham",
+    "descendants": 411,
+    "time": 1651782303
   }
 ]
