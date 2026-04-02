@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 6695162,
+    "title": "OpenSSH security advisory",
+    "url": "http://www.openssh.com/txt/gcmrekey.adv",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 6695648,
+    "title": "Git Cheatsheet",
+    "url": "http://www.ndpsoftware.com/git-cheatsheet.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 6696649,
+    "title": "Wounded QR Codes",
+    "url": "http://www.datagenetics.com/blog/november12013/index.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 6697396,
+    "title": "Amazon Analytics Service",
+    "url": "http://developer.amazon.com/sdk/analytics.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 6698821,
+    "title": "Why I won't get a Google+ Custom URL",
+    "url": "http://blog.vrypan.net/2013/11/08/why-i-wont-use-a-gplus-custom-url/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 6698906,
+    "title": "AngularJS 1.2.0: timely-delivery",
+    "url": "http://blog.angularjs.org/2013/11/angularjs-120-timely-delivery.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 6700057,
+    "title": "GIMP Windows Installers move from Sourceforge to ftp.gimp.org",
+    "url": "http://www.gimp.org/?",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 6700103,
+    "title": "Try Hy",
+    "url": "http://try-hy.appspot.com/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 6700756,
+    "title": "Shopify accepts Bitcoin",
+    "url": "http://ecommerce.shopify.com/c/payments-shipping-fulfilment/t/bitcoin-135352",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 6701688,
+    "title": "Pyret: A new programming language from the creators of Racket",
+    "url": "http://www.pyret.org",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
