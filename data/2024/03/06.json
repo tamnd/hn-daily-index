@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 39603087,
+    "title": "Nerdy internals of an Apple text editor",
+    "url": "https://papereditor.app/internals",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 39606885,
+    "title": "The \\\"missing\\\" graph datatype already exists. It was invented in the '70s",
+    "url": "https://tylerhou.com/posts/datalog-go-brrr/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 39609336,
+    "title": "Cracking Meta's Messenger Certificate Pinning on macOS",
+    "url": "https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 39611484,
+    "title": "OpenAI and Elon Musk",
+    "url": "https://openai.com/blog/openai-elon-musk",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 39612443,
+    "title": "Leaving LinkedIn",
+    "url": "https://corecursive.com/leaving-linkedin-with-chris-krycho/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 39614433,
+    "title": "Dada, an experimental new programming language",
+    "url": "https://dada-lang.org/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 39618673,
+    "title": "Apple terminates Epic Games developer account, calling it a 'threat' to iOS",
+    "url": "https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 39618822,
+    "title": "FDA clears first over-the-counter continuous glucose monitor",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 39619041,
+    "title": "The end of Airplane.dev",
+    "url": "https://yolken.net/blog/end-of-airplanedev",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 39620060,
+    "title": "Detect when your installed Chrome extensions have changed owners",
+    "url": "https://github.com/classvsoftware/under-new-management",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
