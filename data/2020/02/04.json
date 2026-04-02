@@ -4,99 +4,99 @@
     "id": 22226380,
     "title": "The missing semester of CS education",
     "url": "https://missing.csail.mit.edu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1163,
+    "by": "anishathalye",
+    "descendants": 196,
+    "time": 1580750716
   },
   {
     "rank": 2,
     "id": 22231922,
     "title": "Reviving Sandstorm",
     "url": "https://sandstorm.io/news/2020-02-03-reviving-sandstorm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "anotherevan",
+    "descendants": 115,
+    "time": 1580785092
   },
   {
     "rank": 3,
     "id": 22231963,
     "title": "Mini projects built with VanillaJS. No frameworks or libraries",
     "url": "https://github.com/bradtraversy/vanillawebprojects",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "jonifico",
+    "descendants": 164,
+    "time": 1580785528
   },
   {
     "rank": 4,
     "id": 22232036,
     "title": "U.S. immigration policy has been a boon for the tech industry in Canada",
     "url": "https://www.npr.org/2020/01/27/799402801/canada-wins-u-s-loses-in-global-fight-for-high-tech-workers?sc=18&f=1001",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "md8",
+    "descendants": 407,
+    "time": 1580786407
   },
   {
     "rank": 5,
     "id": 22233295,
     "title": "A new hash algorithm for Git",
     "url": "https://lwn.net/SubscriberLink/811068/cfeb6a67b8dfbe47/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 465,
+    "by": "Tomte",
+    "descendants": 233,
+    "time": 1580802281
   },
   {
     "rank": 6,
     "id": 22235279,
     "title": "Ask HN: What Skills to Acquire in 2020?",
     "url": "https://news.ycombinator.com/item?id=22235279",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 930,
+    "by": "xcoding",
+    "descendants": 862,
+    "time": 1580823108
   },
   {
     "rank": 7,
     "id": 22235756,
     "title": "Some Google Photos videos in backups were sent to strangers in November",
     "url": "https://ww.9to5google.com/2020/02/03/google-photos-video-strangers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "midef",
+    "descendants": 138,
+    "time": 1580825960
   },
   {
     "rank": 8,
     "id": 22236106,
     "title": "Google tracks individual users per Chrome installation ID",
     "url": "https://github.com/w3ctag/design-reviews/issues/467#issuecomment-581944600",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2292,
+    "by": "rvnx",
+    "descendants": 615,
+    "time": 1580827845
   },
   {
     "rank": 9,
     "id": 22236577,
     "title": "Bosch Smart glasses: A tiny laser array paints images directly onto your retina",
     "url": "https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/bosch-ar-smartglasses-tiny-eyeball-lasers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "deniscepko2",
+    "descendants": 265,
+    "time": 1580829992
   },
   {
     "rank": 10,
     "id": 22238335,
     "title": "Why Discord is switching from Go to Rust",
     "url": "https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1582,
+    "by": "Sikul",
+    "descendants": 642,
+    "time": 1580837440
   }
 ]

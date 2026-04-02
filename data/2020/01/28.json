@@ -4,99 +4,99 @@
     "id": 22156292,
     "title": "Disk Prices on Amazon",
     "url": "https://diskprices.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "apsec112",
+    "descendants": 222,
+    "time": 1580090213
   },
   {
     "rank": 2,
     "id": 22159397,
     "title": "A Simplified Jira Clone Built with React/Babel and Node/TypeScript",
     "url": "https://github.com/oldboyxx/jira_clone",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "mariuz",
+    "descendants": 97,
+    "time": 1580134714
   },
   {
     "rank": 3,
     "id": 22164916,
     "title": "What\u2019s wrong with computational notebooks?",
     "url": "http://web.eecs.utk.edu/~azh/blog/notebookpainpoints.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "ashort11",
+    "descendants": 221,
+    "time": 1580167208
   },
   {
     "rank": 4,
     "id": 22165568,
     "title": "Ring Doorbell App Packed with Third-Party Trackers",
     "url": "https://www.eff.org/deeplinks/2020/01/ring-doorbell-app-packed-third-party-trackers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 595,
+    "by": "panarky",
+    "descendants": 299,
+    "time": 1580174351
   },
   {
     "rank": 5,
     "id": 22166421,
     "title": "The iPad Awkwardly Turns 10",
     "url": "https://daringfireball.net/2020/01/the_ipad_awkwardly_turns_10",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 624,
+    "by": "h9n",
+    "descendants": 602,
+    "time": 1580185278
   },
   {
     "rank": 6,
     "id": 22167121,
     "title": "Ask HN: What are some interesting projects to reuse your old devices?",
     "url": "https://news.ycombinator.com/item?id=22167121",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "thrwaway69",
+    "descendants": 256,
+    "time": 1580195432
   },
   {
     "rank": 7,
     "id": 22167716,
     "title": "My 2020 Hackintosh Hardware Spec",
     "url": "https://infinitediaries.net/my-2020-hackintosh-hardware-spec/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "morid1n",
+    "descendants": 276,
+    "time": 1580202542
   },
   {
     "rank": 8,
     "id": 22169775,
     "title": "Ted versus The Media Lab [video]",
     "url": "https://www.youtube.com/watch?v=qH4Kr3Gsadc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "abtinf",
+    "descendants": 150,
+    "time": 1580222622
   },
   {
     "rank": 9,
     "id": 22169931,
     "title": "Microsoft Application Inspector",
     "url": "https://github.com/Microsoft/ApplicationInspector",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "pjmlp",
+    "descendants": 61,
+    "time": 1580223448
   },
   {
     "rank": 10,
     "id": 22171862,
     "title": "How Popular Is \u201cSign in with Apple\u201d?",
     "url": "https://daringfireball.net/linked/2020/01/28/sign-in-with-apple-popularity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "cpach",
+    "descendants": 323,
+    "time": 1580233649
   }
 ]

@@ -4,99 +4,99 @@
     "id": 22174828,
     "title": "Ask HN: What interesting problems are you working on?",
     "url": "https://news.ycombinator.com/item?id=22174828",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "jlevers",
+    "descendants": 689,
+    "time": 1580250707
   },
   {
     "rank": 2,
     "id": 22175019,
     "title": "U.S. files lawsuits over robocall scams",
     "url": "https://www.reuters.com/article/us-usa-robocalls-fraud/u-s-files-lawsuits-over-robocall-scams-cites-massive-financial-losses-idUSKBN1ZR2SM",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "dredmorbius",
+    "descendants": 227,
+    "time": 1580251982
   },
   {
     "rank": 3,
     "id": 22176032,
     "title": "WireGuard is now in Linus' tree",
     "url": "https://lists.zx2c4.com/pipermail/wireguard/2020-January/004906.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 982,
+    "by": "axiomdata316",
+    "descendants": 278,
+    "time": 1580259493
   },
   {
     "rank": 4,
     "id": 22177942,
     "title": "A Graph of Related Subreddits",
     "url": "https://anvaka.github.io/sayit/?query=programming",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "freediver",
+    "descendants": 81,
+    "time": 1580278458
   },
   {
     "rank": 5,
     "id": 22178917,
     "title": "Off-Facebook activity",
     "url": "https://www.facebook.com/off_facebook_activity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 710,
+    "by": "bigbaguette",
+    "descendants": 379,
+    "time": 1580291195
   },
   {
     "rank": 6,
     "id": 22179572,
     "title": "Godot 3.2",
     "url": "https://godotengine.org/article/here-comes-godot-3-2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "makepanic",
+    "descendants": 138,
+    "time": 1580298980
   },
   {
     "rank": 7,
     "id": 22180374,
     "title": "Being a Noob",
     "url": "http://paulgraham.com/noob.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "rcardo11",
+    "descendants": 220,
+    "time": 1580305716
   },
   {
     "rank": 8,
     "id": 22180559,
     "title": "Congrats! Web scraping is legal! (US precedent)",
     "url": "https://parsers.me/us-court-fully-legalized-website-scraping-and-technically-prohibited-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1057,
+    "by": "ehurynovich",
+    "descendants": 388,
+    "time": 1580306797
   },
   {
     "rank": 9,
     "id": 22181437,
     "title": "Typesense: Open-Source Alternative to Algolia",
     "url": "https://github.com/typesense/typesense",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 447,
+    "by": "karterk",
+    "descendants": 54,
+    "time": 1580311239
   },
   {
     "rank": 10,
     "id": 22181873,
     "title": "Building all of our new mobile apps using React Native",
     "url": "https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 666,
+    "by": "arbhassan",
+    "descendants": 571,
+    "time": 1580313381
   }
 ]

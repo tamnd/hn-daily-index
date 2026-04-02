@@ -4,99 +4,99 @@
     "id": 22152736,
     "title": "Show HN: I built a website to better compare USB-C hubs found on Amazon",
     "url": "https://www.usb-hubs.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "junkern",
+    "descendants": 275,
+    "time": 1580055037
   },
   {
     "rank": 2,
     "id": 22153665,
     "title": "GNU Recutils",
     "url": "https://labs.tomasino.org/gnu-recutils/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 505,
+    "by": "carlesfe",
+    "descendants": 143,
+    "time": 1580062972
   },
   {
     "rank": 3,
     "id": 22154088,
     "title": "Show HN: Text-to-speech and speech-to-text open-source software stack",
     "url": "https://github.com/codeforequity-at/botium-speech-processing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 438,
+    "by": "ftreml",
+    "descendants": 85,
+    "time": 1580066562
   },
   {
     "rank": 4,
     "id": 22157430,
     "title": "\u201cMy wife has complained that OpenOffice will never print on Tuesdays\u201d (2009)",
     "url": "https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 577,
+    "by": "beshrkayali",
+    "descendants": 207,
+    "time": 1580109508
   },
   {
     "rank": 5,
     "id": 22158130,
     "title": "Elixir v1.10",
     "url": "https://elixir-lang.org/blog/2020/01/27/elixir-v1-10-0-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "micmus",
+    "descendants": 138,
+    "time": 1580120380
   },
   {
     "rank": 6,
     "id": 22159385,
     "title": "Leaked documents expose Avast antivirus subsidiary selling web browsing data",
     "url": "https://www.vice.com/en_us/article/qjdkq7/avast-antivirus-sells-user-browsing-data-investigation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 759,
+    "by": "jeremiahlee",
+    "descendants": 192,
+    "time": 1580134656
   },
   {
     "rank": 7,
     "id": 22160035,
     "title": "Bitcoin Gold hit by 51% attacks, $72K in cryptocurrency double-spent",
     "url": "https://thenextweb.com/hardfork/2020/01/27/bitcoin-gold-51-percent-attack-blockchain-reorg-cryptocurrency-binance-exchange/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "scalableUnicon",
+    "descendants": 187,
+    "time": 1580138284
   },
   {
     "rank": 8,
     "id": 22160572,
     "title": "Building personal search infrastructure for your knowledge and code",
     "url": "https://beepb00p.xyz/pkm-search.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 661,
+    "by": "october_sky",
+    "descendants": 157,
+    "time": 1580141249
   },
   {
     "rank": 9,
     "id": 22161383,
     "title": "An Update on Bradfitz: Leaving Google",
     "url": "https://bradfitz.com/2020/01/27/leaving-google",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1012,
+    "by": "jgrahamc",
+    "descendants": 271,
+    "time": 1580145239
   },
   {
     "rank": 10,
     "id": 22162762,
     "title": "CacheOut: Leaking Data on Intel CPUs via Cache Evictions",
     "url": "https://cacheoutattack.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 607,
+    "by": "beefhash",
+    "descendants": 130,
+    "time": 1580152837
   }
 ]

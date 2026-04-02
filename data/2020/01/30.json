@@ -4,99 +4,99 @@
     "id": 22179841,
     "title": "Some Useful Probability Facts for Systems Programming",
     "url": "https://theartofmachinery.com/2020/01/27/systems_programming_probability.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "yarapavan",
+    "descendants": 76,
+    "time": 1580301761
   },
   {
     "rank": 2,
     "id": 22183506,
     "title": "Building a Simple VPN with WireGuard with a Raspberry Pi as Server",
     "url": "https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 575,
+    "by": "kingsomething",
+    "descendants": 122,
+    "time": 1580320050
   },
   {
     "rank": 3,
     "id": 22185752,
     "title": "Santa Cruz decriminalizes psychedelic mushrooms",
     "url": "https://abcnews.go.com/US/santa-cruz-decriminalizes-psychedelic-mushrooms/story?id=68611065",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "lelf",
+    "descendants": 176,
+    "time": 1580331602
   },
   {
     "rank": 4,
     "id": 22187121,
     "title": "Pandas 1.0",
     "url": "https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 510,
+    "by": "kylebarron",
+    "descendants": 76,
+    "time": 1580340004
   },
   {
     "rank": 5,
     "id": 22188800,
     "title": "Sun's surface seen in  new detail",
     "url": "https://www.bbc.com/news/science-environment-51305216",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "Patient0",
+    "descendants": 91,
+    "time": 1580357846
   },
   {
     "rank": 6,
     "id": 22188877,
     "title": "Command-line tools can be faster than a Hadoop cluster (2014)",
     "url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "matthberg",
+    "descendants": 253,
+    "time": 1580359095
   },
   {
     "rank": 7,
     "id": 22191416,
     "title": "Sovereign: Ansible playbooks to build and maintain your own private cloud",
     "url": "https://github.com/sovereign/sovereign",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 556,
+    "by": "c0restraint",
+    "descendants": 140,
+    "time": 1580394015
   },
   {
     "rank": 8,
     "id": 22193383,
     "title": "Monoliths Are the Future",
     "url": "https://changelog.com/posts/monoliths-are-the-future",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1065,
+    "by": "feross",
+    "descendants": 552,
+    "time": 1580406110
   },
   {
     "rank": 9,
     "id": 22193451,
     "title": "Not everyone has an internal monologue",
     "url": "https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1225,
+    "by": "altacc",
+    "descendants": 876,
+    "time": 1580406586
   },
   {
     "rank": 10,
     "id": 22193657,
     "title": "Apple delivers a new redesigned Maps for users in the United States",
     "url": "https://www.apple.com/newsroom/2020/01/apple-delivers-a-new-redesigned-maps-for-all-users-in-the-united-states/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 582,
+    "by": "chmaynard",
+    "descendants": 462,
+    "time": 1580407864
   }
 ]

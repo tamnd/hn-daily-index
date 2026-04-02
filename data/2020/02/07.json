@@ -4,99 +4,99 @@
     "id": 22258113,
     "title": "No engineer has ever sued because of constructive post-interview feedback",
     "url": "http://blog.interviewing.io/no-engineer-has-ever-sued-a-company-because-of-constructive-post-interview-feedback-so-why-dont-employers-do-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 527,
+    "by": "leeny",
+    "descendants": 622,
+    "time": 1581010269
   },
   {
     "rank": 2,
     "id": 22258837,
     "title": "Zero-days in Cisco Discovery Protocol",
     "url": "https://www.armis.com/cdpwn/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "pimterry",
+    "descendants": 138,
+    "time": 1581014368
   },
   {
     "rank": 3,
     "id": 22261530,
     "title": "TV Backlight Compensation",
     "url": "http://www.lofibucket.com/articles/tv_backlight_compensation.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "zdw",
+    "descendants": 56,
+    "time": 1581031353
   },
   {
     "rank": 4,
     "id": 22261612,
     "title": "FLIF \u2013 Free Lossless Image Format",
     "url": "https://flif.info/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 691,
+    "by": "scotteh",
+    "descendants": 249,
+    "time": 1581031952
   },
   {
     "rank": 5,
     "id": 22263274,
     "title": "1k True Fans? Try 100",
     "url": "https://a16z.com/2020/02/06/100-true-fans/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "tonicb",
+    "descendants": 217,
+    "time": 1581050418
   },
   {
     "rank": 6,
     "id": 22263721,
     "title": "Tesla remotely removed autopilot features from used Tesla without notice",
     "url": "https://jalopnik.com/tesla-remotely-removes-autopilot-features-from-customer-1841472617",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "t23",
+    "descendants": 452,
+    "time": 1581057127
   },
   {
     "rank": 7,
     "id": 22264553,
     "title": "Critical Bluetooth vulnerability in Android",
     "url": "https://insinuator.net/2020/02/critical-bluetooth-vulnerability-in-android-cve-2020-0022/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "photon-torpedo",
+    "descendants": 300,
+    "time": 1581069427
   },
   {
     "rank": 8,
     "id": 22265235,
     "title": "MacBook 16-inch Fan Noise (2019)",
     "url": "https://discussions.apple.com/thread/250878229",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "antalk",
+    "descendants": 300,
+    "time": 1581077631
   },
   {
     "rank": 9,
     "id": 22266173,
     "title": "Python dicts are now ordered",
     "url": "https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 734,
+    "by": "signa11",
+    "descendants": 436,
+    "time": 1581085477
   },
   {
     "rank": 10,
     "id": 22269533,
     "title": "Global warming has begun to make Norway warmer and wetter",
     "url": "https://www.nrk.no/chasing-climate-change-1.14859595",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "Tomte",
+    "descendants": 205,
+    "time": 1581102466
   }
 ]
