@@ -4,99 +4,99 @@
     "id": 38010992,
     "title": "Ask HN: PG's 'Do Things That Don't Scale' manual examples?",
     "url": "https://news.ycombinator.com/item?id=38010992",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "nicgrev103",
+    "descendants": 316,
+    "time": 1698226644
   },
   {
     "rank": 2,
     "id": 38013477,
     "title": "Internet Artifact Museum",
     "url": "https://neal.fun/internet-artifacts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "meetpateltech",
+    "descendants": 71,
+    "time": 1698245673
   },
   {
     "rank": 3,
     "id": 38018917,
     "title": "How to find a lost phone in a no-cell-coverage camping site?",
     "url": "https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "mgarciaisaia",
+    "descendants": 335,
+    "time": 1698271082
   },
   {
     "rank": 4,
     "id": 38019231,
     "title": "Was Rust Worth It?",
     "url": "https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "todsacerdoti",
+    "descendants": 718,
+    "time": 1698273426
   },
   {
     "rank": 5,
     "id": 38020109,
     "title": "Jina AI launches open-source 8k text embedding",
     "url": "https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 563,
+    "by": "artex_xh",
+    "descendants": 201,
+    "time": 1698279881
   },
   {
     "rank": 6,
     "id": 38023580,
     "title": "People who made the original Super Mario Bros shipped Wonder 38 years later",
     "url": "https://www.nintendo.com.au/news-and-articles/ask-the-developer-vol-11-super-mario-bros-wonder-chapter-1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "I-M-S",
+    "descendants": 133,
+    "time": 1698313517
   },
   {
     "rank": 7,
     "id": 38023891,
     "title": "The Cloud Computer",
     "url": "https://oxide.computer/blog/the-cloud-computer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1880,
+    "by": "CathalMullan",
+    "descendants": 956,
+    "time": 1698317039
   },
   {
     "rank": 8,
     "id": 38025767,
     "title": "The negative impact of mobile-first web design on desktop",
     "url": "https://www.nngroup.com/articles/content-dispersion/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 770,
+    "by": "skadamat",
+    "descendants": 484,
+    "time": 1698329205
   },
   {
     "rank": 9,
     "id": 38025998,
     "title": "Exclusive hardwood may be illegally harvested",
     "url": "https://www.chalmers.se/en/current/news/75-percent-of-exclusive-hardwood-may-be-illegally-harvested,c3863187/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "geox",
+    "descendants": 198,
+    "time": 1698330234
   },
   {
     "rank": 10,
     "id": 38026736,
     "title": "I2P: End-to-end encrypted and anonymous internet",
     "url": "https://github.com/PurpleI2P/i2pd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "keepamovin",
+    "descendants": 120,
+    "time": 1698333504
   }
 ]

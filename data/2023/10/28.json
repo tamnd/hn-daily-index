@@ -4,99 +4,99 @@
     "id": 38025073,
     "title": "Ens\u014d: write now, edit later",
     "url": "https://enso.sonnet.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "surprisetalk",
+    "descendants": 153,
+    "time": 1698326051
   },
   {
     "rank": 2,
     "id": 38032253,
     "title": "iPhones have been exposing MAC addresses despite Apple\u2019s promises otherwise",
     "url": "https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "coloneltcb",
+    "descendants": 66,
+    "time": 1698357593
   },
   {
     "rank": 3,
     "id": 38038239,
     "title": "Show HN: ScratchDB \u2013 Open-Source Snowflake on ClickHouse",
     "url": "https://github.com/scratchdata/ScratchDB",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "memset",
+    "descendants": 56,
+    "time": 1698413646
   },
   {
     "rank": 4,
     "id": 38038713,
     "title": "Tell HN: Automatic fraud detection is making my life hell",
     "url": "https://news.ycombinator.com/item?id=38038713",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "aiProgMach",
+    "descendants": 388,
+    "time": 1698416109
   },
   {
     "rank": 5,
     "id": 38043033,
     "title": "Shadow: New browser engine made almost entirely in JavaScript",
     "url": "https://goose.icu/introducing-shadow/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "awesomekling",
+    "descendants": 295,
+    "time": 1698435983
   },
   {
     "rank": 6,
     "id": 38043955,
     "title": "Large Balloon Reflector: a potentially game-changing antenna design",
     "url": "https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "foota",
+    "descendants": 77,
+    "time": 1698440880
   },
   {
     "rank": 7,
     "id": 38044997,
     "title": "Algebra",
     "url": "https://www.feynmanlectures.caltech.edu/I_22.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "luu",
+    "descendants": 78,
+    "time": 1698446905
   },
   {
     "rank": 8,
     "id": 38047861,
     "title": "The fun factor of the video game Uplink",
     "url": "https://vertette.github.io/post/funfactoruplink",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "syx",
+    "descendants": 97,
+    "time": 1698477392
   },
   {
     "rank": 9,
     "id": 38048155,
     "title": "Google to invest up to $2B in Anthropic",
     "url": "https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "fofoz",
+    "descendants": 374,
+    "time": 1698481473
   },
   {
     "rank": 10,
     "id": 38050106,
     "title": "MagicaVoxel \u2013 A free voxel art editor and interactive path tracing renderer",
     "url": "https://ephtracy.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "selvan",
+    "descendants": 48,
+    "time": 1698503579
   }
 ]
