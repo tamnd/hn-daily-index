@@ -4,99 +4,99 @@
     "id": 40765770,
     "title": "Liquid Layers",
     "url": "https://grantkot.com/ll/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "nmstoker",
+    "descendants": 52,
+    "time": 1719132209
   },
   {
     "rank": 2,
     "id": 40776880,
     "title": "I found a 1-click exploit in South Korea's biggest mobile chat app",
     "url": "https://stulle123.github.io/posts/kakaotalk-account-takeover/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "stulle123",
+    "descendants": 265,
+    "time": 1719241302
   },
   {
     "rank": 3,
     "id": 40788648,
     "title": "Show HN: Triplit \u2013 Open-source syncing database that runs on server and client",
     "url": "https://github.com/aspen-cloud/triplit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "matlin",
+    "descendants": 100,
+    "time": 1719323585
   },
   {
     "rank": 4,
     "id": 40789353,
     "title": "Show HN: From dotenv to dotenvx \u2013 better config management",
     "url": "https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "scottmotte",
+    "descendants": 206,
+    "time": 1719326968
   },
   {
     "rank": 5,
     "id": 40789411,
     "title": "Waymo One is now open to everyone in San Francisco",
     "url": "https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "ra7",
+    "descendants": 623,
+    "time": 1719327262
   },
   {
     "rank": 6,
     "id": 40789862,
     "title": "Show HN: Glasskube \u2013 Open Source Kubernetes Package Manager, alternative to Helm",
     "url": "https://github.com/glasskube/glasskube",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "pmig",
+    "descendants": 118,
+    "time": 1719329440
   },
   {
     "rank": 7,
     "id": 40792740,
     "title": "Fixing QuickLook (2023)",
     "url": "https://foon.uk/fixing-quicklook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "rogual",
+    "descendants": 67,
+    "time": 1719344708
   },
   {
     "rank": 8,
     "id": 40793465,
     "title": "Ball: A ball that lives in your dock",
     "url": "https://github.com/nate-parrott/ball",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1017,
+    "by": "Bluestein",
+    "descendants": 292,
+    "time": 1719348772
   },
   {
     "rank": 9,
     "id": 40793924,
     "title": "HyperCard Simulator",
     "url": "https://hcsimulator.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "metadat",
+    "descendants": 123,
+    "time": 1719351280
   },
   {
     "rank": 10,
     "id": 40800869,
     "title": "One Million Checkboxes",
     "url": "https://onemillioncheckboxes.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 994,
+    "by": "LorenDB",
+    "descendants": 304,
+    "time": 1719414158
   }
 ]

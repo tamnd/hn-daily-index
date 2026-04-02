@@ -4,99 +4,99 @@
     "id": 40725924,
     "title": "NASA releases Hubble image taken in new pointing mode",
     "url": "https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "isaacfrond",
+    "descendants": 168,
+    "time": 1718783614
   },
   {
     "rank": 2,
     "id": 40736577,
     "title": "Free software hijacked Philip Hazel's life",
     "url": "https://lwn.net/SubscriberLink/978463/608c876c1153fd31/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "fanf2",
+    "descendants": 78,
+    "time": 1718874865
   },
   {
     "rank": 3,
     "id": 40737370,
     "title": "Let's write a video game from scratch like it's 1987",
     "url": "https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "LorenDB",
+    "descendants": 152,
+    "time": 1718882516
   },
   {
     "rank": 4,
     "id": 40739982,
     "title": "We no longer use LangChain for building our AI agents",
     "url": "https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 480,
+    "by": "ma_za",
+    "descendants": 297,
+    "time": 1718898116
   },
   {
     "rank": 5,
     "id": 40741068,
     "title": "Notes on Tajikistan",
     "url": "https://mattlakeman.org/2024/06/20/notes-on-tajikistan/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "petesivak",
+    "descendants": 380,
+    "time": 1718904276
   },
   {
     "rank": 6,
     "id": 40741672,
     "title": "Donald Sutherland has died",
     "url": "https://www.bbc.com/news/articles/c9rrvdq3g9zo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "toomuchtodo",
+    "descendants": 135,
+    "time": 1718908107
   },
   {
     "rank": 7,
     "id": 40742014,
     "title": "Fuzz Map",
     "url": "https://www.fuzzmap.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "PaulHoule",
+    "descendants": 18,
+    "time": 1718909974
   },
   {
     "rank": 8,
     "id": 40746310,
     "title": "MeshAnything \u2013 Converts 3D representations into efficient 3D meshes",
     "url": "https://buaacyw.github.io/mesh-anything/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "flockonus",
+    "descendants": 69,
+    "time": 1718946145
   },
   {
     "rank": 9,
     "id": 40746804,
     "title": "Ladybird browser spreads its wings",
     "url": "https://lwn.net/Articles/976822/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "signa11",
+    "descendants": 304,
+    "time": 1718951737
   },
   {
     "rank": 10,
     "id": 40748371,
     "title": "Allan McDonald refused to approve Challenger launch, exposed cover-up (2021)",
     "url": "https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "EndXA",
+    "descendants": 391,
+    "time": 1718969028
   }
 ]
