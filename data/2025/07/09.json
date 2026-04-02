@@ -4,99 +4,99 @@
     "id": 44489359,
     "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
     "url": "https://www.7-zip.org/history.txt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "doener",
+    "descendants": 212,
+    "time": 1751889130
   },
   {
     "rank": 2,
     "id": 44495428,
     "title": "Bootstrapping a side project into a profitable seven-figure business",
     "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1001,
+    "by": "jonkuipers",
+    "descendants": 257,
+    "time": 1751929125
   },
   {
     "rank": 3,
     "id": 44501413,
     "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
     "url": "https://huggingface.co/blog/smollm3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "kashifr",
+    "descendants": 79,
+    "time": 1751991220
   },
   {
     "rank": 4,
     "id": 44502330,
     "title": "Breaking Git with a carriage return and cloning RCE",
     "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "dgl",
+    "descendants": 162,
+    "time": 1751996909
   },
   {
     "rank": 5,
     "id": 44504699,
     "title": "US Court nullifies FTC requirement for click-to-cancel",
     "url": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 604,
+    "by": "gausswho",
+    "descendants": 559,
+    "time": 1752014559
   },
   {
     "rank": 6,
     "id": 44505876,
     "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
     "url": "https://github.com/CyberTimon/RapidRAW",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "l8rlump",
+    "descendants": 126,
+    "time": 1752028648
   },
   {
     "rank": 7,
     "id": 44507076,
     "title": "Most RESTful APIs aren't really RESTful",
     "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "BerislavLopac",
+    "descendants": 564,
+    "time": 1752044676
   },
   {
     "rank": 8,
     "id": 44507971,
     "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
     "url": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 410,
+    "by": "thunderbong",
+    "descendants": 261,
+    "time": 1752054137
   },
   {
     "rank": 9,
     "id": 44510600,
     "title": "Tree Borrows",
     "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 584,
+    "by": "zdw",
+    "descendants": 146,
+    "time": 1752072024
   },
   {
     "rank": 10,
     "id": 44510731,
     "title": "Linda Yaccarino is leaving X",
     "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "donohoe",
+    "descendants": 1052,
+    "time": 1752072724
   }
 ]

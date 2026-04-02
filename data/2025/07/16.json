@@ -4,99 +4,99 @@
     "id": 44571917,
     "title": "Blender 4.5 LTS",
     "url": "https://www.blender.org/download/releases/4-5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "obdev",
+    "descendants": 100,
+    "time": 1752592004
   },
   {
     "rank": 2,
     "id": 44572499,
     "title": "NIST ion clock sets new record for most accurate clock",
     "url": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "voxadam",
+    "descendants": 120,
+    "time": 1752595007
   },
   {
     "rank": 3,
     "id": 44573409,
     "title": "To be a better programmer, write little proofs in your head",
     "url": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "mprast",
+    "descendants": 167,
+    "time": 1752599139
   },
   {
     "rank": 4,
     "id": 44574815,
     "title": "Helix Editor 25.07",
     "url": "https://helix-editor.com/news/release-25-07-highlights/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "matrixhelix",
+    "descendants": 153,
+    "time": 1752607019
   },
   {
     "rank": 5,
     "id": 44575794,
     "title": "Where's Firefox going next?",
     "url": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "ReadCarlBarks",
+    "descendants": 541,
+    "time": 1752613430
   },
   {
     "rank": 6,
     "id": 44578490,
     "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
     "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 581,
+    "by": "nomaxx117",
+    "descendants": 380,
+    "time": 1752637479
   },
   {
     "rank": 7,
     "id": 44579317,
     "title": "Shipping WebGPU on Windows in Firefox 141",
     "url": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "Bogdanp",
+    "descendants": 170,
+    "time": 1752647567
   },
   {
     "rank": 8,
     "id": 44579717,
     "title": "I'm switching to Python and actually liking it",
     "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "cesarsotovalero",
+    "descendants": 695,
+    "time": 1752651872
   },
   {
     "rank": 9,
     "id": 44579902,
     "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
     "url": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 690,
+    "by": "doener",
+    "descendants": 480,
+    "time": 1752653914
   },
   {
     "rank": 10,
     "id": 44580682,
     "title": "Linux Reaches 5% Desktop Market Share in USA",
     "url": "https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1021,
+    "by": "marcodiego",
+    "descendants": 614,
+    "time": 1752662228
   }
 ]

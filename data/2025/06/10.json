@@ -4,99 +4,99 @@
     "id": 44225352,
     "title": "Show HN: Most users won't report bugs unless you make it stupidly easy",
     "url": "https://news.ycombinator.com/item?id=44225352",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "lakshikag",
+    "descendants": 208,
+    "time": 1749482208
   },
   {
     "rank": 2,
     "id": 44226879,
     "title": "Show HN: Munal OS: a graphical experimental OS with WASM sandboxing",
     "url": "https://github.com/Askannz/munal-os",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "Gazoche",
+    "descendants": 118,
+    "time": 1749490469
   },
   {
     "rank": 3,
     "id": 44229239,
     "title": "Container: Apple's Linux-Container Runtime",
     "url": "https://github.com/apple/container",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "jzelinskie",
+    "descendants": 44,
+    "time": 1749501743
   },
   {
     "rank": 4,
     "id": 44229348,
     "title": "Containerization is a Swift package for running Linux containers on macOS",
     "url": "https://github.com/apple/containerization",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 769,
+    "by": "gok",
+    "descendants": 409,
+    "time": 1749502409
   },
   {
     "rank": 5,
     "id": 44229841,
     "title": "Sly Stone has died",
     "url": "https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 381,
+    "by": "brudgers",
+    "descendants": 66,
+    "time": 1749505345
   },
   {
     "rank": 6,
     "id": 44230182,
     "title": "Marines being mobilized in response to LA protests",
     "url": "https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 707,
+    "by": "sapphicsnail",
+    "descendants": 1677,
+    "time": 1749507669
   },
   {
     "rank": 7,
     "id": 44232714,
     "title": "Successful people set constraints rather than chasing goals",
     "url": "https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "MaysonL",
+    "descendants": 220,
+    "time": 1749531709
   },
   {
     "rank": 8,
     "id": 44235467,
     "title": "\\\"Localhost tracking\\\" explained. It could cost Meta \u20ac32B",
     "url": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 598,
+    "by": "donohoe",
+    "descendants": 274,
+    "time": 1749554969
   },
   {
     "rank": 9,
     "id": 44236997,
     "title": "Magistral \u2014 the first reasoning model by Mistral AI",
     "url": "https://mistral.ai/news/magistral",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 941,
+    "by": "meetpateltech",
+    "descendants": 424,
+    "time": 1749564481
   },
   {
     "rank": 10,
     "id": 44239359,
     "title": "OpenAI dropped the price of o3 by 80%",
     "url": "https://twitter.com/sama/status/1932434606558462459",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "mfiguiere",
+    "descendants": 495,
+    "time": 1749577289
   }
 ]

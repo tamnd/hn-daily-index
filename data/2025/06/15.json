@@ -4,99 +4,99 @@
     "id": 44252717,
     "title": "Solar Orbiter gets world-first views of the Sun's poles",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "sohkamyung",
+    "descendants": 28,
+    "time": 1749682850
   },
   {
     "rank": 2,
     "id": 44258139,
     "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
     "url": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "achristmascarl",
+    "descendants": 890,
+    "time": 1749737983
   },
   {
     "rank": 3,
     "id": 44274001,
     "title": "SIMD-friendly algorithms for substring searching (2016)",
     "url": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "Rendello",
+    "descendants": 35,
+    "time": 1749871878
   },
   {
     "rank": 4,
     "id": 44274567,
     "title": "Last fifty years of integer linear programming: Recent practical advances (2024)",
     "url": "https://inria.hal.science/hal-04776866v1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "teleforce",
+    "descendants": 83,
+    "time": 1749881708
   },
   {
     "rank": 5,
     "id": 44278403,
     "title": "Seven replies to the viral Apple reasoning paper and why they fall short",
     "url": "https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "spwestwood",
+    "descendants": 312,
+    "time": 1749930758
   },
   {
     "rank": 6,
     "id": 44279181,
     "title": "Infinite Grid of Resistors",
     "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "niklasbuschmann",
+    "descendants": 109,
+    "time": 1749939132
   },
   {
     "rank": 7,
     "id": 44279850,
     "title": "Q-learning is not yet scalable",
     "url": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "jxmorris12",
+    "descendants": 48,
+    "time": 1749949014
   },
   {
     "rank": 8,
     "id": 44281727,
     "title": "Datalog in Rust",
     "url": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "brson",
+    "descendants": 42,
+    "time": 1749986320
   },
   {
     "rank": 9,
     "id": 44282017,
     "title": "How to modify Starlink Mini to run without the built-in WiFi router",
     "url": "https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "LorenDB",
+    "descendants": 118,
+    "time": 1749991207
   },
   {
     "rank": 10,
     "id": 44282177,
     "title": "Canyon.mid",
     "url": "https://canyonmid.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "LorenDB",
+    "descendants": 210,
+    "time": 1749993835
   }
 ]

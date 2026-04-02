@@ -4,99 +4,99 @@
     "id": 44397124,
     "title": "Qwen VLo: From \u201cUnderstanding\u201d the World to \u201cDepicting\u201d It",
     "url": "https://qwenlm.github.io/blog/qwen-vlo/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "lnyan",
+    "descendants": 56,
+    "time": 1751034904
   },
   {
     "rank": 2,
     "id": 44397168,
     "title": "10 Years of Pomological Watercolors",
     "url": "https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "fanf2",
+    "descendants": 32,
+    "time": 1751035324
   },
   {
     "rank": 3,
     "id": 44398756,
     "title": "JWST reveals its first direct image discovery of an exoplanet",
     "url": "https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "divbzero",
+    "descendants": 150,
+    "time": 1751046272
   },
   {
     "rank": 4,
     "id": 44401406,
     "title": "Facebook is starting to feed its AI with private, unpublished photos",
     "url": "https://www.theverge.com/meta/694685/meta-ai-camera-roll",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "pier25",
+    "descendants": 366,
+    "time": 1751069308
   },
   {
     "rank": 5,
     "id": 44402470,
     "title": "I deleted my second brain",
     "url": "https://www.joanwestenberg.com/p/i-deleted-my-second-brain",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 598,
+    "by": "MrVandemar",
+    "descendants": 348,
+    "time": 1751088449
   },
   {
     "rank": 6,
     "id": 44402896,
     "title": "IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites",
     "url": "https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1455,
+    "by": "ahmetcadirci25",
+    "descendants": 1122,
+    "time": 1751096180
   },
   {
     "rank": 7,
     "id": 44404164,
     "title": "We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler (2020)",
     "url": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "AlexeyBrin",
+    "descendants": 26,
+    "time": 1751113208
   },
   {
     "rank": 8,
     "id": 44404905,
     "title": "MCP: An (Accidentally) Universal Plugin System",
     "url": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 808,
+    "by": "Stwerner",
+    "descendants": 350,
+    "time": 1751120530
   },
   {
     "rank": 9,
     "id": 44405057,
     "title": "Addictions Are Being Engineered",
     "url": "https://masonyarbrough.substack.com/p/engineered-addictions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 720,
+    "by": "echollama",
+    "descendants": 451,
+    "time": 1751121943
   },
   {
     "rank": 10,
     "id": 44407139,
     "title": "JavaScript Trademark Update",
     "url": "https://deno.com/blog/deno-v-oracle4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 890,
+    "by": "thebeardisred",
+    "descendants": 355,
+    "time": 1751136720
   }
 ]

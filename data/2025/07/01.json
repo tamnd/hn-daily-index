@@ -4,99 +4,99 @@
     "id": 44403988,
     "title": "I built something that changed my friend group's social fabric",
     "url": "https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 601,
+    "by": "dandano",
+    "descendants": 264,
+    "time": 1751111375
   },
   {
     "rank": 2,
     "id": 44416009,
     "title": "YouTube No Translation",
     "url": "https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "doener",
+    "descendants": 332,
+    "time": 1751227854
   },
   {
     "rank": 3,
     "id": 44425461,
     "title": "I write type-safe generic data structures in C",
     "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "todsacerdoti",
+    "descendants": 182,
+    "time": 1751302520
   },
   {
     "rank": 4,
     "id": 44426128,
     "title": "Proton joins suit against Apple for practices that harm developers and consumers",
     "url": "https://proton.me/blog/apple-lawsuit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 673,
+    "by": "moose44",
+    "descendants": 637,
+    "time": 1751306318
   },
   {
     "rank": 5,
     "id": 44426726,
     "title": "Xfinity using WiFi signals in your house to detect motion",
     "url": "https://www.xfinity.com/support/articles/wifi-motion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 668,
+    "by": "bearsyankees",
+    "descendants": 501,
+    "time": 1751310230
   },
   {
     "rank": 6,
     "id": 44429182,
     "title": "Melbourne man discovers extensive model train network underneath house",
     "url": "https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "cfcfcf",
+    "descendants": 153,
+    "time": 1751327622
   },
   {
     "rank": 7,
     "id": 44429225,
     "title": "Claude Code now supports hooks",
     "url": "https://docs.anthropic.com/en/docs/claude-code/hooks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "ramoz",
+    "descendants": 171,
+    "time": 1751328075
   },
   {
     "rank": 8,
     "id": 44432385,
     "title": "Cloudflare to introduce pay-per-crawl for AI bots",
     "url": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 569,
+    "by": "scotchmi_st",
+    "descendants": 302,
+    "time": 1751365227
   },
   {
     "rank": 9,
     "id": 44433409,
     "title": "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
     "url": "https://simedw.com/2025/06/23/introducing-spegel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "simedw",
+    "descendants": 180,
+    "time": 1751374182
   },
   {
     "rank": 10,
     "id": 44435484,
     "title": "The Fed says this is a cube of $1M. They're off by half a million",
     "url": "https://calvin.sh/blog/fed-lie/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1478,
+    "by": "c249709",
+    "descendants": 552,
+    "time": 1751386975
   }
 ]

@@ -4,99 +4,99 @@
     "id": 44174965,
     "title": "Deep learning gets the glory, deep fact checking gets ignored",
     "url": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 609,
+    "by": "chmaynard",
+    "descendants": 158,
+    "time": 1748986316
   },
   {
     "rank": 2,
     "id": 44175773,
     "title": "Precious Plastic is in trouble",
     "url": "https://www.preciousplastic.com//news/problems-in-precious-plastic",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "diggan",
+    "descendants": 223,
+    "time": 1748992285
   },
   {
     "rank": 3,
     "id": 44176737,
     "title": "DiffX \u2013 Next-Generation Extensible Diff Format",
     "url": "https://diffx.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "todsacerdoti",
+    "descendants": 151,
+    "time": 1749004726
   },
   {
     "rank": 4,
     "id": 44176829,
     "title": "Merlin Bird ID",
     "url": "https://merlin.allaboutbirds.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "twitchard",
+    "descendants": 215,
+    "time": 1749005920
   },
   {
     "rank": 5,
     "id": 44178468,
     "title": "Cloud Run GPUs, now GA, makes running AI workloads easier for everyone",
     "url": "https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "mariuz",
+    "descendants": 182,
+    "time": 1749025726
   },
   {
     "rank": 6,
     "id": 44178902,
     "title": "Cockatoos have learned to operate drinking fountains in Australia",
     "url": "https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "pseudolus",
+    "descendants": 154,
+    "time": 1749030149
   },
   {
     "rank": 7,
     "id": 44179257,
     "title": "Why I wrote the BEAM book",
     "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 613,
+    "by": "lawik",
+    "descendants": 151,
+    "time": 1749033409
   },
   {
     "rank": 8,
     "id": 44181421,
     "title": "The Right to Repair Is Law in Washington State",
     "url": "https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "doener",
+    "descendants": 169,
+    "time": 1749049229
   },
   {
     "rank": 9,
     "id": 44182186,
     "title": "FFmpeg merges WebRTC support",
     "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 877,
+    "by": "Sean-Der",
+    "descendants": 199,
+    "time": 1749052730
   },
   {
     "rank": 10,
     "id": 44182356,
     "title": "IRS Direct File on GitHub",
     "url": "https://chrisgiven.com/2025/05/direct-file-on-github/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 744,
+    "by": "nickthegreek",
+    "descendants": 318,
+    "time": 1749053799
   }
 ]

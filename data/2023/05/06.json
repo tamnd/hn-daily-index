@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 35813010,
+    "title": "A mansion hidden directly under the Bay Bridge",
+    "url": "https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 35814707,
+    "title": "Waymo One doubles service area in Phoenix, continues growing in SF",
+    "url": "https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 35832802,
+    "title": "Unlimiformer: Long-Range Transformers with Unlimited Length Input",
+    "url": "https://arxiv.org/abs/2305.01625",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 35836411,
+    "title": "Releasing 3B and 7B RedPajama",
+    "url": "https://www.together.xyz/blog/redpajama-models-v1",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 35836541,
+    "title": "When \u201cfree forever\u201d means \u201cfree for the next 4 months\u201d",
+    "url": "https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 35838180,
+    "title": "Wikipedia user edits over 90k uses of \u201ccomprised of\u201d",
+    "url": "https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 35838504,
+    "title": "Open source Background Remover: Remove Background from images and video using AI",
+    "url": "https://github.com/nadermx/backgroundremover",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 35838751,
+    "title": "Sailing boat rescued by the G\u00f6theborg",
+    "url": "https://www.gotheborg.se/news/rescue-of-sailing-boat/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 35839470,
+    "title": "Atuin replaces your existing shell history with a SQLite database",
+    "url": "https://github.com/ellie/atuin",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 35843566,
+    "title": "Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security",
+    "url": "https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

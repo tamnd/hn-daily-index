@@ -4,99 +4,99 @@
     "id": 44578510,
     "title": "Tilck: A tiny Linux-compatible kernel",
     "url": "https://github.com/vvaltchev/tilck",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "chubot",
+    "descendants": 58,
+    "time": 1752637800
   },
   {
     "rank": 2,
     "id": 44580257,
     "title": "Pgactive: Postgres active-active replication extension",
     "url": "https://github.com/aws/pgactive",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "ForHackernews",
+    "descendants": 96,
+    "time": 1752657328
   },
   {
     "rank": 3,
     "id": 44583171,
     "title": "Altermagnets: The first new type of magnet in nearly a century",
     "url": "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "Brajeshwar",
+    "descendants": 115,
+    "time": 1752678714
   },
   {
     "rank": 4,
     "id": 44584372,
     "title": "Ex-Waymo engineers launch Bedrock Robotics to automate construction",
     "url": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "boulos",
+    "descendants": 386,
+    "time": 1752684528
   },
   {
     "rank": 5,
     "id": 44586723,
     "title": "I want an iPhone Mini-sized Android phone (2022)",
     "url": "https://smallandroidphone.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "asimops",
+    "descendants": 684,
+    "time": 1752699669
   },
   {
     "rank": 6,
     "id": 44588491,
     "title": "\u201cReading Rainbow\u201d was created to combat summer reading slumps",
     "url": "https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "arbesman",
+    "descendants": 219,
+    "time": 1752713021
   },
   {
     "rank": 7,
     "id": 44592413,
     "title": "Hand: open-source Robot Hand",
     "url": "https://github.com/pollen-robotics/AmazingHand",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "vineethy",
+    "descendants": 104,
+    "time": 1752754118
   },
   {
     "rank": 8,
     "id": 44594156,
     "title": "Mistral Releases Deep Research, Voice, Projects in Le Chat",
     "url": "https://mistral.ai/news/le-chat-dives-deep",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 664,
+    "by": "pember",
+    "descendants": 147,
+    "time": 1752764418
   },
   {
     "rank": 9,
     "id": 44594790,
     "title": "Tell HN: Notion Desktop is monitoring your audio and network",
     "url": "https://news.ycombinator.com/item?id=44594790",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "HoyaSaxa",
+    "descendants": 171,
+    "time": 1752767994
   },
   {
     "rank": 10,
     "id": 44595492,
     "title": "ChatGPT agent: bridging research and action",
     "url": "https://openai.com/index/introducing-chatgpt-agent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 686,
+    "by": "Topfi",
+    "descendants": 486,
+    "time": 1752771707
   }
 ]
