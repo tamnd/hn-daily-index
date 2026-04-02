@@ -4,7 +4,7 @@ Top 10 Hacker News stories for each day in 2018.
 
 - [December](12/) (31 days)
 - [November](11/) (30 days)
-- [October](10/) (29 days)
+- [October](10/) (31 days)
 
 ---
 
@@ -922,6 +922,36 @@ Top 10 Hacker News stories for each day in 2018.
 8. [Tim Berners-Lee says tech giants may have to be split up](https://www.reuters.com/article/us-technology-www/father-of-web-says-tech-giants-may-have-to-be-split-up-idUSKCN1N63MV) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18353425)
 9. [Ask HN: Who is hiring? (November 2018)](https://news.ycombinator.com/item?id=18354503) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18354503)
 10. [Apple's New Map](https://www.justinobeirne.com/new-apple-maps) (justinobeirne.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18358902)
+
+## 2018-10-31
+
+*Wednesday*
+
+1. [Pre-Existing Immunity to CRISPR Found in 96% of People in Study](https://www.xconomy.com/boston/2018/10/29/pre-existing-immunity-to-crispr-found-in-96-of-people-in-study/) (xconomy.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18334240)
+2. [We posed as 100 Senators to run ads on Facebook. Facebook approved all of them](https://news.vice.com/en_us/article/xw9n3q/we-posed-as-100-senators-to-run-ads-on-facebook-facebook-approved-all-of-them) (news.vice.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18339448)
+3. [October 21 post-incident analysis](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/) (blog.github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18341339)
+4. [The SOS in my Halloween decorations](https://www.bbc.com/news/stories-45976946) (bbc.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18341572)
+5. [JPEG image of Shakespeare which is also a zip file containing his complete works](https://twitter.com/David3141593/status/1057042085029822464) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18342042)
+6. [System76 on US Manufacturing and Open Hardware](https://blog.system76.com/post/179592732883/system76-on-us-manufacturing-and-open-hardware) (blog.system76.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18342744)
+7. [My somewhat complete salary history as a software engineer](https://humanwhocodes.com/blog/2018/10/my-somewhat-complete-salary-history-software-engineer/) (humanwhocodes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18342996)
+8. [When Adolescents Give Up Pot, Their Cognition Quickly Improves](https://www.npr.org/sections/health-shots/2018/10/30/662127406/when-adolescents-give-up-pot-their-cognition-quickly-improves) (npr.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18343941)
+9. [Clojure at Netflix (2013) [slides]](https://speakerdeck.com/daveray/clojure-at-netflix) (speakerdeck.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18345243)
+10. [Unicode Dicks](https://www.revk.uk/2018/10/unicode-dicks.html) (revk.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18346922)
+
+## 2018-10-30
+
+*Tuesday*
+
+1. [A Look at the Design of Lua](https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext) (cacm.acm.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18327661)
+2. [Decensoring Hentai with Deep Neural Networks](https://github.com/deeppomf/DeepCreamPy) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18328213)
+3. [Book Review: A Philosophy of Software Design](http://www.pathsensitive.com/2018/10/book-review-philosophy-of-software.html) (pathsensitive.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18331219)
+4. [Micro.blog](https://micro.blog/) (micro.blog) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18333729)
+5. [Kids’ Apps Are Crammed With Ads](https://www.nytimes.com/2018/10/30/style/kids-study-apps-advertising.html) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18334263)
+6. [Humanity has wiped out 60% of animals since 1970, major report finds](https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds) (theguardian.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18335011)
+7. [Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1) (nature.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18336202)
+8. [iPad Pro](https://www.apple.com/ipad-pro/) (apple.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18337384)
+9. [Apple T2 Security Chip: Security Overview [pdf]](https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf) (apple.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18337825)
+10. [iPhones are allergic to helium](https://ifixit.org/blog/11986/iphones-are-allergic-to-helium/) (ifixit.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=18340693)
 
 ## 2018-10-29
 

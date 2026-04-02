@@ -4,99 +4,99 @@
     "id": 18989207,
     "title": "Yarn's Future \u2013 v2 and beyond",
     "url": "https://github.com/yarnpkg/yarn/issues/6953",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "arcatek",
+    "descendants": 232,
+    "time": 1548342055
   },
   {
     "rank": 2,
     "id": 18992698,
     "title": "AlphaStar: Mastering the Real-Time Strategy Game StarCraft II",
     "url": "https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 805,
+    "by": "zawerf",
+    "descendants": 453,
+    "time": 1548362410
   },
   {
     "rank": 3,
     "id": 18992930,
     "title": "Practical Linux Hardening Guide",
     "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 683,
+    "by": "covertress",
+    "descendants": 213,
+    "time": 1548363768
   },
   {
     "rank": 4,
     "id": 18993953,
     "title": "Oracle v. Google and the future of software development",
     "url": "https://www.blog.google/outreach-initiatives/public-policy/our-fight-protect-future-software-development/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "nkurz",
+    "descendants": 328,
+    "time": 1548370999
   },
   {
     "rank": 5,
     "id": 18996959,
     "title": "Humaaans: Mix-and-match illustrations of people with a design library",
     "url": "https://www.humaaans.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "plurby",
+    "descendants": 117,
+    "time": 1548412740
   },
   {
     "rank": 6,
     "id": 18997302,
     "title": "Apple is indeed patenting Swift features",
     "url": "https://forums.swift.org/t/apple-is-indeed-patenting-swift-features/19779",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 580,
+    "by": "maxdesiatov",
+    "descendants": 208,
+    "time": 1548418195
   },
   {
     "rank": 7,
     "id": 18997923,
     "title": "Facebook to integrate the infrastructure for WhatsApp, Instagram and Messenger",
     "url": "https://www.nytimes.com/2019/01/25/technology/facebook-instagram-whatsapp-messenger.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "tysone",
+    "descendants": 306,
+    "time": 1548425262
   },
   {
     "rank": 8,
     "id": 18998810,
     "title": "US shutdown: Flight delays caused by staff shortages",
     "url": "https://www.bbc.com/news/world-us-canada-47006907",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "pbhowmic",
+    "descendants": 575,
+    "time": 1548430618
   },
   {
     "rank": 9,
     "id": 19000027,
     "title": "Practical Deep Learning for Coders 2019",
     "url": "https://www.fast.ai/2019/01/24/course-v3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 556,
+    "by": "jph00",
+    "descendants": 75,
+    "time": 1548436594
   },
   {
     "rank": 10,
     "id": 19000076,
     "title": "Oslo made its city center basically car-free",
     "url": "https://www.fastcompany.com/90294948/what-happened-when-oslo-decided-to-make-its-downtown-basically-car-free#nws=mcnewsletter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 488,
+    "by": "lxm",
+    "descendants": 479,
+    "time": 1548436816
   }
 ]
