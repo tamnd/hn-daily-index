@@ -4,99 +4,99 @@
     "id": 44777086,
     "title": "Automerge 3.0",
     "url": "https://automerge.org/blog/automerge-3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "surprisetalk",
+    "descendants": 36,
+    "time": 1754233738
   },
   {
     "rank": 2,
     "id": 44813789,
     "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
     "url": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "losgehts",
+    "descendants": 38,
+    "time": 1754496054
   },
   {
     "rank": 3,
     "id": 44813854,
     "title": "Jules, our asynchronous coding agent",
     "url": "https://blog.google/technology/google-labs/jules-now-available/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "meetpateltech",
+    "descendants": 227,
+    "time": 1754496339
   },
   {
     "rank": 4,
     "id": 44816755,
     "title": "Litestar is worth a look",
     "url": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "todsacerdoti",
+    "descendants": 83,
+    "time": 1754509381
   },
   {
     "rank": 5,
     "id": 44817539,
     "title": "Project Hyperion: Interstellar ship design competition",
     "url": "https://www.projecthyperion.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "codeulike",
+    "descendants": 319,
+    "time": 1754512817
   },
   {
     "rank": 6,
     "id": 44819917,
     "title": "Emailing a one-time code is worse than passwords",
     "url": "https://blog.danielh.cc/blog/passwords",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 995,
+    "by": "max__dev",
+    "descendants": 789,
+    "time": 1754533165
   },
   {
     "rank": 7,
     "id": 44826997,
     "title": "GPT-5",
     "url": "https://openai.com/gpt-5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2063,
+    "by": "rd",
+    "descendants": 2482,
+    "time": 1754586021
   },
   {
     "rank": 8,
     "id": 44827101,
     "title": "GPT-5 for Developers",
     "url": "https://openai.com/index/introducing-gpt-5-for-developers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "6thbit",
+    "descendants": 268,
+    "time": 1754586399
   },
   {
     "rank": 9,
     "id": 44827794,
     "title": "GPT-5: Key characteristics, pricing and system card",
     "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 643,
+    "by": "Philpax",
+    "descendants": 295,
+    "time": 1754588778
   },
   {
     "rank": 10,
     "id": 44830684,
     "title": "Vibechart",
     "url": "https://www.vibechart.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 879,
+    "by": "datadrivenangel",
+    "descendants": 189,
+    "time": 1754602605
   }
 ]

@@ -4,99 +4,99 @@
     "id": 45002688,
     "title": "Neuralink 'Participant 1' says his life has changed",
     "url": "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "danielmorozoff",
+    "descendants": 446,
+    "time": 1756026734
   },
   {
     "rank": 2,
     "id": 45024786,
     "title": "US Intel",
     "url": "https://stratechery.com/2025/u-s-intel/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 543,
+    "by": "maguay",
+    "descendants": 562,
+    "time": 1756205266
   },
   {
     "rank": 3,
     "id": 45026886,
     "title": "A teen was suicidal. ChatGPT was the friend he confided in",
     "url": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "jaredwiener",
+    "descendants": 588,
+    "time": 1756217754
   },
   {
     "rank": 4,
     "id": 45028002,
     "title": "Show HN: A zoomable, searchable archive of BYTE magazine",
     "url": "https://byte.tsundoku.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "chromy",
+    "descendants": 71,
+    "time": 1756222495
   },
   {
     "rank": 5,
     "id": 45028785,
     "title": "Proposal to Ban Ghost Jobs",
     "url": "https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "Teever",
+    "descendants": 253,
+    "time": 1756225671
   },
   {
     "rank": 6,
     "id": 45034537,
     "title": "Dissecting the Apple M1 GPU, the end",
     "url": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 845,
+    "by": "alsetmusic",
+    "descendants": 224,
+    "time": 1756259056
   },
   {
     "rank": 7,
     "id": 45036231,
     "title": "Scientist exposes anti-wind groups as oil-funded. Now they want to silence him",
     "url": "https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "xbmcuser",
+    "descendants": 295,
+    "time": 1756277363
   },
   {
     "rank": 8,
     "id": 45036294,
     "title": "The Therac-25 Incident (2021)",
     "url": "https://thedailywtf.com/articles/the-therac-25-incident",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "lemper",
+    "descendants": 292,
+    "time": 1756277876
   },
   {
     "rank": 9,
     "id": 45037904,
     "title": "Monodraw",
     "url": "https://monodraw.helftone.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 605,
+    "by": "mafro",
+    "descendants": 192,
+    "time": 1756292081
   },
   {
     "rank": 10,
     "id": 45038653,
     "title": "Nx compromised: malware uses Claude code CLI to explore the filesystem",
     "url": "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "neuroo",
+    "descendants": 39,
+    "time": 1756297127
   }
 ]

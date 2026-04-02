@@ -4,99 +4,99 @@
     "id": 44955923,
     "title": "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
     "url": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "articsputnik",
+    "descendants": 459,
+    "time": 1755635106
   },
   {
     "rank": 2,
     "id": 44960750,
     "title": "Shader Academy: Learn computer graphics by solving challenges",
     "url": "https://shaderacademy.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "pykello",
+    "descendants": 64,
+    "time": 1755688095
   },
   {
     "rank": 3,
     "id": 44980004,
     "title": "Control shopping cart wheels with your phone (2021)",
     "url": "https://www.begaydocrime.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "mystraline",
+    "descendants": 146,
+    "time": 1755824344
   },
   {
     "rank": 4,
     "id": 44980339,
     "title": "Everything is correlated (2014\u201323)",
     "url": "https://gwern.net/everything",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "gmays",
+    "descendants": 127,
+    "time": 1755828353
   },
   {
     "rank": 5,
     "id": 44982409,
     "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
     "url": "https://labplot.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "turrini",
+    "descendants": 42,
+    "time": 1755853886
   },
   {
     "rank": 6,
     "id": 44987380,
     "title": "Leaving Gmail for Mailbox.org",
     "url": "https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "giuliomagnifico",
+    "descendants": 394,
+    "time": 1755884508
   },
   {
     "rank": 7,
     "id": 44987924,
     "title": "The first Media over QUIC CDN: Cloudflare",
     "url": "https://moq.dev/blog/first-cdn/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "kixelated",
+    "descendants": 121,
+    "time": 1755887056
   },
   {
     "rank": 8,
     "id": 44988530,
     "title": "Nitro: A tiny but flexible init system and process supervisor",
     "url": "https://git.vuxu.org/nitro/about/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "todsacerdoti",
+    "descendants": 95,
+    "time": 1755889589
   },
   {
     "rank": 9,
     "id": 44994071,
     "title": "Manim: Animation engine for explanatory math videos",
     "url": "https://github.com/3b1b/manim",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "pykello",
+    "descendants": 68,
+    "time": 1755934549
   },
   {
     "rank": 10,
     "id": 44995147,
     "title": "Librebox: An open source, Roblox-compatible game engine",
     "url": "https://github.com/librebox-devs/librebox-demo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "njredar676",
+    "descendants": 99,
+    "time": 1755948135
   }
 ]

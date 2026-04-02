@@ -4,99 +4,99 @@
     "id": 44824539,
     "title": "Windows XP Professional",
     "url": "https://win32.run/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "pentagrama",
+    "descendants": 221,
+    "time": 1754575105
   },
   {
     "rank": 2,
     "id": 44828158,
     "title": "Exit Tax: Leave Germany before your business gets big",
     "url": "https://eidel.io/exit-tax-leave-germany-before-your-business-gets-big/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "olieidel",
+    "descendants": 540,
+    "time": 1754590010
   },
   {
     "rank": 3,
     "id": 44828884,
     "title": "OpenAI's new open-source model is basically Phi-5",
     "url": "https://www.seangoedecke.com/gpt-oss-is-phi-5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "emschwartz",
+    "descendants": 222,
+    "time": 1754593186
   },
   {
     "rank": 4,
     "id": 44829185,
     "title": "Historical Tech Tree",
     "url": "https://www.historicaltechtree.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "louisfd94",
+    "descendants": 128,
+    "time": 1754594689
   },
   {
     "rank": 5,
     "id": 44830221,
     "title": "Cursor CLI",
     "url": "https://cursor.com/cli",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "gonzalovargas",
+    "descendants": 266,
+    "time": 1754600034
   },
   {
     "rank": 6,
     "id": 44830408,
     "title": "Flipper Zero dark web firmware bypasses rolling code security",
     "url": "https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 486,
+    "by": "lq9AJ8yrfs",
+    "descendants": 315,
+    "time": 1754601042
   },
   {
     "rank": 7,
     "id": 44831704,
     "title": "Cursed Knowledge",
     "url": "https://immich.app/cursed-knowledge/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "bqmjjx0kac",
+    "descendants": 157,
+    "time": 1754609692
   },
   {
     "rank": 8,
     "id": 44833834,
     "title": "Linear sent me down a local-first rabbit hole",
     "url": "https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 467,
+    "by": "jcusch",
+    "descendants": 218,
+    "time": 1754631942
   },
   {
     "rank": 9,
     "id": 44835879,
     "title": "Ultrathin business card runs a fluid simulation",
     "url": "https://github.com/Nicholas-L-Johnson/flip-card",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1135,
+    "by": "wompapumpum",
+    "descendants": 221,
+    "time": 1754653264
   },
   {
     "rank": 10,
     "id": 44840013,
     "title": "I want everything local \u2013 Building my offline AI workspace",
     "url": "https://instavm.io/blog/building-my-offline-ai-workspace",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1143,
+    "by": "mkagenius",
+    "descendants": 286,
+    "time": 1754677145
   }
 ]

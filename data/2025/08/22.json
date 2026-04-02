@@ -4,99 +4,99 @@
     "id": 44941605,
     "title": "An interactive guide to SVG paths",
     "url": "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "joshwcomeau",
+    "descendants": 44,
+    "time": 1755530345
   },
   {
     "rank": 2,
     "id": 44942099,
     "title": "Show HN: OS X Mavericks Forever",
     "url": "https://mavericksforever.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "Wowfunhappy",
+    "descendants": 196,
+    "time": 1755532904
   },
   {
     "rank": 3,
     "id": 44971845,
     "title": "Weaponizing image scaling against production AI systems",
     "url": "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "tatersolid",
+    "descendants": 131,
+    "time": 1755778853
   },
   {
     "rank": 4,
     "id": 44976764,
     "title": "DeepSeek-v3.1",
     "url": "https://api-docs.deepseek.com/news/news250821",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 778,
+    "by": "wertyk",
+    "descendants": 263,
+    "time": 1755803169
   },
   {
     "rank": 5,
     "id": 44977645,
     "title": "Code formatting comes to uv experimentally",
     "url": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "tanelpoder",
+    "descendants": 245,
+    "time": 1755808004
   },
   {
     "rank": 6,
     "id": 44980865,
     "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
     "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "guntars",
+    "descendants": 166,
+    "time": 1755834704
   },
   {
     "rank": 7,
     "id": 44982491,
     "title": "Go is still not good",
     "url": "https://blog.habets.se/2025/07/Go-is-still-not-good.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 646,
+    "by": "ustad",
+    "descendants": 837,
+    "time": 1755854723
   },
   {
     "rank": 8,
     "id": 44985730,
     "title": "FFmpeg 8.0",
     "url": "https://ffmpeg.org/index.html#pr8.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 987,
+    "by": "gyan",
+    "descendants": 200,
+    "time": 1755876162
   },
   {
     "rank": 9,
     "id": 44986949,
     "title": "Waymo granted permit to begin testing in New York City",
     "url": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 598,
+    "by": "achristmascarl",
+    "descendants": 619,
+    "time": 1755882168
   },
   {
     "rank": 10,
     "id": 44989773,
     "title": "U.S. government takes 10% stake in Intel",
     "url": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 610,
+    "by": "givemeethekeys",
+    "descendants": 719,
+    "time": 1755896512
   }
 ]

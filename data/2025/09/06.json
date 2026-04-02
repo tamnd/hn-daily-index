@@ -4,99 +4,99 @@
     "id": 45108401,
     "title": "Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS",
     "url": "https://huggingface.co/swiss-ai/Apertus-70B-2509",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 323,
+    "by": "denysvitali",
+    "descendants": 61,
+    "time": 1756844091
   },
   {
     "rank": 2,
     "id": 45110311,
     "title": "The maths you need to start understanding LLMs",
     "url": "https://www.gilesthomas.com/2025/09/maths-for-llms",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 616,
+    "by": "gpjt",
+    "descendants": 120,
+    "time": 1756854647
   },
   {
     "rank": 3,
     "id": 45136103,
     "title": "I bought the cheapest EV, a used Nissan Leaf",
     "url": "https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "calcifer",
+    "descendants": 672,
+    "time": 1757059041
   },
   {
     "rank": 4,
     "id": 45137373,
     "title": "ML needs a new programming language \u2013 Interview with Chris Lattner",
     "url": "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "melodyogonna",
+    "descendants": 278,
+    "time": 1757072028
   },
   {
     "rank": 5,
     "id": 45141636,
     "title": "Making a font of my handwriting",
     "url": "https://chameth.com/making-a-font-of-my-handwriting/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "kickofline",
+    "descendants": 80,
+    "time": 1757095593
   },
   {
     "rank": 6,
     "id": 45144900,
     "title": "Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy",
     "url": "https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "MilnerRoute",
+    "descendants": 648,
+    "time": 1757114635
   },
   {
     "rank": 7,
     "id": 45148167,
     "title": "Let us git rid of it, angry GitHub users say of forced Copilot features",
     "url": "https://www.theregister.com/2025/09/05/github_copilot_complaints/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "latexr",
+    "descendants": 302,
+    "time": 1757155447
   },
   {
     "rank": 8,
     "id": 45148237,
     "title": "Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5",
     "url": "https://github.com/b4rtaz/distributed-llama/discussions/255",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "b4rtazz",
+    "descendants": 161,
+    "time": 1757156352
   },
   {
     "rank": 9,
     "id": 45149049,
     "title": "996",
     "url": "https://lucumr.pocoo.org/2025/9/4/996/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1058,
+    "by": "genericlemon24",
+    "descendants": 532,
+    "time": 1757164857
   },
   {
     "rank": 10,
     "id": 45149281,
     "title": "AI surveillance should be banned while there is still time",
     "url": "https://gabrielweinberg.com/p/ai-surveillance-should-be-banned",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "mustaphah",
+    "descendants": 222,
+    "time": 1757166754
   }
 ]

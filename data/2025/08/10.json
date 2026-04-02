@@ -4,99 +4,99 @@
     "id": 44800048,
     "title": "Quickshell \u2013 building blocks for your desktop",
     "url": "https://quickshell.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 373,
+    "by": "abhinavk",
+    "descendants": 50,
+    "time": 1754410733
   },
   {
     "rank": 2,
     "id": 44809166,
     "title": "How I use Tailscale",
     "url": "https://chameth.com/how-i-use-tailscale/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "aquariusDue",
+    "descendants": 101,
+    "time": 1754467749
   },
   {
     "rank": 3,
     "id": 44841262,
     "title": "The Framework Desktop is a beast",
     "url": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "lemonberry",
+    "descendants": 448,
+    "time": 1754684350
   },
   {
     "rank": 4,
     "id": 44846164,
     "title": "Long-term exposure to outdoor air pollution linked to increased risk of dementia",
     "url": "https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "hhs",
+    "descendants": 124,
+    "time": 1754744491
   },
   {
     "rank": 5,
     "id": 44846871,
     "title": "MCP overlooks hard-won lessons from distributed systems",
     "url": "https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "yodon",
+    "descendants": 227,
+    "time": 1754750530
   },
   {
     "rank": 6,
     "id": 44846922,
     "title": "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
     "url": "https://simonwillison.net/2025/Aug/9/bay-area-ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "vismit2000",
+    "descendants": 115,
+    "time": 1754750858
   },
   {
     "rank": 7,
     "id": 44850681,
     "title": "Abusing Entra OAuth for fun and access to internal Microsoft applications",
     "url": "https://research.eye.security/consent-and-compromise/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "the1bernard",
+    "descendants": 113,
+    "time": 1754776783
   },
   {
     "rank": 8,
     "id": 44850913,
     "title": "How I code with AI on a budget/free",
     "url": "https://wuu73.org/blog/aiguide1.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 697,
+    "by": "indigodaddy",
+    "descendants": 241,
+    "time": 1754778457
   },
   {
     "rank": 9,
     "id": 44855079,
     "title": "Try and",
     "url": "https://ygdp.yale.edu/phenomena/try-and",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 660,
+    "by": "treetalker",
+    "descendants": 336,
+    "time": 1754832733
   },
   {
     "rank": 10,
     "id": 44856426,
     "title": "Fight Chat Control",
     "url": "https://fightchatcontrol.eu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1493,
+    "by": "tokai",
+    "descendants": 498,
+    "time": 1754844634
   }
 ]

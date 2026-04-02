@@ -4,99 +4,99 @@
     "id": 44967543,
     "title": "Burner Phone 101",
     "url": "https://rebeccawilliams.info/burner-phone-101/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "CharlesW",
+    "descendants": 190,
+    "time": 1755732358
   },
   {
     "rank": 2,
     "id": 44995640,
     "title": "RFC 9839 and Bad Unicode",
     "url": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 268,
+    "by": "Bogdanp",
+    "descendants": 148,
+    "time": 1755953641
   },
   {
     "rank": 3,
     "id": 44996938,
     "title": "Line scan camera image processing for train photography",
     "url": "https://daniel.lawrence.lu/blog/y2025m09d21/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "dllu",
+    "descendants": 81,
+    "time": 1755965361
   },
   {
     "rank": 4,
     "id": 44998295,
     "title": "What makes Claude Code so damn good",
     "url": "https://minusx.ai/blog/decoding-claude-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "samuelstros",
+    "descendants": 304,
+    "time": 1755976062
   },
   {
     "rank": 5,
     "id": 44999373,
     "title": "The cost of interrupted work (2023)",
     "url": "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "_vaporwave_",
+    "descendants": 203,
+    "time": 1755985506
   },
   {
     "rank": 6,
     "id": 45001051,
     "title": "How to build a coding agent",
     "url": "https://ghuntley.com/agent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 472,
+    "by": "ghuntley",
+    "descendants": 122,
+    "time": 1756005674
   },
   {
     "rank": 7,
     "id": 45002301,
     "title": "Valve Software handbook for new employees [pdf] (2012)",
     "url": "https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "Michelangelo11",
+    "descendants": 205,
+    "time": 1756022532
   },
   {
     "rank": 8,
     "id": 45003033,
     "title": "A German ISP changed their DNS to block my website",
     "url": "https://lina.sh/blog/telefonica-sabotages-me",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 809,
+    "by": "shaunpud",
+    "descendants": 440,
+    "time": 1756031239
   },
   {
     "rank": 9,
     "id": 45004728,
     "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
     "url": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "maloga",
+    "descendants": 225,
+    "time": 1756047684
   },
   {
     "rank": 10,
     "id": 45004846,
     "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
     "url": "https://twitter.com/zack_overflow/status/1959308058200551721",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 648,
+    "by": "helloplanets",
+    "descendants": 220,
+    "time": 1756048474
   }
 ]

@@ -4,99 +4,99 @@
     "id": 44786005,
     "title": "How we made JSON.stringify more than twice as fast",
     "url": "https://v8.dev/blog/json-stringify",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "emschwartz",
+    "descendants": 168,
+    "time": 1754316573
   },
   {
     "rank": 2,
     "id": 44786367,
     "title": "Objects should shut up",
     "url": "https://dustri.org/b/objects-should-shut-the-fuck-up.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "gm678",
+    "descendants": 362,
+    "time": 1754318029
   },
   {
     "rank": 3,
     "id": 44787631,
     "title": "Qwen-Image: Crafting with native text rendering",
     "url": "https://qwenlm.github.io/blog/qwen-image/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "meetpateltech",
+    "descendants": 159,
+    "time": 1754323000
   },
   {
     "rank": 4,
     "id": 44794271,
     "title": "PHP 8.5 adds pipe operator",
     "url": "https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "lemper",
+    "descendants": 274,
+    "time": 1754367223
   },
   {
     "rank": 5,
     "id": 44794508,
     "title": "Monitor your security cameras with locally processed AI",
     "url": "https://frigate.video/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "zakki",
+    "descendants": 253,
+    "time": 1754370323
   },
   {
     "rank": 6,
     "id": 44795825,
     "title": "uBlock Origin Lite now available for Safari",
     "url": "https://apps.apple.com/app/ublock-origin-lite/id6745342698",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1156,
+    "by": "Jiahang",
+    "descendants": 448,
+    "time": 1754384514
   },
   {
     "rank": 7,
     "id": 44798166,
     "title": "Genie 3: A new frontier for world models",
     "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1510,
+    "by": "bradleyg223",
+    "descendants": 490,
+    "time": 1754402932
   },
   {
     "rank": 8,
     "id": 44798189,
     "title": "Things that helped me get out of the AI 10x engineer imposter syndrome",
     "url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 949,
+    "by": "coltonv",
+    "descendants": 649,
+    "time": 1754403042
   },
   {
     "rank": 9,
     "id": 44800185,
     "title": "Claude Opus 4.1",
     "url": "https://www.anthropic.com/news/claude-opus-4-1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 841,
+    "by": "meetpateltech",
+    "descendants": 328,
+    "time": 1754411285
   },
   {
     "rank": 10,
     "id": 44800746,
     "title": "Open models by OpenAI",
     "url": "https://openai.com/open-models/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2124,
+    "by": "lackoftactics",
+    "descendants": 876,
+    "time": 1754413322
   }
 ]

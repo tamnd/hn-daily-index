@@ -4,99 +4,99 @@
     "id": 45052423,
     "title": "AI adoption linked to 13% decline in jobs for young U.S. workers: study",
     "url": "https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "pseudolus",
+    "descendants": 629,
+    "time": 1756390424
   },
   {
     "rank": 2,
     "id": 45054703,
     "title": "Uncertain<T>",
     "url": "https://nshipster.com/uncertainty/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 448,
+    "by": "samtheprogram",
+    "descendants": 98,
+    "time": 1756401774
   },
   {
     "rank": 3,
     "id": 45055641,
     "title": "Some thoughts on LLMs and software development",
     "url": "https://martinfowler.com/articles/202508-ai-thoughts.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 420,
+    "by": "floverfelt",
+    "descendants": 405,
+    "time": 1756407120
   },
   {
     "rank": 4,
     "id": 45056878,
     "title": "Aspects of modern HTML/CSS you may not be familiar with",
     "url": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "todsacerdoti",
+    "descendants": 254,
+    "time": 1756414174
   },
   {
     "rank": 5,
     "id": 45058688,
     "title": "Claude Sonnet will ship in Xcode",
     "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "zora_goron",
+    "descendants": 400,
+    "time": 1756428267
   },
   {
     "rank": 6,
     "id": 45060920,
     "title": "The Synology End Game",
     "url": "https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "amacbride",
+    "descendants": 355,
+    "time": 1756449441
   },
   {
     "rank": 7,
     "id": 45062614,
     "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
     "url": "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 671,
+    "by": "clcaev",
+    "descendants": 367,
+    "time": 1756466139
   },
   {
     "rank": 8,
     "id": 45062683,
     "title": "Updates to Consumer Terms and Privacy Policy",
     "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 756,
+    "by": "porridgeraisin",
+    "descendants": 530,
+    "time": 1756466950
   },
   {
     "rank": 9,
     "id": 45062738,
     "title": "If you have a Claude account, they're going to train on your data moving forward",
     "url": "https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "diggan",
+    "descendants": 229,
+    "time": 1756467566
   },
   {
     "rank": 10,
     "id": 45062910,
     "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
     "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 535,
+    "by": "mdhb",
+    "descendants": 246,
+    "time": 1756468891
   }
 ]

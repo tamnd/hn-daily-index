@@ -4,99 +4,99 @@
     "id": 44886997,
     "title": "FFmpeg moves to Forgejo",
     "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "whataguy",
+    "descendants": 353,
+    "time": 1755083330
   },
   {
     "rank": 2,
     "id": 44921609,
     "title": "Pfeilstorch",
     "url": "https://en.wikipedia.org/wiki/Pfeilstorch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "gyomu",
+    "descendants": 87,
+    "time": 1755335269
   },
   {
     "rank": 3,
     "id": 44922571,
     "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
     "url": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "sohkamyung",
+    "descendants": 209,
+    "time": 1755346392
   },
   {
     "rank": 4,
     "id": 44923465,
     "title": "Dicing an Onion, the Mathematically Optimal Way",
     "url": "https://pudding.cool/2025/08/onions/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 359,
+    "by": "surprisetalk",
+    "descendants": 148,
+    "time": 1755352459
   },
   {
     "rank": 5,
     "id": 44924461,
     "title": "OpenAI Progress",
     "url": "https://progress.openai.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "vinhnx",
+    "descendants": 349,
+    "time": 1755359232
   },
   {
     "rank": 6,
     "id": 44927934,
     "title": "GDPR meant nothing: chat control ends privacy for the EU [video]",
     "url": "https://www.youtube.com/watch?v=3NyUgv6dpJc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 452,
+    "by": "givemeethekeys",
+    "descendants": 410,
+    "time": 1755390110
   },
   {
     "rank": 7,
     "id": 44929260,
     "title": "Node.js is able to execute TypeScript files without additional configuration",
     "url": "https://nodejs.org/en/blog/release/v22.18.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "steren",
+    "descendants": 262,
+    "time": 1755410607
   },
   {
     "rank": 8,
     "id": 44930186,
     "title": "Sunny days are warm: why LinkedIn rewards mediocrity",
     "url": "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "smitec",
+    "descendants": 389,
+    "time": 1755422996
   },
   {
     "rank": 9,
     "id": 44930808,
     "title": "LL3M: Large Language 3D Modelers",
     "url": "https://threedle.github.io/ll3m/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "simonpure",
+    "descendants": 183,
+    "time": 1755429620
   },
   {
     "rank": 10,
     "id": 44933255,
     "title": "Claudia \u2013 Desktop companion for Claude code",
     "url": "https://claudiacode.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 501,
+    "by": "zerealshadowban",
+    "descendants": 226,
+    "time": 1755451616
   }
 ]

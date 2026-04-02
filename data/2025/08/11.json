@@ -4,99 +4,99 @@
     "id": 44855157,
     "title": "Show HN: Engineering.fyi \u2013 Search across tech engineering blogs in one place",
     "url": "https://engineering.fyi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "indiehackerman",
+    "descendants": 126,
+    "time": 1754833445
   },
   {
     "rank": 2,
     "id": 44855690,
     "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
     "url": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "ModelForge",
+    "descendants": 97,
+    "time": 1754838367
   },
   {
     "rank": 3,
     "id": 44860139,
     "title": "Vanishing from Hyundai\u2019s data network",
     "url": "http://techno-fandom.org/~hobbit/cars/ev/offnet.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "pilingual",
+    "descendants": 263,
+    "time": 1754877326
   },
   {
     "rank": 4,
     "id": 44861106,
     "title": "The Chrome VRP Panel has decided to award $250k for this report",
     "url": "https://issues.chromium.org/issues/412578726",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 514,
+    "by": "alexcos",
+    "descendants": 270,
+    "time": 1754891793
   },
   {
     "rank": 5,
     "id": 44863242,
     "title": "OpenSSH Post-Quantum Cryptography",
     "url": "https://www.openssh.com/pq.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "throw0101d",
+    "descendants": 127,
+    "time": 1754913718
   },
   {
     "rank": 6,
     "id": 44863487,
     "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
     "url": "https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "danso",
+    "descendants": 4,
+    "time": 1754915895
   },
   {
     "rank": 7,
     "id": 44864134,
     "title": "I tried every todo app and ended up with a .txt file",
     "url": "https://www.al3rez.com/todo-txt-journey",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1402,
+    "by": "al3rez",
+    "descendants": 799,
+    "time": 1754920742
   },
   {
     "rank": 8,
     "id": 44864185,
     "title": "Claude Code is all you need",
     "url": "https://dwyer.co.za/static/claude-code-is-all-you-need.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 851,
+    "by": "sixhobbits",
+    "descendants": 504,
+    "time": 1754921026
   },
   {
     "rank": 9,
     "id": 44865560,
     "title": "GitHub is no longer independent at Microsoft after CEO resignation",
     "url": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1468,
+    "by": "Handy-Man",
+    "descendants": 1121,
+    "time": 1754927268
   },
   {
     "rank": 10,
     "id": 44866208,
     "title": "Wikipedia loses challenge against Online Safety Act",
     "url": "https://www.bbc.com/news/articles/cjr11qqvvwlo",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1109,
+    "by": "phlummox",
+    "descendants": 856,
+    "time": 1754930006
   }
 ]

@@ -4,99 +4,99 @@
     "id": 45152284,
     "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
     "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "simonw",
+    "descendants": 255,
+    "time": 1757187768
   },
   {
     "rank": 2,
     "id": 45161855,
     "title": "Pico CSS \u2013 Minimal CSS Framework for Semantic HTML",
     "url": "https://picocss.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "mpweiher",
+    "descendants": 108,
+    "time": 1757277098
   },
   {
     "rank": 3,
     "id": 45163043,
     "title": "Formatting code should be unnecessary",
     "url": "https://maxleiter.com/blog/formatting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "MaxLeiter",
+    "descendants": 476,
+    "time": 1757286522
   },
   {
     "rank": 4,
     "id": 45163362,
     "title": "Using Claude Code to modernize a 25-year-old kernel driver",
     "url": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 929,
+    "by": "dmitrybrant",
+    "descendants": 318,
+    "time": 1757289227
   },
   {
     "rank": 5,
     "id": 45165684,
     "title": "Immich \u2013 High performance self-hosted photo and video management",
     "url": "https://github.com/immich-app/immich",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "rzk",
+    "descendants": 205,
+    "time": 1757318318
   },
   {
     "rank": 6,
     "id": 45166972,
     "title": "14 Killed in anti-government protests in Nepal",
     "url": "https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "whatsupdog",
+    "descendants": 459,
+    "time": 1757330682
   },
   {
     "rank": 7,
     "id": 45167705,
     "title": "Meta suppressed research on child safety, employees say",
     "url": "https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "mdhb",
+    "descendants": 347,
+    "time": 1757336368
   },
   {
     "rank": 8,
     "id": 45169657,
     "title": "NPM debug and chalk packages compromised",
     "url": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1372,
+    "by": "universesquid",
+    "descendants": 757,
+    "time": 1757345877
   },
   {
     "rank": 9,
     "id": 45170515,
     "title": "Signal Secure Backups",
     "url": "https://signal.org/blog/introducing-secure-backups/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 990,
+    "by": "keyboardJones",
+    "descendants": 442,
+    "time": 1757349819
   },
   {
     "rank": 10,
     "id": 45173277,
     "title": "Chat Control Must Be Stopped",
     "url": "https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 788,
+    "by": "_p2zi",
+    "descendants": 259,
+    "time": 1757362042
   }
 ]

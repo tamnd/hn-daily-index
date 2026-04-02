@@ -4,99 +4,99 @@
     "id": 44810916,
     "title": "I bought a \u00a316 smartwatch just because it used USB-C",
     "url": "https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "blenderob",
+    "descendants": 237,
+    "time": 1754482324
   },
   {
     "rank": 2,
     "id": 44836463,
     "title": "How we replaced Elasticsearch and MongoDB with Rust and RocksDB",
     "url": "https://radar.com/blog/high-performance-geocoding-in-rust",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "j_kao",
+    "descendants": 100,
+    "time": 1754657870
   },
   {
     "rank": 3,
     "id": 44836879,
     "title": "Getting good results from Claude Code",
     "url": "https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "ingve",
+    "descendants": 200,
+    "time": 1754660757
   },
   {
     "rank": 4,
     "id": 44838378,
     "title": "Tor: How a military project became a lifeline for privacy",
     "url": "https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "anarbadalov",
+    "descendants": 191,
+    "time": 1754667927
   },
   {
     "rank": 5,
     "id": 44839842,
     "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
     "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "tosh",
+    "descendants": 412,
+    "time": 1754676266
   },
   {
     "rank": 6,
     "id": 44840582,
     "title": "Jim Lovell, Apollo 13 commander, has died",
     "url": "https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 589,
+    "by": "LorenDB",
+    "descendants": 114,
+    "time": 1754680338
   },
   {
     "rank": 7,
     "id": 44840728,
     "title": "Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?",
     "url": "https://news.ycombinator.com/item?id=44840728",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 574,
+    "by": "superasn",
+    "descendants": 365,
+    "time": 1754681248
   },
   {
     "rank": 8,
     "id": 44846281,
     "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
     "url": "https://sky.dlazaro.ca",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 788,
+    "by": "dnlzro",
+    "descendants": 160,
+    "time": 1754745916
   },
   {
     "rank": 9,
     "id": 44846318,
     "title": "OpenFreeMap survived 100k requests per second",
     "url": "https://blog.hyperknot.com/p/openfreemap-survived-100000-requests",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 609,
+    "by": "hyperknot",
+    "descendants": 133,
+    "time": 1754746290
   },
   {
     "rank": 10,
     "id": 44848782,
     "title": "Debian 13 \\\"Trixie\\\"",
     "url": "https://www.debian.org/News/2025/20250809",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 974,
+    "by": "ducktective",
+    "descendants": 407,
+    "time": 1754763525
   }
 ]
