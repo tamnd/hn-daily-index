@@ -4,99 +4,99 @@
     "id": 32355327,
     "title": "Nix: Taming Unix with Functional Programming",
     "url": "https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "ingve",
+    "descendants": 202,
+    "time": 1659703760
   },
   {
     "rank": 2,
     "id": 32359325,
     "title": "StemRoller \u2013 Isolate vocals, drums, bass, and other stems from any song",
     "url": "https://github.com/stemrollerapp/stemroller",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "nikolay",
+    "descendants": 97,
+    "time": 1659721133
   },
   {
     "rank": 3,
     "id": 32362363,
     "title": "Counterfeits, fraud, and theft: Why Silca changed its return policy",
     "url": "https://cyclingtips.com/2022/07/interview-silca-on-amazon-e-commerce-fraud-theft-returns/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "762236",
+    "descendants": 254,
+    "time": 1659736150
   },
   {
     "rank": 4,
     "id": 32363823,
     "title": "I assure you, medieval people bathed (2019)",
     "url": "https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "wchar_t",
+    "descendants": 340,
+    "time": 1659748260
   },
   {
     "rank": 5,
     "id": 32365872,
     "title": "Microdosing with psilocybin mushrooms: a double-blind placebo-controlled study",
     "url": "https://www.nature.com/articles/s41398-022-02039-0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "freddier",
+    "descendants": 282,
+    "time": 1659771363
   },
   {
     "rank": 6,
     "id": 32366075,
     "title": "MyNoise \u2013 Background Sound Canceller",
     "url": "https://mynoise.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "modinfo",
+    "descendants": 100,
+    "time": 1659773648
   },
   {
     "rank": 7,
     "id": 32366759,
     "title": "GraphQL kinda sucks",
     "url": "https://news.ycombinator.com/item?id=32366759",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 720,
+    "by": "randytandy",
+    "descendants": 433,
+    "time": 1659781537
   },
   {
     "rank": 8,
     "id": 32367979,
     "title": "Simulating an Entire Car Engine (yes, it makes noise) [video]",
     "url": "https://www.youtube.com/watch?v=RKT-sKtR970",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "cellover",
+    "descendants": 74,
+    "time": 1659793075
   },
   {
     "rank": 9,
     "id": 32367982,
     "title": "Google Trying to Solve a UUID",
     "url": "https://www.google.com/search?q=0e2b835d-4d9a-4b8b-b009-988741022e8c&sourceid=chrome&ie=UTF-8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "delduca",
+    "descendants": 151,
+    "time": 1659793104
   },
   {
     "rank": 10,
     "id": 32371423,
     "title": "Cramming 'Papers, Please' onto Phones",
     "url": "https://dukope.com/devlogs/papers-please/mobile/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1297,
+    "by": "nycpig",
+    "descendants": 180,
+    "time": 1659818616
   }
 ]

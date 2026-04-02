@@ -2,9 +2,54 @@
 
 Top 10 Hacker News stories for each day in 2020.
 
-- [December](12/) (28 days)
+- [December](12/) (31 days)
 
 ---
+
+## 2020-12-31
+
+*Thursday*
+
+1. [Ask HN: What's a side project you built to make money that hasn't?](https://news.ycombinator.com/item?id=25580637) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25580637)
+2. [How We Built the GitHub Globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/) (github.blog) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25584720)
+3. [HTML5 still doesn't replicate what mattered about Flash](https://twitter.com/larsiusprime/status/1344404336252768257) (twitter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25587765)
+4. [LibrePhotos: A Self-Hosted Google Photos Alternative](https://github.com/LibrePhotos/librephotos) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25588712)
+5. [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html) (madaidans-insecurities.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25590079)
+6. [Why Jira Sucks](https://whyjirasucks.com/) (whyjirasucks.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25590846)
+7. [WebAssembly Studio](https://webassembly.studio) (webassembly.studio) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25592481)
+8. [SolarWinds hackers were able to access Microsoft source code](https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/) (msrc-blog.microsoft.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25595416)
+9. [Happy New Year HN](https://news.ycombinator.com/item?id=25595865) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25595865)
+10. [Bitcoin is a disaster](https://www.metzdowd.com/pipermail/cryptography/2020-December/036510.html) (metzdowd.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25597891)
+
+## 2020-12-30
+
+*Wednesday*
+
+1. [Apple’s longtime supplier accused of using forced labor in China](https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/) (washingtonpost.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25570207)
+2. [Adding comments to a static blog with Mastodon](https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/) (carlschwan.eu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25570268)
+3. [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html) (csgordon.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25572852)
+4. [20 Years Later](https://www.math.columbia.edu/~woit/wordpress/?p=12069) (math.columbia.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25573989)
+5. [Visa Advertising Solutions (VAS) Opt Out](https://marketingreportoptout.visa.com/OPTOUT/request.do) (marketingreportoptout.visa.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25576113)
+6. [Messengers of hope: two mRNA Covid-19 vaccines herald a new era for vaccinology](https://www.nature.com/articles/s41587-020-00807-1) (nature.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25577215)
+7. [Oxford-AstraZeneca coronavirus vaccine approved for use in UK](https://www.bbc.co.uk/news/health-55280671) (bbc.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25579393)
+8. [Amazon still hasn’t fixed its problem with bait-and-switch reviews](https://arstechnica.com/tech-policy/2020/12/amazon-still-hasnt-fixed-its-problem-with-bait-and-switch-reviews) (arstechnica.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25581727)
+9. [Show HN: PSX Party – Online Multiplayer Playstation 1 Emulator Using WebRTC](https://psxparty.kosmi.io/?ref=hn1) (psxparty.kosmi.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25582187)
+10. [Four-day week means 'I don't waste holidays on chores'](https://www.bbc.co.uk/news/business-55485010) (bbc.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25583775)
+
+## 2020-12-29
+
+*Tuesday*
+
+1. [Ask HN: What are you surprised isn’t being worked on more?](https://news.ycombinator.com/item?id=25559571) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25559571)
+2. [Fujifilm Created a Magnetic Tape That Can Store 580 Terabytes](https://petapixel.com/2020/12/26/fujifilm-created-a-magnetic-tape-that-can-store-580-terabytes/) (petapixel.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25563590)
+3. [Show HN: Raspberry Pi 400 with a $2 IPS 240x240 micro display](https://github.com/igbit/micro-displays/blob/main/README.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25566132)
+4. [Why Is There a Bucatini Shortage in America?](https://www.grubstreet.com/2020/12/2020-bucatini-shortage-investigation.html) (grubstreet.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25566652)
+5. [Google Maps' Moat Is Evaporating](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating) (joemorrison.substack.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25568335)
+6. [Show HN: Thruhikes – A list of long distance hikes around the world](https://thruhikes.net/) (thruhikes.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25568856)
+7. [Brexit deal mentions Netscape browser and Mozilla Mail](https://www.bbc.co.uk/news/technology-55475433) (bbc.co.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25569883)
+8. [Ten year study: No link between violent video games and aggressive behavior](https://gamesage.net/blogs/news/ten-year-long-study-confirms-no-link-between-playing-violent-video-games-as-early-as-ten-years-old-and-aggressive-behavior-later-in-life) (gamesage.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25570038)
+9. [iPhone workers given choice of forced labor or being sent to detention centers](https://9to5mac.com/2020/12/29/iphone-workers-forced-labor/) (9to5mac.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25570247)
+10. [Do You Love Me? [video]](https://www.youtube.com/watch?v=fn3KWM1kuAw) (youtube.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=25573327)
 
 ## 2020-12-28
 

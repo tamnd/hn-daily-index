@@ -4,99 +4,99 @@
     "id": 32378695,
     "title": "Ask HN: What's the next big thing that few people are talking about?",
     "url": "https://news.ycombinator.com/item?id=32378695",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "ScottStevenson",
+    "descendants": 1174,
+    "time": 1659897949
   },
   {
     "rank": 2,
     "id": 32390526,
     "title": "I replaced all our blog thumbnails using DALL\u00b7E 2",
     "url": "https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 677,
+    "by": "dsmmcken",
+    "descendants": 322,
+    "time": 1659990080
   },
   {
     "rank": 3,
     "id": 32392997,
     "title": "Man arrested for promoting jury nullification wins federal case",
     "url": "https://reason.com/2022/08/05/he-was-arrested-for-promoting-jury-nullification-a-federal-court-says-that-was-illegal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "olalonde",
+    "descendants": 435,
+    "time": 1660006791
   },
   {
     "rank": 4,
     "id": 32393545,
     "title": "Write a note to your spouse every day",
     "url": "https://jdnoc.com/note/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "jordanmoconnor",
+    "descendants": 282,
+    "time": 1660011272
   },
   {
     "rank": 5,
     "id": 32393634,
     "title": "How fast is 12th Gen Intel Core?",
     "url": "https://frame.work/blog/how-fast-is-12th-gen-intel-core",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "nreece",
+    "descendants": 436,
+    "time": 1660012171
   },
   {
     "rank": 6,
     "id": 32395518,
     "title": "Thank You, Firebug (2017)",
     "url": "https://getfirebug.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "memorable",
+    "descendants": 84,
+    "time": 1660034223
   },
   {
     "rank": 7,
     "id": 32395589,
     "title": "The Story of Mel (1983)",
     "url": "https://www.cs.utah.edu/~elb/folklore/mel.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "thunderbong",
+    "descendants": 167,
+    "time": 1660034943
   },
   {
     "rank": 8,
     "id": 32395971,
     "title": "GitHub accounts of people who contributed to tornado repos just got deleted",
     "url": "https://twitter.com/bantg/status/1556721709931175937",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "ETH_start",
+    "descendants": 501,
+    "time": 1660039651
   },
   {
     "rank": 9,
     "id": 32398391,
     "title": "From novice to master, and back again (2013)",
     "url": "https://blog.djmnet.org/2013/01/14/from-novice-to-master-and-back-again/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "mre",
+    "descendants": 143,
+    "time": 1660054961
   },
   {
     "rank": 10,
     "id": 32399949,
     "title": "An incident impacting 5M accounts and private information on Twitter",
     "url": "https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 807,
+    "by": "WaitWaitWha",
+    "descendants": 450,
+    "time": 1660061782
   }
 ]

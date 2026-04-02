@@ -4,99 +4,99 @@
     "id": 32378752,
     "title": "Oncall Compensation for Software Engineers",
     "url": "https://blog.pragmaticengineer.com/oncall-compensation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "kiyanwang",
+    "descendants": 306,
+    "time": 1659898363
   },
   {
     "rank": 2,
     "id": 32379066,
     "title": "Mysterious holes on the seafloor",
     "url": "https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "smartmic",
+    "descendants": 135,
+    "time": 1659900395
   },
   {
     "rank": 3,
     "id": 32380079,
     "title": "Look at median, and not mean GDP per capita",
     "url": "https://medianism.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "amin",
+    "descendants": 200,
+    "time": 1659907588
   },
   {
     "rank": 4,
     "id": 32380769,
     "title": "Why does gRPC insist on trailers?",
     "url": "https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "strzalek",
+    "descendants": 125,
+    "time": 1659913159
   },
   {
     "rank": 5,
     "id": 32381550,
     "title": "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
     "url": "https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "xena",
+    "descendants": 115,
+    "time": 1659921641
   },
   {
     "rank": 6,
     "id": 32381790,
     "title": "A physical wiring diagram for the human immune system",
     "url": "https://www.nature.com/articles/s41586-022-05028-x",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "bookofjoe",
+    "descendants": 49,
+    "time": 1659924441
   },
   {
     "rank": 7,
     "id": 32383820,
     "title": "Open AirPlay 2 Receiver",
     "url": "https://github.com/openairplay/airplay2-receiver",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "azalemeth",
+    "descendants": 112,
+    "time": 1659952551
   },
   {
     "rank": 8,
     "id": 32384550,
     "title": "MiniRust",
     "url": "https://www.ralfj.de/blog/2022/08/08/minirust.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "dthul",
+    "descendants": 147,
+    "time": 1659960639
   },
   {
     "rank": 9,
     "id": 32384613,
     "title": "No More \u201cInsight Porn\u201d",
     "url": "https://jakobgreenfeld.com/insight-porn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "jakobgreenfeld",
+    "descendants": 305,
+    "time": 1659961277
   },
   {
     "rank": 10,
     "id": 32384653,
     "title": "To uncover a deepfake video call, ask the caller to turn sideways",
     "url": "https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 864,
+    "by": "Hard_Space",
+    "descendants": 274,
+    "time": 1659961565
   }
 ]
