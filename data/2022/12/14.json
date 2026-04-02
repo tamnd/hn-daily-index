@@ -4,99 +4,99 @@
     "id": 33975926,
     "title": "A software change allowed FTX to use client money",
     "url": "https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "jc_811",
+    "descendants": 382,
+    "time": 1670966217
   },
   {
     "rank": 2,
     "id": 33976166,
     "title": "After 20 years the Dwarf Fortress devs have to get used to being millionaires",
     "url": "https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 674,
+    "by": "robin_reala",
+    "descendants": 423,
+    "time": 1670967177
   },
   {
     "rank": 3,
     "id": 33976355,
     "title": "Reddit's photo albums broke due to Integer overflow of Signed Int32",
     "url": "https://old.reddit.com/r/shittychangelog/comments/zl5gaz/here_at_reddit_we_believe_everything_is_better_in/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "Rebles",
+    "descendants": 139,
+    "time": 1670967956
   },
   {
     "rank": 4,
     "id": 33978978,
     "title": "Recursive Game of Life",
     "url": "https://oimo.io/works/life/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1072,
+    "by": "alden5",
+    "descendants": 116,
+    "time": 1670982240
   },
   {
     "rank": 5,
     "id": 33983878,
     "title": "ElonJet Is Now Suspended",
     "url": "https://twitter.com/jxcksweeney/status/1603028610209779712",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1417,
+    "by": "ffsoftboiled",
+    "descendants": 1321,
+    "time": 1671027975
   },
   {
     "rank": 6,
     "id": 33984922,
     "title": "Tesla FSD data is getting worse, according to beta tester self-reports",
     "url": "https://electrek.co/2022/12/14/tesla-full-self-driving-data-awful-challenge-elon-musk-prove-otherwise/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 546,
+    "by": "mfiguiere",
+    "descendants": 623,
+    "time": 1671032187
   },
   {
     "rank": 7,
     "id": 33986406,
     "title": "Apple considering dropping requirement for iPhone web browsers to use WebKit",
     "url": "https://www.macrumors.com/2022/12/14/apple-considering-non-webkit-iphone-browsers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "alwillis",
+    "descendants": 389,
+    "time": 1671037540
   },
   {
     "rank": 8,
     "id": 33986555,
     "title": "SvelteKit 1.0",
     "url": "https://svelte.dev/blog/announcing-sveltekit-1.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 919,
+    "by": "theodorejb",
+    "descendants": 292,
+    "time": 1671038127
   },
   {
     "rank": 9,
     "id": 33987118,
     "title": "Waymo's collision avoidance testing",
     "url": "https://blog.waymo.com/2022/12/waymos-collision-avoidance-testing.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "EvgeniyZh",
+    "descendants": 488,
+    "time": 1671040608
   },
   {
     "rank": 10,
     "id": 33987578,
     "title": "Htmx in a Nutshell",
     "url": "https://htmx.org/docs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 655,
+    "by": "tosh",
+    "descendants": 404,
+    "time": 1671042338
   }
 ]

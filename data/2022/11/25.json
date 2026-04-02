@@ -4,99 +4,99 @@
     "id": 33716429,
     "title": "Tumblr to Add Support for ActivityPub",
     "url": "https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "Tomte",
+    "descendants": 186,
+    "time": 1669190622
   },
   {
     "rank": 2,
     "id": 33717847,
     "title": "I over-engineered a Fast Fourier Transform for Arduino",
     "url": "https://klafyvel.me/blog/articles/fft-arduino/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "psychphysic",
+    "descendants": 84,
+    "time": 1669202699
   },
   {
     "rank": 3,
     "id": 33734846,
     "title": "Introduction to Genomics for Engineers",
     "url": "https://learngenomics.dev/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "froggychairs",
+    "descendants": 81,
+    "time": 1669315453
   },
   {
     "rank": 4,
     "id": 33738462,
     "title": "\u201cYou don't have a voltmeter. Do you have a potato?\u201d",
     "url": "https://diy.stackexchange.com/a/252050",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "jasonhansel",
+    "descendants": 96,
+    "time": 1669342725
   },
   {
     "rank": 5,
     "id": 33739583,
     "title": "Issue dialing 911 on Google Pixel 6 cell phones",
     "url": "https://www.actionnewsjax.com/news/local/investigates-very-scary-cell-phone-issue-dialing-911/ZNT76HVHRRCB5AUVRTT7JL43DM/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "vpt",
+    "descendants": 251,
+    "time": 1669354686
   },
   {
     "rank": 6,
     "id": 33741952,
     "title": "Factorio runs on Apple Silicon",
     "url": "https://factorio.com/blog/post/fff-371",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "Sebb767",
+    "descendants": 264,
+    "time": 1669381030
   },
   {
     "rank": 7,
     "id": 33742563,
     "title": "Cloudflare servers don't own IPs anymore so how do they connect to the internet?",
     "url": "https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 505,
+    "by": "jgrahamc",
+    "descendants": 133,
+    "time": 1669385800
   },
   {
     "rank": 8,
     "id": 33743567,
     "title": "Ask HN: Azure has run out of compute \u2013 anyone else affected?",
     "url": "https://news.ycombinator.com/item?id=33743567",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 651,
+    "by": "janober",
+    "descendants": 341,
+    "time": 1669391929
   },
   {
     "rank": 9,
     "id": 33744598,
     "title": "KDE runs on the Apple M2 with full GPU acceleration",
     "url": "https://vt.social/@lina/109405566112910885",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 368,
+    "by": "c80e74f077",
+    "descendants": 123,
+    "time": 1669396693
   },
   {
     "rank": 10,
     "id": 33745899,
     "title": "Tesla.com/.gitignore",
     "url": "https://www.tesla.com/.gitignore",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 457,
+    "by": "nateb2022",
+    "descendants": 270,
+    "time": 1669404370
   }
 ]

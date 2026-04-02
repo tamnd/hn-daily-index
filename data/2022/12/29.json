@@ -4,99 +4,99 @@
     "id": 34157636,
     "title": "Saying \u201csup\u201d with `net send`",
     "url": "https://drew.shoes/posts/sup/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "markchristian",
+    "descendants": 140,
+    "time": 1672202827
   },
   {
     "rank": 2,
     "id": 34164493,
     "title": "Waze tests new alerts warning drivers about roads with a \u2018history of crashes\u2019",
     "url": "https://www.theverge.com/2022/12/28/23529380/waze-history-of-crashes-beta-release-traffic-crash-data",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "mfiguiere",
+    "descendants": 192,
+    "time": 1672254241
   },
   {
     "rank": 3,
     "id": 34164546,
     "title": "Sherlock Holmes will finally escape copyright this weekend",
     "url": "https://www.theverge.com/2022/12/28/23528003/sherlock-holmes-metropolis-to-the-lighthouse-public-domain-day-2023",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "mfiguiere",
+    "descendants": 102,
+    "time": 1672254453
   },
   {
     "rank": 4,
     "id": 34165960,
     "title": "Barnes and Noble's surprising turnaround",
     "url": "https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 917,
+    "by": "AlbertCory",
+    "descendants": 484,
+    "time": 1672261629
   },
   {
     "rank": 5,
     "id": 34166193,
     "title": "Build your front end in React, then let ChatGPT be your Redux reducer",
     "url": "https://spindas.dreamwidth.org/4207.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "mintplant",
+    "descendants": 137,
+    "time": 1672262764
   },
   {
     "rank": 6,
     "id": 34169051,
     "title": "AI: Markets for Lemons, and the Great Logging Off",
     "url": "https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "willbobaggins",
+    "descendants": 276,
+    "time": 1672283846
   },
   {
     "rank": 7,
     "id": 34171406,
     "title": "WireGuard for the ESP32",
     "url": "https://github.com/ciniml/WireGuard-ESP32-Arduino",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "bishopsmother",
+    "descendants": 125,
+    "time": 1672311158
   },
   {
     "rank": 8,
     "id": 34172506,
     "title": "It's easier and faster to pirate an e-book, than it is to buy it",
     "url": "https://news.ycombinator.com/item?id=34172506",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 615,
+    "by": "leoff",
+    "descendants": 482,
+    "time": 1672321449
   },
   {
     "rank": 9,
     "id": 34176479,
     "title": "A search engine for searching books in the Z-Library index on the IPFS network",
     "url": "https://zlib.zu1k.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 776,
+    "by": "baptiste313",
+    "descendants": 203,
+    "time": 1672340723
   },
   {
     "rank": 10,
     "id": 34176601,
     "title": "Pel\u00e9 has died",
     "url": "https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 735,
+    "by": "mfiguiere",
+    "descendants": 244,
+    "time": 1672341198
   }
 ]

@@ -4,99 +4,99 @@
     "id": 33896513,
     "title": "macOS Command Line",
     "url": "https://git.herrbischoff.com/awesome-macos-command-line/about/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "animal_spirits",
+    "descendants": 114,
+    "time": 1670431176
   },
   {
     "rank": 2,
     "id": 33896890,
     "title": "Tor Browser 12.0",
     "url": "https://blog.torproject.org/new-release-tor-browser-120/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "soheilpro",
+    "descendants": 221,
+    "time": 1670432580
   },
   {
     "rank": 3,
     "id": 33898075,
     "title": "100 Gbps achieved from space to Earth",
     "url": "https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 482,
+    "by": "sizzle",
+    "descendants": 151,
+    "time": 1670437614
   },
   {
     "rank": 4,
     "id": 33898153,
     "title": "Apple kills plans to scan for CSAM in iCloud",
     "url": "https://www.wired.com/story/apple-photo-scanning-csam-communication-safety-messages/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 736,
+    "by": "ashton314",
+    "descendants": 408,
+    "time": 1670437928
   },
   {
     "rank": 5,
     "id": 33904017,
     "title": "You don't need live chat on your website",
     "url": "https://timharek.no/blog/you-dont-need-chat-on-your-site/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "5amdotis",
+    "descendants": 226,
+    "time": 1670472396
   },
   {
     "rank": 6,
     "id": 33904251,
     "title": "I liberate the ending to Minecraft from Microsoft and give it to you",
     "url": "https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 989,
+    "by": "dihydro",
+    "descendants": 739,
+    "time": 1670474569
   },
   {
     "rank": 7,
     "id": 33908577,
     "title": "Everything SBF is doing is in singular pursuit of not going to jail",
     "url": "https://newsletter.mollywhite.net/p/everything-sam-bankman-fried-is-doing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "mfbx9da4",
+    "descendants": 514,
+    "time": 1670511949
   },
   {
     "rank": 8,
     "id": 33912060,
     "title": "FTC seeks to block Microsoft's acquisition of Activision Blizzard",
     "url": "https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-seeks-block-microsoft-corps-acquisition-activision-blizzard-inc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "Pulcinella",
+    "descendants": 457,
+    "time": 1670527618
   },
   {
     "rank": 9,
     "id": 33912401,
     "title": "Finding the B-21's hanger location from the stars in its press image",
     "url": "https://twitter.com/johnmcelhone8/status/1600683623250030593",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 809,
+    "by": "johnmcelhone",
+    "descendants": 216,
+    "time": 1670529226
   },
   {
     "rank": 10,
     "id": 33913231,
     "title": "Goodbye to the C++ Implementation of Zig",
     "url": "https://ziglang.org/news/goodbye-cpp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 528,
+    "by": "nyberg",
+    "descendants": 337,
+    "time": 1670532792
   }
 ]

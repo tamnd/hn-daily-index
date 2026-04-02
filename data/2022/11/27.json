@@ -4,99 +4,99 @@
     "id": 33749677,
     "title": "Cache invalidation really is one of the hardest problems in computer science",
     "url": "https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "azhenley",
+    "descendants": 152,
+    "time": 1669434186
   },
   {
     "rank": 2,
     "id": 33751935,
     "title": "Paredit 25 released, after 8 years",
     "url": "http://paredit.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "salutis",
+    "descendants": 72,
+    "time": 1669463850
   },
   {
     "rank": 3,
     "id": 33754957,
     "title": "Anti-War Speech Sent Eugene V. Debs to Prison, 1918",
     "url": "https://www.fifthestate.org/archive/360-spring-2003/a-1918-anti-war-speech-sent-eugene-v-debs-to-prison/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "oriettaxx",
+    "descendants": 256,
+    "time": 1669485450
   },
   {
     "rank": 4,
     "id": 33755651,
     "title": "Remind HN: Heroku will delete all free dbs and shut down all free dynos Monday",
     "url": "https://news.ycombinator.com/item?id=33755651",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "nja",
+    "descendants": 119,
+    "time": 1669490165
   },
   {
     "rank": 5,
     "id": 33756089,
     "title": "FCC Bans Authorizations for Devices That Pose National Security Threat",
     "url": "https://www.fcc.gov/document/fcc-bans-authorizations-devices-pose-national-security-threat",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "terramex",
+    "descendants": 221,
+    "time": 1669492909
   },
   {
     "rank": 6,
     "id": 33757484,
     "title": "A bug fix in the 8086 microprocessor, revealed in the die's silicon",
     "url": "https://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "_Microft",
+    "descendants": 97,
+    "time": 1669501720
   },
   {
     "rank": 7,
     "id": 33761419,
     "title": "Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)",
     "url": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "markus_zhang",
+    "descendants": 58,
+    "time": 1669537811
   },
   {
     "rank": 8,
     "id": 33761932,
     "title": "The world of pipe fittings",
     "url": "https://naich.net/wordpress/index.php/ever-wondered-why-plumbers-are-paid-so-much/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "naich",
+    "descendants": 262,
+    "time": 1669545136
   },
   {
     "rank": 9,
     "id": 33763081,
     "title": "A hundred UK companies sign up for four-day week with no loss of pay",
     "url": "https://www.theguardian.com/business/2022/nov/27/a-hundred-uk-companies-sign-up-for-four-day-week-with-no-loss-of-pay",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "nigerian1981",
+    "descendants": 272,
+    "time": 1669558790
   },
   {
     "rank": 10,
     "id": 33766396,
     "title": "Git Notes: Git's Coolest, Most Unloved\u00ad Feature",
     "url": "https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 629,
+    "by": "thcipriani",
+    "descendants": 128,
+    "time": 1669580279
   }
 ]
