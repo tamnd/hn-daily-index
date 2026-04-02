@@ -4,99 +4,99 @@
     "id": 37785300,
     "title": "Austria rail operator OeBB unveils new night trains",
     "url": "https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "PaulHoule",
+    "descendants": 260,
+    "time": 1696546784
   },
   {
     "rank": 2,
     "id": 37786488,
     "title": "The Economics of Programming Languages [video]",
     "url": "https://www.youtube.com/watch?v=XZ3w_jec1v8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "satvikpendem",
+    "descendants": 127,
+    "time": 1696558293
   },
   {
     "rank": 3,
     "id": 37800062,
     "title": "Subtraction is functionally complete",
     "url": "https://orlp.net/blog/subtraction-is-functionally-complete/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 251,
+    "by": "orlp",
+    "descendants": 72,
+    "time": 1696667731
   },
   {
     "rank": 4,
     "id": 37801140,
     "title": "Berry is a ultra-lightweight dynamically typed embedded scripting language",
     "url": "https://berry-lang.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "dannyobrien",
+    "descendants": 97,
+    "time": 1696681617
   },
   {
     "rank": 5,
     "id": 37806861,
     "title": "Decomposing language models into understandable components",
     "url": "https://www.anthropic.com/index/decomposing-language-models-into-understandable-components",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "tompark",
+    "descendants": 62,
+    "time": 1696726005
   },
   {
     "rank": 6,
     "id": 37806870,
     "title": "Organization probably doesn't want to improve things",
     "url": "https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 524,
+    "by": "l0b0",
+    "descendants": 468,
+    "time": 1696726083
   },
   {
     "rank": 7,
     "id": 37808115,
     "title": "How to compete with Patreon",
     "url": "https://siderea.dreamwidth.org/1824441.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "rwmj",
+    "descendants": 223,
+    "time": 1696743253
   },
   {
     "rank": 8,
     "id": 37809276,
     "title": "Why is Debian the way it is?",
     "url": "https://blog.liw.fi/posts/2023/debian-reasons/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "brycewray",
+    "descendants": 188,
+    "time": 1696760519
   },
   {
     "rank": 9,
     "id": 37809721,
     "title": "Homebrew to deprecate and add caveat for HashiCorp",
     "url": "https://github.com/Homebrew/homebrew-core/pull/139538",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "mooreds",
+    "descendants": 102,
+    "time": 1696766408
   },
   {
     "rank": 10,
     "id": 37812217,
     "title": "OpenIPC: Alternative open firmware for your IP camera",
     "url": "https://github.com/OpenIPC",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "danboarder",
+    "descendants": 59,
+    "time": 1696784222
   }
 ]

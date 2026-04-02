@@ -4,99 +4,99 @@
     "id": 37673127,
     "title": "Uiua: A minimal stack-based, array-based language",
     "url": "https://www.uiua.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "xpointer",
+    "descendants": 104,
+    "time": 1695814111
   },
   {
     "rank": 2,
     "id": 37673409,
     "title": "First Impressions with GPT-4V(ision)",
     "url": "https://blog.roboflow.com/gpt-4-vision/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "zerojames",
+    "descendants": 333,
+    "time": 1695816078
   },
   {
     "rank": 3,
     "id": 37674752,
     "title": "Deno Queues",
     "url": "https://deno.com/blog/queues",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "0xedb",
+    "descendants": 165,
+    "time": 1695823138
   },
   {
     "rank": 4,
     "id": 37678860,
     "title": "Ray-Ban Meta Smart Glasses",
     "url": "https://www.meta.com/smart-glasses/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 575,
+    "by": "mfiguiere",
+    "descendants": 854,
+    "time": 1695838713
   },
   {
     "rank": 5,
     "id": 37681004,
     "title": "Desalination system could produce freshwater that is cheaper than tap water",
     "url": "https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "abathur",
+    "descendants": 191,
+    "time": 1695847303
   },
   {
     "rank": 6,
     "id": 37682684,
     "title": "Open Source does not win by being cheaper",
     "url": "https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "thibo_skabgia",
+    "descendants": 273,
+    "time": 1695855840
   },
   {
     "rank": 7,
     "id": 37684986,
     "title": "Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?",
     "url": "https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "segfaultbuserr",
+    "descendants": 106,
+    "time": 1695872714
   },
   {
     "rank": 8,
     "id": 37685580,
     "title": "Raspberry Pi 5",
     "url": "https://www.raspberrypi.com/products/raspberry-pi-5/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1674,
+    "by": "chabes",
+    "descendants": 1022,
+    "time": 1695878961
   },
   {
     "rank": 9,
     "id": 37687060,
     "title": "That's a Lot of YAML",
     "url": "https://noyaml.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "edward",
+    "descendants": 478,
+    "time": 1695891472
   },
   {
     "rank": 10,
     "id": 37691232,
     "title": "WiFi without internet on a Southwest flight",
     "url": "https://jamesbvaughan.com/southwest-wifi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1756,
+    "by": "jamesbvaughan",
+    "descendants": 652,
+    "time": 1695915725
   }
 ]

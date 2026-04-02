@@ -4,99 +4,99 @@
     "id": 37512888,
     "title": "In a Git repository, where do your files live?",
     "url": "https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "todsacerdoti",
+    "descendants": 113,
+    "time": 1694716454
   },
   {
     "rank": 2,
     "id": 37515996,
     "title": "iNaturalist strikes out on its own",
     "url": "https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "kscottz",
+    "descendants": 78,
+    "time": 1694732836
   },
   {
     "rank": 3,
     "id": 37516523,
     "title": "Unity has seemingly silently removed its GitHub repo that tracks ToS changes",
     "url": "https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 682,
+    "by": "agluszak",
+    "descendants": 176,
+    "time": 1694736607
   },
   {
     "rank": 4,
     "id": 37517567,
     "title": "B612 Font Family",
     "url": "https://b612-font.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "OliverGilan",
+    "descendants": 94,
+    "time": 1694745183
   },
   {
     "rank": 5,
     "id": 37519418,
     "title": "Willingham sends Fables into the public domain",
     "url": "https://billwillingham.substack.com/p/willingham-sends-fables-into-the",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 733,
+    "by": "Tomte",
+    "descendants": 268,
+    "time": 1694760714
   },
   {
     "rank": 6,
     "id": 37520039,
     "title": "FindMyCat \u2013 Open-Source Pet Tracker",
     "url": "https://www.findmycat.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 615,
+    "by": "popey",
+    "descendants": 368,
+    "time": 1694765899
   },
   {
     "rank": 7,
     "id": 37520079,
     "title": "Unity\u2019s new pricing: A wake-up call on the importance of open source",
     "url": "https://ramatak.com/2023/09/15/unitys-new-pricing-a-wake-up-call-on-the-importance-of-open-source-in-gaming/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 736,
+    "by": "TMM2K",
+    "descendants": 700,
+    "time": 1694766299
   },
   {
     "rank": 8,
     "id": 37521710,
     "title": "TikTok fined \u20ac345M for breaking EU data law on children\u2019s accounts",
     "url": "https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "robin_reala",
+    "descendants": 314,
+    "time": 1694779347
   },
   {
     "rank": 9,
     "id": 37522858,
     "title": "Carrefour puts \u2018shrinkflation\u2019 price warnings on food to shame brands",
     "url": "https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "cainxinth",
+    "descendants": 512,
+    "time": 1694785487
   },
   {
     "rank": 10,
     "id": 37526047,
     "title": "My favourite API is a zipfile on the European Central Bank's website",
     "url": "https://csvbase.com/blog/5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1024,
+    "by": "qsantos",
+    "descendants": 265,
+    "time": 1694797155
   }
 ]
