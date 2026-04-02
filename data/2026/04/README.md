@@ -11,7 +11,7 @@ Top 10 Hacker News stories for each day in April 2026.
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 115 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [65 comments](https://news.ycombinator.com/item?id=47611721)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 116 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [66 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 107 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [49 comments](https://news.ycombinator.com/item?id=47612601)
 3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 82 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [17 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 965 points by [apitman](https://news.ycombinator.com/user?id=apitman), [818 comments](https://news.ycombinator.com/item?id=47603657)
