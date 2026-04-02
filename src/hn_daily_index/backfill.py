@@ -51,7 +51,7 @@ API_DELAY = 0.2  # seconds between HN API requests
 STORY_RE = re.compile(
     r'<span class="storylink"><a href="(?P<url>[^"]*)">'
     r"(?P<title>.*?)</a></span>.*?"
-    r'<span class="postlink"><a href="https?://news\.ycombinator\.com/item\?id=(?P<id>\d+)"',
+    r'<span class="(?:postlink|commentlink)"><a href="https?://news\.ycombinator\.com/item\?id=(?P<id>\d+)"',
     re.DOTALL,
 )
 
