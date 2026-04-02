@@ -4,99 +4,99 @@
     "id": 36020717,
     "title": "Show HN: Trogon \u2013 An automatic TUI for command line apps",
     "url": "https://github.com/Textualize/trogon",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "willm",
+    "descendants": 70,
+    "time": 1684676204
   },
   {
     "rank": 2,
     "id": 36021495,
     "title": "The DRAKON Language",
     "url": "https://drakonhub.com/en/drakon",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "brudgers",
+    "descendants": 38,
+    "time": 1684680552
   },
   {
     "rank": 3,
     "id": 36024209,
     "title": "How much memory do you need to run 1M concurrent tasks?",
     "url": "https://pkolaczk.github.io/memory-consumption-of-async/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "pkolaczk",
+    "descendants": 214,
+    "time": 1684699104
   },
   {
     "rank": 4,
     "id": 36024503,
     "title": "PrivateGPT",
     "url": "https://github.com/imartinez/privateGPT",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "antouank",
+    "descendants": 142,
+    "time": 1684701606
   },
   {
     "rank": 5,
     "id": 36024887,
     "title": "Noise is all around us",
     "url": "https://thewalrus.ca/noise-ethics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "akeck",
+    "descendants": 163,
+    "time": 1684704785
   },
   {
     "rank": 6,
     "id": 36025507,
     "title": "Modding Age of Empires II with a Sprite-Diffuser",
     "url": "https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 422,
+    "by": "serverlessmom",
+    "descendants": 124,
+    "time": 1684710866
   },
   {
     "rank": 7,
     "id": 36025611,
     "title": "Beej's Guide to Network Programming",
     "url": "https://beej.us/guide/bgnet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "mutant_glofish",
+    "descendants": 88,
+    "time": 1684711721
   },
   {
     "rank": 8,
     "id": 36026038,
     "title": "Apple is rewriting Foundation in Swift",
     "url": "https://github.com/apple/swift-foundation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "hnand",
+    "descendants": 250,
+    "time": 1684715479
   },
   {
     "rank": 9,
     "id": 36026220,
     "title": "Deep sleep may be the best defense against Alzheimer\u2019s",
     "url": "https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "lxm",
+    "descendants": 241,
+    "time": 1684717192
   },
   {
     "rank": 10,
     "id": 36026662,
     "title": "Same Stop: Life after 26 years as a programmer for Apple",
     "url": "https://www.engineersneedart.com/blog/samestop/samestop.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 842,
+    "by": "chmaynard",
+    "descendants": 424,
+    "time": 1684721505
   }
 ]

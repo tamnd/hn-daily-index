@@ -4,99 +4,99 @@
     "id": 35914447,
     "title": "Pigz: Parallel gzip for modern multi-processor, multi-core machines",
     "url": "https://zlib.net/pigz/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "ingve",
+    "descendants": 190,
+    "time": 1683888700
   },
   {
     "rank": 2,
     "id": 35920082,
     "title": "Windmill: Open-source developer platform to turn scripts into workflows and UIs",
     "url": "https://github.com/windmill-labs/windmill",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "InitEnabler",
+    "descendants": 109,
+    "time": 1683915644
   },
   {
     "rank": 3,
     "id": 35921375,
     "title": "GitHub Copilot Chat Leaked Prompt",
     "url": "https://twitter.com/marvinvonhagen/status/1657060506371346432",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 910,
+    "by": "marvinvonhagen",
+    "descendants": 609,
+    "time": 1683920939
   },
   {
     "rank": 4,
     "id": 35924293,
     "title": "GitHub Copilot Leaked Prompt",
     "url": "https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "tim_sw",
+    "descendants": 4,
+    "time": 1683938693
   },
   {
     "rank": 5,
     "id": 35924495,
     "title": "RNA repair mechanism discovered in humans",
     "url": "https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "wglb",
+    "descendants": 78,
+    "time": 1683940843
   },
   {
     "rank": 6,
     "id": 35925124,
     "title": "Intel One Mono Typeface",
     "url": "https://github.com/intel/intel-one-mono",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "tehnub",
+    "descendants": 220,
+    "time": 1683947759
   },
   {
     "rank": 7,
     "id": 35927813,
     "title": "Rails Cheat Sheet",
     "url": "https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "joemasilotti",
+    "descendants": 133,
+    "time": 1683981696
   },
   {
     "rank": 8,
     "id": 35929122,
     "title": "Prompt injection explained, with video, slides, and a transcript",
     "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 508,
+    "by": "sebg",
+    "descendants": 175,
+    "time": 1683990671
   },
   {
     "rank": 9,
     "id": 35929348,
     "title": "TikTok Owner Had 'Backdoor' for CCP Access to US Data, Lawsuit Alleges",
     "url": "https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 569,
+    "by": "consumer451",
+    "descendants": 397,
+    "time": 1683991984
   },
   {
     "rank": 10,
     "id": 35930518,
     "title": "HP disables customers\u2019 printers if they use ink cartridges from cheaper rivals",
     "url": "https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 662,
+    "by": "jeremylevy",
+    "descendants": 446,
+    "time": 1683998651
   }
 ]

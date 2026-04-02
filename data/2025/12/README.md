@@ -10,6 +10,7 @@ Top 10 Hacker News stories for each day in December 2025.
 - [2025-12-26 (Friday)](#2025-12-26)
 - [2025-12-25 (Thursday)](#2025-12-25)
 - [2025-12-24 (Wednesday)](#2025-12-24)
+- [2025-12-23 (Tuesday)](#2025-12-23)
 - [2025-12-22 (Monday)](#2025-12-22)
 - [2025-12-21 (Sunday)](#2025-12-21)
 - [2025-12-20 (Saturday)](#2025-12-20)
@@ -154,6 +155,21 @@ Top 10 Hacker News stories for each day in December 2025.
 8. [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/) (macrumors.com) - 322 points by [danso](https://news.ycombinator.com/user?id=danso), [251 comments](https://news.ycombinator.com/item?id=46370012)
 9. [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router) (blog.ui.com) - 472 points by [flurdy](https://news.ycombinator.com/user?id=flurdy), [430 comments](https://news.ycombinator.com/item?id=46371135)
 10. [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) (cnbc.com) - 699 points by [nickrubin](https://news.ycombinator.com/user?id=nickrubin), [404 comments](https://news.ycombinator.com/item?id=46379183)
+
+## 2025-12-23
+
+*Tuesday*
+
+1. [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/) (computerhistory.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46313962)
+2. [Claude Code gets native LSP support](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46355165)
+3. [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) (404media.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46355548)
+4. [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7) (z.ai) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46357287)
+5. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (jalammar.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46357675)
+6. [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html) (brooker.co.za) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46359120)
+7. [Inside CECOT – 60 Minutes [video]](https://archive.org/details/insidececot) (archive.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46361024)
+8. [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/) (boringsql.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46363360)
+9. [Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server) (phoronix.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46366998)
+10. [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=46367224)
 
 ## 2025-12-22
 

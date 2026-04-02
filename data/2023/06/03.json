@@ -4,99 +4,99 @@
     "id": 36165513,
     "title": "The Analog Thing: an open source, educational, low-cost modern analog computer",
     "url": "https://the-analog-thing.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 272,
+    "by": "uticus",
+    "descendants": 130,
+    "time": 1685715953
   },
   {
     "rank": 2,
     "id": 36166649,
     "title": "System76's coreboot open firmware manages to disable Intel ME for Raptor Lake",
     "url": "https://blog.system76.com/post/major-updates-for-system76-open-firmware-june-2023",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 278,
+    "by": "airhangerf15",
+    "descendants": 98,
+    "time": 1685720503
   },
   {
     "rank": 3,
     "id": 36168068,
     "title": "He made linear algebra fun",
     "url": "https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "bikenaga",
+    "descendants": 46,
+    "time": 1685726598
   },
   {
     "rank": 4,
     "id": 36169019,
     "title": "Speed running Monkey Island",
     "url": "https://www.grumpygamer.com/speed_running_mi",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "mepian",
+    "descendants": 73,
+    "time": 1685731028
   },
   {
     "rank": 5,
     "id": 36169954,
     "title": "Brute.Fail: Watch brute force attacks fail in real time",
     "url": "https://brute.fail/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 728,
+    "by": "mike_d",
+    "descendants": 259,
+    "time": 1685735396
   },
   {
     "rank": 6,
     "id": 36172461,
     "title": "Intelligent Brains Take Longer to Solve Difficult Problems",
     "url": "https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "phnofive",
+    "descendants": 230,
+    "time": 1685751695
   },
   {
     "rank": 7,
     "id": 36173020,
     "title": "The NixOS Foundation\u2019s Call to Action: S3 Costs Require Community Support",
     "url": "https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "ghuntley",
+    "descendants": 310,
+    "time": 1685758226
   },
   {
     "rank": 8,
     "id": 36173441,
     "title": "Decoding small QR codes by hand (2012)",
     "url": "https://blog.qartis.com/decoding-small-qr-codes-by-hand/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "terryds",
+    "descendants": 69,
+    "time": 1685763213
   },
   {
     "rank": 9,
     "id": 36174801,
     "title": "Red Hat dropping support for LibreOffice",
     "url": "https://lwn.net/ml/fedora-devel/20230601183054.12057.45907@mailman01.iad2.fedoraproject.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "5e92cb50239222b",
+    "descendants": 309,
+    "time": 1685781045
   },
   {
     "rank": 10,
     "id": 36175000,
     "title": "Fq: Jq for Binary Formats",
     "url": "https://github.com/wader/fq",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 670,
+    "by": "ingve",
+    "descendants": 114,
+    "time": 1685783639
   }
 ]

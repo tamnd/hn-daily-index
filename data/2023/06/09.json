@@ -4,99 +4,99 @@
     "id": 36246547,
     "title": "Average color of the NYC sky every 5 minutes",
     "url": "https://nskyc.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 540,
+    "by": "sethbannon",
+    "descendants": 109,
+    "time": 1686249407
   },
   {
     "rank": 2,
     "id": 36248633,
     "title": "Understanding GPT tokenizers",
     "url": "https://simonwillison.net/2023/Jun/8/gpt-tokenizers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "simonw",
+    "descendants": 130,
+    "time": 1686256830
   },
   {
     "rank": 3,
     "id": 36249671,
     "title": "Mechanical Apple Watch from real e-waste Apple Watch",
     "url": "https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "zdw",
+    "descendants": 173,
+    "time": 1686260900
   },
   {
     "rank": 4,
     "id": 36254086,
     "title": "Reddark: Website to watch subreddits going dark",
     "url": "https://reddark.netlify.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 526,
+    "by": "morjom",
+    "descendants": 364,
+    "time": 1686292288
   },
   {
     "rank": 5,
     "id": 36254172,
     "title": "ArchiveTeam has saved over 11.2B Reddit links",
     "url": "https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 549,
+    "by": "susanthenerd",
+    "descendants": 159,
+    "time": 1686292932
   },
   {
     "rank": 6,
     "id": 36256167,
     "title": "Apollo Back end just made public",
     "url": "https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "jviide",
+    "descendants": 237,
+    "time": 1686309598
   },
   {
     "rank": 7,
     "id": 36257523,
     "title": "June 2023 Data Dump is missing",
     "url": "https://meta.stackexchange.com/a/390023/6212",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 556,
+    "by": "JasonPunyon",
+    "descendants": 257,
+    "time": 1686317306
   },
   {
     "rank": 8,
     "id": 36257981,
     "title": "Shreddit is a Python program to remove all your Reddit comments",
     "url": "https://github.com/x89/Shreddit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "wgx",
+    "descendants": 237,
+    "time": 1686319499
   },
   {
     "rank": 9,
     "id": 36259930,
     "title": "Archive your Reddit data before it's too late",
     "url": "https://xavd.id/blog/post/archive-your-reddit-data/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 459,
+    "by": "xavdid",
+    "descendants": 382,
+    "time": 1686326793
   },
   {
     "rank": 10,
     "id": 36264232,
     "title": "Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA",
     "url": "https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 667,
+    "by": "coloneltcb",
+    "descendants": 479,
+    "time": 1686345166
   }
 ]

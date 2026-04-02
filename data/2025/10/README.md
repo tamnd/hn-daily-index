@@ -7,6 +7,7 @@ Top 10 Hacker News stories for each day in October 2025.
 - [2025-10-29 (Wednesday)](#2025-10-29)
 - [2025-10-28 (Tuesday)](#2025-10-28)
 - [2025-10-27 (Monday)](#2025-10-27)
+- [2025-10-26 (Sunday)](#2025-10-26)
 - [2025-10-25 (Saturday)](#2025-10-25)
 - [2025-10-24 (Friday)](#2025-10-24)
 - [2025-10-23 (Thursday)](#2025-10-23)
@@ -109,6 +110,21 @@ Top 10 Hacker News stories for each day in October 2025.
 8. [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html) (pyfound.blogspot.com) - 735 points by [lumpa](https://news.ycombinator.com/user?id=lumpa), [770 comments](https://news.ycombinator.com/item?id=45721904)
 9. [It's insulting to read AI-generated blog posts](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/) (blog.pabloecortez.com) - 1.3k points by [speckx](https://news.ycombinator.com/user?id=speckx), [540 comments](https://news.ycombinator.com/item?id=45722069)
 10. [Claude for Excel](https://www.claude.com/claude-for-excel) (claude.com) - 684 points by [meetpateltech](https://news.ycombinator.com/user?id=meetpateltech), [459 comments](https://news.ycombinator.com/item?id=45722639)
+
+## 2025-10-26
+
+*Sunday*
+
+1. [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search) (hrc.contentdm.oclc.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45630599)
+2. [A bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/) (elanapearl.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45684253)
+3. [The Journey Before main()](https://amit.prasad.me/blog/before-main) (amit.prasad.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45706380)
+4. [California invests in battery energy storage, leaving rolling blackouts behind](https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert) (latimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45706527)
+5. [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) (0xkato.xyz) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45707658)
+6. [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE) (nrc.gov) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45708292)
+7. [Pico-Banana-400k](https://github.com/apple/pico-banana-400k) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45708524)
+8. [Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time](https://adventofcode.com/2025/about#faq_num_days) (adventofcode.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45710006)
+9. [You already have a Git server](https://maurycyz.com/misc/easy_git/) (maurycyz.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45710721)
+10. [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html) (mail-index.netbsd.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=45711279)
 
 ## 2025-10-25
 
