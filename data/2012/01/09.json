@@ -4,99 +4,99 @@
     "id": 3440182,
     "title": "Philosopher invents clever iPhone case",
     "url": "http://www.kickstarter.com/projects/1250439912/popsockets-iphone-case-it-pops-props-kicks-and-cli",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 172,
+    "by": "boredguy8",
+    "descendants": 64,
+    "time": 1326048686
   },
   {
     "rank": 2,
     "id": 3440423,
     "title": "Feynman on explanations",
     "url": "http://lesswrong.com/r/discussion/lw/99c/transcript_richard_feynman_on_why_questions/#thingrow_t3_99c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 202,
+    "by": "gwern",
+    "descendants": 54,
+    "time": 1326054540
   },
   {
     "rank": 3,
     "id": 3440878,
     "title": "Introducing \"Python for Android\"",
     "url": "http://txzone.net/2012/01/introducing-python-for-android/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 191,
+    "by": "moreati",
+    "descendants": 11,
+    "time": 1326065368
   },
   {
     "rank": 4,
     "id": 3441451,
     "title": "Hacked memo leaked: Apple, Nokia, RIM supply backdoors for government?",
     "url": "http://blogs.computerworld.com/19531/hacked_memo_leaked_apple_nokia_rim_supply_backdoors_for_govt_intercept",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "pash",
+    "descendants": 53,
+    "time": 1326083391
   },
   {
     "rank": 5,
     "id": 3442207,
     "title": "UK Government Betrayal of Open Standards Confirmed ",
     "url": "http://blogs.computerworlduk.com/open-enterprise/2012/01/uk-cabinet-office-betrayal-of-open-standards-confirmed/index.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "strawberryshake",
+    "descendants": 57,
+    "time": 1326110768
   },
   {
     "rank": 6,
     "id": 3442214,
     "title": "Complete, stand alone Stanford machine learning course notes",
     "url": "http://holehouse.org/mlclass/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "alexholehouse",
+    "descendants": 19,
+    "time": 1326111000
   },
   {
     "rank": 7,
     "id": 3442431,
     "title": "A simple guide for getting started with git",
     "url": "http://rogerdudler.github.com/git-guide/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 665,
+    "by": "Brajeshwar",
+    "descendants": 129,
+    "time": 1326116250
   },
   {
     "rank": 8,
     "id": 3443026,
     "title": "In 1951 there was a children's U-238 Atomic Energy Lab playset for $50",
     "url": "http://www.orau.org/ptp/collection/atomictoys/GilbertU238Lab.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "chaostheory",
+    "descendants": 96,
+    "time": 1326125660
   },
   {
     "rank": 9,
     "id": 3443538,
     "title": "Reddit successfully pressures Rep. Paul Ryan (R-WI) to back off support of SOPA",
     "url": "http://www.reddit.com/r/politics/comments/o9gq7/reddit_successfully_pressures_rep_paul_ryan_rwi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "chaosmachine",
+    "descendants": 90,
+    "time": 1326132179
   },
   {
     "rank": 10,
     "id": 3443942,
     "title": "The New Web Typography",
     "url": "http://ie.microsoft.com/testdrive/Graphics/opentype/opentype-fontbureau/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "cleverjake",
+    "descendants": 132,
+    "time": 1326138376
   }
 ]

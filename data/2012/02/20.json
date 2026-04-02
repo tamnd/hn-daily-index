@@ -4,99 +4,99 @@
     "id": 3609418,
     "title": "Parsing Techniques - A Practical Guide",
     "url": "http://dickgrune.com/Books/PTAPG_1st_Edition/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 158,
+    "by": "llambda",
+    "descendants": 20,
+    "time": 1329661945
   },
   {
     "rank": 2,
     "id": 3609741,
     "title": "The Great Web Framework Shootout \u2013 On GitHub",
     "url": "https://github.com/seedifferently/the-great-web-framework-shootout",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 167,
+    "by": "stesch",
+    "descendants": 72,
+    "time": 1329671944
   },
   {
     "rank": 3,
     "id": 3609912,
     "title": "Hackathons are nonsense",
     "url": "http://scripting.com/stories/2012/02/19/hackathonsAreNonsense.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 185,
+    "by": "PixelRobot",
+    "descendants": 71,
+    "time": 1329675748
   },
   {
     "rank": 4,
     "id": 3610718,
     "title": "How to Make and Use a Transparency Grenade",
     "url": "http://transparencygrenade.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 157,
+    "by": "tokenadult",
+    "descendants": 38,
+    "time": 1329693609
   },
   {
     "rank": 5,
     "id": 3611416,
     "title": "The shutdown of library.nu",
     "url": "http://sayamindu.randomink.org/ramblings-reloaded/2012/02/the-shutdown-of-library-nu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "tathagatadg",
+    "descendants": 71,
+    "time": 1329715435
   },
   {
     "rank": 6,
     "id": 3611794,
     "title": "Why I Still Use Emacs",
     "url": "http://gnuvince.wordpress.com/2012/02/19/why-i-still-use-emacs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 178,
+    "by": "markokocic",
+    "descendants": 108,
+    "time": 1329728130
   },
   {
     "rank": 7,
     "id": 3612200,
     "title": "Amon - server monitoring, simplified logging and error tracking for web apps",
     "url": "http://amon.cx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 168,
+    "by": "ajaxaddicted",
+    "descendants": 35,
+    "time": 1329740525
   },
   {
     "rank": 8,
     "id": 3612431,
     "title": "Splash screens == sloth ",
     "url": "http://asserttrue.blogspot.com/2012/02/splash-screens-sloth.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 258,
+    "by": "kylehansen",
+    "descendants": 242,
+    "time": 1329747267
   },
   {
     "rank": 9,
     "id": 3613482,
     "title": "From the IE Team: Google Bypassing User Privacy Settings",
     "url": "http://blogs.msdn.com/b/ie/archive/2012/02/20/google-bypassing-user-privacy-settings.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "ecaron",
+    "descendants": 174,
+    "time": 1329765577
   },
   {
     "rank": 10,
     "id": 3614037,
     "title": "Twitter to move away from Hashbangs",
     "url": "http://storify.com/timhaines/hashbang-conversation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "ChrisArchitect",
+    "descendants": 77,
+    "time": 1329773756
   }
 ]

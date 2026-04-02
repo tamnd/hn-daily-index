@@ -4,99 +4,99 @@
     "id": 3509883,
     "title": "Google at GitHub",
     "url": "https://github.com/google/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "adambyrtek",
+    "descendants": 85,
+    "time": 1327503201
   },
   {
     "rank": 2,
     "id": 3511100,
     "title": "Lisp in 32 lines of Ruby",
     "url": "http://blog.fogus.me/2012/01/25/lisp-in-40-lines-of-ruby/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "johndcook",
+    "descendants": 54,
+    "time": 1327517539
   },
   {
     "rank": 3,
     "id": 3511365,
     "title": "HP open sources Enyo javascript framework from webOS, now cross platform",
     "url": "http://enyojs.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "ryanwatkins",
+    "descendants": 27,
+    "time": 1327520752
   },
   {
     "rank": 4,
     "id": 3511437,
     "title": "The Inside Story of a Small Startup Acquisition",
     "url": "http://www.softwarebyrob.com/2012/01/25/the-inside-story-of-a-small-startup-acquisition-part-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "aaronbrethorst",
+    "descendants": 51,
+    "time": 1327521512
   },
   {
     "rank": 5,
     "id": 3512842,
     "title": "Reddit: 2012 State of the Servers",
     "url": "http://blog.reddit.com/2012/01/january-2012-state-of-servers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "blutonium",
+    "descendants": 56,
+    "time": 1327549904
   },
   {
     "rank": 6,
     "id": 3513165,
     "title": "Show HN: my database engine for GPU",
     "url": "https://sourceforge.net/projects/alenka/files/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "antonmks",
+    "descendants": 60,
+    "time": 1327560950
   },
   {
     "rank": 7,
     "id": 3513318,
     "title": "Cars kill cities",
     "url": "http://progressivetransit.wordpress.com/2012/01/25/cars-kill-cities/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 553,
+    "by": "ajju",
+    "descendants": 336,
+    "time": 1327566009
   },
   {
     "rank": 8,
     "id": 3514721,
     "title": "Fun with math: Dividing one by 998001 yields a surprising result",
     "url": "http://www.iheartchaos.com/post/16393143676/fun-with-math-dividing-one-by-998001-yields-a",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 754,
+    "by": "kenver",
+    "descendants": 90,
+    "time": 1327595545
   },
   {
     "rank": 9,
     "id": 3515257,
     "title": "Scaling GitHub",
     "url": "http://zachholman.com/talk/scaling-github",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "pascal07",
+    "descendants": 67,
+    "time": 1327602304
   },
   {
     "rank": 10,
     "id": 3515307,
     "title": "Applications open for Y Combinator's summer 2012 funding cycle",
     "url": "http://ycombinator.com/apply.html?s2012",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "pg",
+    "descendants": 106,
+    "time": 1327602965
   }
 ]

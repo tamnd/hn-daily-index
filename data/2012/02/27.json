@@ -4,99 +4,99 @@
     "id": 3635489,
     "title": "Innovation and the Bell Labs Miracle",
     "url": "https://www.nytimes.com/2012/02/26/opinion/sunday/innovation-and-the-bell-labs-miracle.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "gkanai",
+    "descendants": 53,
+    "time": 1330259984
   },
   {
     "rank": 2,
     "id": 3636618,
     "title": "If you want reproducible science, the software needs to be open source",
     "url": "http://arstechnica.com/science/news/2012/02/science-code-should-be-open-source-according-to-editorial.ars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "llambda",
+    "descendants": 68,
+    "time": 1330286803
   },
   {
     "rank": 3,
     "id": 3637124,
     "title": "YouTube Identifies Birdsong As Copyrighted Music",
     "url": "http://c4sif.org/2012/02/youtube-identifies-birdsong-as-copyrighted-music/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "frankydp",
+    "descendants": 79,
+    "time": 1330297910
   },
   {
     "rank": 4,
     "id": 3637244,
     "title": "WikiLeaks begins publishing 5 million emails from Stratfor",
     "url": "http://pastebin.com/D7sR4zhT",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "rdp",
+    "descendants": 128,
+    "time": 1330301130
   },
   {
     "rank": 5,
     "id": 3637599,
     "title": "Gigabit Internet for $80",
     "url": "http://arstechnica.com/tech-policy/news/2012/02/gigabit-internet-for-80-the-unlikely-success-of-californias-sonicnet.ars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "Nogwater",
+    "descendants": 87,
+    "time": 1330311257
   },
   {
     "rank": 6,
     "id": 3638045,
     "title": "How To Build a Naive Bayes Classifier",
     "url": "http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "zhiping",
+    "descendants": 37,
+    "time": 1330325670
   },
   {
     "rank": 7,
     "id": 3638455,
     "title": "Modafinil and Startups",
     "url": "http://swombat.com/2012/2/27/modafinil-and-startups",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "anthony_franco",
+    "descendants": 127,
+    "time": 1330337868
   },
   {
     "rank": 8,
     "id": 3638513,
     "title": "Open Web Device",
     "url": "http://www.openwebdevice.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "bergie",
+    "descendants": 94,
+    "time": 1330339664
   },
   {
     "rank": 9,
     "id": 3639047,
     "title": "Balsamiq integrates with UX.StackExchange.com",
     "url": "http://blogs.balsamiq.com/product/2012/02/27/uxstackexchange/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "asder1",
+    "descendants": 28,
+    "time": 1330352713
   },
   {
     "rank": 10,
     "id": 3639285,
     "title": "A Classic Startup Horror Story",
     "url": "http://venturebeat.com/2012/02/27/a-classic-startup-horror-story-the-ma-bait-and-switch/2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 231,
+    "by": "t3mp3st",
+    "descendants": 81,
+    "time": 1330356912
   }
 ]

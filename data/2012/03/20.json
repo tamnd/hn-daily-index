@@ -4,99 +4,99 @@
     "id": 3725302,
     "title": "The one interview question I always ask",
     "url": "http://codercofounder.wordpress.com/2012/03/19/the-one-interview-question-i-always-ask/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "ibagrak",
+    "descendants": 201,
+    "time": 1332180643
   },
   {
     "rank": 2,
     "id": 3726622,
     "title": "Coding Horror - Welcome to the Post PC Era",
     "url": "http://www.codinghorror.com/blog/2012/03/welcome-to-the-post-pc-era.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "kreutz",
+    "descendants": 292,
+    "time": 1332195854
   },
   {
     "rank": 3,
     "id": 3727121,
     "title": "All of Einstein's writings are now online",
     "url": "http://alberteinstein.info/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "jamesjyu",
+    "descendants": 23,
+    "time": 1332202793
   },
   {
     "rank": 4,
     "id": 3728316,
     "title": "I'm burning out and I can't tell anyone",
     "url": "http://news.ycombinator.com/item?id=3728316",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "redhat",
+    "descendants": 191,
+    "time": 1332232480
   },
   {
     "rank": 5,
     "id": 3728664,
     "title": "The Starter, the Architect, the Debugger and the Finisher",
     "url": "http://jacquesmattheij.com/The+Starter+the+Architect+the+Debugger+and+the+Finisher",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "prez",
+    "descendants": 66,
+    "time": 1332241247
   },
   {
     "rank": 6,
     "id": 3728885,
     "title": "Functional Programming For The Rest of Us",
     "url": "http://www.defmacro.org/ramblings/fp.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "netvarun",
+    "descendants": 67,
+    "time": 1332247017
   },
   {
     "rank": 7,
     "id": 3729243,
     "title": "Make Any Webpage Look Like It Was Made By A 13 Year-Old In 1996",
     "url": "http://wonder-tonic.com/geocitiesizer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "dutchbrit",
+    "descendants": 77,
+    "time": 1332252171
   },
   {
     "rank": 8,
     "id": 3729315,
     "title": "Aziz Ansari releases DRM-free standup special for $5",
     "url": "http://azizansari.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "switz",
+    "descendants": 140,
+    "time": 1332253006
   },
   {
     "rank": 9,
     "id": 3730028,
     "title": "From YC Rejection to 10,000 Users in 1 Month (with stats)",
     "url": "http://blog.codiqa.com/2012/03/from-yc-rejection-to-10000-users-in-1-month/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 459,
+    "by": "yesimahuman",
+    "descendants": 120,
+    "time": 1332260187
   },
   {
     "rank": 10,
     "id": 3731033,
     "title": "Mailcheck.js - How we decreased sign up confirmation email bounces by 50%",
     "url": "http://blog.kicksend.com/how-we-decreased-sign-up-confirmation-email-b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 561,
+    "by": "skyfallsin",
+    "descendants": 100,
+    "time": 1332271438
   }
 ]

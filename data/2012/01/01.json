@@ -4,99 +4,99 @@
     "id": 3410990,
     "title": "The best things and stuff of 2011 by Fogus",
     "url": "http://blog.fogus.me/2011/12/31/the-best-things-and-stuff-of-2011/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 131,
+    "by": "liebke",
+    "descendants": 20,
+    "time": 1325344320
   },
   {
     "rank": 2,
     "id": 3411501,
     "title": "Happy New Year!",
     "url": "http://news.ycombinator.com/item?id=3411501",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 151,
+    "by": "RuchitGarg",
+    "descendants": 49,
+    "time": 1325357231
   },
   {
     "rank": 3,
     "id": 3411602,
     "title": "Full color laser TV",
     "url": "http://hackaday.com/2011/12/31/full-color-laser-tv/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 124,
+    "by": "DanBC",
+    "descendants": 23,
+    "time": 1325359719
   },
   {
     "rank": 4,
     "id": 3412047,
     "title": "Facebook hands out White Hat debit cards to hackers",
     "url": "http://news.cnet.com/8301-27080_3-57350464-245/facebook-hands-out-white-hat-debit-cards-to-hackers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 146,
+    "by": "FluidDjango",
+    "descendants": 30,
+    "time": 1325370394
   },
   {
     "rank": 5,
     "id": 3412255,
     "title": "Best Papers in Computer Science up to 2011",
     "url": "http://jeffhuang.com/best_paper_awards.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 154,
+    "by": "asciident",
+    "descendants": 19,
+    "time": 1325376046
   },
   {
     "rank": 6,
     "id": 3412643,
     "title": "Avoid Apress",
     "url": "http://www.mikeash.com/pyblog/avoid-apress.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 172,
+    "by": "jemeshsu",
+    "descendants": 75,
+    "time": 1325397134
   },
   {
     "rank": 7,
     "id": 3412864,
     "title": "Turning off Google search results indirection",
     "url": "http://webapps.stackexchange.com/questions/22291/turning-off-google-search-results-indirection",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "happyman",
+    "descendants": 85,
+    "time": 1325416064
   },
   {
     "rank": 8,
     "id": 3412891,
     "title": "There's no shame in code that is simply \"good enough\"",
     "url": "http://blog.phiz.net/theres-no-shame-in-good-enough",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 182,
+    "by": "Brajeshwar",
+    "descendants": 67,
+    "time": 1325418730
   },
   {
     "rank": 9,
     "id": 3412900,
     "title": "Ask HN: Who is Hiring? (January 2012)",
     "url": "http://news.ycombinator.com/item?id=3412900",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "whoishiring",
+    "descendants": 223,
+    "time": 1325419784
   },
   {
     "rank": 10,
     "id": 3413594,
     "title": "Show HN: Scrollorama",
     "url": "http://johnpolacek.github.com/scrollorama/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "johnpolacek",
+    "descendants": 51,
+    "time": 1325445274
   }
 ]

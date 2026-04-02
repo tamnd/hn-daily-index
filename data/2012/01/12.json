@@ -4,99 +4,99 @@
     "id": 3451375,
     "title": "Small teams are dramatically more efficient than large teams",
     "url": "http://spin.atomicobject.com/2012/01/11/small-teams-are-dramatically-more-efficient-than-large-teams/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 226,
+    "by": "gvb",
+    "descendants": 83,
+    "time": 1326283109
   },
   {
     "rank": 2,
     "id": 3452912,
     "title": "Google+ Hacker News Circle makes Search plus Your World Amazing",
     "url": "http://thesash.me/how-google-got-its-groove-back",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "thesash",
+    "descendants": 107,
+    "time": 1326305908
   },
   {
     "rank": 3,
     "id": 3453208,
     "title": "ClojureScript One",
     "url": "http://clojurescriptone.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "fogus",
+    "descendants": 45,
+    "time": 1326309693
   },
   {
     "rank": 4,
     "id": 3454179,
     "title": "Poll: Do you think HN should go dark in protest of SOPA?",
     "url": "http://news.ycombinator.com/item?id=3454179",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 772,
+    "by": "zitterbewegung",
+    "descendants": 281,
+    "time": 1326323859
   },
   {
     "rank": 5,
     "id": 3455360,
     "title": "Sublime Text 2 Beta released with Auto-complete and Improved UI",
     "url": "http://www.sublimetext.com/blog/articles/sublime-text-2-build-2165",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "sathishmanohar",
+    "descendants": 151,
+    "time": 1326351929
   },
   {
     "rank": 6,
     "id": 3455524,
     "title": "Ask PG: could you add the subdomain next to the article title?",
     "url": "http://news.ycombinator.com/item?id=3455524",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "tintin",
+    "descendants": 33,
+    "time": 1326356353
   },
   {
     "rank": 7,
     "id": 3455673,
     "title": "Why is C faster than Java: git vs JGit",
     "url": "http://marc.info/?l=git&m=124111702609723&w=2",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "acqq",
+    "descendants": 102,
+    "time": 1326361127
   },
   {
     "rank": 8,
     "id": 3456255,
     "title": "Twss.js",
     "url": "https://github.com/DanielRapp/twss.js",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "nezzor",
+    "descendants": 47,
+    "time": 1326375698
   },
   {
     "rank": 9,
     "id": 3456931,
     "title": "Jon Stewart Talks SOPA, at Last",
     "url": "http://thenextweb.com/socialmedia/2012/01/12/reddit-user-ventures-to-the-daily-show-gets-jon-stewart-to-talk-sopa-on-air/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "FluidDjango",
+    "descendants": 62,
+    "time": 1326386567
   },
   {
     "rank": 10,
     "id": 3456942,
     "title": "The author of SOPA is a copyright violator ",
     "url": "http://www.vice.com/read/lamar-smith-sopa-copyright-whoops",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "seanmalarkey",
+    "descendants": 39,
+    "time": 1326386748
   }
 ]

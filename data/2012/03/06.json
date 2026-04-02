@@ -4,99 +4,99 @@
     "id": 3666478,
     "title": "Docracy - Free (community curated) Legal Documents",
     "url": "http://www.docracy.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "carlsednaoui",
+    "descendants": 53,
+    "time": 1330955635
   },
   {
     "rank": 2,
     "id": 3666826,
     "title": "A single tweet page is 2.0 MB",
     "url": "http://mike.teczno.com/notes/bandwidth.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "skimbrel",
+    "descendants": 110,
+    "time": 1330961591
   },
   {
     "rank": 3,
     "id": 3666984,
     "title": "Learning to Code: The Roadmap I Wish I Had Been Given",
     "url": "http://jimmy-li.net/blog/?p=62",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "jyli7",
+    "descendants": 74,
+    "time": 1330964040
   },
   {
     "rank": 4,
     "id": 3667450,
     "title": "Induction: A Polyglot Database Client For Mac OS X ",
     "url": "http://inductionapp.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "matttthompson",
+    "descendants": 82,
+    "time": 1330970090
   },
   {
     "rank": 5,
     "id": 3668454,
     "title": "Sometimes the bug isn't in your code, it's in the CPU",
     "url": "http://leaf.dragonflybsd.org/mailarchive/kernel/2012-03/msg00000.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "there",
+    "descendants": 97,
+    "time": 1330983350
   },
   {
     "rank": 6,
     "id": 3669568,
     "title": "How to Hire a Programmer",
     "url": "http://www.codinghorror.com/blog/2012/03/how-to-hire-a-programmer.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "cruise02",
+    "descendants": 144,
+    "time": 1331005805
   },
   {
     "rank": 7,
     "id": 3669802,
     "title": "Dropping Prices Again-- EC2, RDS, EMR and ElastiCache",
     "url": "http://aws.typepad.com/aws/2012/03/dropping-prices-again-ec2-rds-emr-and-elasticache.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "jeffbarr",
+    "descendants": 71,
+    "time": 1331012757
   },
   {
     "rank": 8,
     "id": 3670178,
     "title": "Reddit vs Hacker News vs Twitter",
     "url": "http://williamedwardscoder.tumblr.com/post/18839832580/reddit-vs-hacker-news-vs-twitter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "willvarfar",
+    "descendants": 75,
+    "time": 1331022703
   },
   {
     "rank": 9,
     "id": 3672100,
     "title": "Google Play",
     "url": "http://play.google.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "IgorPartola",
+    "descendants": 107,
+    "time": 1331057351
   },
   {
     "rank": 10,
     "id": 3672526,
     "title": "Font Awesome, the pictographic font designed for use with Twitter Bootstrap",
     "url": "http://fortaweso.me/font-awesome/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 711,
+    "by": "fortawesome",
+    "descendants": 91,
+    "time": 1331063395
   }
 ]

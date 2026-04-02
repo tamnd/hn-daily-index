@@ -4,99 +4,99 @@
     "id": 3499902,
     "title": "The New French Hacker-Artist Underground",
     "url": "http://www.wired.com/magazine/2012/01/ff_ux/all/1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "friggeri",
+    "descendants": 16,
+    "time": 1327316160
   },
   {
     "rank": 2,
     "id": 3500196,
     "title": "Command and Conquer \u2013 Programming an RTS game in HTML5 and Javascript",
     "url": "http://www.adityaravishankar.com/2011/11/command-and-conquer-programming-an-rts-game-in-html5-and-javascript",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "PixelRobot",
+    "descendants": 63,
+    "time": 1327323861
   },
   {
     "rank": 3,
     "id": 3501388,
     "title": "Let's make TCP faster",
     "url": "http://googlecode.blogspot.com/2012/01/lets-make-tcp-faster.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "flardinois",
+    "descendants": 36,
+    "time": 1327342181
   },
   {
     "rank": 4,
     "id": 3501980,
     "title": "Mozilla releases version 0.1 of the Rust programming language",
     "url": "http://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "pcwalton",
+    "descendants": 82,
+    "time": 1327350382
   },
   {
     "rank": 5,
     "id": 3502216,
     "title": "Welcome Garry and Aaron",
     "url": "http://ycombinator.posterous.com/welcome-garry-and-aaron",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "pg",
+    "descendants": 34,
+    "time": 1327354216
   },
   {
     "rank": 6,
     "id": 3502896,
     "title": "Hastebin",
     "url": "http://hastebin.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "neilparikh",
+    "descendants": 67,
+    "time": 1327366067
   },
   {
     "rank": 7,
     "id": 3503896,
     "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
     "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "DanielRibeiro",
+    "descendants": 45,
+    "time": 1327391600
   },
   {
     "rank": 8,
     "id": 3504434,
     "title": "Show HN: I'm tired of corrupt US politicians, so I created this",
     "url": "http://www.politicianmarket.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "pmarket",
+    "descendants": 144,
+    "time": 1327408452
   },
   {
     "rank": 9,
     "id": 3504476,
     "title": "Is My MacBook Pro Always Listening?",
     "url": "http://brianpress.heroku.com/blog/2012/01/23/is-my-macbook-pro-always-listening/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "brianshumate",
+    "descendants": 105,
+    "time": 1327409481
   },
   {
     "rank": 10,
     "id": 3504822,
     "title": "Introducing the HUD. Say hello to the future of the menu",
     "url": "http://www.markshuttleworth.com/archives/939",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "Symmetry",
+    "descendants": 198,
+    "time": 1327415095
   }
 ]

@@ -4,99 +4,99 @@
     "id": 3641094,
     "title": "Key Techdirt SOPA/PIPA Post Censored By Bogus DMCA Takedown Notice",
     "url": "http://www.techdirt.com/articles/20120223/15102217856/key-techdirt-sopapipa-post-censored-bogus-dmca-takedown-notice.shtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 206,
+    "by": "TDL",
+    "descendants": 29,
+    "time": 1330384746
   },
   {
     "rank": 2,
     "id": 3643569,
     "title": "About normalize.css: a modern, HTML5-ready alternative to CSS resets",
     "url": "http://nicolasgallagher.com/about-normalize-css/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "necolas",
+    "descendants": 23,
+    "time": 1330444726
   },
   {
     "rank": 3,
     "id": 3643749,
     "title": "Submarine Cable Map",
     "url": "http://www.submarinecablemap.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "T-zex",
+    "descendants": 109,
+    "time": 1330447115
   },
   {
     "rank": 4,
     "id": 3644870,
     "title": "Ask HN: Help a Hacker Out",
     "url": "http://news.ycombinator.com/item?id=3644870",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 263,
+    "by": "lesterfremn",
+    "descendants": 94,
+    "time": 1330461656
   },
   {
     "rank": 5,
     "id": 3645219,
     "title": "Comparing PHP, Perl, Python and Ruby",
     "url": "http://hyperpolyglot.org/scripting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "charlax",
+    "descendants": 87,
+    "time": 1330466212
   },
   {
     "rank": 6,
     "id": 3646631,
     "title": "Raspberri PI Release Announcement",
     "url": "http://www.raspberrypi.org/#foundation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 543,
+    "by": "aespinoza",
+    "descendants": 255,
+    "time": 1330495210
   },
   {
     "rank": 7,
     "id": 3646858,
     "title": "Standing invitation: if you want to talk software, I want to talk to you",
     "url": "http://www.kalzumeus.com/standing-invitation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "karterk",
+    "descendants": 21,
+    "time": 1330499583
   },
   {
     "rank": 8,
     "id": 3647912,
     "title": "Windows 8 Consumer Preview released.",
     "url": "http://windows.microsoft.com/en-US/windows-8/iso",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "klausa",
+    "descendants": 200,
+    "time": 1330526050
   },
   {
     "rank": 9,
     "id": 3648370,
     "title": "Verisign seizes .com domain registered via foreign registrar",
     "url": "http://blog.easydns.org/2012/02/29/verisign-seizes-com-domain-registered-via-foreign-registrar-on-behalf-of-us-authorities/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 387,
+    "by": "StuntPope",
+    "descendants": 147,
+    "time": 1330532569
   },
   {
     "rank": 10,
     "id": 3648577,
     "title": "TSA: Fail",
     "url": "http://gmancasefile.blogspot.in/2012/01/tsa-fail.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 452,
+    "by": "vamsee",
+    "descendants": 116,
+    "time": 1330534966
   }
 ]

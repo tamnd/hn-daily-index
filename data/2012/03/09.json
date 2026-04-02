@@ -4,99 +4,99 @@
     "id": 3680398,
     "title": "The Evolution of a Python Programmer",
     "url": "https://gist.github.com/289467",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "jimhoff11",
+    "descendants": 40,
+    "time": 1331224983
   },
   {
     "rank": 2,
     "id": 3681807,
     "title": "Live ships map",
     "url": "http://www.marinetraffic.com/ais/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "jan-hocevar",
+    "descendants": 51,
+    "time": 1331242866
   },
   {
     "rank": 3,
     "id": 3682099,
     "title": "New Reddit CEO reporting for duty",
     "url": "http://blog.reddit.com/2012/03/new-reddit-ceo-reporting-for-duty.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "hornokplease",
+    "descendants": 41,
+    "time": 1331247182
   },
   {
     "rank": 4,
     "id": 3682280,
     "title": "Kaspersky: Duqu Trojan uses 'unknown programming language'",
     "url": "http://www.zdnet.com/blog/security/kaspersky-duqu-trojan-uses-unknown-programming-language/10625",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "Slimy",
+    "descendants": 118,
+    "time": 1331250404
   },
   {
     "rank": 5,
     "id": 3682482,
     "title": "A fresh new Dropbox on the web",
     "url": "http://blog.dropbox.com/?p=1005",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "siavosh",
+    "descendants": 46,
+    "time": 1331255750
   },
   {
     "rank": 6,
     "id": 3683588,
     "title": "Linus Torvalds: Programs exist for their users",
     "url": "https://lkml.org/lkml/2012/3/8/495",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "CJefferson",
+    "descendants": 127,
+    "time": 1331288569
   },
   {
     "rank": 7,
     "id": 3683682,
     "title": "Leaked: Police Plan to Raid The Pirate Bay",
     "url": "http://torrentfreak.com/police-plans-to-raid-the-pirate-bay-120309/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "webandrew",
+    "descendants": 93,
+    "time": 1331292593
   },
   {
     "rank": 8,
     "id": 3683987,
     "title": "Kara Is Self-Aware",
     "url": "http://www.wired.com/gamelife/2012/03/kara-quantic-dream/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "ca98am79",
+    "descendants": 155,
+    "time": 1331300738
   },
   {
     "rank": 9,
     "id": 3684515,
     "title": "Here is why vim uses the hjkl keys as arrow keys",
     "url": "http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 478,
+    "by": "freestyler",
+    "descendants": 98,
+    "time": 1331308405
   },
   {
     "rank": 10,
     "id": 3685444,
     "title": "Paul Graham Keynote at PyCon",
     "url": "http://brianrue.wordpress.com/2012/03/09/pycon-2012-notes-paul-graham-keynote/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "brianr",
+    "descendants": 119,
+    "time": 1331319604
   }
 ]

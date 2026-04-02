@@ -4,99 +4,99 @@
     "id": 3479685,
     "title": "Amazon DynamoDB \u2013 a Fast and Scalable NoSQL Database Service from AWS",
     "url": "http://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "werner",
+    "descendants": 126,
+    "time": 1326895676
   },
   {
     "rank": 2,
     "id": 3480635,
     "title": "Facebook Timeline is too awful to be an accident",
     "url": "http://jeffdechambeau.com/friending-fast-and-slow.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "jeffdechambeau",
+    "descendants": 127,
+    "time": 1326906024
   },
   {
     "rank": 3,
     "id": 3481006,
     "title": "I'm Pirating the Next Version of Windows",
     "url": "http://littlebitofcode.com/2012/01/18/im-pirating-the-next-version-of-windows",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "jcnnghm",
+    "descendants": 258,
+    "time": 1326910570
   },
   {
     "rank": 4,
     "id": 3481996,
     "title": "Sal Khan explains SOPA / PIPA",
     "url": "http://www.khanacademy.org/video/sopa-and-pipa?playlist=American+Civic",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "marcia",
+    "descendants": 65,
+    "time": 1326923485
   },
   {
     "rank": 5,
     "id": 3482333,
     "title": "The Pirate Bay's statement on PIPA/SOPA",
     "url": "https://static.thepiratebay.org/legal/sopa.txt?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "llambda",
+    "descendants": 174,
+    "time": 1326928187
   },
   {
     "rank": 6,
     "id": 3483913,
     "title": "Maddox - I hope SOPA passes",
     "url": "http://maddox.xmission.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 569,
+    "by": "CWIZO",
+    "descendants": 198,
+    "time": 1326969229
   },
   {
     "rank": 7,
     "id": 3484674,
     "title": "Death sentence for Iranian web programmer",
     "url": "http://thenextweb.com/me/2012/01/19/death-sentence-for-iranian-programmer-accused-of-developing-software-used-by-porn-sites/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "waitwhat",
+    "descendants": 109,
+    "time": 1326984769
   },
   {
     "rank": 8,
     "id": 3485186,
     "title": "The Trello Tech Stack",
     "url": "http://blog.fogcreek.com/the-trello-tech-stack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "elehack",
+    "descendants": 93,
+    "time": 1326990911
   },
   {
     "rank": 9,
     "id": 3485933,
     "title": "A Word to the Resourceful",
     "url": "http://paulgraham.com/word.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "anateus",
+    "descendants": 168,
+    "time": 1326998789
   },
   {
     "rank": 10,
     "id": 3486268,
     "title": "Megaupload down, FBI Charges Seven With Online Piracy",
     "url": "http://online.wsj.com/article_email/SB10001424052970204616504577171060611948408-lMyQjAxMTAyMDEwOTExNDkyWj.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "waitwhat",
+    "descendants": 337,
+    "time": 1327002393
   }
 ]

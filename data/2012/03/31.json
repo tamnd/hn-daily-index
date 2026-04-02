@@ -4,99 +4,99 @@
     "id": 3775400,
     "title": "Java 9 with GPU processing, Java 10 will be all-OOP without primitives",
     "url": "http://www.javaworld.com/javaworld/jw-03-2012/120315-oracle-s-java-roadmap.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "Mitt",
+    "descendants": 134,
+    "time": 1333106443
   },
   {
     "rank": 2,
     "id": 3776527,
     "title": "Introducing Grunt",
     "url": "http://weblog.bocoup.com/introducing-grunt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "sant0sk1",
+    "descendants": 28,
+    "time": 1333122525
   },
   {
     "rank": 3,
     "id": 3777040,
     "title": "How we came back after being shut down in four days",
     "url": "http://blog.leaky.com/how-we-came-back-after-being-shut-down-in-fou",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "jasontraff",
+    "descendants": 86,
+    "time": 1333128039
   },
   {
     "rank": 4,
     "id": 3778158,
     "title": "#1 CSRF Is A Vulnerability In All Browsers",
     "url": "http://homakov.blogspot.com/2012/03/1-csrf-is-vulnerability-in-all-browsers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "homakov",
+    "descendants": 238,
+    "time": 1333142728
   },
   {
     "rank": 5,
     "id": 3778958,
     "title": "Learn to read a binary font by reading a story",
     "url": "http://dotsies.org/stories/the-lamplighter.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 196,
+    "by": "trogdoro",
+    "descendants": 128,
+    "time": 1333156876
   },
   {
     "rank": 6,
     "id": 3779493,
     "title": "5 + (-sqrt(1-x^2-(y-abs(x))^2))*cos(30*((1-x^2-(y-abs(x))^2)))",
     "url": "http://www.google.com/search?client=ubuntu&channel=fs&q=5+%2B+%28-sqrt%281-x^2-%28y-abs%28x%29%29^2%29%29*cos%2830*%28%281-x^2-%28y-abs%28x%29%29^2%29%29%29%2C+x+is+from+-1+to+1%2C+y+is+from+-1+to+1.5%2C+z+is+from+1+to+6&ie=utf-8&oe=utf-8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "sajithdilshan",
+    "descendants": 13,
+    "time": 1333172234
   },
   {
     "rank": 7,
     "id": 3779735,
     "title": "Confessions of a car salesman",
     "url": "http://www.edmunds.com/car-buying/confessions-of-a-car-salesman.phtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "nashequilibrium",
+    "descendants": 60,
+    "time": 1333179993
   },
   {
     "rank": 8,
     "id": 3779895,
     "title": "OSX For Hackers",
     "url": "https://gist.github.com/2260182",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "zackattack",
+    "descendants": 117,
+    "time": 1333185164
   },
   {
     "rank": 9,
     "id": 3780254,
     "title": "Charlie Stross on Girls Around Me",
     "url": "http://www.antipope.org/charlie/blog-static/2012/03/not-an-april-fool-1.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "bigiain",
+    "descendants": 104,
+    "time": 1333200443
   },
   {
     "rank": 10,
     "id": 3780448,
     "title": "Google maps 8bit quest mode.  A setup for 4/1 perhaps?",
     "url": "http://maps.google.com/maps?q=queens,+ny&hl=en&sll=37.0625,-95.677068&sspn=40.188298,71.630859&t=8&hnear=Queens,+New+York&z=11",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 455,
+    "by": "loucal",
+    "descendants": 105,
+    "time": 1333206283
   }
 ]

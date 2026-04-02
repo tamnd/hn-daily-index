@@ -4,99 +4,99 @@
     "id": 3542366,
     "title": "Wikipedia's list of lists of lists",
     "url": "http://en.wikipedia.org/wiki/List_of_lists_of_lists",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "mrsebastian",
+    "descendants": 50,
+    "time": 1328184426
   },
   {
     "rank": 2,
     "id": 3542646,
     "title": "UK chemist on Elsevier's ban on textmining",
     "url": "http://blogs.ch.cam.ac.uk/pmr/2011/11/25/the-scandal-of-publisher-forbidden-textmining-the-vision-denied/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "czam",
+    "descendants": 29,
+    "time": 1328190673
   },
   {
     "rank": 3,
     "id": 3544882,
     "title": "Jobseekers Invited to \u201cApply Via API\u201d",
     "url": "http://blog.programmableweb.com/2012/02/02/jobseekers-invited-to-apply-via-api/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "apievangelist",
+    "descendants": 108,
+    "time": 1328223001
   },
   {
     "rank": 4,
     "id": 3545457,
     "title": "Reuters totally clueless about the meaning of \"hacking\"",
     "url": "http://www.reuters.com/article/2012/02/03/idUS201473221420120203",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 215,
+    "by": "jchung",
+    "descendants": 80,
+    "time": 1328236431
   },
   {
     "rank": 5,
     "id": 3545548,
     "title": "My U.S. Border Nightmare",
     "url": "http://zakhomuth.com/my-us-border-nightmare",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "srl",
+    "descendants": 265,
+    "time": 1328238671
   },
   {
     "rank": 6,
     "id": 3546863,
     "title": "Hackful - A Hacker News for Europe",
     "url": "http://hackful.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "rayhano",
+    "descendants": 165,
+    "time": 1328272471
   },
   {
     "rank": 7,
     "id": 3547598,
     "title": "Anonymous intercepts confidential conference call between FBI and Scotland Yard",
     "url": "http://online.wsj.com/article/SB10001424052970203711104577200872061278502.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "tmrhmdv",
+    "descendants": 96,
+    "time": 1328285017
   },
   {
     "rank": 8,
     "id": 3547694,
     "title": "MusicForProgramming();",
     "url": "http://musicforprogramming.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "seanplaice",
+    "descendants": 180,
+    "time": 1328286315
   },
   {
     "rank": 9,
     "id": 3548445,
     "title": "Dear Boss: For a programmer, 10 minutes = 3 hours",
     "url": "http://edweissman.com/dear-boss-for-a-programmer-10-minutes-3-hours",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 699,
+    "by": "joshuacc",
+    "descendants": 157,
+    "time": 1328296853
   },
   {
     "rank": 10,
     "id": 3548824,
     "title": "Facebook hit git performance issue on large repository",
     "url": "http://thread.gmane.org/gmane.comp.version-control.git/189776",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "kaeso",
+    "descendants": 205,
+    "time": 1328301150
   }
 ]
