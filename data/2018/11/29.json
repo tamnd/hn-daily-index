@@ -4,99 +4,99 @@
     "id": 18554333,
     "title": "Dot Dot Considered Harmful",
     "url": "https://fuchsia.googlesource.com/docs/+/HEAD/the-book/dotdot.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "rohan1024",
+    "descendants": 173,
+    "time": 1543430644
   },
   {
     "rank": 2,
     "id": 18556775,
     "title": "How we spent two weeks hunting an NFS bug in the Linux kernel",
     "url": "https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "fanf2",
+    "descendants": 67,
+    "time": 1543448584
   },
   {
     "rank": 3,
     "id": 18556787,
     "title": "Show HN: Open-sourcing my wedding website on my first anniversary",
     "url": "https://github.com/rampatra/wedding-website",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "rampatra",
+    "descendants": 190,
+    "time": 1543448714
   },
   {
     "rank": 4,
     "id": 18557566,
     "title": "Lenovo to pay $7.3M for installing adware in laptops",
     "url": "https://www.hackread.com/lenovo-to-pay-fine-for-installing-adware-in-laptops/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "MagicPropmaker",
+    "descendants": 126,
+    "time": 1543458457
   },
   {
     "rank": 5,
     "id": 18557861,
     "title": "NES.css: 8-bit style CSS framework",
     "url": "https://bcrikko.github.io/NES.css/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 663,
+    "by": "RyanShook",
+    "descendants": 90,
+    "time": 1543462669
   },
   {
     "rank": 6,
     "id": 18558210,
     "title": "Strange earthquake waves rippled around Earth",
     "url": "https://www.nationalgeographic.com/science/2018/11/strange-earthquake-waves-rippled-around-world-earth-geology/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "curtis",
+    "descendants": 113,
+    "time": 1543467472
   },
   {
     "rank": 7,
     "id": 18559619,
     "title": "Advent of Code 2018",
     "url": "https://adventofcode.com/2018",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "rauhl",
+    "descendants": 94,
+    "time": 1543493475
   },
   {
     "rank": 8,
     "id": 18561587,
     "title": "Go 2, here we come",
     "url": "https://blog.golang.org/go2-here-we-come",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 816,
+    "by": "mdelias",
+    "descendants": 516,
+    "time": 1543510253
   },
   {
     "rank": 9,
     "id": 18562082,
     "title": "\u2018I\u2019m Broke and Mostly Friendless, and I\u2019ve Wasted My Whole Life\u2019",
     "url": "https://www.thecut.com/2018/11/im-broke-and-friendless-and-ive-wasted-my-whole-life.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 672,
+    "by": "petethomas",
+    "descendants": 635,
+    "time": 1543513728
   },
   {
     "rank": 10,
     "id": 18562096,
     "title": "New for AWS Lambda: Use Any Programming Language and Share Common Components",
     "url": "https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 480,
+    "by": "abd12",
+    "descendants": 211,
+    "time": 1543513837
   }
 ]

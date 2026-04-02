@@ -4,99 +4,99 @@
     "id": 18588697,
     "title": "The Friendship That Made Google Huge",
     "url": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "adrianhon",
+    "descendants": 101,
+    "time": 1543845098
   },
   {
     "rank": 2,
     "id": 18593407,
     "title": "The U.S. Yield Curve Has Inverted",
     "url": "https://www.bloomberg.com/opinion/articles/2018-12-03/u-s-yield-curve-just-inverted-that-s-huge",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 388,
+    "by": "acdanger",
+    "descendants": 265,
+    "time": 1543873484
   },
   {
     "rank": 3,
     "id": 18594564,
     "title": "Quora User Data Compromised",
     "url": "https://blog.quora.com/Quora-Security-Update?share=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1254,
+    "by": "joebeetee",
+    "descendants": 505,
+    "time": 1543882368
   },
   {
     "rank": 4,
     "id": 18595025,
     "title": "Firefox desktop market share now below 9%",
     "url": "https://netmarketshare.com/browser-market-share.aspx?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22browser%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22browsersDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222017-12%22%2C%22dateEnd%22%3A%222018-11%22%2C%22segments%22%3A%22-1000%22%7D",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 824,
+    "by": "ngokevin",
+    "descendants": 740,
+    "time": 1543886871
   },
   {
     "rank": 5,
     "id": 18595069,
     "title": "Microsoft is building a Chromium browser to replace Edge on Windows 10",
     "url": "https://www.windowscentral.com/microsoft-building-chromium-powered-web-browser-windows-10",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1061,
+    "by": "rattt",
+    "descendants": 733,
+    "time": 1543887234
   },
   {
     "rank": 6,
     "id": 18598544,
     "title": "Absolute Beginner's Guide to Emacs (2012)",
     "url": "http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "sytelus",
+    "descendants": 257,
+    "time": 1543924011
   },
   {
     "rank": 7,
     "id": 18599728,
     "title": "What we learned from 3 years of bra engineering, and what's next",
     "url": "https://bratheory.com/what-we-learned-and-whats-next/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 409,
+    "by": "hazelynut",
+    "descendants": 225,
+    "time": 1543934327
   },
   {
     "rank": 8,
     "id": 18600950,
     "title": "Announcing Open Source of WPF, Windows Forms, and WinUI",
     "url": "https://blogs.windows.com/buildingapps/2018/12/04/announcing-open-source-of-wpf-windows-forms-and-winui-at-microsoft-connect-2018/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 874,
+    "by": "TiredOfLife",
+    "descendants": 375,
+    "time": 1543941351
   },
   {
     "rank": 9,
     "id": 18601588,
     "title": "Google's cross-platform Flutter UI toolkit goes 1.0",
     "url": "https://techcrunch.com/2018/12/04/googles-cross-platform-flutter-ui-toolkit-hits-version-1-0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 545,
+    "by": "mikece",
+    "descendants": 327,
+    "time": 1543944883
   },
   {
     "rank": 10,
     "id": 18601597,
     "title": "Samsung used my DSLR photo to fake their phone\u2019s \u201cportrait mode\u201d",
     "url": "https://www.diyphotography.net/samsung-used-my-dslr-photo-to-fake-their-phones-portrait-mode/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 669,
+    "by": "minikites",
+    "descendants": 267,
+    "time": 1543944949
   }
 ]

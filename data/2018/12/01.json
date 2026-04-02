@@ -4,99 +4,99 @@
     "id": 18569969,
     "title": "LibrePCB: First stable release published",
     "url": "https://librepcb.org/blog/2018-11-25_release_0.1.0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "dbrgn",
+    "descendants": 51,
+    "time": 1543593476
   },
   {
     "rank": 2,
     "id": 18570797,
     "title": "Daniel Kahneman on when to trust intuitive judgment",
     "url": "https://www.thinkadvisor.com/2018/11/16/daniel-kahneman-do-not-trust-your-intuition-even-f/?slreturn=20181030094020",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 261,
+    "by": "yarapavan",
+    "descendants": 101,
+    "time": 1543599845
   },
   {
     "rank": 3,
     "id": 18571029,
     "title": "Al Lowe reveals his Sierra source code collection",
     "url": "https://arstechnica.com/gaming/2018/11/al-lowe-reveals-his-sierra-source-code-collection-then-puts-all-of-it-on-ebay/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "vatueil",
+    "descendants": 125,
+    "time": 1543601175
   },
   {
     "rank": 4,
     "id": 18571998,
     "title": "Chip wars: China, America and silicon supremacy",
     "url": "https://www.economist.com/leaders/2018/12/01/chip-wars-china-america-and-silicon-supremacy",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "sbuccini",
+    "descendants": 205,
+    "time": 1543607081
   },
   {
     "rank": 5,
     "id": 18572482,
     "title": "Blockchain study finds zero success rate and vendors don't call back",
     "url": "https://www.theregister.co.uk/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "howard941",
+    "descendants": 235,
+    "time": 1543610816
   },
   {
     "rank": 6,
     "id": 18572510,
     "title": "Source: Google Hangouts for consumers will be shutting down sometime in 2020",
     "url": "https://9to5google.com/2018/11/30/google-hangouts-shutting-down/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "shaklee3",
+    "descendants": 263,
+    "time": 1543611020
   },
   {
     "rank": 7,
     "id": 18573308,
     "title": "Why is 2 * (i * i) faster than 2 * i * i in Java?",
     "url": "https://stackoverflow.com/questions/53452713/why-is-2-i-i-faster-than-2-i-i-in-java",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "trequartista",
+    "descendants": 100,
+    "time": 1543616774
   },
   {
     "rank": 8,
     "id": 18576117,
     "title": "Show HN: Cross-platform open-source 3D modeling software",
     "url": "https://dust3d.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "huxingyi",
+    "descendants": 86,
+    "time": 1543658177
   },
   {
     "rank": 9,
     "id": 18576680,
     "title": "The EU Copyright Directive: What Redditors in Europe Need to Know",
     "url": "https://redditblog.com/2018/11/28/the-eu-copyright-directive-what-redditors-in-europe-need-to-know/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "DyslexicAtheist",
+    "descendants": 275,
+    "time": 1543670760
   },
   {
     "rank": 10,
     "id": 18577079,
     "title": "Psychology\u2019s Replication Crisis Is Real",
     "url": "https://www.theatlantic.com/science/archive/2018/11/psychologys-replication-crisis-real/576223/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "zwieback",
+    "descendants": 276,
+    "time": 1543677308
   }
 ]

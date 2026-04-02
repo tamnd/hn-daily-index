@@ -4,99 +4,99 @@
     "id": 18776306,
     "title": "Brain.js",
     "url": "https://github.com/BrainJS/brain.js",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "hliyan",
+    "descendants": 51,
+    "time": 1545999017
   },
   {
     "rank": 2,
     "id": 18776589,
     "title": "Show HN: Pg-extend-rs \u2013 Easy Postgres extensions in Rust",
     "url": "https://bluejekyll.github.io/blog/rust/2018/12/27/announcing-pg-extend.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "bluejekyll",
+    "descendants": 22,
+    "time": 1546003998
   },
   {
     "rank": 3,
     "id": 18778674,
     "title": "Fundamental rule of traffic: building new roads makes people drive more (2015)",
     "url": "https://www.vox.com/2014/10/23/6994159/traffic-roads-induced-demand",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 244,
+    "by": "jseliger",
+    "descendants": 293,
+    "time": 1546023488
   },
   {
     "rank": 4,
     "id": 18779079,
     "title": "What Happens to Kid Culture When Streets Are Closed to Cars",
     "url": "https://www.citylab.com/design/2018/11/car-free-pedestrianization-made-pontevedra-spain-kid-friendly/576268/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 432,
+    "by": "anonymfus",
+    "descendants": 233,
+    "time": 1546027655
   },
   {
     "rank": 5,
     "id": 18780065,
     "title": "Things I Don\u2019t Know as of 2018",
     "url": "https://overreacted.io/things-i-dont-know-as-of-2018/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 753,
+    "by": "nhebb",
+    "descendants": 211,
+    "time": 1546036814
   },
   {
     "rank": 6,
     "id": 18780300,
     "title": "Teachers Quit Jobs at Highest Rate on Record",
     "url": "https://www.wsj.com/articles/teachers-quit-jobs-at-highest-rate-on-record-11545993052",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "dpflan",
+    "descendants": 398,
+    "time": 1546039223
   },
   {
     "rank": 7,
     "id": 18780489,
     "title": "Why I\u2019m so \u201cagainst\u201d Ethereum",
     "url": "https://threadreaderapp.com/thread/1078682801954799617.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "DyslexicAtheist",
+    "descendants": 256,
+    "time": 1546041475
   },
   {
     "rank": 8,
     "id": 18780741,
     "title": "How Facebook Keeps Messenger from Crashing on New Year's Eve",
     "url": "https://spectrum.ieee.org/tech-talk/computing/software/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "victorvation",
+    "descendants": 113,
+    "time": 1546043751
   },
   {
     "rank": 9,
     "id": 18782902,
     "title": "How DOOM fire was done",
     "url": "http://fabiensanglard.net/doom_fire_psx/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "ingve",
+    "descendants": 115,
+    "time": 1546077564
   },
   {
     "rank": 10,
     "id": 18783525,
     "title": "Windows file access performance compared to Linux",
     "url": "https://github.com/Microsoft/WSL/issues/873#issuecomment-425272829",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 518,
+    "by": "eatonphil",
+    "descendants": 278,
+    "time": 1546091335
   }
 ]

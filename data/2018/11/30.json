@@ -4,99 +4,99 @@
     "id": 18561715,
     "title": "'Talent Wants Transit': Companies Near Transportation Gaining the Upper Hand",
     "url": "https://www.npr.org/2018/11/29/671203167/talent-wants-transit-companies-near-transportation-gaining-the-upper-hand",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "bootsz",
+    "descendants": 317,
+    "time": 1543511195
   },
   {
     "rank": 2,
     "id": 18562797,
     "title": "Google Shut Out Privacy and Security Teams from Secret China Project",
     "url": "https://theintercept.com/2018/11/29/google-china-censored-search/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 364,
+    "by": "jbegley",
+    "descendants": 100,
+    "time": 1543517966
   },
   {
     "rank": 3,
     "id": 18563179,
     "title": "FoundationDB Document Layer",
     "url": "https://www.foundationdb.org/blog/announcing-document-layer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 297,
+    "by": "wwilson",
+    "descendants": 35,
+    "time": 1543520072
   },
   {
     "rank": 4,
     "id": 18564512,
     "title": "Starting a Business in Silicon Valley",
     "url": "http://www.tlalexander.com/business/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 257,
+    "by": "imartin2k",
+    "descendants": 135,
+    "time": 1543528856
   },
   {
     "rank": 5,
     "id": 18566405,
     "title": "Google Container for Firefox \u2013 Prevent Google from tracking you around the web",
     "url": "https://addons.mozilla.org/en-US/firefox/addon/google-container/?src=recommended",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 959,
+    "by": "LukeWalsh",
+    "descendants": 290,
+    "time": 1543548623
   },
   {
     "rank": 6,
     "id": 18566449,
     "title": "The Matrix Cookbook (2012) [pdf]",
     "url": "https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "wewake",
+    "descendants": 39,
+    "time": 1543549063
   },
   {
     "rank": 7,
     "id": 18566929,
     "title": "Google Tried to Patent My Work After a Job Interview",
     "url": "https://patentpandas.org/stories/company-patented-my-idea",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1798,
+    "by": "jerryX",
+    "descendants": 487,
+    "time": 1543555549
   },
   {
     "rank": 8,
     "id": 18567578,
     "title": "Mozilla pulls Bypass Paywalls from Firefox add-ons store",
     "url": "https://github.com/iamadamdev/bypass-paywalls-firefox/issues/82",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "AndrewDucker",
+    "descendants": 276,
+    "time": 1543566077
   },
   {
     "rank": 9,
     "id": 18568552,
     "title": "Marriott hack hits 500M Starwood guests",
     "url": "https://www.bbc.co.uk/news/technology-46401890",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "tooba",
+    "descendants": 301,
+    "time": 1543580451
   },
   {
     "rank": 10,
     "id": 18570598,
     "title": "Spectrum is joining GitHub",
     "url": "https://spectrum.chat/spectrum/general/spectrum-is-joining-github~1d3eb8ee-4c99-46c0-8daf-ca35a96be6ce",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "adamwathan",
+    "descendants": 152,
+    "time": 1543598319
   }
 ]

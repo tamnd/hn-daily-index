@@ -4,99 +4,99 @@
     "id": 18618987,
     "title": "StateOfTheArt.ai",
     "url": "https://www.stateoftheart.ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "EvgeniyZh",
+    "descendants": 33,
+    "time": 1544111298
   },
   {
     "rank": 2,
     "id": 18620404,
     "title": "The Rise of Microsoft Visual Studio Code",
     "url": "https://triplebyte.com/blog/editor-report-the-rise-of-visual-studio-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "Harj",
+    "descendants": 313,
+    "time": 1544119241
   },
   {
     "rank": 3,
     "id": 18621513,
     "title": "Facebook accused of striking 'secret deals over user data'",
     "url": "https://www.bbc.com/news/technology-46456695",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "arduinomancer",
+    "descendants": 170,
+    "time": 1544126237
   },
   {
     "rank": 4,
     "id": 18622729,
     "title": "Repl.it Multiplayer",
     "url": "https://repl.it/site/blog/multi",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "rozhok",
+    "descendants": 115,
+    "time": 1544133588
   },
   {
     "rank": 5,
     "id": 18624128,
     "title": "Neither PWA nor AMP are needed to make a website load fast",
     "url": "http://tonsky.me/blog/pwa/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 313,
+    "by": "Scarbutt",
+    "descendants": 218,
+    "time": 1544143889
   },
   {
     "rank": 6,
     "id": 18626098,
     "title": "A blogging style guide",
     "url": "https://robertheaton.com/2018/12/06/a-blogging-style-guide/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "mbaytas",
+    "descendants": 188,
+    "time": 1544173326
   },
   {
     "rank": 7,
     "id": 18626316,
     "title": "Choose Firefox Now, or Later You Won't Get a Choice (2014)",
     "url": "https://robert.ocallahan.org/2014/08/choose-firefox-now-or-later-you-wont.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "jakub_g",
+    "descendants": 329,
+    "time": 1544176357
   },
   {
     "rank": 8,
     "id": 18627530,
     "title": "Ask HN: How do you manage UI/UX for your side projects?",
     "url": "https://news.ycombinator.com/item?id=18627530",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "break_the_bank",
+    "descendants": 199,
+    "time": 1544190103
   },
   {
     "rank": 9,
     "id": 18628140,
     "title": "They Rejected Us",
     "url": "https://rejected.us",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 522,
+    "by": "oumua_don17",
+    "descendants": 361,
+    "time": 1544194601
   },
   {
     "rank": 10,
     "id": 18629063,
     "title": "Facial recognition: It\u2019s time for action",
     "url": "https://blogs.microsoft.com/on-the-issues/2018/12/06/facial-recognition-its-time-for-action/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 877,
+    "by": "benryon",
+    "descendants": 270,
+    "time": 1544200530
   }
 ]
