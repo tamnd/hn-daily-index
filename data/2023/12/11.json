@@ -4,99 +4,99 @@
     "id": 38591083,
     "title": "How many lines of C it takes to execute a + b in Python",
     "url": "https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 293,
+    "by": "taubek",
+    "descendants": 210,
+    "time": 1702211297
   },
   {
     "rank": 2,
     "id": 38591084,
     "title": "Mechanical Watch (2022)",
     "url": "https://ciechanow.ski/mechanical-watch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 954,
+    "by": "Akcium",
+    "descendants": 163,
+    "time": 1702211329
   },
   {
     "rank": 3,
     "id": 38595245,
     "title": "The surprising connection between after-hours work and decreased productivity",
     "url": "https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "tchalla",
+    "descendants": 164,
+    "time": 1702243796
   },
   {
     "rank": 4,
     "id": 38596634,
     "title": "John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary",
     "url": "https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 341,
+    "by": "ChrisArchitect",
+    "descendants": 147,
+    "time": 1702257253
   },
   {
     "rank": 5,
     "id": 38596953,
     "title": "Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real",
     "url": "https://sagittarius.greg.technology/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 434,
+    "by": "gregsadetsky",
+    "descendants": 113,
+    "time": 1702261059
   },
   {
     "rank": 6,
     "id": 38597744,
     "title": "Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330",
     "url": "https://datatracker.ietf.org/doc/rfc9330/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 371,
+    "by": "monkburger",
+    "descendants": 86,
+    "time": 1702270232
   },
   {
     "rank": 7,
     "id": 38598559,
     "title": "Mistral: Mixtral of Experts",
     "url": "https://mistral.ai/news/mixtral-of-experts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 639,
+    "by": "georgehill",
+    "descendants": 300,
+    "time": 1702281689
   },
   {
     "rank": 8,
     "id": 38598568,
     "title": "Mistral: Our first AI endpoints are available in early access",
     "url": "https://mistral.ai/news/la-plateforme/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "georgehill",
+    "descendants": 140,
+    "time": 1702281786
   },
   {
     "rank": 9,
     "id": 38598983,
     "title": "We don't have official RSS feed support for now, but we're working on a solution",
     "url": "https://developer.chrome.com/feeds",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "Flenser",
+    "descendants": 241,
+    "time": 1702286793
   },
   {
     "rank": 10,
     "id": 38602575,
     "title": "Beeper Mini is back",
     "url": "https://blog.beeper.com/p/beeper-mini-is-back",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1064,
+    "by": "erohead",
+    "descendants": 1239,
+    "time": 1702315814
   }
 ]

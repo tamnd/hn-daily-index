@@ -4,99 +4,99 @@
     "id": 38515435,
     "title": "Nuclear Reactor Simulator",
     "url": "https://dalton-nrs.manchester.ac.uk/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 481,
+    "by": "loopion",
+    "descendants": 125,
+    "time": 1701683447
   },
   {
     "rank": 2,
     "id": 38531428,
     "title": "How does Shazam work? (2022)",
     "url": "https://www.cameronmacleod.com/blog/how-does-shazam-work",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 587,
+    "by": "TaurenHunter",
+    "descendants": 154,
+    "time": 1701787479
   },
   {
     "rank": 3,
     "id": 38533105,
     "title": "Fine-tuning Mistral 7B on Magic the Gathering Draft",
     "url": "https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 356,
+    "by": "dmakian",
+    "descendants": 100,
+    "time": 1701794038
   },
   {
     "rank": 4,
     "id": 38540421,
     "title": "JSONB has landed",
     "url": "https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 669,
+    "by": "nalgeon",
+    "descendants": 205,
+    "time": 1701836197
   },
   {
     "rank": 5,
     "id": 38540761,
     "title": "Why is Jepsen written in Clojure?",
     "url": "https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "manicennui",
+    "descendants": 259,
+    "time": 1701840763
   },
   {
     "rank": 6,
     "id": 38543155,
     "title": "Governments spying on Apple, Google users through push notifications",
     "url": "https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 871,
+    "by": "ahiknsr",
+    "descendants": 614,
+    "time": 1701866992
   },
   {
     "rank": 7,
     "id": 38543229,
     "title": "Mold Course",
     "url": "https://www.epa.gov/mold/mold-course-introduction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 408,
+    "by": "tosh",
+    "descendants": 172,
+    "time": 1701867509
   },
   {
     "rank": 8,
     "id": 38543587,
     "title": "Apple confirms governments using push notifications to surveil users",
     "url": "https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "marban",
+    "descendants": 8,
+    "time": 1701869373
   },
   {
     "rank": 9,
     "id": 38544729,
     "title": "Gemini AI",
     "url": "https://deepmind.google/technologies/gemini/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 2135,
+    "by": "dmotz",
+    "descendants": 1602,
+    "time": 1701875027
   },
   {
     "rank": 10,
     "id": 38544746,
     "title": "Gemini: Google's most capable AI model yet",
     "url": "https://blog.google/technology/ai/google-gemini-ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 778,
+    "by": "tosh",
+    "descendants": 2,
+    "time": 1701875118
   }
 ]

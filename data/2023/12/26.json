@@ -4,99 +4,99 @@
     "id": 38762214,
     "title": "Non-interactive SSH password authentication",
     "url": "https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "jandeboevrie",
+    "descendants": 123,
+    "time": 1703508923
   },
   {
     "rank": 2,
     "id": 38765176,
     "title": "Ask HN: Share your favorite software blog posts of 2023",
     "url": "https://news.ycombinator.com/item?id=38765176",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "devta",
+    "descendants": 77,
+    "time": 1703531369
   },
   {
     "rank": 3,
     "id": 38765627,
     "title": "Stirling-PDF: local web application to perform various operations on PDFs",
     "url": "https://github.com/Frooodle/Stirling-PDF",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "alexzeitler",
+    "descendants": 231,
+    "time": 1703534528
   },
   {
     "rank": 4,
     "id": 38766570,
     "title": "Nintendo Network shutdown \u2013 The beginning of the end",
     "url": "https://pretendo.network/blog/12-23-23",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "haunter",
+    "descendants": 210,
+    "time": 1703541859
   },
   {
     "rank": 5,
     "id": 38768678,
     "title": "Challenging projects every programmer should try (2019)",
     "url": "https://austinhenley.com/blog/challengingprojects.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "azhenley",
+    "descendants": 332,
+    "time": 1703561124
   },
   {
     "rank": 6,
     "id": 38769874,
     "title": "A copy-and-patch JIT compiler for CPython",
     "url": "https://github.com/python/cpython/pull/113465",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 270,
+    "by": "polyrand",
+    "descendants": 68,
+    "time": 1703579212
   },
   {
     "rank": 7,
     "id": 38771513,
     "title": "Website search hurts my feelings",
     "url": "https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "earthboundkid",
+    "descendants": 193,
+    "time": 1703596723
   },
   {
     "rank": 8,
     "id": 38773429,
     "title": "Japan to crack down on Apple and Google app store monopolies",
     "url": "https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 580,
+    "by": "mfiguiere",
+    "descendants": 320,
+    "time": 1703609671
   },
   {
     "rank": 9,
     "id": 38773957,
     "title": "A list of Hacker News's undocumented features and behaviors",
     "url": "https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 653,
+    "by": "ssgodderidge",
+    "descendants": 279,
+    "time": 1703612847
   },
   {
     "rank": 10,
     "id": 38775439,
     "title": "Moderna's mRNA cancer vaccine works better than thought",
     "url": "https://www.freethink.com/health/cancer-vaccine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "nateb2022",
+    "descendants": 225,
+    "time": 1703620721
   }
 ]

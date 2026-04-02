@@ -4,99 +4,99 @@
     "id": 38969533,
     "title": "A supply chain attack on PyTorch",
     "url": "https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "roblabla",
+    "descendants": 101,
+    "time": 1705074829
   },
   {
     "rank": 2,
     "id": 38981639,
     "title": "Thinking in an array language",
     "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "tosh",
+    "descendants": 152,
+    "time": 1705164209
   },
   {
     "rank": 3,
     "id": 38983742,
     "title": "AsmBB \u2013 a lightweight web forum engine written in assembly language",
     "url": "https://asmbb.org/what-is-asmbb.1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "smartmic",
+    "descendants": 127,
+    "time": 1705174919
   },
   {
     "rank": 4,
     "id": 38985152,
     "title": "Building a fully local LLM voice assistant to control my smart home",
     "url": "https://johnthenerd.com/blog/local-llm-assistant/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 699,
+    "by": "JohnTheNerd",
+    "descendants": 186,
+    "time": 1705183930
   },
   {
     "rank": 5,
     "id": 38986187,
     "title": "Ask HN: Does Cloudflare block HN comments if you have code blocks in a reply?",
     "url": "https://news.ycombinator.com/item?id=38986187",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "zikduruqe",
+    "descendants": 143,
+    "time": 1705192250
   },
   {
     "rank": 6,
     "id": 38987109,
     "title": "Show HN: #!/usr/bin/env docker run",
     "url": "https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "adtac",
+    "descendants": 173,
+    "time": 1705202405
   },
   {
     "rank": 7,
     "id": 38987383,
     "title": "Posthog is closing their Slack community in favor of forum",
     "url": "https://posthog.com/blog/slack-closure",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "vmatsiiako",
+    "descendants": 216,
+    "time": 1705205576
   },
   {
     "rank": 8,
     "id": 38988019,
     "title": "Show HN: Citadel \u2013 a Calibre-compatible eBook management app",
     "url": "https://github.com/every-day-things/citadel",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "phildenhoff",
+    "descendants": 159,
+    "time": 1705213360
   },
   {
     "rank": 9,
     "id": 38988948,
     "title": "Dynamic programming is not black magic",
     "url": "https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "qsantos",
+    "descendants": 202,
+    "time": 1705225335
   },
   {
     "rank": 10,
     "id": 38992601,
     "title": "Vanna.ai: Chat with your SQL database",
     "url": "https://github.com/vanna-ai/vanna",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "ignoramous",
+    "descendants": 233,
+    "time": 1705255086
   }
 ]

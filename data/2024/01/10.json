@@ -4,99 +4,99 @@
     "id": 38916663,
     "title": "Golden Rules of Interface Design (2013)",
     "url": "https://www.cs.umd.edu/~ben/goldenrules.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "luu",
+    "descendants": 166,
+    "time": 1704741307
   },
   {
     "rank": 2,
     "id": 38925307,
     "title": "Turing Complete is a game about computer science",
     "url": "https://turingcomplete.game/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "thunderbong",
+    "descendants": 105,
+    "time": 1704802962
   },
   {
     "rank": 3,
     "id": 38932603,
     "title": "Wikihouse: Open-Source Houses",
     "url": "https://www.wikihouse.cc/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "jlevers",
+    "descendants": 209,
+    "time": 1704836885
   },
   {
     "rank": 4,
     "id": 38933315,
     "title": "Amazon's Twitch to Cut 500 Employees, About 35% of Staff",
     "url": "https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 448,
+    "by": "MurizS",
+    "descendants": 464,
+    "time": 1704840115
   },
   {
     "rank": 5,
     "id": 38933999,
     "title": "I pwned half of America's fast food chains simultaneously",
     "url": "https://mrbruh.com/chattr/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1081,
+    "by": "MrBruh",
+    "descendants": 474,
+    "time": 1704843698
   },
   {
     "rank": 6,
     "id": 38934013,
     "title": "OpenWRT turns 20; wants to launch their \\\"first upstream supported\\\" design",
     "url": "https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "trelane",
+    "descendants": 179,
+    "time": 1704843794
   },
   {
     "rank": 7,
     "id": 38935048,
     "title": "Gmail and Yahoo\u2019s 2024 inbox protections and what they mean for email programs",
     "url": "https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "pqvst",
+    "descendants": 268,
+    "time": 1704850796
   },
   {
     "rank": 8,
     "id": 38935205,
     "title": "I quit my job to work full time on my open source project",
     "url": "https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "cwaffles",
+    "descendants": 176,
+    "time": 1704852044
   },
   {
     "rank": 9,
     "id": 38935605,
     "title": "The teen mental illness epidemic is international (2023)",
     "url": "https://www.afterbabel.com/p/international-mental-illness-part-one",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "simonebrunozzi",
+    "descendants": 875,
+    "time": 1704855598
   },
   {
     "rank": 10,
     "id": 38937801,
     "title": "Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?",
     "url": "https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "ent101",
+    "descendants": 193,
+    "time": 1704876051
   }
 ]

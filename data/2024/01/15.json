@@ -4,99 +4,99 @@
     "id": 38965636,
     "title": "Penrose \u2013 Create diagrams by typing notation in plain text",
     "url": "https://penrose.cs.cmu.edu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 459,
+    "by": "kiyanwang",
+    "descendants": 117,
+    "time": 1705049135
   },
   {
     "rank": 2,
     "id": 38973404,
     "title": "Autonomous trucking is harder than autonomous rideshare",
     "url": "https://kevinchen.co/blog/autonomous-trucking-harder-than-rideshare/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 260,
+    "by": "kevinchen",
+    "descendants": 427,
+    "time": 1705090700
   },
   {
     "rank": 3,
     "id": 38977983,
     "title": "Inside the Steam Deck's APU",
     "url": "https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/.",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "ekianjo",
+    "descendants": 227,
+    "time": 1705130788
   },
   {
     "rank": 4,
     "id": 38979196,
     "title": "\u2018This Has Been Going on for Years\u2019: Boeing\u2019s Manufacturing Mess",
     "url": "https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "eduction",
+    "descendants": 321,
+    "time": 1705147207
   },
   {
     "rank": 5,
     "id": 38988949,
     "title": "SQLite: Wal2 Mode",
     "url": "https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "finallyy",
+    "descendants": 96,
+    "time": 1705225338
   },
   {
     "rank": 6,
     "id": 38994817,
     "title": "When Random Isn't",
     "url": "https://orlp.net/blog/when-random-isnt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "orlp",
+    "descendants": 147,
+    "time": 1705269389
   },
   {
     "rank": 7,
     "id": 38998257,
     "title": "A periodic table of visualization methods (2007)",
     "url": "https://www.visual-literacy.org/periodic_table/periodic_table.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "Daub",
+    "descendants": 47,
+    "time": 1705303595
   },
   {
     "rank": 8,
     "id": 38998516,
     "title": "Slashing data transfer costs in AWS",
     "url": "https://www.bitsand.cloud/posts/slashing-data-transfer-costs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "danielklnstein",
+    "descendants": 262,
+    "time": 1705306753
   },
   {
     "rank": 9,
     "id": 39001755,
     "title": "Teach Yourself Programming in Ten Years (1998)",
     "url": "https://norvig.com/21-days.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "janchorowski",
+    "descendants": 302,
+    "time": 1705331167
   },
   {
     "rank": 10,
     "id": 39003469,
     "title": "High-speed 10Gbps full-mesh network based on USB4 for just $47.98",
     "url": "https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "fangpenlin",
+    "descendants": 229,
+    "time": 1705339605
   }
 ]

@@ -4,99 +4,99 @@
     "id": 38838944,
     "title": "50 Algorithms Every Programmer Should Know (Second Edition)",
     "url": "https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "teleforce",
+    "descendants": 205,
+    "time": 1704178700
   },
   {
     "rank": 2,
     "id": 38842977,
     "title": "Ask HN: Who is hiring? (January 2024)",
     "url": "https://news.ycombinator.com/item?id=38842977",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "whoishiring",
+    "descendants": 481,
+    "time": 1704211278
   },
   {
     "rank": 3,
     "id": 38843388,
     "title": "A Canadian payroll dependency chart",
     "url": "https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "djha-skin",
+    "descendants": 287,
+    "time": 1704212768
   },
   {
     "rank": 4,
     "id": 38844943,
     "title": "How to do OCR on a Mac using the CLI or just Python",
     "url": "https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "gregsadetsky",
+    "descendants": 84,
+    "time": 1704219656
   },
   {
     "rank": 5,
     "id": 38847613,
     "title": "Show HN: Resurrecting the Dillo browser",
     "url": "https://dillo-browser.github.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 599,
+    "by": "rodarima",
+    "descendants": 174,
+    "time": 1704232508
   },
   {
     "rank": 6,
     "id": 38849580,
     "title": "With revenue and users declining, Mozilla CEO gets a 20% raise",
     "url": "https://www.theregister.com/2024/01/02/mozilla_in_2024_ai_privacy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "billiam",
+    "descendants": 292,
+    "time": 1704245359
   },
   {
     "rank": 7,
     "id": 38852360,
     "title": "Maestro: A Linux-compatible kernel in Rust",
     "url": "https://blog.lenot.re/a/introduction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 745,
+    "by": "Uriopass",
+    "descendants": 351,
+    "time": 1704275973
   },
   {
     "rank": 8,
     "id": 38853706,
     "title": "Possible Meissner effect near room temperature: copper-substituted lead apatite",
     "url": "https://arxiv.org/abs/2401.00999",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 729,
+    "by": "zaikunzhang",
+    "descendants": 318,
+    "time": 1704287976
   },
   {
     "rank": 9,
     "id": 38855337,
     "title": "Show HN: FrameOS \u2013 operating system for single function smart frames",
     "url": "https://frameos.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "mariusandra",
+    "descendants": 112,
+    "time": 1704296542
   },
   {
     "rank": 10,
     "id": 38858012,
     "title": "Niklaus Wirth has died",
     "url": "https://twitter.com/Bertrand_Meyer/status/1742613897675178347",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1902,
+    "by": "aarroyoc",
+    "descendants": 403,
+    "time": 1704307812
   }
 ]

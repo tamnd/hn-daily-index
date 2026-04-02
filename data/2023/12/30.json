@@ -4,99 +4,99 @@
     "id": 38781442,
     "title": "PostgreSQL internals: Things to know about update statements",
     "url": "https://patrick.engineering/posts/postgres-internals/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "ppati000",
+    "descendants": 57,
+    "time": 1703681205
   },
   {
     "rank": 2,
     "id": 38797640,
     "title": "Tracking developer build times to decide if the M3 MacBook is worth upgrading",
     "url": "https://incident.io/blog/festive-macbooks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 653,
+    "by": "paprikati",
+    "descendants": 408,
+    "time": 1703792495
   },
   {
     "rank": 3,
     "id": 38803556,
     "title": "Why are Apple Silicon VMs so different?",
     "url": "https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "ingve",
+    "descendants": 247,
+    "time": 1703845778
   },
   {
     "rank": 4,
     "id": 38807720,
     "title": "\\\"No inventions; no innovations\\\" A History of US Steel",
     "url": "https://www.construction-physics.com/p/no-inventions-no-innovations-a-history",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 253,
+    "by": "gok",
+    "descendants": 235,
+    "time": 1703871354
   },
   {
     "rank": 5,
     "id": 38809145,
     "title": "Blot turns a folder into a website",
     "url": "https://blot.im/how",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 581,
+    "by": "angrymouse",
+    "descendants": 136,
+    "time": 1703878002
   },
   {
     "rank": 6,
     "id": 38811576,
     "title": "Understanding Parquet, Iceberg and Data Lakehouses",
     "url": "https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "davidgomes",
+    "descendants": 101,
+    "time": 1703893888
   },
   {
     "rank": 7,
     "id": 38813395,
     "title": "Wikipedia daily most viewed pages",
     "url": "https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "secondary_op",
+    "descendants": 168,
+    "time": 1703920955
   },
   {
     "rank": 8,
     "id": 38814093,
     "title": "Things are about to get worse for generative AI",
     "url": "https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 403,
+    "by": "eddyzh",
+    "descendants": 755,
+    "time": 1703931430
   },
   {
     "rank": 9,
     "id": 38815334,
     "title": "The art of high performance computing",
     "url": "https://theartofhpc.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 623,
+    "by": "rramadass",
+    "descendants": 120,
+    "time": 1703944912
   },
   {
     "rank": 10,
     "id": 38818319,
     "title": "Amazon's Silent Sacking",
     "url": "https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "doitLP",
+    "descendants": 365,
+    "time": 1703965370
   }
 ]

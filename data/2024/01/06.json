@@ -4,99 +4,99 @@
     "id": 38872325,
     "title": "Bad scientific code beats code following \\\"best practices\\\" (2014)",
     "url": "https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 230,
+    "by": "luu",
+    "descendants": 324,
+    "time": 1704402754
   },
   {
     "rank": 2,
     "id": 38876707,
     "title": "Show HN: I made a tool to compare time zones",
     "url": "https://time.fyi/timezones",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 758,
+    "by": "kamranahmedse",
+    "descendants": 219,
+    "time": 1704440453
   },
   {
     "rank": 3,
     "id": 38886030,
     "title": "Fixing Macs door to door",
     "url": "https://matduggan.com/fixing-macs-door-to-door/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1033,
+    "by": "jnord",
+    "descendants": 203,
+    "time": 1704494471
   },
   {
     "rank": 4,
     "id": 38887840,
     "title": "Alaska Airlines 737 Max makes emergency landing due to depressurization",
     "url": "https://www.reddit.com/r/aviation/comments/18znz5p/as_1282_kpdx_to_kont_diverted_for_rapid/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "g1a55er",
+    "descendants": 359,
+    "time": 1704509111
   },
   {
     "rank": 5,
     "id": 38889539,
     "title": "Microsoft Phi-2 model changes licence to MIT",
     "url": "https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "regularfry",
+    "descendants": 90,
+    "time": 1704528729
   },
   {
     "rank": 6,
     "id": 38889774,
     "title": "Alaska Airlines grounds Boeing 737 Max 9 planes after mid-air window blowout",
     "url": "https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "robin_reala",
+    "descendants": 347,
+    "time": 1704531343
   },
   {
     "rank": 7,
     "id": 38889820,
     "title": "Csvlens: Command line CSV file viewer. Like less but made for CSV",
     "url": "https://github.com/YS-L/csvlens",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "ingve",
+    "descendants": 82,
+    "time": 1704532029
   },
   {
     "rank": 8,
     "id": 38889833,
     "title": "Chromium bug bounty money tree browser",
     "url": "https://lyra.horse/misc/chromium_vrp_tree.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "admp",
+    "descendants": 77,
+    "time": 1704532247
   },
   {
     "rank": 9,
     "id": 38892044,
     "title": "IRS to begin trial of its own free tax-filing system",
     "url": "https://www.nytimes.com/2024/01/05/your-money/irs-tax-filing-free-online.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 703,
+    "by": "thelastgallon",
+    "descendants": 323,
+    "time": 1704553977
   },
   {
     "rank": 10,
     "id": 38893909,
     "title": "FAA orders grounding of more than 170 Boeing 737 Max 9s",
     "url": "https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 861,
+    "by": "ephesee",
+    "descendants": 838,
+    "time": 1704566194
   }
 ]

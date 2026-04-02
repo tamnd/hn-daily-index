@@ -4,99 +4,99 @@
     "id": 38545522,
     "title": "'A-team' of math proves a critical link between addition and sets",
     "url": "https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "digital55",
+    "descendants": 122,
+    "time": 1701878108
   },
   {
     "rank": 2,
     "id": 38569240,
     "title": "JC converts the output of popular command-line tools to JSON",
     "url": "https://github.com/kellyjonbrazil/jc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "tosh",
+    "descendants": 159,
+    "time": 1702044723
   },
   {
     "rank": 3,
     "id": 38570261,
     "title": "You are never taught how to build quality software",
     "url": "https://www.florianbellmann.com/blog/never-taught-qa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 592,
+    "by": "RunOrVeith",
+    "descendants": 485,
+    "time": 1702049729
   },
   {
     "rank": 4,
     "id": 38571956,
     "title": "FDA approves a CRISPR-based medicine for treatment of sickle cell disease",
     "url": "https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 535,
+    "by": "divbzero",
+    "descendants": 220,
+    "time": 1702058190
   },
   {
     "rank": 5,
     "id": 38574888,
     "title": "Apple cuts off Beeper Mini's access",
     "url": "https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1365,
+    "by": "coloneltcb",
+    "descendants": 1222,
+    "time": 1702071707
   },
   {
     "rank": 6,
     "id": 38576530,
     "title": "Verizon fell for fake \\\"search warrant,\\\" gave victim's phone data to stalker",
     "url": "https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "Shank",
+    "descendants": 163,
+    "time": 1702079390
   },
   {
     "rank": 7,
     "id": 38579130,
     "title": "OpenBao \u2013 FOSS Fork of HashiCorp Vault",
     "url": "https://github.com/openbao/openbao/tree/development",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "thinkmassive",
+    "descendants": 125,
+    "time": 1702102186
   },
   {
     "rank": 8,
     "id": 38579899,
     "title": "If buying isn't owning, piracy isn't stealing",
     "url": "https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1597,
+    "by": "jay_kyburz",
+    "descendants": 794,
+    "time": 1702110710
   },
   {
     "rank": 9,
     "id": 38580742,
     "title": "W4 Games raises $15M to drive video game development with Godot Engine",
     "url": "https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 445,
+    "by": "j_maffe",
+    "descendants": 87,
+    "time": 1702119317
   },
   {
     "rank": 10,
     "id": 38581852,
     "title": "Murder is a pixel art ECS game engine in C#",
     "url": "https://github.com/isadorasophia/murder",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "ibobev",
+    "descendants": 117,
+    "time": 1702129372
   }
 ]
