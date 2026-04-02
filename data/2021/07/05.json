@@ -4,99 +4,99 @@
     "id": 27730854,
     "title": "Write a time-series database engine from scratch",
     "url": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "todsacerdoti",
+    "descendants": 24,
+    "time": 1625416303
   },
   {
     "rank": 2,
     "id": 27732136,
     "title": "Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly",
     "url": "https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "Ameo",
+    "descendants": 25,
+    "time": 1625428382
   },
   {
     "rank": 3,
     "id": 27733455,
     "title": "Stockfish 14",
     "url": "https://stockfishchess.org/blog/2021/stockfish-14/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 440,
+    "by": "0-_-0",
+    "descendants": 196,
+    "time": 1625441354
   },
   {
     "rank": 4,
     "id": 27734158,
     "title": "Students flee field as computer 'fad fades' (1987)",
     "url": "https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "geocrasher",
+    "descendants": 381,
+    "time": 1625451633
   },
   {
     "rank": 5,
     "id": 27736435,
     "title": "Indiscriminate messaging and chatcontrol: Last chance to protest",
     "url": "https://www.patrick-breyer.de/en/indiscriminate-messaging-and-chatcontrol-last-chance-to-protest/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "ColinWright",
+    "descendants": 104,
+    "time": 1625481534
   },
   {
     "rank": 6,
     "id": 27736650,
     "title": "GitHub Copilot is not infringing copyright",
     "url": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "aarroyoc",
+    "descendants": 542,
+    "time": 1625483449
   },
   {
     "rank": 7,
     "id": 27737064,
     "title": "Everything useful I know about kubectl",
     "url": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 242,
+    "by": "alexhwoods",
+    "descendants": 85,
+    "time": 1625486642
   },
   {
     "rank": 8,
     "id": 27737718,
     "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76",
     "url": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "watchdogtimer",
+    "descendants": 76,
+    "time": 1625491451
   },
   {
     "rank": 9,
     "id": 27737887,
     "title": "Music for Programming",
     "url": "https://www.musicforprogramming.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 307,
+    "by": "Vaslo",
+    "descendants": 145,
+    "time": 1625492529
   },
   {
     "rank": 10,
     "id": 27739568,
     "title": "Show HN: RSS feeds for arbitrary websites using CSS selectors",
     "url": "https://feed-me-up-scotty.vincenttunru.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 509,
+    "by": "Vinnl",
+    "descendants": 127,
+    "time": 1625502482
   }
 ]

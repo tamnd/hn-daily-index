@@ -4,99 +4,99 @@
     "id": 27431910,
     "title": "Althttpd: Simple webserver in a single C file",
     "url": "https://sqlite.org/althttpd/doc/trunk/althttpd.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 715,
+    "by": "miles",
+    "descendants": 339,
+    "time": 1623141051
   },
   {
     "rank": 2,
     "id": 27433040,
     "title": "A Project of One\u2019s Own",
     "url": "http://paulgraham.com/own.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 723,
+    "by": "prtkgpt",
+    "descendants": 365,
+    "time": 1623148563
   },
   {
     "rank": 3,
     "id": 27433552,
     "title": "Grafana 8.0",
     "url": "https://github.com/grafana/grafana/releases/tag/v8.0.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 415,
+    "by": "botayhard",
+    "descendants": 51,
+    "time": 1623150782
   },
   {
     "rank": 4,
     "id": 27433863,
     "title": "Terraform 1.0",
     "url": "https://github.com/hashicorp/terraform/releases/tag/v1.0.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 691,
+    "by": "cube2222",
+    "descendants": 308,
+    "time": 1623152946
   },
   {
     "rank": 5,
     "id": 27439010,
     "title": "Ohio sues Google, seeks to declare the internet company a public utility",
     "url": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 934,
+    "by": "infodocket",
+    "descendants": 713,
+    "time": 1623177067
   },
   {
     "rank": 6,
     "id": 27441545,
     "title": "Bosch opens German chip plant",
     "url": "https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 684,
+    "by": "nixass",
+    "descendants": 271,
+    "time": 1623189712
   },
   {
     "rank": 7,
     "id": 27445282,
     "title": "Vivaldi 4.0",
     "url": "https://vivaldi.com/blog/vivaldi-4-0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 469,
+    "by": "0x49d1",
+    "descendants": 280,
+    "time": 1623224509
   },
   {
     "rank": 8,
     "id": 27447206,
     "title": "Tell HN: SMS-based two-factor authentication is not secure",
     "url": "https://news.ycombinator.com/item?id=27447206",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 628,
+    "by": "Zolt",
+    "descendants": 286,
+    "time": 1623242408
   },
   {
     "rank": 9,
     "id": 27447757,
     "title": "El Salvador makes Bitcoin legal tender",
     "url": "https://www.bbc.com/news/world-latin-america-57398274",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 635,
+    "by": "aazaa",
+    "descendants": 703,
+    "time": 1623246349
   },
   {
     "rank": 10,
     "id": 27448175,
     "title": "If you sell a house these days, the buyer might be a pension fund",
     "url": "https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 671,
+    "by": "zpeti",
+    "descendants": 1082,
+    "time": 1623248446
   }
 ]
