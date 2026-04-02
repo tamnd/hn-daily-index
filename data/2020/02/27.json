@@ -4,99 +4,99 @@
     "id": 22423079,
     "title": "Reddit\u2019s profane, greedy traders are shaking up the stock market",
     "url": "https://www.bloomberg.com/news/articles/2020-02-26/reddit-s-profane-greedy-traders-are-shaking-up-the-stock-market",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 421,
+    "by": "hashberry",
+    "descendants": 340,
+    "time": 1582726760
   },
   {
     "rank": 2,
     "id": 22424854,
     "title": "YC\u2019s new guide to raising a Series A",
     "url": "https://blog.ycombinator.com/ycs-series-a-guide/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 393,
+    "by": "akharris",
+    "descendants": 51,
+    "time": 1582736534
   },
   {
     "rank": 3,
     "id": 22428321,
     "title": "Cursed Adapters",
     "url": "https://twitter.com/Foone/status/1224206741602062336",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "dsr_",
+    "descendants": 201,
+    "time": 1582757483
   },
   {
     "rank": 4,
     "id": 22429958,
     "title": "The Simpsons in CSS",
     "url": "https://pattle.github.io/simpsons-in-css/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 554,
+    "by": "CoreSet",
+    "descendants": 101,
+    "time": 1582772051
   },
   {
     "rank": 5,
     "id": 22430682,
     "title": "Rome: An experimental JavaScript toolchain",
     "url": "https://github.com/facebookexperimental/rome",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "vvoyer",
+    "descendants": 166,
+    "time": 1582780067
   },
   {
     "rank": 6,
     "id": 22432233,
     "title": "Japan's PM to ask all schools to temporarily close",
     "url": "https://www3.nhk.or.jp/nhkworld/en/news/20200227_49/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "jdshaffer",
+    "descendants": 334,
+    "time": 1582800699
   },
   {
     "rank": 7,
     "id": 22432358,
     "title": "Age, Sex, Existing Conditions of Covid-19 Cases and Deaths",
     "url": "https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "davedx",
+    "descendants": 419,
+    "time": 1582802861
   },
   {
     "rank": 8,
     "id": 22433654,
     "title": "Why the Gov.uk Design System team changed the input type for numbers",
     "url": "https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 556,
+    "by": "joelanman",
+    "descendants": 173,
+    "time": 1582814799
   },
   {
     "rank": 9,
     "id": 22434366,
     "title": "CDC declined to test new coronavirus patient for days, California hospital says",
     "url": "https://thehill.com/policy/healthcare/484903-cdc-declined-to-test-new-coronavirus-patient-for-days-california-hospital",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "pmoriarty",
+    "descendants": 408,
+    "time": 1582819143
   },
   {
     "rank": 10,
     "id": 22434466,
     "title": "Let's Encrypt Has Issued a Billion Certificates",
     "url": "https://letsencrypt.org/2020/02/27/one-billion-certs.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1160,
+    "by": "jaas",
+    "descendants": 258,
+    "time": 1582819912
   }
 ]

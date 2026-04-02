@@ -4,99 +4,99 @@
     "id": 22675551,
     "title": "Learn D3",
     "url": "https://observablehq.com/@d3/learn-d3",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 621,
+    "by": "mbostock",
+    "descendants": 71,
+    "time": 1585064840
   },
   {
     "rank": 2,
     "id": 22676040,
     "title": "Show HN: Screen \u2013 screen sharing for remote work, by the cofounder of Screenhero",
     "url": "https://screen.so",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "jsherwani",
+    "descendants": 203,
+    "time": 1585067643
   },
   {
     "rank": 3,
     "id": 22678350,
     "title": "How I became a better programmer (2017)",
     "url": "https://jlongster.com/How-I-Became-Better-Programmer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "_ttg",
+    "descendants": 146,
+    "time": 1585079904
   },
   {
     "rank": 4,
     "id": 22681207,
     "title": "I got my file from Clearview AI",
     "url": "https://onezero.medium.com/i-got-my-file-from-clearview-ai-and-it-freaked-me-out-33ca28b5d6d4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 811,
+    "by": "us0r",
+    "descendants": 224,
+    "time": 1585100631
   },
   {
     "rank": 5,
     "id": 22681270,
     "title": "Show HN: MVP.css \u2013 Minimalist stylesheet for HTML elements",
     "url": "https://github.com/andybrewer/mvp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 471,
+    "by": "awb",
+    "descendants": 91,
+    "time": 1585101250
   },
   {
     "rank": 6,
     "id": 22683535,
     "title": "WebKit will delete all local storage after 7 days",
     "url": "https://ar.al/2020/03/25/apple-just-killed-offline-web-apps-while-purporting-to-protect-your-privacy-why-thats-a-bad-thing-and-why-you-should-care/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 698,
+    "by": "jlelse",
+    "descendants": 1,
+    "time": 1585134988
   },
   {
     "rank": 7,
     "id": 22683750,
     "title": "Speeding up Linux disk encryption",
     "url": "https://blog.cloudflare.com/speeding-up-linux-disk-encryption/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "jgrahamc",
+    "descendants": 134,
+    "time": 1585137696
   },
   {
     "rank": 8,
     "id": 22685011,
     "title": "Show HN: Skynet Simulator",
     "url": "http://skynetsimulator.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "mr-ron",
+    "descendants": 210,
+    "time": 1585147607
   },
   {
     "rank": 9,
     "id": 22685018,
     "title": "Chrome phasing out support for User-Agent",
     "url": "https://www.infoq.com/news/2020/03/chrome-phasing-user-agent/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 672,
+    "by": "oftenwrong",
+    "descendants": 318,
+    "time": 1585147648
   },
   {
     "rank": 10,
     "id": 22686602,
     "title": "Private client-side-only PWAs are hard, but now Apple made them impossible",
     "url": "https://andregarzia.com/2020/03/private-client-side-only-pwas-are-hard-but-now-apple-made-them-impossible.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 963,
+    "by": "soapdog",
+    "descendants": 896,
+    "time": 1585156965
   }
 ]

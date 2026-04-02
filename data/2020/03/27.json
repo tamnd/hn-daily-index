@@ -4,99 +4,99 @@
     "id": 22693805,
     "title": "Show HN: A \u201cliving\u201d Linux process with no memory",
     "url": "https://github.com/izabera/zeromaps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "izabera",
+    "descendants": 110,
+    "time": 1585232400
   },
   {
     "rank": 2,
     "id": 22695174,
     "title": "Firefox's low-latency WebAssembly compiler",
     "url": "http://wingolog.org/archives/2020/03/25/firefoxs-low-latency-webassembly-compiler",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "robin_reala",
+    "descendants": 100,
+    "time": 1585239813
   },
   {
     "rank": 3,
     "id": 22695261,
     "title": "Dwarf Fortress: An actual look at graphical improvements",
     "url": "https://steamcommunity.com/games/975370/announcements/detail/2082292794864361478",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "skibz",
+    "descendants": 136,
+    "time": 1585240247
   },
   {
     "rank": 4,
     "id": 22696229,
     "title": "It's not what programming languages do, it's what they shepherd you to",
     "url": "https://nibblestew.blogspot.com/2020/03/its-not-what-programming-languages-do.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 493,
+    "by": "ingve",
+    "descendants": 339,
+    "time": 1585246229
   },
   {
     "rank": 5,
     "id": 22696252,
     "title": "Wavve: making $76k a month turning podcasts into videos",
     "url": "https://www.failory.com/interview/wavve",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "richclominson",
+    "descendants": 141,
+    "time": 1585246420
   },
   {
     "rank": 6,
     "id": 22698299,
     "title": "Our list of free software for remote work",
     "url": "https://puri.sm/posts/our-essential-list-of-free-software-for-remote-work/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "fsflover",
+    "descendants": 81,
+    "time": 1585258983
   },
   {
     "rank": 7,
     "id": 22701059,
     "title": "God be with you till we meet again (1918)",
     "url": "http://www.lettersofnote.com/2020/03/god-be-with-you-till-we-meet-again.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 284,
+    "by": "portobello",
+    "descendants": 116,
+    "time": 1585295435
   },
   {
     "rank": 8,
     "id": 22702195,
     "title": "Mycroft \u2013 An open-source voice assistant",
     "url": "https://mycroft.ai/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 431,
+    "by": "doener",
+    "descendants": 113,
+    "time": 1585310917
   },
   {
     "rank": 9,
     "id": 22702701,
     "title": "Singapore to Open Source Bluetooth Contact Tracing",
     "url": "https://bluetrace.io",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "jdkuepper",
+    "descendants": 144,
+    "time": 1585316284
   },
   {
     "rank": 10,
     "id": 22703000,
     "title": "Zoom needs to clean up its privacy act",
     "url": "https://blogs.harvard.edu/doc/2020/03/27/zoom/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1597,
+    "by": "seapunk",
+    "descendants": 509,
+    "time": 1585318732
   }
 ]

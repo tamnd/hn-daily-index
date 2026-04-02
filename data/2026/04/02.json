@@ -14,7 +14,7 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 131,
+    "score": 133,
     "by": "novaRom",
     "descendants": 59,
     "time": 1775127000
@@ -71,6 +71,16 @@
   },
   {
     "rank": 8,
+    "id": 47596739,
+    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "score": 71,
+    "by": "jackson-mcd",
+    "descendants": 22,
+    "time": 1775016881
+  },
+  {
+    "rank": 9,
     "id": 47612558,
     "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
     "url": "https://modolap.com/publication/hn-analysis-1",
@@ -80,7 +90,7 @@
     "time": 1775126543
   },
   {
-    "rank": 9,
+    "rank": 10,
     "id": 47609694,
     "title": "Email obfuscation: What works in 2026?",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
@@ -88,15 +98,5 @@
     "by": "jaden",
     "descendants": 58,
     "time": 1775100933
-  },
-  {
-    "rank": 10,
-    "id": 47596739,
-    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 70,
-    "by": "jackson-mcd",
-    "descendants": 22,
-    "time": 1775016881
   }
 ]

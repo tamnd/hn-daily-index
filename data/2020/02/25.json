@@ -4,99 +4,99 @@
     "id": 22405372,
     "title": "Google interviewing process for software developer role in 2020",
     "url": "https://habr.com/en/post/489698/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "atomlib",
+    "descendants": 400,
+    "time": 1582561083
   },
   {
     "rank": 2,
     "id": 22408442,
     "title": "T5: The Text-to-Text Transfer Transformer",
     "url": "https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "theafh",
+    "descendants": 66,
+    "time": 1582578353
   },
   {
     "rank": 3,
     "id": 22410448,
     "title": "We use Kubernetes and spot instances to reduce EC2 billing up to 80%",
     "url": "https://tuananh.net/2020/02/20/the-story-behind-my-talk-cloud-cost-optimization-at-scale/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 514,
+    "by": "talonx",
+    "descendants": 293,
+    "time": 1582597527
   },
   {
     "rank": 4,
     "id": 22410450,
     "title": "Defeating a Laptop's BIOS Password",
     "url": "https://github.com/skysafe/reblog/blob/master/0000-defeating-a-laptops-bios-password/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "Avery3R",
+    "descendants": 96,
+    "time": 1582597570
   },
   {
     "rank": 5,
     "id": 22412409,
     "title": "Mozilla\u2019s DNS over HTTPs",
     "url": "https://blog.mozilla.org/netpolicy/2020/02/25/the-facts-mozillas-dns-over-https-doh/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 648,
+    "by": "Vinnl",
+    "descendants": 757,
+    "time": 1582631409
   },
   {
     "rank": 6,
     "id": 22413376,
     "title": "To get good, go after the metagame",
     "url": "https://commoncog.com/blog/to-get-good-go-after-the-metagame/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 726,
+    "by": "shadowsun7",
+    "descendants": 296,
+    "time": 1582640374
   },
   {
     "rank": 7,
     "id": 22413676,
     "title": "Early riser or night owl? New study may help to explain the difference",
     "url": "https://directorsblog.nih.gov/2020/02/25/early-riser-or-night-owl-new-study-may-help-to-explain-the-difference/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "KanilStang",
+    "descendants": 347,
+    "time": 1582642779
   },
   {
     "rank": 8,
     "id": 22415535,
     "title": "Disney blocks John Oliver\u2019s new episode critical of India\u2019s PM Modi",
     "url": "https://techcrunch.com/2020/02/25/disney-hotstar-blocks-john-olivers-new-episode-critical-of-narendra-modi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 549,
+    "by": "pseudolus",
+    "descendants": 195,
+    "time": 1582654175
   },
   {
     "rank": 9,
     "id": 22416319,
     "title": "An Intuitive Guide to Linear Algebra (2012)",
     "url": "https://betterexplained.com/articles/linear-algebra-guide/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 709,
+    "by": "PNWChris",
+    "descendants": 102,
+    "time": 1582658390
   },
   {
     "rank": 10,
     "id": 22417458,
     "title": "Smithsonian Releases 2.8M Images into Public Domain",
     "url": "https://www.smithsonianmag.com/smithsonian-institution/smithsonian-releases-28-million-images-public-domain-180974263/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1115,
+    "by": "ChrisArchitect",
+    "descendants": 123,
+    "time": 1582664775
   }
 ]
