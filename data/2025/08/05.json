@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 44786005,
+    "title": "How we made JSON.stringify more than twice as fast",
+    "url": "https://v8.dev/blog/json-stringify",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 44786367,
+    "title": "Objects should shut up",
+    "url": "https://dustri.org/b/objects-should-shut-the-fuck-up.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 44787631,
+    "title": "Qwen-Image: Crafting with native text rendering",
+    "url": "https://qwenlm.github.io/blog/qwen-image/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 44794271,
+    "title": "PHP 8.5 adds pipe operator",
+    "url": "https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 44794508,
+    "title": "Monitor your security cameras with locally processed AI",
+    "url": "https://frigate.video/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 44795825,
+    "title": "uBlock Origin Lite now available for Safari",
+    "url": "https://apps.apple.com/app/ublock-origin-lite/id6745342698",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 44798166,
+    "title": "Genie 3: A new frontier for world models",
+    "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 44798189,
+    "title": "Things that helped me get out of the AI 10x engineer imposter syndrome",
+    "url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 44800185,
+    "title": "Claude Opus 4.1",
+    "url": "https://www.anthropic.com/news/claude-opus-4-1",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 44800746,
+    "title": "Open models by OpenAI",
+    "url": "https://openai.com/open-models/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

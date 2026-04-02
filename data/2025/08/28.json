@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 45034496,
+    "title": "Malicious versions of Nx and some supporting plugins were published",
+    "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 45037365,
+    "title": "The GitHub website is slow on Safari",
+    "url": "https://github.com/orgs/community/discussions/170758",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 45041286,
+    "title": "Unexpected productivity boost of Rust",
+    "url": "https://lubeno.dev/blog/rusts-productivity-curve",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 45041315,
+    "title": "VIM Master",
+    "url": "https://github.com/renzorlive/vimmaster",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 45045307,
+    "title": "Yamanot.es: A music box of train station melodies from the JR Yamanote Line",
+    "url": "https://yamanot.es/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 45045398,
+    "title": "Google has eliminated 35% of managers overseeing small teams in past year",
+    "url": "https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 45046916,
+    "title": "Altered states of consciousness induced by breathwork accompanied by music",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 45048419,
+    "title": "The Deletion of Docker.io/Bitnami",
+    "url": "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 45050415,
+    "title": "Are OpenAI and Anthropic losing money on inference?",
+    "url": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 45054260,
+    "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
+    "url": "https://news.ycombinator.com/item?id=45054260",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
