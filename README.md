@@ -310,7 +310,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2023](data/2023/) (122/365 days)
+### [2023](data/2023/) (153/365 days)
 
 <details><summary>Show calendars</summary>
 
@@ -355,15 +355,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**18**](data/2023/09/README.md#2023-09-18) | [**19**](data/2023/09/README.md#2023-09-19) | [**20**](data/2023/09/README.md#2023-09-20) | [**21**](data/2023/09/README.md#2023-09-21) | [**22**](data/2023/09/README.md#2023-09-22) | [**23**](data/2023/09/README.md#2023-09-23) | [**24**](data/2023/09/README.md#2023-09-24) |
 | [**25**](data/2023/09/README.md#2023-09-25) | [**26**](data/2023/09/README.md#2023-09-26) | [**27**](data/2023/09/README.md#2023-09-27) | [**28**](data/2023/09/README.md#2023-09-28) | [**29**](data/2023/09/README.md#2023-09-29) | [**30**](data/2023/09/README.md#2023-09-30) |  |
 
-[**August**](data/2023/08/) (0/31)
+[**August**](data/2023/08/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 31 |  |  |  |
+|  | [**1**](data/2023/08/README.md#2023-08-01) | [**2**](data/2023/08/README.md#2023-08-02) | [**3**](data/2023/08/README.md#2023-08-03) | [**4**](data/2023/08/README.md#2023-08-04) | [**5**](data/2023/08/README.md#2023-08-05) | [**6**](data/2023/08/README.md#2023-08-06) |
+| [**7**](data/2023/08/README.md#2023-08-07) | [**8**](data/2023/08/README.md#2023-08-08) | [**9**](data/2023/08/README.md#2023-08-09) | [**10**](data/2023/08/README.md#2023-08-10) | [**11**](data/2023/08/README.md#2023-08-11) | [**12**](data/2023/08/README.md#2023-08-12) | [**13**](data/2023/08/README.md#2023-08-13) |
+| [**14**](data/2023/08/README.md#2023-08-14) | [**15**](data/2023/08/README.md#2023-08-15) | [**16**](data/2023/08/README.md#2023-08-16) | [**17**](data/2023/08/README.md#2023-08-17) | [**18**](data/2023/08/README.md#2023-08-18) | [**19**](data/2023/08/README.md#2023-08-19) | [**20**](data/2023/08/README.md#2023-08-20) |
+| [**21**](data/2023/08/README.md#2023-08-21) | [**22**](data/2023/08/README.md#2023-08-22) | [**23**](data/2023/08/README.md#2023-08-23) | [**24**](data/2023/08/README.md#2023-08-24) | [**25**](data/2023/08/README.md#2023-08-25) | [**26**](data/2023/08/README.md#2023-08-26) | [**27**](data/2023/08/README.md#2023-08-27) |
+| [**28**](data/2023/08/README.md#2023-08-28) | [**29**](data/2023/08/README.md#2023-08-29) | [**30**](data/2023/08/README.md#2023-08-30) | [**31**](data/2023/08/README.md#2023-08-31) |  |  |  |
 
 [**July**](data/2023/07/) (0/31)
 
@@ -448,10 +448,10 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 81 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [42 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 58 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
 3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 944 points by [apitman](https://news.ycombinator.com/user?id=apitman), [804 comments](https://news.ycombinator.com/item?id=47603657)
-4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 46 points by [luu](https://news.ycombinator.com/user?id=luu), [22 comments](https://news.ycombinator.com/item?id=47582987)
-5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 15 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [6 comments](https://news.ycombinator.com/item?id=47611921)
-6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 151 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
-7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 55 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [17 comments](https://news.ycombinator.com/item?id=47596739)
+4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 46 points by [luu](https://news.ycombinator.com/user?id=luu), [23 comments](https://news.ycombinator.com/item?id=47582987)
+5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 16 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [6 comments](https://news.ycombinator.com/item?id=47611921)
+6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 151 points by [jaden](https://news.ycombinator.com/user?id=jaden), [45 comments](https://news.ycombinator.com/item?id=47609694)
+7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 55 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [18 comments](https://news.ycombinator.com/item?id=47596739)
 8. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 424 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [199 comments](https://news.ycombinator.com/item?id=47609564)
 9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 188 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [61 comments](https://news.ycombinator.com/item?id=47608495)
 10. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 20 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [1 comments](https://news.ycombinator.com/item?id=47612601)

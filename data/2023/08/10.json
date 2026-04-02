@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 37063151,
+    "title": "Arpchat \u2013 Text your friends on the same network using just ARP",
+    "url": "https://github.com/kognise/arpchat",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 37063238,
+    "title": "SQLedge: Replicate Postgres to SQLite on the Edge",
+    "url": "https://github.com/zknill/sqledge",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 37066522,
+    "title": "Making AMD GPUs competitive for LLM inference",
+    "url": "https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 37068464,
+    "title": "CNET is deleting old articles to try to improve its Google Search ranking",
+    "url": "https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 37072530,
+    "title": "Supermarket AI meal planner app suggests recipe that would create chlorine gas",
+    "url": "https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 37073885,
+    "title": "Speed Test",
+    "url": "https://speed.cloudflare.com/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 37074452,
+    "title": "The Future of the Vim Project",
+    "url": "https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 37076210,
+    "title": "Do Machine Learning Models Memorize or Generalize?",
+    "url": "https://pair.withgoogle.com/explorables/grokking/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 37076523,
+    "title": "MS Teams channels cannot contain MS-DOS device names",
+    "url": "https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 37078719,
+    "title": "Vim Boss",
+    "url": "https://neovim.io/news/2023/08",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

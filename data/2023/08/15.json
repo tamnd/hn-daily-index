@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 37122871,
+    "title": "Backward Compatibility, Go 1.21, and Go 2",
+    "url": "https://go.dev/blog/compat",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 37125830,
+    "title": "OpenFarm \u2013 a free and open database and web application for gardening knowledge",
+    "url": "https://openfarm.cc",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 37128044,
+    "title": "Internet Archive responds to recording industry lawsuit targeting obsolete media",
+    "url": "https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 37128293,
+    "title": "Show HN: AI-town, run your own custom AI world SIM with JavaScript",
+    "url": "https://github.com/a16z-infra/ai-town",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 37130060,
+    "title": "Tell HN: t.co is adding a five-second delay to some domains",
+    "url": "https://news.ycombinator.com/item?id=37130060",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 37131802,
+    "title": "Things you forgot (or never knew) because of React",
+    "url": "https://joshcollinsworth.com/blog/antiquated-react",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 37131957,
+    "title": "Privacy friendly ESP32 smart doorbell with Home Assistant local integration",
+    "url": "https://tristam.ie/2023/758/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 37133054,
+    "title": "The OpenTF Manifesto",
+    "url": "https://opentf.org/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 37134092,
+    "title": "Firefox finally outperforming Google Chrome in SunSpider",
+    "url": "https://www.phoronix.com/news/Firefox-Faster-SunSpider",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 37137110,
+    "title": "We reduced the cost of building Mastodon at Twitter-scale by 100x",
+    "url": "https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
