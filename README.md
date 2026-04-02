@@ -69,7 +69,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 [February](data/2025/02/) (28/28) 
 [January](data/2025/01/) (31/31) 
 
-### [2024](data/2024/) (214/366 days)
+### [2024](data/2024/) (245/366 days)
 
 [December](data/2024/12/) (31/31) 
 [November](data/2024/11/) (30/30) 
@@ -78,7 +78,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 [August](data/2024/08/) (31/31) 
 [July](data/2024/07/) (31/31) 
 [June](data/2024/06/) (30/30) 
-[May](data/2024/05/) (0/31) 
+[May](data/2024/05/) (31/31) 
 [April](data/2024/04/) (0/30) 
 [March](data/2024/03/) (0/31) 
 [February](data/2024/02/) (0/29) 
@@ -90,12 +90,12 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 77 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [38 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 28 points by [bundie](https://news.ycombinator.com/user?id=bundie), [29 comments](https://news.ycombinator.com/item?id=47612127)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 78 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [39 comments](https://news.ycombinator.com/item?id=47611721)
+2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 28 points by [bundie](https://news.ycombinator.com/user?id=bundie), [30 comments](https://news.ycombinator.com/item?id=47612127)
 3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 57 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
 4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 941 points by [apitman](https://news.ycombinator.com/user?id=apitman), [804 comments](https://news.ycombinator.com/item?id=47603657)
 5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 44 points by [luu](https://news.ycombinator.com/user?id=luu), [18 comments](https://news.ycombinator.com/item?id=47582987)
-6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 11 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [4 comments](https://news.ycombinator.com/item?id=47611921)
+6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 13 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [4 comments](https://news.ycombinator.com/item?id=47611921)
 7. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 151 points by [jaden](https://news.ycombinator.com/user?id=jaden), [44 comments](https://news.ycombinator.com/item?id=47609694)
 8. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 55 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [17 comments](https://news.ycombinator.com/item?id=47596739)
 9. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 420 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [199 comments](https://news.ycombinator.com/item?id=47609564)
