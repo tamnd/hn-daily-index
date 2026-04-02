@@ -21,33 +21,33 @@
   },
   {
     "rank": 3,
+    "id": 47613078,
+    "title": "Inside Nepal's Fake Rescue Racket",
+    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+    "score": 22,
+    "by": "lode",
+    "descendants": 0,
+    "time": 1775130041
+  },
+  {
+    "rank": 4,
     "id": 47613351,
     "title": "A Founder Tried to Pitch \u2013 and Got a Restraining Order",
     "url": "https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan",
-    "score": 11,
+    "score": 12,
     "by": "elonmm",
     "descendants": 3,
     "time": 1775131846
   },
   {
-    "rank": 4,
+    "rank": 5,
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 168,
+    "score": 169,
     "by": "novaRom",
     "descendants": 87,
     "time": 1775127000
-  },
-  {
-    "rank": 5,
-    "id": 47613078,
-    "title": "Inside Nepal's Fake Rescue Racket",
-    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "score": 21,
-    "by": "lode",
-    "descendants": 0,
-    "time": 1775130041
   },
   {
     "rank": 6,
@@ -64,7 +64,7 @@
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 55,
+    "score": 56,
     "by": "stratos123",
     "descendants": 23,
     "time": 1775121258
@@ -94,7 +94,7 @@
     "id": 47540441,
     "title": "Reinventing the Pull Request",
     "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
-    "score": 22,
+    "score": 23,
     "by": "bkolobara",
     "descendants": 19,
     "time": 1774602269
