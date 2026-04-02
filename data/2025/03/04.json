@@ -4,99 +4,99 @@
     "id": 43243024,
     "title": "Ask HN: Who is hiring? (March 2025)",
     "url": "https://news.ycombinator.com/item?id=43243024",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "whoishiring",
+    "descendants": 519,
+    "time": 1741017701
   },
   {
     "rank": 2,
     "id": 43243075,
     "title": "Apple's Software Quality Crisis",
     "url": "https://www.eliseomartelli.it/blog/2025-03-02-apple-quality",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1196,
+    "by": "ajdude",
+    "descendants": 1198,
+    "time": 1741017853
   },
   {
     "rank": 3,
     "id": 43243580,
     "title": "TSMC expected to announce $100B investment in U.S.",
     "url": "https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "perihelions",
+    "descendants": 1072,
+    "time": 1741020034
   },
   {
     "rank": 4,
     "id": 43243716,
     "title": "The Golden Age of Japanese Pencils (2022)",
     "url": "https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "apokryptein",
+    "descendants": 113,
+    "time": 1741020693
   },
   {
     "rank": 5,
     "id": 43244307,
     "title": "SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale",
     "url": "https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "PaulHoule",
+    "descendants": 158,
+    "time": 1741022952
   },
   {
     "rank": 6,
     "id": 43246892,
     "title": "Repairable Flatpack Toaster",
     "url": "https://www.kaseyhou.com/#/repairable-flatpack-toaster/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 836,
+    "by": "t-3",
+    "descendants": 263,
+    "time": 1741036796
   },
   {
     "rank": 7,
     "id": 43248610,
     "title": "Public health data disappeared. RestoredCDC.org is bringing it back",
     "url": "https://www.RestoredCDC.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "lparlett",
+    "descendants": 160,
+    "time": 1741048126
   },
   {
     "rank": 8,
     "id": 43250093,
     "title": "Let\u2019s code a TCP/IP stack, 1: Ethernet and ARP (2016)",
     "url": "https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "jcartw",
+    "descendants": 26,
+    "time": 1741060500
   },
   {
     "rank": 9,
     "id": 43255529,
     "title": "Show HN: Bayleaf \u2013 Building a low-profile wireless split keyboard",
     "url": "https://www.graz.io/articles/bayleaf-wireless-keyboard",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 735,
+    "by": "sgraz",
+    "descendants": 247,
+    "time": 1741100451
   },
   {
     "rank": 10,
     "id": 43258709,
     "title": "Why fastDOOM is fast",
     "url": "https://fabiensanglard.net/fastdoom/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 672,
+    "by": "wicket",
+    "descendants": 219,
+    "time": 1741115143
   }
 ]

@@ -4,99 +4,99 @@
     "id": 43137616,
     "title": "If it is worth keeping, save it in Markdown",
     "url": "https://p.migdal.pl/blog/2025/02/markdown-saves/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "stared",
+    "descendants": 273,
+    "time": 1740217946
   },
   {
     "rank": 2,
     "id": 43149077,
     "title": "Why are QR Codes with capital letters smaller than QR codes with lower case?",
     "url": "https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "todsacerdoti",
+    "descendants": 123,
+    "time": 1740317144
   },
   {
     "rank": 3,
     "id": 43151943,
     "title": "Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder",
     "url": "https://mathstodon.xyz/@tao/114054291471216181",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "ColinWright",
+    "descendants": 94,
+    "time": 1740336709
   },
   {
     "rank": 4,
     "id": 43171239,
     "title": "Embedding Python in Elixir, it's fine",
     "url": "https://dashbit.co/blog/running-python-in-elixir-its-fine",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "arathunku",
+    "descendants": 64,
+    "time": 1740487995
   },
   {
     "rank": 5,
     "id": 43174910,
     "title": "Hard problems that reduce to document ranking",
     "url": "https://noperator.dev/posts/document-ranking-for-complex-problems/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "noperator",
+    "descendants": 54,
+    "time": 1740505027
   },
   {
     "rank": 6,
     "id": 43176314,
     "title": "Framework's first desktop is a strange\u2013but unique\u2013mini ITX gaming PC",
     "url": "https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 554,
+    "by": "perihelions",
+    "descendants": 534,
+    "time": 1740512361
   },
   {
     "rank": 7,
     "id": 43178831,
     "title": "Material Theme has been pulled from VS Code's marketplace",
     "url": "https://github.com/material-theme/vsc-material-theme/discussions/1313",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 479,
+    "by": "Inityx",
+    "descendants": 392,
+    "time": 1740525880
   },
   {
     "rank": 8,
     "id": 43179478,
     "title": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
     "url": "https://github.com/deepseek-ai/DeepGEMM",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "mfiguiere",
+    "descendants": 67,
+    "time": 1740531744
   },
   {
     "rank": 9,
     "id": 43182325,
     "title": "The FFT Strikes Back: An Efficient Alternative to Self-Attention",
     "url": "https://arxiv.org/abs/2502.18394",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "iNic",
+    "descendants": 168,
+    "time": 1740563843
   },
   {
     "rank": 10,
     "id": 43184291,
     "title": "TypeScript types can run DOOM [video]",
     "url": "https://www.youtube.com/watch?v=0mCsluv5FXA",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1328,
+    "by": "franky47",
+    "descendants": 360,
+    "time": 1740582302
   }
 ]

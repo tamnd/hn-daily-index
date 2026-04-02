@@ -4,99 +4,99 @@
     "id": 43259182,
     "title": "ARC-AGI without pretraining",
     "url": "https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "georgehill",
+    "descendants": 121,
+    "time": 1741117958
   },
   {
     "rank": 2,
     "id": 43261650,
     "title": "Writing an LLM from scratch, part 8 \u2013 trainable self-attention",
     "url": "https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "gpjt",
+    "descendants": 31,
+    "time": 1741138874
   },
   {
     "rank": 3,
     "id": 43261729,
     "title": "Mox \u2013 modern, secure, all-in-one email server",
     "url": "https://www.xmox.nl/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 564,
+    "by": "rzk",
+    "descendants": 308,
+    "time": 1741139891
   },
   {
     "rank": 4,
     "id": 43261933,
     "title": "Brother accused of locking down third-party printer ink cartridges",
     "url": "https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 538,
+    "by": "m463",
+    "descendants": 334,
+    "time": 1741142087
   },
   {
     "rank": 5,
     "id": 43261941,
     "title": "The Demoralization is just Beginning",
     "url": "https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 496,
+    "by": "surprisetalk",
+    "descendants": 783,
+    "time": 1741142147
   },
   {
     "rank": 6,
     "id": 43264847,
     "title": "Richard Sutton and Andrew Barto Win 2024 Turing Award",
     "url": "https://awards.acm.org/about/2024-turing",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 520,
+    "by": "camlinke",
+    "descendants": 112,
+    "time": 1741169011
   },
   {
     "rank": 7,
     "id": 43266453,
     "title": "Apple M3 Ultra",
     "url": "https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1077,
+    "by": "ksec",
+    "descendants": 1029,
+    "time": 1741183190
   },
   {
     "rank": 8,
     "id": 43266537,
     "title": "MacBook Air M4",
     "url": "https://www.apple.com/macbook-air/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 716,
+    "by": "tosh",
+    "descendants": 945,
+    "time": 1741183614
   },
   {
     "rank": 9,
     "id": 43270079,
     "title": "Apple takes UK to court over 'backdoor' order",
     "url": "https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 663,
+    "by": "latexr",
+    "descendants": 274,
+    "time": 1741198026
   },
   {
     "rank": 10,
     "id": 43270835,
     "title": "Tailscale is pretty useful",
     "url": "https://blog.6nok.org/tailscale-is-pretty-useful/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 804,
+    "by": "thm",
+    "descendants": 404,
+    "time": 1741201759
   }
 ]

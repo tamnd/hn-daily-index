@@ -4,99 +4,99 @@
     "id": 43287327,
     "title": "3dfx: So powerful, it's kind of ridiculous (2023)",
     "url": "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "kristianp",
+    "descendants": 268,
+    "time": 1741320438
   },
   {
     "rank": 2,
     "id": 43317887,
     "title": "Trees not profits: we're giving up our right to ever sell Ecosia (2018)",
     "url": "https://blog.ecosia.org/trees-not-profits/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "erlend_sh",
+    "descendants": 215,
+    "time": 1741592531
   },
   {
     "rank": 3,
     "id": 43318624,
     "title": "Probabilistic Artificial Intelligence",
     "url": "https://arxiv.org/abs/2502.05244",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "pavanto",
+    "descendants": 97,
+    "time": 1741600233
   },
   {
     "rank": 4,
     "id": 43321145,
     "title": "YouTube DRM added on ALL videos with TV (TVHTML5) clients",
     "url": "https://github.com/yt-dlp/yt-dlp/issues/12563",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 410,
+    "by": "azalemeth",
+    "descendants": 239,
+    "time": 1741617408
   },
   {
     "rank": 5,
     "id": 43323946,
     "title": "Mathematical Foundations of Reinforcement Learning",
     "url": "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "ibobev",
+    "descendants": 43,
+    "time": 1741631252
   },
   {
     "rank": 6,
     "id": 43328095,
     "title": "Show HN: Seven39, a social media app that is only open for 3 hours every evening",
     "url": "https://www.seven39.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 735,
+    "by": "mklyons",
+    "descendants": 349,
+    "time": 1741655110
   },
   {
     "rank": 7,
     "id": 43331582,
     "title": "Show HN: Factorio Learning Environment \u2013 Agents Build Factories",
     "url": "https://jackhopkins.github.io/factorio-learning-environment/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 749,
+    "by": "noddybear",
+    "descendants": 209,
+    "time": 1741694522
   },
   {
     "rank": 8,
     "id": 43332658,
     "title": "Happy 20th Birthday, Y Combinator",
     "url": "https://twitter.com/garrytan/status/1899092996702048709",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1421,
+    "by": "btilly",
+    "descendants": 276,
+    "time": 1741702475
   },
   {
     "rank": 9,
     "id": 43332830,
     "title": "A 10x Faster TypeScript",
     "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1827,
+    "by": "DanRosenwasser",
+    "descendants": 908,
+    "time": 1741703543
   },
   {
     "rank": 10,
     "id": 43334190,
     "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
     "url": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 491,
+    "by": "rossant",
+    "descendants": 179,
+    "time": 1741710804
   }
 ]
