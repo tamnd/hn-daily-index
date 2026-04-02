@@ -37,16 +37,16 @@ Top 10 Hacker News stories for each day in February 2023.
 
 *Tuesday*
 
-1. [Using HDMI radio interference for high-speed data transfer](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html) (windytan.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34962804)
-2. [Firecracker internals: Inside the technology powering AWS Lambda (2021)](https://www.talhoffman.com/2021/07/18/firecracker-internals/) (talhoffman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34964197)
-3. [Vimium – A browser extension that provides Vim-style keyboard controls](https://vimium.github.io/) (vimium.github.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34964572)
-4. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/) (9to5mac.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34965260)
-5. [FFmpeg 6.0](http://www.ffmpeg.org/download.html#release_6.0) (ffmpeg.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34965535)
-6. [We will not ‘walk out’ of UK, nor comply with any request to bypass encryption](https://tutanota.com/blog/posts/uk-undermine-encryption) (tutanota.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34968295)
-7. [Beating OpenAI CLIP with 100x less data and compute](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality) (unum.cloud) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34970045)
-8. [Hackers claim they breached T-Mobile more than 100 times in 2022](https://krebsonsecurity.com/2023/02/hackers-claim-they-breached-t-mobile-more-than-100-times-in-2022/) (krebsonsecurity.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34971530)
-9. [The E-Ink Badge](https://census.dev/blog/diy-e-ink-badge) (census.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34971627)
-10. [Jailbreak Chat: A collection of ChatGPT jailbreaks](https://www.jailbreakchat.com) (jailbreakchat.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=34972791)
+1. [Using HDMI radio interference for high-speed data transfer](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html) (windytan.com) - 307 points by [ingve](https://news.ycombinator.com/user?id=ingve), [25 comments](https://news.ycombinator.com/item?id=34962804)
+2. [Firecracker internals: Inside the technology powering AWS Lambda (2021)](https://www.talhoffman.com/2021/07/18/firecracker-internals/) (talhoffman.com) - 300 points by [mattrighetti](https://news.ycombinator.com/user?id=mattrighetti), [52 comments](https://news.ycombinator.com/item?id=34964197)
+3. [Vimium – A browser extension that provides Vim-style keyboard controls](https://vimium.github.io/) (vimium.github.io) - 441 points by [kevmo314](https://news.ycombinator.com/user?id=kevmo314), [209 comments](https://news.ycombinator.com/item?id=34964572)
+4. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/) (9to5mac.com) - 376 points by [mikece](https://news.ycombinator.com/user?id=mikece), [261 comments](https://news.ycombinator.com/item?id=34965260)
+5. [FFmpeg 6.0](http://www.ffmpeg.org/download.html#release_6.0) (ffmpeg.org) - 594 points by [gyan](https://news.ycombinator.com/user?id=gyan), [207 comments](https://news.ycombinator.com/item?id=34965535)
+6. [We will not ‘walk out’ of UK, nor comply with any request to bypass encryption](https://tutanota.com/blog/posts/uk-undermine-encryption) (tutanota.com) - 347 points by [ghostDancer](https://news.ycombinator.com/user?id=ghostDancer), [219 comments](https://news.ycombinator.com/item?id=34968295)
+7. [Beating OpenAI CLIP with 100x less data and compute](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality) (unum.cloud) - 342 points by [vov_or](https://news.ycombinator.com/user?id=vov_or), [57 comments](https://news.ycombinator.com/item?id=34970045)
+8. [Hackers claim they breached T-Mobile more than 100 times in 2022](https://krebsonsecurity.com/2023/02/hackers-claim-they-breached-t-mobile-more-than-100-times-in-2022/) (krebsonsecurity.com) - 533 points by [mikece](https://news.ycombinator.com/user?id=mikece), [326 comments](https://news.ycombinator.com/item?id=34971530)
+9. [The E-Ink Badge](https://census.dev/blog/diy-e-ink-badge) (census.dev) - 403 points by [nate](https://news.ycombinator.com/user?id=nate), [144 comments](https://news.ycombinator.com/item?id=34971627)
+10. [Jailbreak Chat: A collection of ChatGPT jailbreaks](https://www.jailbreakchat.com) (jailbreakchat.com) - 1.1k points by [rafiste](https://news.ycombinator.com/user?id=rafiste), [528 comments](https://news.ycombinator.com/item?id=34972791)
 
 ## 2023-02-27
 
