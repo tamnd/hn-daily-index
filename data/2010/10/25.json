@@ -4,99 +4,99 @@
     "id": 1826279,
     "title": "Tutorial: How to use Git in a team development environment",
     "url": "http://nvie.com/posts/a-successful-git-branching-model/?",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 137,
+    "by": "zackattack",
+    "descendants": 26,
+    "time": 1287933189
   },
   {
     "rank": 2,
     "id": 1826969,
     "title": "UberCab Ordered to Cease And Desist",
     "url": "http://techcrunch.com/2010/10/24/ubercab-ordered-to-cease-and-desist/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 104,
+    "by": "tswicegood",
+    "descendants": 97,
+    "time": 1287948471
   },
   {
     "rank": 3,
     "id": 1827210,
     "title": "The State of Jay-Z's Empire",
     "url": "http://online.wsj.com/article/SB10001424052702304741404575564092478617462.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "jonbischke",
+    "descendants": 60,
+    "time": 1287952907
   },
   {
     "rank": 4,
     "id": 1827430,
     "title": "Google Chrome Extensions for People Who Build Websites",
     "url": "http://sixrevisions.com/tools/chrome-extensions-developers-designers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 118,
+    "by": "tswicegood",
+    "descendants": 30,
+    "time": 1287957250
   },
   {
     "rank": 5,
     "id": 1827928,
     "title": "Firesheep: Easy HTTP session hijacking from within Firefox",
     "url": "http://codebutler.com/firesheep",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 714,
+    "by": "cdine",
+    "descendants": 341,
+    "time": 1287968447
   },
   {
     "rank": 6,
     "id": 1829049,
     "title": "Holla - An open source Campfire",
     "url": "http://alexmaccaw.co.uk/posts/2010/10/24/holla.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 141,
+    "by": "maccman",
+    "descendants": 57,
+    "time": 1287995967
   },
   {
     "rank": 7,
     "id": 1829255,
     "title": "Icon search engine",
     "url": "http://www.iconfinder.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "iconfinder",
+    "descendants": 94,
+    "time": 1288003113
   },
   {
     "rank": 8,
     "id": 1829428,
     "title": "\"Calling oneself a C Programmer is like saying you're a Hammer Carpenter\"",
     "url": "https://bbs.archlinux.org/viewtopic.php?pid=147321#p147321",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 180,
+    "by": "fogus",
+    "descendants": 200,
+    "time": 1288008447
   },
   {
     "rank": 9,
     "id": 1829697,
     "title": "A Google Suggest Venn Diagram Generator",
     "url": "http://www.technomancy.org/google-suggest-venn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 310,
+    "by": "rmc",
+    "descendants": 87,
+    "time": 1288013538
   },
   {
     "rank": 10,
     "id": 1830971,
     "title": "Digg To Lay Off 37% Of Staff, Product Refocus Imminent",
     "url": "http://techcrunch.com/2010/10/25/digg-to-lay-off-37-percentof-staff/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 176,
+    "by": "charlief",
+    "descendants": 75,
+    "time": 1288031848
   }
 ]

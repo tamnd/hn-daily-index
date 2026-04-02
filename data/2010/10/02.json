@@ -4,99 +4,99 @@
     "id": 1746645,
     "title": "Hacker Monthly Issue #5 - October 2010",
     "url": "http://hackermonthly.com/issue-5.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 83,
+    "by": "grep",
+    "descendants": 59,
+    "time": 1285930678
   },
   {
     "rank": 2,
     "id": 1746916,
     "title": "(How to Write a ((Better) Lisp) Interpreter (in Python))",
     "url": "http://norvig.com/lispy2.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 121,
+    "by": "shawndumas",
+    "descendants": 10,
+    "time": 1285939512
   },
   {
     "rank": 3,
     "id": 1748045,
     "title": "Ask HN: Who Is Hiring? (October 2010 Edition)",
     "url": "http://news.ycombinator.com/item?id=1748045",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 193,
+    "by": "falsestprophet",
+    "descendants": 213,
+    "time": 1285958080
   },
   {
     "rank": 4,
     "id": 1748979,
     "title": "Put armor where there aren't bullet holes",
     "url": "http://motherjones.com/kevin-drum/2010/09/counterintuitive-world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "robg",
+    "descendants": 76,
+    "time": 1285971384
   },
   {
     "rank": 5,
     "id": 1749250,
     "title": "Modern Perl: The Book: The (draft) PDF",
     "url": "http://www.modernperlbooks.com/mt/2010/10/modern-perl-the-book-the-draft-pdf.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 85,
+    "by": "another_ali",
+    "descendants": 47,
+    "time": 1285977828
   },
   {
     "rank": 6,
     "id": 1749363,
     "title": "'The Social Network': reviewed by Lawrence Lessig",
     "url": "http://www.tnr.com/article/books-and-arts/78081/sorkin-zuckerberg-the-social-network",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 183,
+    "by": "eugenejen",
+    "descendants": 82,
+    "time": 1285981431
   },
   {
     "rank": 7,
     "id": 1749644,
     "title": "Shocked by online comments, reporter writes profile of hit-and-run victim",
     "url": "http://www.tampabay.com/news/obituaries/hit-and-run-victim-was-quiet-and-dependable-co-workers-say/1124721",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "gruseom",
+    "descendants": 111,
+    "time": 1285991004
   },
   {
     "rank": 8,
     "id": 1749960,
     "title": "Thank you, Ubuntu",
     "url": "http://psung.blogspot.com/2010/10/thank-you-ubuntu.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 164,
+    "by": "rglullis",
+    "descendants": 127,
+    "time": 1286003179
   },
   {
     "rank": 9,
     "id": 1750054,
     "title": "To live forever, break habits",
     "url": "http://www.npr.org/blogs/13.7/2010/09/29/130221453/how-to-live-forever-or-why-habits-are-a-curse",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "widgetycrank",
+    "descendants": 34,
+    "time": 1286007411
   },
   {
     "rank": 10,
     "id": 1750604,
     "title": "Google's CEO: 'The Laws Are Written by Lobbyists'",
     "url": "http://www.theatlantic.com/technology/archive/2010/10/googles-ceo-the-laws-are-written-by-lobbyists/63908",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "riffer",
+    "descendants": 134,
+    "time": 1286033004
   }
 ]

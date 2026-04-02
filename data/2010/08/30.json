@@ -4,99 +4,99 @@
     "id": 1644094,
     "title": "Obesity: Drink till you drop",
     "url": "http://www.economist.com/node/16881791",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 125,
+    "by": "jsyedidia",
+    "descendants": 105,
+    "time": 1283101365
   },
   {
     "rank": 2,
     "id": 1644876,
     "title": "Rails 3.0: It's ready",
     "url": "http://weblog.rubyonrails.org/2010/8/29/rails-3-0-it-s-done",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "steveklabnik",
+    "descendants": 65,
+    "time": 1283124584
   },
   {
     "rank": 3,
     "id": 1644915,
     "title": "Swarmation: like musical chairs for pixels",
     "url": "http://swarmation.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 208,
+    "by": "mcantelon",
+    "descendants": 73,
+    "time": 1283126035
   },
   {
     "rank": 4,
     "id": 1645745,
     "title": "The Tragic Death of Practically Everything",
     "url": "http://technologizer.com/2010/08/18/the-tragic-death-of-practically-everything/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 112,
+    "by": "dhotson",
+    "descendants": 12,
+    "time": 1283160137
   },
   {
     "rank": 5,
     "id": 1646087,
     "title": "Jason Fried: The Truth About Real Estate",
     "url": "http://www.inc.com/magazine/20100901/the-truth-about-real-estate.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 155,
+    "by": "slater",
+    "descendants": 73,
+    "time": 1283173724
   },
   {
     "rank": 6,
     "id": 1646096,
     "title": "Python Visual Tutorial",
     "url": "http://people.csail.mit.edu/pgbovine/python/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 159,
+    "by": "prog",
+    "descendants": 25,
+    "time": 1283173932
   },
   {
     "rank": 7,
     "id": 1646215,
     "title": "Bill Gates Enrolls His Kids In Khan Academy",
     "url": "http://money.cnn.com/2010/08/23/technology/sal_khan_academy.fortune/index.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 344,
+    "by": "cwan",
+    "descendants": 93,
+    "time": 1283177564
   },
   {
     "rank": 8,
     "id": 1646311,
     "title": "The Illusion of Winning",
     "url": "http://dilbert.com/blog/entry/the_illusion_of_winning/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 209,
+    "by": "cwan",
+    "descendants": 47,
+    "time": 1283179529
   },
   {
     "rank": 9,
     "id": 1646430,
     "title": "Arcade Fire meets HTML5",
     "url": "http://googleblog.blogspot.com/2010/08/arcade-fire-meets-html5.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/MKuf+(Official+Google+Blog)&utm_content=Google+Feedfetcher",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "larrykubin",
+    "descendants": 54,
+    "time": 1283181690
   },
   {
     "rank": 10,
     "id": 1646871,
     "title": "Kind reminder: please (re)read the HN guidelines",
     "url": "http://ycombinator.com/newsguidelines.html#",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 353,
+    "by": "andreyf",
+    "descendants": 133,
+    "time": 1283189440
   }
 ]

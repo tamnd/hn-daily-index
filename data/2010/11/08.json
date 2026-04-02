@@ -4,99 +4,99 @@
     "id": 1879866,
     "title": "The Scene Will Kill You",
     "url": "http://bhargreaves.com/2010/11/scene-kill/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 138,
+    "by": "thesyndicate",
+    "descendants": 35,
+    "time": 1289152556
   },
   {
     "rank": 2,
     "id": 1881262,
     "title": "Full Hacker News database for download (posts, comments, points, date, username)",
     "url": "http://api.ihackernews.com/?db",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "ronnier",
+    "descendants": 83,
+    "time": 1289187141
   },
   {
     "rank": 3,
     "id": 1881856,
     "title": "Sailing dead downwind faster than the wind. Impossible, but they did it.",
     "url": "http://kimballlivingston.com/?p=3971",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 152,
+    "by": "nl",
+    "descendants": 68,
+    "time": 1289205798
   },
   {
     "rank": 4,
     "id": 1882161,
     "title": "Questions you'd be crazy not to ask at the start of your next project",
     "url": "http://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "rasmus4200",
+    "descendants": 12,
+    "time": 1289217151
   },
   {
     "rank": 5,
     "id": 1882203,
     "title": "Implementing the auto-buying bot from xkcd #576",
     "url": "http://bieh.net/2010/11/08/xkcd-576/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "bensummers",
+    "descendants": 82,
+    "time": 1289218216
   },
   {
     "rank": 6,
     "id": 1882307,
     "title": "My Android development income report",
     "url": "http://www.kreci.net/reports/android-developer-income-report/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 172,
+    "by": "kreci",
+    "descendants": 83,
+    "time": 1289221270
   },
   {
     "rank": 7,
     "id": 1882327,
     "title": "Things You Should Do Immediately After Launching a Website",
     "url": "http://sixrevisions.com/website-management/things-you-should-do-immediately-after-launching-a-website/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 221,
+    "by": "abraham",
+    "descendants": 33,
+    "time": 1289221740
   },
   {
     "rank": 8,
     "id": 1882753,
     "title": "Opera holds the web's most valuable secret",
     "url": "http://www.theregister.co.uk/2010/11/08/opera_transaction_cache/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 200,
+    "by": "andyking",
+    "descendants": 63,
+    "time": 1289230874
   },
   {
     "rank": 9,
     "id": 1883041,
     "title": "What It's Like to Work at Apple",
     "url": "http://jobs.aol.com/articles/2010/11/07/what-its-like-to-work-at-apple/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 180,
+    "by": "rams",
+    "descendants": 77,
+    "time": 1289235239
   },
   {
     "rank": 10,
     "id": 1883443,
     "title": "Full CSS3 Lightbox - Absolutely no JavaScript",
     "url": "http://playground.deaxon.com/css/lightbox/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "js4all",
+    "descendants": 109,
+    "time": 1289241833
   }
 ]

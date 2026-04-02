@@ -4,99 +4,99 @@
     "id": 1658235,
     "title": "Zawinski: iPad just-slightly insufficiently futurey",
     "url": "http://jwz.livejournal.com/1284712.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 92,
+    "by": "fogus",
+    "descendants": 60,
+    "time": 1283474977
   },
   {
     "rank": 2,
     "id": 1661986,
     "title": "Two things every Unix developer should know",
     "url": "http://factor-language.blogspot.com/2010/09/two-things-every-unix-developer-should.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 88,
+    "by": "mahmud",
+    "descendants": 11,
+    "time": 1283573237
   },
   {
     "rank": 3,
     "id": 1662069,
     "title": "Xpra is screen for X applications",
     "url": "http://code.google.com/p/partiwm/wiki/xpra",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 85,
+    "by": "rwolf",
+    "descendants": 15,
+    "time": 1283576673
   },
   {
     "rank": 4,
     "id": 1662086,
     "title": "Craigslist Censored: Adult Section Comes Down",
     "url": "http://techcrunch.com/2010/09/03/craigslist-censored-adult-section-comes-down/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Techcrunch+(TechCrunch)",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 78,
+    "by": "jswinghammer",
+    "descendants": 100,
+    "time": 1283577439
   },
   {
     "rank": 5,
     "id": 1662430,
     "title": "A Problem Course in Compilation: From Python to x86 Assembly [pdf]",
     "url": "http://ecee.colorado.edu/ecen4553/fall09/notes.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 104,
+    "by": "mahmud",
+    "descendants": 5,
+    "time": 1283595086
   },
   {
     "rank": 6,
     "id": 1663056,
     "title": "The MIT Guide to Hacking",
     "url": "http://stuff.mit.edu/afs/athena/activity/h/htgamit/text/2005/HackingSection.txt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 123,
+    "by": "xtacy",
+    "descendants": 21,
+    "time": 1283622605
   },
   {
     "rank": 7,
     "id": 1663389,
     "title": "Every BBC Essential Mix, 1993 to 2010",
     "url": "http://thenine.ca/essential/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 143,
+    "by": "metamemetics",
+    "descendants": 57,
+    "time": 1283634245
   },
   {
     "rank": 8,
     "id": 1663474,
     "title": "She tried 960 times",
     "url": "http://www.nytimes.com/2010/09/04/world/asia/04driver.html?_r=1&ref=world",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 108,
+    "by": "da5e",
+    "descendants": 51,
+    "time": 1283637146
   },
   {
     "rank": 9,
     "id": 1663858,
     "title": "\"Hello, world\" in Assembly.",
     "url": "http://asm.sourceforge.net/intro/hello.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 89,
+    "by": "pavs",
+    "descendants": 33,
+    "time": 1283653039
   },
   {
     "rank": 10,
     "id": 1663967,
     "title": "Why the iPhone will fail (2007)",
     "url": "http://suckbusters2.blogspot.com/2007/06/apple-iphone-debut-to-flop-product-to.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 100,
+    "by": "aneth",
+    "descendants": 87,
+    "time": 1283659176
   }
 ]

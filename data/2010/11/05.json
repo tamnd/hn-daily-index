@@ -4,99 +4,99 @@
     "id": 1869136,
     "title": "What Happened to NewsBlur: A Hacker News Effect Post-Mortem",
     "url": "http://www.ofbrooklyn.com/2010/11/3/hacker-news-effect-post-mortem/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 132,
+    "by": "conesus",
+    "descendants": 43,
+    "time": 1288882842
   },
   {
     "rank": 2,
     "id": 1869404,
     "title": "MySQL at Facebook",
     "url": "http://highscalability.com/blog/2010/11/4/facebook-at-13-million-queries-per-second-recommends-minimiz.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "chuhnk",
+    "descendants": 39,
+    "time": 1288886221
   },
   {
     "rank": 3,
     "id": 1870473,
     "title": "WorkFlowy (YC S10) launches a better way to organize your brain",
     "url": "http://techcrunch.com/2010/11/04/workflow/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 172,
+    "by": "jessep",
+    "descendants": 188,
+    "time": 1288899933
   },
   {
     "rank": 4,
     "id": 1870960,
     "title": "$80,000 a Month in App Sales by Outsourcing Everything",
     "url": "http://mixergy.com/free-apps-interview/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 205,
+    "by": "gatsby",
+    "descendants": 110,
+    "time": 1288907396
   },
   {
     "rank": 5,
     "id": 1871608,
     "title": "Microsoft releases F# under Apache 2.0 license",
     "url": "http://blogs.msdn.com/b/dsyme/archive/2010/11/04/announcing-the-f-compiler-library-source-code-drop.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 217,
+    "by": "ataranto",
+    "descendants": 101,
+    "time": 1288920261
   },
   {
     "rank": 6,
     "id": 1871700,
     "title": "Google: Facebook Can\u2019t Import Our User Data Any Longer Without Reciprocity",
     "url": "http://techcrunch.com/2010/11/04/facebook-google-contacts/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 175,
+    "by": "ssclafani",
+    "descendants": 62,
+    "time": 1288922803
   },
   {
     "rank": 7,
     "id": 1872536,
     "title": "Ubuntu To Ditch X Server For Wayland",
     "url": "http://digitizor.com/2010/11/05/ubuntu-to-ditch-x-for-wayland/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "dkd903",
+    "descendants": 154,
+    "time": 1288948849
   },
   {
     "rank": 8,
     "id": 1872656,
     "title": "How To Write a Learn X the Hard Way",
     "url": "http://sheddingbikes.com/posts/1288945508.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 194,
+    "by": "fukumoto",
+    "descendants": 50,
+    "time": 1288953644
   },
   {
     "rank": 9,
     "id": 1873542,
     "title": "Just buy this one",
     "url": "http://www.justbuythisone.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "will_critchlow",
+    "descendants": 99,
+    "time": 1288971442
   },
   {
     "rank": 10,
     "id": 1874271,
     "title": "\"Please take this down and write your own book.\" Zed Shaw",
     "url": "https://github.com/martinemde/learn-ruby-the-hard-way/issues/1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 170,
+    "by": "bobbywilson0",
+    "descendants": 171,
+    "time": 1288981871
   }
 ]

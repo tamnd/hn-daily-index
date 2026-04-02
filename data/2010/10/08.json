@@ -4,99 +4,99 @@
     "id": 1767995,
     "title": "Scott Adams: The Social Network, \"The best movie I've ever seen\"",
     "url": "http://dilbert.com/blog/entry/the_social_network__review/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 147,
+    "by": "cwan",
+    "descendants": 106,
+    "time": 1286462875
   },
   {
     "rank": 2,
     "id": 1768312,
     "title": "You Can't Sacrifice Partition Tolerance",
     "url": "http://codahale.com/you-cant-sacrifice-partition-tolerance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 136,
+    "by": "codahale",
+    "descendants": 50,
+    "time": 1286468136
   },
   {
     "rank": 3,
     "id": 1769598,
     "title": "IE6 effect in HTML5",
     "url": "http://mrdoob.com/lab/javascript/effects/ie6/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 225,
+    "by": "tswicegood",
+    "descendants": 25,
+    "time": 1286486696
   },
   {
     "rank": 4,
     "id": 1769761,
     "title": "MongoDB's lead developer: Foursquare outage post mortem",
     "url": "http://groups.google.com/group/mongodb-user/browse_thread/thread/528a94f287e9d77e",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "pc",
+    "descendants": 174,
+    "time": 1286490047
   },
   {
     "rank": 5,
     "id": 1769910,
     "title": "Ask HN: Tools of the trade, 2010 edition",
     "url": "http://news.ycombinator.com/item?id=1769910",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 240,
+    "by": "joshu",
+    "descendants": 92,
+    "time": 1286493523
   },
   {
     "rank": 6,
     "id": 1770435,
     "title": "Bread and Circuses: The State of Web App Startups",
     "url": "http://jolieodell.wordpress.com/2010/10/07/bread-and-circuses-the-state-of-web-app-startups/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "jayliew",
+    "descendants": 147,
+    "time": 1286507405
   },
   {
     "rank": 7,
     "id": 1770444,
     "title": "Caught Spying on Student, FBI Demands GPS Tracker Back",
     "url": "http://www.wired.com/threatlevel/2010/10/fbi-tracking-device/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 184,
+    "by": "lotusleaf1987",
+    "descendants": 158,
+    "time": 1286507540
   },
   {
     "rank": 8,
     "id": 1771607,
     "title": "Tell HN: Your social widgets are losing you visitors right now",
     "url": "http://news.ycombinator.com/item?id=1771607",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "rarestblog",
+    "descendants": 73,
+    "time": 1286545664
   },
   {
     "rank": 9,
     "id": 1772205,
     "title": "Thank HN: 7 months ago, I asked for help. Now I've got 5 employees.",
     "url": "http://news.ycombinator.com/item?id=1772205",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "needmoney",
+    "descendants": 114,
+    "time": 1286555647
   },
   {
     "rank": 10,
     "id": 1772224,
     "title": "Ask HN: Side Projects Gone Big",
     "url": "http://news.ycombinator.com/item?id=1772224",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "SomeoneAtHN",
+    "descendants": 155,
+    "time": 1286555915
   }
 ]

@@ -4,99 +4,99 @@
     "id": 1617629,
     "title": "Clojure 1.2 released",
     "url": "http://clojure.blogspot.com/2010/08/clojure-12-release.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 114,
+    "by": "bretthoerner",
+    "descendants": 5,
+    "time": 1282231856
   },
   {
     "rank": 2,
     "id": 1618007,
     "title": "Recovering deleted files using grep",
     "url": "http://spin.atomicobject.com/2010/08/18/undelete?utm_source=y-combinator&utm_medium=social-media&utm_campaign=technical",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 168,
+    "by": "atomicobject",
+    "descendants": 47,
+    "time": 1282240472
   },
   {
     "rank": 3,
     "id": 1618113,
     "title": "2010 Startup School: October 16 at Stanford",
     "url": "http://www.startupschool.org/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 128,
+    "by": "pg",
+    "descendants": 59,
+    "time": 1282242504
   },
   {
     "rank": 4,
     "id": 1619181,
     "title": "Gmail adds video chat for Linux",
     "url": "http://gmailblog.blogspot.com/2010/08/use-linux-now-you-can-video-chat-too.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+OfficialGmailBlog+(Gmail+Blog)",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 120,
+    "by": "SandB0x",
+    "descendants": 20,
+    "time": 1282266434
   },
   {
     "rank": 5,
     "id": 1619205,
     "title": "Facebook iPhone app takes OSS code without attribution",
     "url": "http://developers.enormego.com/view/what-happened-common-courtesy-facebook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 154,
+    "by": "basil",
+    "descendants": 34,
+    "time": 1282267547
   },
   {
     "rank": 6,
     "id": 1619888,
     "title": "This is the best \"we're hiring\" image ever drawn",
     "url": "http://www.dropbox.com/jobs",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 166,
+    "by": "leif",
+    "descendants": 89,
+    "time": 1282294884
   },
   {
     "rank": 7,
     "id": 1620312,
     "title": "Ray Kurzweil Responds to \"Ray Kurzweil does not understand the brain\"",
     "url": "http://www.kurzweilai.net/ray-kurzweil-responds-to-ray-kurzweil-does-not-understand-the-brain",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 125,
+    "by": "ankeshk",
+    "descendants": 160,
+    "time": 1282310708
   },
   {
     "rank": 8,
     "id": 1620333,
     "title": "The Start-up from Hell",
     "url": "http://jacquesmattheij.com/The+start-up+from+hell",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "jacquesm",
+    "descendants": 78,
+    "time": 1282311374
   },
   {
     "rank": 9,
     "id": 1621108,
     "title": "Ultraviolet light reveals how ancient Greek statues really looked",
     "url": "http://io9.com/5616498/ultraviolet-light-reveals-how-ancient-greek-statues-really-looked",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "jawngee",
+    "descendants": 45,
+    "time": 1282327981
   },
   {
     "rank": 10,
     "id": 1621323,
     "title": "Daring Fireball: Creep Executive Officer",
     "url": "http://daringfireball.net/2010/08/creep_executive_officer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 239,
+    "by": "barredo",
+    "descendants": 155,
+    "time": 1282332602
   }
 ]

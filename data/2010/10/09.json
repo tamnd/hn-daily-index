@@ -4,99 +4,99 @@
     "id": 1771129,
     "title": "Some clients are evil and their work is toxic",
     "url": "http://hossgifford.com/fast-good-cheap/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 144,
+    "by": "j4mie",
+    "descendants": 56,
+    "time": 1286532196
   },
   {
     "rank": 2,
     "id": 1771151,
     "title": "AsmXml: a fast XML parser/decoder in pure x86 assembler ",
     "url": "http://tibleiz.net/asm-xml/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 132,
+    "by": "gmac",
+    "descendants": 46,
+    "time": 1286533408
   },
   {
     "rank": 3,
     "id": 1771361,
     "title": "Babbage's heart-warming message for the middle-aged",
     "url": "http://blog.jgc.org/2010/10/babbages-heart-warming-message-for.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 153,
+    "by": "jgrahamc",
+    "descendants": 68,
+    "time": 1286539824
   },
   {
     "rank": 4,
     "id": 1771453,
     "title": "Styled Maps Using Google Maps API Version 3",
     "url": "http://www.41latitude.com/post/1268734799/google-styled-maps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 149,
+    "by": "ugh",
+    "descendants": 25,
+    "time": 1286542181
   },
   {
     "rank": 5,
     "id": 1772650,
     "title": "Can you solve it?  The Greplin programming challenge",
     "url": "http://challenge.greplin.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 220,
+    "by": "rwalker",
+    "descendants": 156,
+    "time": 1286561485
   },
   {
     "rank": 6,
     "id": 1772859,
     "title": "The Duct Tape Architect",
     "url": "http://www.cubeia.com/index.php/blog/archives/140",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 134,
+    "by": "Feeble",
+    "descendants": 25,
+    "time": 1286563962
   },
   {
     "rank": 7,
     "id": 1773103,
     "title": "So I made something that's pretty stupid but had fun doing it",
     "url": "http://www.hitlerhops.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 179,
+    "by": "cnlwsu",
+    "descendants": 142,
+    "time": 1286567705
   },
   {
     "rank": 8,
     "id": 1773398,
     "title": "Lets make November \"Launch an App Month\", who's with me?",
     "url": "http://news.ycombinator.com/item?id=1773398",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 187,
+    "by": "secos",
+    "descendants": 173,
+    "time": 1286572194
   },
   {
     "rank": 9,
     "id": 1775570,
     "title": "Google: What We're Driving At",
     "url": "http://googleblog.blogspot.com/2010/10/what-were-driving-at.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 259,
+    "by": "piinbinary",
+    "descendants": 84,
+    "time": 1286651113
   },
   {
     "rank": 10,
     "id": 1775584,
     "title": "Google Cars Drive Themselves, in Traffic",
     "url": "http://www.nytimes.com/2010/10/10/science/10google.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "recampbell",
+    "descendants": 205,
+    "time": 1286651548
   }
 ]

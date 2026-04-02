@@ -4,99 +4,99 @@
     "id": 1681154,
     "title": "PhD or Not PhD: that is the question",
     "url": "http://matt-welsh.blogspot.com/2010/09/so-you-want-to-go-to-grad-school.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 77,
+    "by": "yarapavan",
+    "descendants": 53,
+    "time": 1284190115
   },
   {
     "rank": 2,
     "id": 1681367,
     "title": "Google Maps Instant (inspired by Youtube Instant)",
     "url": "http://hartlabs.net/instant_maps/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 78,
+    "by": "vijaydev",
+    "descendants": 59,
+    "time": 1284203947
   },
   {
     "rank": 3,
     "id": 1681384,
     "title": "Structure Synth, an IDE for creating recursive 3D art",
     "url": "http://structuresynth.sourceforge.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 74,
+    "by": "rufflelesl",
+    "descendants": 23,
+    "time": 1284204732
   },
   {
     "rank": 4,
     "id": 1681453,
     "title": "CPU vs. GPU",
     "url": "http://www.youtube.com/watch?v=XtGf0HaW7x4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 121,
+    "by": "Garbage",
+    "descendants": 22,
+    "time": 1284208886
   },
   {
     "rank": 5,
     "id": 1682026,
     "title": "HN: Let's Try Something Cool - Add Your Spot On The Hacker News Map",
     "url": "http://jmarbach.com/hackernews",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 118,
+    "by": "jmarbach",
+    "descendants": 46,
+    "time": 1284229071
   },
   {
     "rank": 6,
     "id": 1682089,
     "title": "Texas Hold'em Experiment",
     "url": "http://www.benjoffe.com/holdem",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 148,
+    "by": "slig",
+    "descendants": 34,
+    "time": 1284230917
   },
   {
     "rank": 7,
     "id": 1682396,
     "title": "Drinking the Node.js Kool-Aid",
     "url": "http://journal.paul.querna.org/articles/2010/06/12/node-js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 89,
+    "by": "shawndumas",
+    "descendants": 34,
+    "time": 1284240358
   },
   {
     "rank": 8,
     "id": 1683294,
     "title": "Go That Way, Really Fast",
     "url": "http://www.codinghorror.com/blog/2010/09/go-that-way-really-fast.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 125,
+    "by": "bdfh42",
+    "descendants": 33,
+    "time": 1284279450
   },
   {
     "rank": 9,
     "id": 1683563,
     "title": "Getting rejected",
     "url": "http://cdixon.org/2010/09/12/getting-rejected/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 188,
+    "by": "edo",
+    "descendants": 57,
+    "time": 1284295616
   },
   {
     "rank": 10,
     "id": 1683584,
     "title": "Hacker News Instant Search",
     "url": "http://instantise.com/#hackernews",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 146,
+    "by": "binomial",
+    "descendants": 43,
+    "time": 1284296674
   }
 ]

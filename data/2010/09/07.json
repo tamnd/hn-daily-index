@@ -4,99 +4,99 @@
     "id": 1667060,
     "title": "Patriot missile software failure, 28 soldiers died. Fix: reboot the system",
     "url": "http://en.wikipedia.org/wiki/MIM-104_Patriot#Failure_at_Dhahran",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 110,
+    "by": "bl4k",
+    "descendants": 74,
+    "time": 1283794920
   },
   {
     "rank": 2,
     "id": 1667093,
     "title": "Rotating Quine",
     "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 116,
+    "by": "anathem",
+    "descendants": 7,
+    "time": 1283796327
   },
   {
     "rank": 3,
     "id": 1667498,
     "title": "Redis 2.0.0 Stable is out",
     "url": "http://code.google.com/p/redis/wiki/Redis_2_0_0_Changelog?new",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 104,
+    "by": "dzohrob",
+    "descendants": 10,
+    "time": 1283810576
   },
   {
     "rank": 4,
     "id": 1667802,
     "title": "How a startup responds when a giant arrives",
     "url": "http://runkeeper.com/blog/uncategorized/welcome-nike-thanks-for-coming-part-two",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 235,
+    "by": "jjacobs22",
+    "descendants": 30,
+    "time": 1283824111
   },
   {
     "rank": 5,
     "id": 1667951,
     "title": "htty, the HTTP TTY",
     "url": "http://blog.nilsjonsson.com/post/1076166313/introducing-htty-the-http-tty",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 128,
+    "by": "njonsson",
+    "descendants": 29,
+    "time": 1283830725
   },
   {
     "rank": 6,
     "id": 1668167,
     "title": "Google.com has an animated logo using an HTML/JavaScript particle simulator",
     "url": "http://www.google.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 160,
+    "by": "bgentry",
+    "descendants": 67,
+    "time": 1283837395
   },
   {
     "rank": 7,
     "id": 1668285,
     "title": "Took me more than 2 years to get 200 paying customers for my Web App",
     "url": "http://www.startbreakingfree.com/1640/universitytutor-races-past-200-paying-customers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 236,
+    "by": "barmstrong",
+    "descendants": 83,
+    "time": 1283842334
   },
   {
     "rank": 8,
     "id": 1668588,
     "title": "How I Used Amazon\u2019s Mechanical Turk to Validate my Startup Idea",
     "url": "http://harperlindsey.wordpress.com/2010/09/01/how-i-used-amazons-mechanical-turk-to-validate-my-startup-idea/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 157,
+    "by": "toumhi",
+    "descendants": 58,
+    "time": 1283858413
   },
   {
     "rank": 9,
     "id": 1669009,
     "title": "What is the Speed of Gravity?",
     "url": "http://scienceblogs.com/startswithabang/2010/08/what_is_the_speed_of_gravity.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 218,
+    "by": "sdfx",
+    "descendants": 117,
+    "time": 1283871304
   },
   {
     "rank": 10,
     "id": 1669075,
     "title": "Agile Ruined My Life",
     "url": "http://www.whattofix.com/blog/archives/2010/09/agile-ruined-my.php",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 203,
+    "by": "DanielBMarkham",
+    "descendants": 131,
+    "time": 1283872882
   }
 ]
