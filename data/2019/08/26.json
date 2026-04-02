@@ -4,99 +4,99 @@
     "id": 20791174,
     "title": "Rabbit Holes: The Secret to Technical Expertise",
     "url": "http://blog.bityard.net/articles/2019/August/rabbit-holes-the-secret-to-technical-expertise.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "dailymorn",
+    "descendants": 57,
+    "time": 1566703684
   },
   {
     "rank": 2,
     "id": 20794541,
     "title": "Salsify \u2013 A New Architecture for Real-time Internet Video",
     "url": "https://snr.stanford.edu/salsify/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 250,
+    "by": "dedalus",
+    "descendants": 41,
+    "time": 1566757090
   },
   {
     "rank": 3,
     "id": 20795054,
     "title": "Zen 2 Missives \u2013 AMD now delivering efficiencies that are double that of Intel",
     "url": "http://apollo.backplane.com/2019-Zen2Missive.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "olvy0",
+    "descendants": 211,
+    "time": 1566762376
   },
   {
     "rank": 4,
     "id": 20796427,
     "title": "Major book publishers sue Amazon\u2019s Audible over new speech-to-text feature",
     "url": "https://www.theverge.com/2019/8/23/20830057/amazon-audible-speech-to-text-feature-lawsuit-major-book-publishers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 256,
+    "by": "bookofjoe",
+    "descendants": 357,
+    "time": 1566776754
   },
   {
     "rank": 5,
     "id": 20796446,
     "title": "QEMU VM Escape",
     "url": "https://blog.bi0s.in/2019/08/24/Pwn/VM-Escape/2019-07-29-qemu-vm-escape-cve-2019-14378/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "ngaut",
+    "descendants": 57,
+    "time": 1566776986
   },
   {
     "rank": 6,
     "id": 20798003,
     "title": "Show HN: I made a CRM system to make sales fun",
     "url": "https://wobaka.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "drikerf",
+    "descendants": 206,
+    "time": 1566803608
   },
   {
     "rank": 7,
     "id": 20798033,
     "title": "Should small Rust structs be passed by-copy or by-borrow?",
     "url": "https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 229,
+    "by": "forrestthewoods",
+    "descendants": 107,
+    "time": 1566804258
   },
   {
     "rank": 8,
     "id": 20798042,
     "title": "Moscow's blockchain voting system cracked a month before election",
     "url": "https://www.zdnet.com/article/moscows-blockchain-voting-system-cracked-a-month-before-election/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "svenfaw",
+    "descendants": 107,
+    "time": 1566804552
   },
   {
     "rank": 9,
     "id": 20798322,
     "title": "Pronunciations for hexadecimal numbers (1968)",
     "url": "https://twitter.com/lizhenry/status/1165760903809130496",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "henrik_w",
+    "descendants": 117,
+    "time": 1566810068
   },
   {
     "rank": 10,
     "id": 20800832,
     "title": "Beyond Meat and KFC partner to test fried plant-based \u2018chicken\u2019",
     "url": "https://www.theverge.com/2019/8/26/20833145/beyond-meat-kfc-fried-chicken-test-plant-based-sample-date",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "_bxg1",
+    "descendants": 507,
+    "time": 1566834749
   }
 ]

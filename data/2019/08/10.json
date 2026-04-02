@@ -4,99 +4,99 @@
     "id": 20653316,
     "title": "Open-source firmware",
     "url": "https://mullvad.net/ja/blog/2019/8/7/open-source-firmware-future/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 247,
+    "by": "ericdanielski",
+    "descendants": 47,
+    "time": 1565350362
   },
   {
     "rank": 2,
     "id": 20653394,
     "title": "The Erlang Rationale",
     "url": "https://rvirding.blogspot.com/2019/01/the-erlang-rationale.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 211,
+    "by": "lelf",
+    "descendants": 38,
+    "time": 1565351202
   },
   {
     "rank": 3,
     "id": 20655017,
     "title": "Kubernetes Security Assessment [pdf]",
     "url": "https://github.com/kubernetes/community/blob/master/wg-security-audit/findings/Kubernetes%20Final%20Report.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "Tomte",
+    "descendants": 63,
+    "time": 1565363117
   },
   {
     "rank": 4,
     "id": 20656241,
     "title": "\u2018No One Saw a Thing\u2019: When a Midwest Town Banded Together to Kill the Town Bully",
     "url": "https://www.thedailybeast.com/no-one-saw-a-thing-when-a-small-midwest-town-banded-together-to-kill-the-town-bully",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 207,
+    "by": "BobbyVsTheDevil",
+    "descendants": 251,
+    "time": 1565370303
   },
   {
     "rank": 5,
     "id": 20656680,
     "title": "Coinbase: Responding to Firefox 0-days in the wild",
     "url": "https://blog.coinbase.com/responding-to-firefox-0-days-in-the-wild-d9c85a57f15b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "hi",
+    "descendants": 93,
+    "time": 1565372891
   },
   {
     "rank": 6,
     "id": 20656929,
     "title": "Rice University researchers propose a way to boost solar efficiency",
     "url": "https://polyarch.co/rice-university-research-heat-into-light/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "shry4ns",
+    "descendants": 120,
+    "time": 1565374342
   },
   {
     "rank": 7,
     "id": 20657398,
     "title": "Home Chip Fab",
     "url": "http://sam.zeloof.xyz/category/semiconductor/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 566,
+    "by": "JabavuAdams",
+    "descendants": 131,
+    "time": 1565377773
   },
   {
     "rank": 8,
     "id": 20658739,
     "title": "Who Owns Huawei?",
     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372669",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 547,
+    "by": "smacktoward",
+    "descendants": 312,
+    "time": 1565389996
   },
   {
     "rank": 9,
     "id": 20660634,
     "title": "A mathematician's way of converting miles to kilometers",
     "url": "https://twitter.com/TamasGorbe/status/1158348261683605504",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 558,
+    "by": "allthebest",
+    "descendants": 200,
+    "time": 1565420845
   },
   {
     "rank": 10,
     "id": 20662232,
     "title": "What Does a Coder Do If They Can't Type?",
     "url": "http://nsaphra.github.io/post/hands/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 986,
+    "by": "panic",
+    "descendants": 385,
+    "time": 1565447302
   }
 ]

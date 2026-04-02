@@ -4,99 +4,99 @@
     "id": 20496786,
     "title": "Space Engine",
     "url": "http://spaceengine.org",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 607,
+    "by": "tosh",
+    "descendants": 111,
+    "time": 1563792334
   },
   {
     "rank": 2,
     "id": 20507628,
     "title": "Composable multi-threaded parallelism in Julia",
     "url": "https://julialang.org/blog/2019/07/multithreading",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "KenoFischer",
+    "descendants": 142,
+    "time": 1563896659
   },
   {
     "rank": 3,
     "id": 20507925,
     "title": "Lyft releases self-driving research dataset",
     "url": "https://medium.com/lyftlevel5/unlocking-access-to-self-driving-research-the-lyft-level-5-dataset-and-competition-d487c27b1b6c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "dchengy",
+    "descendants": 102,
+    "time": 1563898959
   },
   {
     "rank": 4,
     "id": 20509428,
     "title": "Mitchell Feigenbaum (1944\u20132019), 4.66920160910299067185320382\u2026",
     "url": "https://blog.stephenwolfram.com/2019/07/mitchell-feigenbaum-1944-2019-4-66920160910299067185320382/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 561,
+    "by": "techgipper",
+    "descendants": 75,
+    "time": 1563909723
   },
   {
     "rank": 5,
     "id": 20511555,
     "title": "Fork: A fast and friendly Git client for Mac and Windows",
     "url": "https://fork.dev",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "archagon",
+    "descendants": 170,
+    "time": 1563930303
   },
   {
     "rank": 6,
     "id": 20513702,
     "title": "About the \u201cSecurity Issue\u201d on VLC",
     "url": "https://twitter.com/videolan/status/1153963312981389312",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 405,
+    "by": "tiri",
+    "descendants": 165,
+    "time": 1563962958
   },
   {
     "rank": 7,
     "id": 20513987,
     "title": "Use plaintext email",
     "url": "https://useplaintext.email/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "ddevault",
+    "descendants": 334,
+    "time": 1563966837
   },
   {
     "rank": 8,
     "id": 20514755,
     "title": "Visual Information Theory (2015)",
     "url": "https://colah.github.io/posts/2015-09-Visual-Information/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 543,
+    "by": "less_penguiny",
+    "descendants": 45,
+    "time": 1563973191
   },
   {
     "rank": 9,
     "id": 20514833,
     "title": "Don\u2019t Put Your Work Email on Your Personal Phone",
     "url": "https://onezero.medium.com/dont-put-your-work-email-on-your-personal-phone-ef7fef956c2f",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "3x3matrix",
+    "descendants": 266,
+    "time": 1563973660
   },
   {
     "rank": 10,
     "id": 20515235,
     "title": "FTC Imposes $5B Penalty and Sweeping New Privacy Restrictions on Facebook",
     "url": "https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "vonmoltke",
+    "descendants": 210,
+    "time": 1563976282
   }
 ]

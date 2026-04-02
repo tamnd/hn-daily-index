@@ -4,99 +4,99 @@
     "id": 20636152,
     "title": "MoviePass Worked Out Great",
     "url": "https://www.bloomberg.com/opinion/articles/2019-08-07/moviepass-worked-out-great",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "airstrike",
+    "descendants": 272,
+    "time": 1565194971
   },
   {
     "rank": 2,
     "id": 20638315,
     "title": "A Boeing Code Leak Exposes Security Flaws Deep in a 787'S Guts",
     "url": "https://www.wired.com/story/boeing-787-code-leak-security-flaws/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "samuell",
+    "descendants": 270,
+    "time": 1565208128
   },
   {
     "rank": 3,
     "id": 20639999,
     "title": "The Fully Remote Attack Surface of the iPhone",
     "url": "https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "lelf",
+    "descendants": 75,
+    "time": 1565217925
   },
   {
     "rank": 4,
     "id": 20640148,
     "title": "AMD Rome Second Generation EPYC Review: 2x 64-core Benchmarked",
     "url": "https://www.anandtech.com/show/14694/amd-rome-epyc-2nd-gen",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "ksec",
+    "descendants": 204,
+    "time": 1565219245
   },
   {
     "rank": 5,
     "id": 20641410,
     "title": "Linux Journal Ceases Publication: An Awkward Goodbye",
     "url": "https://www.linuxjournal.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 838,
+    "by": "akulbe",
+    "descendants": 356,
+    "time": 1565232754
   },
   {
     "rank": 6,
     "id": 20643052,
     "title": "The Lonely Work of Moderating Hacker News",
     "url": "https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1663,
+    "by": "lordnacho",
+    "descendants": 777,
+    "time": 1565257763
   },
   {
     "rank": 7,
     "id": 20643604,
     "title": "AMD lands Google, Twitter as customers with newest server chip",
     "url": "https://www.reuters.com/article/us-amd-alphabet/amd-lands-google-twitter-as-customers-with-newest-server-chip-idUSKCN1UX2KL",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 837,
+    "by": "jonbaer",
+    "descendants": 255,
+    "time": 1565264884
   },
   {
     "rank": 8,
     "id": 20646350,
     "title": "GitHub Actions now supports CI/CD, free for public repositories",
     "url": "https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 680,
+    "by": "dstaheli",
+    "descendants": 231,
+    "time": 1565284266
   },
   {
     "rank": 9,
     "id": 20647592,
     "title": "Facebook has been granted patent on shadow banning",
     "url": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10,356,024.PN.&OS=PN/10,356,024&RS=PN/10,356,024",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 650,
+    "by": "smsm42",
+    "descendants": 244,
+    "time": 1565291597
   },
   {
     "rank": 10,
     "id": 20648233,
     "title": "Uber Posts $5.2B Loss and Slowest Ever Growth Rate",
     "url": "https://www.nytimes.com/2019/08/08/technology/uber-earnings.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "jumelles",
+    "descendants": 501,
+    "time": 1565295483
   }
 ]

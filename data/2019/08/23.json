@@ -4,99 +4,99 @@
     "id": 20767183,
     "title": "CyberChef \u2013 Cyber Swiss Army Knife",
     "url": "https://gchq.github.io/CyberChef/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 394,
+    "by": "onion2k",
+    "descendants": 59,
+    "time": 1566476160
   },
   {
     "rank": 2,
     "id": 20771784,
     "title": "Some Obscure C Features",
     "url": "https://multun.net/obscure-c-features.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 476,
+    "by": "Morhaus",
+    "descendants": 138,
+    "time": 1566503714
   },
   {
     "rank": 3,
     "id": 20772416,
     "title": "The Many Possibilities of iMessage File Vulnerability",
     "url": "https://googleprojectzero.blogspot.com/2019/08/the-many-possibilities-of-cve-2019-8646.html?m=1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 279,
+    "by": "jakejarvis",
+    "descendants": 82,
+    "time": 1566508499
   },
   {
     "rank": 4,
     "id": 20772751,
     "title": "VMware Acquires Carbon Black for $2.1B and Pivotal for $2.7B",
     "url": "https://techcrunch.com/2019/08/22/vmware-acquires-carbon-black-for-2-1b-and-pivotal-for-2-7-billion/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "frostmatthew",
+    "descendants": 150,
+    "time": 1566510881
   },
   {
     "rank": 5,
     "id": 20774322,
     "title": "Show HN: CLI tool for saving web pages as a single file",
     "url": "https://github.com/Y2Z/monolith",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 640,
+    "by": "flatroze",
+    "descendants": 209,
+    "time": 1566531058
   },
   {
     "rank": 6,
     "id": 20775549,
     "title": "Sourcehut welcomes Bitbucket refugees",
     "url": "https://sourcehut.org/blog/2019-08-21-sourcehut-welcomes-bitbucket-refugees/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "ddevault",
+    "descendants": 211,
+    "time": 1566549124
   },
   {
     "rank": 7,
     "id": 20777206,
     "title": "Amazon has proven unable or unwilling to effectively police third-party sellers",
     "url": "https://www.wsj.com/articles/amazon-has-ceded-control-of-its-site-the-result-thousands-of-banned-unsafe-or-mislabeled-products-11566564990?mod=rsswn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 604,
+    "by": "ktr",
+    "descendants": 327,
+    "time": 1566566267
   },
   {
     "rank": 8,
     "id": 20779004,
     "title": "Google Doesn\u2019t Want Staff Debating Politics at Work Anymore",
     "url": "https://www.bloomberg.com/news/articles/2019-08-23/google-doesn-t-want-employees-debating-politics-at-work-anymore",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 731,
+    "by": "mancerayder",
+    "descendants": 1040,
+    "time": 1566576466
   },
   {
     "rank": 9,
     "id": 20779964,
     "title": "Deconstructing Google\u2019s excuses on tracking protection",
     "url": "https://freedom-to-tinker.com/2019/08/23/deconstructing-googles-excuses-on-tracking-protection/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 918,
+    "by": "randomwalker",
+    "descendants": 256,
+    "time": 1566580807
   },
   {
     "rank": 10,
     "id": 20783006,
     "title": "Introducing nushell",
     "url": "http://www.jonathanturner.org/2019/08/introducing-nushell.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1477,
+    "by": "bradleybuda",
+    "descendants": 369,
+    "time": 1566596938
   }
 ]

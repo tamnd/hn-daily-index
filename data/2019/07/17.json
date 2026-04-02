@@ -4,99 +4,99 @@
     "id": 20451714,
     "title": "Your nines are not my nines",
     "url": "http://rachelbythebay.com/w/2019/07/15/giant/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "zdw",
+    "descendants": 129,
+    "time": 1563295902
   },
   {
     "rank": 2,
     "id": 20453241,
     "title": "What every computer science major should know (2011)",
     "url": "http://matt.might.net/articles/what-cs-majors-should-know/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 540,
+    "by": "rspivak",
+    "descendants": 182,
+    "time": 1563306380
   },
   {
     "rank": 3,
     "id": 20454966,
     "title": "Declined Proposal: A built-in Go error check function, \u201ctry\u201d",
     "url": "https://github.com/golang/go/issues/32437#issuecomment-512035919",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "robfig",
+    "descendants": 408,
+    "time": 1563320428
   },
   {
     "rank": 4,
     "id": 20455780,
     "title": "The PGP Problem",
     "url": "https://latacora.micro.blog/2019/07/16/the-pgp-problem.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 483,
+    "by": "wrench4916",
+    "descendants": 368,
+    "time": 1563329153
   },
   {
     "rank": 5,
     "id": 20455873,
     "title": "Neuralink Live Stream [video]",
     "url": "https://www.youtube.com/watch?v=r-vbh3t7WVI",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "miguelrochefort",
+    "descendants": 287,
+    "time": 1563330294
   },
   {
     "rank": 6,
     "id": 20457419,
     "title": "How to Find Hidden Cameras in Your Airbnb",
     "url": "https://isc.sans.edu/diary/How+to+Find+Hidden+Cameras+in+your+AirBNB/24834",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "greencore",
+    "descendants": 313,
+    "time": 1563350103
   },
   {
     "rank": 7,
     "id": 20457706,
     "title": "Notre-Dame came closer to collapsing than people knew",
     "url": "https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 494,
+    "by": "Luc",
+    "descendants": 239,
+    "time": 1563354129
   },
   {
     "rank": 8,
     "id": 20458493,
     "title": "Zelda Screen Transitions Are Undefined Behaviour",
     "url": "https://gridbugs.org/zelda-screen-transitions-are-undefined-behaviour/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "Kaali",
+    "descendants": 100,
+    "time": 1563365025
   },
   {
     "rank": 9,
     "id": 20459783,
     "title": "The Raspberry Pi 4 needs a fan",
     "url": "https://www.jeffgeerling.com/blog/2019/raspberry-pi-4-needs-fan-heres-why-and-how-you-can-add-one",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 566,
+    "by": "geerlingguy",
+    "descendants": 277,
+    "time": 1563373336
   },
   {
     "rank": 10,
     "id": 20460438,
     "title": "How can phone companies detect tethering?",
     "url": "https://android.stackexchange.com/questions/47819/how-can-phone-companies-detect-tethering-incl-wifi-hotspot",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 458,
+    "by": "antouank",
+    "descendants": 223,
+    "time": 1563377045
   }
 ]

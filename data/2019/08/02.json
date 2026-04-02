@@ -4,99 +4,99 @@
     "id": 20582634,
     "title": "John Carmack on Parallel Implementations (2018)",
     "url": "http://sevangelatos.com/john-carmack-on-parallel-implementations/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "drawkbox",
+    "descendants": 44,
+    "time": 1564655631
   },
   {
     "rank": 2,
     "id": 20585447,
     "title": "Every Noise at Once",
     "url": "http://everynoise.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "neka",
+    "descendants": 82,
+    "time": 1564677019
   },
   {
     "rank": 3,
     "id": 20587440,
     "title": "Google and Mozilla are failing to support browser extension developers",
     "url": "https://armin.dev/blog/2019/08/supporting-browser-extension-developers/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 563,
+    "by": "dessant",
+    "descendants": 190,
+    "time": 1564688001
   },
   {
     "rank": 4,
     "id": 20588135,
     "title": "35 Over 35",
     "url": "https://theamericanscholar.org/35-over-35/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "danso",
+    "descendants": 118,
+    "time": 1564692070
   },
   {
     "rank": 5,
     "id": 20589216,
     "title": "Knuth on Huang's Sensitivity Proof: \u201cI've got the proof down to one page\u201d [pdf]",
     "url": "https://www.scottaaronson.com/blog/?p=4229#comment-1815290",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 462,
+    "by": "espeed",
+    "descendants": 98,
+    "time": 1564700923
   },
   {
     "rank": 6,
     "id": 20590982,
     "title": "Living Near Trees, Not Just Green Space, Improves Wellbeing",
     "url": "https://www.citylab.com/environment/2019/07/urban-tree-canopy-green-space-wellbeing-research/595060/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 664,
+    "by": "Osiris30",
+    "descendants": 202,
+    "time": 1564727021
   },
   {
     "rank": 7,
     "id": 20591609,
     "title": "Contributing to the Mozilla code base",
     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "new_here",
+    "descendants": 150,
+    "time": 1564737405
   },
   {
     "rank": 8,
     "id": 20592384,
     "title": "Programmers: Before you turn 40, get a plan B (2009)",
     "url": "http://improvingsoftware.com/2009/05/19/programmers-before-you-turn-40-get-a-plan-b/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 452,
+    "by": "derwiki",
+    "descendants": 430,
+    "time": 1564747904
   },
   {
     "rank": 9,
     "id": 20594632,
     "title": "\u201cI would like to maintain the floppy driver\u201d",
     "url": "https://lore.kernel.org/lkml/57af5f3e-9cfe-b6d8-314c-f59855408cd5@linux.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 361,
+    "by": "doener",
+    "descendants": 225,
+    "time": 1564765939
   },
   {
     "rank": 10,
     "id": 20594802,
     "title": "Standard Ebooks: Free public-domain ebooks, carefully produced",
     "url": "https://standardebooks.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 820,
+    "by": "BerislavLopac",
+    "descendants": 129,
+    "time": 1564766820
   }
 ]
