@@ -214,24 +214,29 @@ def main() -> None:
             if batch_start is None:
                 batch_start = d
 
-            # Fetch from daemonology.net
+            # Fetch from daemonology.net (with retry)
             url = DAEMONOLOGY_URL.format(date=d.isoformat())
-            try:
-                resp = client.get(url, timeout=15)
-                if resp.status_code == 200:
-                    stories = _parse_daily_html(resp.text)
-                    if stories:
-                        if not args.no_enrich:
-                            _enrich_stories(client, stories)
-                        _save_day(d, stories)
-                elif resp.status_code == 404:
-                    pass  # No data for this day
-                else:
-                    print(
-                        f"  {d}: HTTP {resp.status_code}", file=sys.stderr
-                    )
-            except Exception as e:
-                print(f"  {d}: {e}", file=sys.stderr)
+            for attempt in range(3):
+                try:
+                    resp = client.get(url, timeout=15)
+                    if resp.status_code == 200:
+                        stories = _parse_daily_html(resp.text)
+                        if stories:
+                            if not args.no_enrich:
+                                _enrich_stories(client, stories)
+                            _save_day(d, stories)
+                        break
+                    elif resp.status_code == 404:
+                        break  # No data for this day
+                    else:
+                        print(
+                            f"  {d}: HTTP {resp.status_code}", file=sys.stderr
+                        )
+                except Exception as e:
+                    if attempt < 2:
+                        time.sleep(2)
+                        continue
+                    print(f"  {d}: {e}", file=sys.stderr)
 
             fetched += 1
             if fetched % 10 == 0 or fetched == total:

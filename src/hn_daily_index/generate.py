@@ -195,9 +195,13 @@ def _all_dates_in_year(year: int) -> list[date]:
 
 
 def _render_month_calendar(
-    month_dates: list[date], available: set[str]
+    month_dates: list[date], available: set[str], *, inline: bool = True
 ) -> list[str]:
-    """Render a month as a compact calendar table."""
+    """Render a month as a compact calendar table.
+
+    If inline=True, day links point to #YYYY-MM-DD anchors in the same page.
+    If inline=False, day links point to data/YYYY/MM/ README files.
+    """
     lines = []
     lines.append("| Mon | Tue | Wed | Thu | Fri | Sat | Sun |")
     lines.append("|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
@@ -209,7 +213,12 @@ def _render_month_calendar(
         ds = d.isoformat()
         day_num = str(d.day)
         if ds in available:
-            row.append(f"[**{day_num}**](#{ds})")
+            if inline:
+                row.append(f"[**{day_num}**](#{ds})")
+            else:
+                row.append(
+                    f"[**{day_num}**](data/{d.year}/{d.month:02d}/#{ds})"
+                )
         else:
             row.append(day_num)
 
@@ -257,8 +266,14 @@ def _generate_readme() -> str:
         all_dates = _all_dates_in_year(year)
         total_days = len(all_dates)
         covered = sum(1 for d in all_dates if d.isoformat() in available)
+        is_current = year == current_year
 
-        lines.append(f"### {year} ({covered}/{total_days} days)")
+        if is_current:
+            lines.append(f"### {year} ({covered}/{total_days} days)")
+        else:
+            lines.append(
+                f"### [{year}](data/{year}/) ({covered}/{total_days} days)"
+            )
         lines.append("")
 
         # Group by month, most recent first
@@ -269,22 +284,46 @@ def _generate_readme() -> str:
 
         month_keys = sorted(months.keys(), reverse=True)
 
-        for month_key in month_keys:
-            month_dates = months[month_key]
-            month_label = month_dates[0].strftime("%B")
-            month_covered = sum(1 for d in month_dates if d.isoformat() in available)
-            month_total = len(month_dates)
+        if is_current:
+            # Current year: full calendar with collapsible months
+            for month_key in month_keys:
+                month_dates = months[month_key]
+                month_label = month_dates[0].strftime("%B")
+                month_covered = sum(1 for d in month_dates if d.isoformat() in available)
+                month_total = len(month_dates)
 
-            lines.append(f"**{month_label}** ({month_covered}/{month_total})")
-            lines.append("")
-            lines.extend(_render_month_calendar(month_dates, available))
+                lines.append(f"**{month_label}** ({month_covered}/{month_total})")
+                lines.append("")
+                lines.extend(
+                    _render_month_calendar(month_dates, available, inline=True)
+                )
+                lines.append("")
+        else:
+            # Older years: compact month list, no daily calendars
+            for month_key in month_keys:
+                month_dates = months[month_key]
+                month_label = month_dates[0].strftime("%B")
+                month_num = month_dates[0].month
+                month_covered = sum(1 for d in month_dates if d.isoformat() in available)
+                month_total = len(month_dates)
+
+                lines.append(
+                    f"[{month_label}](data/{year}/{month_num:02d}/) "
+                    f"({month_covered}/{month_total}) "
+                )
+
             lines.append("")
 
     lines.append("---")
     lines.append("")
 
-    # Render each day with data, most recent first
-    for ds in sorted(available, reverse=True):
+    # Inline stories only for current year
+    current_year_dates = sorted(
+        [ds for ds in available if date.fromisoformat(ds).year == current_year],
+        reverse=True,
+    )
+
+    for ds in current_year_dates:
         stories = available_data[ds]
         d = date.fromisoformat(ds)
         weekday = d.strftime("%A")
