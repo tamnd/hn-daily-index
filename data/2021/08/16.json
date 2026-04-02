@@ -4,99 +4,99 @@
     "id": 28182181,
     "title": "Nerds Don't Respond to Marketing; Try Technical Documentation Instead",
     "url": "https://hackernoon.com/nerds-dont-respond-to-marketing-try-technical-documentation-instead",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "mooreds",
+    "descendants": 238,
+    "time": 1628960435
   },
   {
     "rank": 2,
     "id": 28192269,
     "title": "How to prevent email spoofing, using an unholy combination of silly standards",
     "url": "https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "simon360",
+    "descendants": 125,
+    "time": 1629059591
   },
   {
     "rank": 3,
     "id": 28192423,
     "title": "T-Mobile investigating claims of 100M customer data breach",
     "url": "https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "hourislate",
+    "descendants": 192,
+    "time": 1629060689
   },
   {
     "rank": 4,
     "id": 28194477,
     "title": "Email Authenticity 101: DKIM, Dmarc, and SPF",
     "url": "https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 480,
+    "by": "alexblackie",
+    "descendants": 119,
+    "time": 1629081623
   },
   {
     "rank": 5,
     "id": 28196178,
     "title": "Widelands is a free, open-source real-time strategy game",
     "url": "https://www.widelands.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 713,
+    "by": "doener",
+    "descendants": 177,
+    "time": 1629104338
   },
   {
     "rank": 6,
     "id": 28197103,
     "title": "A Programmer\u2019s Introduction to Mathematics",
     "url": "https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "ingve",
+    "descendants": 105,
+    "time": 1629115517
   },
   {
     "rank": 7,
     "id": 28197355,
     "title": "U.S. opens probe into Tesla\u2019s Autopilot over emergency vehicle crashes",
     "url": "https://www.reuters.com/business/autos-transportation/us-opens-formal-safety-probe-into-tesla-autopilot-crashes-2021-08-16/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "etimberg",
+    "descendants": 486,
+    "time": 1629117780
   },
   {
     "rank": 8,
     "id": 28197449,
     "title": "Many Americans not aware of being tracked with facial recognition while shopping",
     "url": "https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "thunderbong",
+    "descendants": 359,
+    "time": 1629118463
   },
   {
     "rank": 9,
     "id": 28197482,
     "title": "Why is it so hard to be rational?",
     "url": "https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 354,
+    "by": "ubuwaits",
+    "descendants": 295,
+    "time": 1629118672
   },
   {
     "rank": 10,
     "id": 28198641,
     "title": "Alda \u2013 Text-Based Programming Language for Music Composition",
     "url": "https://alda.io/tutorial/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 490,
+    "by": "p1esk",
+    "descendants": 120,
+    "time": 1629124700
   }
 ]

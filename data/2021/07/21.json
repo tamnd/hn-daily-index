@@ -4,99 +4,99 @@
     "id": 27892615,
     "title": "Software engineering research is a train wreck",
     "url": "https://buttondown.email/hillelwayne/archive/i-ing-hate-science/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "martincmartin",
+    "descendants": 166,
+    "time": 1626781924
   },
   {
     "rank": 2,
     "id": 27893181,
     "title": "size_t-to-int vulnerability in Linux\u2019s filesystem layer",
     "url": "https://www.openwall.com/lists/oss-security/2021/07/20/1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 384,
+    "by": "jwilk",
+    "descendants": 275,
+    "time": 1626786055
   },
   {
     "rank": 3,
     "id": 27893280,
     "title": "Square Banking",
     "url": "https://squareup.com/us/en/banking",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "elvinyung",
+    "descendants": 168,
+    "time": 1626786757
   },
   {
     "rank": 4,
     "id": 27894640,
     "title": "Restaurant workers quit at record rate",
     "url": "https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "boulos",
+    "descendants": 928,
+    "time": 1626793487
   },
   {
     "rank": 5,
     "id": 27894918,
     "title": "Why does the New menu even exist for creating new empty files?",
     "url": "https://devblogs.microsoft.com/oldnewthing/20210720-41/?p=105457",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "zdw",
+    "descendants": 350,
+    "time": 1626794842
   },
   {
     "rank": 6,
     "id": 27897975,
     "title": "A case against security nihilism",
     "url": "https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "feross",
+    "descendants": 332,
+    "time": 1626808691
   },
   {
     "rank": 7,
     "id": 27898666,
     "title": "MAPS Celebrates California Senate Passage of Psychedelic Reform Bill",
     "url": "https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "pmoriarty",
+    "descendants": 88,
+    "time": 1626811956
   },
   {
     "rank": 8,
     "id": 27900825,
     "title": "Man dies of a heart attack after minors swatted him over his rare Twitter handle",
     "url": "https://www.techspot.com/news/90483-grandfather-died-heart-attack-after-minors-swatted-over.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 536,
+    "by": "miles",
+    "descendants": 592,
+    "time": 1626826500
   },
   {
     "rank": 9,
     "id": 27903630,
     "title": "Nepalese student learns HTML, JavaScript, CSS using just a mobile phone",
     "url": "https://www.linkedin.com/posts/shubham-sharma-34bbab18b_webdevelopment-css-html-activity-6820715919568961536-WApS/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "andygmb",
+    "descendants": 234,
+    "time": 1626854756
   },
   {
     "rank": 10,
     "id": 27906336,
     "title": "Germany's national healthcare system adopts Matrix for communication",
     "url": "https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 522,
+    "by": "Arathorn",
+    "descendants": 140,
+    "time": 1626875841
   }
 ]

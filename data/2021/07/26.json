@@ -4,99 +4,99 @@
     "id": 27950412,
     "title": "The SaaS Org Chart",
     "url": "https://sacks.substack.com/p/the-saas-org-chart",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "anacleto",
+    "descendants": 134,
+    "time": 1627230296
   },
   {
     "rank": 2,
     "id": 27950641,
     "title": "Simulating worlds on the GPU: Four billion years in four minutes",
     "url": "https://davidar.io/post/sim-glsl",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "xk3",
+    "descendants": 60,
+    "time": 1627231603
   },
   {
     "rank": 3,
     "id": 27952135,
     "title": "Google results for PHP tutorials contain SQL injection vulnerabilities",
     "url": "https://waritschlager.de/sqlinjections-in-google-results.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 556,
+    "by": "phil294",
+    "descendants": 324,
+    "time": 1627241220
   },
   {
     "rank": 4,
     "id": 27952463,
     "title": "The Assange case is collapsing but it remains a travesty of justice",
     "url": "https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 444,
+    "by": "thinkingemote",
+    "descendants": 324,
+    "time": 1627243619
   },
   {
     "rank": 5,
     "id": 27956313,
     "title": "Understanding Rust futures by going way too deep",
     "url": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 475,
+    "by": "tempodox",
+    "descendants": 130,
+    "time": 1627280790
   },
   {
     "rank": 6,
     "id": 27957171,
     "title": "TSMC eyes Germany as possible location for first Europe chip plant",
     "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-eyes-Germany-as-possible-location-for-first-Europe-chip-plant",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 699,
+    "by": "stereoradonc",
+    "descendants": 436,
+    "time": 1627289391
   },
   {
     "rank": 7,
     "id": 27959127,
     "title": "Tether executives said to face criminal probe into bank fraud",
     "url": "https://www.bloomberg.com/news/articles/2021-07-26/tether-executives-said-to-face-criminal-probe-into-bank-fraud",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 399,
+    "by": "codechicago277",
+    "descendants": 283,
+    "time": 1627306340
   },
   {
     "rank": 8,
     "id": 27959755,
     "title": "Police are telling ShotSpotter to alter evidence from gunshot-detecting AI",
     "url": "https://www.vice.com/en/article/qj8xbq/police-are-telling-shotspotter-to-alter-evidence-from-gunshot-detecting-ai",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 516,
+    "by": "danso",
+    "descendants": 334,
+    "time": 1627309679
   },
   {
     "rank": 9,
     "id": 27961606,
     "title": "Toyota is quietly pushing Congress to slow the shift to electric vehicles",
     "url": "https://www.theverge.com/2021/7/26/22594235/toyota-lobbying-dc-ev-congress-biden-donation",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 614,
+    "by": "hassanahmad",
+    "descendants": 747,
+    "time": 1627317598
   },
   {
     "rank": 10,
     "id": 27962761,
     "title": "Apple fixes an in-the-wild exploited 0-day (iOS 14.7.1)",
     "url": "https://support.apple.com/en-us/HT212623",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 504,
+    "by": "frankjr",
+    "descendants": 348,
+    "time": 1627322350
   }
 ]

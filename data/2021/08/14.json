@@ -4,99 +4,99 @@
     "id": 28166663,
     "title": "Egui: An easy-to-use immediate mode GUI",
     "url": "https://github.com/emilk/egui",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "ducktective",
+    "descendants": 141,
+    "time": 1628842392
   },
   {
     "rank": 2,
     "id": 28168339,
     "title": "Interactive Linear Algebra (2019)",
     "url": "http://textbooks.math.gatech.edu/ila/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "natemcintosh",
+    "descendants": 42,
+    "time": 1628859802
   },
   {
     "rank": 3,
     "id": 28173134,
     "title": "Security Threat Model Review of the Apple Child Safety Features [pdf]",
     "url": "https://www.apple.com/child-safety/pdf/Security_Threat_Model_Review_of_Apple_Child_Safety_Features.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "sylens",
+    "descendants": 374,
+    "time": 1628881816
   },
   {
     "rank": 4,
     "id": 28176255,
     "title": "Second IC",
     "url": "http://sam.zeloof.xyz/second-ic/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "picture",
+    "descendants": 79,
+    "time": 1628898354
   },
   {
     "rank": 5,
     "id": 28177807,
     "title": "AWS adds an extra 5.5M IPv4 addresses",
     "url": "https://github.com/seligman/aws-ip-ranges",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 298,
+    "by": "chynkm",
+    "descendants": 271,
+    "time": 1628914006
   },
   {
     "rank": 6,
     "id": 28178212,
     "title": "macOS in Svelte",
     "url": "https://macos.vercel.app/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 309,
+    "by": "hidden-spyder",
+    "descendants": 143,
+    "time": 1628918261
   },
   {
     "rank": 7,
     "id": 28178509,
     "title": "Scientists find an effective solution for the three-body problem",
     "url": "http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "olvy0",
+    "descendants": 246,
+    "time": 1628922152
   },
   {
     "rank": 8,
     "id": 28179018,
     "title": "Costa Rica signs law to attract digital nomads",
     "url": "https://ticotimes.net/2021/08/11/costa-rica-signs-law-to-attract-digital-nomads",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "tomduncalf",
+    "descendants": 252,
+    "time": 1628929242
   },
   {
     "rank": 9,
     "id": 28180074,
     "title": "Debian 11",
     "url": "https://www.debian.org/releases/bullseye/amd64/release-notes/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 579,
+    "by": "marcodiego",
+    "descendants": 285,
+    "time": 1628943695
   },
   {
     "rank": 10,
     "id": 28180135,
     "title": "Asahi Linux for Apple M1 progress report, August 2021",
     "url": "https://asahilinux.org/2021/08/progress-report-august-2021/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "fanf2",
+    "descendants": 183,
+    "time": 1628944327
   }
 ]

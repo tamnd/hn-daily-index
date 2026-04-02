@@ -4,99 +4,99 @@
     "id": 28177231,
     "title": "Aspartame and cancer \u2013 new evidence for causation",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042911/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 248,
+    "by": "pilingual",
+    "descendants": 298,
+    "time": 1628907588
   },
   {
     "rank": 2,
     "id": 28181575,
     "title": "Closing 45% of the open Emacs bugs",
     "url": "https://lars.ingebrigtsen.no/2021/08/14/10x10/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 425,
+    "by": "clircle",
+    "descendants": 174,
+    "time": 1628956081
   },
   {
     "rank": 3,
     "id": 28181632,
     "title": "I hate almost all software (2011)",
     "url": "https://tinyclouds.org/rant.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 292,
+    "by": "avinassh",
+    "descendants": 247,
+    "time": 1628956495
   },
   {
     "rank": 4,
     "id": 28181861,
     "title": "Use Pixar's story formula to win over investors",
     "url": "https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 439,
+    "by": "gmays",
+    "descendants": 188,
+    "time": 1628958150
   },
   {
     "rank": 5,
     "id": 28185847,
     "title": "SoundStream: An End-to-End Neural Audio Codec",
     "url": "http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "todsacerdoti",
+    "descendants": 103,
+    "time": 1628995327
   },
   {
     "rank": 6,
     "id": 28187204,
     "title": "The rise of the one-person unicorn",
     "url": "https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "kiyanwang",
+    "descendants": 168,
+    "time": 1629017260
   },
   {
     "rank": 7,
     "id": 28187675,
     "title": "MeiliSearch: A Minimalist Full-Text Search Engine",
     "url": "https://tech.marksblogg.com/meilisearch-full-text-search.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "serhack_",
+    "descendants": 100,
+    "time": 1629023447
   },
   {
     "rank": 8,
     "id": 28188704,
     "title": "India is leading IPv6 migration with 61.67% adoption",
     "url": "https://www.aelius.com/njh/google-ipv6/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "quaintdev",
+    "descendants": 281,
+    "time": 1629035108
   },
   {
     "rank": 9,
     "id": 28190756,
     "title": "Introducing the PineNote",
     "url": "https://www.pine64.org/2021/08/15/introducing-the-pinenote/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "DanAtC",
+    "descendants": 111,
+    "time": 1629050101
   },
   {
     "rank": 10,
     "id": 28191362,
     "title": "OpenAI's Codex sure knows a lot about HN",
     "url": "https://www.youtube.com/watch?v=aneK0TUUAfA",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 374,
+    "by": "tectonic",
+    "descendants": 105,
+    "time": 1629053619
   }
 ]

@@ -4,99 +4,99 @@
     "id": 28218174,
     "title": "Performance Improvements in .NET 6",
     "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 362,
+    "by": "pjmlp",
+    "descendants": 252,
+    "time": 1629267173
   },
   {
     "rank": 2,
     "id": 28231747,
     "title": "Harbormaster: Anti-Kubernetes for your personal server",
     "url": "https://gitlab.com/stavros/harbormaster",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 411,
+    "by": "stavros",
+    "descendants": 160,
+    "time": 1629363571
   },
   {
     "rank": 3,
     "id": 28235449,
     "title": "The thing standing between procrastination and daily progress is ritual",
     "url": "https://forge.medium.com/the-thing-standing-between-procrastination-and-daily-progress-is-ritual-2823d97ffa47",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "matttrinetti",
+    "descendants": 114,
+    "time": 1629388583
   },
   {
     "rank": 4,
     "id": 28235555,
     "title": "FTC files new antitrust complaint against Facebook",
     "url": "https://www.ftc.gov/news-events/press-releases/2021/08/ftc-alleges-facebook-resorted-illegal-buy-or-bury-scheme-crush",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "dmix",
+    "descendants": 135,
+    "time": 1629389063
   },
   {
     "rank": 5,
     "id": 28240279,
     "title": "Gmail is opening and caching URLs within emails without user intervention (2019)",
     "url": "https://support.google.com/mail/thread/16878288/gmail-is-opening-and-caching-urls-within-emails-without-user-intervention-how-and-why?hl=en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 390,
+    "by": "_wldu",
+    "descendants": 267,
+    "time": 1629412981
   },
   {
     "rank": 6,
     "id": 28241753,
     "title": "Apple explicitly asks employees to merge their personal and work accounts",
     "url": "https://twitter.com/oilyraincloud/status/1428497203253833731",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 669,
+    "by": "luu",
+    "descendants": 344,
+    "time": 1629426389
   },
   {
     "rank": 7,
     "id": 28244246,
     "title": "Another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 652,
+    "by": "Jaruzel",
+    "descendants": 202,
+    "time": 1629451535
   },
   {
     "rank": 8,
     "id": 28245221,
     "title": "A lot of people are getting the OnlyFans story wrong",
     "url": "https://twitter.com/postcultrev/status/1428584131835748359",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "deegles",
+    "descendants": 419,
+    "time": 1629462173
   },
   {
     "rank": 9,
     "id": 28245277,
     "title": "Manim: An animation engine for explanatory math videos",
     "url": "https://github.com/ManimCommunity/manim",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 576,
+    "by": "agmm",
+    "descendants": 67,
+    "time": 1629462742
   },
   {
     "rank": 10,
     "id": 28249977,
     "title": "Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card",
     "url": "https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 962,
+    "by": "tosh",
+    "descendants": 366,
+    "time": 1629485851
   }
 ]

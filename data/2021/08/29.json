@@ -4,99 +4,99 @@
     "id": 28332205,
     "title": "The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]",
     "url": "https://www.pldi21.org/prerecorded_hopl.17.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 228,
+    "by": "gjvc",
+    "descendants": 63,
+    "time": 1630093532
   },
   {
     "rank": 2,
     "id": 28336109,
     "title": "Zoom RCE from Pwn2Own 2021",
     "url": "https://sector7.computest.nl/post/2021-08-zoom/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 262,
+    "by": "xnyhps",
+    "descendants": 122,
+    "time": 1630133035
   },
   {
     "rank": 3,
     "id": 28340542,
     "title": "Apple can read your iMessages (even though they\u2019re E2E encrypted)",
     "url": "https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "decrypt",
+    "descendants": 131,
+    "time": 1630177202
   },
   {
     "rank": 4,
     "id": 28341737,
     "title": "FB messenger silently censoring links, claims they were sent",
     "url": "https://twitter.com/kylejohnmorris/status/1431714982782066688",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 608,
+    "by": "votick",
+    "descendants": 447,
+    "time": 1630186602
   },
   {
     "rank": 5,
     "id": 28343930,
     "title": "A CSS framework to recreate Windows 7 GUI",
     "url": "https://github.com/khang-nd/7.css",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 216,
+    "by": "khangnd",
+    "descendants": 124,
+    "time": 1630209023
   },
   {
     "rank": 6,
     "id": 28343941,
     "title": "An Open Source Multi-Player Starship Bridge Simulator for Linux",
     "url": "https://smcameron.github.io/space-nerds-in-space/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 326,
+    "by": "marcodiego",
+    "descendants": 64,
+    "time": 1630209174
   },
   {
     "rank": 7,
     "id": 28344885,
     "title": "Summary After Four Months with Ada",
     "url": "https://pyjarrett.github.io/programming-with-ada/four-months-summary.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "thindil",
+    "descendants": 175,
+    "time": 1630221721
   },
   {
     "rank": 8,
     "id": 28345617,
     "title": "Hell Is Other REPLs",
     "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "ducktective",
+    "descendants": 234,
+    "time": 1630232702
   },
   {
     "rank": 9,
     "id": 28347439,
     "title": "Show HN: We built an end-to-end encrypted alternative to Google Photos",
     "url": "https://news.ycombinator.com/item?id=28347439",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1180,
+    "by": "vishnumohandas",
+    "descendants": 405,
+    "time": 1630250630
   },
   {
     "rank": 10,
     "id": 28348996,
     "title": "Train Wheels Are Cones",
     "url": "http://awesci.com/train-wheels-are-amazing/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "trekhleb",
+    "descendants": 174,
+    "time": 1630260361
   }
 ]
