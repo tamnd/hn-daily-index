@@ -4,99 +4,99 @@
     "id": 24502983,
     "title": "To All the Jobs I Had Before",
     "url": "https://elisabethirgens.github.io/notes/2020/09/to-all-jobs-i-had-before/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "ingve",
+    "descendants": 84,
+    "time": 1600339077
   },
   {
     "rank": 2,
     "id": 24505727,
     "title": "Ultra Safe Nuclear",
     "url": "https://www.usnc.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 324,
+    "by": "dongobongo",
+    "descendants": 523,
+    "time": 1600356095
   },
   {
     "rank": 3,
     "id": 24510053,
     "title": "21 years after the request OpenPGP support gets added to Thunderbird",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=22687",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 690,
+    "by": "janvdberg",
+    "descendants": 269,
+    "time": 1600377288
   },
   {
     "rank": 4,
     "id": 24513340,
     "title": "FreeCAD: A free and open source multiplatform 3D parametric modeler",
     "url": "https://github.com/FreeCAD/FreeCAD",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 619,
+    "by": "marcobambini",
+    "descendants": 268,
+    "time": 1600407711
   },
   {
     "rank": 5,
     "id": 24515063,
     "title": "What happened to Firefox Send?",
     "url": "https://support.mozilla.org/en-US/kb/what-happened-firefox-send",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 426,
+    "by": "Techbrunch",
+    "descendants": 258,
+    "time": 1600425371
   },
   {
     "rank": 6,
     "id": 24516345,
     "title": "Trump offered to pardon Assange if he provided source for DNC emails \u2013 lawyer",
     "url": "https://www.reuters.com/article/us-britain-assange/trump-offered-to-pardon-assange-if-he-provided-source-for-democratic-emails-lawyer-says-idUSKBN2691VW",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 383,
+    "by": "pseudolus",
+    "descendants": 404,
+    "time": 1600435022
   },
   {
     "rank": 7,
     "id": 24517824,
     "title": "rg3d: Rust 3D game engine with an FPS demo game and scene editor",
     "url": "https://github.com/mrDIMAS/rg3d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "adamnemecek",
+    "descendants": 134,
+    "time": 1600442151
   },
   {
     "rank": 8,
     "id": 24518295,
     "title": "Vue.js 3",
     "url": "https://github.com/vuejs/vue-next/releases/tag/v3.0.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 768,
+    "by": "simulo",
+    "descendants": 305,
+    "time": 1600444242
   },
   {
     "rank": 9,
     "id": 24519684,
     "title": "The Presence of One\u2019s Own Smartphone Reduces Available Cognitive Capacity (2017)",
     "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/691462?journalCode=jacr",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 874,
+    "by": "wtracy",
+    "descendants": 369,
+    "time": 1600450997
   },
   {
     "rank": 10,
     "id": 24520397,
     "title": "Raspberry Pi 4 can finally boot directly from USB",
     "url": "https://github.com/raspberrypi/rpi-eeprom/issues/28",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 672,
+    "by": "ethanpil",
+    "descendants": 261,
+    "time": 1600454415
   }
 ]

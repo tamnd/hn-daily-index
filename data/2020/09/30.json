@@ -4,99 +4,99 @@
     "id": 24629828,
     "title": "Compact nuclear fusion reactor is 'very likely to work,' studies suggest",
     "url": "https://www.nytimes.com/2020/09/29/climate/nuclear-fusion-reactor.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 622,
+    "by": "Todd",
+    "descendants": 355,
+    "time": 1601396914
   },
   {
     "rank": 2,
     "id": 24631611,
     "title": "Rust 2021: GUI",
     "url": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "clarkmoody",
+    "descendants": 244,
+    "time": 1601406055
   },
   {
     "rank": 3,
     "id": 24633139,
     "title": "OBS Studio 26.0",
     "url": "https://github.com/obsproject/obs-studio/releases/tag/26.0.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "haunter",
+    "descendants": 154,
+    "time": 1601414478
   },
   {
     "rank": 4,
     "id": 24633484,
     "title": "Seeing Theory: A Visual Introduction to Probability and Statistics",
     "url": "https://seeing-theory.brown.edu/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 519,
+    "by": "max10541",
+    "descendants": 89,
+    "time": 1601416460
   },
   {
     "rank": 5,
     "id": 24635383,
     "title": "From zero to main(): How to write a bootloader from scratch",
     "url": "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "tigerlily",
+    "descendants": 44,
+    "time": 1601435980
   },
   {
     "rank": 6,
     "id": 24636166,
     "title": "Apple\u2019s T2 security chip jailbreak",
     "url": "https://reportcybercrime.com/hackers-jailbreak-apples-t2-security-chip-powered-by-bridgeos/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 741,
+    "by": "Yeri",
+    "descendants": 380,
+    "time": 1601446798
   },
   {
     "rank": 7,
     "id": 24636899,
     "title": "Coinbase offers exit package for employees not comfortable with its mission",
     "url": "https://www.theblockcrypto.com/post/79247/coinbase-offers-exit-package-for-employees-not-comfortable-with-its-mission",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 681,
+    "by": "crones",
+    "descendants": 1258,
+    "time": 1601457649
   },
   {
     "rank": 8,
     "id": 24637405,
     "title": "Six Figures in 6 days",
     "url": "https://tr.af/6",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 643,
+    "by": "brunojppb",
+    "descendants": 285,
+    "time": 1601463584
   },
   {
     "rank": 9,
     "id": 24638438,
     "title": "Gitter is joining Matrix",
     "url": "https://matrix.org/blog/2020/09/30/welcoming-gitter-to-matrix",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 701,
+    "by": "BubuIIC",
+    "descendants": 116,
+    "time": 1601472107
   },
   {
     "rank": 10,
     "id": 24643894,
     "title": "DigitalOcean's Hacktoberfest Is Hurting Open Source",
     "url": "https://blog.domenic.me/hacktoberfest/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 816,
+    "by": "domenicd",
+    "descendants": 386,
+    "time": 1601500210
   }
 ]

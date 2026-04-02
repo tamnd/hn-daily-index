@@ -36,7 +36,7 @@
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
     "score": 82,
     "by": "novaRom",
-    "descendants": 32,
+    "descendants": 34,
     "time": 1775127000
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "rank": 10,
-    "id": 47609564,
-    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-    "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-    "score": 445,
-    "by": "hkmaxpro",
-    "descendants": 208,
-    "time": 1775099544
+    "id": 47540441,
+    "title": "Reinventing the Pull Request",
+    "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
+    "score": 15,
+    "by": "bkolobara",
+    "descendants": 8,
+    "time": 1774602269
   }
 ]
