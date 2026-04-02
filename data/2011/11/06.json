@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 3200683,
+    "title": "Failing with MongoDB",
+    "url": "http://blog.schmichael.com/2011/11/05/failing-with-mongodb/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 3200852,
+    "title": "Goldman's new money machine: warehouses",
+    "url": "http://www.reuters.com/article/2011/07/29/us-lme-warehousing-idUSTRE76R3YZ20110729",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 3201033,
+    "title": "Python: copying a list the right way",
+    "url": "http://henry.precheur.org/python/copy_list",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 3201186,
+    "title": "Facebook detects if you are logged in Gmail",
+    "url": "http://webapps.stackexchange.com/q/20018/40",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 3201540,
+    "title": "Why the cheapest maple syrup is the best",
+    "url": "http://www.theatlantic.com/life/archive/2011/11/making-the-grade-why-the-cheapest-maple-syrup-tastes-best/239133/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 3201876,
+    "title": "Missing Person - Tracy Williams, Technorati Employee",
+    "url": "http://technorati.com/women/article/missing-person-tracy-williams-technorati-employee/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 3202063,
+    "title": "1TB Hard Drive Prices up 180% in a Month",
+    "url": "http://blog.zorinaq.com/?e=62",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 3202081,
+    "title": "Don't use MongoDB",
+    "url": "http://pastebin.com/raw.php?i=FD3xe6Jt",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 3202661,
+    "title": "Programmers' salaries at Google $250k (and up)",
+    "url": "http://jacquesmattheij.com/Programmers+Salaries+at+google+250k+and+up",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 3202808,
+    "title": "You're a developer, so why do you work for someone else?",
+    "url": "http://www.intermittentintelligence.com/youre-a-developer-so-why-do-you-work-for-some",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
