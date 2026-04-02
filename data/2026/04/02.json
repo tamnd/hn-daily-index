@@ -6,7 +6,7 @@
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
     "score": 116,
     "by": "bonzini",
-    "descendants": 66,
+    "descendants": 67,
     "time": 1775119724
   },
   {
@@ -14,9 +14,9 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 108,
+    "score": 109,
     "by": "novaRom",
-    "descendants": 50,
+    "descendants": 51,
     "time": 1775127000
   },
   {
@@ -44,7 +44,7 @@
     "id": 47611921,
     "title": "Significant Raise of Reports",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 44,
+    "score": 45,
     "by": "stratos123",
     "descendants": 14,
     "time": 1775121258
@@ -86,17 +86,17 @@
     "url": "https://modolap.com/publication/hn-analysis-1",
     "score": 8,
     "by": "ronfriedhaber",
-    "descendants": 1,
+    "descendants": 2,
     "time": 1775126543
   },
   {
     "rank": 10,
-    "id": 47608495,
-    "title": "Quantum computing bombshells that are not April Fools",
-    "url": "https://scottaaronson.blog/?p=9665",
-    "score": 201,
-    "by": "Strilanc",
-    "descendants": 64,
-    "time": 1775089483
+    "id": 47540441,
+    "title": "Reinventing the Pull Request",
+    "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
+    "score": 17,
+    "by": "bkolobara",
+    "descendants": 12,
+    "time": 1774602269
   }
 ]
