@@ -310,7 +310,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2023](data/2023/) (274/365 days)
+### [2023](data/2023/) (275/365 days)
 
 <details><summary>Show calendars</summary>
 
@@ -396,7 +396,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**22**](data/2023/05/README.md#2023-05-22) | [**23**](data/2023/05/README.md#2023-05-23) | [**24**](data/2023/05/README.md#2023-05-24) | [**25**](data/2023/05/README.md#2023-05-25) | [**26**](data/2023/05/README.md#2023-05-26) | [**27**](data/2023/05/README.md#2023-05-27) | [**28**](data/2023/05/README.md#2023-05-28) |
 | [**29**](data/2023/05/README.md#2023-05-29) | [**30**](data/2023/05/README.md#2023-05-30) | [**31**](data/2023/05/README.md#2023-05-31) |  |  |  |  |
 
-[**April**](data/2023/04/) (29/30)
+[**April**](data/2023/04/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -404,7 +404,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**3**](data/2023/04/README.md#2023-04-03) | [**4**](data/2023/04/README.md#2023-04-04) | [**5**](data/2023/04/README.md#2023-04-05) | [**6**](data/2023/04/README.md#2023-04-06) | [**7**](data/2023/04/README.md#2023-04-07) | [**8**](data/2023/04/README.md#2023-04-08) | [**9**](data/2023/04/README.md#2023-04-09) |
 | [**10**](data/2023/04/README.md#2023-04-10) | [**11**](data/2023/04/README.md#2023-04-11) | [**12**](data/2023/04/README.md#2023-04-12) | [**13**](data/2023/04/README.md#2023-04-13) | [**14**](data/2023/04/README.md#2023-04-14) | [**15**](data/2023/04/README.md#2023-04-15) | [**16**](data/2023/04/README.md#2023-04-16) |
 | [**17**](data/2023/04/README.md#2023-04-17) | [**18**](data/2023/04/README.md#2023-04-18) | [**19**](data/2023/04/README.md#2023-04-19) | [**20**](data/2023/04/README.md#2023-04-20) | [**21**](data/2023/04/README.md#2023-04-21) | [**22**](data/2023/04/README.md#2023-04-22) | [**23**](data/2023/04/README.md#2023-04-23) |
-| [**24**](data/2023/04/README.md#2023-04-24) | [**25**](data/2023/04/README.md#2023-04-25) | [**26**](data/2023/04/README.md#2023-04-26) | [**27**](data/2023/04/README.md#2023-04-27) | [**28**](data/2023/04/README.md#2023-04-28) | [**29**](data/2023/04/README.md#2023-04-29) | 30 |
+| [**24**](data/2023/04/README.md#2023-04-24) | [**25**](data/2023/04/README.md#2023-04-25) | [**26**](data/2023/04/README.md#2023-04-26) | [**27**](data/2023/04/README.md#2023-04-27) | [**28**](data/2023/04/README.md#2023-04-28) | [**29**](data/2023/04/README.md#2023-04-29) | [**30**](data/2023/04/README.md#2023-04-30) |
 
 [**March**](data/2023/03/) (0/31)
 
@@ -446,10 +446,10 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 *Thursday*
 
 1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 81 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [43 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 58 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
+2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 58 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [9 comments](https://news.ycombinator.com/item?id=47611481)
 3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 944 points by [apitman](https://news.ycombinator.com/user?id=apitman), [804 comments](https://news.ycombinator.com/item?id=47603657)
 4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 46 points by [luu](https://news.ycombinator.com/user?id=luu), [23 comments](https://news.ycombinator.com/item?id=47582987)
-5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 17 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [6 comments](https://news.ycombinator.com/item?id=47611921)
+5. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 18 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [8 comments](https://news.ycombinator.com/item?id=47611921)
 6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 152 points by [jaden](https://news.ycombinator.com/user?id=jaden), [45 comments](https://news.ycombinator.com/item?id=47609694)
 7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 55 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [18 comments](https://news.ycombinator.com/item?id=47596739)
 8. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 426 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [200 comments](https://news.ycombinator.com/item?id=47609564)

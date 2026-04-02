@@ -10,7 +10,7 @@ Top 10 Hacker News stories for each day in 2023.
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
-- [April](04/) (29 days)
+- [April](04/) (30 days)
 
 ---
 
@@ -3688,6 +3688,21 @@ Top 10 Hacker News stories for each day in 2023.
 8. [Geoffrey Hinton leaves Google and can now speak freely about his AI concern](https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings) (theverge.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35771508)
 9. [Krita: A professional free and open source painting program](https://krita.org/en/) (krita.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35771994)
 10. [Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/) (prism-break.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35772005)
+
+## 2023-04-30
+
+*Sunday*
+
+1. [New York to ban natural gas, including stoves, in new buildings](https://www.nytimes.com/2023/04/28/nyregion/gas-stove-ban-ny.html) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35746022)
+2. [MRSK: Deploy web apps anywhere](https://mrsk.dev/) (mrsk.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35753106)
+3. [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/) (you-tldr.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35754793)
+4. [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html) (testing.googleblog.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35755841)
+5. [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/) (grist.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35758842)
+6. [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/) (nullprogram.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35758898)
+7. [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org) (ratethelandlord.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35759016)
+8. [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/) (justsimply.dev) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35759449)
+9. [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/) (covertactionmagazine.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35762780)
+10. [MLC-LLM: GPT/Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=35763483)
 
 ## 2023-04-29
 

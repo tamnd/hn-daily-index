@@ -4,99 +4,99 @@
     "id": 42057903,
     "title": "All the data can be yours: reverse engineering APIs",
     "url": "https://jero.zone/posts/reverse-engineering-apis",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 595,
+    "by": "noleary",
+    "descendants": 178,
+    "time": 1730879035
   },
   {
     "rank": 2,
     "id": 42110588,
     "title": "Visualizing World War II",
     "url": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "gaws",
+    "descendants": 89,
+    "time": 1731360508
   },
   {
     "rank": 3,
     "id": 42110677,
     "title": "Improving Steam Client Stability on Linux",
     "url": "https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 477,
+    "by": "Venn1",
+    "descendants": 147,
+    "time": 1731361297
   },
   {
     "rank": 4,
     "id": 42110877,
     "title": "I Don't Have Spotify",
     "url": "https://github.com/sjdonado/idonthavespotify",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 786,
+    "by": "sjdonado",
+    "descendants": 371,
+    "time": 1731363037
   },
   {
     "rank": 5,
     "id": 42110901,
     "title": "YubiKey still selling old stock with vulnerable firmware",
     "url": "https://news.ycombinator.com/item?id=42110901",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "MaKey",
+    "descendants": 109,
+    "time": 1731363175
   },
   {
     "rank": 6,
     "id": 42111031,
     "title": "How I ship projects at big tech companies",
     "url": "https://www.seangoedecke.com/how-to-ship/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1425,
+    "by": "gfysfm",
+    "descendants": 381,
+    "time": 1731364226
   },
   {
     "rank": 7,
     "id": 42111896,
     "title": "What I wish someone told me about Postgres",
     "url": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 487,
+    "by": "todsacerdoti",
+    "descendants": 190,
+    "time": 1731373184
   },
   {
     "rank": 8,
     "id": 42113113,
     "title": "Leaving and Waving",
     "url": "https://deannadikeman.com/leaving-and-waving",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 634,
+    "by": "Duke_Pixie",
+    "descendants": 94,
+    "time": 1731390298
   },
   {
     "rank": 9,
     "id": 42115597,
     "title": "The EdTech Revolution Has Failed",
     "url": "https://www.afterbabel.com/p/the-edtech-revolution-has-failed",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 346,
+    "by": "obscurette",
+    "descendants": 511,
+    "time": 1731420671
   },
   {
     "rank": 10,
     "id": 42120311,
     "title": "M4 Mac mini's efficiency",
     "url": "https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "marinesebastian",
+    "descendants": 611,
+    "time": 1731449297
   }
 ]

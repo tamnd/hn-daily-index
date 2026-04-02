@@ -4,99 +4,99 @@
     "id": 42077886,
     "title": "A mistake that killed Japan's software industry? (2023)",
     "url": "https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "ayoisaiah",
+    "descendants": 324,
+    "time": 1730995695
   },
   {
     "rank": 2,
     "id": 42087275,
     "title": "We built a self-healing system to survive a concurrency bug at Netflix",
     "url": "https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "zdw",
+    "descendants": 165,
+    "time": 1731077568
   },
   {
     "rank": 3,
     "id": 42115611,
     "title": "Jepsen: Bufstream 0.1",
     "url": "https://jepsen.io/analyses/bufstream-0.1.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 224,
+    "by": "aphyr",
+    "descendants": 85,
+    "time": 1731420759
   },
   {
     "rank": 4,
     "id": 42118039,
     "title": "Show HN: Stretch My Time Off \u2013 An Algorithm to Optimize Your Vacation Days",
     "url": "https://stretchmytimeoff.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 358,
+    "by": "zachd",
+    "descendants": 174,
+    "time": 1731435109
   },
   {
     "rank": 5,
     "id": 42118286,
     "title": "Show HN: Proxmox VE Helper Scripts",
     "url": "https://community-scripts.github.io/ProxmoxVE/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 238,
+    "by": "BramSuurdje",
+    "descendants": 86,
+    "time": 1731436637
   },
   {
     "rank": 6,
     "id": 42118399,
     "title": "Bypassing regulatory locks, hacking AirPods and Faraday cages",
     "url": "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 591,
+    "by": "rithvikvibhu",
+    "descendants": 193,
+    "time": 1731437445
   },
   {
     "rank": 7,
     "id": 42119042,
     "title": "Show HN: Jelly \u2013 A simpler shared inbox for small teams",
     "url": "https://letsjelly.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "mlettini",
+    "descendants": 130,
+    "time": 1731441345
   },
   {
     "rank": 8,
     "id": 42120090,
     "title": "Unusual Raku Features",
     "url": "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "leontrolski",
+    "descendants": 157,
+    "time": 1731448085
   },
   {
     "rank": 9,
     "id": 42122085,
     "title": "No GPS required: our app can now locate underground trains",
     "url": "https://blog.transitapp.com/go-underground/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1076,
+    "by": "dotcoma",
+    "descendants": 317,
+    "time": 1731462380
   },
   {
     "rank": 10,
     "id": 42128717,
     "title": "The Impact of Jungle Music in 90s Video Game Development",
     "url": "https://pikuma.com/blog/jungle-music-video-game-drum-bass",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 700,
+    "by": "atan2",
+    "descendants": 320,
+    "time": 1731523386
   }
 ]
