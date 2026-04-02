@@ -1,0 +1,422 @@
+# September 2012
+
+Top 10 Hacker News stories for each day in September 2012.
+
+- [2012-09-26 (Wednesday)](#2012-09-26)
+- [2012-09-25 (Tuesday)](#2012-09-25)
+- [2012-09-24 (Monday)](#2012-09-24)
+- [2012-09-23 (Sunday)](#2012-09-23)
+- [2012-09-22 (Saturday)](#2012-09-22)
+- [2012-09-21 (Friday)](#2012-09-21)
+- [2012-09-20 (Thursday)](#2012-09-20)
+- [2012-09-19 (Wednesday)](#2012-09-19)
+- [2012-09-18 (Tuesday)](#2012-09-18)
+- [2012-09-17 (Monday)](#2012-09-17)
+- [2012-09-16 (Sunday)](#2012-09-16)
+- [2012-09-15 (Saturday)](#2012-09-15)
+- [2012-09-14 (Friday)](#2012-09-14)
+- [2012-09-13 (Thursday)](#2012-09-13)
+- [2012-09-12 (Wednesday)](#2012-09-12)
+- [2012-09-11 (Tuesday)](#2012-09-11)
+- [2012-09-10 (Monday)](#2012-09-10)
+- [2012-09-09 (Sunday)](#2012-09-09)
+- [2012-09-08 (Saturday)](#2012-09-08)
+- [2012-09-07 (Friday)](#2012-09-07)
+- [2012-09-06 (Thursday)](#2012-09-06)
+- [2012-09-05 (Wednesday)](#2012-09-05)
+- [2012-09-04 (Tuesday)](#2012-09-04)
+- [2012-09-03 (Monday)](#2012-09-03)
+- [2012-09-02 (Sunday)](#2012-09-02)
+- [2012-09-01 (Saturday)](#2012-09-01)
+
+---
+
+## 2012-09-26
+
+*Wednesday*
+
+1. [Show HN: Ejecta, A Fast, Open Source JavaScript, Canvas Implementation for iOS](http://impactjs.com/ejecta) (impactjs.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4570382)
+2. [NoPassword](https://nopassword.alexsmolen.com/) (nopassword.alexsmolen.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4570600)
+3. [Did Blowing Into The NES Cartridge Really Work?](http://www.mentalfloss.com/blogs/archives/142550) (mentalfloss.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4571245)
+4. [Turn your 404s into lost children alerts](http://notfound.org/) (notfound.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4572668)
+5. [Great Barrier Reef underwater panoramas in Google Maps ](http://googleblog.blogspot.com/2012/09/dive-into-great-barrier-reef-with-first_25.html) (googleblog.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4574002)
+6. [Subtle Patterns](http://subtlepatterns.com/) (subtlepatterns.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4574434)
+7. [Proposed new HTML tag: IMG (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q1/0182.html) (1997.webhistory.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4574465)
+8. [OStatus: like Twitter, but open](http://chrismdp.com/2012/09/ostatus-like-twitter-but-open/) (chrismdp.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4574858)
+9. [Formlabs: High Resolution 3D Printer](http://www.formlabs.com/) (formlabs.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4575260)
+10. [Bret Victor: Learnable Programming](http://worrydream.com/LearnableProgramming/) (worrydream.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4577133)
+
+## 2012-09-25
+
+*Tuesday*
+
+1. [Leak shows EU's plans for large scale surveillance of all communications](http://www.edri.org/cleanIT) (edri.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4564946)
+2. [Nigerian scammer gets a laptop from me](http://www.notla.com/archives/2010/07/nigerian-scammer-gets-a-laptop-from-me/comment-page-2/) (notla.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4566220)
+3. [Myspace previews complete redesign](https://new.myspace.com/) (new.myspace.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4567052)
+4. [Meeting A Troll](http://www.traynorseye.com/2012/09/meeting-troll.html) (traynorseye.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4567735)
+5. [Tesla reveals Supercharger network, Free Fill Ups](http://www.engadget.com/2012/09/24/tesla-supercharger/) (engadget.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4568396)
+6. [Entire field of particle physics is to switch to open-access publishing](http://www.nature.com/news/open-access-deal-for-particle-physics-1.11468) (nature.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4569398)
+7. [USSD code to factory data reset a Galaxy S3 can be trigged from a HTML page](http://www.exquisitetweets.com/collection/tomscott/1762) (exquisitetweets.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4569686)
+8. [Does everyone hate MongoDB?](http://blog.serverdensity.com/does-everyone-hate-mongodb/) (blog.serverdensity.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4570790)
+9. [“grep -R doesn't automatically search amazon”](https://bugs.launchpad.net/ubuntu/+source/gnome-terminal/+bug/1055766) (bugs.launchpad.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4571307)
+10. [Jetstrap for Bootstrap](http://jetstrap.com/) (jetstrap.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4571425)
+
+## 2012-09-24
+
+*Monday*
+
+1. [Why I’m not leaving Python for Go](http://uberpython.wordpress.com/2012/09/23/why-im-not-leaving-python-for-go/) (uberpython.wordpress.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4562211)
+2. [Firefox turns 10 years old today (Phoenix v0.1)](http://www.mozilla.org/en-US/firefox/releases/0.1.html#new) (mozilla.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4562377)
+3. [New Zealand PM requests inquiry into illegal Megaupload wire tapping](http://www.beehive.govt.nz/release/prime-minister-requests-inquiry) (beehive.govt.nz) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4562838)
+4. [The Pendulum Swings, Again](http://jacquesmattheij.com/the-pendulum-swings-again) (jacquesmattheij.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4563913)
+5. [I Am Worried About The Future Of Python](http://www.ironfroggy.com/software/i-am-worried-about-the-future-of-python) (ironfroggy.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4564017)
+6. [SHA-3 to Be Announced](http://www.schneier.com/blog/archives/2012/09/sha-3_will_be_a.html) (schneier.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4564190)
+7. [Websockets 101](http://lucumr.pocoo.org/2012/9/24/websockets-101/) (lucumr.pocoo.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4564703)
+8. [Why American Phone, Cable and Internet Bills are so High](http://finance.yahoo.com/blogs/daily-ticker/why-phone-cable-internet-bills-cost-much-130914030.html) (finance.yahoo.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4565133)
+9. [Google Spanner's Most Surprising Revelation: NoSQL is Out and NewSQL is In](http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html) (highscalability.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4565478)
+10. [Adobe Edge Web Fonts](http://html.adobe.com/edge/webfonts/) (html.adobe.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4566014)
+
+## 2012-09-23
+
+*Sunday*
+
+1. [How to stop hospitals from killing us](http://online.wsj.com/article/SB10000872396390444620104578008263334441352.html?mod=googlenews_wsj) (online.wsj.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4558309)
+2. [Rethinking Sleep](http://www.nytimes.com/2012/09/23/opinion/sunday/rethinking-sleep.html?src=twrhp) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4558569)
+3. [DC Taxi Commission Proposes New Rules to Shut Down Uber](http://blog.uber.com/2012/09/20/here-we-go-again-dc-taxi-commission-proposes-new-rules-to-shut-down-uber/) (blog.uber.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4558879)
+4. [Thank you Apple](http://commandcenter.blogspot.com/2012/09/thank-you-apple.html) (commandcenter.blogspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4559292)
+5. [Vim Koans](http://blog.sanctum.geek.nz/vim-koans/) (blog.sanctum.geek.nz) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4560111)
+6. [Rescuing Resque: Let's do this](http://blog.steveklabnik.com/posts/2012-09-22-resque--let-s-do-this) (blog.steveklabnik.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4560142)
+7. [Torvalds' quote about good programmers](http://programmers.stackexchange.com/questions/163185/torvalds-quote-about-good-programmer) (programmers.stackexchange.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4560334)
+8. [Show HN: Online C/C++ to assembly visualizer [Weekend Project]](http://assembly.ynh.io/) (assembly.ynh.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4560410)
+9. [The Last PC Laptop](http://www.codinghorror.com/blog/2012/09/the-last-pc-laptop.html) (codinghorror.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4560423)
+10. [Apple's HTTP POST caching is a bug](http://www.mnot.net/blog/2012/09/24/caching_POST) (mnot.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4561584)
+
+## 2012-09-22
+
+*Saturday*
+
+1. [VirtualBox hotfix now available for OS X 10.8.2 problem](https://www.virtualbox.org/ticket/10965#comment:21) (virtualbox.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4553414)
+2. [Licensing of Titanium chaotic and unclear](http://developer.appcelerator.com/question/142516/warning-licensing-of-titanium-chaotic-and-unclear-how-to-avoid-extortionate-fees) (developer.appcelerator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4553695)
+3. [What are imaginary numbers?](http://math.stackexchange.com/questions/199676/what-are-imaginary-numbers) (math.stackexchange.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4554192)
+4. [Why Your Customers Would Be Happier If You Charged More](http://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/) (kalzumeus.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4554669)
+5. [Show HN: 5000 best movies](http://5000best.com/movies/) (5000best.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4555423)
+6. [Show HN: Learned Objective C as a high schooler and made this iPhone game](http://itunes.apple.com/us/app/the-deeps/id532041586?mt=8) (itunes.apple.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4556296)
+7. [Facebook Wants You To Snitch On Friends Not Using Their Real Name](http://paulbernal.wordpress.com/2012/09/21/facebook-snitchgate/) (paulbernal.wordpress.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4556572)
+8. [Startup = Growth](http://paulgraham.com/growth.html) (paulgraham.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4556838)
+9. [The man who singlehandedly carved a road through a mountain](http://en.wikipedia.org/wiki/Dashrath_Manjhi) (en.wikipedia.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4557726)
+10. [Ubuntu Will Now Have Amazon Ads Pre-Installed](http://yro.slashdot.org/story/12/09/22/1319216/ubuntu-will-now-have-amazon-ads-pre-installed/) (yro.slashdot.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4558049)
+
+## 2012-09-21
+
+*Friday*
+
+1. [Everything that's wrong with Java in a single class](https://plus.google.com/105201233571140699617/posts/1QhcnQizuPc) (plus.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4549544)
+2. [Google has an iOS 6 Maps app awaiting approval](http://9to5mac.com/2012/09/20/google-has-an-ios-6-maps-app-awaiting-approval-it-is-solely-up-to-apple-to-approve/) (9to5mac.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4550529)
+3. [Pandora doesn't hash their passwords](https://plus.google.com/116797686750161798768/posts/NGV5xQwJywf) (plus.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4551148)
+4. [Kickstarter is Not a Store](http://www.kickstarter.com/blog/kickstarter-is-not-a-store) (kickstarter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4551245)
+5. [Apple accused of ripping off famous Swiss clock design](http://news.cnet.com/8301-13579_3-57517054-37/apple-accused-of-ripping-off-famous-swiss-clock-design/) (news.cnet.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4551943)
+6. [Google Maps' advantage over Apple Maps](http://blog.telemapics.com/?p=399) (blog.telemapics.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4552951)
+7. [My Brush With a Patent Troll](http://jacquesmattheij.com/my-brush-with-a-patent-troll) (jacquesmattheij.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4553308)
+8. [Large Investment in OpenStreetMap from Knight Foundation](http://mapbox.com/blog/knight-invests-openstreetmap/) (mapbox.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4553540)
+9. [What Business is Wall Street In?](http://blogmaverick.com/2012/09/21/what-business-is-wall-street-in-3/) (blogmaverick.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4553658)
+10. [Tent v0.1](http://tent.io/blog/tent-v01) (tent.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4554996)
+
+## 2012-09-20
+
+*Thursday*
+
+1. [John Carmack on Static Code Analysis](http://www.altdevblogaday.com/2011/12/24/static-code-analysis/) (altdevblogaday.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4543553)
+2. [Makerbot announces new 3D printer: Replicator 2](http://makerbot.com/) (makerbot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4545088)
+3. [The Lost Chapter](http://www.aarongreenspan.com/writing/essay.html?id=80) (aarongreenspan.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4545263)
+4. [iOS 6 Breaks the App Store](http://www.pixiteapps.com/blog/the-app-store-is-broken/) (pixiteapps.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4546244)
+5. [Github redesigns Profiles](https://github.com/defunkt) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4546703)
+6. [New Apple maps app under fire from users](http://www.bbc.com/news/technology-19659736) (bbc.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4548071)
+7. [AskPatents.com: A Stack Exchange To Prevent Bad Patents](http://blog.stackoverflow.com/2012/09/askpatents-com-a-stack-exchange-to-prevent-bad-patents/) (blog.stackoverflow.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4548583)
+8. [The Amazing iOS 6 Maps](http://theamazingios6maps.tumblr.com/) (theamazingios6maps.tumblr.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4548829)
+9. [Abusing Emoji in iOS and Your Mac](http://zachholman.com/posts/abusing-emoji/) (zachholman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4549922)
+10. [IFTTT forced to remove Twitter triggers to comply with new API policies](http://thenextweb.com/apps/2012/09/20/ifttt-removes-twitter-triggers-comply-new-api-policies/) (thenextweb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4550625)
+
+## 2012-09-19
+
+*Wednesday*
+
+1. [German government urges public to stop using Internet Explorer](http://webcache.googleusercontent.com/search?q=cache:www.reuters.com/article/2012/09/18/us-microsoft-browser-idUSBRE88G1CA20120918) (webcache.googleusercontent.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4540258)
+2. [Patent Trolls: Make Them Pay](http://www.rackspace.com/blog/patent-trolls-make-them-pay/) (rackspace.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4540725)
+3. [Stock Android Isn't Perfect: Things I Can't Stand About Jelly Bean](http://www.androidpolice.com/2012/09/18/ux-things-i-hate-about-android) (androidpolice.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4540776)
+4. [The Apple Reaper](http://coovtech.com/posts/the-apple-reaper/) (coovtech.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4540953)
+5. [Xkcd: Click and Drag](http://xkcd.com/1110/) (xkcd.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4542367)
+6. [Xkcd's world - pieced together with AngularJS (warning: big images)](http://embed.plnkr.co/IfpBH4) (embed.plnkr.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4542648)
+7. [Web Design is 95% Typography](http://informationarchitects.net/blog/the-web-is-all-about-typography-period/) (informationarchitects.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4542696)
+8. [Xkcd "Click and Drag" in a "map" interface](http://xkcd-map.rent-a-geek.de/) (xkcd-map.rent-a-geek.de) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4543202)
+9. [iPad and Linode: 1 Year Later](http://yieldthought.com/post/31857050698/ipad-linode-1-year-later) (yieldthought.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4543345)
+10. [Stripe in Canada](https://stripe.com/blog/stripe-in-canada) (stripe.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4544086)
+
+## 2012-09-18
+
+*Tuesday*
+
+1. [Why I Migrated Away From MongoDB](http://svs.io/post/31724990463/why-i-migrated-away-from-mongodb) (svs.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4532922)
+2. [Ramit Sethi and Patrick McKenzie on Getting Your First Consulting Client](http://www.kalzumeus.com/2012/09/17/ramit-sethi-and-patrick-mckenzie-on-getting-your-first-consulting-client/) (kalzumeus.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4533498)
+3. [Warp Drive May Be More Feasible Than Thought, Scientists Say](http://news.yahoo.com/warp-drive-may-more-feasible-thought-scientists-161301109.html) (news.yahoo.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4534359)
+4. [How to Launch a 65Gbps DDoS, and How to Stop One](http://blog.cloudflare.com/65gbps-ddos-no-problem) (blog.cloudflare.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4535226)
+5. [Analysis of bank PIN numbers](http://www.datagenetics.com/blog/september32012/index.html) (datagenetics.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4535417)
+6. [Have You Ever Tried to Sell a Diamond? (1982)](http://www.theatlantic.com/magazine/archive/1982/02/have-you-ever-tried-to-sell-a-diamond/304575/) (theatlantic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4535611)
+7. [Yahoo Removes Registered Trademark (R) From Logo](http://instagram.com/p/Psvy_8EME6/) (instagram.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4535981)
+8. [A Letter from a Scared Actress](http://journal.neilgaiman.com/2012/09/a-letter-from-scared-actress.html) (journal.neilgaiman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4537020)
+9. [Kickstarter vaporware of the day, Lifx edition](http://blogs.reuters.com/felix-salmon/2012/09/18/kickstarter-vaporware-of-the-day-lifx-edition/) (blogs.reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4537340)
+10. [Rackspace accused of patent infringement for hosting Github](http://www.scribd.com/doc/106190890/PersonalWeb-Technologies-et-al-v-Rackspace-et-al) (scribd.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4539014)
+
+## 2012-09-17
+
+*Monday*
+
+1. [How can one manage thousands of IF…THEN…ELSE rules?](http://programmers.stackexchange.com/questions/103659/how-can-one-manage-thousands-of-if-then-else-rules) (programmers.stackexchange.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4530111)
+2. [Sh.py](http://amoffat.github.com/sh/index.html) (amoffat.github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4530897)
+3. [iPhone 5 web teardown: How Apple compresses video using JPEG, JSON, and canvas](https://docs.google.com/document/pub?id=1GWTMLjqQsQS45FWwqNG9ztQTdGF48hQYpjQHR_d1WsI) (docs.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4531088)
+4. [Everything's broken and nobody's upset](http://www.hanselman.com/blog/EverythingsBrokenAndNobodysUpset.aspx) (hanselman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4531549)
+5. [52 Hertz: The Loneliest Whale in the World ](http://blogs.discovery.com/animal_news/2012/05/52-hertz-the-loneliest-whale-in-the-world.html) (blogs.discovery.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4531563)
+6. [Hardware is dead](http://venturebeat.com/2012/09/15/hardware-is-dead/) (venturebeat.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4533215)
+7. [Android can be beautiful](http://androidniceties.tumblr.com/) (androidniceties.tumblr.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4533310)
+8. [Odd Things Happen When You Chop Up Cities and Stack Them Sideways](http://www.npr.org/blogs/krulwich/2012/09/12/160996525/odd-things-happen-when-you-chop-up-cities-and-stack-them-sideways?sc=tw&cc=share&utm_source=buffer&buffer_share=f34b7) (npr.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4533699)
+9. [CoffeeScript: less typing, bad readability](http://ceronman.com/2012/09/17/coffeescript-less-typing-bad-readability/) (ceronman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4533737)
+10. [Introducing the Command Bar](https://github.com/blog/1264-introducing-the-command-bar) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4534549)
+
+## 2012-09-16
+
+*Sunday*
+
+1. [Facebook explains what's wrong with the mobile web](http://lists.w3.org/Archives/Public/public-coremob/2012Sep/0021.html) (lists.w3.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4526593)
+2. [Fast Inverse Square Root](http://blog.quenta.org/2012/09/0x5f3759df.html) (blog.quenta.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4526609)
+3. [Spanner: Google's Globally-Distributed Database](http://research.google.com/archive/spanner.html) (research.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4526710)
+4. [The iPhone 5's A6 SoC: Not A15 or A9, a Custom Apple Core Instead](http://www.anandtech.com/show/6292/iphone-5-a6-not-a15-custom-core) (anandtech.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4526879)
+5. [Little-Known Awesome Algorithms: Fenwick Range Trees](http://www.swageroo.com/wordpress/little-known-awesome-algorithms-fenwick-range-trees-rapidly-find-cumulative-frequency-sums/) (swageroo.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4527475)
+6. [Bill Gates: Books I Read this Summer](http://www.thegatesnotes.com/GatesNotesV2/Personal/Books-I-Read-This-Summer) (thegatesnotes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4527506)
+7. [The Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/) (matthias.vallentin.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4527914)
+8. [ Aaron Swartz "JSTOR" case indictment revised/expanded](http://sethf.com/infothought/blog/archives/001476.html) (sethf.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4528083)
+9. [The lightbulb reinvented](http://www.kickstarter.com/projects/limemouse/lifx-the-light-bulb-reinvented) (kickstarter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4528211)
+10. [Things I've quit doing at my desk](http://justinjackson.ca/i-quit-my-desk/) (justinjackson.ca) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4529709)
+
+## 2012-09-15
+
+*Saturday*
+
+1. [Room Temperature Superconductivity Found in Graphite Grains](http://www.technologyreview.com/view/429203/room-temperature-superconductivity-found-in/?nlid=nldly&nld=2012-09-13) (technologyreview.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4521560)
+2. [The UK has an entire IPv4 /8 that it isn't using](http://blog.jgc.org/2012/09/the-uk-has-entire-unused-ipv4-8-that-is.html) (blog.jgc.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4521682)
+3. [We Need a Warby Parker for Mattresses ](http://priceonomics.com/mattresses/#industry) (priceonomics.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4522698)
+4. [Elon Musk: "I would like to die on Mars"](http://www.businessweek.com/printer/articles/71446-elon-musk-the-21st-century-industrialist) (businessweek.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4523220)
+5. [Cost of the Uniloc Lawsuit](http://www.x-plane.com/x-world/lawsuit/cost/) (x-plane.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4523380)
+6. [Why I went from Python to Go (and not node.js)](http://orel.li/QMeEXk) (orel.li) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4523611)
+7. [GitHub availability this week](https://github.com/blog/1261-github-availability-this-week) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4524340)
+8. [Google rejects White House request to pull Mohammad film clip](http://www.reuters.com/article/2012/09/14/us-protests-google-idUSBRE88D1MD20120914) (reuters.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4524460)
+9. [U.S. Taxpayers Are Gouged on Mass Transit Costs](http://www.bloomberg.com/news/2012-08-26/u-s-taxpayers-are-gouged-on-mass-transit-costs.html) (bloomberg.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4526050)
+10. [The Pirate Bay - 9 years and still bloody runnin](https://thepiratebay.se/blog/222) (thepiratebay.se) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4526243)
+
+## 2012-09-14
+
+*Friday*
+
+1. [Nootropics – The Facts About “Smart Drugs”](http://www.unfinishedman.com/nootropics-facts-about-smart-drugs/) (unfinishedman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4515864)
+2. [Why critics of Rails have it all wrong (and Ruby's bright multicore future)](http://www.unlimitednovelty.com/2012/03/why-critics-of-rails-have-it-all-wrong.html) (unlimitednovelty.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4516204)
+3. [OSX password script for everyone to know](http://blog.songz.me/print-out-all-your-saved-passwords-osx/) (blog.songz.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4518873)
+4. [Anonymous Donor Pays for College of Every Student in Kalamazoo](http://www.nytimes.com/2012/09/16/magazine/kalamazoo-mich-the-city-that-pays-for-college.html) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4519228)
+5. [Ideas](http://www.sequoiacap.com/ideas) (sequoiacap.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4519589)
+6. [Am I An Outlier, Or Are Apple Products No Longer Easy To Use?](http://battellemedia.com/archives/2012/09/am-i-an-outlier-or-are-apple-products-no-longer-easy-to-use.php) (battellemedia.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4520303)
+7. [Gallery of free HTML snippets for Twitter Bootstrap](http://bootsnipp.com/) (bootsnipp.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4520437)
+8. [Pdf.js: PDF Reader in JavaScript ](http://mozilla.github.com/pdf.js/) (mozilla.github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4520456)
+9. [Realtime Web Messaging over Animated Gifs](https://github.com/videlalvaro/gifsockets) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4521334)
+10. [WhatsApp is broken, really broken](http://fileperms.org/whatsapp-is-broken-really-broken/) (fileperms.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4523173)
+
+## 2012-09-13
+
+*Thursday*
+
+1. [Why I'm done with Scrum](http://lostechies.com/jimmybogard/2012/09/12/why-im-done-with-scrum/) (lostechies.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4510943)
+2. [Zynga: forget games, let’s just do viruses](http://flirtatiouslabs.com/post/31401127751/zynga-game-virus-farmville-2) (flirtatiouslabs.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4511065)
+3. [Xiki: A shell console with GUI features.](http://xiki.org/) (xiki.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4512928)
+4. [Understanding C by learning assembly](https://www.hackerschool.com/blog/7-understanding-c-by-learning-assembly) (hackerschool.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4513631)
+5. [Ancient flower lives only on two Spanish cliffs, and uses ants to survive](http://blogs.discovermagazine.com/notrocketscience/2012/09/12/ancient-flower-lives-only-on-two-spanish-cliffs-and-uses-ants-to-survive/) (blogs.discovermagazine.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4514721)
+6. [There is something magical about Firefox OS](http://rawkes.com/articles/there-is-something-magical-about-firefox-os) (rawkes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4515434)
+7. [Give people an iPhone 4S, tell them it's an iPhone 5](http://thenextweb.com/shareables/2012/09/13/what-happens-give-people-iphone-4s-tell-its-iphone-5-video/) (thenextweb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4516159)
+8. [Google's "Bacon number" search](https://www.google.com/search?q=Bacon+number+Simon+Pegg) (google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4516436)
+9. [Steve Wozniak on Samsung patent verdict: ‘I hate it and I don’t agree with it’](http://thenextweb.com/apps/2012/09/13/apple-co-founder-steve-wozniak-samsung-patent-verdict-i-hate-i-dont-agree-it/?utm_campaign=social%20media&utm_medium=Spreadus&awesm=tnw.to_o4EZ&utm_source=Twitter) (thenextweb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4517278)
+10. [Dropbox dives into CoffeeScript](https://tech.dropbox.com/?p=361) (tech.dropbox.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4518049)
+
+## 2012-09-12
+
+*Wednesday*
+
+1. [Mark Zuckerberg: Our Biggest Mistake Was Was Betting Too Much On HTML5](http://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4507879)
+2. [Amazon's Play](http://daringfireball.net/2012/09/amazons_play) (daringfireball.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4508462)
+3. [Depression lies](http://wilwheaton.net/2012/09/depression-lies/) (wilwheaton.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4508873)
+4. [RIP Vile Rat, EVE Online Diplomat, IRL State Dept Rep Killed In Benghazi](http://themittani.com/news/rip-vile-rat) (themittani.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4509291)
+5. [Ask PG: What Is The Most Frighteningly Ambitious Idea You Have Been Pitched On?](http://news.ycombinator.com/item?id=4509934) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4509934)
+6. [Journalist goes undercover making the iPhone 5 at Foxconn](http://www.geek.com/articles/mobile/journalist-goes-undercover-making-the-iphone-5-at-foxconn-20120912/) (geek.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4509959)
+7. [Full quote of what Mark Zuckerberg actually said about HTML5](http://blog.tobie.me/post/31366970040/when-im-introspective-about-the-last-few-years-i) (blog.tobie.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4510172)
+8. [Google disables compression for OpenSSL in Chrome - SSL exploit coming?](https://chromiumcodereview.appspot.com/10825183) (chromiumcodereview.appspot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4510829)
+9. [Applications Open for Winter 2013 YC Funding](http://ycombinator.com/apply.html) (ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4511910)
+10. [iPhone 5](http://www.apple.com/iphone/) (apple.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4512316)
+
+## 2012-09-11
+
+*Tuesday*
+
+1. [How I Learned to Defrag My Brain](http://alexhillman.com/defrag-your-brain-with-a-sparkfile) (alexhillman.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4499615)
+2. [The real source of Apple device IDs leaked by Anonymous last week](http://redtape.nbcnews.com/_news/2012/09/10/13781440-exclusive-the-real-source-of-apple-device-ids-leaked-by-anonymous-last-week) (redtape.nbcnews.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4500479)
+3. [Obama Admin Pursuing Executive Order to Enact CISPA-Like Cybersecurity Language ](http://www.opencongress.org/articles/view/2511-Obama-Admin-Pursuing-Executive-Order-to-Enact-CISPA-Like-Cybersecurity-Language) (opencongress.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4501159)
+4. [Skeuomorphism](http://skeu.it/) (skeu.it) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4502183)
+5. [Proof Claimed for Deep Connection between Prime Numbers](http://www.nature.com/news/proof-claimed-for-deep-connection-between-primes-1.11378) (nature.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4502856)
+6. [The XX shared their new album with only 1 fan to see how it goes viral.](http://coexist.thexx.info/?referrer=0c5fc7c8-f178-45a5-b34f-ed841150356d) (coexist.thexx.info) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4504851)
+7. [Dear Programmer, I have an idea](http://blog.mkrecny.com/entry/23/) (blog.mkrecny.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4505112)
+8. [Blizzard is secretly watermarking WOW screenshots](http://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-general/375573-looking-inside-your-screenshots.html) (ownedcore.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4505584)
+9. [The World's Lightest Electric Vehicle](http://www.kickstarter.com/projects/170315130/boosted-boards-the-worlds-lightest-electric-vehicl) (kickstarter.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4506285)
+10. [Boosted Boards (YC S12) Unveils Its Magical Electric Skateboard](http://techcrunch.com/2012/09/11/boosted-boards/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4506979)
+
+## 2012-09-10
+
+*Monday*
+
+1. [DIY quest for a 6 watt high-end desktop computer](http://ssj3gohan.tweakblogs.net/blog/8217/fluffy2-59-watt-high-end-desktop-computer.html) (ssj3gohan.tweakblogs.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4495980)
+2. [The Tiniest GIF Ever](http://probablyprogramming.com/2009/03/15/the-tiniest-gif-ever) (probablyprogramming.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4496588)
+3. [Black Swan Farming](http://paulgraham.com/swan.html) (paulgraham.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4497461)
+4. [Lessons for uncultured web developers](http://www.troyhunt.com/2012/09/10-lessons-for-uncultured-web-developers.html) (troyhunt.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4498724)
+5. [Revel, high-productivity Go web framework modeled on Play Framework](http://robfig.github.com/revel/) (robfig.github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4499151)
+6. [PostgreSQL 9.2 released](http://www.postgresql.org/about/news/1415/) (postgresql.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4499171)
+7. [Show HN: We got tired of asking 'What browser are you using?' and created this](https://aboutmybrowser.com) (aboutmybrowser.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4499435)
+8. [I feel I am building a new Google Wave](http://pivory.com/#topic/1/0) (pivory.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4499845)
+9. [HP introduces new Apple iMac](http://thenextweb.com/apple/2012/09/10/notefile/) (thenextweb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4500574)
+10. [GoDaddy's DNS Service is Down](http://www.godaddy.com) (godaddy.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4500993)
+
+## 2012-09-09
+
+*Sunday*
+
+1. [4 geeky laws that rule our world](http://www.neatorama.com/2012/09/05/Four-Geeky-Laws-That-Rule-Our-World/) (neatorama.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4492991)
+2. [How Dangerous Is Your Couch?](http://www.nytimes.com/2012/09/09/magazine/arlene-blums-crusade-against-household-toxins.html?pagewanted=all) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4493344)
+3. [Stackoverflow Is A Difficult Community to Participate In](http://theexceptioncatcher.com/blog/2012/09/stackoverflow-is-a-difficult-community-to-participate-in/#.UEu2l1DNwcU.hackernews) (theexceptioncatcher.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4494016)
+4. [Tray.io - powerful email assistant](http://tray.io/) (tray.io) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4495365)
+5. [Ask HN: How did you hack the press when you launched your startup(s)?](http://news.ycombinator.com/item?id=4495786) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4495786)
+6. [Rick Falkvinge: Why free speech is harmed by the ban on child porn](http://falkvinge.net/2012/09/07/three-reasons-child-porn-must-be-re-legalized-in-the-coming-decade/) (falkvinge.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4495914)
+7. [Stanford announces 16 free online courses for fall quarter](http://news.stanford.edu/news/2012/september/online-courses-fall-090712.html) (news.stanford.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4495995)
+8. [Show HN: MemStash - Commit things to memory](http://memstash.co) (memstash.co) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4496647)
+9. [Tell HN: Login to unsubscribe is against Federal Law](http://news.ycombinator.com/item?id=4496688) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4496688)
+10. [Arch Linux Handbook for Kindle rejected by Amazon](http://archlinux.me/dusty/2012/09/09/arch-linux-handbook-for-kindle/) (archlinux.me) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4496761)
+
+## 2012-09-08
+
+*Saturday*
+
+1. [Show HN: My first Mac app, Foreman, free and on Github. Would love feedback](http://www.flyingmachinestudios.com/foreman/) (flyingmachinestudios.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4488910)
+2. [The 2 Biggest Mistakes I Made When Learning to Code](http://www.suneelius.com/2012/09/07/the-2-biggest-mistakes-i-made-when-learning-to-code/) (suneelius.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4489364)
+3. [Dan Weinreb passed away](http://www.xconomy.com/boston/2012/09/07/dan-weinreb-boston-computer-geek-community-figure-dies-of-cancer/) (xconomy.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4490892)
+4. [Tough times on the road to Starcraft](http://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft) (codeofhonor.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4491216)
+5. [Kevin Rose Interviews Elon Musk](http://allthingsd.com/20120907/kevin-rose-interviews-elon-musk/) (allthingsd.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4491408)
+6. [Russia in color, a century ago](http://www.boston.com/bigpicture/2010/08/russia_in_color_a_century_ago.html) (boston.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4491766)
+7. [A love letter to MIT](http://tech.mit.edu/V132/N35/loveletter.html) (tech.mit.edu) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4492112)
+8. [The "Wash my Ferrari" Problem: A Meditation on Risk](http://theothereight.wordpress.com/2012/09/08/the-wash-my-ferrari-problem-a-meditation-on-risk/) (theothereight.wordpress.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4492619)
+9. [So I Made A Mashup, And Then…](http://stevestreza.com/2012/09/08/so-i-made-a-mashup/) (stevestreza.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4493280)
+10. [PayPal CEO writes personal response](http://ndy.gd/JJgB) (ndy.gd) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4493984)
+
+## 2012-09-07
+
+*Friday*
+
+1. [How Google Builds Its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/) (theatlantic.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4486036)
+2. [Stop validating email addresses with your complex regex](http://davidcelis.com/blog/2012/09/06/stop-validating-email-addresses-with-regex/) (davidcelis.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4486108)
+3. [Ask PG: If Viaweb hadn't worked out, what would you have likely done next?](http://news.ycombinator.com/item?id=4486463) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4486463)
+4. [Y Combinator Founder Paul Graham Issues New Warning to Start-ups](http://www.inc.com/kathleen-kim/y-combinator-advisor-sends-seed-funding-warning.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+inc%2Fheadlines+%28Inc.com+Headlines%29&utm_content=Google+Feedfetcher) (inc.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4486835)
+5. [Rich Hickey: extensible data notation](https://github.com/richhickey/edn) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4487462)
+6. [Chinese company uses leaked photos to copy, patent iPhone 5 design](http://www.bgr.com/2012/09/05/iphone-5-design-copied-patented-goophone-i5/) (bgr.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4487905)
+7. [A proposal for improving HN : it should cost a user Karma to post](http://slidetocode.com/2012/09/07/cost-karma-to-post/) (slidetocode.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4488561)
+8. [Things I, as a designer, wish more tech startups knew](http://the-pastry-box-project.net/stephen-anderson/2012-september-7/) (the-pastry-box-project.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4488682)
+9. [Damn Cool Algorithms: Cardinality Estimation](http://blog.notdot.net/2012/09/Dam-Cool-Algorithms-Cardinality-Estimation) (blog.notdot.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4488946)
+10. [Twitter is the Benjamin Button of startups.](https://plus.google.com/109834643338395014064/posts/A9Fk7bsCA1B) (plus.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4490200)
+
+## 2012-09-06
+
+*Thursday*
+
+1. [Introducing the 4chan API](http://www.4chan.org/news#108) (4chan.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4480874)
+2. [Unix Commands I Abuse Every Day](http://everythingsysadmin.com/2012/09/unorthodoxunix.html) (everythingsysadmin.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4481234)
+3. [No app store? No problem: Grooveshark rolls out full HTML5 site for all devices](http://venturebeat.com/2012/09/05/screw-app-stores-grooveshark-rolls-out-full-html5-site-for-all-devices/) (venturebeat.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4482228)
+4. [Faced with a Five-Page Limit, Lawyer Files Cartoon Amicus Brief](http://www.abajournal.com/news/article/faced_with_a_five-page_limit_lawyer_files_cartoon_amicus_brief_with_proper_/) (abajournal.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4482925)
+5. [Nokia faked the still photos too](http://sefsar.com/nokia-faked-the-still-photos-too) (sefsar.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4483266)
+6. [Why You Should Start Using a VPN](http://lifehacker.com/5940565/why-you-should-start-using-a-vpn-and-how-to-choose-the-best-one-for-your-needs) (lifehacker.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4483554)
+7. [The Linux Graphics Stack](http://blog.mecheye.net/2012/06/the-linux-graphics-stack/) (blog.mecheye.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4483569)
+8. [Good riddance, PayPal](http://elliotjaystocks.com/blog/good-riddance-paypal/) (elliotjaystocks.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4483710)
+9. [Raspberry Pi moves manufacturing to the UK](http://www.raspberrypi.org/archives/1925) (raspberrypi.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4484106)
+10. [Amazon Officially Announces The New Kindle Paperwhite](http://www.techcrunch.com/2012/09/06/amazon-officially-announces-the-new-kindle-paperwhite-paperwhite-display-frontlighting-and-212-ppi/) (techcrunch.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4485344)
+
+## 2012-09-05
+
+*Wednesday*
+
+1. [What's a $4000 Suit Worth?](http://www.nytimes.com/2012/09/09/magazine/whats-a-4000-suit-worth.html?pagewanted=all) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4476397)
+2. [Google Search is only 18% Search](http://blog.jitbit.com/2012/09/googles-serp-is-only-25-serp.html) (blog.jitbit.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4476508)
+3. [2012 Startup School, Oct 20 at Stanford](http://startupschool.org/?2012) (startupschool.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4477119)
+4. [Neat](http://thoughtbot.com/neat/) (thoughtbot.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4477660)
+5. [Realtime Three.js Coding](http://mrdoob.com/projects/code-editor/) (mrdoob.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4478309)
+6. [Dear ICO, Sue Us](http://nocookielaw.com/) (nocookielaw.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4478817)
+7. [World wide wasteland](http://www.zemanta.com/blog/world-wide-wasteland/) (zemanta.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4478933)
+8. [How Tesla is Circumventing Dealerships](http://autos.yahoo.com/blogs/motoramic/tesla-plans-short-circuit-car-dealers-194619627.html) (autos.yahoo.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4479427)
+9. [Pirate Bay Founder Arrest Followed By $59m Swedish Aid Package For Cambodia](http://torrentfreak.com/pirate-bay-founder-arrest-followed-by-59m-swedish-aid-package-for-cambodia-120905/) (torrentfreak.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4480328)
+10. [How we keep GitHub fast](https://github.com/blog/1252-how-we-keep-github-fast) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4480694)
+
+## 2012-09-04
+
+*Tuesday*
+
+1. [I did the scariest thing I can imagine: I resigned](http://wasigh.com/scariest-thing-resigned/) (wasigh.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4471391)
+2. [Linus Torvalds responds to what killed the Linux desktop](https://plus.google.com/115250422803614415116/posts/hMT5kW8LKJk) (plus.google.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4471726)
+3. [I quit my job, and am building Tindie fulltime](https://tindie.com/blog/i-have-some-news/) (tindie.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4472244)
+4. [Cable lacing on the Curiosity rover](http://igkt.net/sm/index.php?topic=4028) (igkt.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4472312)
+5. [AntiSec leaks 1,000,001 Apple UDIDs, Device Names/Types](http://pastebin.com/nfVT7b0Z) (pastebin.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4472897)
+6. [Free Book: An Introduction to Programming in Go](http://www.golang-book.com/) (golang-book.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4472923)
+7. [An apology to readers of Test-Driven iOS Development](http://blog.securemacprogramming.com/2012/09/an-apology-to-readers-of-test-driven-ios-development/) (blog.securemacprogramming.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4474166)
+8. [37signals invests in The Starter League](http://37signals.com/svn/posts/3241-37signals-invests-in-the-starter-league) (37signals.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4474538)
+9. [Why Tarsnap doesn't use Glacier](http://www.daemonology.net/blog/2012-09-04-why-tarsnap-doesnt-use-glacier.html) (daemonology.net) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4475237)
+10. [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) (github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4476359)
+
+## 2012-09-03
+
+*Monday*
+
+1. [Heading Out on Your Own: 31 Life Skills in 31 Days](http://artofmanliness.com/2012/09/01/heading-out-on-your-own-31-life-skills-in-31-days-series-wrap-up/) (artofmanliness.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4467031)
+2. [Ask HN: How much recurring income do you generate, and from what?](http://news.ycombinator.com/item?id=4467603) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4467603)
+3. [Linus Torvalds, Alan Cox respond to Miguel De Icaza on Linux Desktop woes](http://www.itwire.com/business-it-news/open-source/56418-torvalds-pours-scorn-on-de-icazas-desktop-claims) (itwire.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4467653)
+4. [Apple Never Invented Anything](http://www.mondaynote.com/2012/09/02/apple-never-invented-anything/) (mondaynote.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4468016)
+5. [Reddit's database has only two tables](http://kev.inburke.com/kevin/reddits-database-has-two-tables/) (kev.inburke.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4468265)
+6. [Left Alone by Its Owner, Reddit Soars](http://www.nytimes.com/2012/09/03/business/media/reddit-thrives-after-advance-publications-let-it-sink-or-swim.html?hp) (nytimes.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4468594)
+7. [A 4G LTE base station running entirely in software on a standard PC](http://bellard.org/lte/) (bellard.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4469424)
+8. [Yakuza](http://stewardmag.com/yakuza/) (stewardmag.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4470318)
+9. [Glances - an easy CLI overview of your system (CPU, mem, I/O)](http://nicolargo.github.com/glances/) (nicolargo.github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4470590)
+10. [How Copyright Enforcement Robots Killed the Hugo Awards](http://io9.com/5940036/how-copyright-enforcement-robots-killed-the-hugo-awards) (io9.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4471213)
+
+## 2012-09-02
+
+*Sunday*
+
+1. [Accurate remake of Pac-Man in JavaScript](http://shaunew.github.com/Pac-Man/) (shaunew.github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4464006)
+2. [Kindle edition of Effective Programming by Jeff Atwood (Coding Horror) for $0.00](http://www.amazon.com/Effective-Programming-More-Writing-ebook/dp/B008HUMTO0/) (amazon.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4465106)
+3. [Understanding Ego Depletion](http://danariely.com/2012/08/15/understanding-ego-depletion/) (danariely.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4465469)
+4. [How to get that native iOS feel with PhoneGap](http://www.mikedellanoce.com/2012/09/10-tips-for-getting-that-native-ios.html) (mikedellanoce.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4465878)
+5. [Live air traffic of the world](http://www.flightradar24.com/) (flightradar24.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4465946)
+6. [Avgrund.js](http://labs.voronianski.com/jquery.avgrund.js/#) (labs.voronianski.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4466106)
+7. [Show HN: My Github résumé](http://resume.github.com/) (resume.github.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4466883)
+8. [Show HN: Enterface, a UI design app concept I'm designing](http://bendansby.com/enterface/) (bendansby.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4467228)
+9. [Baking Pi - Operating Systems Development](http://www.cl.cam.ac.uk/freshers/raspberrypi/tutorials/os/) (cl.cam.ac.uk) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4467612)
+10. [Samsung flew bloggers to Berlin, then threatened to leave them there](http://thenextweb.com/insider/2012/09/02/heres-samsung-flew-bloggers-halfway-around-world-threatened-leave/?utm_campaign=social%20media&awesm=tnw.to_a4CW&utm_source=Twitter&utm_medium=Spreadus) (thenextweb.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4468037)
+
+## 2012-09-01
+
+*Saturday*
+
+1. [What powers Etsy](http://codeascraft.etsy.com/2012/08/31/what-hardware-powers-etsy-com/) (codeascraft.etsy.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4460206)
+2. [It's More Important to Be Kind Than Clever](http://www.dailygood.org/view.php?sid=306) (dailygood.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4460398)
+3. [Flynn’s IQ](http://www.bryanappleyard.com/flynns-iq/) (bryanappleyard.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4461038)
+4. [Surprise: People hate being forced to use Facebook](http://dailycred.tumblr.com/post/30602034530/surprise-people-hate-being-forced-to-use-facebook) (dailycred.tumblr.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4461417)
+5. [Amazon S3 - Cross Origin Resource Sharing Support](http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html) (aws.typepad.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4462117)
+6. [Show HN: Mixest, my summer project that crawls the web for new indie music](http://www.mixest.com) (mixest.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4462315)
+7. [Tacocopter Basics](http://www.danshapiro.com/blog/2012/09/tacocopter-basics/) (danshapiro.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4463008)
+8. [Members of Congress Demand Answers for the Unjust Domain Name Seizures](https://www.eff.org/deeplinks/2012/08/members-congress-demand-answers-homeland-securitys-unjust-domain-name-seizures) (eff.org) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4463579)
+9. [Ask HN: Who Is Hiring? (September 2012)](http://news.ycombinator.com/item?id=4463689) (news.ycombinator.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4463689)
+10. [Pirate Bay Founder Arrested in Cambodia](http://torrentfreak.com/pirate-bay-founder-arrested-in-cambodia-120901/) (torrentfreak.com) - 0 points by [](https://news.ycombinator.com/user?id=), [0 comments](https://news.ycombinator.com/item?id=4464057)
