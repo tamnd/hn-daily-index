@@ -4,99 +4,99 @@
     "id": 43924358,
     "title": "Using NASA\u2019s SMAP satellite to detect L-band interference",
     "url": "https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "c16",
+    "descendants": 69,
+    "time": 1746694376
   },
   {
     "rank": 2,
     "id": 43928315,
     "title": "Reservoir Sampling",
     "url": "https://samwho.dev/reservoir-sampling/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 532,
+    "by": "chrisdemarco",
+    "descendants": 105,
+    "time": 1746723730
   },
   {
     "rank": 3,
     "id": 43933452,
     "title": "Starlink User Terminal Teardown",
     "url": "https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 306,
+    "by": "walterbell",
+    "descendants": 114,
+    "time": 1746759831
   },
   {
     "rank": 4,
     "id": 43933891,
     "title": "LegoGPT: Generating Physically Stable and Buildable Lego",
     "url": "https://avalovelace1.github.io/LegoGPT/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 596,
+    "by": "nkko",
+    "descendants": 136,
+    "time": 1746766520
   },
   {
     "rank": 5,
     "id": 43934711,
     "title": "WASM 2.0",
     "url": "https://www.w3.org/TR/wasm-core-2/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 332,
+    "by": "lioeters",
+    "descendants": 139,
+    "time": 1746777666
   },
   {
     "rank": 6,
     "id": 43935394,
     "title": "Show HN: Hyvector \u2013 A fast and modern SVG editor",
     "url": "https://www.hyvector.com",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "jansan",
+    "descendants": 93,
+    "time": 1746787540
   },
   {
     "rank": 7,
     "id": 43935913,
     "title": "NSF faces shake-up as officials abolish its 37 divisions",
     "url": "https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "magicalist",
+    "descendants": 767,
+    "time": 1746792816
   },
   {
     "rank": 8,
     "id": 43936408,
     "title": "Sofie: open-source web based system for automating live TV news production",
     "url": "https://nrkno.github.io/sofie-core/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 378,
+    "by": "rjmunro",
+    "descendants": 53,
+    "time": 1746796722
   },
   {
     "rank": 9,
     "id": 43936592,
     "title": "21 GB/s CSV Parsing Using SIMD on AMD 9950X",
     "url": "https://nietras.com/2025/05/09/sep-0-10-0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "zigzag312",
+    "descendants": 169,
+    "time": 1746797886
   },
   {
     "rank": 10,
     "id": 43937214,
     "title": "ALICE detects the conversion of lead into gold at the LHC",
     "url": "https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 637,
+    "by": "miiiiiike",
+    "descendants": 300,
+    "time": 1746801080
   }
 ]

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 35871462,
+    "title": "Story: Redis and its creator antirez",
+    "url": "https://blog.brachiosoft.com/redis-en",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 35891444,
+    "title": "PaLM 2 Technical Report [pdf]",
+    "url": "https://ai.google/static/documents/palm2techreport.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 35892512,
+    "title": "YouTube tests blocking videos unless you disable ad blockers",
+    "url": "https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 35894326,
+    "title": "Tell HN: The \u201cY\u201d logo in the top-left corner has been upgraded to SVG",
+    "url": "https://news.ycombinator.com/y18.svg",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 35896176,
+    "title": "Google Earth 3D Models Now Available as Open Standard (GlTF)",
+    "url": "https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 35896190,
+    "title": "When you lose the ability to write, you also lose some of your ability to think",
+    "url": "https://twitter.com/paulg/status/1655925905527537666",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 35896954,
+    "title": "Go with PHP",
+    "url": "https://gowithphp.com/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 35903294,
+    "title": "Electronics Lab Bench Setup Guide",
+    "url": "https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 35904773,
+    "title": "100K Context Windows",
+    "url": "https://www.anthropic.com/index/100k-context-windows",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 35905437,
+    "title": "Show HN: Boring Report, a news app that uses AI to desensationalize the news",
+    "url": "https://www.boringreport.org/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

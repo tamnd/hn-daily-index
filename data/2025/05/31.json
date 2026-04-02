@@ -4,99 +4,99 @@
     "id": 44115853,
     "title": "Show HN: Icepi Zero \u2013 The FPGA Raspberry Pi Zero Equivalent",
     "url": "https://github.com/cheyao/icepi-zero",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 233,
+    "by": "Cyao",
+    "descendants": 51,
+    "time": 1748439064
   },
   {
     "rank": 2,
     "id": 44135977,
     "title": "Microsandbox: Virtual Machines that feel and perform like containers",
     "url": "https://github.com/microsandbox/microsandbox",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 402,
+    "by": "makeboss",
+    "descendants": 186,
+    "time": 1748611204
   },
   {
     "rank": 3,
     "id": 44136117,
     "title": "The \u2018white-collar bloodbath\u2019 is all part of the AI hype machine",
     "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 713,
+    "by": "lwo32k",
+    "descendants": 1240,
+    "time": 1748612301
   },
   {
     "rank": 4,
     "id": 44137715,
     "title": "Beating Google's kernelCTF PoW using AVX512",
     "url": "https://anemato.de/blog/kctf-vdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "anematode",
+    "descendants": 94,
+    "time": 1748621990
   },
   {
     "rank": 5,
     "id": 44139454,
     "title": "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
     "url": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "mfiguiere",
+    "descendants": 217,
+    "time": 1748635392
   },
   {
     "rank": 6,
     "id": 44139626,
     "title": "Photos taken inside musical instruments",
     "url": "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1121,
+    "by": "worik",
+    "descendants": 55,
+    "time": 1748637139
   },
   {
     "rank": 7,
     "id": 44140378,
     "title": "Silicon Valley finally has a big electronics retailer again: Micro Center opens",
     "url": "https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "modeless",
+    "descendants": 168,
+    "time": 1748643849
   },
   {
     "rank": 8,
     "id": 44140379,
     "title": "Valkey Turns One: Community fork of Redis",
     "url": "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "cebert",
+    "descendants": 111,
+    "time": 1748643862
   },
   {
     "rank": 9,
     "id": 44142472,
     "title": "Beware of Fast-Math",
     "url": "https://simonbyrne.github.io/notes/fastmath/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 319,
+    "by": "blobcode",
+    "descendants": 224,
+    "time": 1748675157
   },
   {
     "rank": 10,
     "id": 44144750,
     "title": "Precision Clock Mk IV",
     "url": "https://mitxela.com/projects/precision_clock_mk_iv",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 552,
+    "by": "ahlCVA",
+    "descendants": 126,
+    "time": 1748703963
   }
 ]

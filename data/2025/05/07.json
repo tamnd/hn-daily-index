@@ -4,99 +4,99 @@
     "id": 43900877,
     "title": "OpenAI reaches agreement to buy Windsurf for $3B",
     "url": "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 667,
+    "by": "swyx",
+    "descendants": 572,
+    "time": 1746493068
   },
   {
     "rank": 2,
     "id": 43906841,
     "title": "Launch HN: Exa (YC S21) \u2013 The web as a database",
     "url": "https://news.ycombinator.com/item?id=43906841",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 412,
+    "by": "willbryk",
+    "descendants": 133,
+    "time": 1746548322
   },
   {
     "rank": 3,
     "id": 43907820,
     "title": "Matt Godbolt sold me on Rust by showing me C++",
     "url": "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 611,
+    "by": "LorenDB",
+    "descendants": 658,
+    "time": 1746553863
   },
   {
     "rank": 4,
     "id": 43909409,
     "title": "Claude's system prompt is over 24k tokens with tools",
     "url": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 627,
+    "by": "mike210",
+    "descendants": 334,
+    "time": 1746563975
   },
   {
     "rank": 5,
     "id": 43909430,
     "title": "India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir",
     "url": "https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 488,
+    "by": "alephnerd",
+    "descendants": 632,
+    "time": 1746564107
   },
   {
     "rank": 6,
     "id": 43910681,
     "title": "VVVVVV Source Code",
     "url": "https://github.com/TerryCavanagh/VVVVVV",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 446,
+    "by": "radeeyate",
+    "descendants": 93,
+    "time": 1746573728
   },
   {
     "rank": 7,
     "id": 43912844,
     "title": "Zed: High-performance AI Code Editor",
     "url": "https://zed.dev/blog/fastest-ai-code-editor",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 747,
+    "by": "vquemener",
+    "descendants": 422,
+    "time": 1746599920
   },
   {
     "rank": 8,
     "id": 43914705,
     "title": "CLion Is Now Free for Non-Commercial Use",
     "url": "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 624,
+    "by": "AlexeyBrin",
+    "descendants": 388,
+    "time": 1746620318
   },
   {
     "rank": 9,
     "id": 43914832,
     "title": "Unity\u2019s Open-Source Double Standard: the ban of VLC",
     "url": "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 541,
+    "by": "cempaka",
+    "descendants": 162,
+    "time": 1746621220
   },
   {
     "rank": 10,
     "id": 43918484,
     "title": "Ty: A fast Python type checker and language server",
     "url": "https://github.com/astral-sh/ty",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 916,
+    "by": "arathore",
+    "descendants": 287,
+    "time": 1746639146
   }
 ]
