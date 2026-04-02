@@ -4,9 +4,9 @@
     "id": 47613981,
     "title": "LinkedIn Is Illegally Searching Your Computer",
     "url": "https://browsergate.eu/",
-    "score": 119,
+    "score": 128,
     "by": "digitalWestie",
-    "descendants": 40,
+    "descendants": 41,
     "time": 1775135349
   },
   {
@@ -44,7 +44,7 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 259,
+    "score": 261,
     "by": "novaRom",
     "descendants": 139,
     "time": 1775127000
@@ -71,6 +71,16 @@
   },
   {
     "rank": 8,
+    "id": 47582987,
+    "title": "Gone (Almost) Phishin'",
+    "url": "https://ma.tt/2026/03/gone-almost-phishin/",
+    "score": 85,
+    "by": "luu",
+    "descendants": 39,
+    "time": 1774933899
+  },
+  {
+    "rank": 9,
     "id": 47612558,
     "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
     "url": "https://modolap.com/publication/hn-analysis-1",
@@ -78,16 +88,6 @@
     "by": "ronfriedhaber",
     "descendants": 7,
     "time": 1775126543
-  },
-  {
-    "rank": 9,
-    "id": 47582987,
-    "title": "Gone (Almost) Phishin'",
-    "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-    "score": 84,
-    "by": "luu",
-    "descendants": 39,
-    "time": 1774933899
   },
   {
     "rank": 10,
