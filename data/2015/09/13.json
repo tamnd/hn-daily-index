@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 10208047,
+    "title": "GDB Dashboard",
+    "url": "https://github.com/cyrus-and/gdb-dashboard",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 10208356,
+    "title": "Show HN: Stock recommender system using hedge fund data and machine learning",
+    "url": "http://www.navlio.com",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 10208601,
+    "title": "Envelope \u2013 Postgres database to web app with just HTML and SQL",
+    "url": "http://envelope.xyz/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 10208861,
+    "title": "The Math I Learned After I Thought Had Already Learned Math",
+    "url": "http://blog.mrmeyer.com/2015/the-math-i-learned-after-i-thought-had-already-learned-math/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 10209249,
+    "title": "What I Wish I Knew When Learning Haskell",
+    "url": "http://dev.stephendiehl.com/hask/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 10209456,
+    "title": "Concurrency kit \u2013 Concurrency primitives and non-blocking data structures in C",
+    "url": "http://concurrencykit.org/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 10209677,
+    "title": "Introduction to Monte Carlo Tree Search",
+    "url": "http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 10210272,
+    "title": "TypeScript and JSX",
+    "url": "http://www.jbrantly.com/typescript-and-jsx/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 10210685,
+    "title": "Is it just me or is networking really hard?",
+    "url": "http://gafferongames.com/2015/09/12/is-it-just-me-or-is-networking-really-hard/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 10211565,
+    "title": "Python 3.5.0",
+    "url": "https://www.python.org/downloads/release/python-350/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

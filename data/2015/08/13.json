@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 10048557,
+    "title": "Projects and Companies",
+    "url": "http://blog.samaltman.com/projects-and-companies",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 10049927,
+    "title": "Ohm (YC S15) is a smarter, lighter car battery that works with your existing car",
+    "url": "http://techcrunch.com/2015/08/12/ohm-is-a-smarter-lighter-car-battery-that-works-with-your-existing-car/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 10051845,
+    "title": "One trillion edges: graph processing at Facebook scale [pdf]",
+    "url": "http://www.vldb.org/pvldb/vol8/p1804-ching.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 10052359,
+    "title": "Ferrolic",
+    "url": "http://www.ferrolic.com/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 10052754,
+    "title": "Ember.js 2.0 Released",
+    "url": "http://emberjs.com/blog/2015/08/13/ember-2-0-released.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 10053352,
+    "title": "Even when told not to, Windows 10 doesn't stop talking to Microsoft",
+    "url": "http://arstechnica.co.uk/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 10053420,
+    "title": "Every 30 minutes Windows 10 sends all typed text to Microsoft",
+    "url": "https://translate.google.com/translate?hl=en&sl=cs&tl=en&u=http%3A%2F%2Faeronet.cz%2Fnews%2Fanalyza-windows-10-ve-svem-principu-jde-o-pouhy-terminal-na-sber-informaci-o-uzivateli-jeho-prstech-ocich-a-hlasu%2F",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 10053474,
+    "title": "Tesla Announces $500M Common Stock Offering",
+    "url": "http://ir.teslamotors.com/releasedetail.cfm?ReleaseID=927533",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 10054290,
+    "title": "Samsung unveils 2.5-inch 16TB SSD",
+    "url": "http://arstechnica.com/gadgets/2015/08/samsung-unveils-2-5-inch-16tb-ssd-the-worlds-largest-hard-drive/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 10055342,
+    "title": "Running three hours of Ruby tests in under three minutes",
+    "url": "https://stripe.com/blog/distributed-ruby-testing",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
