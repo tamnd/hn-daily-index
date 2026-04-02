@@ -4,9 +4,9 @@
     "id": 47613981,
     "title": "LinkedIn Is Illegally Searching Your Computer",
     "url": "https://browsergate.eu/",
-    "score": 257,
+    "score": 258,
     "by": "digitalWestie",
-    "descendants": 105,
+    "descendants": 106,
     "time": 1775135349
   },
   {
@@ -31,6 +31,16 @@
   },
   {
     "rank": 4,
+    "id": 47611721,
+    "title": "IBM Announces Strategic Collaboration with Arm",
+    "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+    "score": 167,
+    "by": "bonzini",
+    "descendants": 98,
+    "time": 1775119724
+  },
+  {
+    "rank": 5,
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
@@ -38,16 +48,6 @@
     "by": "novaRom",
     "descendants": 160,
     "time": 1775127000
-  },
-  {
-    "rank": 5,
-    "id": 47611721,
-    "title": "IBM Announces Strategic Collaboration with Arm",
-    "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 165,
-    "by": "bonzini",
-    "descendants": 98,
-    "time": 1775119724
   },
   {
     "rank": 6,
