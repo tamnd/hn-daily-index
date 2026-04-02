@@ -173,6 +173,8 @@ HEADER = """\
 
 A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.com), organized by date.
 
+> Thanks to [Hacker News](https://news.ycombinator.com) by [Y Combinator](https://www.ycombinator.com) for the [API](https://github.com/HackerNews/API), and to Colin Percival's [Hacker News Daily](https://www.daemonology.net/hn-daily/) for the historical archive going back to 2010.
+
 ## Contents
 
 """
@@ -256,12 +258,7 @@ def _generate_readme() -> str:
         total_days = len(all_dates)
         covered = sum(1 for d in all_dates if d.isoformat() in available)
 
-        # Year as a collapsible group (current year open)
-        open_attr = " open" if year == current_year else ""
-        lines.append(
-            f"<details{open_attr}><summary><h3>{year}</h3> "
-            f"{covered}/{total_days} days archived</summary>"
-        )
+        lines.append(f"### {year} ({covered}/{total_days} days)")
         lines.append("")
 
         # Group by month, most recent first
@@ -272,26 +269,16 @@ def _generate_readme() -> str:
 
         month_keys = sorted(months.keys(), reverse=True)
 
-        for i, month_key in enumerate(month_keys):
+        for month_key in month_keys:
             month_dates = months[month_key]
             month_label = month_dates[0].strftime("%B")
             month_covered = sum(1 for d in month_dates if d.isoformat() in available)
             month_total = len(month_dates)
 
-            # Most recent month of current year stays open
-            open_m = " open" if year == current_year and i == 0 else ""
-            lines.append(
-                f"<details{open_m}><summary><b>{month_label}</b> "
-                f"({month_covered}/{month_total})</summary>"
-            )
+            lines.append(f"**{month_label}** ({month_covered}/{month_total})")
             lines.append("")
             lines.extend(_render_month_calendar(month_dates, available))
             lines.append("")
-            lines.append("</details>")
-            lines.append("")
-
-        lines.append("</details>")
-        lines.append("")
 
     lines.append("---")
     lines.append("")

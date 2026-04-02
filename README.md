@@ -8,22 +8,22 @@
 
 A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.com), organized by date.
 
+> Thanks to [Hacker News](https://news.ycombinator.com) by [Y Combinator](https://www.ycombinator.com) for the [API](https://github.com/HackerNews/API), and to Colin Percival's [Hacker News Daily](https://www.daemonology.net/hn-daily/) for the historical archive going back to 2010.
+
 ## Contents
 
 
 Recent: [Apr 02](#2026-04-02)
 
-<details open><summary><h3>2026</h3> 1/92 days archived</summary>
+### 2026 (1/92 days)
 
-<details open><summary><b>April</b> (1/2)</summary>
+**April** (1/2)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | 1 | [**2**](#2026-04-02) |  |  |  |
 
-</details>
-
-<details><summary><b>March</b> (0/31)</summary>
+**March** (0/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -34,9 +34,7 @@ Recent: [Apr 02](#2026-04-02)
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 |  |  |  |  |  |
 
-</details>
-
-<details><summary><b>February</b> (0/28)</summary>
+**February** (0/28)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -46,9 +44,7 @@ Recent: [Apr 02](#2026-04-02)
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 |  |
 
-</details>
-
-<details><summary><b>January</b> (0/31)</summary>
+**January** (0/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -58,26 +54,22 @@ Recent: [Apr 02](#2026-04-02)
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |  |
 
-</details>
-
-</details>
-
 ---
 
 ## 2026-04-02
 
 *Thursday*
 
-1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 64 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [25 comments](https://news.ycombinator.com/item?id=47611721)
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 70 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [29 comments](https://news.ycombinator.com/item?id=47611721)
 2. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 52 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=47611481)
-3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 935 points by [apitman](https://news.ycombinator.com/user?id=apitman), [799 comments](https://news.ycombinator.com/item?id=47603657)
-4. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 36 points by [luu](https://news.ycombinator.com/user?id=luu), [16 comments](https://news.ycombinator.com/item?id=47582987)
-5. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 143 points by [jaden](https://news.ycombinator.com/user?id=jaden), [42 comments](https://news.ycombinator.com/item?id=47609694)
-6. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 49 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [15 comments](https://news.ycombinator.com/item?id=47596739)
-7. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 408 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [189 comments](https://news.ycombinator.com/item?id=47609564)
-8. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 180 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
-9. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) (blog.cloudflare.com) - 578 points by [elithrar](https://news.ycombinator.com/user?id=elithrar), [428 comments](https://news.ycombinator.com/item?id=47602832)
-10. [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) (github.com) - 184 points by [glittershark](https://news.ycombinator.com/user?id=glittershark), [15 comments](https://news.ycombinator.com/item?id=47608058)
+3. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 936 points by [apitman](https://news.ycombinator.com/user?id=apitman), [799 comments](https://news.ycombinator.com/item?id=47603657)
+4. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (ofcom.org.uk) - 8 points by [bundie](https://news.ycombinator.com/user?id=bundie), [0 comments](https://news.ycombinator.com/item?id=47612127)
+5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 37 points by [luu](https://news.ycombinator.com/user?id=luu), [16 comments](https://news.ycombinator.com/item?id=47582987)
+6. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 147 points by [jaden](https://news.ycombinator.com/user?id=jaden), [43 comments](https://news.ycombinator.com/item?id=47609694)
+7. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 52 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [16 comments](https://news.ycombinator.com/item?id=47596739)
+8. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p) (phoronix.com) - 410 points by [hkmaxpro](https://news.ycombinator.com/user?id=hkmaxpro), [191 comments](https://news.ycombinator.com/item?id=47609564)
+9. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) (scottaaronson.blog) - 180 points by [Strilanc](https://news.ycombinator.com/user?id=Strilanc), [60 comments](https://news.ycombinator.com/item?id=47608495)
+10. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) (blog.cloudflare.com) - 578 points by [elithrar](https://news.ycombinator.com/user?id=elithrar), [429 comments](https://news.ycombinator.com/item?id=47602832)
 
 ---
 
