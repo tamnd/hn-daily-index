@@ -4,99 +4,99 @@
     "id": 14032201,
     "title": "Show HN: React-data sheet, Excel-like spreadsheet component",
     "url": "https://nadbm.github.io/react-datasheet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "nadimisl",
+    "descendants": 89,
+    "time": 1491311720
   },
   {
     "rank": 2,
     "id": 14034092,
     "title": "Over the Air: Exploiting Broadcom\u2019s Wi-Fi Stack",
     "url": "https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 439,
+    "by": "ivank",
+    "descendants": 151,
+    "time": 1491321694
   },
   {
     "rank": 3,
     "id": 14034218,
     "title": "Django 1.11 Released",
     "url": "https://www.djangoproject.com/weblog/2017/apr/04/django-111-released/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "andrewingram",
+    "descendants": 141,
+    "time": 1491322240
   },
   {
     "rank": 4,
     "id": 14034426,
     "title": "Why Momentum Works",
     "url": "http://distill.pub/2017/momentum/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 503,
+    "by": "m_ke",
+    "descendants": 95,
+    "time": 1491323180
   },
   {
     "rank": 5,
     "id": 14037830,
     "title": "Espresso \u2013 Google\u2019s peering edge architecture",
     "url": "https://www.blog.google/topics/google-cloud/making-google-cloud-faster-more-available-and-cost-effective-extending-sdn-public-internet-espresso/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 327,
+    "by": "vgt",
+    "descendants": 94,
+    "time": 1491344849
   },
   {
     "rank": 6,
     "id": 14039135,
     "title": "Ask HN: Building a side project that makes money. Where to start?",
     "url": "https://news.ycombinator.com/item?id=14039135",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 602,
+    "by": "ihoys",
+    "descendants": 248,
+    "time": 1491358787
   },
   {
     "rank": 7,
     "id": 14041077,
     "title": "ZeroNet \u2013 Uncensorable websites using Bitcoin crypto and BitTorrent network",
     "url": "https://zeronet.io/en",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 410,
+    "by": "handpickednames",
+    "descendants": 169,
+    "time": 1491388500
   },
   {
     "rank": 8,
     "id": 14041367,
     "title": "Grid Garden \u2013 A game for learning CSS grid",
     "url": "http://cssgridgarden.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 404,
+    "by": "jwarren",
+    "descendants": 131,
+    "time": 1491393035
   },
   {
     "rank": 9,
     "id": 14043631,
     "title": "Growing Ubuntu for Cloud and IoT, Rather Than Phone and Convergence",
     "url": "https://insights.ubuntu.com/2017/04/05/growing-ubuntu-for-cloud-and-iot-rather-than-phone-and-convergence/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 756,
+    "by": "popey",
+    "descendants": 456,
+    "time": 1491411988
   },
   {
     "rank": 10,
     "id": 14044517,
     "title": "Uber finds one allegedly stolen Waymo file on an employee\u2019s personal device",
     "url": "https://techcrunch.com/2017/04/05/uber-finds-one-allegedly-stolen-waymo-file-on-an-employees-personal-device/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "folz",
+    "descendants": 339,
+    "time": 1491418123
   }
 ]

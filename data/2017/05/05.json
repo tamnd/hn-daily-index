@@ -4,99 +4,99 @@
     "id": 14263638,
     "title": "Thieves drain 2FA-protected bank accounts by abusing SS7 routing protocol",
     "url": "https://arstechnica.com/security/2017/05/thieves-drain-2fa-protected-bank-accounts-by-abusing-ss7-routing-protocol/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 375,
+    "by": "Dowwie",
+    "descendants": 213,
+    "time": 1493890336
   },
   {
     "rank": 2,
     "id": 14264189,
     "title": "Build yourself a Linux",
     "url": "https://github.com/MichielDerhaeg/build-linux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 497,
+    "by": "AlexeyBrin",
+    "descendants": 89,
+    "time": 1493899615
   },
   {
     "rank": 3,
     "id": 14269590,
     "title": "How Stripe teaches employees to code",
     "url": "https://stripe.com/blog/teaching-employees-to-code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 539,
+    "by": "lopopolo",
+    "descendants": 117,
+    "time": 1493938456
   },
   {
     "rank": 4,
     "id": 14269708,
     "title": "Uber faces criminal probe over software used to evade authorities",
     "url": "http://www.reuters.com/article/us-uber-tech-crime-exclusive-idUSKBN1802U1",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 883,
+    "by": "techlover14159",
+    "descendants": 559,
+    "time": 1493939664
   },
   {
     "rank": 5,
     "id": 14271597,
     "title": "My son died in 1994 but his heart only stopped beating this year",
     "url": "http://www.bbc.com/news/magazine-39422660",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "happy-go-lucky",
+    "descendants": 112,
+    "time": 1493967454
   },
   {
     "rank": 6,
     "id": 14271670,
     "title": "Stop the Daily Standup Meeting",
     "url": "http://devteams.at/stop_the_daily_standup_meeting",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "struppi",
+    "descendants": 251,
+    "time": 1493968486
   },
   {
     "rank": 7,
     "id": 14271837,
     "title": "Leaked document reveals UK plans for wider internet surveillance",
     "url": "http://www.zdnet.com/article/leaked-document-reveals-uk-plans-for-wider-internet-surveillance/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "cmsefton",
+    "descendants": 149,
+    "time": 1493971346
   },
   {
     "rank": 8,
     "id": 14272702,
     "title": "The Patek Philippe Caliber 89 and Horology\u2019s Easter Problem",
     "url": "https://www.hodinkee.com/articles/patek-philippe-caliber-89-easter-problem",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "gpresot",
+    "descendants": 188,
+    "time": 1493985308
   },
   {
     "rank": 9,
     "id": 14273549,
     "title": "Build Yourself a Redux",
     "url": "https://zapier.com/engineering/how-to-build-redux/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 395,
+    "by": "jdeal",
+    "descendants": 155,
+    "time": 1493993657
   },
   {
     "rank": 10,
     "id": 14275512,
     "title": "The Rust Libz Blitz",
     "url": "https://blog.rust-lang.org/2017/05/05/libz-blitz.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "aturon",
+    "descendants": 122,
+    "time": 1494007611
   }
 ]

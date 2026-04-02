@@ -4,99 +4,99 @@
     "id": 14337275,
     "title": "Tagger News takes a subset of HN articles, analyzes using ML, and applies tags",
     "url": "https://techcrunch.com/2017/05/14/building-a-smarter-hacker-news/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "var_explained",
+    "descendants": 64,
+    "time": 1494791817
   },
   {
     "rank": 2,
     "id": 14337569,
     "title": "Lessons from last week\u2019s cyberattack",
     "url": "https://blogs.microsoft.com/on-the-issues/2017/05/14/need-urgent-collective-action-keep-people-safe-online-lessons-last-weeks-cyberattack/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "ycitm",
+    "descendants": 282,
+    "time": 1494795872
   },
   {
     "rank": 3,
     "id": 14337871,
     "title": "FCC Filings Overwhelmingly Support Net Neutrality Once Spam Is Removed",
     "url": "http://jeffreyfossett.com/2017/05/13/fcc-filings.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "xparadigm",
+    "descendants": 144,
+    "time": 1494800468
   },
   {
     "rank": 4,
     "id": 14338212,
     "title": "Consider a Dell Optiplex FX160 Instead of a Raspberry Pi",
     "url": "https://thesizzle.com.au/blog/get-dell-optiplex-fx160-instead-raspberry-pi/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 526,
+    "by": "uptown",
+    "descendants": 219,
+    "time": 1494806515
   },
   {
     "rank": 5,
     "id": 14338328,
     "title": "Lyft and Waymo Reach Deal to Collaborate on Self-Driving Cars",
     "url": "https://www.nytimes.com/2017/05/14/technology/lyft-waymo-self-driving-cars.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 719,
+    "by": "josephpmay",
+    "descendants": 371,
+    "time": 1494808692
   },
   {
     "rank": 6,
     "id": 14338411,
     "title": "Why do many math books have so much detail and so little enlightenment? (2010)",
     "url": "https://mathoverflow.net/questions/13089/why-do-so-many-textbooks-have-so-much-technical-detail-and-so-little-enlightenme",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 620,
+    "by": "mathgenius",
+    "descendants": 260,
+    "time": 1494810150
   },
   {
     "rank": 7,
     "id": 14340035,
     "title": "Why Amazon is eating the world",
     "url": "https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 417,
+    "by": "Doubleguitars",
+    "descendants": 279,
+    "time": 1494837147
   },
   {
     "rank": 8,
     "id": 14340137,
     "title": "Human rights activist risks prison over refusal to disclose password to police",
     "url": "http://www.middleeasteye.net/news/cage-director-faces-jail-over-refusal-disclose-password-during-airport-interrogation-681177289",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "robteix",
+    "descendants": 155,
+    "time": 1494838699
   },
   {
     "rank": 9,
     "id": 14340905,
     "title": "Doxing the hero who stopped WannaCry was irresponsible and dumb",
     "url": "https://thenextweb.com/insider/2017/05/15/doxing-hero-stopped-wannacry-irresponsible-dumb/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 442,
+    "by": "ascorbic",
+    "descendants": 107,
+    "time": 1494849880
   },
   {
     "rank": 10,
     "id": 14341880,
     "title": "Tim Cook\u2019s refusal to help FBI hack iPhone is validated by \u2018WannaCry\u2019 attack",
     "url": "http://bgr.com/2017/05/15/wannacry-ransomware-apple-ios-tim-cook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 450,
+    "by": "BishopD",
+    "descendants": 180,
+    "time": 1494858944
   }
 ]

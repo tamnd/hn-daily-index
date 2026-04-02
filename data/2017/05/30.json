@@ -4,99 +4,99 @@
     "id": 14439692,
     "title": "Wikipedia\u2019s Switch to HTTPS Has Successfully Fought Government Censorship",
     "url": "https://motherboard.vice.com/en_us/article/wikipedias-switch-to-https-has-successfully-fought-government-censorship",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 401,
+    "by": "rbanffy",
+    "descendants": 119,
+    "time": 1496073071
   },
   {
     "rank": 2,
     "id": 14440507,
     "title": "Why do so few people major in computer science?",
     "url": "http://danwang.co/why-so-few-computer-science-majors?idk",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 424,
+    "by": "dmnd",
+    "descendants": 599,
+    "time": 1496081590
   },
   {
     "rank": 3,
     "id": 14440993,
     "title": "Show HN: Early-stage Yahoo Pipes spiritual successor",
     "url": "https://www.pipes.digital/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 280,
+    "by": "onli",
+    "descendants": 126,
+    "time": 1496086869
   },
   {
     "rank": 4,
     "id": 14441492,
     "title": "MoonScript, a programmer friendly language that compiles to Lua",
     "url": "http://moonscript.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 391,
+    "by": "type0",
+    "descendants": 162,
+    "time": 1496092623
   },
   {
     "rank": 5,
     "id": 14442971,
     "title": "Someone forged my resignation letter",
     "url": "https://workplace.stackexchange.com/questions/91643/someone-forged-my-resignation-letter",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "techolic",
+    "descendants": 156,
+    "time": 1496117699
   },
   {
     "rank": 6,
     "id": 14444179,
     "title": "Essential Products \u2013 Andy Rubin\u2019s new hardware company",
     "url": "https://www.essential.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 281,
+    "by": "henrikgs",
+    "descendants": 241,
+    "time": 1496139339
   },
   {
     "rank": 7,
     "id": 14444914,
     "title": "How to Improve a Legacy Codebase",
     "url": "http://jacquesmattheij.com/improving-a-legacy-codebase",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 653,
+    "by": "darwhy",
+    "descendants": 293,
+    "time": 1496148666
   },
   {
     "rank": 8,
     "id": 14446261,
     "title": "SCOTUS: Patent Rights Over a Printer Cartridge Are Exhausted When It Is Sold",
     "url": "https://www.law.cornell.edu/supremecourt/text/15-1189",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 884,
+    "by": "beefman",
+    "descendants": 303,
+    "time": 1496160296
   },
   {
     "rank": 9,
     "id": 14447393,
     "title": "Uber Fires Anthony Levandowski",
     "url": "https://www.nytimes.com/2017/05/30/technology/uber-anthony-levandowski.html?_r=0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 611,
+    "by": "coloneltcb",
+    "descendants": 280,
+    "time": 1496169415
   },
   {
     "rank": 10,
     "id": 14447682,
     "title": "Node v8.0.0 Released",
     "url": "https://nodejs.org/en/blog/release/v8.0.0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 531,
+    "by": "petercooper",
+    "descendants": 177,
+    "time": 1496171650
   }
 ]

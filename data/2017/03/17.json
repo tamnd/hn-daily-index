@@ -4,99 +4,99 @@
     "id": 13884322,
     "title": "GNU Guile 2.2.0",
     "url": "https://www.gnu.org/software/guile/news/gnu-guile-220-released.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 331,
+    "by": "amirouche",
+    "descendants": 144,
+    "time": 1489666087
   },
   {
     "rank": 2,
     "id": 13885685,
     "title": "An Upgrade to SyntaxNet, New Models and a Parsing Competition",
     "url": "https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "liviosoares",
+    "descendants": 85,
+    "time": 1489677457
   },
   {
     "rank": 3,
     "id": 13886885,
     "title": "A million-dollar engineering problem",
     "url": "https://segment.com/blog/the-million-dollar-eng-problem/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 570,
+    "by": "gwintrob",
+    "descendants": 252,
+    "time": 1489684954
   },
   {
     "rank": 4,
     "id": 13886959,
     "title": "Announcing Rust 1.16",
     "url": "https://blog.rust-lang.org/2017/03/16/Rust-1.16.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "steveklabnik",
+    "descendants": 92,
+    "time": 1489685473
   },
   {
     "rank": 5,
     "id": 13887237,
     "title": "Programs that have saved me 100+ hours",
     "url": "http://sadacaraveo.com/programs-that-have-saved-me-more-than-100-hours-by-automating-repetitive-tasks",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 389,
+    "by": "dshacker",
+    "descendants": 203,
+    "time": 1489687007
   },
   {
     "rank": 6,
     "id": 13887295,
     "title": "Guetzli: A New Open-Source JPEG Encoder",
     "url": "https://research.googleblog.com/2017/03/announcing-guetzli-new-open-source-jpeg.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/gJZg+(Official+Google+Research+Blog)",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 600,
+    "by": "ashishgandhi",
+    "descendants": 128,
+    "time": 1489687309
   },
   {
     "rank": 7,
     "id": 13887853,
     "title": "Animista: a collection of ready to use CSS animations",
     "url": "http://animista.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 573,
+    "by": "tilt",
+    "descendants": 68,
+    "time": 1489690247
   },
   {
     "rank": 8,
     "id": 13888893,
     "title": "OpenEMR: Electronic Medical Records and Medical Practice Management Software",
     "url": "http://www.open-emr.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "mabynogy",
+    "descendants": 203,
+    "time": 1489696308
   },
   {
     "rank": 9,
     "id": 13890618,
     "title": "Enroute Airbus A380 wake flips Challenger business jet upside down",
     "url": "http://flightservicebureau.org/enroute-a380-wake-flips-challenger-604-upside-down/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "mustpax",
+    "descendants": 360,
+    "time": 1489714059
   },
   {
     "rank": 10,
     "id": 13896065,
     "title": "Scientists sent a rocket to Mars for less than it cost to make \u201cThe Martian\u201d",
     "url": "https://backchannel.com/isro-scientists-5ad220d6f38c#.bbt3fp4ql",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 556,
+    "by": "leslielemon",
+    "descendants": 157,
+    "time": 1489772307
   }
 ]

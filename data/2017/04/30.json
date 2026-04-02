@@ -4,99 +4,99 @@
     "id": 14224926,
     "title": "The Invisible War for the Open Internet",
     "url": "https://medium.freecodecamp.com/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "bootload",
+    "descendants": 159,
+    "time": 1493437519
   },
   {
     "rank": 2,
     "id": 14225614,
     "title": "Rust your ARM microcontroller",
     "url": "http://blog.japaric.io/quickstart/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "miqkt",
+    "descendants": 16,
+    "time": 1493454692
   },
   {
     "rank": 3,
     "id": 14227337,
     "title": "Award-Winning Nautilus Enters Rough Waters",
     "url": "https://undark.org/2017/04/29/award-winning-nautilus-enters-rough-waters/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 254,
+    "by": "r721",
+    "descendants": 96,
+    "time": 1493483864
   },
   {
     "rank": 4,
     "id": 14227471,
     "title": "Tiny Linux distro that runs the entire OS as Docker containers",
     "url": "https://github.com/rancher/os",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 219,
+    "by": "purak",
+    "descendants": 171,
+    "time": 1493485097
   },
   {
     "rank": 5,
     "id": 14228912,
     "title": "How to Read a Paper (2016) [pdf]",
     "url": "http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "jdale27",
+    "descendants": 40,
+    "time": 1493501901
   },
   {
     "rank": 6,
     "id": 14229412,
     "title": "How I got an FBI record at age 11 from dabbling in cryptography (2015)",
     "url": "http://web.stanford.edu/~learnest/les/crypto.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 562,
+    "by": "tjalfi",
+    "descendants": 133,
+    "time": 1493509110
   },
   {
     "rank": 7,
     "id": 14230899,
     "title": "Why Deutsche Bundesbank had to promise to leave 1200 tons of gold in New York",
     "url": "http://norberthaering.de/en/home/32-english/news/787-bundesbank-gold",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 274,
+    "by": "akrymski",
+    "descendants": 228,
+    "time": 1493547999
   },
   {
     "rank": 8,
     "id": 14230911,
     "title": "National Park Maps",
     "url": "http://npmaps.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "hownottowrite",
+    "descendants": 59,
+    "time": 1493548236
   },
   {
     "rank": 9,
     "id": 14232074,
     "title": "Why Use Postgres?",
     "url": "http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "timf",
+    "descendants": 225,
+    "time": 1493567260
   },
   {
     "rank": 10,
     "id": 14233450,
     "title": "First introduction to LaTeX",
     "url": "https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "rawland",
+    "descendants": 170,
+    "time": 1493581403
   }
 ]

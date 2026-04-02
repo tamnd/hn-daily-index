@@ -4,99 +4,99 @@
     "id": 14057423,
     "title": "Marc Andreessen: \u201cTake the Ego Out of Ideas\u201d",
     "url": "https://www.gsb.stanford.edu/insights/marc-andreessen-take-ego-out-ideas",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "allenleee",
+    "descendants": 235,
+    "time": 1491543876
   },
   {
     "rank": 2,
     "id": 14061935,
     "title": "File Format Posters",
     "url": "https://github.com/corkami/pics/tree/master/binary",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 320,
+    "by": "dcschelt",
+    "descendants": 45,
+    "time": 1491587610
   },
   {
     "rank": 3,
     "id": 14061985,
     "title": "The BEAM Book \u2013 A Description of the Erlang RTS and the Virtual Machine BEAM",
     "url": "https://github.com/happi/theBeamBook",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "weatherlight",
+    "descendants": 14,
+    "time": 1491587914
   },
   {
     "rank": 4,
     "id": 14063609,
     "title": "Color Night Vision (2016) [video]",
     "url": "http://kottke.org/17/04/incredible-low-light-camera-turns-night-into-day",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 625,
+    "by": "Tomte",
+    "descendants": 156,
+    "time": 1491600192
   },
   {
     "rank": 5,
     "id": 14063818,
     "title": "React v15.5.0",
     "url": "https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 453,
+    "by": "shahzeb",
+    "descendants": 203,
+    "time": 1491602426
   },
   {
     "rank": 6,
     "id": 14064096,
     "title": "Ask HN: Do you still use browser bookmarks?",
     "url": "https://news.ycombinator.com/item?id=14064096",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "ethanpil",
+    "descendants": 445,
+    "time": 1491605907
   },
   {
     "rank": 7,
     "id": 14064161,
     "title": "A girl was found living among monkeys in an Indian forest",
     "url": "https://www.washingtonpost.com/news/morning-mix/wp/2017/04/07/a-girl-was-found-living-among-monkeys-in-an-indian-forest-how-she-got-there-is-a-mystery/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 365,
+    "by": "mrb",
+    "descendants": 159,
+    "time": 1491606823
   },
   {
     "rank": 8,
     "id": 14065481,
     "title": "ReactXP \u2013 A library for building cross-platform apps",
     "url": "https://microsoft.github.io/reactxp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "nthtran",
+    "descendants": 116,
+    "time": 1491629348
   },
   {
     "rank": 9,
     "id": 14066948,
     "title": "New Features Coming in PostgreSQL 10",
     "url": "http://rhaas.blogspot.com/2017/04/new-features-coming-in-postgresql-10.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "ioltas",
+    "descendants": 135,
+    "time": 1491660352
   },
   {
     "rank": 10,
     "id": 14068280,
     "title": "Snowden: NSA just lost control of its Top Secret arsenal of digital weapons",
     "url": "https://twitter.com/Snowden/status/850766326943690752",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 657,
+    "by": "Yrlec",
+    "descendants": 297,
+    "time": 1491676607
   }
 ]

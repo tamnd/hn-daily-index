@@ -4,99 +4,99 @@
     "id": 13859041,
     "title": "Simple example of machine learning in TensorFlow",
     "url": "https://github.com/jostmey/NakedTensor?bare",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "jostmey",
+    "descendants": 47,
+    "time": 1489421334
   },
   {
     "rank": 2,
     "id": 13859963,
     "title": "LLVM 4.0.0",
     "url": "http://lists.llvm.org/pipermail/llvm-announce/2017-March/000073.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "zmodem",
+    "descendants": 141,
+    "time": 1489425549
   },
   {
     "rank": 3,
     "id": 13862284,
     "title": "Teach Yourself Computer Science",
     "url": "https://teachyourselfcs.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1308,
+    "by": "kruse-tim",
+    "descendants": 237,
+    "time": 1489438696
   },
   {
     "rank": 4,
     "id": 13865459,
     "title": "JSON Web Tokens should be avoided",
     "url": "https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 386,
+    "by": "CiPHPerCoder",
+    "descendants": 297,
+    "time": 1489472645
   },
   {
     "rank": 5,
     "id": 13867016,
     "title": "Ask HN: Which Berkeley Courses Should I Archive?",
     "url": "https://news.ycombinator.com/item?id=13867016",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 512,
+    "by": "berkeleyarchive",
+    "descendants": 148,
+    "time": 1489495407
   },
   {
     "rank": 6,
     "id": 13867316,
     "title": "Scala Native v0.1",
     "url": "https://www.scala-lang.org/blog/2017/03/14/scala-native-0.1-is-here.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 642,
+    "by": "zepolud",
+    "descendants": 240,
+    "time": 1489498077
   },
   {
     "rank": 7,
     "id": 13867590,
     "title": "Is Facebook a Structural Threat to Free Society?",
     "url": "http://www.truthhawk.com/is-facebook-a-structural-threat-to-free-society/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 733,
+    "by": "jonstokes",
+    "descendants": 399,
+    "time": 1489500616
   },
   {
     "rank": 8,
     "id": 13867739,
     "title": "Reverse Engineering the Hacker News Ranking Algorithm",
     "url": "http://sangaline.com/post/reverse-engineering-the-hacker-news-ranking-algorithm/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "foob",
+    "descendants": 49,
+    "time": 1489501895
   },
   {
     "rank": 9,
     "id": 13869807,
     "title": "Vibrator Maker to Pay Millions Over Claims It Secretly Tracked Use",
     "url": "http://www.npr.org/sections/thetwo-way/2017/03/14/520123490/vibrator-maker-to-pay-millions-over-claims-it-secretly-tracked-use",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 456,
+    "by": "ceejayoz",
+    "descendants": 251,
+    "time": 1489514103
   },
   {
     "rank": 10,
     "id": 13870199,
     "title": "Keep the Internet Open",
     "url": "http://blog.samaltman.com/keep-the-internet-open",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1032,
+    "by": "firloop",
+    "descendants": 391,
+    "time": 1489516576
   }
 ]

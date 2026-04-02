@@ -4,99 +4,99 @@
     "id": 14147583,
     "title": "A look at my BBS Software from '93",
     "url": "https://mmccaff.github.io/2017/04/18/my-bbs-software-from-1993/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 392,
+    "by": "mmccaff",
+    "descendants": 212,
+    "time": 1492609140
   },
   {
     "rank": 2,
     "id": 14149023,
     "title": "Facebook and the Cost of Monopoly",
     "url": "https://stratechery.com/2017/facebook-and-the-cost-of-monopoly/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 304,
+    "by": "germinalphrase",
+    "descendants": 135,
+    "time": 1492619371
   },
   {
     "rank": 3,
     "id": 14151610,
     "title": "Pattern Matching for Java",
     "url": "http://cr.openjdk.java.net/~briangoetz/amber/pattern-match.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 370,
+    "by": "steve_barham",
+    "descendants": 146,
+    "time": 1492634764
   },
   {
     "rank": 4,
     "id": 14152257,
     "title": "Hard-won lessons: Five years with Node.js",
     "url": "https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 340,
+    "by": "ingve",
+    "descendants": 356,
+    "time": 1492639616
   },
   {
     "rank": 5,
     "id": 14152688,
     "title": "Google plans ad-blocking feature in Chrome browser",
     "url": "https://www.wsj.com/articles/google-plans-ad-blocking-feature-in-popular-chrome-browser-1492643233",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 824,
+    "by": "kristianc",
+    "descendants": 487,
+    "time": 1492644321
   },
   {
     "rank": 6,
     "id": 14153346,
     "title": "Analysis of the United Airlines passenger removal incident",
     "url": "https://hasbrouck.org/blog/archives/002292.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "osteele",
+    "descendants": 363,
+    "time": 1492653140
   },
   {
     "rank": 7,
     "id": 14154395,
     "title": "System76 is moving product design and manufacturing in house",
     "url": "http://blog.system76.com/post/159767214983/entering-phase-three",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 617,
+    "by": "b01t",
+    "descendants": 323,
+    "time": 1492669521
   },
   {
     "rank": 8,
     "id": 14155761,
     "title": "Tmux and Vim \u2013 better together",
     "url": "https://blog.bugsnag.com/tmux-and-vim/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 461,
+    "by": "kiyanwang",
+    "descendants": 290,
+    "time": 1492688313
   },
   {
     "rank": 9,
     "id": 14156954,
     "title": "Docker is transitioning to Moby",
     "url": "https://github.com/moby/moby/pull/32691",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "lclarkmichalek",
+    "descendants": 305,
+    "time": 1492698773
   },
   {
     "rank": 10,
     "id": 14159085,
     "title": "Microsoft: You need to fix your Skype and Microsoft account issues, this is insane",
     "url": "https://kolemcrae.com/microsoft-you-seriously-need-to-fix-your-skype-and-microsoft-account-issues-this-is-insane-6fd51e104caa",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 544,
+    "by": "kolemcrae",
+    "descendants": 171,
+    "time": 1492710855
   }
 ]

@@ -4,99 +4,99 @@
     "id": 14286133,
     "title": "Show HN: 100M Books \u2013 Open a new tab, discover a new book",
     "url": "http://www.100millionbooks.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 289,
+    "by": "m52go",
+    "descendants": 100,
+    "time": 1494173810
   },
   {
     "rank": 2,
     "id": 14286383,
     "title": "I Broke Rust's Package Manager for Windows Users",
     "url": "http://sasheldon.com/blog/2017/05/07/how-i-broke-cargo-for-windows/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "sasheldon",
+    "descendants": 162,
+    "time": 1494177370
   },
   {
     "rank": 3,
     "id": 14287679,
     "title": "Unmanned U.S. Air Force space plane lands after secret, two-year mission",
     "url": "http://www.reuters.com/article/us-space-military-spaceplane-idUSKBN1830PF",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "rodionos",
+    "descendants": 167,
+    "time": 1494191228
   },
   {
     "rank": 4,
     "id": 14289212,
     "title": "Mass Extinction and the Structure of the Milky Way (2013)",
     "url": "https://arxiv.org/abs/1309.4838",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "DrScump",
+    "descendants": 204,
+    "time": 1494217136
   },
   {
     "rank": 5,
     "id": 14289307,
     "title": "Jeff Varasano's Famous New York Pizza Recipe (2008)",
     "url": "http://www.varasanos.com/PizzaRecipe.htm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 350,
+    "by": "benbreen",
+    "descendants": 145,
+    "time": 1494218446
   },
   {
     "rank": 6,
     "id": 14290114,
     "title": "Things to Use Instead of JSON Web Tokens",
     "url": "https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 376,
+    "by": "LaSombra",
+    "descendants": 195,
+    "time": 1494233122
   },
   {
     "rank": 7,
     "id": 14290518,
     "title": "Ask HN: What's your working day like?",
     "url": "https://news.ycombinator.com/item?id=14290518",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 377,
+    "by": "a1815",
+    "descendants": 415,
+    "time": 1494239951
   },
   {
     "rank": 8,
     "id": 14290909,
     "title": "Gallery of programming UIs",
     "url": "https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/preview?slide=id.g1da0625f1b_0_56",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "Chris2048",
+    "descendants": 76,
+    "time": 1494245981
   },
   {
     "rank": 9,
     "id": 14291412,
     "title": "Net neutrality is in jeopardy again",
     "url": "https://blog.mozilla.org/blog/2017/05/08/next-10-days-critical-internets-future/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 928,
+    "by": "kungfudoi",
+    "descendants": 374,
+    "time": 1494251457
   },
   {
     "rank": 10,
     "id": 14292396,
     "title": "Uncensorable Wikipedia on IPFS",
     "url": "https://ipfs.io/blog/24-uncensorable-wikipedia/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 692,
+    "by": "bpierre",
+    "descendants": 247,
+    "time": 1494257419
   }
 ]

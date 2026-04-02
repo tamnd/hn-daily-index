@@ -4,99 +4,99 @@
     "id": 14416530,
     "title": "Pix2code: Generating Code from a Graphical User Interface Screenshot",
     "url": "https://github.com/tonybeltramelli/pix2code",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "visarga",
+    "descendants": 66,
+    "time": 1495710085
   },
   {
     "rank": 2,
     "id": 14417758,
     "title": "Ask HN: I don't want to be a founder anymore",
     "url": "https://news.ycombinator.com/item?id=14417758",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 565,
+    "by": "throwaway10595",
+    "descendants": 479,
+    "time": 1495724786
   },
   {
     "rank": 3,
     "id": 14418013,
     "title": "Is Clojure dying, and what has Ruby got to do with it?",
     "url": "https://lambdaisland.com/blog/25-05-2017-simple-and-happy-is-clojure-dying-and-what-has-ruby-got-to-do-with-it",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 241,
+    "by": "tosh",
+    "descendants": 247,
+    "time": 1495727175
   },
   {
     "rank": 4,
     "id": 14419353,
     "title": "Twilio Functions \u2013 Public Beta",
     "url": "https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 267,
+    "by": "tcsf",
+    "descendants": 86,
+    "time": 1495739217
   },
   {
     "rank": 5,
     "id": 14420972,
     "title": "Chrome Won",
     "url": "https://andreasgal.com/2017/05/25/chrome-won/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "fabrice_d",
+    "descendants": 560,
+    "time": 1495755950
   },
   {
     "rank": 6,
     "id": 14421215,
     "title": "Writing a Fast JSON Parser",
     "url": "https://chadaustin.me/2017/05/writing-a-really-really-fast-json-parser/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "jsheard",
+    "descendants": 50,
+    "time": 1495758649
   },
   {
     "rank": 7,
     "id": 14421527,
     "title": "It's Never Too Early to Fire",
     "url": "https://a16z.com/2017/05/24/on-firing-why-when-how/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 249,
+    "by": "jbyers",
+    "descendants": 179,
+    "time": 1495762991
   },
   {
     "rank": 8,
     "id": 14422159,
     "title": "Coroutines are now in Clang trunk, libc++",
     "url": "https://twitter.com/eric01/status/867473461836263424",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 282,
+    "by": "davedx",
+    "descendants": 170,
+    "time": 1495776238
   },
   {
     "rank": 9,
     "id": 14422509,
     "title": "Npm v5.0.0 released",
     "url": "http://blog.npmjs.org/post/161081169345/v500",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "pajoda",
+    "descendants": 114,
+    "time": 1495783771
   },
   {
     "rank": 10,
     "id": 14422706,
     "title": "NTFS bug lets anyone hang or crash Windows 7 or 8.1",
     "url": "https://arstechnica.com/information-technology/2017/05/in-a-throwback-to-the-90s-ntfs-bug-lets-anyone-hang-or-crash-windows-7-8-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "ivank",
+    "descendants": 98,
+    "time": 1495787235
   }
 ]

@@ -4,99 +4,99 @@
     "id": 14155393,
     "title": "Me and SVG",
     "url": "http://codepen.io/AmeliaBR/post/me-and-svg",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 507,
+    "by": "bootload",
+    "descendants": 225,
+    "time": 1492683229
   },
   {
     "rank": 2,
     "id": 14157785,
     "title": "Serde 1.0.0 for Rust released",
     "url": "https://github.com/serde-rs/serde/releases/tag/v1.0.0",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 273,
+    "by": "taheris",
+    "descendants": 51,
+    "time": 1492703598
   },
   {
     "rank": 3,
     "id": 14158772,
     "title": "McDonald's Real Estate: How They Really Make Their Money (2015)",
     "url": "http://blog.wallstreetsurvivor.com/2015/10/08/mcdonalds-beyond-the-burger/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "neop",
+    "descendants": 259,
+    "time": 1492709081
   },
   {
     "rank": 4,
     "id": 14158837,
     "title": "PhotoScan: Taking Glare-Free Pictures of Pictures",
     "url": "https://research.googleblog.com/2017/04/photoscan-taking-glare-free-pictures-of.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 286,
+    "by": "stablemap",
+    "descendants": 64,
+    "time": 1492709395
   },
   {
     "rank": 5,
     "id": 14161876,
     "title": "Calculus Made Easy (1914) [pdf]",
     "url": "http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1080,
+    "by": "Pamar",
+    "descendants": 189,
+    "time": 1492731583
   },
   {
     "rank": 6,
     "id": 14163216,
     "title": "Robots.txt meant for search engines don\u2019t work well for web archives",
     "url": "http://blog.archive.org/2017/04/17/robots-txt-meant-for-search-engines-dont-work-well-for-web-archives/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 295,
+    "by": "r721",
+    "descendants": 143,
+    "time": 1492751220
   },
   {
     "rank": 7,
     "id": 14163589,
     "title": "Survivorship Bias",
     "url": "https://xkcd.com/1827/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "rbanffy",
+    "descendants": 222,
+    "time": 1492757771
   },
   {
     "rank": 8,
     "id": 14163905,
     "title": "Ask HN: Which companies have the best blogs written by their engineering team?",
     "url": "https://news.ycombinator.com/item?id=14163905",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 451,
+    "by": "carlmungz",
+    "descendants": 135,
+    "time": 1492763324
   },
   {
     "rank": 9,
     "id": 14164018,
     "title": "Introducing Token",
     "url": "https://blog.tokenbrowser.com/introducing-token-2f2ceeab6d4c",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 488,
+    "by": "samscully",
+    "descendants": 152,
+    "time": 1492765182
   },
   {
     "rank": 10,
     "id": 14166966,
     "title": "What Happens When You Send a Zero-Day to a Bank?",
     "url": "https://privacylog.blogspot.com/2017/04/what-happens-when-you-send-zero-day-to.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1494,
+    "by": "ivank",
+    "descendants": 438,
+    "time": 1492791949
   }
 ]

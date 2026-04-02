@@ -4,99 +4,99 @@
     "id": 14446602,
     "title": "Server room with seismic isolation floor in Japan earthquake disaster [video]",
     "url": "https://www.youtube.com/watch?v=GXwQSCStRaw",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "DamnInteresting",
+    "descendants": 60,
+    "time": 1496162899
   },
   {
     "rank": 2,
     "id": 14447727,
     "title": "Damn Cool Algorithms: Log structured storage (2009)",
     "url": "http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 296,
+    "by": "Tomte",
+    "descendants": 34,
+    "time": 1496171911
   },
   {
     "rank": 3,
     "id": 14448404,
     "title": "Goodbye PNaCl, Hello WebAssembly",
     "url": "https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 655,
+    "by": "Ajedi32",
+    "descendants": 343,
+    "time": 1496177185
   },
   {
     "rank": 4,
     "id": 14448911,
     "title": "Tad, a tabular data viewer",
     "url": "http://tadviewer.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "tosh",
+    "descendants": 111,
+    "time": 1496181835
   },
   {
     "rank": 5,
     "id": 14450448,
     "title": "Tectonic: a modernized, self-contained TeX/LaTeX engine",
     "url": "https://users.rust-lang.org/t/tectonic-a-complete-modernized-self-contained-tex-latex-engine/11053",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "JoshTriplett",
+    "descendants": 92,
+    "time": 1496205472
   },
   {
     "rank": 6,
     "id": 14450879,
     "title": "Going for the 5 hour workday",
     "url": "http://code.krister.ee/going-for-the-5-hour-workday/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "kristerv",
+    "descendants": 186,
+    "time": 1496214960
   },
   {
     "rank": 7,
     "id": 14450905,
     "title": "On Conference Speaking",
     "url": "https://hynek.me/articles/speaking/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 400,
+    "by": "danielh",
+    "descendants": 117,
+    "time": 1496215337
   },
   {
     "rank": 8,
     "id": 14452819,
     "title": "Kubernetes by Example",
     "url": "http://kubernetesbyexample.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 612,
+    "by": "rbanffy",
+    "descendants": 132,
+    "time": 1496241144
   },
   {
     "rank": 9,
     "id": 14452923,
     "title": "Kerbal Space Program Acquired by Take-Two Interactive",
     "url": "https://kerbalspaceprogram.com/en/?page_id=747",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 560,
+    "by": "Impossible",
+    "descendants": 336,
+    "time": 1496242028
   },
   {
     "rank": 10,
     "id": 14453406,
     "title": "The US has forgotten how to do infrastructure",
     "url": "https://www.bloomberg.com/view/articles/2017-05-31/the-u-s-has-forgotten-how-to-do-infrastructure",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 433,
+    "by": "Typhon",
+    "descendants": 542,
+    "time": 1496245607
   }
 ]

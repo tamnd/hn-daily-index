@@ -4,99 +4,99 @@
     "id": 14374606,
     "title": "WannaCry in-memory key recovery for Windows XP",
     "url": "https://github.com/aguinet/wannakey",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 317,
+    "by": "uladzislau",
+    "descendants": 90,
+    "time": 1495193795
   },
   {
     "rank": 2,
     "id": 14377232,
     "title": "Bootsnap: Optimizing Ruby App Boot Time",
     "url": "https://engineering.shopify.com/235340559-bootsnap-optimizing-ruby-app-boot-time",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 285,
+    "by": "Finbarr",
+    "descendants": 74,
+    "time": 1495211681
   },
   {
     "rank": 3,
     "id": 14378655,
     "title": "Introducing zetcd",
     "url": "https://coreos.com/blog/introducing-zetcd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 264,
+    "by": "rtp",
+    "descendants": 34,
+    "time": 1495221782
   },
   {
     "rank": 4,
     "id": 14378746,
     "title": "Hacker News Readers as Progressive Web Apps",
     "url": "https://hnpwa.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 275,
+    "by": "tbassetto",
+    "descendants": 70,
+    "time": 1495222496
   },
   {
     "rank": 5,
     "id": 14379497,
     "title": "42-inch yacht still hoping to become the smallest boat to cross the Atlantic",
     "url": "http://www.yachtingworld.com/extraordinary-boats/undaunted-the-42-inch-yacht-still-hoping-to-become-the-smallest-boat-ever-to-cross-the-atlantic-107559",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "tim_garcia",
+    "descendants": 199,
+    "time": 1495229390
   },
   {
     "rank": 6,
     "id": 14379557,
     "title": "Adding a new Bytecode instruction to the .NET runtime",
     "url": "http://mattwarren.org/2017/05/19/Adding-a-new-Bytecode-Instruction-to-the-CLR/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "matthewwarren",
+    "descendants": 28,
+    "time": 1495230182
   },
   {
     "rank": 7,
     "id": 14380157,
     "title": "Americans Are Paying $38 to Collect $1 of Student Debt",
     "url": "https://www.bloomberg.com/news/articles/2017-05-19/americans-are-paying-38-to-collect-1-of-student-debt?cmpid=BBD051917_BIZ&utm_medium=email&utm_source=newsletter&utm_term=170519&utm_campaign=bloombergdaily",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 287,
+    "by": "JumpCrisscross",
+    "descendants": 225,
+    "time": 1495237560
   },
   {
     "rank": 8,
     "id": 14381264,
     "title": "Engineering management lessons (2014)",
     "url": "http://www.defmacro.org/2014/10/03/engman.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 517,
+    "by": "mzehrer",
+    "descendants": 109,
+    "time": 1495260639
   },
   {
     "rank": 9,
     "id": 14382184,
     "title": "Theresa May to create new internet controlled and regulated by government",
     "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/theresa-may-internet-conservatives-government-a7744176.html?amp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 347,
+    "by": "jakub_g",
+    "descendants": 211,
+    "time": 1495285388
   },
   {
     "rank": 10,
     "id": 14384187,
     "title": "Scott Gilbertson: \u2018Kill Google AMP before it kills the web\u2019",
     "url": "https://daringfireball.net/linked/2017/05/20/gilbertson-amp",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 969,
+    "by": "DLay",
+    "descendants": 462,
+    "time": 1495312087
   }
 ]

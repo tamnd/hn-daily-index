@@ -4,99 +4,99 @@
     "id": 13932806,
     "title": "Research Debt",
     "url": "http://distill.pub/2017/research-debt/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 508,
+    "by": "wwilson",
+    "descendants": 136,
+    "time": 1490203149
   },
   {
     "rank": 2,
     "id": 13935590,
     "title": "Secret colours of the Commodore 64",
     "url": "http://www.aaronbell.com/secret-colours-of-the-commodore-64/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "a1r",
+    "descendants": 95,
+    "time": 1490221582
   },
   {
     "rank": 3,
     "id": 13936153,
     "title": "Apple has acquired Workflow, an automation tool for iPad and iPhone",
     "url": "https://techcrunch.com/2017/03/22/apple-has-acquired-workflow-a-powerful-automation-tool-for-ipad-and-iphone/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 499,
+    "by": "gerosan",
+    "descendants": 147,
+    "time": 1490226084
   },
   {
     "rank": 4,
     "id": 13938475,
     "title": "Japanese company develops a solar cell with record-breaking efficiency",
     "url": "https://arstechnica.co.uk/science/2017/03/japanese-company-develops-a-solar-cell-with-record-breaking-26-efficiency/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "Jaruzel",
+    "descendants": 105,
+    "time": 1490263155
   },
   {
     "rank": 5,
     "id": 13939645,
     "title": "Loopy: a tool for thinking in systems",
     "url": "http://ncase.me/loopy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 508,
+    "by": "bpierre",
+    "descendants": 84,
+    "time": 1490276792
   },
   {
     "rank": 6,
     "id": 13939958,
     "title": "\u201cDig once\u201d bill could bring fiber Internet to much of the US",
     "url": "https://arstechnica.com/information-technology/2017/03/nationwide-fiber-proposed-law-could-add-broadband-to-road-projects/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 499,
+    "by": "walterbell",
+    "descendants": 103,
+    "time": 1490278941
   },
   {
     "rank": 7,
     "id": 13940014,
     "title": "VS Code uses 13% CPU when idle due to blinking cursor rendering",
     "url": "https://github.com/Microsoft/vscode/issues/22900",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 899,
+    "by": "Kristine1975",
+    "descendants": 760,
+    "time": 1490279379
   },
   {
     "rank": 8,
     "id": 13940412,
     "title": "Modern JavaScript for Ancient Web Developers",
     "url": "https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.2tpky4xfc",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 651,
+    "by": "rmason",
+    "descendants": 311,
+    "time": 1490281945
   },
   {
     "rank": 9,
     "id": 13941011,
     "title": "Intent to Deprecate and Remove: Trust in Existing Symantec-Issued Certificates",
     "url": "https://groups.google.com/a/chromium.org/d/msg/blink-dev/eUAKwjihhBs/rpxMXjZHCQAJ",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 762,
+    "by": "ehPReth",
+    "descendants": 317,
+    "time": 1490285130
   },
   {
     "rank": 10,
     "id": 13942345,
     "title": "US Senate votes to undo FCC internet privacy rules",
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2017/03/23/congress-is-poised-to-undo-landmark-rules-covering-your-internet-privacy/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 992,
+    "by": "daegloe",
+    "descendants": 441,
+    "time": 1490292258
   }
 ]

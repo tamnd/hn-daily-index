@@ -4,99 +4,99 @@
     "id": 13966054,
     "title": "Flex",
     "url": "https://harc.ycr.org/flex/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 632,
+    "by": "mpweiher",
+    "descendants": 91,
+    "time": 1490604205
   },
   {
     "rank": 2,
     "id": 13978348,
     "title": "Alcatel-Lucent releases source for 8th, 9th and 10th editions of Unix",
     "url": "http://www.tuhs.org/Archive/Distributions/Research/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 360,
+    "by": "adamnemecek",
+    "descendants": 57,
+    "time": 1490720624
   },
   {
     "rank": 3,
     "id": 13979014,
     "title": "Glimmer \u2013 Fast and light-weight UI components",
     "url": "https://glimmerjs.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 314,
+    "by": "makepanic",
+    "descendants": 126,
+    "time": 1490724383
   },
   {
     "rank": 4,
     "id": 13980600,
     "title": "I\u2019m Not \u201cBlack Enough\u201d for Inc. Magazine",
     "url": "https://facesoffounders.org/im-not-black-enough-for-inc-magazine-337569d54a6b",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "bootload",
+    "descendants": 180,
+    "time": 1490734519
   },
   {
     "rank": 5,
     "id": 13981184,
     "title": "The House just voted to wipe out the FCC\u2019s landmark Internet privacy protections",
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2017/03/28/the-house-just-voted-to-wipe-out-the-fccs-landmark-internet-privacy-protections/?utm_term=.966720a31b6c?tid=a_breakingnews&hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 901,
+    "by": "blazingfrog2",
+    "descendants": 499,
+    "time": 1490738717
   },
   {
     "rank": 6,
     "id": 13981757,
     "title": "Night Shift compared to f.lux",
     "url": "https://forum.justgetflux.com/topic/3655/f-lux-vs-night-shift-in-macos-10-12-4/8",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 430,
+    "by": "mattiemass",
+    "descendants": 201,
+    "time": 1490742821
   },
   {
     "rank": 7,
     "id": 13982620,
     "title": "Containers vs. Zones vs. Jails vs. VMs",
     "url": "https://blog.jessfraz.com/post/containers-zones-jails-vms/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 714,
+    "by": "adamnemecek",
+    "descendants": 235,
+    "time": 1490752129
   },
   {
     "rank": 8,
     "id": 13983212,
     "title": "Beej's Guide to Network Programming",
     "url": "http://beej.us/guide/bgnet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 333,
+    "by": "nnain",
+    "descendants": 44,
+    "time": 1490759170
   },
   {
     "rank": 9,
     "id": 13987046,
     "title": "Westinghouse Files for Bankruptcy, in Blow to Nuclear Power",
     "url": "https://www.nytimes.com/2017/03/29/business/westinghouse-toshiba-nuclear-bankruptcy.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 416,
+    "by": "mathoff",
+    "descendants": 388,
+    "time": 1490800525
   },
   {
     "rank": 10,
     "id": 13987405,
     "title": "VPNs Are Absolutely a Solution to a Policy Problem",
     "url": "https://journal.standardnotes.org/vpns-are-absolutely-a-solution-to-a-policy-problem-3b88af699bcd",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 385,
+    "by": "mobitar",
+    "descendants": 256,
+    "time": 1490802482
   }
 ]

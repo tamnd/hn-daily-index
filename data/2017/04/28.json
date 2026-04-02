@@ -4,99 +4,99 @@
     "id": 14211462,
     "title": "Cleaver \u2013 30-second slideshows for hackers",
     "url": "http://jdan.github.io/cleaver/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 294,
+    "by": "iheredia",
+    "descendants": 49,
+    "time": 1493301490
   },
   {
     "rank": 2,
     "id": 14211561,
     "title": "A critique of trends in tech",
     "url": "https://medium.com/@freddiedeboer/the-three-hot-trends-in-silicon-valley-horseshit-95cc5a85e8a4",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 473,
+    "by": "dccoolgai",
+    "descendants": 233,
+    "time": 1493302256
   },
   {
     "rank": 3,
     "id": 14213540,
     "title": "Write Fast Apps Using Async Python 3.6 and Redis",
     "url": "https://eng.paxos.com/write-fast-apps-using-async-python-3.6-and-redis",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 337,
+    "by": "midas",
+    "descendants": 128,
+    "time": 1493316389
   },
   {
     "rank": 4,
     "id": 14214772,
     "title": "Uber\u2019s Anthony Levandowski out as Advanced Technologies lead amid legal fight",
     "url": "https://techcrunch.com/2017/04/27/ubers-anthony-levandowki-out-as-advanced-technologies-lead-amid-legal-fight/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 397,
+    "by": "petergatsby",
+    "descendants": 201,
+    "time": 1493327717
   },
   {
     "rank": 5,
     "id": 14215616,
     "title": "Instead of containers, give me strong config and deploy primitives",
     "url": "https://abe-winter.github.io/blues/2017/04/27/config-vs-containers.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "awinter-py",
+    "descendants": 179,
+    "time": 1493334611
   },
   {
     "rank": 6,
     "id": 14216473,
     "title": "Have We Forgotten about Geometry in Computer Vision?",
     "url": "http://alexgkendall.com/computer_vision/have_we_forgotten_about_geometry_in_computer_vision/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "AndrewKemendo",
+    "descendants": 121,
+    "time": 1493346281
   },
   {
     "rank": 7,
     "id": 14218270,
     "title": "Stupid security things",
     "url": "https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 609,
+    "by": "troyhunt",
+    "descendants": 159,
+    "time": 1493375507
   },
   {
     "rank": 8,
     "id": 14218559,
     "title": "How to talk about yourself in a developer interview",
     "url": "https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/?utm_content=buffer74fe2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "NickLarsen",
+    "descendants": 191,
+    "time": 1493379268
   },
   {
     "rank": 9,
     "id": 14219384,
     "title": "Just Say No",
     "url": "https://jacquesmattheij.com/just-say-no",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 563,
+    "by": "janvdberg",
+    "descendants": 353,
+    "time": 1493387910
   },
   {
     "rank": 10,
     "id": 14223020,
     "title": "The Boring Company [video]",
     "url": "https://boringcompany.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 836,
+    "by": "janvdberg",
+    "descendants": 752,
+    "time": 1493413333
   }
 ]

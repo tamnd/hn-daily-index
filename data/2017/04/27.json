@@ -4,99 +4,99 @@
     "id": 14201908,
     "title": "A vigilante trying to improve IoT security",
     "url": "https://gizmodo.com/this-hacker-is-my-new-hero-1794630960",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 303,
+    "by": "jgrahamc",
+    "descendants": 231,
+    "time": 1493202544
   },
   {
     "rank": 2,
     "id": 14202994,
     "title": "Hanging up my spurs",
     "url": "https://lowercasecapital.com/2017/04/26/hanging-up-my-spurs/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "gfitz",
+    "descendants": 184,
+    "time": 1493215319
   },
   {
     "rank": 3,
     "id": 14205997,
     "title": "The FCC plan to undo its net neutrality rules",
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2017/04/26/heres-the-fccs-plan-to-undo-its-own-net-neutrality-rules",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "sinak",
+    "descendants": 193,
+    "time": 1493233686
   },
   {
     "rank": 4,
     "id": 14206635,
     "title": "Should I buy ECC memory? (2015)",
     "url": "https://danluu.com/why-ecc/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 300,
+    "by": "colinprince",
+    "descendants": 224,
+    "time": 1493238319
   },
   {
     "rank": 5,
     "id": 14207752,
     "title": "Swift architecture at Uber",
     "url": "https://www.skilled.io/u/swiftsummit/swift-with-a-hundred-engineers",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 305,
+    "by": "tsycho",
+    "descendants": 144,
+    "time": 1493247163
   },
   {
     "rank": 6,
     "id": 14209874,
     "title": "An analysis of the Nomx secure communications device",
     "url": "https://scotthelme.co.uk/nomx-the-worlds-most-secure-communications-protocol/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "stevekemp",
+    "descendants": 70,
+    "time": 1493279137
   },
   {
     "rank": 7,
     "id": 14210080,
     "title": "gRPC-Web: Moving past REST+JSON towards type-safe Web APIs",
     "url": "https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis#hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "bestan",
+    "descendants": 132,
+    "time": 1493282469
   },
   {
     "rank": 8,
     "id": 14211242,
     "title": "Teller Reveals His Secrets (2012)",
     "url": "http://www.smithsonianmag.com/arts-culture/teller-reveals-his-secrets-100744801/?all&no-ist",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 470,
+    "by": "Tomte",
+    "descendants": 144,
+    "time": 1493299440
   },
   {
     "rank": 9,
     "id": 14212561,
     "title": "TypeScript 2.3",
     "url": "https://blogs.msdn.microsoft.com/typescript/2017/04/27/announcing-typescript-2-3/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 366,
+    "by": "DanRosenwasser",
+    "descendants": 116,
+    "time": 1493309206
   },
   {
     "rank": 10,
     "id": 14213220,
     "title": "Rust 1.17",
     "url": "https://blog.rust-lang.org/2017/04/27/Rust-1.17.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 551,
+    "by": "steveklabnik",
+    "descendants": 319,
+    "time": 1493313985
   }
 ]

@@ -4,99 +4,99 @@
     "id": 14532826,
     "title": "An introduction to Wayland",
     "url": "https://drewdevault.com/2017/06/10/Introduction-to-Wayland.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 192,
+    "by": "ddevault",
+    "descendants": 86,
+    "time": 1497202276
   },
   {
     "rank": 2,
     "id": 14534315,
     "title": "Inkscape Moves to GitLab",
     "url": "https://inkscape.org/en/news/2017/06/10/inkscape-moves-gitlab/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 525,
+    "by": "dabber",
+    "descendants": 208,
+    "time": 1497222728
   },
   {
     "rank": 3,
     "id": 14535505,
     "title": "Apple\u2019s Guidelines Now Allow Executable Code in Educational Apps and Dev Tools",
     "url": "https://www.macstories.net/linked/apples-app-store-guidelines-now-allow-executable-code-in-educational-apps-and-developer-tools/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "tempodox",
+    "descendants": 253,
+    "time": 1497249428
   },
   {
     "rank": 4,
     "id": 14536410,
     "title": "Automattic is closing its San Francisco office as most employees work remotely",
     "url": "https://qz.com/1002655/the-company-behind-wordpress-is-closing-its-gorgeous-san-francisco-office-because-its-employees-never-show-up/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 533,
+    "by": "nkjoep",
+    "descendants": 300,
+    "time": 1497267155
   },
   {
     "rank": 5,
     "id": 14536679,
     "title": "Amazon sues former AWS VP over non-compete deal",
     "url": "https://www.geekwire.com/2017/amazon-sues-former-aws-vp-non-compete-deal-smartsheet-calls-claim-new-product-chief-enormous-overreach/amp/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 212,
+    "by": "mindhash",
+    "descendants": 155,
+    "time": 1497270135
   },
   {
     "rank": 6,
     "id": 14537506,
     "title": "Reverse engineering guide for beginners: Methodology and tools",
     "url": "https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 801,
+    "by": "ingve",
+    "descendants": 63,
+    "time": 1497276704
   },
   {
     "rank": 7,
     "id": 14537747,
     "title": "#c0ffee is the color",
     "url": "http://c0ffee.surge.sh/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 783,
+    "by": "pavel_lishin",
+    "descendants": 121,
+    "time": 1497278711
   },
   {
     "rank": 8,
     "id": 14538074,
     "title": "For an Inclusive Culture, Try Working Less",
     "url": "https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "itsdrewmiller",
+    "descendants": 264,
+    "time": 1497281642
   },
   {
     "rank": 9,
     "id": 14538875,
     "title": "Uber CEO Kalanick likely to take leave",
     "url": "http://www.reuters.com/article/us-uber-board-vote-idUSKBN1930AA",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 223,
+    "by": "pdelbarba",
+    "descendants": 146,
+    "time": 1497287338
   },
   {
     "rank": 10,
     "id": 14539770,
     "title": "Chess.com stopped working on 32bit iPads because 2^31 games have been played",
     "url": "https://www.chess.com/forum/view/general/impossible-de-jouer-depuis-deux-jours-quel-est-le-probleme",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 757,
+    "by": "NewGier",
+    "descendants": 326,
+    "time": 1497292707
   }
 ]

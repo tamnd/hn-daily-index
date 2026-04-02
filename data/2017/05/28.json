@@ -4,99 +4,99 @@
     "id": 14429616,
     "title": "How Bayesian Inference Works (2016)",
     "url": "https://brohrer.github.io/how_bayesian_inference_works.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 290,
+    "by": "amzans",
+    "descendants": 47,
+    "time": 1495881432
   },
   {
     "rank": 2,
     "id": 14429800,
     "title": "What's the difference between the com and exe extensions? (2008)",
     "url": "https://blogs.msdn.microsoft.com/oldnewthing/20080324-00/?p=23033",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "empressplay",
+    "descendants": 89,
+    "time": 1495887553
   },
   {
     "rank": 3,
     "id": 14429917,
     "title": "A Year of Google and Apple Maps",
     "url": "https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 449,
+    "by": "almostdigital",
+    "descendants": 118,
+    "time": 1495890572
   },
   {
     "rank": 4,
     "id": 14430690,
     "title": "Blockchains from the ground up: Part 1",
     "url": "http://johnmathews.eu/blockchain-introduction.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 301,
+    "by": "mthwsjc_",
+    "descendants": 36,
+    "time": 1495901919
   },
   {
     "rank": 5,
     "id": 14431122,
     "title": "Our understanding of the way the body handles salt may be wrong",
     "url": "https://www.nytimes.com/2017/05/08/health/salt-health-effects.html?mc=adintl&mcid=keywee&subid=pay&subid1=nordicEU&ad-keywords=auddevgate&kwp_0=413855&kwp_4=1523157&kwp_1=662103",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 195,
+    "by": "mherrmann",
+    "descendants": 86,
+    "time": 1495908132
   },
   {
     "rank": 6,
     "id": 14431173,
     "title": "View Counting at Reddit",
     "url": "https://redditblog.com/2017/05/24/view-counting-at-reddit/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "strzalek",
+    "descendants": 112,
+    "time": 1495908784
   },
   {
     "rank": 7,
     "id": 14432994,
     "title": "Introduction to ARM Assembly Basics",
     "url": "https://azeria-labs.com/writing-arm-assembly-part-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 246,
+    "by": "ingve",
+    "descendants": 44,
+    "time": 1495942920
   },
   {
     "rank": 8,
     "id": 14433684,
     "title": "A Practical Guide to Linux Commands, Editors, and Shell Programming (2010) [pdf]",
     "url": "http://www.aem.umn.edu/~aem3100/spring2013/Prentice_Hall_A_Practical_Guide_to_Linux_Commands_Editors_and_Shell_Programming_2nd.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 291,
+    "by": "lainon",
+    "descendants": 24,
+    "time": 1495963792
   },
   {
     "rank": 9,
     "id": 14434160,
     "title": "Slap \u2013 A Sublime-like terminal-based text editor",
     "url": "https://github.com/slap-editor/slap",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 214,
+    "by": "type0",
+    "descendants": 118,
+    "time": 1495975147
   },
   {
     "rank": 10,
     "id": 14434209,
     "title": "Growing a Compiler (2009)",
     "url": "http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 234,
+    "by": "ingve",
+    "descendants": 16,
+    "time": 1495976135
   }
 ]

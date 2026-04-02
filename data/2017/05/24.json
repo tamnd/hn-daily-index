@@ -4,99 +4,99 @@
     "id": 14400052,
     "title": "Who Owns England?",
     "url": "http://map.whoownsengland.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 330,
+    "by": "ascorbic",
+    "descendants": 237,
+    "time": 1495533573
   },
   {
     "rank": 2,
     "id": 14403734,
     "title": "Uber Plans Millions in Back Pay After Shortchanging NYC Drivers",
     "url": "https://www.bloomberg.com/news/articles/2017-05-23/uber-said-it-shortchanged-nyc-drivers-will-pay-out-millions",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 342,
+    "by": "rayuela",
+    "descendants": 225,
+    "time": 1495563533
   },
   {
     "rank": 3,
     "id": 14405665,
     "title": "Principal Component Analysis Explained Visually (2015)",
     "url": "http://setosa.io/ev/principal-component-analysis/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 315,
+    "by": "espiii",
+    "descendants": 25,
+    "time": 1495576096
   },
   {
     "rank": 4,
     "id": 14405810,
     "title": "Porting Windows Dynamic Link Libraries to Linux",
     "url": "https://github.com/taviso/loadlibrary",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 325,
+    "by": "dmit",
+    "descendants": 40,
+    "time": 1495577353
   },
   {
     "rank": 5,
     "id": 14406583,
     "title": "Google starts tracking what people buy in physical stores",
     "url": "http://www.latimes.com/business/technology/la-fi-tn-google-ads-tracking-20170523-story.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 369,
+    "by": "Jerry2",
+    "descendants": 243,
+    "time": 1495584774
   },
   {
     "rank": 6,
     "id": 14406989,
     "title": "NSA secretly conducted illegal searches on Americans for years",
     "url": "http://circa.com/politics/barack-obamas-team-secretly-disclosed-years-of-illegal-nsa-searches-spying-on-americans",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 474,
+    "by": "greenyoda",
+    "descendants": 209,
+    "time": 1495590047
   },
   {
     "rank": 7,
     "id": 14408859,
     "title": "Malicious Subtitles Threaten Kodi, VLC and Popcorn Time Users",
     "url": "http://blog.checkpoint.com/2017/05/23/hacked-in-translation/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 467,
+    "by": "seycombi",
+    "descendants": 224,
+    "time": 1495620740
   },
   {
     "rank": 8,
     "id": 14409269,
     "title": "Little Things I Like to Do with Git",
     "url": "https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 656,
+    "by": "csswizardry",
+    "descendants": 103,
+    "time": 1495626600
   },
   {
     "rank": 9,
     "id": 14410533,
     "title": "Google and IBM announce Istio \u2013 easily secure and manage microservices",
     "url": "https://developer.ibm.com/dwblog/2017/istio/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 443,
+    "by": "ajessup",
+    "descendants": 116,
+    "time": 1495638465
   },
   {
     "rank": 10,
     "id": 14411126,
     "title": "The largest Git repo",
     "url": "https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1053,
+    "by": "ethomson",
+    "descendants": 402,
+    "time": 1495642546
   }
 ]

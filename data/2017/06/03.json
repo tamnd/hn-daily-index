@@ -4,99 +4,99 @@
     "id": 14468818,
     "title": "Base65536 encoding",
     "url": "https://github.com/qntm/base65536",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 334,
+    "by": "rahiel",
+    "descendants": 120,
+    "time": 1496398407
   },
   {
     "rank": 2,
     "id": 14469477,
     "title": "Python For Finance: Algorithmic Trading",
     "url": "https://medium.com/@kacawi/python-for-finance-algorithmic-trading-60fdfb9bb20d",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 379,
+    "by": "pastefka",
+    "descendants": 160,
+    "time": 1496408161
   },
   {
     "rank": 3,
     "id": 14470231,
     "title": "Linux Namespaces and Go Don't Mix",
     "url": "https://www.weave.works/blog/linux-namespaces-and-go-don-t-mix",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 266,
+    "by": "_lm_",
+    "descendants": 160,
+    "time": 1496414569
   },
   {
     "rank": 4,
     "id": 14471358,
     "title": "TypeScript support in Electron",
     "url": "https://electron.atom.io/blog/2017/06/01/typescript",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "Garbage",
+    "descendants": 97,
+    "time": 1496422336
   },
   {
     "rank": 5,
     "id": 14473377,
     "title": "India, Once a Coal Goliath, Is Fast Turning Green",
     "url": "https://www.nytimes.com/2017/06/02/world/asia/india-coal-green-energy-climate.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 506,
+    "by": "scdoshi",
+    "descendants": 151,
+    "time": 1496438235
   },
   {
     "rank": 6,
     "id": 14474663,
     "title": "Secretive Billionaire Makes The Cheese For Pizza Hut, Domino's And Papa John's",
     "url": "https://www.forbes.com/sites/chloesorvino/2017/05/23/james-leprino-exclusive-mozzarella-billionaire-cheese-pizza-hut-dominos-papa-johns/#7ca143b54958",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 276,
+    "by": "breck",
+    "descendants": 176,
+    "time": 1496456846
   },
   {
     "rank": 7,
     "id": 14474956,
     "title": "SeaGlass \u2013 Enabling City-Wide IMSI-Catcher Detection",
     "url": "https://seaglass.cs.washington.edu/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 363,
+    "by": "risk",
+    "descendants": 36,
+    "time": 1496462842
   },
   {
     "rank": 8,
     "id": 14475489,
     "title": "Game Programming Patterns",
     "url": "http://gameprogrammingpatterns.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 271,
+    "by": "netgusto",
+    "descendants": 47,
+    "time": 1496477242
   },
   {
     "rank": 9,
     "id": 14475884,
     "title": "A hands-on introduction to video technology: image, video, codec and more",
     "url": "https://github.com/leandromoreira/digital_video_introduction",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 694,
+    "by": "manorwar8",
+    "descendants": 74,
+    "time": 1496488916
   },
   {
     "rank": 10,
     "id": 14476421,
     "title": "Accidentally destroyed production database on first day of a job",
     "url": "https://np.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 740,
+    "by": "kshahkshah",
+    "descendants": 265,
+    "time": 1496498446
   }
 ]
