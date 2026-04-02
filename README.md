@@ -952,7 +952,7 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 
 </details>
 
-### [2018](data/2018/) (334/365 days)
+### [2018](data/2018/) (365/365 days)
 
 <details><summary>Show calendars</summary>
 
@@ -1069,15 +1069,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 | [**19**](data/2018/02/README.md#2018-02-19) | [**20**](data/2018/02/README.md#2018-02-20) | [**21**](data/2018/02/README.md#2018-02-21) | [**22**](data/2018/02/README.md#2018-02-22) | [**23**](data/2018/02/README.md#2018-02-23) | [**24**](data/2018/02/README.md#2018-02-24) | [**25**](data/2018/02/README.md#2018-02-25) |
 | [**26**](data/2018/02/README.md#2018-02-26) | [**27**](data/2018/02/README.md#2018-02-27) | [**28**](data/2018/02/README.md#2018-02-28) |  |  |  |  |
 
-[**January**](data/2018/01/) (0/31)
+[**January**](data/2018/01/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |  |  |  |  |
+| [**1**](data/2018/01/README.md#2018-01-01) | [**2**](data/2018/01/README.md#2018-01-02) | [**3**](data/2018/01/README.md#2018-01-03) | [**4**](data/2018/01/README.md#2018-01-04) | [**5**](data/2018/01/README.md#2018-01-05) | [**6**](data/2018/01/README.md#2018-01-06) | [**7**](data/2018/01/README.md#2018-01-07) |
+| [**8**](data/2018/01/README.md#2018-01-08) | [**9**](data/2018/01/README.md#2018-01-09) | [**10**](data/2018/01/README.md#2018-01-10) | [**11**](data/2018/01/README.md#2018-01-11) | [**12**](data/2018/01/README.md#2018-01-12) | [**13**](data/2018/01/README.md#2018-01-13) | [**14**](data/2018/01/README.md#2018-01-14) |
+| [**15**](data/2018/01/README.md#2018-01-15) | [**16**](data/2018/01/README.md#2018-01-16) | [**17**](data/2018/01/README.md#2018-01-17) | [**18**](data/2018/01/README.md#2018-01-18) | [**19**](data/2018/01/README.md#2018-01-19) | [**20**](data/2018/01/README.md#2018-01-20) | [**21**](data/2018/01/README.md#2018-01-21) |
+| [**22**](data/2018/01/README.md#2018-01-22) | [**23**](data/2018/01/README.md#2018-01-23) | [**24**](data/2018/01/README.md#2018-01-24) | [**25**](data/2018/01/README.md#2018-01-25) | [**26**](data/2018/01/README.md#2018-01-26) | [**27**](data/2018/01/README.md#2018-01-27) | [**28**](data/2018/01/README.md#2018-01-28) |
+| [**29**](data/2018/01/README.md#2018-01-29) | [**30**](data/2018/01/README.md#2018-01-30) | [**31**](data/2018/01/README.md#2018-01-31) |  |  |  |  |
 
 </details>
 
@@ -1088,15 +1088,15 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 *Thursday*
 
 1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (newsroom.ibm.com) - 127 points by [bonzini](https://news.ycombinator.com/user?id=bonzini), [72 comments](https://news.ycombinator.com/item?id=47611721)
-2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 144 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [70 comments](https://news.ycombinator.com/item?id=47612601)
-3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 91 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [21 comments](https://news.ycombinator.com/item?id=47611481)
-4. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 11 points by [lode](https://news.ycombinator.com/user?id=lode), [0 comments](https://news.ycombinator.com/item?id=47613078)
-5. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 971 points by [apitman](https://news.ycombinator.com/user?id=apitman), [821 comments](https://news.ycombinator.com/item?id=47603657)
-6. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 13 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [1 comments](https://news.ycombinator.com/item?id=47612724)
+2. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (undark.org) - 148 points by [novaRom](https://news.ycombinator.com/user?id=novaRom), [70 comments](https://news.ycombinator.com/item?id=47612601)
+3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (kathmandupost.com) - 14 points by [lode](https://news.ycombinator.com/user?id=lode), [0 comments](https://news.ycombinator.com/item?id=47613078)
+4. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (blogit.michelin.io) - 91 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [22 comments](https://news.ycombinator.com/item?id=47611481)
+5. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 16 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [3 comments](https://news.ycombinator.com/item?id=47612724)
+6. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (nasa.gov) - 971 points by [apitman](https://news.ycombinator.com/user?id=apitman), [822 comments](https://news.ycombinator.com/item?id=47603657)
 7. [Significant Raise of Reports](https://lwn.net/Articles/1065620/) (lwn.net) - 50 points by [stratos123](https://news.ycombinator.com/user?id=stratos123), [20 comments](https://news.ycombinator.com/item?id=47611921)
 8. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (ma.tt) - 69 points by [luu](https://news.ycombinator.com/user?id=luu), [30 comments](https://news.ycombinator.com/item?id=47582987)
-9. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 74 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [21 comments](https://news.ycombinator.com/item?id=47596739)
-10. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (spencermortensen.com) - 187 points by [jaden](https://news.ycombinator.com/user?id=jaden), [59 comments](https://news.ycombinator.com/item?id=47609694)
+9. [A Founder Tried to Pitch – and Got a Restraining Order](https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan) (trellis.law) - 3 points by [elonmm](https://news.ycombinator.com/user?id=elonmm), [0 comments](https://news.ycombinator.com/item?id=47613351)
+10. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (techcrunch.com) - 74 points by [jackson-mcd](https://news.ycombinator.com/user?id=jackson-mcd), [21 comments](https://news.ycombinator.com/item?id=47596739)
 
 ## 2026-04-01
 

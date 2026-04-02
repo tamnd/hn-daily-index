@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 16073745,
+    "title": "Productivity in 2017: analyzing 225 million hours of work time",
+    "url": "http://blog.rescuetime.com/225-million-hours-productivity/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 16073874,
+    "title": "More details about mitigations for the CPU Speculative Execution issue",
+    "url": "https://security.googleblog.com/2018/01/more-details-about-mitigations-for-cpu_4.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 16074096,
+    "title": "Texttop \u2013 An interactive X Linux desktop rendered in TTY and streamable over SSH",
+    "url": "https://github.com/tombh/texttop",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 16075018,
+    "title": "Announcing the OpenWrt/LEDE merge",
+    "url": "https://forum.lede-project.org/t/announcing-the-openwrt-lede-merge/10217",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 16075325,
+    "title": "\u201cMy ten hour white noise video now has five copyright claims\u201d",
+    "url": "https://twitter.com/littlescale/status/949032404206870528",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 16075744,
+    "title": "\u201cIntel Core 2 bugs will assuredly be exploitable from userland code\u201d (2007)",
+    "url": "https://marc.info/?l=openbsd-misc&m=118296441702631&w=2",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 16077638,
+    "title": "Intentional Fire-Spreading by \u201cFirehawk\u201d Raptors in Northern Australia",
+    "url": "http://www.bioone.org/doi/abs/10.2993/0278-0771-37.4.700",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 16078532,
+    "title": "Germany vs. Elsevier: universities win temporary free journal access",
+    "url": "https://www.nature.com/articles/d41586-018-00093-7",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 16079910,
+    "title": "Intel Analysis of Speculative Execution Side Channels [pdf]",
+    "url": "https://newsroom.intel.com/wp-content/uploads/sites/11/2018/01/Intel-Analysis-of-Speculative-Execution-Side-Channels.pdf",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 16080002,
+    "title": "Why Raspberry Pi Isn't Vulnerable to Spectre or Meltdown",
+    "url": "https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
