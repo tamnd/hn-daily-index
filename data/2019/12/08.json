@@ -4,99 +4,99 @@
     "id": 21730258,
     "title": "Great White Sharks Are Terrified of Orcas",
     "url": "https://www.smithsonianmag.com/smart-news/great-white-sharks-are-completely-terrified-orcas-180972009/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 322,
+    "by": "EndXA",
+    "descendants": 191,
+    "time": 1575726717
   },
   {
     "rank": 2,
     "id": 21731095,
     "title": "Indexing Billions of Text Vectors",
     "url": "https://0x65.dev/blog/2019-12-07/indexing-billions-of-text-vectors.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 252,
+    "by": "martinlaz",
+    "descendants": 40,
+    "time": 1575736450
   },
   {
     "rank": 3,
     "id": 21731416,
     "title": "The rise and fall of the PlayStation supercomputers",
     "url": "https://www.theverge.com/2019/12/3/20984028/playstation-supercomputer-ps3-umass-dartmouth-astrophysics-25th-anniversary",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 283,
+    "by": "lelf",
+    "descendants": 169,
+    "time": 1575739637
   },
   {
     "rank": 4,
     "id": 21732027,
     "title": "The Product-Minded Software Engineer",
     "url": "https://blog.pragmaticengineer.com/the-product-minded-engineer/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 616,
+    "by": "turingbook",
+    "descendants": 142,
+    "time": 1575746549
   },
   {
     "rank": 5,
     "id": 21732902,
     "title": "Reducing the Performance Gap of Intel's MKL on AMD Threadripper",
     "url": "https://www.pugetsystems.com/labs/hpc/How-To-Use-MKL-with-AMD-Ryzen-and-Threadripper-CPU-s-Effectively-for-Python-Numpy-And-Other-Applications-1637/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 222,
+    "by": "smartmic",
+    "descendants": 138,
+    "time": 1575756650
   },
   {
     "rank": 6,
     "id": 21734529,
     "title": "GCC-Rust: Rust frontend for GCC",
     "url": "https://github.com/sapir/gcc-rust/tree/rust",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 288,
+    "by": "goranmoomin",
+    "descendants": 138,
+    "time": 1575784061
   },
   {
     "rank": 7,
     "id": 21734659,
     "title": "Far Cry",
     "url": "http://ceasarbautista.com/essays/far_cry.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 237,
+    "by": "luu",
+    "descendants": 103,
+    "time": 1575787353
   },
   {
     "rank": 8,
     "id": 21734913,
     "title": "Cairo Desktop Environment",
     "url": "https://cairoshell.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 243,
+    "by": "Rerarom",
+    "descendants": 88,
+    "time": 1575793660
   },
   {
     "rank": 9,
     "id": 21735592,
     "title": "Learning to code vs. learning to automate",
     "url": "https://daedtech.com/dont-learn-to-code-learn-to-automate/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "sharacane",
+    "descendants": 181,
+    "time": 1575808678
   },
   {
     "rank": 10,
     "id": 21737696,
     "title": "Verizon/Yahoo Blocking All Attempts to Archive.org Groups. Deletion: Dec.14",
     "url": "https://modsandmembersblog.wordpress.com/2019/12/08/verizon-yahoo-bad-form/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1393,
+    "by": "Diagon",
+    "descendants": 405,
+    "time": 1575833473
   }
 ]

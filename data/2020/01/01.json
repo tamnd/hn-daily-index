@@ -4,99 +4,99 @@
     "id": 21922801,
     "title": "All DMCA notices filed against TorrentFreak in 2019 were bogus",
     "url": "https://torrentfreak.com/all-dmca-notices-filed-against-torrentfreak-in-2019-were-bogus-191231/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 349,
+    "by": "TiredOfLife",
+    "descendants": 65,
+    "time": 1577813987
   },
   {
     "rank": 2,
     "id": 21923911,
     "title": "Doing a database join with CSV files",
     "url": "https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 357,
+    "by": "chmaynard",
+    "descendants": 111,
+    "time": 1577820785
   },
   {
     "rank": 3,
     "id": 21923940,
     "title": "Show HN: A tiny isometric city builder in JavaScript",
     "url": "https://github.com/victorqribeiro/isocity",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 593,
+    "by": "atum47",
+    "descendants": 104,
+    "time": 1577820929
   },
   {
     "rank": 4,
     "id": 21924298,
     "title": "Ask HN: Full-on machine learning for 2020, what are the best resources?",
     "url": "https://news.ycombinator.com/item?id=21924298",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 423,
+    "by": "jamesxv7",
+    "descendants": 118,
+    "time": 1577823004
   },
   {
     "rank": 5,
     "id": 21926027,
     "title": "Rhasspy is an open source, fully offline voice assistant toolkit",
     "url": "https://rhasspy.readthedocs.io/en/latest/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 590,
+    "by": "reedlaw",
+    "descendants": 54,
+    "time": 1577842316
   },
   {
     "rank": 6,
     "id": 21927009,
     "title": "Automate the Boring Stuff with Python (2015)",
     "url": "https://automatetheboringstuff.com/2e/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "saranshk",
+    "descendants": 70,
+    "time": 1577862146
   },
   {
     "rank": 7,
     "id": 21927076,
     "title": "Show HN: Simple 2D car physics with JavaScript",
     "url": "https://pakastin.github.io/car/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 308,
+    "by": "pkstn",
+    "descendants": 88,
+    "time": 1577863577
   },
   {
     "rank": 8,
     "id": 21927248,
     "title": "Rewriting m4vgalib in Rust",
     "url": "http://cliffle.com/blog/m4vga-in-rust/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 372,
+    "by": "zimmerfrei",
+    "descendants": 44,
+    "time": 1577867900
   },
   {
     "rank": 9,
     "id": 21928831,
     "title": "Godot Engine \u2013 A decade in retrospective and future",
     "url": "https://godotengine.org/article/retrospective-and-future",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 435,
+    "by": "perakojotgenije",
+    "descendants": 162,
+    "time": 1577896963
   },
   {
     "rank": 10,
     "id": 21929709,
     "title": "Software Disenchantment (2018)",
     "url": "https://tonsky.me/blog/disenchantment/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 934,
+    "by": "ibdknox",
+    "descendants": 488,
+    "time": 1577904513
   }
 ]

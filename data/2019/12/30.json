@@ -4,99 +4,99 @@
     "id": 21905423,
     "title": "Ask HN: Solo devs, how do you plan your development?",
     "url": "https://news.ycombinator.com/item?id=21905423",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 338,
+    "by": "going_to_800",
+    "descendants": 182,
+    "time": 1577619998
   },
   {
     "rank": 2,
     "id": 21907517,
     "title": "A lot of complex \u201cscalable\u201d systems can be done with a simple, single C++ server",
     "url": "https://twitter.com/ID_AA_Carmack/status/1210997702152069120",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 398,
+    "by": "Impossible",
+    "descendants": 362,
+    "time": 1577644378
   },
   {
     "rank": 3,
     "id": 21908145,
     "title": "French court rules Steam games must be able to be resold",
     "url": "https://www.engadget.com/2019/09/19/french-court-valve-steam-resold/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "abbe98",
+    "descendants": 241,
+    "time": 1577650580
   },
   {
     "rank": 4,
     "id": 21908577,
     "title": "Ask HN: Which is the most successful one-person business you heard of in 2019?",
     "url": "https://news.ycombinator.com/item?id=21908577",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 485,
+    "by": "robsun",
+    "descendants": 231,
+    "time": 1577654429
   },
   {
     "rank": 5,
     "id": 21909364,
     "title": "The StingRay Is Why the 4th Amendment Was Written (2017)",
     "url": "https://fee.org/articles/the-stingray-is-exactly-why-the-4th-amendment-was-written/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 269,
+    "by": "jseliger",
+    "descendants": 149,
+    "time": 1577661844
   },
   {
     "rank": 6,
     "id": 21910391,
     "title": "The Linux codebase has over 3k TODO comments, many from over a decade ago",
     "url": "https://todos.tickgit.com/browse?repo=https://github.com/torvalds/linux",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 436,
+    "by": "patrickdevivo",
+    "descendants": 295,
+    "time": 1577674281
   },
   {
     "rank": 7,
     "id": 21911225,
     "title": "The beta amyloid hypothesis has thwarted progress toward an Alzheimer\u2019s cure",
     "url": "https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 633,
+    "by": "KKKKkkkk1",
+    "descendants": 382,
+    "time": 1577686648
   },
   {
     "rank": 8,
     "id": 21911454,
     "title": "What: A terminal tool to check what is taking up your bandwidth",
     "url": "https://github.com/imsnif/what",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 863,
+    "by": "PleaseHelpMe",
+    "descendants": 180,
+    "time": 1577690485
   },
   {
     "rank": 9,
     "id": 21911633,
     "title": "Switching from Chrome to Firefox",
     "url": "https://support.mozilla.org/en-US/kb/switching-chrome-firefox",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 568,
+    "by": "nachtigall",
+    "descendants": 312,
+    "time": 1577693360
   },
   {
     "rank": 10,
     "id": 21913440,
     "title": "Fake \u201clike\u201d factories \u2013 how we reverse engineered facebooks user IDs [video]",
     "url": "https://media.ccc.de/v/36c3-10936-inside_the_fake_like_factories",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 626,
+    "by": "sturza",
+    "descendants": 243,
+    "time": 1577715383
   }
 ]

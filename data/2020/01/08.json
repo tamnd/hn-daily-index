@@ -4,99 +4,99 @@
     "id": 21968420,
     "title": "C Compiler from Scratch",
     "url": "https://github.com/DoctorWkt/acwj",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 484,
+    "by": "harel",
+    "descendants": 67,
+    "time": 1578311470
   },
   {
     "rank": 2,
     "id": 21978472,
     "title": "Removing the Linux /dev/random blocking pool",
     "url": "https://lwn.net/SubscriberLink/808575/9fd4fea3d86086f0/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 265,
+    "by": "lukastyrychtr",
+    "descendants": 174,
+    "time": 1578390615
   },
   {
     "rank": 3,
     "id": 21979350,
     "title": "How to Read a Paper (2016) [pdf]",
     "url": "https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 343,
+    "by": "DecayingOrganic",
+    "descendants": 40,
+    "time": 1578400634
   },
   {
     "rank": 4,
     "id": 21981923,
     "title": "Ask HN: Joining Big Tech in One\u2019s 40s",
     "url": "https://news.ycombinator.com/item?id=21981923",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 441,
+    "by": "kemiller",
+    "descendants": 184,
+    "time": 1578416914
   },
   {
     "rank": 5,
     "id": 21984761,
     "title": "Electrical Ground Current Event Detected in Norway",
     "url": "https://spaceweather.com/archive.php?view=1&day=07&month=01&year=2020",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "duncancarroll",
+    "descendants": 98,
+    "time": 1578430712
   },
   {
     "rank": 6,
     "id": 21986282,
     "title": "Jellyfin: A Free Software Media System",
     "url": "https://jellyfin.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 318,
+    "by": "matthberg",
+    "descendants": 173,
+    "time": 1578438751
   },
   {
     "rank": 7,
     "id": 21988968,
     "title": "How to Exit Vim",
     "url": "https://github.com/hakluke/how-to-exit-vim/blob/master/README.md",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1111,
+    "by": "justinzollars",
+    "descendants": 395,
+    "time": 1578465969
   },
   {
     "rank": 8,
     "id": 21991307,
     "title": "ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations",
     "url": "https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "agluszak",
+    "descendants": 45,
+    "time": 1578491093
   },
   {
     "rank": 9,
     "id": 21991382,
     "title": "Show HN: Beef, a new performance-oriented programming language",
     "url": "https://github.com/beefytech/Beef",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 533,
+    "by": "beefdev",
+    "descendants": 277,
+    "time": 1578491623
   },
   {
     "rank": 10,
     "id": 21992823,
     "title": "US emissions fell 2.1% in 2019",
     "url": "https://rhg.com/research/preliminary-us-emissions-2019/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 495,
+    "by": "lxm",
+    "descendants": 409,
+    "time": 1578500786
   }
 ]

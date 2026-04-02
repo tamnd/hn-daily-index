@@ -4,99 +4,99 @@
     "id": 21899254,
     "title": "Betrusted: A Security Enclave for Humans",
     "url": "https://betrusted.io/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 277,
+    "by": "DyslexicAtheist",
+    "descendants": 29,
+    "time": 1577545953
   },
   {
     "rank": 2,
     "id": 21902281,
     "title": "Build an 8-bit computer from scratch",
     "url": "https://eater.net/8bit",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 489,
+    "by": "kmooney",
+    "descendants": 52,
+    "time": 1577572505
   },
   {
     "rank": 3,
     "id": 21903007,
     "title": "Computer Science from the Bottom Up (2016)",
     "url": "https://www.bottomupcs.com/index.xhtml",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 618,
+    "by": "merlinsbrain",
+    "descendants": 76,
+    "time": 1577580666
   },
   {
     "rank": 4,
     "id": 21903645,
     "title": "SamyGO: Open-Source Firmware for Samsung TVs (2011)",
     "url": "https://www.samygo.tv/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 255,
+    "by": "pabs3",
+    "descendants": 72,
+    "time": 1577588714
   },
   {
     "rank": 5,
     "id": 21904070,
     "title": "Programmers Should Plan for Lower Pay?",
     "url": "https://www.jefftk.com/p/programmers-should-plan-for-lower-pay",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 339,
+    "by": "luu",
+    "descendants": 492,
+    "time": 1577595822
   },
   {
     "rank": 6,
     "id": 21904690,
     "title": "Encoding your WiFi access point password into a QR code",
     "url": "https://feeding.cloud.geek.nz/posts/encoding-wifi-access-point-passwords-qr-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 685,
+    "by": "edward",
+    "descendants": 227,
+    "time": 1577605815
   },
   {
     "rank": 7,
     "id": 21905397,
     "title": "Google\u2019s Monopoly is Stifling Free Software?",
     "url": "https://medium.com/@byuu_san/googles-monopoly-is-stifling-free-software-e63dea114f39",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 302,
+    "by": "near",
+    "descendants": 176,
+    "time": 1577619483
   },
   {
     "rank": 8,
     "id": 21905856,
     "title": "IncludeOS: a minimal unikernel operating system for C++ services",
     "url": "https://www.includeos.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "lelf",
+    "descendants": 181,
+    "time": 1577627277
   },
   {
     "rank": 9,
     "id": 21906727,
     "title": "Focus has become more valuable than intelligence (2018)",
     "url": "https://alexand.ro/2018/08/how-focus-became-more-valuable-than-intelligence",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 571,
+    "by": "alexandroo",
+    "descendants": 213,
+    "time": 1577637090
   },
   {
     "rank": 10,
     "id": 21907144,
     "title": "Why are my Go executable files so large?",
     "url": "https://www.cockroachlabs.com/blog/go-file-size/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 468,
+    "by": "caiobegotti",
+    "descendants": 330,
+    "time": 1577640727
   }
 ]

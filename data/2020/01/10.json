@@ -4,99 +4,99 @@
     "id": 21998799,
     "title": "The Strange Saga of Kowloon Walled City",
     "url": "https://www.atlasobscura.com/articles/kowloon-walled-city",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 312,
+    "by": "ecliptik",
+    "descendants": 82,
+    "time": 1578547983
   },
   {
     "rank": 2,
     "id": 22000507,
     "title": "Httpx: A next-generation HTTP client for Python",
     "url": "https://www.python-httpx.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 463,
+    "by": "tomchristie",
+    "descendants": 115,
+    "time": 1578571653
   },
   {
     "rank": 3,
     "id": 22000791,
     "title": "Managing my personal knowledge base",
     "url": "https://tkainrad.dev/posts/managing-my-personal-knowledge-base/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 348,
+    "by": "tkainrad",
+    "descendants": 186,
+    "time": 1578574680
   },
   {
     "rank": 4,
     "id": 22004066,
     "title": "Hacker News Classics (2018)",
     "url": "http://jsomers.net/hn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 311,
+    "by": "dsalzman",
+    "descendants": 42,
+    "time": 1578595217
   },
   {
     "rank": 5,
     "id": 22005181,
     "title": "Linus: Don't Use ZFS",
     "url": "https://www.realworldtech.com/forum/?threadid=189711&curpostid=189841",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 572,
+    "by": "rbanffy",
+    "descendants": 555,
+    "time": 1578601008
   },
   {
     "rank": 6,
     "id": 22006453,
     "title": "After 36 years as a paid product, the Micro-Cap Circuit Simulator is now free",
     "url": "http://www.spectrum-soft.com/download/download.shtm",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 414,
+    "by": "lightlyused",
+    "descendants": 82,
+    "time": 1578607912
   },
   {
     "rank": 7,
     "id": 22008091,
     "title": "Boeing employees mocked FAA in internal messages before 737 Max disasters",
     "url": "https://www.npr.org/2020/01/09/795123158/boeing-employees-mocked-faa-in-internal-messages-before-737-max-disasters",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 380,
+    "by": "jfaat",
+    "descendants": 236,
+    "time": 1578626837
   },
   {
     "rank": 8,
     "id": 22008566,
     "title": "The Unstoppable Rise of Sci-Hub (2019)",
     "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2019/02/19/the-unstoppable-rise-of-sci-hub-how-does-a-new-generation-of-researchers-perceive-sci-hub/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 646,
+    "by": "apsec112",
+    "descendants": 239,
+    "time": 1578634392
   },
   {
     "rank": 9,
     "id": 22011358,
     "title": "VVVVVV\u2019s source code is now public, 10 year anniversary jam happening now",
     "url": "http://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 870,
+    "by": "ciroduran",
+    "descendants": 223,
+    "time": 1578668398
   },
   {
     "rank": 10,
     "id": 22012255,
     "title": "War Is a Racket (1933)",
     "url": "https://www.wanttoknow.info/warisaracket",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 336,
+    "by": "rahuldottech",
+    "descendants": 181,
+    "time": 1578674802
   }
 ]

@@ -4,99 +4,99 @@
     "id": 21745740,
     "title": "Things end users care about but programmers don't",
     "url": "https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 406,
+    "by": "marianoguerra",
+    "descendants": 245,
+    "time": 1575920865
   },
   {
     "rank": 2,
     "id": 21763636,
     "title": "Abstreet: Traffic simulation game written in Rust",
     "url": "https://github.com/dabreegster/abstreet",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 396,
+    "by": "adamnemecek",
+    "descendants": 74,
+    "time": 1576079882
   },
   {
     "rank": 3,
     "id": 21766781,
     "title": "API Practices If You Hate Your Customers",
     "url": "https://queue.acm.org/detail.cfm?ref=rss&id=3375635",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 335,
+    "by": "blopeur",
+    "descendants": 248,
+    "time": 1576098019
   },
   {
     "rank": 4,
     "id": 21766903,
     "title": "I stood up to my boss, then he got promoted",
     "url": "https://idiallo.com/blog/become-an-executive-one-promotion-at-a-time",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 464,
+    "by": "firefoxd",
+    "descendants": 217,
+    "time": 1576099032
   },
   {
     "rank": 5,
     "id": 21769575,
     "title": "Crows could be the smartest animal other than primates",
     "url": "https://www.bbc.com/future/article/20191211-crows-could-be-the-smartest-animal-other-than-primates",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 690,
+    "by": "hhs",
+    "descendants": 411,
+    "time": 1576129888
   },
   {
     "rank": 6,
     "id": 21770951,
     "title": "Switch to OpenStreetMap",
     "url": "https://switch2osm.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 500,
+    "by": "chippy",
+    "descendants": 203,
+    "time": 1576149581
   },
   {
     "rank": 7,
     "id": 21771144,
     "title": "Police conducted search in the Nginx office due to a copyright claim",
     "url": "https://twitter.com/AntNesterov/status/1205086129504104460",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 586,
+    "by": "ameshkov",
+    "descendants": 217,
+    "time": 1576152457
   },
   {
     "rank": 8,
     "id": 21771325,
     "title": "We Only Hire the Trendiest (2016)",
     "url": "http://danluu.com/programmer-moneyball/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 351,
+    "by": "eaguyhn",
+    "descendants": 404,
+    "time": 1576154299
   },
   {
     "rank": 9,
     "id": 21771600,
     "title": "Music for Programming (2011)",
     "url": "http://musicforprogramming.net/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 427,
+    "by": "notkaiho",
+    "descendants": 261,
+    "time": 1576157074
   },
   {
     "rank": 10,
     "id": 21772610,
     "title": "Huginn: Create agents that monitor and act on your behalf",
     "url": "https://github.com/huginn/huginn",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1303,
+    "by": "daolf",
+    "descendants": 143,
+    "time": 1576164711
   }
 ]

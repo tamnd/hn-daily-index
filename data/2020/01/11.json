@@ -4,99 +4,99 @@
     "id": 22011743,
     "title": "Ask HN: Are there any openly available software architecture documents?",
     "url": "https://news.ycombinator.com/item?id=22011743",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 407,
+    "by": "passenger",
+    "descendants": 49,
+    "time": 1578671158
   },
   {
     "rank": 2,
     "id": 22012755,
     "title": "Facebook's PR feels broken",
     "url": "https://themargins.substack.com/p/facebooks-pr-feels-broken",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 352,
+    "by": "cjbest",
+    "descendants": 242,
+    "time": 1578677455
   },
   {
     "rank": 3,
     "id": 22013700,
     "title": "I almost sold Baremetrics for $5M",
     "url": "https://baremetrics.com/blog/i-almost-sold-baremetrics-for-5m?ck_subscriber_id=1673362",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 428,
+    "by": "cj",
+    "descendants": 233,
+    "time": 1578681576
   },
   {
     "rank": 4,
     "id": 22013751,
     "title": "A Graduate Course in Applied Cryptography",
     "url": "https://crypto.stanford.edu/~dabo/cryptobook/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 466,
+    "by": "throw0101a",
+    "descendants": 76,
+    "time": 1578681791
   },
   {
     "rank": 5,
     "id": 22014215,
     "title": "Alphabet\u2019s Chief Legal Officer Stepping Down Amid Investigation",
     "url": "https://www.nytimes.com/2020/01/10/technology/david-drummond-google.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 345,
+    "by": "SuperKlaus",
+    "descendants": 283,
+    "time": 1578683693
   },
   {
     "rank": 6,
     "id": 22016212,
     "title": "SMS is not 2FA-secure",
     "url": "https://www.issms2fasecure.com/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 867,
+    "by": "sergeant3",
+    "descendants": 371,
+    "time": 1578694584
   },
   {
     "rank": 7,
     "id": 22018599,
     "title": "Haters",
     "url": "http://paulgraham.com/fh.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 321,
+    "by": "razin",
+    "descendants": 295,
+    "time": 1578725846
   },
   {
     "rank": 8,
     "id": 22019202,
     "title": "Medications that change who we are",
     "url": "https://www.bbc.com/future/article/20200108-the-medications-that-change-who-we-are",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 419,
+    "by": "daveytea",
+    "descendants": 274,
+    "time": 1578738274
   },
   {
     "rank": 9,
     "id": 22020495,
     "title": "Reality has a surprising amount of detail (2017)",
     "url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 498,
+    "by": "tosh",
+    "descendants": 115,
+    "time": 1578758377
   },
   {
     "rank": 10,
     "id": 22022466,
     "title": "Goodbye, Clean Code",
     "url": "https://overreacted.io/goodbye-clean-code/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 1678,
+    "by": "danabramov",
+    "descendants": 575,
+    "time": 1578778327
   }
 ]

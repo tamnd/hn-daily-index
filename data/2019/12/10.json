@@ -4,99 +4,99 @@
     "id": 21738802,
     "title": "Why databases use ordered indexes but programming uses hash tables",
     "url": "https://www.evanjones.ca/ordered-vs-unordered-indexes.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 429,
+    "by": "matt_d",
+    "descendants": 197,
+    "time": 1575843615
   },
   {
     "rank": 2,
     "id": 21743302,
     "title": "Ask HN: We are shutting down our startup, I get our code. What now?",
     "url": "https://news.ycombinator.com/item?id=21743302",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 382,
+    "by": "sad_cofounder",
+    "descendants": 211,
+    "time": 1575904625
   },
   {
     "rank": 3,
     "id": 21744274,
     "title": "Technology Preview: Signal Private Group System",
     "url": "https://signal.org/blog/signal-private-group-system/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 328,
+    "by": "stablemap",
+    "descendants": 152,
+    "time": 1575911411
   },
   {
     "rank": 4,
     "id": 21745731,
     "title": "The Nintendo Switch Switch",
     "url": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 329,
+    "by": "bitcynth",
+    "descendants": 78,
+    "time": 1575920812
   },
   {
     "rank": 5,
     "id": 21747217,
     "title": "Apple\u2019s Ad-Targeting Crackdown Shakes Up Ad Market",
     "url": "https://www.theinformation.com/articles/apples-ad-targeting-crackdown-shakes-up-ad-market?pu=hackernews4qs3ac&utm_source=hackernews&utm_medium=unlocka",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 316,
+    "by": "salgernon",
+    "descendants": 330,
+    "time": 1575929674
   },
   {
     "rank": 6,
     "id": 21749411,
     "title": "New airplane seat design to make it easier to sleep in economy",
     "url": "https://www.cnn.com/travel/article/interspace-new-airplane-seat/index.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 299,
+    "by": "lxm",
+    "descendants": 471,
+    "time": 1575949477
   },
   {
     "rank": 7,
     "id": 21750747,
     "title": "Asciinema \u2013 Record and share terminal sessions",
     "url": "https://asciinema.org/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 367,
+    "by": "tomerbd",
+    "descendants": 94,
+    "time": 1575967156
   },
   {
     "rank": 8,
     "id": 21753182,
     "title": "White House Veterans Helped Gulf Monarchy Build Secret Surveillance Unit",
     "url": "https://www.reuters.com/investigates/special-report/usa-raven-whitehouse/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 506,
+    "by": "mzs",
+    "descendants": 97,
+    "time": 1575990869
   },
   {
     "rank": 9,
     "id": 21753192,
     "title": "Facebook Tells Barr It Won\u2019t Open Up Encrypted Messages",
     "url": "https://www.nytimes.com/2019/12/10/technology/whatsapp-barr-encryption.html",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 355,
+    "by": "i_am_not_elon",
+    "descendants": 282,
+    "time": 1575990942
   },
   {
     "rank": 10,
     "id": 21756243,
     "title": "ZedRipper: A 16-core Z80 laptop",
     "url": "http://www.chrisfenton.com/the-zedripper-part-1/",
-    "score": 0,
-    "by": "",
-    "descendants": 0,
-    "time": 0
+    "score": 814,
+    "by": "pmarin",
+    "descendants": 149,
+    "time": 1576007954
   }
 ]
