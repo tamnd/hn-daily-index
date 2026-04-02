@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 41098974,
+    "title": "MeTube: Self-hosted YouTube downloader",
+    "url": "https://github.com/alexta69/metube",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 41104305,
+    "title": "FastHTML \u2013 Modern web applications in pure Python",
+    "url": "https://fastht.ml/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 41104523,
+    "title": "SAM 2: Segment Anything in Images and Videos",
+    "url": "https://github.com/facebookresearch/segment-anything-2",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 41104721,
+    "title": "Four billion years in four minutes \u2013 Simulating worlds on the GPU",
+    "url": "https://davidar.io/post/sim-glsl",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 41105881,
+    "title": "A Visual Guide to LLM Quantization",
+    "url": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 41105944,
+    "title": "If we want a shift to walking, we need to prioritize dignity",
+    "url": "https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 41106686,
+    "title": "C Macro Reflection in Zig",
+    "url": "https://jstrieb.github.io/posts/c-reflection-zig/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 41109799,
+    "title": "A eulogy for Dark Sky, a data visualization masterpiece (2023)",
+    "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 41109926,
+    "title": "Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?",
+    "url": "https://en.osm.town/@Firefishy/112875549871566269",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 41111145,
+    "title": "Meta to pay Texas $1.4B for using facial recognition without users' permission",
+    "url": "https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]

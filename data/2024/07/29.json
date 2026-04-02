@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 41070709,
+    "title": "SVG Triangle of Compromise",
+    "url": "https://me.micahrl.com/blog/svg-triangle-of-compromise/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 2,
+    "id": 41086620,
+    "title": "Show HN: I built an open-source tool to make on-call suck less",
+    "url": "https://github.com/opslane/opslane",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 3,
+    "id": 41088895,
+    "title": "Tritone Substitutions",
+    "url": "https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 4,
+    "id": 41093916,
+    "title": "How simultaneous multithreading works under the hood",
+    "url": "https://blog.codingconfessions.com/p/simultaneous-multithreading",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 5,
+    "id": 41095530,
+    "title": "Microsoft technical breakdown of CrowdStrike incident",
+    "url": "https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 6,
+    "id": 41095790,
+    "title": "tolower() with AVX-512",
+    "url": "https://dotat.at/@/2024-07-28-tolower-avx512.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 7,
+    "id": 41097241,
+    "title": "ps aux written in bash without forking",
+    "url": "https://github.com/izabera/ps",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 8,
+    "id": 41099901,
+    "title": "Movable tree CRDTs and Loro's implementation",
+    "url": "https://loro.dev/blog/movable-tree",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 9,
+    "id": 41103101,
+    "title": "CrowdStrike's impact on aviation",
+    "url": "https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  },
+  {
+    "rank": 10,
+    "id": 41104293,
+    "title": "Running One-man SaaS for 9 Years",
+    "url": "https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/",
+    "score": 0,
+    "by": "",
+    "descendants": 0,
+    "time": 0
+  }
+]
