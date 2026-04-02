@@ -4,9 +4,9 @@
     "id": 47611721,
     "title": "IBM Announces Strategic Collaboration with Arm",
     "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-    "score": 109,
+    "score": 110,
     "by": "bonzini",
-    "descendants": 58,
+    "descendants": 60,
     "time": 1775119724
   },
   {
@@ -24,9 +24,9 @@
     "id": 47612601,
     "title": "Sweden goes back to basics, swapping screens for books in the classroom",
     "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "score": 92,
+    "score": 93,
     "by": "novaRom",
-    "descendants": 38,
+    "descendants": 39,
     "time": 1775127000
   },
   {
@@ -34,7 +34,7 @@
     "id": 47603657,
     "title": "Artemis II Launch Day Updates",
     "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "score": 961,
+    "score": 963,
     "by": "apitman",
     "descendants": 818,
     "time": 1775063491
@@ -61,6 +61,16 @@
   },
   {
     "rank": 7,
+    "id": 47609694,
+    "title": "Email obfuscation: What works in 2026?",
+    "url": "https://spencermortensen.com/articles/email-obfuscation/",
+    "score": 177,
+    "by": "jaden",
+    "descendants": 54,
+    "time": 1775100933
+  },
+  {
+    "rank": 8,
     "id": 47612558,
     "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
     "url": "https://modolap.com/publication/hn-analysis-1",
@@ -68,16 +78,6 @@
     "by": "ronfriedhaber",
     "descendants": 1,
     "time": 1775126543
-  },
-  {
-    "rank": 8,
-    "id": 47609694,
-    "title": "Email obfuscation: What works in 2026?",
-    "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 176,
-    "by": "jaden",
-    "descendants": 54,
-    "time": 1775100933
   },
   {
     "rank": 9,
