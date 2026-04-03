@@ -4,39 +4,39 @@
     "id": 47616361,
     "title": "Google releases Gemma 4 open models",
     "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "score": 1046,
+    "score": 1148,
     "by": "jeffmcjunkin",
-    "descendants": 327,
+    "descendants": 342,
     "time": 1775146254
   },
   {
     "rank": 2,
-    "id": 47618189,
-    "title": "Tailscale's new macOS home",
-    "url": "https://tailscale.com/blog/macos-notch-escape",
-    "score": 275,
-    "by": "tosh",
-    "descendants": 140,
-    "time": 1775154123
-  },
-  {
-    "rank": 3,
     "id": 47616242,
     "title": "Decisions that eroded trust in Azure \u2013 by a former Azure Core engineer",
     "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-    "score": 210,
+    "score": 294,
     "by": "axelriet",
-    "descendants": 56,
+    "descendants": 93,
     "time": 1775145627
+  },
+  {
+    "rank": 3,
+    "id": 47618189,
+    "title": "Tailscale's new macOS home",
+    "url": "https://tailscale.com/blog/macos-notch-escape",
+    "score": 325,
+    "by": "tosh",
+    "descendants": 169,
+    "time": 1775154123
   },
   {
     "rank": 4,
     "id": 47609356,
     "title": "Artemis II's toilet is a moon mission milestone",
     "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-    "score": 104,
+    "score": 136,
     "by": "1659447091",
-    "descendants": 38,
+    "descendants": 55,
     "time": 1775097432
   },
   {
@@ -44,9 +44,9 @@
     "id": 47618084,
     "title": "Cursor 3",
     "url": "https://cursor.com/blog/cursor-3",
-    "score": 258,
+    "score": 286,
     "by": "adamfeldman",
-    "descendants": 222,
+    "descendants": 244,
     "time": 1775153621
   },
   {
@@ -54,9 +54,9 @@
     "id": 47615002,
     "title": "Qwen3.6-Plus: Towards real world agents",
     "url": "https://qwen.ai/blog?id=qwen3.6",
-    "score": 406,
+    "score": 428,
     "by": "pretext",
-    "descendants": 142,
+    "descendants": 150,
     "time": 1775140132
   },
   {
@@ -64,29 +64,39 @@
     "id": 47617415,
     "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
     "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-    "score": 128,
+    "score": 156,
     "by": "sedev",
-    "descendants": 56,
+    "descendants": 74,
     "time": 1775150943
   },
   {
     "rank": 8,
-    "id": 47618176,
-    "title": "George Goble has died",
-    "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
-    "score": 95,
-    "by": "finaard",
-    "descendants": 18,
-    "time": 1775154068
-  },
-  {
-    "rank": 9,
     "id": 47612724,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
-    "score": 421,
+    "score": 443,
     "by": "AbuAssar",
-    "descendants": 94,
+    "descendants": 97,
     "time": 1775127891
+  },
+  {
+    "rank": 9,
+    "id": 47621792,
+    "title": "Post Mortem: axios NPM supply chain compromise",
+    "url": "https://github.com/axios/axios/issues/10636",
+    "score": 13,
+    "by": "Kyro38",
+    "descendants": 2,
+    "time": 1775174419
+  },
+  {
+    "rank": 10,
+    "id": 47618176,
+    "title": "George Goble has died",
+    "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+    "score": 112,
+    "by": "finaard",
+    "descendants": 20,
+    "time": 1775154068
   }
 ]

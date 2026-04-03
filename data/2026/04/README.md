@@ -12,15 +12,16 @@ Top 10 Hacker News stories for each day in April 2026.
 
 *Friday*
 
-1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) (deepmind.google) - 1.0k points by [jeffmcjunkin](https://news.ycombinator.com/user?id=jeffmcjunkin), [327 comments](https://news.ycombinator.com/item?id=47616361)
-2. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) (tailscale.com) - 275 points by [tosh](https://news.ycombinator.com/user?id=tosh), [140 comments](https://news.ycombinator.com/item?id=47618189)
-3. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) (isolveproblems.substack.com) - 210 points by [axelriet](https://news.ycombinator.com/user?id=axelriet), [56 comments](https://news.ycombinator.com/item?id=47616242)
-4. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) (scientificamerican.com) - 104 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [38 comments](https://news.ycombinator.com/item?id=47609356)
-5. [Cursor 3](https://cursor.com/blog/cursor-3) (cursor.com) - 258 points by [adamfeldman](https://news.ycombinator.com/user?id=adamfeldman), [222 comments](https://news.ycombinator.com/item?id=47618084)
-6. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6) (qwen.ai) - 406 points by [pretext](https://news.ycombinator.com/user?id=pretext), [142 comments](https://news.ycombinator.com/item?id=47615002)
-7. [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html) (blog.danieldavies.com) - 128 points by [sedev](https://news.ycombinator.com/user?id=sedev), [56 comments](https://news.ycombinator.com/item?id=47617415)
-8. [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779) (legacy.com) - 95 points by [finaard](https://news.ycombinator.com/user?id=finaard), [18 comments](https://news.ycombinator.com/item?id=47618176)
-9. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 421 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [94 comments](https://news.ycombinator.com/item?id=47612724)
+1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) (deepmind.google) - 1.1k points by [jeffmcjunkin](https://news.ycombinator.com/user?id=jeffmcjunkin), [342 comments](https://news.ycombinator.com/item?id=47616361)
+2. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) (isolveproblems.substack.com) - 294 points by [axelriet](https://news.ycombinator.com/user?id=axelriet), [93 comments](https://news.ycombinator.com/item?id=47616242)
+3. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) (tailscale.com) - 325 points by [tosh](https://news.ycombinator.com/user?id=tosh), [169 comments](https://news.ycombinator.com/item?id=47618189)
+4. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) (scientificamerican.com) - 136 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [55 comments](https://news.ycombinator.com/item?id=47609356)
+5. [Cursor 3](https://cursor.com/blog/cursor-3) (cursor.com) - 286 points by [adamfeldman](https://news.ycombinator.com/user?id=adamfeldman), [244 comments](https://news.ycombinator.com/item?id=47618084)
+6. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6) (qwen.ai) - 428 points by [pretext](https://news.ycombinator.com/user?id=pretext), [150 comments](https://news.ycombinator.com/item?id=47615002)
+7. [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html) (blog.danieldavies.com) - 156 points by [sedev](https://news.ycombinator.com/user?id=sedev), [74 comments](https://news.ycombinator.com/item?id=47617415)
+8. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 443 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [97 comments](https://news.ycombinator.com/item?id=47612724)
+9. [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) (github.com) - 13 points by [Kyro38](https://news.ycombinator.com/user?id=Kyro38), [2 comments](https://news.ycombinator.com/item?id=47621792)
+10. [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779) (legacy.com) - 112 points by [finaard](https://news.ycombinator.com/user?id=finaard), [20 comments](https://news.ycombinator.com/item?id=47618176)
 
 ## 2026-04-02
 
