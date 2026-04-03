@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | [Mar 29](#2026-03-29) | [Mar 28](#2026-03-28) | [Mar 27](#2026-03-27)
+Recent: [Apr 03](#2026-04-03) | [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | [Mar 29](#2026-03-29) | [Mar 28](#2026-03-28)
 
-### [2026](data/2026/) (92/92 days)
+### [2026](data/2026/) (93/93 days)
 
-[**April**](data/2026/04/) (2/2)
+[**April**](data/2026/04/) (3/3)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) |  |  |  |
+|  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2110,6 +2110,20 @@ Recent: [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | 
 </details>
 
 ---
+
+## 2026-04-03
+
+*Friday*
+
+1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) (deepmind.google) - 1.0k points by [jeffmcjunkin](https://news.ycombinator.com/user?id=jeffmcjunkin), [327 comments](https://news.ycombinator.com/item?id=47616361)
+2. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) (tailscale.com) - 275 points by [tosh](https://news.ycombinator.com/user?id=tosh), [140 comments](https://news.ycombinator.com/item?id=47618189)
+3. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) (isolveproblems.substack.com) - 210 points by [axelriet](https://news.ycombinator.com/user?id=axelriet), [56 comments](https://news.ycombinator.com/item?id=47616242)
+4. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) (scientificamerican.com) - 104 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [38 comments](https://news.ycombinator.com/item?id=47609356)
+5. [Cursor 3](https://cursor.com/blog/cursor-3) (cursor.com) - 258 points by [adamfeldman](https://news.ycombinator.com/user?id=adamfeldman), [222 comments](https://news.ycombinator.com/item?id=47618084)
+6. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6) (qwen.ai) - 406 points by [pretext](https://news.ycombinator.com/user?id=pretext), [142 comments](https://news.ycombinator.com/item?id=47615002)
+7. [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html) (blog.danieldavies.com) - 128 points by [sedev](https://news.ycombinator.com/user?id=sedev), [56 comments](https://news.ycombinator.com/item?id=47617415)
+8. [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779) (legacy.com) - 95 points by [finaard](https://news.ycombinator.com/user?id=finaard), [18 comments](https://news.ycombinator.com/item?id=47618176)
+9. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (lemonade-server.ai) - 421 points by [AbuAssar](https://news.ycombinator.com/user?id=AbuAssar), [94 comments](https://news.ycombinator.com/item?id=47612724)
 
 ## 2026-04-02
 
