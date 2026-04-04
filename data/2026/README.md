@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (3 days)
+- [April](04/) (4 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-04
+
+*Saturday*
+
+1. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) (bbc.com) - 413 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [173 comments](https://news.ycombinator.com/item?id=47631118)
+2. [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) - 83 points by [firloop](https://news.ycombinator.com/user?id=firloop), [69 comments](https://news.ycombinator.com/item?id=47633396)
+3. [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos) (github.com) - 48 points by [hpscript](https://news.ycombinator.com/user?id=hpscript), [11 comments](https://news.ycombinator.com/item?id=47632750)
+4. [iNaturalist](https://www.inaturalist.org/) (inaturalist.org) - 310 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [90 comments](https://news.ycombinator.com/item?id=47629433)
+5. [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/) (patrickmccanna.net) - 85 points by [0o_MrPatrick_o0](https://news.ycombinator.com/user?id=0o_MrPatrick_o0), [23 comments](https://news.ycombinator.com/item?id=47586885)
+6. [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) (wordsfromeliza.com) - 33 points by [performative](https://news.ycombinator.com/user?id=performative), [3 comments](https://news.ycombinator.com/item?id=47633157)
+7. [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) (text.blogosphere.app) - 622 points by [ramkarthikk](https://news.ycombinator.com/user?id=ramkarthikk), [167 comments](https://news.ycombinator.com/item?id=47625952)
+8. [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/) (nationaltoday.com) - 306 points by [kklisura](https://news.ycombinator.com/user?id=kklisura), [175 comments](https://news.ycombinator.com/item?id=47631732)
+9. [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition) (aeon.co) - 20 points by [midnightfish](https://news.ycombinator.com/user?id=midnightfish), [1 comments](https://news.ycombinator.com/item?id=47633116)
+10. [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant) (mintlify.com) - 203 points by [denssumesh](https://news.ycombinator.com/user?id=denssumesh), [92 comments](https://news.ycombinator.com/item?id=47618223)
 
 ## 2026-04-03
 
