@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 04](#2026-04-04) | [Apr 03](#2026-04-03) | [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30) | [Mar 29](#2026-03-29)
+Recent: [Apr 05](#2026-04-05) | [Apr 04](#2026-04-04) | [Apr 03](#2026-04-03) | [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01) | [Mar 31](#2026-03-31) | [Mar 30](#2026-03-30)
 
-### [2026](data/2026/) (94/94 days)
+### [2026](data/2026/) (95/95 days)
 
-[**April**](data/2026/04/) (4/4)
+[**April**](data/2026/04/) (5/5)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) |  |
+|  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2110,6 +2110,21 @@ Recent: [Apr 04](#2026-04-04) | [Apr 03](#2026-04-03) | [Apr 02](#2026-04-02) | 
 </details>
 
 ---
+
+## 2026-04-05
+
+*Sunday*
+
+1. [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) (jaso1024.com) - 450 points by [Jaso1024](https://news.ycombinator.com/user?id=Jaso1024), [125 comments](https://news.ycombinator.com/item?id=47640728)
+2. [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html) (teybannerman.com) - 337 points by [gpi](https://news.ycombinator.com/user?id=gpi), [174 comments](https://news.ycombinator.com/item?id=47642569)
+3. [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen) (github.com) - 35 points by [jskopek](https://news.ycombinator.com/user?id=jskopek), [7 comments](https://news.ycombinator.com/item?id=47595695)
+4. [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) (arxiv.org) - 522 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [162 comments](https://news.ycombinator.com/item?id=47637757)
+5. [LLM Wiki – example of an "idea file"](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) (gist.github.com) - 25 points by [tamnd](https://news.ycombinator.com/user?id=tamnd), [4 comments](https://news.ycombinator.com/item?id=47640875)
+6. [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud) (sllm.cloud) - 113 points by [jrandolf](https://news.ycombinator.com/user?id=jrandolf), [63 comments](https://news.ycombinator.com/item?id=47639779)
+7. [Show HN: I made open source, zero power PCB hackathon badges](https://github.com/KaiPereira/Overglade-Badges) (github.com) - 29 points by [kaipereira](https://news.ycombinator.com/user?id=kaipereira), [2 comments](https://news.ycombinator.com/item?id=47639303)
+8. [Ruckus: Racket for iOS](https://ruckus.defn.io/) (ruckus.defn.io) - 54 points by [nsm](https://news.ycombinator.com/user?id=nsm), [2 comments](https://news.ycombinator.com/item?id=47614532)
+9. [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) (github.com) - 126 points by [teamchong](https://news.ycombinator.com/user?id=teamchong), [4 comments](https://news.ycombinator.com/item?id=47639567)
+10. [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/) (bmi.usercontent.opencode.de) - 24 points by [DyslexicAtheist](https://news.ycombinator.com/user?id=DyslexicAtheist), [11 comments](https://news.ycombinator.com/item?id=47644406)
 
 ## 2026-04-04
 

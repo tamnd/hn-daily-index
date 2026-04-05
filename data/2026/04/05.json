@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47640728,
+    "title": "Show HN: A game where you build a GPU",
+    "url": "https://jaso1024.com/mvidia/",
+    "score": 450,
+    "by": "Jaso1024",
+    "descendants": 125,
+    "time": 1775321154
+  },
+  {
+    "rank": 2,
+    "id": 47642569,
+    "title": "How many products does Microsoft have named 'Copilot'?",
+    "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+    "score": 337,
+    "by": "gpi",
+    "descendants": 174,
+    "time": 1775331583
+  },
+  {
+    "rank": 3,
+    "id": 47595695,
+    "title": "OpenScreen is an open-source alternative to Screen Studio",
+    "url": "https://github.com/siddharthvaddem/openscreen",
+    "score": 35,
+    "by": "jskopek",
+    "descendants": 7,
+    "time": 1775007106
+  },
+  {
+    "rank": 4,
+    "id": 47637757,
+    "title": "Embarrassingly simple self-distillation improves code generation",
+    "url": "https://arxiv.org/abs/2604.01193",
+    "score": 522,
+    "by": "Anon84",
+    "descendants": 162,
+    "time": 1775298381
+  },
+  {
+    "rank": 5,
+    "id": 47640875,
+    "title": "LLM Wiki \u2013 example of an \"idea file\"",
+    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "score": 25,
+    "by": "tamnd",
+    "descendants": 4,
+    "time": 1775321865
+  },
+  {
+    "rank": 6,
+    "id": 47639779,
+    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
+    "url": "https://sllm.cloud",
+    "score": 113,
+    "by": "jrandolf",
+    "descendants": 63,
+    "time": 1775315938
+  },
+  {
+    "rank": 7,
+    "id": 47639303,
+    "title": "Show HN: I made open source, zero power PCB hackathon badges",
+    "url": "https://github.com/KaiPereira/Overglade-Badges",
+    "score": 29,
+    "by": "kaipereira",
+    "descendants": 2,
+    "time": 1775312421
+  },
+  {
+    "rank": 8,
+    "id": 47614532,
+    "title": "Ruckus: Racket for iOS",
+    "url": "https://ruckus.defn.io/",
+    "score": 54,
+    "by": "nsm",
+    "descendants": 2,
+    "time": 1775138052
+  },
+  {
+    "rank": 9,
+    "id": 47639567,
+    "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
+    "url": "https://github.com/teamchong/turboquant-wasm",
+    "score": 126,
+    "by": "teamchong",
+    "descendants": 4,
+    "time": 1775314396
+  },
+  {
+    "rank": 10,
+    "id": 47644406,
+    "title": "German implementation of eIDAS will require an Apple/Google account to function",
+    "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+    "score": 24,
+    "by": "DyslexicAtheist",
+    "descendants": 11,
+    "time": 1775343464
+  }
+]
