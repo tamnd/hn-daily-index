@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47654620,
+    "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "score": 42,
+    "by": "rbanffy",
+    "descendants": 30,
+    "time": 1775428276
+  },
+  {
+    "rank": 2,
+    "id": 47652561,
+    "title": "Gemma 4 on iPhone",
+    "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "score": 355,
+    "by": "janandonly",
+    "descendants": 91,
+    "time": 1775414753
+  },
+  {
+    "rank": 3,
+    "id": 47637377,
+    "title": "L\u00d6VE: 2D Game Framework for Lua",
+    "url": "https://github.com/love2d/love",
+    "score": 170,
+    "by": "cl3misch",
+    "descendants": 73,
+    "time": 1775294434
+  },
+  {
+    "rank": 4,
+    "id": 47649721,
+    "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+    "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+    "score": 387,
+    "by": "mooreds",
+    "descendants": 294,
+    "time": 1775398692
+  },
+  {
+    "rank": 5,
+    "id": 47648828,
+    "title": "Eight years of wanting, three months of building with AI",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "score": 573,
+    "by": "brilee",
+    "descendants": 176,
+    "time": 1775393027
+  },
+  {
+    "rank": 6,
+    "id": 47651540,
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "score": 158,
+    "by": "vbtechguy",
+    "descendants": 40,
+    "time": 1775409231
+  },
+  {
+    "rank": 7,
+    "id": 47647455,
+    "title": "Caveman: Why use many token when few token do trick",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "score": 670,
+    "by": "tosh",
+    "descendants": 305,
+    "time": 1775379378
+  },
+  {
+    "rank": 8,
+    "id": 47651703,
+    "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+    "score": 132,
+    "by": "naves",
+    "descendants": 72,
+    "time": 1775410061
+  },
+  {
+    "rank": 9,
+    "id": 47652322,
+    "title": "Music for Programming",
+    "url": "https://musicforprogramming.net",
+    "score": 78,
+    "by": "merusame",
+    "descendants": 26,
+    "time": 1775413388
+  },
+  {
+    "rank": 10,
+    "id": 47650312,
+    "title": "A tail-call interpreter in (nightly) Rust",
+    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "score": 120,
+    "by": "g0xA52A2A",
+    "descendants": 18,
+    "time": 1775402281
+  }
+]

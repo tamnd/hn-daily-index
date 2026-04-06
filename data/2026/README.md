@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (5 days)
+- [April](04/) (6 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-06
+
+*Monday*
+
+1. [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) (techcrunch.com) - 42 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [30 comments](https://news.ycombinator.com/item?id=47654620)
+2. [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) (apps.apple.com) - 355 points by [janandonly](https://news.ycombinator.com/user?id=janandonly), [91 comments](https://news.ycombinator.com/item?id=47652561)
+3. [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) (github.com) - 170 points by [cl3misch](https://news.ycombinator.com/user?id=cl3misch), [73 comments](https://news.ycombinator.com/item?id=47637377)
+4. [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) (bbc.com) - 387 points by [mooreds](https://news.ycombinator.com/user?id=mooreds), [294 comments](https://news.ycombinator.com/item?id=47649721)
+5. [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) (lalitm.com) - 573 points by [brilee](https://news.ycombinator.com/user?id=brilee), [176 comments](https://news.ycombinator.com/item?id=47648828)
+6. [Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with) (ai.georgeliu.com) - 158 points by [vbtechguy](https://news.ycombinator.com/user?id=vbtechguy), [40 comments](https://news.ycombinator.com/item?id=47651540)
+7. [Caveman: Why use many token when few token do trick](https://github.com/JuliusBrussee/caveman) (github.com) - 670 points by [tosh](https://news.ycombinator.com/user?id=tosh), [305 comments](https://news.ycombinator.com/item?id=47647455)
+8. [Microsoft hasn't had a coherent GUI strategy since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/) (jsnover.com) - 132 points by [naves](https://news.ycombinator.com/user?id=naves), [72 comments](https://news.ycombinator.com/item?id=47651703)
+9. [Music for Programming](https://musicforprogramming.net) (musicforprogramming.net) - 78 points by [merusame](https://news.ycombinator.com/user?id=merusame), [26 comments](https://news.ycombinator.com/item?id=47652322)
+10. [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/) (mattkeeter.com) - 120 points by [g0xA52A2A](https://news.ycombinator.com/user?id=g0xA52A2A), [18 comments](https://news.ycombinator.com/item?id=47650312)
 
 ## 2026-04-05
 
