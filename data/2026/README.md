@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (6 days)
+- [April](04/) (7 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-07
+
+*Tuesday*
+
+1. [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper) (github.com) - 187 points by [MattHart88](https://news.ycombinator.com/user?id=MattHart88), [86 comments](https://news.ycombinator.com/item?id=47666024)
+2. [Anthropic expands partnership w Google and Broadcom for multiple GW of compute](https://www.anthropic.com/news/google-broadcom-partnership-compute) (anthropic.com) - 37 points by [l1n](https://news.ycombinator.com/user?id=l1n), [1 comments](https://news.ycombinator.com/item?id=47667717)
+3. [After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm) (blog.ericgoldman.org) - 12 points by [datadrivenangel](https://news.ycombinator.com/user?id=datadrivenangel), [1 comments](https://news.ycombinator.com/item?id=47668727)
+4. [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/) (freestyle.sh) - 192 points by [benswerd](https://news.ycombinator.com/user?id=benswerd), [108 comments](https://news.ycombinator.com/item?id=47663147)
+5. [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted) (newyorker.com) - 636 points by [adrianhon](https://news.ycombinator.com/user?id=adrianhon), [206 comments](https://news.ycombinator.com/item?id=47659135)
+6. [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) (words.filippo.io) - 300 points by [thadt](https://news.ycombinator.com/user?id=thadt), [126 comments](https://news.ycombinator.com/item?id=47662234)
+7. [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory) (github.com) - 31 points by [kitfunso](https://news.ycombinator.com/user?id=kitfunso), [12 comments](https://news.ycombinator.com/item?id=47667672)
+8. [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/) (govauctions.app) - 188 points by [player_piano](https://news.ycombinator.com/user?id=player_piano), [61 comments](https://news.ycombinator.com/item?id=47662945)
+9. [German police name alleged leaders of GandCrab and REvil ransomware groups](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/) (krebsonsecurity.com) - 253 points by [Bender](https://news.ycombinator.com/user?id=Bender), [130 comments](https://news.ycombinator.com/item?id=47660954)
+10. [Issue: Claude Code is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796) (github.com) - 711 points by [StanAngeloff](https://news.ycombinator.com/user?id=StanAngeloff), [445 comments](https://news.ycombinator.com/item?id=47660925)
 
 ## 2026-04-06
 

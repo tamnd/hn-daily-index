@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47666024,
+    "title": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
+    "url": "https://github.com/matthartman/ghost-pepper",
+    "score": 187,
+    "by": "MattHart88",
+    "descendants": 86,
+    "time": 1775505016
+  },
+  {
+    "rank": 2,
+    "id": 47667717,
+    "title": "Anthropic expands partnership w Google and Broadcom for multiple GW of compute",
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "score": 37,
+    "by": "l1n",
+    "descendants": 1,
+    "time": 1775512328
+  },
+  {
+    "rank": 3,
+    "id": 47668727,
+    "title": "After 20 years I turned off Google Adsense for my websites",
+    "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+    "score": 12,
+    "by": "datadrivenangel",
+    "descendants": 1,
+    "time": 1775517808
+  },
+  {
+    "rank": 4,
+    "id": 47663147,
+    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "url": "https://www.freestyle.sh/",
+    "score": 192,
+    "by": "benswerd",
+    "descendants": 108,
+    "time": 1775493131
+  },
+  {
+    "rank": 5,
+    "id": 47659135,
+    "title": "Sam Altman may control our future \u2013 can he be trusted?",
+    "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+    "score": 636,
+    "by": "adrianhon",
+    "descendants": 206,
+    "time": 1775471817
+  },
+  {
+    "rank": 6,
+    "id": 47662234,
+    "title": "A cryptography engineer's perspective on quantum computing timelines",
+    "url": "https://words.filippo.io/crqc-timeline/",
+    "score": 300,
+    "by": "thadt",
+    "descendants": 126,
+    "time": 1775489480
+  },
+  {
+    "rank": 7,
+    "id": 47667672,
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "score": 31,
+    "by": "kitfunso",
+    "descendants": 12,
+    "time": 1775512174
+  },
+  {
+    "rank": 8,
+    "id": 47662945,
+    "title": "Show HN: GovAuctions lets you browse government auctions at once",
+    "url": "https://www.govauctions.app/",
+    "score": 188,
+    "by": "player_piano",
+    "descendants": 61,
+    "time": 1775492506
+  },
+  {
+    "rank": 9,
+    "id": 47660954,
+    "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+    "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+    "score": 253,
+    "by": "Bender",
+    "descendants": 130,
+    "time": 1775483557
+  },
+  {
+    "rank": 10,
+    "id": 47660925,
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "score": 711,
+    "by": "StanAngeloff",
+    "descendants": 445,
+    "time": 1775483435
+  }
+]
