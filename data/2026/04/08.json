@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47679121,
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "url": "https://www.anthropic.com/glasswing",
+    "score": 809,
+    "by": "Ryan5453",
+    "descendants": 351,
+    "time": 1775585374
+  },
+  {
+    "rank": 2,
+    "id": 47676509,
+    "title": "Lunar Flyby",
+    "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+    "score": 242,
+    "by": "kipi",
+    "descendants": 61,
+    "time": 1775574198
+  },
+  {
+    "rank": 3,
+    "id": 47679258,
+    "title": "System Card: Claude Mythos Preview [pdf]",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "score": 499,
+    "by": "be7a",
+    "descendants": 359,
+    "time": 1775585916
+  },
+  {
+    "rank": 4,
+    "id": 47680404,
+    "title": "S3 Files",
+    "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+    "score": 165,
+    "by": "werner",
+    "descendants": 47,
+    "time": 1775591041
+  },
+  {
+    "rank": 5,
+    "id": 47677853,
+    "title": "GLM-5.1: Towards Long-Horizon Tasks",
+    "url": "https://z.ai/blog/glm-5.1",
+    "score": 392,
+    "by": "zixuanlimit",
+    "descendants": 114,
+    "time": 1775579535
+  },
+  {
+    "rank": 6,
+    "id": 47650887,
+    "title": "How to get better at guitar",
+    "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+    "score": 148,
+    "by": "jwworth",
+    "descendants": 61,
+    "time": 1775405652
+  },
+  {
+    "rank": 7,
+    "id": 47678573,
+    "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+    "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+    "score": 258,
+    "by": "speckx",
+    "descendants": 58,
+    "time": 1775582623
+  },
+  {
+    "rank": 8,
+    "id": 47682098,
+    "title": "Ex-Meta worker investigated for downloading 30k private Facebook photos",
+    "url": "https://www.bbc.com/news/articles/cvg049xz1ygo",
+    "score": 32,
+    "by": "1659447091",
+    "descendants": 10,
+    "time": 1775600422
+  },
+  {
+    "rank": 9,
+    "id": 47657268,
+    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+    "score": 231,
+    "by": "1659447091",
+    "descendants": 36,
+    "time": 1775452944
+  },
+  {
+    "rank": 10,
+    "id": 47680309,
+    "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+    "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "score": 111,
+    "by": "MediaSquirrel",
+    "descendants": 11,
+    "time": 1775590625
+  }
+]

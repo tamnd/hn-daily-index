@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 07](#2026-04-07) | [Apr 06](#2026-04-06) | [Apr 05](#2026-04-05) | [Apr 04](#2026-04-04) | [Apr 03](#2026-04-03) | [Apr 02](#2026-04-02) | [Apr 01](#2026-04-01)
+Recent: [Apr 08](#2026-04-08) | [Apr 07](#2026-04-07) | [Apr 06](#2026-04-06) | [Apr 05](#2026-04-05) | [Apr 04](#2026-04-04) | [Apr 03](#2026-04-03) | [Apr 02](#2026-04-02)
 
-### [2026](data/2026/) (97/97 days)
+### [2026](data/2026/) (98/98 days)
 
-[**April**](data/2026/04/) (7/7)
+[**April**](data/2026/04/) (8/8)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
-| [**6**](#2026-04-06) | [**7**](#2026-04-07) |  |  |  |  |  |
+| [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) |  |  |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2111,6 +2111,21 @@ Recent: [Apr 07](#2026-04-07) | [Apr 06](#2026-04-06) | [Apr 05](#2026-04-05) | 
 </details>
 
 ---
+
+## 2026-04-08
+
+*Wednesday*
+
+1. [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) (anthropic.com) - 809 points by [Ryan5453](https://news.ycombinator.com/user?id=Ryan5453), [351 comments](https://news.ycombinator.com/item?id=47679121)
+2. [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/) (nasa.gov) - 242 points by [kipi](https://news.ycombinator.com/user?id=kipi), [61 comments](https://news.ycombinator.com/item?id=47676509)
+3. [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf) (www-cdn.anthropic.com) - 499 points by [be7a](https://news.ycombinator.com/user?id=be7a), [359 comments](https://news.ycombinator.com/item?id=47679258)
+4. [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html) (allthingsdistributed.com) - 165 points by [werner](https://news.ycombinator.com/user?id=werner), [47 comments](https://news.ycombinator.com/item?id=47680404)
+5. [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1) (z.ai) - 392 points by [zixuanlimit](https://news.ycombinator.com/user?id=zixuanlimit), [114 comments](https://news.ycombinator.com/item?id=47677853)
+6. [How to get better at guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/) (jakeworth.com) - 148 points by [jwworth](https://news.ycombinator.com/user?id=jwworth), [61 comments](https://news.ycombinator.com/item?id=47650887)
+7. [Cambodia unveils a statue of famous landmine-sniffing rat Magawa](https://www.bbc.com/news/articles/c0rx7xzd10xo) (bbc.com) - 258 points by [speckx](https://news.ycombinator.com/user?id=speckx), [58 comments](https://news.ycombinator.com/item?id=47678573)
+8. [Ex-Meta worker investigated for downloading 30k private Facebook photos](https://www.bbc.com/news/articles/cvg049xz1ygo) (bbc.com) - 32 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [10 comments](https://news.ycombinator.com/item?id=47682098)
+9. [A truck driver spent 20 years making a scale model of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/) (smithsonianmag.com) - 231 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [36 comments](https://news.ycombinator.com/item?id=47657268)
+10. [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal) (github.com) - 111 points by [MediaSquirrel](https://news.ycombinator.com/user?id=MediaSquirrel), [11 comments](https://news.ycombinator.com/item?id=47680309)
 
 ## 2026-04-07
 
