@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47691730,
+    "title": "I ported Mac OS X to the Nintendo Wii",
+    "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+    "score": 1151,
+    "by": "blkhp19",
+    "descendants": 207,
+    "time": 1775662800
+  },
+  {
+    "rank": 2,
+    "id": 47695012,
+    "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+    "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+    "score": 142,
+    "by": "WerWolv",
+    "descendants": 22,
+    "time": 1775676214
+  },
+  {
+    "rank": 3,
+    "id": 47687273,
+    "title": "Git commands I run before reading any code",
+    "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+    "score": 1737,
+    "by": "grepsedawk",
+    "descendants": 378,
+    "time": 1775638422
+  },
+  {
+    "rank": 4,
+    "id": 47693153,
+    "title": "Understanding the Kalman filter with a simple radar example",
+    "url": "https://kalmanfilter.net",
+    "score": 189,
+    "by": "alex_be",
+    "descendants": 28,
+    "time": 1775668306
+  },
+  {
+    "rank": 5,
+    "id": 47692043,
+    "title": "Muse Spark: Scaling towards personal superintelligence",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+    "score": 246,
+    "by": "chabons",
+    "descendants": 277,
+    "time": 1775664092
+  },
+  {
+    "rank": 6,
+    "id": 47688678,
+    "title": "They're made out of meat (1991)",
+    "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+    "score": 381,
+    "by": "surprisetalk",
+    "descendants": 105,
+    "time": 1775647250
+  },
+  {
+    "rank": 7,
+    "id": 47694983,
+    "title": "Expanding Swift's IDE Support",
+    "url": "https://swift.org/blog/expanding-swift-ide-support/",
+    "score": 68,
+    "by": "frizlab",
+    "descendants": 33,
+    "time": 1775676101
+  },
+  {
+    "rank": 8,
+    "id": 47648538,
+    "title": "Pgit: I Imported the Linux Kernel into PostgreSQL",
+    "url": "https://oseifert.ch/blog/linux-kernel-pgit",
+    "score": 59,
+    "by": "ImGajeed76",
+    "descendants": 7,
+    "time": 1775390935
+  },
+  {
+    "rank": 9,
+    "id": 47687248,
+    "title": "\u0160koda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+    "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+    "score": 501,
+    "by": "ra",
+    "descendants": 530,
+    "time": 1775638237
+  },
+  {
+    "rank": 10,
+    "id": 47689648,
+    "title": "ML promises to be profoundly weird",
+    "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+    "score": 342,
+    "by": "pabs3",
+    "descendants": 386,
+    "time": 1775653593
+  }
+]

@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in April 2026.
 
+- [2026-04-09 (Thursday)](#2026-04-09)
 - [2026-04-08 (Wednesday)](#2026-04-08)
 - [2026-04-07 (Tuesday)](#2026-04-07)
 - [2026-04-06 (Monday)](#2026-04-06)
@@ -12,6 +13,21 @@ Top 10 Hacker News stories for each day in April 2026.
 - [2026-04-01 (Wednesday)](#2026-04-01)
 
 ---
+
+## 2026-04-09
+
+*Thursday*
+
+1. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) (bryankeller.github.io) - 1.2k points by [blkhp19](https://news.ycombinator.com/user?id=blkhp19), [207 comments](https://news.ycombinator.com/item?id=47691730)
+2. [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) (werwolv.net) - 142 points by [WerWolv](https://news.ycombinator.com/user?id=WerWolv), [22 comments](https://news.ycombinator.com/item?id=47695012)
+3. [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/) (piechowski.io) - 1.7k points by [grepsedawk](https://news.ycombinator.com/user?id=grepsedawk), [378 comments](https://news.ycombinator.com/item?id=47687273)
+4. [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net) (kalmanfilter.net) - 189 points by [alex_be](https://news.ycombinator.com/user?id=alex_be), [28 comments](https://news.ycombinator.com/item?id=47693153)
+5. [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1) (ai.meta.com) - 246 points by [chabons](https://news.ycombinator.com/user?id=chabons), [277 comments](https://news.ycombinator.com/item?id=47692043)
+6. [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/) (terrybisson.com) - 381 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [105 comments](https://news.ycombinator.com/item?id=47688678)
+7. [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/) (swift.org) - 68 points by [frizlab](https://news.ycombinator.com/user?id=frizlab), [33 comments](https://news.ycombinator.com/item?id=47694983)
+8. [Pgit: I Imported the Linux Kernel into PostgreSQL](https://oseifert.ch/blog/linux-kernel-pgit) (oseifert.ch) - 59 points by [ImGajeed76](https://news.ycombinator.com/user?id=ImGajeed76), [7 comments](https://news.ycombinator.com/item?id=47648538)
+9. [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/) (skoda-storyboard.com) - 501 points by [ra](https://news.ycombinator.com/user?id=ra), [530 comments](https://news.ycombinator.com/item?id=47687248)
+10. [ML promises to be profoundly weird](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess) (aphyr.com) - 342 points by [pabs3](https://news.ycombinator.com/user?id=pabs3), [386 comments](https://news.ycombinator.com/item?id=47689648)
 
 ## 2026-04-08
 
