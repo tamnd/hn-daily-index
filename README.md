@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 09](#2026-04-09) | [Apr 08](#2026-04-08) | [Apr 07](#2026-04-07) | [Apr 06](#2026-04-06) | [Apr 05](#2026-04-05) | [Apr 04](#2026-04-04) | [Apr 03](#2026-04-03)
+Recent: [Apr 10](#2026-04-10) | [Apr 09](#2026-04-09) | [Apr 08](#2026-04-08) | [Apr 07](#2026-04-07) | [Apr 06](#2026-04-06) | [Apr 05](#2026-04-05) | [Apr 04](#2026-04-04)
 
-### [2026](data/2026/) (99/99 days)
+### [2026](data/2026/) (100/100 days)
 
-[**April**](data/2026/04/) (9/9)
+[**April**](data/2026/04/) (10/10)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
-| [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) |  |  |  |
+| [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2111,6 +2111,21 @@ Recent: [Apr 09](#2026-04-09) | [Apr 08](#2026-04-08) | [Apr 07](#2026-04-07) | 
 </details>
 
 ---
+
+## 2026-04-10
+
+*Friday*
+
+1. [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor) (davidoks.blog) - 78 points by [powera](https://news.ycombinator.com/user?id=powera), [43 comments](https://news.ycombinator.com/item?id=47710907)
+2. [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) (arhan.sh) - 255 points by [PaulHoule](https://news.ycombinator.com/user?id=PaulHoule), [125 comments](https://news.ycombinator.com/item?id=47708818)
+3. [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/) (charcuterie.elastiq.ch) - 88 points by [rickcarlino](https://news.ycombinator.com/user?id=rickcarlino), [15 comments](https://news.ycombinator.com/item?id=47709158)
+4. [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID) (github.com) - 91 points by [_tk_](https://news.ycombinator.com/user?id=_tk_), [40 comments](https://news.ycombinator.com/item?id=47709130)
+5. [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/) (eaw.app) - 117 points by [rickcarlino](https://news.ycombinator.com/user?id=rickcarlino), [21 comments](https://news.ycombinator.com/item?id=47708041)
+6. [Robots Eat Cars](https://telemetry.endeff.com/p/robots-eat-cars) (telemetry.endeff.com) - 27 points by [JMill](https://news.ycombinator.com/user?id=JMill), [10 comments](https://news.ycombinator.com/item?id=47670188)
+7. [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) (cacm.acm.org) - 10 points by [speckx](https://news.ycombinator.com/user?id=speckx), [1 comments](https://news.ycombinator.com/item?id=47704804)
+8. [Instant 1.0, a backend for AI-coded apps](https://www.instantdb.com/essays/architecture) (instantdb.com) - 54 points by [stopachka](https://news.ycombinator.com/user?id=stopachka), [32 comments](https://news.ycombinator.com/item?id=47707632)
+9. [Unfolder for Mac – A 3D model unfolding tool for creating papercraft](https://www.unfolder.app/) (unfolder.app) - 115 points by [codazoda](https://news.ycombinator.com/user?id=codazoda), [30 comments](https://news.ycombinator.com/item?id=47706140)
+10. [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev) (hegel.dev) - 71 points by [PaulHoule](https://news.ycombinator.com/user?id=PaulHoule), [28 comments](https://news.ycombinator.com/item?id=47707762)
 
 ## 2026-04-09
 

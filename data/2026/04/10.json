@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47710907,
+    "title": "Many African families spend fortunes burying their dead",
+    "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
+    "score": 78,
+    "by": "powera",
+    "descendants": 43,
+    "time": 1775772610
+  },
+  {
+    "rank": 2,
+    "id": 47708818,
+    "title": "Native Instant Space Switching on macOS",
+    "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+    "score": 255,
+    "by": "PaulHoule",
+    "descendants": 125,
+    "time": 1775764106
+  },
+  {
+    "rank": 3,
+    "id": 47709158,
+    "title": "Charcuterie \u2013 Visual similarity Unicode explorer",
+    "url": "https://charcuterie.elastiq.ch/",
+    "score": 88,
+    "by": "rickcarlino",
+    "descendants": 15,
+    "time": 1775765527
+  },
+  {
+    "rank": 4,
+    "id": 47709130,
+    "title": "Reverse engineering Gemini's SynthID detection",
+    "url": "https://github.com/aloshdenny/reverse-SynthID",
+    "score": 91,
+    "by": "_tk_",
+    "descendants": 40,
+    "time": 1775765425
+  },
+  {
+    "rank": 5,
+    "id": 47708041,
+    "title": "PicoZ80 \u2013 Drop-In Z80 Replacement",
+    "url": "https://eaw.app/picoz80/",
+    "score": 117,
+    "by": "rickcarlino",
+    "descendants": 21,
+    "time": 1775760800
+  },
+  {
+    "rank": 6,
+    "id": 47670188,
+    "title": "Robots Eat Cars",
+    "url": "https://telemetry.endeff.com/p/robots-eat-cars",
+    "score": 27,
+    "by": "JMill",
+    "descendants": 10,
+    "time": 1775530258
+  },
+  {
+    "rank": 7,
+    "id": 47704804,
+    "title": "How NASA Built Artemis II\u2019s Fault-Tolerant Computer",
+    "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+    "score": 10,
+    "by": "speckx",
+    "descendants": 1,
+    "time": 1775747560
+  },
+  {
+    "rank": 8,
+    "id": 47707632,
+    "title": "Instant 1.0, a backend for AI-coded apps",
+    "url": "https://www.instantdb.com/essays/architecture",
+    "score": 54,
+    "by": "stopachka",
+    "descendants": 32,
+    "time": 1775759459
+  },
+  {
+    "rank": 9,
+    "id": 47706140,
+    "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
+    "url": "https://www.unfolder.app/",
+    "score": 115,
+    "by": "codazoda",
+    "descendants": 30,
+    "time": 1775753926
+  },
+  {
+    "rank": 10,
+    "id": 47707762,
+    "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+    "url": "https://hegel.dev",
+    "score": 71,
+    "by": "PaulHoule",
+    "descendants": 28,
+    "time": 1775759865
+  }
+]
