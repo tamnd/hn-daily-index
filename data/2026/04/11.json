@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47724352,
+    "title": "Filing the Corners Off MacBooks",
+    "url": "https://kentwalters.com/posts/corners/",
+    "score": 186,
+    "by": "normanvalentine",
+    "descendants": 122,
+    "time": 1775859400
+  },
+  {
+    "rank": 2,
+    "id": 47722333,
+    "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+    "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+    "score": 194,
+    "by": "neversaydie",
+    "descendants": 104,
+    "time": 1775848222
+  },
+  {
+    "rank": 3,
+    "id": 47719740,
+    "title": "1D Chess",
+    "url": "https://rowan441.github.io/1dchess/chess.html",
+    "score": 619,
+    "by": "burnt-resistor",
+    "descendants": 117,
+    "time": 1775835448
+  },
+  {
+    "rank": 4,
+    "id": 47719942,
+    "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+    "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+    "score": 379,
+    "by": "zx2c4",
+    "descendants": 104,
+    "time": 1775836192
+  },
+  {
+    "rank": 5,
+    "id": 47720419,
+    "title": "Industrial design files for Keychron keyboards and mice",
+    "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+    "score": 274,
+    "by": "stingraycharles",
+    "descendants": 87,
+    "time": 1775838146
+  },
+  {
+    "rank": 6,
+    "id": 47724118,
+    "title": "Installing Every* Firefox Extension",
+    "url": "https://jack.cab/blog/every-firefox-extension",
+    "score": 65,
+    "by": "RohanAdwankar",
+    "descendants": 11,
+    "time": 1775858193
+  },
+  {
+    "rank": 7,
+    "id": 47721946,
+    "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
+    "url": "https://github.com/callumlocke/json-formatter",
+    "score": 125,
+    "by": "jkl5xx",
+    "descendants": 69,
+    "time": 1775846095
+  },
+  {
+    "rank": 8,
+    "id": 47722262,
+    "title": "Watgo \u2013 A WebAssembly Toolkit for Go",
+    "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+    "score": 69,
+    "by": "ibobev",
+    "descendants": 5,
+    "time": 1775847819
+  },
+  {
+    "rank": 9,
+    "id": 47722562,
+    "title": "Nowhere Is Safe",
+    "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+    "score": 99,
+    "by": "sblank",
+    "descendants": 141,
+    "time": 1775849278
+  },
+  {
+    "rank": 10,
+    "id": 47719274,
+    "title": "Helium Is Hard to Replace",
+    "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+    "score": 237,
+    "by": "JumpCrisscross",
+    "descendants": 158,
+    "time": 1775833611
+  }
+]

@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 10](#2026-04-10) | [Apr 09](#2026-04-09) | [Apr 08](#2026-04-08) | [Apr 07](#2026-04-07) | [Apr 06](#2026-04-06) | [Apr 05](#2026-04-05) | [Apr 04](#2026-04-04)
+Recent: [Apr 11](#2026-04-11) | [Apr 10](#2026-04-10) | [Apr 09](#2026-04-09) | [Apr 08](#2026-04-08) | [Apr 07](#2026-04-07) | [Apr 06](#2026-04-06) | [Apr 05](#2026-04-05)
 
-### [2026](data/2026/) (100/100 days)
+### [2026](data/2026/) (101/101 days)
 
-[**April**](data/2026/04/) (10/10)
+[**April**](data/2026/04/) (11/11)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
-| [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) |  |  |
+| [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2111,6 +2111,21 @@ Recent: [Apr 10](#2026-04-10) | [Apr 09](#2026-04-09) | [Apr 08](#2026-04-08) | 
 </details>
 
 ---
+
+## 2026-04-11
+
+*Saturday*
+
+1. [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/) (kentwalters.com) - 186 points by [normanvalentine](https://news.ycombinator.com/user?id=normanvalentine), [122 comments](https://news.ycombinator.com/item?id=47724352)
+2. [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po) (bbc.com) - 194 points by [neversaydie](https://news.ycombinator.com/user?id=neversaydie), [104 comments](https://news.ycombinator.com/item?id=47722333)
+3. [1D Chess](https://rowan441.github.io/1dchess/chess.html) (rowan441.github.io) - 619 points by [burnt-resistor](https://news.ycombinator.com/user?id=burnt-resistor), [117 comments](https://news.ycombinator.com/item?id=47719740)
+4. [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) (lists.zx2c4.com) - 379 points by [zx2c4](https://news.ycombinator.com/user?id=zx2c4), [104 comments](https://news.ycombinator.com/item?id=47719942)
+5. [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) (github.com) - 274 points by [stingraycharles](https://news.ycombinator.com/user?id=stingraycharles), [87 comments](https://news.ycombinator.com/item?id=47720419)
+6. [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension) (jack.cab) - 65 points by [RohanAdwankar](https://news.ycombinator.com/user?id=RohanAdwankar), [11 comments](https://news.ycombinator.com/item?id=47724118)
+7. [JSON Formatter Chrome Plugin Now Closed and Injecting Adware](https://github.com/callumlocke/json-formatter) (github.com) - 125 points by [jkl5xx](https://news.ycombinator.com/user?id=jkl5xx), [69 comments](https://news.ycombinator.com/item?id=47721946)
+8. [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/) (eli.thegreenplace.net) - 69 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [5 comments](https://news.ycombinator.com/item?id=47722262)
+9. [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/) (steveblank.com) - 99 points by [sblank](https://news.ycombinator.com/user?id=sblank), [141 comments](https://news.ycombinator.com/item?id=47722562)
+10. [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace) (construction-physics.com) - 237 points by [JumpCrisscross](https://news.ycombinator.com/user?id=JumpCrisscross), [158 comments](https://news.ycombinator.com/item?id=47719274)
 
 ## 2026-04-10
 
