@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (11 days)
+- [April](04/) (12 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-12
+
+*Sunday*
+
+1. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) (aisle.com) - 746 points by [dominicq](https://news.ycombinator.com/user?id=dominicq), [204 comments](https://news.ycombinator.com/item?id=47732020)
+2. [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html) (khronokernel.com) - 107 points by [krackers](https://news.ycombinator.com/user?id=krackers), [52 comments](https://news.ycombinator.com/item?id=47733971)
+3. [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) (zenodo.org) - 111 points by [iliatoli](https://news.ycombinator.com/user?id=iliatoli), [59 comments](https://news.ycombinator.com/item?id=47733561)
+4. [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) (rdi.berkeley.edu) - 171 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [44 comments](https://news.ycombinator.com/item?id=47733217)
+5. [Dark Castle](https://darkcastle.co.uk/) (darkcastle.co.uk) - 91 points by [evo_9](https://news.ycombinator.com/user?id=evo_9), [11 comments](https://news.ycombinator.com/item?id=47733521)
+6. [Pijul a FOSS distributed version control system](https://pijul.org/) (pijul.org) - 53 points by [kouosi](https://news.ycombinator.com/user?id=kouosi), [7 comments](https://news.ycombinator.com/item?id=47672941)
+7. [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/) (v68k.org) - 178 points by [zdw](https://news.ycombinator.com/user?id=zdw), [49 comments](https://news.ycombinator.com/item?id=47731506)
+8. [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/) (jvt.me) - 65 points by [zdw](https://news.ycombinator.com/user?id=zdw), [4 comments](https://news.ycombinator.com/item?id=47732697)
+9. [Cirrus Labs to join OpenAI](https://cirruslabs.org/) (cirruslabs.org) - 224 points by [seekdeep](https://news.ycombinator.com/user?id=seekdeep), [111 comments](https://news.ycombinator.com/item?id=47730194)
+10. [What Is a Property?](https://alperenkeles.com/posts/what-is-a-property/) (alperenkeles.com) - 42 points by [alpaylan](https://news.ycombinator.com/user?id=alpaylan), [14 comments](https://news.ycombinator.com/item?id=47674075)
 
 ## 2026-04-11
 
