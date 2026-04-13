@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in April 2026.
 
+- [2026-04-13 (Monday)](#2026-04-13)
 - [2026-04-12 (Sunday)](#2026-04-12)
 - [2026-04-11 (Saturday)](#2026-04-11)
 - [2026-04-10 (Friday)](#2026-04-10)
@@ -16,6 +17,21 @@ Top 10 Hacker News stories for each day in April 2026.
 - [2026-04-01 (Wednesday)](#2026-04-01)
 
 ---
+
+## 2026-04-13
+
+*Monday*
+
+1. [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/) (bcantrill.dtrace.org) - 273 points by [gpm](https://news.ycombinator.com/user?id=gpm), [87 comments](https://news.ycombinator.com/item?id=47743628)
+2. [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/) (eetimes.com) - 18 points by [mindcrime](https://news.ycombinator.com/user?id=mindcrime), [13 comments](https://news.ycombinator.com/item?id=47745284)
+3. [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) (essays.johnloeber.com) - 433 points by [phil294](https://news.ycombinator.com/user?id=phil294), [218 comments](https://news.ycombinator.com/item?id=47738827)
+4. [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/) (blinry.org) - 206 points by [_Microft](https://news.ycombinator.com/user?id=_Microft), [47 comments](https://news.ycombinator.com/item?id=47741701)
+5. [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527) - 103 points by [david927](https://news.ycombinator.com/user?id=david927), [270 comments](https://news.ycombinator.com/item?id=47741527)
+6. [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels) (apollo.com) - 74 points by [akyuu](https://news.ycombinator.com/user?id=akyuu), [10 comments](https://news.ycombinator.com/item?id=47745120)
+7. [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t) (bsky.app) - 241 points by [super256](https://news.ycombinator.com/user?id=super256), [104 comments](https://news.ycombinator.com/item?id=47743730)
+8. [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) (lesswrong.com) - 206 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [76 comments](https://news.ycombinator.com/item?id=47702887)
+9. [I gave every train in New York an instrument](https://www.trainjazz.com/) (trainjazz.com) - 186 points by [joshuawolk](https://news.ycombinator.com/user?id=joshuawolk), [36 comments](https://news.ycombinator.com/item?id=47719490)
+10. [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) (boringbar.app) - 207 points by [a-ve](https://news.ycombinator.com/user?id=a-ve), [127 comments](https://news.ycombinator.com/item?id=47742200)
 
 ## 2026-04-12
 
