@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47755629,
+    "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+    "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+    "score": 620,
+    "by": "speckx",
+    "descendants": 171,
+    "time": 1776102879
+  },
+  {
+    "rank": 2,
+    "id": 47757495,
+    "title": "GitHub Stacked PRs",
+    "url": "https://github.github.com/gh-stack/",
+    "score": 355,
+    "by": "ezekg",
+    "descendants": 214,
+    "time": 1776112609
+  },
+  {
+    "rank": 3,
+    "id": 47753472,
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "score": 345,
+    "by": "m-hodges",
+    "descendants": 157,
+    "time": 1776094266
+  },
+  {
+    "rank": 4,
+    "id": 47756321,
+    "title": "How to make Firefox builds 17% faster",
+    "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+    "score": 119,
+    "by": "mbitsnbites",
+    "descendants": 13,
+    "time": 1776106208
+  },
+  {
+    "rank": 5,
+    "id": 47756772,
+    "title": "(AMD) Build AI Agents That Run Locally",
+    "url": "https://amd-gaia.ai/docs",
+    "score": 75,
+    "by": "galaxyLogic",
+    "descendants": 16,
+    "time": 1776108521
+  },
+  {
+    "rank": 6,
+    "id": 47757775,
+    "title": "The tech jobs bust is real. Don't blame AI (yet)",
+    "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+    "score": 79,
+    "by": "andsoitis",
+    "descendants": 66,
+    "time": 1776114141
+  },
+  {
+    "rank": 7,
+    "id": 47729694,
+    "title": "An Introduction to Obsidian",
+    "url": "https://bryanhogan.com/blog/obsidian-introduction",
+    "score": 119,
+    "by": "bryanhogan",
+    "descendants": 83,
+    "time": 1775907302
+  },
+  {
+    "rank": 8,
+    "id": 47728823,
+    "title": "What We Learned Building a Rust Runtime for TypeScript",
+    "url": "https://encore.dev/blog/rust-runtime",
+    "score": 32,
+    "by": "vinhnx",
+    "descendants": 3,
+    "time": 1775897596
+  },
+  {
+    "rank": 9,
+    "id": 47750872,
+    "title": "Servo is now available on crates.io",
+    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "score": 407,
+    "by": "ffin",
+    "descendants": 137,
+    "time": 1776082342
+  },
+  {
+    "rank": 10,
+    "id": 47753689,
+    "title": "Building a CLI for All of Cloudflare",
+    "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+    "score": 238,
+    "by": "soheilpro",
+    "descendants": 75,
+    "time": 1776095042
+  }
+]

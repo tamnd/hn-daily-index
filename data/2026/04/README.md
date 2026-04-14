@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in April 2026.
 
+- [2026-04-14 (Tuesday)](#2026-04-14)
 - [2026-04-13 (Monday)](#2026-04-13)
 - [2026-04-12 (Sunday)](#2026-04-12)
 - [2026-04-11 (Saturday)](#2026-04-11)
@@ -17,6 +18,21 @@ Top 10 Hacker News stories for each day in April 2026.
 - [2026-04-01 (Wednesday)](#2026-04-01)
 
 ---
+
+## 2026-04-14
+
+*Tuesday*
+
+1. [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) (anchor.host) - 620 points by [speckx](https://news.ycombinator.com/user?id=speckx), [171 comments](https://news.ycombinator.com/item?id=47755629)
+2. [GitHub Stacked PRs](https://github.github.com/gh-stack/) (github.github.com) - 355 points by [ezekg](https://news.ycombinator.com/user?id=ezekg), [214 comments](https://news.ycombinator.com/item?id=47757495)
+3. [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) (github.com) - 345 points by [m-hodges](https://news.ycombinator.com/user?id=m-hodges), [157 comments](https://news.ycombinator.com/item?id=47753472)
+4. [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) (blog.farre.se) - 119 points by [mbitsnbites](https://news.ycombinator.com/user?id=mbitsnbites), [13 comments](https://news.ycombinator.com/item?id=47756321)
+5. [(AMD) Build AI Agents That Run Locally](https://amd-gaia.ai/docs) (amd-gaia.ai) - 75 points by [galaxyLogic](https://news.ycombinator.com/user?id=galaxyLogic), [16 comments](https://news.ycombinator.com/item?id=47756772)
+6. [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet) (economist.com) - 79 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [66 comments](https://news.ycombinator.com/item?id=47757775)
+7. [An Introduction to Obsidian](https://bryanhogan.com/blog/obsidian-introduction) (bryanhogan.com) - 119 points by [bryanhogan](https://news.ycombinator.com/user?id=bryanhogan), [83 comments](https://news.ycombinator.com/item?id=47729694)
+8. [What We Learned Building a Rust Runtime for TypeScript](https://encore.dev/blog/rust-runtime) (encore.dev) - 32 points by [vinhnx](https://news.ycombinator.com/user?id=vinhnx), [3 comments](https://news.ycombinator.com/item?id=47728823)
+9. [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/) (servo.org) - 407 points by [ffin](https://news.ycombinator.com/user?id=ffin), [137 comments](https://news.ycombinator.com/item?id=47750872)
+10. [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/) (blog.cloudflare.com) - 238 points by [soheilpro](https://news.ycombinator.com/user?id=soheilpro), [75 comments](https://news.ycombinator.com/item?id=47753689)
 
 ## 2026-04-13
 
