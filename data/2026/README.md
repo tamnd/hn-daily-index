@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (14 days)
+- [April](04/) (15 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-15
+
+*Wednesday*
+
+1. [Claude Code Routines](https://code.claude.com/docs/en/routines) (code.claude.com) - 364 points by [matthieu_bl](https://news.ycombinator.com/user?id=matthieu_bl), [236 comments](https://news.ycombinator.com/item?id=47768133)
+2. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) (techcrunch.com) - 489 points by [jrm-veris](https://news.ycombinator.com/user?id=jrm-veris), [147 comments](https://news.ycombinator.com/item?id=47765604)
+3. [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717) (ascii.textfiles.com) - 45 points by [downbad_](https://news.ycombinator.com/user?id=downbad_), [23 comments](https://news.ycombinator.com/item?id=47772048)
+4. [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900) (taoofmac.com) - 98 points by [rcarmo](https://news.ycombinator.com/user?id=rcarmo), [66 comments](https://news.ycombinator.com/item?id=47732535)
+5. [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/) (openai.com) - 50 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [39 comments](https://news.ycombinator.com/item?id=47770770)
+6. [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/) (kb.databasedesignbook.com) - 124 points by [petalmind](https://news.ycombinator.com/user?id=petalmind), [46 comments](https://news.ycombinator.com/item?id=47767676)
+7. [Picasso's Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59) (guernica.museoreinasofia.es) - 24 points by [guigar](https://news.ycombinator.com/user?id=guigar), [3 comments](https://news.ycombinator.com/item?id=47728662)
+8. [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) (blog.google) - 87 points by [xnx](https://news.ycombinator.com/user?id=xnx), [43 comments](https://news.ycombinator.com/item?id=47768339)
+9. [The dangers of California's legislation to censor 3D printing](https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing) (eff.org) - 168 points by [salkahfi](https://news.ycombinator.com/user?id=salkahfi), [199 comments](https://news.ycombinator.com/item?id=47759420)
+10. [Let's talk space toilets](https://mceglowski.substack.com/p/lets-talk-space-toilets) (mceglowski.substack.com) - 122 points by [zdw](https://news.ycombinator.com/user?id=zdw), [43 comments](https://news.ycombinator.com/item?id=47758870)
 
 ## 2026-04-14
 
