@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 15](#2026-04-15) | [Apr 14](#2026-04-14) | [Apr 13](#2026-04-13) | [Apr 12](#2026-04-12) | [Apr 11](#2026-04-11) | [Apr 10](#2026-04-10) | [Apr 09](#2026-04-09)
+Recent: [Apr 16](#2026-04-16) | [Apr 15](#2026-04-15) | [Apr 14](#2026-04-14) | [Apr 13](#2026-04-13) | [Apr 12](#2026-04-12) | [Apr 11](#2026-04-11) | [Apr 10](#2026-04-10)
 
-### [2026](data/2026/) (105/105 days)
+### [2026](data/2026/) (106/106 days)
 
-[**April**](data/2026/04/) (15/15)
+[**April**](data/2026/04/) (16/16)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
 | [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) | [**12**](#2026-04-12) |
-| [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) |  |  |  |  |
+| [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) |  |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2112,6 +2112,21 @@ Recent: [Apr 15](#2026-04-15) | [Apr 14](#2026-04-14) | [Apr 13](#2026-04-13) | 
 </details>
 
 ---
+
+## 2026-04-16
+
+*Thursday*
+
+1. [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) (dbreunig.com) - 169 points by [dbreunig](https://news.ycombinator.com/user?id=dbreunig), [74 comments](https://news.ycombinator.com/item?id=47769089)
+2. [I made a terminal pager](https://theleo.zone/posts/pager/) (theleo.zone) - 32 points by [speckx](https://news.ycombinator.com/user?id=speckx), [4 comments](https://news.ycombinator.com/item?id=47786164)
+3. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) (eff.org) - 998 points by [Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar), [427 comments](https://news.ycombinator.com/item?id=47782570)
+4. [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/) (mcdonalds.co.jp) - 162 points by [bckygldstn](https://news.ycombinator.com/user?id=bckygldstn), [86 comments](https://news.ycombinator.com/item?id=47785738)
+5. [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README) (tinycorelinux.net) - 65 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [4 comments](https://news.ycombinator.com/item?id=47784244)
+6. [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why) (cal.com) - 181 points by [Benjamin_Dobell](https://news.ycombinator.com/user?id=Benjamin_Dobell), [148 comments](https://news.ycombinator.com/item?id=47780456)
+7. [God sleeps in the minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/) (wchambliss.wordpress.com) - 430 points by [speckx](https://news.ycombinator.com/user?id=speckx), [92 comments](https://news.ycombinator.com/item?id=47778475)
+8. [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394) (bbc.com) - 31 points by [harambae](https://news.ycombinator.com/user?id=harambae), [12 comments](https://news.ycombinator.com/item?id=47785948)
+9. [Live Nation illegally monopolized ticketing market, jury finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds) (bloomberg.com) - 332 points by [Alex_Bond](https://news.ycombinator.com/user?id=Alex_Bond), [103 comments](https://news.ycombinator.com/item?id=47783713)
+10. [Hacker News CLI](https://pythonhosted.org/hackernews-cli/commands.html) (pythonhosted.org) - 24 points by [rolph](https://news.ycombinator.com/user?id=rolph), [9 comments](https://news.ycombinator.com/item?id=47785582)
 
 ## 2026-04-15
 
