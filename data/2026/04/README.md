@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in April 2026.
 
+- [2026-04-17 (Friday)](#2026-04-17)
 - [2026-04-16 (Thursday)](#2026-04-16)
 - [2026-04-15 (Wednesday)](#2026-04-15)
 - [2026-04-14 (Tuesday)](#2026-04-14)
@@ -20,6 +21,21 @@ Top 10 Hacker News stories for each day in April 2026.
 - [2026-04-01 (Wednesday)](#2026-04-01)
 
 ---
+
+## 2026-04-17
+
+*Friday*
+
+1. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) (anthropic.com) - 1.4k points by [meetpateltech](https://news.ycombinator.com/user?id=meetpateltech), [1007 comments](https://news.ycombinator.com/item?id=47793411)
+2. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) (openai.com) - 632 points by [mikeevans](https://news.ycombinator.com/user?id=mikeevans), [349 comments](https://news.ycombinator.com/item?id=47796469)
+3. [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/) (ropensci.org) - 60 points by [sebg](https://news.ycombinator.com/user?id=sebg), [2 comments](https://news.ycombinator.com/item?id=47799573)
+4. [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober) (github.com) - 62 points by [scaredpelican](https://news.ycombinator.com/user?id=scaredpelican), [10 comments](https://news.ycombinator.com/item?id=47800033)
+5. [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary) (clojure.org) - 80 points by [adityaathalye](https://news.ycombinator.com/user?id=adityaathalye), [16 comments](https://news.ycombinator.com/item?id=47798345)
+6. [Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan](https://www.bbc.com/news/articles/clyrd818gd2o) (bbc.com) - 8 points by [flykespice](https://news.ycombinator.com/user?id=flykespice), [0 comments](https://news.ycombinator.com/item?id=47800839)
+7. [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html) (android-developers.googleblog.com) - 92 points by [ingve](https://news.ycombinator.com/user?id=ingve), [25 comments](https://news.ycombinator.com/item?id=47797665)
+8. [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit) (theguardian.com) - 60 points by [kmfrk](https://news.ycombinator.com/user?id=kmfrk), [9 comments](https://news.ycombinator.com/item?id=47800166)
+9. [Qwen3.6-35B-A3B: Agentic coding power, now open to all](https://qwen.ai/blog?id=qwen3.6-35b-a3b) (qwen.ai) - 869 points by [cmitsakis](https://news.ycombinator.com/user?id=cmitsakis), [407 comments](https://news.ycombinator.com/item?id=47792764)
+10. [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/) (simonwillison.net) - 274 points by [simonw](https://news.ycombinator.com/user?id=simonw), [62 comments](https://news.ycombinator.com/item?id=47796830)
 
 ## 2026-04-16
 
