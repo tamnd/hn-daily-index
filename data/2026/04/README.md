@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in April 2026.
 
+- [2026-04-18 (Saturday)](#2026-04-18)
 - [2026-04-17 (Friday)](#2026-04-17)
 - [2026-04-16 (Thursday)](#2026-04-16)
 - [2026-04-15 (Wednesday)](#2026-04-15)
@@ -21,6 +22,21 @@ Top 10 Hacker News stories for each day in April 2026.
 - [2026-04-01 (Wednesday)](#2026-04-01)
 
 ---
+
+## 2026-04-18
+
+*Saturday*
+
+1. [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) (anthropic.com) - 794 points by [meetpateltech](https://news.ycombinator.com/user?id=meetpateltech), [531 comments](https://news.ycombinator.com/item?id=47806725)
+2. [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) (corsix.org) - 85 points by [aw1621107](https://news.ycombinator.com/user?id=aw1621107), [39 comments](https://news.ycombinator.com/item?id=47810872)
+3. [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon) (esa.int) - 204 points by [cybermango](https://news.ycombinator.com/user?id=cybermango), [113 comments](https://news.ycombinator.com/item?id=47808913)
+4. [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) (claudecodecamp.com) - 519 points by [aray07](https://news.ycombinator.com/user?id=aray07), [354 comments](https://news.ycombinator.com/item?id=47807006)
+5. [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5) (nature.com) - 26 points by [unsuspecting](https://news.ycombinator.com/user?id=unsuspecting), [5 comments](https://news.ycombinator.com/item?id=47811283)
+6. [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html) (hex.ooo) - 607 points by [ColinWright](https://news.ycombinator.com/user?id=ColinWright), [240 comments](https://news.ycombinator.com/item?id=47804965)
+7. [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm) (github.com) - 200 points by [binsquare](https://news.ycombinator.com/user?id=binsquare), [83 comments](https://news.ycombinator.com/item?id=47808268)
+8. [NASA Force](https://nasaforce.gov/) (nasaforce.gov) - 209 points by [LorenDB](https://news.ycombinator.com/user?id=LorenDB), [225 comments](https://news.ycombinator.com/item?id=47807209)
+9. [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/) (github.com) - 105 points by [seanieb](https://news.ycombinator.com/user?id=seanieb), [45 comments](https://news.ycombinator.com/item?id=47807809)
+10. [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848) (thehistoryblog.com) - 190 points by [speckx](https://news.ycombinator.com/user?id=speckx), [86 comments](https://news.ycombinator.com/item?id=47806484)
 
 ## 2026-04-17
 

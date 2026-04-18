@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47806725,
+    "title": "Claude Design",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "score": 794,
+    "by": "meetpateltech",
+    "descendants": 531,
+    "time": 1776438249
+  },
+  {
+    "rank": 2,
+    "id": 47810872,
+    "title": "A simplified model of Fil-C",
+    "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+    "score": 85,
+    "by": "aw1621107",
+    "descendants": 39,
+    "time": 1776461900
+  },
+  {
+    "rank": 3,
+    "id": 47808913,
+    "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+    "score": 204,
+    "by": "cybermango",
+    "descendants": 113,
+    "time": 1776449821
+  },
+  {
+    "rank": 4,
+    "id": 47807006,
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "score": 519,
+    "by": "aray07",
+    "descendants": 354,
+    "time": 1776439776
+  },
+  {
+    "rank": 5,
+    "id": 47811283,
+    "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+    "url": "https://www.nature.com/articles/d41586-026-01204-5",
+    "score": 26,
+    "by": "unsuspecting",
+    "descendants": 5,
+    "time": 1776465028
+  },
+  {
+    "rank": 6,
+    "id": 47804965,
+    "title": "Isaac Asimov: The Last Question (1956)",
+    "url": "https://hex.ooo/library/last_question.html",
+    "score": 607,
+    "by": "ColinWright",
+    "descendants": 240,
+    "time": 1776427279
+  },
+  {
+    "rank": 7,
+    "id": 47808268,
+    "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
+    "url": "https://github.com/smol-machines/smolvm",
+    "score": 200,
+    "by": "binsquare",
+    "descendants": 83,
+    "time": 1776446338
+  },
+  {
+    "rank": 8,
+    "id": 47807209,
+    "title": "NASA Force",
+    "url": "https://nasaforce.gov/",
+    "score": 209,
+    "by": "LorenDB",
+    "descendants": 225,
+    "time": 1776440861
+  },
+  {
+    "rank": 9,
+    "id": 47807809,
+    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
+    "url": "https://github.com/paniclock/paniclock/",
+    "score": 105,
+    "by": "seanieb",
+    "descendants": 45,
+    "time": 1776443924
+  },
+  {
+    "rank": 10,
+    "id": 47806484,
+    "title": "Middle schooler finds coin from Troy in Berlin",
+    "url": "https://www.thehistoryblog.com/archives/75848",
+    "score": 190,
+    "by": "speckx",
+    "descendants": 86,
+    "time": 1776436909
+  }
+]
