@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47819453,
+    "title": "NIST scientists create 'any wavelength' lasers",
+    "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+    "score": 101,
+    "by": "rbanffy",
+    "descendants": 48,
+    "time": 1776545657
+  },
+  {
+    "rank": 2,
+    "id": 47816960,
+    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "url": "https://tokens.billchambers.me/leaderboard",
+    "score": 395,
+    "by": "anabranch",
+    "descendants": 409,
+    "time": 1776528343
+  },
+  {
+    "rank": 3,
+    "id": 47817132,
+    "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+    "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+    "score": 244,
+    "by": "NelsonMinar",
+    "descendants": 71,
+    "time": 1776529607
+  },
+  {
+    "rank": 4,
+    "id": 47818485,
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "score": 89,
+    "by": "gnabgib",
+    "descendants": 89,
+    "time": 1776538800
+  },
+  {
+    "rank": 5,
+    "id": 47779659,
+    "title": "Modern Common Lisp with FSet",
+    "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+    "score": 65,
+    "by": "larve",
+    "descendants": 5,
+    "time": 1776263918
+  },
+  {
+    "rank": 6,
+    "id": 47819369,
+    "title": "Optimizing Ruby Path Methods",
+    "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+    "score": 36,
+    "by": "weaksauce",
+    "descendants": 14,
+    "time": 1776544949
+  },
+  {
+    "rank": 7,
+    "id": 47815395,
+    "title": "Why Japan has such good railways",
+    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "score": 283,
+    "by": "RickJWagner",
+    "descendants": 274,
+    "time": 1776515346
+  },
+  {
+    "rank": 8,
+    "id": 47818700,
+    "title": "Thoughts and feelings around Claude Design",
+    "url": "https://samhenri.gold/blog/20260418-claude-design/",
+    "score": 201,
+    "by": "cdrnsf",
+    "descendants": 134,
+    "time": 1776539964
+  },
+  {
+    "rank": 9,
+    "id": 47815774,
+    "title": "Migrating from DigitalOcean to Hetzner",
+    "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+    "score": 662,
+    "by": "yusufusta",
+    "descendants": 337,
+    "time": 1776518944
+  },
+  {
+    "rank": 10,
+    "id": 47815118,
+    "title": "State of Kdenlive",
+    "url": "https://kdenlive.org/news/2026/state-2026/",
+    "score": 325,
+    "by": "f_r_d",
+    "descendants": 109,
+    "time": 1776512557
+  }
+]

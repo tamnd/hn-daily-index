@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 18](#2026-04-18) | [Apr 17](#2026-04-17) | [Apr 16](#2026-04-16) | [Apr 15](#2026-04-15) | [Apr 14](#2026-04-14) | [Apr 13](#2026-04-13) | [Apr 12](#2026-04-12)
+Recent: [Apr 19](#2026-04-19) | [Apr 18](#2026-04-18) | [Apr 17](#2026-04-17) | [Apr 16](#2026-04-16) | [Apr 15](#2026-04-15) | [Apr 14](#2026-04-14) | [Apr 13](#2026-04-13)
 
-### [2026](data/2026/) (108/108 days)
+### [2026](data/2026/) (109/109 days)
 
-[**April**](data/2026/04/) (18/18)
+[**April**](data/2026/04/) (19/19)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
 | [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) | [**12**](#2026-04-12) |
-| [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) | [**17**](#2026-04-17) | [**18**](#2026-04-18) |  |
+| [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) | [**17**](#2026-04-17) | [**18**](#2026-04-18) | [**19**](#2026-04-19) |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2112,6 +2112,21 @@ Recent: [Apr 18](#2026-04-18) | [Apr 17](#2026-04-17) | [Apr 16](#2026-04-16) | 
 </details>
 
 ---
+
+## 2026-04-19
+
+*Sunday*
+
+1. [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) (nist.gov) - 101 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [48 comments](https://news.ycombinator.com/item?id=47819453)
+2. [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard) (tokens.billchambers.me) - 395 points by [anabranch](https://news.ycombinator.com/user?id=anabranch), [409 comments](https://news.ycombinator.com/item?id=47816960)
+3. [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) (righto.com) - 244 points by [NelsonMinar](https://news.ycombinator.com/user?id=NelsonMinar), [71 comments](https://news.ycombinator.com/item?id=47817132)
+4. [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/) (sentinelcolorado.com) - 89 points by [gnabgib](https://news.ycombinator.com/user?id=gnabgib), [89 comments](https://news.ycombinator.com/item?id=47818485)
+5. [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html) (fset.common-lisp.dev) - 65 points by [larve](https://news.ycombinator.com/user?id=larve), [5 comments](https://news.ycombinator.com/item?id=47779659)
+6. [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html) (byroot.github.io) - 36 points by [weaksauce](https://news.ycombinator.com/user?id=weaksauce), [14 comments](https://news.ycombinator.com/item?id=47819369)
+7. [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/) (worksinprogress.co) - 283 points by [RickJWagner](https://news.ycombinator.com/user?id=RickJWagner), [274 comments](https://news.ycombinator.com/item?id=47815395)
+8. [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) (samhenri.gold) - 201 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [134 comments](https://news.ycombinator.com/item?id=47818700)
+9. [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/) (isayeter.com) - 662 points by [yusufusta](https://news.ycombinator.com/user?id=yusufusta), [337 comments](https://news.ycombinator.com/item?id=47815774)
+10. [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) (kdenlive.org) - 325 points by [f_r_d](https://news.ycombinator.com/user?id=f_r_d), [109 comments](https://news.ycombinator.com/item?id=47815118)
 
 ## 2026-04-18
 

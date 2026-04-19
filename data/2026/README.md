@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (18 days)
+- [April](04/) (19 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-19
+
+*Sunday*
+
+1. [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) (nist.gov) - 101 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [48 comments](https://news.ycombinator.com/item?id=47819453)
+2. [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard) (tokens.billchambers.me) - 395 points by [anabranch](https://news.ycombinator.com/user?id=anabranch), [409 comments](https://news.ycombinator.com/item?id=47816960)
+3. [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) (righto.com) - 244 points by [NelsonMinar](https://news.ycombinator.com/user?id=NelsonMinar), [71 comments](https://news.ycombinator.com/item?id=47817132)
+4. [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/) (sentinelcolorado.com) - 89 points by [gnabgib](https://news.ycombinator.com/user?id=gnabgib), [89 comments](https://news.ycombinator.com/item?id=47818485)
+5. [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html) (fset.common-lisp.dev) - 65 points by [larve](https://news.ycombinator.com/user?id=larve), [5 comments](https://news.ycombinator.com/item?id=47779659)
+6. [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html) (byroot.github.io) - 36 points by [weaksauce](https://news.ycombinator.com/user?id=weaksauce), [14 comments](https://news.ycombinator.com/item?id=47819369)
+7. [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/) (worksinprogress.co) - 283 points by [RickJWagner](https://news.ycombinator.com/user?id=RickJWagner), [274 comments](https://news.ycombinator.com/item?id=47815395)
+8. [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) (samhenri.gold) - 201 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [134 comments](https://news.ycombinator.com/item?id=47818700)
+9. [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/) (isayeter.com) - 662 points by [yusufusta](https://news.ycombinator.com/user?id=yusufusta), [337 comments](https://news.ycombinator.com/item?id=47815774)
+10. [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) (kdenlive.org) - 325 points by [f_r_d](https://news.ycombinator.com/user?id=f_r_d), [109 comments](https://news.ycombinator.com/item?id=47815118)
 
 ## 2026-04-18
 
