@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47824463,
+    "title": "Vercel April 2026 security incident",
+    "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+    "score": 472,
+    "by": "colesantiago",
+    "descendants": 287,
+    "time": 1776608078
+  },
+  {
+    "rank": 2,
+    "id": 47826100,
+    "title": "The Bromine Chokepoint",
+    "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+    "score": 132,
+    "by": "crescit_eundo",
+    "descendants": 67,
+    "time": 1776620643
+  },
+  {
+    "rank": 3,
+    "id": 47822734,
+    "title": "A Brief History of Fish Sauce",
+    "url": "https://www.legalnomads.com/fish-sauce/",
+    "score": 23,
+    "by": "vinhnx",
+    "descendants": 6,
+    "time": 1776587573
+  },
+  {
+    "rank": 4,
+    "id": 47828420,
+    "title": "2,100 Swiss municipalities showing which provider handles their official email",
+    "url": "https://mxmap.ch/",
+    "score": 35,
+    "by": "doener",
+    "descendants": 11,
+    "time": 1776639347
+  },
+  {
+    "rank": 5,
+    "id": 47808956,
+    "title": "Show HN: How context engineering works, a runnable reference",
+    "url": "https://github.com/outcomeops/context-engineering",
+    "score": 6,
+    "by": "linsys",
+    "descendants": 0,
+    "time": 1776450049
+  },
+  {
+    "rank": 6,
+    "id": 47823270,
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "score": 169,
+    "by": "pretext",
+    "descendants": 104,
+    "time": 1776594989
+  },
+  {
+    "rank": 7,
+    "id": 47826104,
+    "title": "Show HN: Faceoff \u2013 A terminal UI for following NHL games",
+    "url": "https://www.vincentgregoire.com/faceoff/",
+    "score": 90,
+    "by": "vcf",
+    "descendants": 32,
+    "time": 1776620684
+  },
+  {
+    "rank": 8,
+    "id": 47781950,
+    "title": "Prove you are a robot: CAPTCHAs for agents",
+    "url": "https://browser-use.com/posts/prove-you-are-a-robot",
+    "score": 34,
+    "by": "lukasec",
+    "descendants": 23,
+    "time": 1776272619
+  },
+  {
+    "rank": 9,
+    "id": 47828225,
+    "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
+    "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+    "score": 31,
+    "by": "1vuio0pswjnm7",
+    "descendants": 9,
+    "time": 1776637819
+  },
+  {
+    "rank": 10,
+    "id": 47826502,
+    "title": "Six Levels of Dark Mode",
+    "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
+    "score": 31,
+    "by": "Akcium",
+    "descendants": 7,
+    "time": 1776623760
+  }
+]

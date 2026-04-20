@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (19 days)
+- [April](04/) (20 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-20
+
+*Monday*
+
+1. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) (bleepingcomputer.com) - 472 points by [colesantiago](https://news.ycombinator.com/user?id=colesantiago), [287 comments](https://news.ycombinator.com/item?id=47824463)
+2. [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) (warontherocks.com) - 132 points by [crescit_eundo](https://news.ycombinator.com/user?id=crescit_eundo), [67 comments](https://news.ycombinator.com/item?id=47826100)
+3. [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/) (legalnomads.com) - 23 points by [vinhnx](https://news.ycombinator.com/user?id=vinhnx), [6 comments](https://news.ycombinator.com/item?id=47822734)
+4. [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/) (mxmap.ch) - 35 points by [doener](https://news.ycombinator.com/user?id=doener), [11 comments](https://news.ycombinator.com/item?id=47828420)
+5. [Show HN: How context engineering works, a runnable reference](https://github.com/outcomeops/context-engineering) (github.com) - 6 points by [linsys](https://news.ycombinator.com/user?id=linsys), [0 comments](https://news.ycombinator.com/item?id=47808956)
+6. [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/) (simonwillison.net) - 169 points by [pretext](https://news.ycombinator.com/user?id=pretext), [104 comments](https://news.ycombinator.com/item?id=47823270)
+7. [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) (vincentgregoire.com) - 90 points by [vcf](https://news.ycombinator.com/user?id=vcf), [32 comments](https://news.ycombinator.com/item?id=47826104)
+8. [Prove you are a robot: CAPTCHAs for agents](https://browser-use.com/posts/prove-you-are-a-robot) (browser-use.com) - 34 points by [lukasec](https://news.ycombinator.com/user?id=lukasec), [23 comments](https://news.ycombinator.com/item?id=47781950)
+9. [Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/) (reuters.com) - 31 points by [1vuio0pswjnm7](https://news.ycombinator.com/user?id=1vuio0pswjnm7), [9 comments](https://news.ycombinator.com/item?id=47828225)
+10. [Six Levels of Dark Mode](https://cssence.com/2024/six-levels-of-dark-mode/) (cssence.com) - 31 points by [Akcium](https://news.ycombinator.com/user?id=Akcium), [7 comments](https://news.ycombinator.com/item?id=47826502)
 
 ## 2026-04-19
 
