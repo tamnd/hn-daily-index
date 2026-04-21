@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 20](#2026-04-20) | [Apr 19](#2026-04-19) | [Apr 18](#2026-04-18) | [Apr 17](#2026-04-17) | [Apr 16](#2026-04-16) | [Apr 15](#2026-04-15) | [Apr 14](#2026-04-14)
+Recent: [Apr 21](#2026-04-21) | [Apr 20](#2026-04-20) | [Apr 19](#2026-04-19) | [Apr 18](#2026-04-18) | [Apr 17](#2026-04-17) | [Apr 16](#2026-04-16) | [Apr 15](#2026-04-15)
 
-### [2026](data/2026/) (110/110 days)
+### [2026](data/2026/) (111/111 days)
 
-[**April**](data/2026/04/) (20/20)
+[**April**](data/2026/04/) (21/21)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
 | [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) | [**12**](#2026-04-12) |
 | [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) | [**17**](#2026-04-17) | [**18**](#2026-04-18) | [**19**](#2026-04-19) |
-| [**20**](#2026-04-20) |  |  |  |  |  |  |
+| [**20**](#2026-04-20) | [**21**](#2026-04-21) |  |  |  |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2113,6 +2113,21 @@ Recent: [Apr 20](#2026-04-20) | [Apr 19](#2026-04-19) | [Apr 18](#2026-04-18) | 
 </details>
 
 ---
+
+## 2026-04-21
+
+*Tuesday*
+
+1. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) (apple.com) - 997 points by [schappim](https://news.ycombinator.com/user?id=schappim), [516 comments](https://news.ycombinator.com/item?id=47840219)
+2. [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) (isaaccorbrey.com) - 87 points by [icorbrey](https://news.ycombinator.com/user?id=icorbrey), [19 comments](https://news.ycombinator.com/item?id=47841129)
+3. [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64) (github.com) - 58 points by [adunk](https://news.ycombinator.com/user?id=adunk), [13 comments](https://news.ycombinator.com/item?id=47839645)
+4. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) (qwen.ai) - 510 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [260 comments](https://news.ycombinator.com/item?id=47834565)
+5. [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier) (kimi.com) - 143 points by [Alifatisk](https://news.ycombinator.com/user?id=Alifatisk), [11 comments](https://news.ycombinator.com/item?id=47838703)
+6. [Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html) (morgin.ai) - 58 points by [llmmadness](https://news.ycombinator.com/user?id=llmmadness), [40 comments](https://news.ycombinator.com/item?id=47842021)
+7. [GitHub's fake star economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) (awesomeagents.ai) - 730 points by [Liriel](https://news.ycombinator.com/user?id=Liriel), [354 comments](https://news.ycombinator.com/item?id=47831621)
+8. [Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes](https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html) (redixhumayun.github.io) - 24 points by [ingve](https://news.ycombinator.com/user?id=ingve), [2 comments](https://news.ycombinator.com/item?id=47789291)
+9. [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/) (adweek.com) - 125 points by [jlark77777](https://news.ycombinator.com/user?id=jlark77777), [48 comments](https://news.ycombinator.com/item?id=47840980)
+10. [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) (opensource.posit.co) - 334 points by [thomasp85](https://news.ycombinator.com/user?id=thomasp85), [71 comments](https://news.ycombinator.com/item?id=47833558)
 
 ## 2026-04-20
 

@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (20 days)
+- [April](04/) (21 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-21
+
+*Tuesday*
+
+1. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) (apple.com) - 997 points by [schappim](https://news.ycombinator.com/user?id=schappim), [516 comments](https://news.ycombinator.com/item?id=47840219)
+2. [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) (isaaccorbrey.com) - 87 points by [icorbrey](https://news.ycombinator.com/user?id=icorbrey), [19 comments](https://news.ycombinator.com/item?id=47841129)
+3. [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64) (github.com) - 58 points by [adunk](https://news.ycombinator.com/user?id=adunk), [13 comments](https://news.ycombinator.com/item?id=47839645)
+4. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) (qwen.ai) - 510 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [260 comments](https://news.ycombinator.com/item?id=47834565)
+5. [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier) (kimi.com) - 143 points by [Alifatisk](https://news.ycombinator.com/user?id=Alifatisk), [11 comments](https://news.ycombinator.com/item?id=47838703)
+6. [Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html) (morgin.ai) - 58 points by [llmmadness](https://news.ycombinator.com/user?id=llmmadness), [40 comments](https://news.ycombinator.com/item?id=47842021)
+7. [GitHub's fake star economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) (awesomeagents.ai) - 730 points by [Liriel](https://news.ycombinator.com/user?id=Liriel), [354 comments](https://news.ycombinator.com/item?id=47831621)
+8. [Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes](https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html) (redixhumayun.github.io) - 24 points by [ingve](https://news.ycombinator.com/user?id=ingve), [2 comments](https://news.ycombinator.com/item?id=47789291)
+9. [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/) (adweek.com) - 125 points by [jlark77777](https://news.ycombinator.com/user?id=jlark77777), [48 comments](https://news.ycombinator.com/item?id=47840980)
+10. [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) (opensource.posit.co) - 334 points by [thomasp85](https://news.ycombinator.com/user?id=thomasp85), [71 comments](https://news.ycombinator.com/item?id=47833558)
 
 ## 2026-04-20
 
