@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 21](#2026-04-21) | [Apr 20](#2026-04-20) | [Apr 19](#2026-04-19) | [Apr 18](#2026-04-18) | [Apr 17](#2026-04-17) | [Apr 16](#2026-04-16) | [Apr 15](#2026-04-15)
+Recent: [Apr 22](#2026-04-22) | [Apr 21](#2026-04-21) | [Apr 20](#2026-04-20) | [Apr 19](#2026-04-19) | [Apr 18](#2026-04-18) | [Apr 17](#2026-04-17) | [Apr 16](#2026-04-16)
 
-### [2026](data/2026/) (111/111 days)
+### [2026](data/2026/) (112/112 days)
 
-[**April**](data/2026/04/) (21/21)
+[**April**](data/2026/04/) (22/22)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
 | [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) | [**12**](#2026-04-12) |
 | [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) | [**17**](#2026-04-17) | [**18**](#2026-04-18) | [**19**](#2026-04-19) |
-| [**20**](#2026-04-20) | [**21**](#2026-04-21) |  |  |  |  |  |
+| [**20**](#2026-04-20) | [**21**](#2026-04-21) | [**22**](#2026-04-22) |  |  |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2113,6 +2113,21 @@ Recent: [Apr 21](#2026-04-21) | [Apr 20](#2026-04-20) | [Apr 19](#2026-04-19) | 
 </details>
 
 ---
+
+## 2026-04-22
+
+*Wednesday*
+
+1. [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) (openai.com) - 305 points by [wahnfrieden](https://news.ycombinator.com/user?id=wahnfrieden), [304 comments](https://news.ycombinator.com/item?id=47852835)
+2. [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374) (twitter.com) - 38 points by [dmarcos](https://news.ycombinator.com/user?id=dmarcos), [116 comments](https://news.ycombinator.com/item?id=47855293)
+3. [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html) (trendmicro.com) - 243 points by [queenelvis](https://news.ycombinator.com/user?id=queenelvis), [91 comments](https://news.ycombinator.com/item?id=47851634)
+4. [CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap) (brex.com) - 53 points by [pedrofranceschi](https://news.ycombinator.com/user?id=pedrofranceschi), [8 comments](https://news.ycombinator.com/item?id=47850212)
+5. [Claude Code no longer included in Pro tier](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a) (bsky.app) - 172 points by [johnduhart](https://news.ycombinator.com/user?id=johnduhart), [95 comments](https://news.ycombinator.com/item?id=47855565)
+6. [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/) (thinkygames.com) - 110 points by [tobr](https://news.ycombinator.com/user?id=tobr), [54 comments](https://news.ycombinator.com/item?id=47814874)
+7. [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/) (britannica11.org) - 198 points by [ahaspel](https://news.ycombinator.com/user?id=ahaspel), [85 comments](https://news.ycombinator.com/item?id=47851885)
+8. [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy) (github.com) - 138 points by [petecooper](https://news.ycombinator.com/user?id=petecooper), [36 comments](https://news.ycombinator.com/item?id=47852155)
+9. [Framework Laptop 13 Pro](https://frame.work/laptop13pro) (frame.work) - 833 points by [Trollmann](https://news.ycombinator.com/user?id=Trollmann), [470 comments](https://news.ycombinator.com/item?id=47852177)
+10. [Laws of Software Engineering](https://lawsofsoftwareengineering.com) (lawsofsoftwareengineering.com) - 794 points by [milanm081](https://news.ycombinator.com/user?id=milanm081), [406 comments](https://news.ycombinator.com/item?id=47847179)
 
 ## 2026-04-21
 
