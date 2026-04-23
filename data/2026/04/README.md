@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in April 2026.
 
+- [2026-04-23 (Thursday)](#2026-04-23)
 - [2026-04-22 (Wednesday)](#2026-04-22)
 - [2026-04-21 (Tuesday)](#2026-04-21)
 - [2026-04-20 (Monday)](#2026-04-20)
@@ -26,6 +27,21 @@ Top 10 Hacker News stories for each day in April 2026.
 - [2026-04-01 (Wednesday)](#2026-04-01)
 
 ---
+
+## 2026-04-23
+
+*Thursday*
+
+1. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) (wheelfront.com) - 1.2k points by [Kaibeezy](https://news.ycombinator.com/user?id=Kaibeezy), [421 comments](https://news.ycombinator.com/item?id=47865868)
+2. [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) (techcrunch.com) - 271 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [76 comments](https://news.ycombinator.com/item?id=47868867)
+3. [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/) (fingerprint.com) - 352 points by [danpinto](https://news.ycombinator.com/user?id=danpinto), [102 comments](https://news.ycombinator.com/item?id=47866697)
+4. [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) (qwen.ai) - 635 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [322 comments](https://news.ycombinator.com/item?id=47863217)
+5. [How to Stop a Data Center in Your Backyard](https://lataco.com/stop-sgv-data-center-building) (lataco.com) - 14 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [6 comments](https://news.ycombinator.com/item?id=47870588)
+6. [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/) (maurycyz.com) - 374 points by [zdw](https://news.ycombinator.com/user?id=zdw), [97 comments](https://news.ycombinator.com/item?id=47824943)
+7. [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/) (nrehiew.github.io) - 273 points by [pella](https://news.ycombinator.com/user?id=pella), [157 comments](https://news.ycombinator.com/item?id=47866913)
+8. [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) (social.hails.org) - 874 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [202 comments](https://news.ycombinator.com/item?id=47861270)
+9. [Website streamed live directly from a model](https://flipbook.page/) (flipbook.page) - 115 points by [sethbannon](https://news.ycombinator.com/user?id=sethbannon), [43 comments](https://news.ycombinator.com/item?id=47867048)
+10. [Ping-pong robot beats top-level human players](https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/) (reuters.com) - 55 points by [wslh](https://news.ycombinator.com/user?id=wslh), [60 comments](https://news.ycombinator.com/item?id=47864785)
 
 ## 2026-04-22
 
