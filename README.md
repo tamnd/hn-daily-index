@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 23](#2026-04-23) | [Apr 22](#2026-04-22) | [Apr 21](#2026-04-21) | [Apr 20](#2026-04-20) | [Apr 19](#2026-04-19) | [Apr 18](#2026-04-18) | [Apr 17](#2026-04-17)
+Recent: [Apr 24](#2026-04-24) | [Apr 23](#2026-04-23) | [Apr 22](#2026-04-22) | [Apr 21](#2026-04-21) | [Apr 20](#2026-04-20) | [Apr 19](#2026-04-19) | [Apr 18](#2026-04-18)
 
-### [2026](data/2026/) (113/113 days)
+### [2026](data/2026/) (114/114 days)
 
-[**April**](data/2026/04/) (23/23)
+[**April**](data/2026/04/) (24/24)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-04-01) | [**2**](#2026-04-02) | [**3**](#2026-04-03) | [**4**](#2026-04-04) | [**5**](#2026-04-05) |
 | [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) | [**12**](#2026-04-12) |
 | [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) | [**17**](#2026-04-17) | [**18**](#2026-04-18) | [**19**](#2026-04-19) |
-| [**20**](#2026-04-20) | [**21**](#2026-04-21) | [**22**](#2026-04-22) | [**23**](#2026-04-23) |  |  |  |
+| [**20**](#2026-04-20) | [**21**](#2026-04-21) | [**22**](#2026-04-22) | [**23**](#2026-04-23) | [**24**](#2026-04-24) |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2113,6 +2113,21 @@ Recent: [Apr 23](#2026-04-23) | [Apr 22](#2026-04-22) | [Apr 21](#2026-04-21) | 
 </details>
 
 ---
+
+## 2026-04-24
+
+*Friday*
+
+1. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) (openai.com) - 1.0k points by [rd](https://news.ycombinator.com/user?id=rd), [656 comments](https://news.ycombinator.com/item?id=47879092)
+2. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) (socket.dev) - 612 points by [tosh](https://news.ycombinator.com/user?id=tosh), [287 comments](https://news.ycombinator.com/item?id=47876043)
+3. [Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria) (github.com) - 54 points by [lucaronin](https://news.ycombinator.com/user?id=lucaronin), [21 comments](https://news.ycombinator.com/item?id=47882697)
+4. [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) (blog.meshcore.io) - 142 points by [wielebny](https://news.ycombinator.com/user?id=wielebny), [82 comments](https://news.ycombinator.com/item?id=47878117)
+5. [U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market](https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0) (justice.gov) - 91 points by [paulpauper](https://news.ycombinator.com/user?id=paulpauper), [35 comments](https://news.ycombinator.com/item?id=47883108)
+6. [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) (anthropic.com) - 526 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [398 comments](https://news.ycombinator.com/item?id=47878905)
+7. [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/) (developers.googleblog.com) - 25 points by [mji](https://news.ycombinator.com/user?id=mji), [2 comments](https://news.ycombinator.com/item?id=47881786)
+8. [Show HN: Agent Vault – Open-source credential proxy and vault for agents](https://github.com/Infisical/agent-vault) (github.com) - 53 points by [dangtony98](https://news.ycombinator.com/user?id=dangtony98), [14 comments](https://news.ycombinator.com/item?id=47865822)
+9. [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) (crawshaw.io) - 963 points by [bumbledraven](https://news.ycombinator.com/user?id=bumbledraven), [481 comments](https://news.ycombinator.com/item?id=47872324)
+10. [My phone replaced a brass plug](https://drobinin.com/posts/my-phone-replaced-a-brass-plug/) (drobinin.com) - 64 points by [valzevul](https://news.ycombinator.com/user?id=valzevul), [9 comments](https://news.ycombinator.com/item?id=47877715)
 
 ## 2026-04-23
 
