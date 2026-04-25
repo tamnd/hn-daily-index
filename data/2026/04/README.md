@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in April 2026.
 
+- [2026-04-25 (Saturday)](#2026-04-25)
 - [2026-04-24 (Friday)](#2026-04-24)
 - [2026-04-23 (Thursday)](#2026-04-23)
 - [2026-04-22 (Wednesday)](#2026-04-22)
@@ -28,6 +29,21 @@ Top 10 Hacker News stories for each day in April 2026.
 - [2026-04-01 (Wednesday)](#2026-04-01)
 
 ---
+
+## 2026-04-25
+
+*Saturday*
+
+1. [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) (bloomberg.com) - 252 points by [elffjs](https://news.ycombinator.com/user?id=elffjs), [318 comments](https://news.ycombinator.com/item?id=47892074)
+2. [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/) (hhh.hn) - 136 points by [hhh](https://news.ycombinator.com/user?id=hhh), [29 comments](https://news.ycombinator.com/item?id=47894747)
+3. [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877) (thehistoryblog.com) - 79 points by [wise_blood](https://news.ycombinator.com/user?id=wise_blood), [17 comments](https://news.ycombinator.com/item?id=47864056)
+4. [Google Flow Music](https://www.flowmusic.app/) (flowmusic.app) - 68 points by [hmokiguess](https://news.ycombinator.com/user?id=hmokiguess), [37 comments](https://news.ycombinator.com/item?id=47895765)
+5. [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) (kevinlynagh.com) - 345 points by [alcazar](https://news.ycombinator.com/user?id=alcazar), [84 comments](https://news.ycombinator.com/item?id=47890799)
+6. [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/) (blogs.loc.gov) - 133 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [76 comments](https://news.ycombinator.com/item?id=47894435)
+7. [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/) (lightwhale.asklandd.dk) - 39 points by [Zta77](https://news.ycombinator.com/user?id=Zta77), [16 comments](https://news.ycombinator.com/item?id=47896163)
+8. [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691) (arxiv.org) - 104 points by [jamie-simon](https://news.ycombinator.com/user?id=jamie-simon), [41 comments](https://news.ycombinator.com/item?id=47893779)
+9. [Work with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up) (notes.andymatuschak.org) - 99 points by [jxmorris12](https://news.ycombinator.com/user?id=jxmorris12), [81 comments](https://news.ycombinator.com/item?id=47851613)
+10. [Diatec, known for its mechanical keyboard brand FILCO, has ceased operations](https://gigazine.net/gsc_news/en/20260424-filco-diatec/) (gigazine.net) - 87 points by [gslin](https://news.ycombinator.com/user?id=gslin), [29 comments](https://news.ycombinator.com/item?id=47892236)
 
 ## 2026-04-24
 

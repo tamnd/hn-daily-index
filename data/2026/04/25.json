@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47892074,
+    "title": "Google plans to invest up to $40B in Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "score": 252,
+    "by": "elffjs",
+    "descendants": 318,
+    "time": 1777046681
+  },
+  {
+    "rank": 2,
+    "id": 47894747,
+    "title": "My audio interface has SSH enabled by default",
+    "url": "https://hhh.hn/rodecaster-duo-fw/",
+    "score": 136,
+    "by": "hhh",
+    "descendants": 29,
+    "time": 1777059046
+  },
+  {
+    "rank": 3,
+    "id": 47864056,
+    "title": "Iliad fragment found in Roman-era mummy",
+    "url": "https://www.thehistoryblog.com/archives/75877",
+    "score": 79,
+    "by": "wise_blood",
+    "descendants": 17,
+    "time": 1776867515
+  },
+  {
+    "rank": 4,
+    "id": 47895765,
+    "title": "Google Flow Music",
+    "url": "https://www.flowmusic.app/",
+    "score": 68,
+    "by": "hmokiguess",
+    "descendants": 37,
+    "time": 1777064510
+  },
+  {
+    "rank": 5,
+    "id": 47890799,
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "score": 345,
+    "by": "alcazar",
+    "descendants": 84,
+    "time": 1777040932
+  },
+  {
+    "rank": 6,
+    "id": 47894435,
+    "title": "The Classic American Diner",
+    "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+    "score": 133,
+    "by": "NaOH",
+    "descendants": 76,
+    "time": 1777057269
+  },
+  {
+    "rank": 7,
+    "id": 47896163,
+    "title": "Show HN: I've built a nice home server OS",
+    "url": "https://lightwhale.asklandd.dk/",
+    "score": 39,
+    "by": "Zta77",
+    "descendants": 16,
+    "time": 1777066946
+  },
+  {
+    "rank": 8,
+    "id": 47893779,
+    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "score": 104,
+    "by": "jamie-simon",
+    "descendants": 41,
+    "time": 1777053965
+  },
+  {
+    "rank": 9,
+    "id": 47851613,
+    "title": "Work with the garage door up",
+    "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+    "score": 99,
+    "by": "jxmorris12",
+    "descendants": 81,
+    "time": 1776791609
+  },
+  {
+    "rank": 10,
+    "id": 47892236,
+    "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+    "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+    "score": 87,
+    "by": "gslin",
+    "descendants": 29,
+    "time": 1777047409
+  }
+]
