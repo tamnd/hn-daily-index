@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in April 2026.
 
+- [2026-04-26 (Sunday)](#2026-04-26)
 - [2026-04-25 (Saturday)](#2026-04-25)
 - [2026-04-24 (Friday)](#2026-04-24)
 - [2026-04-23 (Thursday)](#2026-04-23)
@@ -29,6 +30,21 @@ Top 10 Hacker News stories for each day in April 2026.
 - [2026-04-01 (Wednesday)](#2026-04-01)
 
 ---
+
+## 2026-04-26
+
+*Sunday*
+
+1. [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html) (fabiensanglard.net) - 89 points by [gwerbret](https://news.ycombinator.com/user?id=gwerbret), [28 comments](https://news.ycombinator.com/item?id=47904876)
+2. [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/) (fffff.at) - 244 points by [robinhouston](https://news.ycombinator.com/user?id=robinhouston), [45 comments](https://news.ycombinator.com/item?id=47860198)
+3. [1-Bit Hokusai's "The Great Wave" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/) (hypertalking.com) - 509 points by [stephen-hill](https://news.ycombinator.com/user?id=stephen-hill), [86 comments](https://news.ycombinator.com/item?id=47863570)
+4. [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board) (science.org) - 234 points by [skullone](https://news.ycombinator.com/user?id=skullone), [75 comments](https://news.ycombinator.com/item?id=47905283)
+5. [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) (blog.matthewbrunelle.com) - 148 points by [speckx](https://news.ycombinator.com/user?id=speckx), [93 comments](https://news.ycombinator.com/item?id=47902525)
+6. [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes) (blog.korny.info) - 63 points by [pavel_lishin](https://news.ycombinator.com/user?id=pavel_lishin), [36 comments](https://news.ycombinator.com/item?id=47866127)
+7. [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/) (jeffgeerling.com) - 533 points by [calcifer](https://news.ycombinator.com/user?id=calcifer), [310 comments](https://news.ycombinator.com/item?id=47899053)
+8. [Simulacrum of Knowledge Work](https://blog.happyfellow.dev/simulacrum-of-knowledge-work/) (blog.happyfellow.dev) - 76 points by [thehappyfellow](https://news.ycombinator.com/user?id=thehappyfellow), [30 comments](https://news.ycombinator.com/item?id=47902987)
+9. [Mine, an IDE for Coalton and Common Lisp](https://coalton-lang.github.io/mine/) (coalton-lang.github.io) - 55 points by [varjag](https://news.ycombinator.com/user?id=varjag), [11 comments](https://news.ycombinator.com/item?id=47903173)
+10. [How Hard Is It to Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/) (blog.sebastianwick.net) - 41 points by [ffin](https://news.ycombinator.com/user?id=ffin), [7 comments](https://news.ycombinator.com/item?id=47884625)
 
 ## 2026-04-25
 
