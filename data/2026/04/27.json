@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47914165,
+    "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
+    "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "score": 261,
+    "by": "ca98am79",
+    "descendants": 131,
+    "time": 1777236066
+  },
+  {
+    "rank": 2,
+    "id": 47913855,
+    "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+    "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "score": 115,
+    "by": "dd23",
+    "descendants": 34,
+    "time": 1777234717
+  },
+  {
+    "rank": 3,
+    "id": 47914350,
+    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "score": 197,
+    "by": "berkeleyjunk",
+    "descendants": 130,
+    "time": 1777236990
+  },
+  {
+    "rank": 4,
+    "id": 47914438,
+    "title": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
+    "url": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
+    "score": 47,
+    "by": "canucker2016",
+    "descendants": 34,
+    "time": 1777237479
+  },
+  {
+    "rank": 5,
+    "id": 47878231,
+    "title": "Box to Save Memory in Rust",
+    "url": "https://dystroy.org/blog/box-to-save-memory/",
+    "score": 28,
+    "by": "emschwartz",
+    "descendants": 4,
+    "time": 1776963744
+  },
+  {
+    "rank": 6,
+    "id": 47914677,
+    "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+    "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+    "score": 89,
+    "by": "1659447091",
+    "descendants": 25,
+    "time": 1777238600
+  },
+  {
+    "rank": 7,
+    "id": 47914367,
+    "title": "Show HN: AI memory with biological decay (52% recall)",
+    "url": "https://github.com/sachitrafa/YourMemory",
+    "score": 48,
+    "by": "SachitRafa",
+    "descendants": 20,
+    "time": 1777237111
+  },
+  {
+    "rank": 8,
+    "id": 47883839,
+    "title": "Magic: The Gathering took me from N2 to Japanese fluency",
+    "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
+    "score": 70,
+    "by": "pwim",
+    "descendants": 21,
+    "time": 1776989000
+  },
+  {
+    "rank": 9,
+    "id": 47913650,
+    "title": "AI should elevate your thinking, not replace it",
+    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+    "score": 227,
+    "by": "koshyjohn",
+    "descendants": 189,
+    "time": 1777233792
+  },
+  {
+    "rank": 10,
+    "id": 47910388,
+    "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "score": 231,
+    "by": "kmdupree",
+    "descendants": 136,
+    "time": 1777211893
+  }
+]

@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | [Apr 24](#2026-04-24) | [Apr 23](#2026-04-23) | [Apr 22](#2026-04-22) | [Apr 21](#2026-04-21) | [Apr 20](#2026-04-20)
+Recent: [Apr 27](#2026-04-27) | [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | [Apr 24](#2026-04-24) | [Apr 23](#2026-04-23) | [Apr 22](#2026-04-22) | [Apr 21](#2026-04-21)
 
-### [2026](data/2026/) (116/116 days)
+### [2026](data/2026/) (117/117 days)
 
-[**April**](data/2026/04/) (26/26)
+[**April**](data/2026/04/) (27/27)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,6 +25,7 @@ Recent: [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | [Apr 24](#2026-04-24) | 
 | [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) | [**12**](#2026-04-12) |
 | [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) | [**17**](#2026-04-17) | [**18**](#2026-04-18) | [**19**](#2026-04-19) |
 | [**20**](#2026-04-20) | [**21**](#2026-04-21) | [**22**](#2026-04-22) | [**23**](#2026-04-23) | [**24**](#2026-04-24) | [**25**](#2026-04-25) | [**26**](#2026-04-26) |
+| [**27**](#2026-04-27) |  |  |  |  |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2113,6 +2114,21 @@ Recent: [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | [Apr 24](#2026-04-24) | 
 </details>
 
 ---
+
+## 2026-04-27
+
+*Monday*
+
+1. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) (ca98am79.medium.com) - 261 points by [ca98am79](https://news.ycombinator.com/user?id=ca98am79), [131 comments](https://news.ycombinator.com/item?id=47914165)
+2. [Fast16: High-precision software sabotage 5 years before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) (sentinelone.com) - 115 points by [dd23](https://news.ycombinator.com/user?id=dd23), [34 comments](https://news.ycombinator.com/item?id=47913855)
+3. [Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo) (bbc.com) - 197 points by [berkeleyjunk](https://news.ycombinator.com/user?id=berkeleyjunk), [130 comments](https://news.ycombinator.com/item?id=47914350)
+4. [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca) (news.adidas.com) - 47 points by [canucker2016](https://news.ycombinator.com/user?id=canucker2016), [34 comments](https://news.ycombinator.com/item?id=47914438)
+5. [Box to Save Memory in Rust](https://dystroy.org/blog/box-to-save-memory/) (dystroy.org) - 28 points by [emschwartz](https://news.ycombinator.com/user?id=emschwartz), [4 comments](https://news.ycombinator.com/item?id=47878231)
+6. [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/) (smithsonianmag.com) - 89 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [25 comments](https://news.ycombinator.com/item?id=47914677)
+7. [Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory) (github.com) - 48 points by [SachitRafa](https://news.ycombinator.com/user?id=SachitRafa), [20 comments](https://news.ycombinator.com/item?id=47914367)
+8. [Magic: The Gathering took me from N2 to Japanese fluency](https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency) (tokyodev.com) - 70 points by [pwim](https://news.ycombinator.com/user?id=pwim), [21 comments](https://news.ycombinator.com/item?id=47883839)
+9. [AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/) (koshyjohn.com) - 227 points by [koshyjohn](https://news.ycombinator.com/user?id=koshyjohn), [189 comments](https://news.ycombinator.com/item?id=47913650)
+10. [SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/) (openai.com) - 231 points by [kmdupree](https://news.ycombinator.com/user?id=kmdupree), [136 comments](https://news.ycombinator.com/item?id=47910388)
 
 ## 2026-04-26
 
