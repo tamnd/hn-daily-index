@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47928554,
+    "title": "New Integrated by Design FreeBSD Book",
+    "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+    "score": 26,
+    "by": "vermaden",
+    "descendants": 1,
+    "time": 1777331666
+  },
+  {
+    "rank": 2,
+    "id": 47921248,
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "score": 722,
+    "by": "helsinkiandrew",
+    "descendants": 638,
+    "time": 1777296162
+  },
+  {
+    "rank": 3,
+    "id": 47927903,
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "url": "https://talkie-lm.com/introducing-talkie",
+    "score": 28,
+    "by": "jekude",
+    "descendants": 3,
+    "time": 1777326948
+  },
+  {
+    "rank": 4,
+    "id": 47927070,
+    "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+    "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+    "score": 70,
+    "by": "gnabgib",
+    "descendants": 33,
+    "time": 1777322656
+  },
+  {
+    "rank": 5,
+    "id": 47926861,
+    "title": "Is my blue your blue?",
+    "url": "https://ismy.blue/",
+    "score": 284,
+    "by": "theogravity",
+    "descendants": 184,
+    "time": 1777321473
+  },
+  {
+    "rank": 6,
+    "id": 47924813,
+    "title": "Easyduino: Open Source PCB Devboards for KiCad",
+    "url": "https://github.com/Hanqaqa/Easyduino",
+    "score": 161,
+    "by": "Hanqaqa",
+    "descendants": 23,
+    "time": 1777311902
+  },
+  {
+    "rank": 7,
+    "id": 47903439,
+    "title": "The quiet resurgence of RF engineering",
+    "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+    "score": 117,
+    "by": "merlinq",
+    "descendants": 56,
+    "time": 1777141554
+  },
+  {
+    "rank": 8,
+    "id": 47907175,
+    "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+    "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
+    "score": 75,
+    "by": "1659447091",
+    "descendants": 9,
+    "time": 1777175563
+  },
+  {
+    "rank": 9,
+    "id": 47906942,
+    "title": "Meetings Are Forcing Functions",
+    "url": "https://www.mooreds.com/wordpress/archives/3734",
+    "score": 13,
+    "by": "zdw",
+    "descendants": 1,
+    "time": 1777173124
+  },
+  {
+    "rank": 10,
+    "id": 47919630,
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "url": "https://app.oravys.com/blog/mercor-breach-2026",
+    "score": 428,
+    "by": "Oravys",
+    "descendants": 157,
+    "time": 1777283830
+  }
+]

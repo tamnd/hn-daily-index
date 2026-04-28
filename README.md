@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 27](#2026-04-27) | [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | [Apr 24](#2026-04-24) | [Apr 23](#2026-04-23) | [Apr 22](#2026-04-22) | [Apr 21](#2026-04-21)
+Recent: [Apr 28](#2026-04-28) | [Apr 27](#2026-04-27) | [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | [Apr 24](#2026-04-24) | [Apr 23](#2026-04-23) | [Apr 22](#2026-04-22)
 
-### [2026](data/2026/) (117/117 days)
+### [2026](data/2026/) (118/118 days)
 
-[**April**](data/2026/04/) (27/27)
+[**April**](data/2026/04/) (28/28)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Apr 27](#2026-04-27) | [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | 
 | [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) | [**12**](#2026-04-12) |
 | [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) | [**17**](#2026-04-17) | [**18**](#2026-04-18) | [**19**](#2026-04-19) |
 | [**20**](#2026-04-20) | [**21**](#2026-04-21) | [**22**](#2026-04-22) | [**23**](#2026-04-23) | [**24**](#2026-04-24) | [**25**](#2026-04-25) | [**26**](#2026-04-26) |
-| [**27**](#2026-04-27) |  |  |  |  |  |  |
+| [**27**](#2026-04-27) | [**28**](#2026-04-28) |  |  |  |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2114,6 +2114,21 @@ Recent: [Apr 27](#2026-04-27) | [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | 
 </details>
 
 ---
+
+## 2026-04-28
+
+*Tuesday*
+
+1. [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch) (vivianvoss.net) - 26 points by [vermaden](https://news.ycombinator.com/user?id=vermaden), [1 comments](https://news.ycombinator.com/item?id=47928554)
+2. [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) (bloomberg.com) - 722 points by [helsinkiandrew](https://news.ycombinator.com/user?id=helsinkiandrew), [638 comments](https://news.ycombinator.com/item?id=47921248)
+3. [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) (talkie-lm.com) - 28 points by [jekude](https://news.ycombinator.com/user?id=jekude), [3 comments](https://news.ycombinator.com/item?id=47927903)
+4. [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/) (tps.ca) - 70 points by [gnabgib](https://news.ycombinator.com/user?id=gnabgib), [33 comments](https://news.ycombinator.com/item?id=47927070)
+5. [Is my blue your blue?](https://ismy.blue/) (ismy.blue) - 284 points by [theogravity](https://news.ycombinator.com/user?id=theogravity), [184 comments](https://news.ycombinator.com/item?id=47926861)
+6. [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino) (github.com) - 161 points by [Hanqaqa](https://news.ycombinator.com/user?id=Hanqaqa), [23 comments](https://news.ycombinator.com/item?id=47924813)
+7. [The quiet resurgence of RF engineering](https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/) (atempleton.bearblog.dev) - 117 points by [merlinq](https://news.ycombinator.com/user?id=merlinq), [56 comments](https://news.ycombinator.com/item?id=47903439)
+8. [Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar](https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar) (theguardian.com) - 75 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [9 comments](https://news.ycombinator.com/item?id=47907175)
+9. [Meetings Are Forcing Functions](https://www.mooreds.com/wordpress/archives/3734) (mooreds.com) - 13 points by [zdw](https://news.ycombinator.com/user?id=zdw), [1 comments](https://news.ycombinator.com/item?id=47906942)
+10. [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026) (app.oravys.com) - 428 points by [Oravys](https://news.ycombinator.com/user?id=Oravys), [157 comments](https://news.ycombinator.com/item?id=47919630)
 
 ## 2026-04-27
 
