@@ -2,12 +2,27 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [April](04/) (28 days)
+- [April](04/) (29 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-04-29
+
+*Wednesday*
+
+1. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) (mitchellh.com) - 1.5k points by [WadeGrimridge](https://news.ycombinator.com/user?id=WadeGrimridge), [457 comments](https://news.ycombinator.com/item?id=47939579)
+2. [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) (lucumr.pocoo.org) - 211 points by [mlex](https://news.ycombinator.com/user?id=mlex), [53 comments](https://news.ycombinator.com/item?id=47940921)
+3. [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html) (dustri.org) - 68 points by [bo0tzz](https://news.ycombinator.com/user?id=bo0tzz), [14 comments](https://news.ycombinator.com/item?id=47941590)
+4. [ChatGPT serves ads. Here's the full attribution loop](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) (buchodi.com) - 12 points by [lmbbuchodi](https://news.ycombinator.com/user?id=lmbbuchodi), [2 comments](https://news.ycombinator.com/item?id=47942437)
+5. [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) (stratechery.com) - 163 points by [translocator](https://news.ycombinator.com/user?id=translocator), [61 comments](https://news.ycombinator.com/item?id=47939320)
+6. [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/) (ron.stoner.com) - 65 points by [SEJeff](https://news.ycombinator.com/user?id=SEJeff), [45 comments](https://news.ycombinator.com/item?id=47940389)
+7. [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/) (pugetsystems.com) - 91 points by [zdw](https://news.ycombinator.com/user?id=zdw), [56 comments](https://news.ycombinator.com/item?id=47885644)
+8. [Behavioral timescale synaptic plasticity rewires the brain after an experience](https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/) (quantamagazine.org) - 46 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [0 comments](https://news.ycombinator.com/item?id=47921610)
+9. [CJIT: C, Just in Time](https://dyne.org/cjit/) (dyne.org) - 80 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [22 comments](https://news.ycombinator.com/item?id=47939105)
+10. [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854) (wiz.io) - 224 points by [bo0tzz](https://news.ycombinator.com/user?id=bo0tzz), [56 comments](https://news.ycombinator.com/item?id=47936479)
 
 ## 2026-04-28
 
