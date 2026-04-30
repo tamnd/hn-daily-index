@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47949027,
+    "title": "Zed 1.0",
+    "url": "https://zed.dev/blog/zed-1-0",
+    "score": 1462,
+    "by": "salkahfi",
+    "descendants": 463,
+    "time": 1777473259
+  },
+  {
+    "rank": 2,
+    "id": 47952181,
+    "title": "Copy Fail \u2013 CVE-2026-31431",
+    "url": "https://copy.fail/",
+    "score": 483,
+    "by": "unsnap_biceps",
+    "descendants": 224,
+    "time": 1777486433
+  },
+  {
+    "rank": 3,
+    "id": 47955297,
+    "title": "Germany has become the largest ammunition producer in the world",
+    "url": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+    "score": 101,
+    "by": "doener",
+    "descendants": 63,
+    "time": 1777499926
+  },
+  {
+    "rank": 4,
+    "id": 47952722,
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "url": "https://github.com/anthropics/claude-code/issues/53262",
+    "score": 944,
+    "by": "homebrewer",
+    "descendants": 386,
+    "time": 1777488871
+  },
+  {
+    "rank": 5,
+    "id": 47953541,
+    "title": "OpenTrafficMap",
+    "url": "https://opentrafficmap.org/",
+    "score": 126,
+    "by": "moooo99",
+    "descendants": 26,
+    "time": 1777492170
+  },
+  {
+    "rank": 6,
+    "id": 47949939,
+    "title": "Cursor Camp",
+    "url": "https://neal.fun/cursor-camp/",
+    "score": 537,
+    "by": "bpierre",
+    "descendants": 98,
+    "time": 1777477183
+  },
+  {
+    "rank": 7,
+    "id": 47950510,
+    "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+    "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+    "score": 224,
+    "by": "agwa",
+    "descendants": 52,
+    "time": 1777479399
+  },
+  {
+    "rank": 8,
+    "id": 47945707,
+    "title": "Why I still reach for Lisp and Scheme instead of Haskell",
+    "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
+    "score": 153,
+    "by": "jjba23",
+    "descendants": 43,
+    "time": 1777452197
+  },
+  {
+    "rank": 9,
+    "id": 47933359,
+    "title": "DRAM Crunch: Lessons for System Design",
+    "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
+    "score": 17,
+    "by": "giuliomagnifico",
+    "descendants": 0,
+    "time": 1777378075
+  },
+  {
+    "rank": 10,
+    "id": 47955655,
+    "title": "> Be Alexandra Elbakyan",
+    "url": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
+    "score": 26,
+    "by": "DanielleMolloy",
+    "descendants": 2,
+    "time": 1777502374
+  }
+]

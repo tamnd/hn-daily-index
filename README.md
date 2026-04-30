@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Apr 29](#2026-04-29) | [Apr 28](#2026-04-28) | [Apr 27](#2026-04-27) | [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | [Apr 24](#2026-04-24) | [Apr 23](#2026-04-23)
+Recent: [Apr 30](#2026-04-30) | [Apr 29](#2026-04-29) | [Apr 28](#2026-04-28) | [Apr 27](#2026-04-27) | [Apr 26](#2026-04-26) | [Apr 25](#2026-04-25) | [Apr 24](#2026-04-24)
 
-### [2026](data/2026/) (119/119 days)
+### [2026](data/2026/) (120/120 days)
 
-[**April**](data/2026/04/) (29/29)
+[**April**](data/2026/04/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Apr 29](#2026-04-29) | [Apr 28](#2026-04-28) | [Apr 27](#2026-04-27) | 
 | [**6**](#2026-04-06) | [**7**](#2026-04-07) | [**8**](#2026-04-08) | [**9**](#2026-04-09) | [**10**](#2026-04-10) | [**11**](#2026-04-11) | [**12**](#2026-04-12) |
 | [**13**](#2026-04-13) | [**14**](#2026-04-14) | [**15**](#2026-04-15) | [**16**](#2026-04-16) | [**17**](#2026-04-17) | [**18**](#2026-04-18) | [**19**](#2026-04-19) |
 | [**20**](#2026-04-20) | [**21**](#2026-04-21) | [**22**](#2026-04-22) | [**23**](#2026-04-23) | [**24**](#2026-04-24) | [**25**](#2026-04-25) | [**26**](#2026-04-26) |
-| [**27**](#2026-04-27) | [**28**](#2026-04-28) | [**29**](#2026-04-29) |  |  |  |  |
+| [**27**](#2026-04-27) | [**28**](#2026-04-28) | [**29**](#2026-04-29) | [**30**](#2026-04-30) |  |  |  |
 
 [**March**](data/2026/03/) (31/31)
 
@@ -2114,6 +2114,21 @@ Recent: [Apr 29](#2026-04-29) | [Apr 28](#2026-04-28) | [Apr 27](#2026-04-27) | 
 </details>
 
 ---
+
+## 2026-04-30
+
+*Thursday*
+
+1. [Zed 1.0](https://zed.dev/blog/zed-1-0) (zed.dev) - 1.5k points by [salkahfi](https://news.ycombinator.com/user?id=salkahfi), [463 comments](https://news.ycombinator.com/item?id=47949027)
+2. [Copy Fail – CVE-2026-31431](https://copy.fail/) (copy.fail) - 483 points by [unsnap_biceps](https://news.ycombinator.com/user?id=unsnap_biceps), [224 comments](https://news.ycombinator.com/item?id=47952181)
+3. [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/) (prm.ua) - 101 points by [doener](https://news.ycombinator.com/user?id=doener), [63 comments](https://news.ycombinator.com/item?id=47955297)
+4. [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262) (github.com) - 944 points by [homebrewer](https://news.ycombinator.com/user?id=homebrewer), [386 comments](https://news.ycombinator.com/item?id=47952722)
+5. [OpenTrafficMap](https://opentrafficmap.org/) (opentrafficmap.org) - 126 points by [moooo99](https://news.ycombinator.com/user?id=moooo99), [26 comments](https://news.ycombinator.com/item?id=47953541)
+6. [Cursor Camp](https://neal.fun/cursor-camp/) (neal.fun) - 537 points by [bpierre](https://news.ycombinator.com/user?id=bpierre), [98 comments](https://news.ycombinator.com/item?id=47949939)
+7. [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies) (agwa.name) - 224 points by [agwa](https://news.ycombinator.com/user?id=agwa), [52 comments](https://news.ycombinator.com/item?id=47950510)
+8. [Why I still reach for Lisp and Scheme instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html) (jointhefreeworld.org) - 153 points by [jjba23](https://news.ycombinator.com/user?id=jjba23), [43 comments](https://news.ycombinator.com/item?id=47945707)
+9. [DRAM Crunch: Lessons for System Design](https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/) (eetimes.com) - 17 points by [giuliomagnifico](https://news.ycombinator.com/user?id=giuliomagnifico), [0 comments](https://news.ycombinator.com/item?id=47933359)
+10. [> Be Alexandra Elbakyan](https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m) (nitter.space) - 26 points by [DanielleMolloy](https://news.ycombinator.com/user?id=DanielleMolloy), [2 comments](https://news.ycombinator.com/item?id=47955655)
 
 ## 2026-04-29
 
