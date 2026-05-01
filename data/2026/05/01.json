@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47967786,
+    "title": "Rivian allows you to disable all internet connectivity",
+    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "score": 392,
+    "by": "Cider9986",
+    "descendants": 154,
+    "time": 1777580842
+  },
+  {
+    "rank": 2,
+    "id": 47967262,
+    "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+    "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+    "score": 364,
+    "by": "un-nf",
+    "descendants": 155,
+    "time": 1777578020
+  },
+  {
+    "rank": 3,
+    "id": 47965060,
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "score": 396,
+    "by": "the-mitr",
+    "descendants": 117,
+    "time": 1777567260
+  },
+  {
+    "rank": 4,
+    "id": 47951295,
+    "title": "Opus 4.7 knows the real Kelsey",
+    "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+    "score": 104,
+    "by": "ilamont",
+    "descendants": 49,
+    "time": 1777482543
+  },
+  {
+    "rank": 5,
+    "id": 47965108,
+    "title": "CopyFail was not disclosed to distro developers?",
+    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "score": 334,
+    "by": "ori_b",
+    "descendants": 273,
+    "time": 1777567427
+  },
+  {
+    "rank": 6,
+    "id": 47964617,
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "score": 309,
+    "by": "j12y",
+    "descendants": 100,
+    "time": 1777565366
+  },
+  {
+    "rank": 7,
+    "id": 47965503,
+    "title": "I built a Game Boy emulator in F#",
+    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "score": 191,
+    "by": "elvis70",
+    "descendants": 47,
+    "time": 1777569261
+  },
+  {
+    "rank": 8,
+    "id": 47963204,
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "url": "https://twitter.com/theo/status/2049645973350363168",
+    "score": 906,
+    "by": "elmean",
+    "descendants": 513,
+    "time": 1777559818
+  },
+  {
+    "rank": 9,
+    "id": 47968112,
+    "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
+    "url": "https://pu.dev/",
+    "score": 60,
+    "by": "nahimn",
+    "descendants": 17,
+    "time": 1777582512
+  },
+  {
+    "rank": 10,
+    "id": 47962548,
+    "title": "How an oil refinery works",
+    "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+    "score": 300,
+    "by": "chmaynard",
+    "descendants": 91,
+    "time": 1777557260
+  }
+]
