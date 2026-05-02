@@ -2,13 +2,28 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [May](05/) (1 days)
+- [May](05/) (2 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-05-02
+
+*Saturday*
+
+1. [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) (education.ti.com) - 216 points by [thatxliner](https://news.ycombinator.com/user?id=thatxliner), [235 comments](https://news.ycombinator.com/item?id=47979583)
+2. [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) (newyorker.com) - 203 points by [XzetaU8](https://news.ycombinator.com/user?id=XzetaU8), [112 comments](https://news.ycombinator.com/item?id=47977748)
+3. [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered) (worksinprogress.news) - 63 points by [dionysou](https://news.ycombinator.com/user?id=dionysou), [24 comments](https://news.ycombinator.com/item?id=47950070)
+4. [Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/) (wired.com) - 71 points by [zdw](https://news.ycombinator.com/user?id=zdw), [85 comments](https://news.ycombinator.com/item?id=47955789)
+5. [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) - 215 points by [whoishiring](https://news.ycombinator.com/user?id=whoishiring), [242 comments](https://news.ycombinator.com/item?id=47975571)
+6. [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc) (github.com) - 51 points by [wooster](https://news.ycombinator.com/user?id=wooster), [17 comments](https://news.ycombinator.com/item?id=47978834)
+7. [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction) (courses.joshwcomeau.com) - 53 points by [SpyCoder77](https://news.ycombinator.com/user?id=SpyCoder77), [7 comments](https://news.ycombinator.com/item?id=47979190)
+8. [Whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) (github.com) - 121 points by [peter_d_sherman](https://news.ycombinator.com/user?id=peter_d_sherman), [27 comments](https://news.ycombinator.com/item?id=47975592)
+9. [SpaceX rocket set for unintentional moon landing – well, a piece of it anyway](https://www.theregister.com/2026/05/01/spacex_debris_landing/) (theregister.com) - 39 points by [beardyw](https://news.ycombinator.com/user?id=beardyw), [21 comments](https://news.ycombinator.com/item?id=47973547)
+10. [Credit cards are vulnerable to brute force kind attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html) (metin.nextc.org) - 176 points by [kodbraker](https://news.ycombinator.com/user?id=kodbraker), [146 comments](https://news.ycombinator.com/item?id=47979839)
 
 ## 2026-05-01
 

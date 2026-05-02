@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47979583,
+    "title": "Ti-84 Evo",
+    "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+    "score": 216,
+    "by": "thatxliner",
+    "descendants": 235,
+    "time": 1777666019
+  },
+  {
+    "rank": 2,
+    "id": 47977748,
+    "title": "New research suggests people can communicate and practice skills while dreaming",
+    "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+    "score": 203,
+    "by": "XzetaU8",
+    "descendants": 112,
+    "time": 1777657662
+  },
+  {
+    "rank": 3,
+    "id": 47950070,
+    "title": "The smelly baby problem",
+    "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+    "score": 63,
+    "by": "dionysou",
+    "descendants": 24,
+    "time": 1777477698
+  },
+  {
+    "rank": 4,
+    "id": 47955789,
+    "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
+    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "score": 71,
+    "by": "zdw",
+    "descendants": 85,
+    "time": 1777503370
+  },
+  {
+    "rank": 5,
+    "id": 47975571,
+    "title": "Ask HN: Who is hiring? (May 2026)",
+    "url": "",
+    "score": 215,
+    "by": "whoishiring",
+    "descendants": 242,
+    "time": 1777647607
+  },
+  {
+    "rank": 6,
+    "id": 47978834,
+    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+    "url": "https://github.com/microsoft/lib0xc",
+    "score": 51,
+    "by": "wooster",
+    "descendants": 17,
+    "time": 1777662656
+  },
+  {
+    "rank": 7,
+    "id": 47979190,
+    "title": "Whimsical Animations Course Open House",
+    "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+    "score": 53,
+    "by": "SpyCoder77",
+    "descendants": 7,
+    "time": 1777664139
+  },
+  {
+    "rank": 8,
+    "id": 47975592,
+    "title": "Whohas \u2013 Command-line utility for cross-distro, cross-repository package search",
+    "url": "https://github.com/whohas/whohas",
+    "score": 121,
+    "by": "peter_d_sherman",
+    "descendants": 27,
+    "time": 1777647668
+  },
+  {
+    "rank": 9,
+    "id": 47973547,
+    "title": "SpaceX rocket set for unintentional moon landing \u2013 well, a piece of it anyway",
+    "url": "https://www.theregister.com/2026/05/01/spacex_debris_landing/",
+    "score": 39,
+    "by": "beardyw",
+    "descendants": 21,
+    "time": 1777635112
+  },
+  {
+    "rank": 10,
+    "id": 47979839,
+    "title": "Credit cards are vulnerable to brute force kind attacks",
+    "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
+    "score": 176,
+    "by": "kodbraker",
+    "descendants": 146,
+    "time": 1777667184
+  }
+]
