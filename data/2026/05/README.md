@@ -2,10 +2,26 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-03 (Sunday)](#2026-05-03)
 - [2026-05-02 (Saturday)](#2026-05-02)
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-03
+
+*Sunday*
+
+1. [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) (github.com) - 587 points by [indrora](https://news.ycombinator.com/user?id=indrora), [259 comments](https://news.ycombinator.com/item?id=47989883)
+2. [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) (david-smith.org) - 118 points by [valzevul](https://news.ycombinator.com/user?id=valzevul), [23 comments](https://news.ycombinator.com/item?id=47990606)
+3. [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/) (ladybird.org) - 109 points by [richardboegli](https://news.ycombinator.com/user?id=richardboegli), [16 comments](https://news.ycombinator.com/item?id=47990318)
+4. [Dav2d](https://code.videolan.org/videolan/dav2d) (code.videolan.org) - 304 points by [dabinat](https://news.ycombinator.com/user?id=dabinat), [99 comments](https://news.ycombinator.com/item?id=47988504)
+5. [Neanderthals ran 'fat factories' 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago) (universiteitleiden.nl) - 78 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [16 comments](https://news.ycombinator.com/item?id=47990284)
+6. [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox) (mendral.com) - 51 points by [shad42](https://news.ycombinator.com/user?id=shad42), [35 comments](https://news.ycombinator.com/item?id=47990675)
+7. [Do_not_track](https://donottrack.sh/) (donottrack.sh) - 175 points by [RubyGuy](https://news.ycombinator.com/user?id=RubyGuy), [59 comments](https://news.ycombinator.com/item?id=47988592)
+8. [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/) (clojuriststogether.org) - 23 points by [dragandj](https://news.ycombinator.com/user?id=dragandj), [5 comments](https://news.ycombinator.com/item?id=47990789)
+9. [Inventions for battery reuse and recycling increase seven-fold in last decade](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade) (epo.org) - 142 points by [JeanKage](https://news.ycombinator.com/user?id=JeanKage), [6 comments](https://news.ycombinator.com/item?id=47960015)
+10. [Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/) (electrek.co) - 64 points by [breve](https://news.ycombinator.com/user?id=breve), [12 comments](https://news.ycombinator.com/item?id=47991350)
 
 ## 2026-05-02
 

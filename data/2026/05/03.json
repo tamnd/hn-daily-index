@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 47989883,
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "url": "https://github.com/microsoft/vscode/pull/310226",
+    "score": 587,
+    "by": "indrora",
+    "descendants": 259,
+    "time": 1777751846
+  },
+  {
+    "rank": 2,
+    "id": 47990606,
+    "title": "Six Years Perfecting Maps on WatchOS",
+    "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+    "score": 118,
+    "by": "valzevul",
+    "descendants": 23,
+    "time": 1777756469
+  },
+  {
+    "rank": 3,
+    "id": 47990318,
+    "title": "This Month in Ladybird - April 2026",
+    "url": "https://ladybird.org/newsletter/2026-04-30/",
+    "score": 109,
+    "by": "richardboegli",
+    "descendants": 16,
+    "time": 1777754790
+  },
+  {
+    "rank": 4,
+    "id": 47988504,
+    "title": "Dav2d",
+    "url": "https://code.videolan.org/videolan/dav2d",
+    "score": 304,
+    "by": "dabinat",
+    "descendants": 99,
+    "time": 1777743149
+  },
+  {
+    "rank": 5,
+    "id": 47990284,
+    "title": "Neanderthals ran 'fat factories' 125,000 years ago",
+    "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+    "score": 78,
+    "by": "andsoitis",
+    "descendants": 16,
+    "time": 1777754540
+  },
+  {
+    "rank": 6,
+    "id": 47990675,
+    "title": "The agent harness belongs outside the sandbox",
+    "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "score": 51,
+    "by": "shad42",
+    "descendants": 35,
+    "time": 1777756887
+  },
+  {
+    "rank": 7,
+    "id": 47988592,
+    "title": "Do_not_track",
+    "url": "https://donottrack.sh/",
+    "score": 175,
+    "by": "RubyGuy",
+    "descendants": 59,
+    "time": 1777743655
+  },
+  {
+    "rank": 8,
+    "id": 47990789,
+    "title": "Clojurists Together \u2013 Q2 2026 Open Source Funding Announcement",
+    "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+    "score": 23,
+    "by": "dragandj",
+    "descendants": 5,
+    "time": 1777757689
+  },
+  {
+    "rank": 9,
+    "id": 47960015,
+    "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+    "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+    "score": 142,
+    "by": "JeanKage",
+    "descendants": 6,
+    "time": 1777540343
+  },
+  {
+    "rank": 10,
+    "id": 47991350,
+    "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+    "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+    "score": 64,
+    "by": "breve",
+    "descendants": 12,
+    "time": 1777761923
+  }
+]
