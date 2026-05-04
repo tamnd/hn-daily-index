@@ -2,11 +2,27 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-04 (Monday)](#2026-05-04)
 - [2026-05-03 (Sunday)](#2026-05-03)
 - [2026-05-02 (Saturday)](#2026-05-02)
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-04
+
+*Monday*
+
+1. [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions) (jdgr.net) - 32 points by [jdgr](https://news.ycombinator.com/user?id=jdgr), [7 comments](https://news.ycombinator.com/item?id=48002607)
+2. [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135) (partyon.xyz) - 225 points by [nullagent](https://news.ycombinator.com/user?id=nullagent), [75 comments](https://news.ycombinator.com/item?id=47999636)
+3. [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude) (github.com) - 105 points by [alattaran](https://news.ycombinator.com/user?id=alattaran), [44 comments](https://news.ycombinator.com/item?id=48002136)
+4. [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) (katherinemichel.github.io) - 173 points by [KatiMichel](https://news.ycombinator.com/user?id=KatiMichel), [50 comments](https://news.ycombinator.com/item?id=47998946)
+5. [US–Indian space mission maps extreme subsidence in Mexico City](https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html) (phys.org) - 74 points by [leopoldj](https://news.ycombinator.com/user?id=leopoldj), [38 comments](https://news.ycombinator.com/item?id=47974682)
+6. [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html) (isene.org) - 219 points by [xngbuilds](https://news.ycombinator.com/user?id=xngbuilds), [83 comments](https://news.ycombinator.com/item?id=47997947)
+7. [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html) (validator.w3.org) - 17 points by [susam](https://news.ycombinator.com/user?id=susam), [4 comments](https://news.ycombinator.com/item?id=48002089)
+8. [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap) (larsfaye.com) - 13 points by [ayoisaiah](https://news.ycombinator.com/user?id=ayoisaiah), [4 comments](https://news.ycombinator.com/item?id=48002442)
+9. [OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) (theguardian.com) - 252 points by [donsupreme](https://news.ycombinator.com/user?id=donsupreme), [208 comments](https://news.ycombinator.com/item?id=47991981)
+10. [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/) (smithsonianmag.com) - 242 points by [dryadin](https://news.ycombinator.com/user?id=dryadin), [242 comments](https://news.ycombinator.com/item?id=48000152)
 
 ## 2026-05-03
 

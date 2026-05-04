@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48002607,
+    "title": "The 'Hidden' Costs of Great Abstractions",
+    "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+    "score": 32,
+    "by": "jdgr",
+    "descendants": 7,
+    "time": 1777849922
+  },
+  {
+    "rank": 2,
+    "id": 47999636,
+    "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
+    "url": "https://partyon.xyz/@nullagent/116499715071759135",
+    "score": 225,
+    "by": "nullagent",
+    "descendants": 75,
+    "time": 1777831394
+  },
+  {
+    "rank": 3,
+    "id": 48002136,
+    "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+    "url": "https://github.com/aattaran/deepclaude",
+    "score": 105,
+    "by": "alattaran",
+    "descendants": 44,
+    "time": 1777846400
+  },
+  {
+    "rank": 4,
+    "id": 47998946,
+    "title": "Southwest Headquarters Tour",
+    "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+    "score": 173,
+    "by": "KatiMichel",
+    "descendants": 50,
+    "time": 1777827733
+  },
+  {
+    "rank": 5,
+    "id": 47974682,
+    "title": "US\u2013Indian space mission maps extreme subsidence in Mexico City",
+    "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+    "score": 74,
+    "by": "leopoldj",
+    "descendants": 38,
+    "time": 1777642707
+  },
+  {
+    "rank": 6,
+    "id": 47997947,
+    "title": "A desktop made for one",
+    "url": "https://isene.org/2026/05/Audience-of-One.html",
+    "score": 219,
+    "by": "xngbuilds",
+    "descendants": 83,
+    "time": 1777822325
+  },
+  {
+    "rank": 7,
+    "id": 48002089,
+    "title": "Introduction to Atom",
+    "url": "https://validator.w3.org/feed/docs/atom.html",
+    "score": 17,
+    "by": "susam",
+    "descendants": 4,
+    "time": 1777846127
+  },
+  {
+    "rank": 8,
+    "id": 48002442,
+    "title": "Agentic Coding Is a Trap",
+    "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+    "score": 13,
+    "by": "ayoisaiah",
+    "descendants": 4,
+    "time": 1777848727
+  },
+  {
+    "rank": 9,
+    "id": 47991981,
+    "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+    "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+    "score": 252,
+    "by": "donsupreme",
+    "descendants": 208,
+    "time": 1777768250
+  },
+  {
+    "rank": 10,
+    "id": 48000152,
+    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+    "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+    "score": 242,
+    "by": "dryadin",
+    "descendants": 242,
+    "time": 1777834468
+  }
+]
