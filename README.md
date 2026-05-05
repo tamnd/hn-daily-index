@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 04](#2026-05-04) | [May 03](#2026-05-03) | [May 02](#2026-05-02) | [May 01](#2026-05-01) | [Apr 30](#2026-04-30) | [Apr 29](#2026-04-29) | [Apr 28](#2026-04-28)
+Recent: [May 05](#2026-05-05) | [May 04](#2026-05-04) | [May 03](#2026-05-03) | [May 02](#2026-05-02) | [May 01](#2026-05-01) | [Apr 30](#2026-04-30) | [Apr 29](#2026-04-29)
 
-### [2026](data/2026/) (124/124 days)
+### [2026](data/2026/) (125/125 days)
 
-[**May**](data/2026/05/) (4/4)
+[**May**](data/2026/05/) (5/5)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
-| [**4**](#2026-05-04) |  |  |  |  |  |  |
+| [**4**](#2026-05-04) | [**5**](#2026-05-05) |  |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2121,6 +2121,21 @@ Recent: [May 04](#2026-05-04) | [May 03](#2026-05-03) | [May 02](#2026-05-02) | 
 </details>
 
 ---
+
+## 2026-05-05
+
+*Tuesday*
+
+1. [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) (openai.com) - 230 points by [Sean-Der](https://news.ycombinator.com/user?id=Sean-Der), [89 comments](https://news.ycombinator.com/item?id=48013919)
+2. [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/) (wwj.dev) - 377 points by [remote-dev](https://news.ycombinator.com/user?id=remote-dev), [255 comments](https://news.ycombinator.com/item?id=48011184)
+3. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/) (thienantran.com) - 1.1k points by [thitran](https://news.ycombinator.com/user?id=thitran), [515 comments](https://news.ycombinator.com/item?id=48007438)
+4. [Pulitzer Prize Winners 2026](https://www.pulitzer.org/prize-winners-by-year/2026) (pulitzer.org) - 61 points by [brightbeige](https://news.ycombinator.com/user?id=brightbeige), [21 comments](https://news.ycombinator.com/item?id=48015097)
+5. [Securing a DoD contractor: Finding a multi-tenant authorization vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup) (strix.ai) - 157 points by [bearsyankees](https://news.ycombinator.com/user?id=bearsyankees), [70 comments](https://news.ycombinator.com/item?id=48012162)
+6. [Testing macOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html) (oldvcr.blogspot.com) - 41 points by [zdw](https://news.ycombinator.com/user?id=zdw), [8 comments](https://news.ycombinator.com/item?id=47998158)
+7. [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do) (bbc.co.uk) - 628 points by [n1b0m](https://news.ycombinator.com/user?id=n1b0m), [588 comments](https://news.ycombinator.com/item?id=48006402)
+8. [Agent Skills](https://addyosmani.com/blog/agent-skills/) (addyosmani.com) - 57 points by [BOOSTERHIDROGEN](https://news.ycombinator.com/user?id=BOOSTERHIDROGEN), [10 comments](https://news.ycombinator.com/item?id=48015397)
+9. [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117) (nber.org) - 188 points by [littlexsparkee](https://news.ycombinator.com/user?id=littlexsparkee), [182 comments](https://news.ycombinator.com/item?id=48009983)
+10. [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story) (stripe.dev) - 104 points by [r00k](https://news.ycombinator.com/user?id=r00k), [56 comments](https://news.ycombinator.com/item?id=48014325)
 
 ## 2026-05-04
 
