@@ -2,13 +2,28 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [May](05/) (5 days)
+- [May](05/) (6 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-05-06
+
+*Wednesday*
+
+1. [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de) (dnssec-analyzer.verisignlabs.com) - 495 points by [warpspin](https://news.ycombinator.com/user?id=warpspin), [219 comments](https://news.ycombinator.com/item?id=48027897)
+2. [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) (blog.google) - 418 points by [amrrs](https://news.ycombinator.com/user?id=amrrs), [189 comments](https://news.ycombinator.com/item?id=48024540)
+3. [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/) (reflex.dev) - 289 points by [palashawas](https://news.ycombinator.com/user?id=palashawas), [146 comments](https://news.ycombinator.com/item?id=48024859)
+4. [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026) (nonogra.ph) - 101 points by [nohell](https://news.ycombinator.com/user?id=nohell), [69 comments](https://news.ycombinator.com/item?id=48028842)
+5. [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html) (susam.net) - 338 points by [blenderob](https://news.ycombinator.com/user?id=blenderob), [241 comments](https://news.ycombinator.com/item?id=48023861)
+6. [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI) (youtube.com) - 205 points by [brudgers](https://news.ycombinator.com/user?id=brudgers), [49 comments](https://news.ycombinator.com/item?id=48024129)
+7. [NPR finds "no sign" of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market) (npr.org) - 132 points by [ilamont](https://news.ycombinator.com/user?id=ilamont), [59 comments](https://news.ycombinator.com/item?id=48029114)
+8. [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/) (paletteinspiration.com) - 89 points by [ouli](https://news.ycombinator.com/user?id=ouli), [36 comments](https://news.ycombinator.com/item?id=48026342)
+9. [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752) (arxiv.org) - 102 points by [gmays](https://news.ycombinator.com/user?id=gmays), [23 comments](https://news.ycombinator.com/item?id=48026021)
+10. [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32) (apnews.com) - 74 points by [jethronethro](https://news.ycombinator.com/user?id=jethronethro), [6 comments](https://news.ycombinator.com/item?id=48029334)
 
 ## 2026-05-05
 
