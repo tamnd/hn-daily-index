@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48037555,
+    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+    "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+    "score": 977,
+    "by": "haunter",
+    "descendants": 328,
+    "time": 1778082253
+  },
+  {
+    "rank": 2,
+    "id": 48038001,
+    "title": "Appearing productive in the workplace",
+    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "score": 633,
+    "by": "diebillionaires",
+    "descendants": 254,
+    "time": 1778084309
+  },
+  {
+    "rank": 3,
+    "id": 48043040,
+    "title": "DeepSeek V4 Pro at 75% off until 31 May",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "score": 16,
+    "by": "nateb2022",
+    "descendants": 1,
+    "time": 1778108645
+  },
+  {
+    "rank": 4,
+    "id": 48037128,
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "score": 352,
+    "by": "e12e",
+    "descendants": 376,
+    "time": 1778079997
+  },
+  {
+    "rank": 5,
+    "id": 48038827,
+    "title": "From Supabase to Clerk to Better Auth",
+    "url": "https://blog.val.town/better-auth",
+    "score": 189,
+    "by": "stevekrouse",
+    "descendants": 113,
+    "time": 1778087974
+  },
+  {
+    "rank": 6,
+    "id": 48039362,
+    "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+    "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+    "score": 185,
+    "by": "unforgivenpasta",
+    "descendants": 180,
+    "time": 1778090373
+  },
+  {
+    "rank": 7,
+    "id": 48006967,
+    "title": "The bottleneck was never the code",
+    "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+    "score": 485,
+    "by": "Anon84",
+    "descendants": 314,
+    "time": 1777891575
+  },
+  {
+    "rank": 8,
+    "id": 48040002,
+    "title": "Learning the Integral of a Diffusion Model",
+    "url": "https://sander.ai/2026/05/06/flow-maps.html",
+    "score": 80,
+    "by": "benanne",
+    "descendants": 17,
+    "time": 1778093187
+  },
+  {
+    "rank": 9,
+    "id": 48037724,
+    "title": "Show HN: Tilde.run \u2013 Agent sandbox with a transactional, versioned filesystem",
+    "url": "https://tilde.run/",
+    "score": 121,
+    "by": "ozkatz",
+    "descendants": 89,
+    "time": 1778083114
+  },
+  {
+    "rank": 10,
+    "id": 48042918,
+    "title": "UK businesses brace for jet fuel rationing",
+    "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
+    "score": 61,
+    "by": "OgsyedIE",
+    "descendants": 62,
+    "time": 1778107691
+  }
+]

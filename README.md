@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 06](#2026-05-06) | [May 05](#2026-05-05) | [May 04](#2026-05-04) | [May 03](#2026-05-03) | [May 02](#2026-05-02) | [May 01](#2026-05-01) | [Apr 30](#2026-04-30)
+Recent: [May 07](#2026-05-07) | [May 06](#2026-05-06) | [May 05](#2026-05-05) | [May 04](#2026-05-04) | [May 03](#2026-05-03) | [May 02](#2026-05-02) | [May 01](#2026-05-01)
 
-### [2026](data/2026/) (126/126 days)
+### [2026](data/2026/) (127/127 days)
 
-[**May**](data/2026/05/) (6/6)
+[**May**](data/2026/05/) (7/7)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
-| [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) |  |  |  |  |
+| [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2121,6 +2121,21 @@ Recent: [May 06](#2026-05-06) | [May 05](#2026-05-05) | [May 04](#2026-05-04) | 
 </details>
 
 ---
+
+## 2026-05-07
+
+*Thursday*
+
+1. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) (digitalfoundry.net) - 977 points by [haunter](https://news.ycombinator.com/user?id=haunter), [328 comments](https://news.ycombinator.com/item?id=48037555)
+2. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) (nooneshappy.com) - 633 points by [diebillionaires](https://news.ycombinator.com/user?id=diebillionaires), [254 comments](https://news.ycombinator.com/item?id=48038001)
+3. [DeepSeek V4 Pro at 75% off until 31 May](https://api-docs.deepseek.com/quick_start/pricing) (api-docs.deepseek.com) - 16 points by [nateb2022](https://news.ycombinator.com/user?id=nateb2022), [1 comments](https://news.ycombinator.com/item?id=48043040)
+4. [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/) (simonwillison.net) - 352 points by [e12e](https://news.ycombinator.com/user?id=e12e), [376 comments](https://news.ycombinator.com/item?id=48037128)
+5. [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth) (blog.val.town) - 189 points by [stevekrouse](https://news.ycombinator.com/user?id=stevekrouse), [113 comments](https://news.ycombinator.com/item?id=48038827)
+6. [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/) (cloud.google.com) - 185 points by [unforgivenpasta](https://news.ycombinator.com/user?id=unforgivenpasta), [180 comments](https://news.ycombinator.com/item?id=48039362)
+7. [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents) (thetypicalset.com) - 485 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [314 comments](https://news.ycombinator.com/item?id=48006967)
+8. [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html) (sander.ai) - 80 points by [benanne](https://news.ycombinator.com/user?id=benanne), [17 comments](https://news.ycombinator.com/item?id=48040002)
+9. [Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem](https://tilde.run/) (tilde.run) - 121 points by [ozkatz](https://news.ycombinator.com/user?id=ozkatz), [89 comments](https://news.ycombinator.com/item?id=48037724)
+10. [UK businesses brace for jet fuel rationing](https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/) (bmmagazine.co.uk) - 61 points by [OgsyedIE](https://news.ycombinator.com/user?id=OgsyedIE), [62 comments](https://news.ycombinator.com/item?id=48042918)
 
 ## 2026-05-06
 
