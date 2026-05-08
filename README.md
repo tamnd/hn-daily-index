@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 07](#2026-05-07) | [May 06](#2026-05-06) | [May 05](#2026-05-05) | [May 04](#2026-05-04) | [May 03](#2026-05-03) | [May 02](#2026-05-02) | [May 01](#2026-05-01)
+Recent: [May 08](#2026-05-08) | [May 07](#2026-05-07) | [May 06](#2026-05-06) | [May 05](#2026-05-05) | [May 04](#2026-05-04) | [May 03](#2026-05-03) | [May 02](#2026-05-02)
 
-### [2026](data/2026/) (127/127 days)
+### [2026](data/2026/) (128/128 days)
 
-[**May**](data/2026/05/) (7/7)
+[**May**](data/2026/05/) (8/8)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
-| [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) |  |  |  |
+| [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2121,6 +2121,21 @@ Recent: [May 07](#2026-05-07) | [May 06](#2026-05-06) | [May 05](#2026-05-05) | 
 </details>
 
 ---
+
+## 2026-05-08
+
+*Friday*
+
+1. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) (openwall.com) - 352 points by [flipped](https://news.ycombinator.com/user?id=flipped), [166 comments](https://news.ycombinator.com/item?id=48053623)
+2. [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) (theverge.com) - 92 points by [stefanpie](https://news.ycombinator.com/user?id=stefanpie), [6 comments](https://news.ycombinator.com/item?id=48055913)
+3. [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) (xeiaso.net) - 40 points by [psxuaw](https://news.ycombinator.com/user?id=psxuaw), [7 comments](https://news.ycombinator.com/item?id=48056227)
+4. [The Burning Man MOOP Map](https://www.not-ship.com/burning-man-moop/) (not-ship.com) - 512 points by [speckx](https://news.ycombinator.com/user?id=speckx), [274 comments](https://news.ycombinator.com/item?id=48049653)
+5. [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) (bsuh.bearblog.dev) - 297 points by [bsuh](https://news.ycombinator.com/user?id=bsuh), [159 comments](https://news.ycombinator.com/item?id=48051562)
+6. [Building for the Future](https://blog.cloudflare.com/building-for-the-future/) (blog.cloudflare.com) - 196 points by [PriorityLeft](https://news.ycombinator.com/user?id=PriorityLeft), [119 comments](https://news.ycombinator.com/item?id=48054423)
+7. [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) (deepmind.google) - 237 points by [berlianta](https://news.ycombinator.com/user?id=berlianta), [91 comments](https://news.ycombinator.com/item?id=48050278)
+8. [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) (anthropic.com) - 171 points by [instagraham](https://news.ycombinator.com/user?id=instagraham), [55 comments](https://news.ycombinator.com/item?id=48052537)
+9. [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain) (bcm.edu) - 8 points by [hhs](https://news.ycombinator.com/user?id=hhs), [0 comments](https://news.ycombinator.com/item?id=48056268)
+10. [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4) (github.com) - 260 points by [tamnd](https://news.ycombinator.com/user?id=tamnd), [83 comments](https://news.ycombinator.com/item?id=48050751)
 
 ## 2026-05-07
 

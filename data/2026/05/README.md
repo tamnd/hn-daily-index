@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-08 (Friday)](#2026-05-08)
 - [2026-05-07 (Thursday)](#2026-05-07)
 - [2026-05-06 (Wednesday)](#2026-05-06)
 - [2026-05-05 (Tuesday)](#2026-05-05)
@@ -11,6 +12,21 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-08
+
+*Friday*
+
+1. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) (openwall.com) - 352 points by [flipped](https://news.ycombinator.com/user?id=flipped), [166 comments](https://news.ycombinator.com/item?id=48053623)
+2. [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) (theverge.com) - 92 points by [stefanpie](https://news.ycombinator.com/user?id=stefanpie), [6 comments](https://news.ycombinator.com/item?id=48055913)
+3. [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) (xeiaso.net) - 40 points by [psxuaw](https://news.ycombinator.com/user?id=psxuaw), [7 comments](https://news.ycombinator.com/item?id=48056227)
+4. [The Burning Man MOOP Map](https://www.not-ship.com/burning-man-moop/) (not-ship.com) - 512 points by [speckx](https://news.ycombinator.com/user?id=speckx), [274 comments](https://news.ycombinator.com/item?id=48049653)
+5. [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) (bsuh.bearblog.dev) - 297 points by [bsuh](https://news.ycombinator.com/user?id=bsuh), [159 comments](https://news.ycombinator.com/item?id=48051562)
+6. [Building for the Future](https://blog.cloudflare.com/building-for-the-future/) (blog.cloudflare.com) - 196 points by [PriorityLeft](https://news.ycombinator.com/user?id=PriorityLeft), [119 comments](https://news.ycombinator.com/item?id=48054423)
+7. [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) (deepmind.google) - 237 points by [berlianta](https://news.ycombinator.com/user?id=berlianta), [91 comments](https://news.ycombinator.com/item?id=48050278)
+8. [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) (anthropic.com) - 171 points by [instagraham](https://news.ycombinator.com/user?id=instagraham), [55 comments](https://news.ycombinator.com/item?id=48052537)
+9. [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain) (bcm.edu) - 8 points by [hhs](https://news.ycombinator.com/user?id=hhs), [0 comments](https://news.ycombinator.com/item?id=48056268)
+10. [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4) (github.com) - 260 points by [tamnd](https://news.ycombinator.com/user?id=tamnd), [83 comments](https://news.ycombinator.com/item?id=48050751)
 
 ## 2026-05-07
 
