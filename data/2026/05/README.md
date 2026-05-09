@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-09 (Saturday)](#2026-05-09)
 - [2026-05-08 (Friday)](#2026-05-08)
 - [2026-05-07 (Thursday)](#2026-05-07)
 - [2026-05-06 (Wednesday)](#2026-05-06)
@@ -12,6 +13,21 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-09
+
+*Saturday*
+
+1. [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) (reclaimthenet.org) - 485 points by [anonymousiam](https://news.ycombinator.com/user?id=anonymousiam), [161 comments](https://news.ycombinator.com/item?id=48067119)
+2. [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) (ze3tar.github.io) - 113 points by [MrBruh](https://news.ycombinator.com/user?id=MrBruh), [70 comments](https://news.ycombinator.com/item?id=48067734)
+3. [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) (jefftk.com) - 203 points by [speckx](https://news.ycombinator.com/user?id=speckx), [88 comments](https://news.ycombinator.com/item?id=48066524)
+4. [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) (webdesignmuseum.org) - 263 points by [willmeyers](https://news.ycombinator.com/user?id=willmeyers), [89 comments](https://news.ycombinator.com/item?id=48065360)
+5. [AWS North Virginia data center outage – recovery to take hours](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html) (cnbc.com) - 96 points by [christhecaribou](https://news.ycombinator.com/user?id=christhecaribou), [57 comments](https://news.ycombinator.com/item?id=48058197)
+6. [Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)](https://www.wiisfi.com/) (wiisfi.com) - 38 points by [homebrewer](https://news.ycombinator.com/user?id=homebrewer), [17 comments](https://news.ycombinator.com/item?id=48037760)
+7. [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o) (bbc.com) - 412 points by [defrost](https://news.ycombinator.com/user?id=defrost), [80 comments](https://news.ycombinator.com/item?id=48061884)
+8. [Looking at the data behind prediction markets](https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything) (asteriskmag.com) - 43 points by [kqr](https://news.ycombinator.com/user?id=kqr), [19 comments](https://news.ycombinator.com/item?id=48049014)
+9. [Serving a website on a Raspberry Pi Zero running in RAM](https://btxx.org/posts/memory/) (btxx.org) - 183 points by [xngbuilds](https://news.ycombinator.com/user?id=xngbuilds), [75 comments](https://news.ycombinator.com/item?id=48064312)
+10. [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/) (flox.dev) - 29 points by [mathewpregasen](https://news.ycombinator.com/user?id=mathewpregasen), [10 comments](https://news.ycombinator.com/item?id=48068947)
 
 ## 2026-05-08
 
