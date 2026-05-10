@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 09](#2026-05-09) | [May 08](#2026-05-08) | [May 07](#2026-05-07) | [May 06](#2026-05-06) | [May 05](#2026-05-05) | [May 04](#2026-05-04) | [May 03](#2026-05-03)
+Recent: [May 10](#2026-05-10) | [May 09](#2026-05-09) | [May 08](#2026-05-08) | [May 07](#2026-05-07) | [May 06](#2026-05-06) | [May 05](#2026-05-05) | [May 04](#2026-05-04)
 
-### [2026](data/2026/) (129/129 days)
+### [2026](data/2026/) (130/130 days)
 
-[**May**](data/2026/05/) (9/9)
+[**May**](data/2026/05/) (10/10)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
-| [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) |  |
+| [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2121,6 +2121,21 @@ Recent: [May 09](#2026-05-09) | [May 08](#2026-05-08) | [May 07](#2026-05-07) | 
 </details>
 
 ---
+
+## 2026-05-10
+
+*Sunday*
+
+1. [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310) (twitter.com) - 363 points by [heldrida](https://news.ycombinator.com/user?id=heldrida), [353 comments](https://news.ycombinator.com/item?id=48073680)
+2. [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) (blog.archive.org) - 512 points by [hggh](https://news.ycombinator.com/user?id=hggh), [75 comments](https://news.ycombinator.com/item?id=48074265)
+3. [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp) (github.com) - 39 points by [thatxliner](https://news.ycombinator.com/user?id=thatxliner), [16 comments](https://news.ycombinator.com/item?id=48078575)
+4. [The Serial TTL connector we deserve](https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/) (kohlschuetter.github.io) - 19 points by [kohlschuetter](https://news.ycombinator.com/user?id=kohlschuetter), [14 comments](https://news.ycombinator.com/item?id=48049828)
+5. [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go) (github.com) - 71 points by [marcingas](https://news.ycombinator.com/user?id=marcingas), [15 comments](https://news.ycombinator.com/item?id=48076815)
+6. [Zed Editor Theme-Builder](https://zed.dev/theme-builder) (zed.dev) - 140 points by [cuechan](https://news.ycombinator.com/user?id=cuechan), [43 comments](https://news.ycombinator.com/item?id=48076651)
+7. [I’ve banned query strings](https://chrismorgan.info/no-query-strings) (chrismorgan.info) - 236 points by [susam](https://news.ycombinator.com/user?id=susam), [127 comments](https://news.ycombinator.com/item?id=48076173)
+8. [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html) (lisyarus.github.io) - 29 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [6 comments](https://news.ycombinator.com/item?id=48048902)
+9. [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/) (copahost.com) - 98 points by [ggallas](https://news.ycombinator.com/user?id=ggallas), [53 comments](https://news.ycombinator.com/item?id=48076465)
+10. [Production engineering when trading billions of dollars a day [video]](https://www.youtube.com/watch?v=zR9PpXWsKFQ) (youtube.com) - 76 points by [abstrus](https://news.ycombinator.com/user?id=abstrus), [18 comments](https://news.ycombinator.com/item?id=48067786)
 
 ## 2026-05-09
 

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48073680,
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "score": 363,
+    "by": "heldrida",
+    "descendants": 353,
+    "time": 1778321575
+  },
+  {
+    "rank": 2,
+    "id": 48074265,
+    "title": "Internet Archive Switzerland",
+    "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "score": 512,
+    "by": "hggh",
+    "descendants": 75,
+    "time": 1778328030
+  },
+  {
+    "rank": 3,
+    "id": 48078575,
+    "title": "Rust but Lisp",
+    "url": "https://github.com/ThatXliner/rust-but-lisp",
+    "score": 39,
+    "by": "thatxliner",
+    "descendants": 16,
+    "time": 1778363187
+  },
+  {
+    "rank": 4,
+    "id": 48049828,
+    "title": "The Serial TTL connector we deserve",
+    "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+    "score": 19,
+    "by": "kohlschuetter",
+    "descendants": 14,
+    "time": 1778163595
+  },
+  {
+    "rank": 5,
+    "id": 48076815,
+    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "url": "https://github.com/nooga/let-go",
+    "score": 71,
+    "by": "marcingas",
+    "descendants": 15,
+    "time": 1778349133
+  },
+  {
+    "rank": 6,
+    "id": 48076651,
+    "title": "Zed Editor Theme-Builder",
+    "url": "https://zed.dev/theme-builder",
+    "score": 140,
+    "by": "cuechan",
+    "descendants": 43,
+    "time": 1778347839
+  },
+  {
+    "rank": 7,
+    "id": 48076173,
+    "title": "I\u2019ve banned query strings",
+    "url": "https://chrismorgan.info/no-query-strings",
+    "score": 236,
+    "by": "susam",
+    "descendants": 127,
+    "time": 1778344116
+  },
+  {
+    "rank": 8,
+    "id": 48048902,
+    "title": "Making your own programming language is easier than you think (but also harder)",
+    "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+    "score": 29,
+    "by": "ibobev",
+    "descendants": 6,
+    "time": 1778158881
+  },
+  {
+    "rank": 9,
+    "id": 48076465,
+    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+    "score": 98,
+    "by": "ggallas",
+    "descendants": 53,
+    "time": 1778346406
+  },
+  {
+    "rank": 10,
+    "id": 48067786,
+    "title": "Production engineering when trading billions of dollars a day [video]",
+    "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+    "score": 76,
+    "by": "abstrus",
+    "descendants": 18,
+    "time": 1778269521
+  }
+]
