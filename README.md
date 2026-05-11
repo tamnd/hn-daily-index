@@ -13,16 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 10](#2026-05-10) | [May 09](#2026-05-09) | [May 08](#2026-05-08) | [May 07](#2026-05-07) | [May 06](#2026-05-06) | [May 05](#2026-05-05) | [May 04](#2026-05-04)
+Recent: [May 11](#2026-05-11) | [May 10](#2026-05-10) | [May 09](#2026-05-09) | [May 08](#2026-05-08) | [May 07](#2026-05-07) | [May 06](#2026-05-06) | [May 05](#2026-05-05)
 
-### [2026](data/2026/) (130/130 days)
+### [2026](data/2026/) (131/131 days)
 
-[**May**](data/2026/05/) (10/10)
+[**May**](data/2026/05/) (11/11)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
+| [**11**](#2026-05-11) |  |  |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2121,6 +2122,21 @@ Recent: [May 10](#2026-05-10) | [May 09](#2026-05-09) | [May 08](#2026-05-08) | 
 </details>
 
 ---
+
+## 2026-05-11
+
+*Monday*
+
+1. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) (grapheneos.social) - 768 points by [ChuckMcM](https://news.ycombinator.com/user?id=ChuckMcM), [289 comments](https://news.ycombinator.com/item?id=48086190)
+2. [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) (unix.foo) - 456 points by [cylo](https://news.ycombinator.com/user?id=cylo), [224 comments](https://news.ycombinator.com/item?id=48085821)
+3. [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) (nesbitt.io) - 354 points by [miniBill](https://news.ycombinator.com/user?id=miniBill), [85 comments](https://news.ycombinator.com/item?id=48086082)
+4. [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) (jola.dev) - 29 points by [shintoist](https://news.ycombinator.com/user?id=shintoist), [14 comments](https://news.ycombinator.com/item?id=48089091)
+5. [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/) (cyber.netsecops.io) - 37 points by [cmbailey](https://news.ycombinator.com/user?id=cmbailey), [16 comments](https://news.ycombinator.com/item?id=48088576)
+6. [Why modern parents feel more sleep deprived than our ancestors did](https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep) (bbc.com) - 62 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [44 comments](https://news.ycombinator.com/item?id=48088343)
+7. [First tunnel element of the Fehmarnbelt Tunnel immersed](https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/) (arup.com) - 28 points by [robin_reala](https://news.ycombinator.com/user?id=robin_reala), [7 comments](https://news.ycombinator.com/item?id=48050666)
+8. [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993) - 114 points by [david927](https://news.ycombinator.com/user?id=david927), [397 comments](https://news.ycombinator.com/item?id=48085993)
+9. [Traces Of Humanity](https://tracesofhumanity.org/hello-world/) (tracesofhumanity.org) - 121 points by [alex77456](https://news.ycombinator.com/user?id=alex77456), [19 comments](https://news.ycombinator.com/item?id=48085782)
+10. [Guy Goma's Accidental BBC Interview Lives on After 20 Years](https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html) (nytimes.com) - 25 points by [nxobject](https://news.ycombinator.com/user?id=nxobject), [8 comments](https://news.ycombinator.com/item?id=48067698)
 
 ## 2026-05-10
 

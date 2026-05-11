@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48086190,
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "score": 768,
+    "by": "ChuckMcM",
+    "descendants": 289,
+    "time": 1778435642
+  },
+  {
+    "rank": 2,
+    "id": 48085821,
+    "title": "Local AI needs to be the norm",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "score": 456,
+    "by": "cylo",
+    "descendants": 224,
+    "time": 1778433568
+  },
+  {
+    "rank": 3,
+    "id": 48086082,
+    "title": "Incident Report: CVE-2024-YIKES",
+    "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "score": 354,
+    "by": "miniBill",
+    "descendants": 85,
+    "time": 1778434990
+  },
+  {
+    "rank": 4,
+    "id": 48089091,
+    "title": "Running local models on an M4 with 24GB memory",
+    "url": "https://jola.dev/posts/running-local-models-on-m4",
+    "score": 29,
+    "by": "shintoist",
+    "descendants": 14,
+    "time": 1778454550
+  },
+  {
+    "rank": 5,
+    "id": 48088576,
+    "title": "Obsidian plugin was abused to deploy a remote access trojan",
+    "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "score": 37,
+    "by": "cmbailey",
+    "descendants": 16,
+    "time": 1778450563
+  },
+  {
+    "rank": 6,
+    "id": 48088343,
+    "title": "Why modern parents feel more sleep deprived than our ancestors did",
+    "url": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+    "score": 62,
+    "by": "1659447091",
+    "descendants": 44,
+    "time": 1778449012
+  },
+  {
+    "rank": 7,
+    "id": 48050666,
+    "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+    "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
+    "score": 28,
+    "by": "robin_reala",
+    "descendants": 7,
+    "time": 1778168044
+  },
+  {
+    "rank": 8,
+    "id": 48085993,
+    "title": "Ask HN: What are you working on? (May 2026)",
+    "url": "",
+    "score": 114,
+    "by": "david927",
+    "descendants": 397,
+    "time": 1778434481
+  },
+  {
+    "rank": 9,
+    "id": 48085782,
+    "title": "Traces Of Humanity",
+    "url": "https://tracesofhumanity.org/hello-world/",
+    "score": 121,
+    "by": "alex77456",
+    "descendants": 19,
+    "time": 1778433310
+  },
+  {
+    "rank": 10,
+    "id": 48067698,
+    "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+    "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+    "score": 25,
+    "by": "nxobject",
+    "descendants": 8,
+    "time": 1778269005
+  }
+]
