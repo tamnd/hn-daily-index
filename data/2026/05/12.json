@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48100706,
+    "title": "TanStack: Several npm latest releases are compromised",
+    "url": "https://github.com/TanStack/router/issues/7383",
+    "score": 440,
+    "by": "varunsharma07",
+    "descendants": 133,
+    "time": 1778533705
+  },
+  {
+    "rank": 2,
+    "id": 48098261,
+    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "score": 181,
+    "by": "bookofjoe",
+    "descendants": 34,
+    "time": 1778521988
+  },
+  {
+    "rank": 3,
+    "id": 48099616,
+    "title": "Library for fast mapping of Java records to native memory",
+    "url": "https://github.com/mamba-studio/TypedMemory",
+    "score": 94,
+    "by": "joe_mwangi",
+    "descendants": 24,
+    "time": 1778528011
+  },
+  {
+    "rank": 4,
+    "id": 48100500,
+    "title": "GitLab announces workforce reduction and end of their CREDIT values",
+    "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "score": 250,
+    "by": "AnonGitLabEmpl",
+    "descendants": 228,
+    "time": 1778532717
+  },
+  {
+    "rank": 5,
+    "id": 48094641,
+    "title": "Google says criminal hackers used AI to find a major software flaw",
+    "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "score": 100,
+    "by": "donohoe",
+    "descendants": 74,
+    "time": 1778505614
+  },
+  {
+    "rank": 6,
+    "id": 48060077,
+    "title": "Nullsoft, 1997-2004 (2004)",
+    "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+    "score": 211,
+    "by": "downbad_",
+    "descendants": 70,
+    "time": 1778227244
+  },
+  {
+    "rank": 7,
+    "id": 48093100,
+    "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
+    "url": "https://ratty-term.org/",
+    "score": 597,
+    "by": "orhunp_",
+    "descendants": 194,
+    "time": 1778494384
+  },
+  {
+    "rank": 8,
+    "id": 48098537,
+    "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
+    "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+    "score": 235,
+    "by": "speckx",
+    "descendants": 136,
+    "time": 1778523158
+  },
+  {
+    "rank": 9,
+    "id": 48100970,
+    "title": "Griffin PowerMate driver for modern macOS",
+    "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+    "score": 19,
+    "by": "classichasclass",
+    "descendants": 7,
+    "time": 1778535338
+  },
+  {
+    "rank": 10,
+    "id": 48092028,
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+    "score": 544,
+    "by": "negura",
+    "descendants": 387,
+    "time": 1778484414
+  }
+]

@@ -2,13 +2,28 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [May](05/) (11 days)
+- [May](05/) (12 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-05-12
+
+*Tuesday*
+
+1. [TanStack: Several npm latest releases are compromised](https://github.com/TanStack/router/issues/7383) (github.com) - 440 points by [varunsharma07](https://news.ycombinator.com/user?id=varunsharma07), [133 comments](https://news.ycombinator.com/item?id=48100706)
+2. [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) (stemcell.ucla.edu) - 181 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [34 comments](https://news.ycombinator.com/item?id=48098261)
+3. [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory) (github.com) - 94 points by [joe_mwangi](https://news.ycombinator.com/user?id=joe_mwangi), [24 comments](https://news.ycombinator.com/item?id=48099616)
+4. [GitLab announces workforce reduction and end of their CREDIT values](https://about.gitlab.com/blog/gitlab-act-2/) (about.gitlab.com) - 250 points by [AnonGitLabEmpl](https://news.ycombinator.com/user?id=AnonGitLabEmpl), [228 comments](https://news.ycombinator.com/item?id=48100500)
+5. [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html) (nytimes.com) - 100 points by [donohoe](https://news.ycombinator.com/user?id=donohoe), [74 comments](https://news.ycombinator.com/item?id=48094641)
+6. [Nullsoft, 1997-2004 (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html) (slate.com) - 211 points by [downbad_](https://news.ycombinator.com/user?id=downbad_), [70 comments](https://news.ycombinator.com/item?id=48060077)
+7. [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) (ratty-term.org) - 597 points by [orhunp_](https://news.ycombinator.com/user?id=orhunp_), [194 comments](https://news.ycombinator.com/item?id=48093100)
+8. [Can someone please explain whether Cloudflare blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/) (flyingpenguin.com) - 235 points by [speckx](https://news.ycombinator.com/user?id=speckx), [136 comments](https://news.ycombinator.com/item?id=48098537)
+9. [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver) (github.com) - 19 points by [classichasclass](https://news.ycombinator.com/user?id=classichasclass), [7 comments](https://news.ycombinator.com/item?id=48100970)
+10. [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082) (discuss.privacyguides.net) - 544 points by [negura](https://news.ycombinator.com/user?id=negura), [387 comments](https://news.ycombinator.com/item?id=48092028)
 
 ## 2026-05-11
 
