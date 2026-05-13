@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 12](#2026-05-12) | [May 11](#2026-05-11) | [May 10](#2026-05-10) | [May 09](#2026-05-09) | [May 08](#2026-05-08) | [May 07](#2026-05-07) | [May 06](#2026-05-06)
+Recent: [May 13](#2026-05-13) | [May 12](#2026-05-12) | [May 11](#2026-05-11) | [May 10](#2026-05-10) | [May 09](#2026-05-09) | [May 08](#2026-05-08) | [May 07](#2026-05-07)
 
-### [2026](data/2026/) (132/132 days)
+### [2026](data/2026/) (133/133 days)
 
-[**May**](data/2026/05/) (12/12)
+[**May**](data/2026/05/) (13/13)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
-| [**11**](#2026-05-11) | [**12**](#2026-05-12) |  |  |  |  |  |
+| [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2122,6 +2122,21 @@ Recent: [May 12](#2026-05-12) | [May 11](#2026-05-11) | [May 10](#2026-05-10) | 
 </details>
 
 ---
+
+## 2026-05-13
+
+*Wednesday*
+
+1. [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem) (bbc.com) - 38 points by [tcp_handshaker](https://news.ycombinator.com/user?id=tcp_handshaker), [8 comments](https://news.ycombinator.com/item?id=48115823)
+2. [Googlebook](https://googlebook.google/) (googlebook.google) - 565 points by [tambourine_man](https://news.ycombinator.com/user?id=tambourine_man), [905 comments](https://news.ycombinator.com/item?id=48111545)
+3. [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) (github.com) - 90 points by [Murfalo](https://news.ycombinator.com/user?id=Murfalo), [34 comments](https://news.ycombinator.com/item?id=48115127)
+4. [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/) (typesetinthefuture.com) - 180 points by [_vaporwave_](https://news.ycombinator.com/user?id=_vaporwave_), [21 comments](https://news.ycombinator.com/item?id=48113895)
+5. [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html) (lists.thekelleys.org.uk) - 215 points by [chizhik-pyzhik](https://news.ycombinator.com/user?id=chizhik-pyzhik), [99 comments](https://news.ycombinator.com/item?id=48112042)
+6. [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) (github.com) - 248 points by [HenryNdubuaku](https://news.ycombinator.com/user?id=HenryNdubuaku), [90 comments](https://news.ycombinator.com/item?id=48111896)
+7. [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) (nair.sh) - 345 points by [nilirl](https://news.ycombinator.com/user?id=nilirl), [166 comments](https://news.ycombinator.com/item?id=48109460)
+8. [Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol) (duckdb.org) - 166 points by [aduffy](https://news.ycombinator.com/user?id=aduffy), [34 comments](https://news.ycombinator.com/item?id=48111765)
+9. [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/) (blog.maximeheckel.com) - 395 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [34 comments](https://news.ycombinator.com/item?id=48107997)
+10. [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/) (deepmind.google) - 120 points by [devhouse](https://news.ycombinator.com/user?id=devhouse), [96 comments](https://news.ycombinator.com/item?id=48111581)
 
 ## 2026-05-12
 
