@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-14 (Thursday)](#2026-05-14)
 - [2026-05-13 (Wednesday)](#2026-05-13)
 - [2026-05-12 (Tuesday)](#2026-05-12)
 - [2026-05-11 (Monday)](#2026-05-11)
@@ -17,6 +18,21 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-14
+
+*Thursday*
+
+1. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) (xda-developers.com) - 466 points by [haunter](https://news.ycombinator.com/user?id=haunter), [297 comments](https://news.ycombinator.com/item?id=48087887)
+2. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) (fredchan.org) - 464 points by [speckx](https://news.ycombinator.com/user?id=speckx), [152 comments](https://news.ycombinator.com/item?id=48122635)
+3. [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google) (laurent.le-brun.eu) - 247 points by [laurentlb](https://news.ycombinator.com/user?id=laurentlb), [186 comments](https://news.ycombinator.com/item?id=48073979)
+4. [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/) (ardoedo.it) - 60 points by [Eswo](https://news.ycombinator.com/user?id=Eswo), [18 comments](https://news.ycombinator.com/item?id=48096760)
+5. [Marco Polo: Finding a friend with only distance and motion](https://www.jackhogan.me/blog/marco-polo) (jackhogan.me) - 20 points by [jackhogan11](https://news.ycombinator.com/user?id=jackhogan11), [2 comments](https://news.ycombinator.com/item?id=48095782)
+6. [Princeton mandates proctoring for in-person exams, upending 133 year precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent) (dailyprincetonian.com) - 212 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [287 comments](https://news.ycombinator.com/item?id=48126848)
+7. [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/) (sockpuppet.org) - 171 points by [rdslw](https://news.ycombinator.com/user?id=rdslw), [112 comments](https://news.ycombinator.com/item?id=48118727)
+8. [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/) (tryardent.com) - 63 points by [vc289](https://news.ycombinator.com/user?id=vc289), [22 comments](https://news.ycombinator.com/item?id=48124436)
+9. [Xs of Y – roguelike that names itself every run. Written in 4kLoC](https://github.com/nooga/xsofy) (github.com) - 145 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [64 comments](https://news.ycombinator.com/item?id=48080755)
+10. [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/) (grantmestrength.github.io) - 95 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [20 comments](https://news.ycombinator.com/item?id=48123546)
 
 ## 2026-05-13
 

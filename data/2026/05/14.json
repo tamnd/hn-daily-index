@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48087887,
+    "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+    "score": 466,
+    "by": "haunter",
+    "descendants": 297,
+    "time": 1778446446
+  },
+  {
+    "rank": 2,
+    "id": 48122635,
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
+    "url": "https://fredchan.org/blog/locality-domains-guide/",
+    "score": 464,
+    "by": "speckx",
+    "descendants": 152,
+    "time": 1778683518
+  },
+  {
+    "rank": 3,
+    "id": 48073979,
+    "title": "A History of IDEs at Google",
+    "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+    "score": 247,
+    "by": "laurentlb",
+    "descendants": 186,
+    "time": 1778325258
+  },
+  {
+    "rank": 4,
+    "id": 48096760,
+    "title": "Chess puzzle I found in my dad's old book",
+    "url": "https://ardoedo.it/kempelen/",
+    "score": 60,
+    "by": "Eswo",
+    "descendants": 18,
+    "time": 1778515219
+  },
+  {
+    "rank": 5,
+    "id": 48095782,
+    "title": "Marco Polo: Finding a friend with only distance and motion",
+    "url": "https://www.jackhogan.me/blog/marco-polo",
+    "score": 20,
+    "by": "jackhogan11",
+    "descendants": 2,
+    "time": 1778511145
+  },
+  {
+    "rank": 6,
+    "id": 48126848,
+    "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+    "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+    "score": 212,
+    "by": "bookofjoe",
+    "descendants": 287,
+    "time": 1778703136
+  },
+  {
+    "rank": 7,
+    "id": 48118727,
+    "title": "The Emacsification of Software",
+    "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+    "score": 171,
+    "by": "rdslw",
+    "descendants": 112,
+    "time": 1778655974
+  },
+  {
+    "rank": 8,
+    "id": 48124436,
+    "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+    "url": "https://www.tryardent.com/",
+    "score": 63,
+    "by": "vc289",
+    "descendants": 22,
+    "time": 1778691243
+  },
+  {
+    "rank": 9,
+    "id": 48080755,
+    "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
+    "url": "https://github.com/nooga/xsofy",
+    "score": 145,
+    "by": "andsoitis",
+    "descendants": 64,
+    "time": 1778383979
+  },
+  {
+    "rank": 10,
+    "id": 48123546,
+    "title": "S-100 Virtual Workbench",
+    "url": "https://grantmestrength.github.io/S100/",
+    "score": 95,
+    "by": "rbanffy",
+    "descendants": 20,
+    "time": 1778687520
+  }
+]
