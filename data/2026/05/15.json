@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48138136,
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+    "score": 537,
+    "by": "arkadiyt",
+    "descendants": 329,
+    "time": 1778778480
+  },
+  {
+    "rank": 2,
+    "id": 48140730,
+    "title": "Amazonbot is finally respecting robots.txt",
+    "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+    "score": 119,
+    "by": "xena",
+    "descendants": 26,
+    "time": 1778790155
+  },
+  {
+    "rank": 3,
+    "id": 48142108,
+    "title": "A few words on DS4",
+    "url": "https://antirez.com/news/165",
+    "score": 72,
+    "by": "caust1c",
+    "descendants": 21,
+    "time": 1778797752
+  },
+  {
+    "rank": 4,
+    "id": 48139219,
+    "title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+    "score": 217,
+    "by": "quadrige",
+    "descendants": 38,
+    "time": 1778783109
+  },
+  {
+    "rank": 5,
+    "id": 48137145,
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "score": 460,
+    "by": "allenleee",
+    "descendants": 118,
+    "time": 1778773651
+  },
+  {
+    "rank": 6,
+    "id": 48140529,
+    "title": "Codex is now in the ChatGPT mobile app",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "score": 133,
+    "by": "mikeevans",
+    "descendants": 55,
+    "time": 1778789174
+  },
+  {
+    "rank": 7,
+    "id": 48138268,
+    "title": "New Nginx Exploit",
+    "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "score": 271,
+    "by": "hetsaraiya",
+    "descendants": 59,
+    "time": 1778779068
+  },
+  {
+    "rank": 8,
+    "id": 48140953,
+    "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+    "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+    "score": 46,
+    "by": "p_stuart82",
+    "descendants": 11,
+    "time": 1778791308
+  },
+  {
+    "rank": 9,
+    "id": 48140541,
+    "title": "RISC-V Router",
+    "url": "https://router.start9.com/",
+    "score": 52,
+    "by": "janandonly",
+    "descendants": 29,
+    "time": 1778789213
+  },
+  {
+    "rank": 10,
+    "id": 48142553,
+    "title": "Have a Coherent AI Policy",
+    "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+    "score": 7,
+    "by": "ai_critic",
+    "descendants": 0,
+    "time": 1778801085
+  }
+]

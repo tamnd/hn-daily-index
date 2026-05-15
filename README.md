@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12) | [May 11](#2026-05-11) | [May 10](#2026-05-10) | [May 09](#2026-05-09) | [May 08](#2026-05-08)
+Recent: [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12) | [May 11](#2026-05-11) | [May 10](#2026-05-10) | [May 09](#2026-05-09)
 
-### [2026](data/2026/) (134/134 days)
+### [2026](data/2026/) (135/135 days)
 
-[**May**](data/2026/05/) (14/14)
+[**May**](data/2026/05/) (15/15)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
-| [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) |  |  |  |
+| [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2122,6 +2122,21 @@ Recent: [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12) | 
 </details>
 
 ---
+
+## 2026-05-15
+
+*Friday*
+
+1. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) (arkadiyt.com) - 537 points by [arkadiyt](https://news.ycombinator.com/user?id=arkadiyt), [329 comments](https://news.ycombinator.com/item?id=48138136)
+2. [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/) (xeiaso.net) - 119 points by [xena](https://news.ycombinator.com/user?id=xena), [26 comments](https://news.ycombinator.com/item?id=48140730)
+3. [A few words on DS4](https://antirez.com/news/165) (antirez.com) - 72 points by [caust1c](https://news.ycombinator.com/user?id=caust1c), [21 comments](https://news.ycombinator.com/item?id=48142108)
+4. [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption) (blog.calif.io) - 217 points by [quadrige](https://news.ycombinator.com/user?id=quadrige), [38 comments](https://news.ycombinator.com/item?id=48139219)
+5. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) (scottjg.com) - 460 points by [allenleee](https://news.ycombinator.com/user?id=allenleee), [118 comments](https://news.ycombinator.com/item?id=48137145)
+6. [Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/) (openai.com) - 133 points by [mikeevans](https://news.ycombinator.com/user?id=mikeevans), [55 comments](https://news.ycombinator.com/item?id=48140529)
+7. [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift) (github.com) - 271 points by [hetsaraiya](https://news.ycombinator.com/user?id=hetsaraiya), [59 comments](https://news.ycombinator.com/item?id=48138268)
+8. [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing) (synacktiv.com) - 46 points by [p_stuart82](https://news.ycombinator.com/user?id=p_stuart82), [11 comments](https://news.ycombinator.com/item?id=48140953)
+9. [RISC-V Router](https://router.start9.com/) (router.start9.com) - 52 points by [janandonly](https://news.ycombinator.com/user?id=janandonly), [29 comments](https://news.ycombinator.com/item?id=48140541)
+10. [Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/) (brianmeeker.me) - 7 points by [ai_critic](https://news.ycombinator.com/user?id=ai_critic), [0 comments](https://news.ycombinator.com/item?id=48142553)
 
 ## 2026-05-14
 
