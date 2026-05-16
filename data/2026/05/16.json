@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48150431,
+    "title": "Project Gutenberg \u2013 keeps getting better",
+    "url": "https://www.gutenberg.org/",
+    "score": 674,
+    "by": "JSeiko",
+    "descendants": 167,
+    "time": 1778861736
+  },
+  {
+    "rank": 2,
+    "id": 48153379,
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "score": 637,
+    "by": "reasonableklout",
+    "descendants": 288,
+    "time": 1778876807
+  },
+  {
+    "rank": 3,
+    "id": 48152168,
+    "title": "The Zulip Foundation",
+    "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+    "score": 188,
+    "by": "boramalper",
+    "descendants": 49,
+    "time": 1778870221
+  },
+  {
+    "rank": 4,
+    "id": 48154711,
+    "title": "How to Write to SSDs [pdf]",
+    "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+    "score": 27,
+    "by": "matt_d",
+    "descendants": 3,
+    "time": 1778883818
+  },
+  {
+    "rank": 5,
+    "id": 48136000,
+    "title": "Naturally Occurring Quasicrystals",
+    "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+    "score": 32,
+    "by": "lukeplato",
+    "descendants": 2,
+    "time": 1778769166
+  },
+  {
+    "rank": 6,
+    "id": 48148460,
+    "title": "A 0-click exploit chain for the Pixel 10",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "score": 328,
+    "by": "happyhardcore",
+    "descendants": 147,
+    "time": 1778852394
+  },
+  {
+    "rank": 7,
+    "id": 48152994,
+    "title": "California bill would require patches or refunds when online games shut down",
+    "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+    "score": 268,
+    "by": "Lihh27",
+    "descendants": 155,
+    "time": 1778874528
+  },
+  {
+    "rank": 8,
+    "id": 48155324,
+    "title": "The main thing about P2P meth is that there's so much of it (2022)",
+    "url": "https://dynomight.net/p2p-meth/",
+    "score": 6,
+    "by": "tomjakubowski",
+    "descendants": 0,
+    "time": 1778888252
+  },
+  {
+    "rank": 9,
+    "id": 48147021,
+    "title": "The sigmoids won't save you",
+    "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+    "score": 131,
+    "by": "Tomte",
+    "descendants": 155,
+    "time": 1778842273
+  },
+  {
+    "rank": 10,
+    "id": 48151237,
+    "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+    "url": "https://github.com/gdevic/FPGA-Calculator",
+    "score": 76,
+    "by": "gdevic",
+    "descendants": 24,
+    "time": 1778865358
+  }
+]

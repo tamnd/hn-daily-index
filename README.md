@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12) | [May 11](#2026-05-11) | [May 10](#2026-05-10) | [May 09](#2026-05-09)
+Recent: [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12) | [May 11](#2026-05-11) | [May 10](#2026-05-10)
 
-### [2026](data/2026/) (135/135 days)
+### [2026](data/2026/) (136/136 days)
 
-[**May**](data/2026/05/) (15/15)
+[**May**](data/2026/05/) (16/16)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
-| [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) |  |  |
+| [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2122,6 +2122,21 @@ Recent: [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | 
 </details>
 
 ---
+
+## 2026-05-16
+
+*Saturday*
+
+1. [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) (gutenberg.org) - 674 points by [JSeiko](https://news.ycombinator.com/user?id=JSeiko), [167 comments](https://news.ycombinator.com/item?id=48150431)
+2. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) (twitter.com) - 637 points by [reasonableklout](https://news.ycombinator.com/user?id=reasonableklout), [288 comments](https://news.ycombinator.com/item?id=48153379)
+3. [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/) (blog.zulip.com) - 188 points by [boramalper](https://news.ycombinator.com/user?id=boramalper), [49 comments](https://news.ycombinator.com/item?id=48152168)
+4. [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf) (vldb.org) - 27 points by [matt_d](https://news.ycombinator.com/user?id=matt_d), [3 comments](https://news.ycombinator.com/item?id=48154711)
+5. [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/) (johncarlosbaez.wordpress.com) - 32 points by [lukeplato](https://news.ycombinator.com/user?id=lukeplato), [2 comments](https://news.ycombinator.com/item?id=48136000)
+6. [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html) (projectzero.google) - 328 points by [happyhardcore](https://news.ycombinator.com/user?id=happyhardcore), [147 comments](https://news.ycombinator.com/item?id=48148460)
+7. [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/) (arstechnica.com) - 268 points by [Lihh27](https://news.ycombinator.com/user?id=Lihh27), [155 comments](https://news.ycombinator.com/item?id=48152994)
+8. [The main thing about P2P meth is that there's so much of it (2022)](https://dynomight.net/p2p-meth/) (dynomight.net) - 6 points by [tomjakubowski](https://news.ycombinator.com/user?id=tomjakubowski), [0 comments](https://news.ycombinator.com/item?id=48155324)
+9. [The sigmoids won't save you](https://www.astralcodexten.com/p/the-sigmoids-wont-save-you) (astralcodexten.com) - 131 points by [Tomte](https://news.ycombinator.com/user?id=Tomte), [155 comments](https://news.ycombinator.com/item?id=48147021)
+10. [I designed a nibble-oriented CPU in Verilog to build a scientific calculator](https://github.com/gdevic/FPGA-Calculator) (github.com) - 76 points by [gdevic](https://news.ycombinator.com/user?id=gdevic), [24 comments](https://news.ycombinator.com/item?id=48151237)
 
 ## 2026-05-15
 
