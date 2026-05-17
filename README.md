@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12) | [May 11](#2026-05-11) | [May 10](#2026-05-10)
+Recent: [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12) | [May 11](#2026-05-11)
 
-### [2026](data/2026/) (136/136 days)
+### [2026](data/2026/) (137/137 days)
 
-[**May**](data/2026/05/) (16/16)
+[**May**](data/2026/05/) (17/17)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
-| [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) |  |
+| [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2122,6 +2122,21 @@ Recent: [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | 
 </details>
 
 ---
+
+## 2026-05-17
+
+*Sunday*
+
+1. [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) (crates.io) - 89 points by [gidellav](https://news.ycombinator.com/user?id=gidellav), [28 comments](https://news.ycombinator.com/item?id=48164287)
+2. [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page) (hybridlogic.co.uk) - 37 points by [Dachande663](https://news.ycombinator.com/user?id=Dachande663), [13 comments](https://news.ycombinator.com/item?id=48164294)
+3. [A Nicer Voltmeter Clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) (lcamtuf.substack.com) - 19 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [2 comments](https://news.ycombinator.com/item?id=48164432)
+4. [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321) (science.org) - 53 points by [bryanrasmussen](https://news.ycombinator.com/user?id=bryanrasmussen), [0 comments](https://news.ycombinator.com/item?id=48109756)
+5. [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) (nvlabs.github.io) - 284 points by [mjgil](https://news.ycombinator.com/user?id=mjgil), [119 comments](https://news.ycombinator.com/item?id=48159445)
+6. [Content-defined chunking added to Bazel](https://www.buildbuddy.io/blog/content-defined-chunking/) (buildbuddy.io) - 16 points by [siggi](https://news.ycombinator.com/user?id=siggi), [2 comments](https://news.ycombinator.com/item?id=48127453)
+7. [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) (jvns.ca) - 403 points by [mpweiher](https://news.ycombinator.com/user?id=mpweiher), [264 comments](https://news.ycombinator.com/item?id=48158400)
+8. [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire) (unstack.io) - 64 points by [ScottWRobinson](https://news.ycombinator.com/user?id=ScottWRobinson), [44 comments](https://news.ycombinator.com/item?id=48162468)
+9. [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) (antipope.org) - 234 points by [eamag](https://news.ycombinator.com/user?id=eamag), [136 comments](https://news.ycombinator.com/item?id=48159241)
+10. [The Third Hard Problem](https://mmapped.blog/posts/48-the-third-hard-problem) (mmapped.blog) - 12 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [4 comments](https://news.ycombinator.com/item?id=48134784)
 
 ## 2026-05-16
 

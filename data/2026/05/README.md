@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-17 (Sunday)](#2026-05-17)
 - [2026-05-16 (Saturday)](#2026-05-16)
 - [2026-05-15 (Friday)](#2026-05-15)
 - [2026-05-14 (Thursday)](#2026-05-14)
@@ -20,6 +21,21 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-17
+
+*Sunday*
+
+1. [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) (crates.io) - 89 points by [gidellav](https://news.ycombinator.com/user?id=gidellav), [28 comments](https://news.ycombinator.com/item?id=48164287)
+2. [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page) (hybridlogic.co.uk) - 37 points by [Dachande663](https://news.ycombinator.com/user?id=Dachande663), [13 comments](https://news.ycombinator.com/item?id=48164294)
+3. [A Nicer Voltmeter Clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) (lcamtuf.substack.com) - 19 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [2 comments](https://news.ycombinator.com/item?id=48164432)
+4. [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321) (science.org) - 53 points by [bryanrasmussen](https://news.ycombinator.com/user?id=bryanrasmussen), [0 comments](https://news.ycombinator.com/item?id=48109756)
+5. [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) (nvlabs.github.io) - 284 points by [mjgil](https://news.ycombinator.com/user?id=mjgil), [119 comments](https://news.ycombinator.com/item?id=48159445)
+6. [Content-defined chunking added to Bazel](https://www.buildbuddy.io/blog/content-defined-chunking/) (buildbuddy.io) - 16 points by [siggi](https://news.ycombinator.com/user?id=siggi), [2 comments](https://news.ycombinator.com/item?id=48127453)
+7. [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) (jvns.ca) - 403 points by [mpweiher](https://news.ycombinator.com/user?id=mpweiher), [264 comments](https://news.ycombinator.com/item?id=48158400)
+8. [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire) (unstack.io) - 64 points by [ScottWRobinson](https://news.ycombinator.com/user?id=ScottWRobinson), [44 comments](https://news.ycombinator.com/item?id=48162468)
+9. [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) (antipope.org) - 234 points by [eamag](https://news.ycombinator.com/user?id=eamag), [136 comments](https://news.ycombinator.com/item?id=48159241)
+10. [The Third Hard Problem](https://mmapped.blog/posts/48-the-third-hard-problem) (mmapped.blog) - 12 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [4 comments](https://news.ycombinator.com/item?id=48134784)
 
 ## 2026-05-16
 

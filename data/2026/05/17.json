@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48164287,
+    "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
+    "url": "https://crates.io/crates/zerostack/1.0.0",
+    "score": 89,
+    "by": "gidellav",
+    "descendants": 28,
+    "time": 1778970230
+  },
+  {
+    "rank": 2,
+    "id": 48164294,
+    "title": "MCP Hello Page",
+    "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+    "score": 37,
+    "by": "Dachande663",
+    "descendants": 13,
+    "time": 1778970333
+  },
+  {
+    "rank": 3,
+    "id": 48164432,
+    "title": "A Nicer Voltmeter Clock",
+    "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+    "score": 19,
+    "by": "surprisetalk",
+    "descendants": 2,
+    "time": 1778971516
+  },
+  {
+    "rank": 4,
+    "id": 48109756,
+    "title": "A molecule with half-M\u00f6bius topology",
+    "url": "https://www.science.org/doi/10.1126/science.aea3321",
+    "score": 53,
+    "by": "bryanrasmussen",
+    "descendants": 0,
+    "time": 1778599711
+  },
+  {
+    "rank": 5,
+    "id": 48159445,
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "url": "https://nvlabs.github.io/Sana/WM/",
+    "score": 284,
+    "by": "mjgil",
+    "descendants": 119,
+    "time": 1778933181
+  },
+  {
+    "rank": 6,
+    "id": 48127453,
+    "title": "Content-defined chunking added to Bazel",
+    "url": "https://www.buildbuddy.io/blog/content-defined-chunking/",
+    "score": 16,
+    "by": "siggi",
+    "descendants": 2,
+    "time": 1778705826
+  },
+  {
+    "rank": 7,
+    "id": 48158400,
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "score": 403,
+    "by": "mpweiher",
+    "descendants": 264,
+    "time": 1778922866
+  },
+  {
+    "rank": 8,
+    "id": 48162468,
+    "title": "Halt and Catch Fire",
+    "url": "https://unstack.io/halt-and-catch-fire",
+    "score": 64,
+    "by": "ScottWRobinson",
+    "descendants": 44,
+    "time": 1778955389
+  },
+  {
+    "rank": 9,
+    "id": 48159241,
+    "title": "Accelerando (2005)",
+    "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+    "score": 234,
+    "by": "eamag",
+    "descendants": 136,
+    "time": 1778931392
+  },
+  {
+    "rank": 10,
+    "id": 48134784,
+    "title": "The Third Hard Problem",
+    "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+    "score": 12,
+    "by": "surprisetalk",
+    "descendants": 4,
+    "time": 1778763631
+  }
+]
