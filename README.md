@@ -13,17 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12) | [May 11](#2026-05-11)
+Recent: [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12)
 
-### [2026](data/2026/) (137/137 days)
+### [2026](data/2026/) (138/138 days)
 
-[**May**](data/2026/05/) (17/17)
+[**May**](data/2026/05/) (18/18)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
+| [**18**](#2026-05-18) |  |  |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2122,6 +2123,21 @@ Recent: [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | 
 </details>
 
 ---
+
+## 2026-05-18
+
+*Monday*
+
+1. [GenCAD](https://gencad.github.io/) (gencad.github.io) - 46 points by [dagenix](https://news.ycombinator.com/user?id=dagenix), [9 comments](https://news.ycombinator.com/item?id=48173429)
+2. [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/) (jdhodges.com) - 33 points by [zdw](https://news.ycombinator.com/user?id=zdw), [9 comments](https://news.ycombinator.com/item?id=48173547)
+3. [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) (metalevel.at) - 48 points by [RohanAdwankar](https://news.ycombinator.com/user?id=RohanAdwankar), [13 comments](https://news.ycombinator.com/item?id=48173268)
+4. [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster) (github.com) - 13 points by [lyoncy](https://news.ycombinator.com/user?id=lyoncy), [1 comments](https://news.ycombinator.com/item?id=48173849)
+5. [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/) (xca-attacks.github.io) - 14 points by [negura](https://news.ycombinator.com/user?id=negura), [2 comments](https://news.ycombinator.com/item?id=48173708)
+6. [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) (github.com) - 226 points by [tech4bot](https://news.ycombinator.com/user?id=tech4bot), [115 comments](https://news.ycombinator.com/item?id=48168668)
+7. [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base) (idahonews.com) - 63 points by [ChrisArchitect](https://news.ycombinator.com/user?id=ChrisArchitect), [40 comments](https://news.ycombinator.com/item?id=48173468)
+8. [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/) (askanastronaut.issinrealtime.org) - 18 points by [gaws](https://news.ycombinator.com/user?id=gaws), [0 comments](https://news.ycombinator.com/item?id=48152754)
+9. [Jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/) (jank-lang.org) - 24 points by [DASD](https://news.ycombinator.com/user?id=DASD), [2 comments](https://news.ycombinator.com/item?id=48151251)
+10. [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/) (fosdem.org) - 150 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [130 comments](https://news.ycombinator.com/item?id=48147351)
 
 ## 2026-05-17
 

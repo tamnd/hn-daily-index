@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48173429,
+    "title": "GenCAD",
+    "url": "https://gencad.github.io/",
+    "score": 46,
+    "by": "dagenix",
+    "descendants": 9,
+    "time": 1779054035
+  },
+  {
+    "rank": 2,
+    "id": 48173547,
+    "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+    "score": 33,
+    "by": "zdw",
+    "descendants": 9,
+    "time": 1779055000
+  },
+  {
+    "rank": 3,
+    "id": 48173268,
+    "title": "Prolog Coding Horror",
+    "url": "https://www.metalevel.at/prolog/horror",
+    "score": 48,
+    "by": "RohanAdwankar",
+    "descendants": 13,
+    "time": 1779052551
+  },
+  {
+    "rank": 4,
+    "id": 48173849,
+    "title": "Design posters showcasing your country's electrical grid",
+    "url": "https://github.com/open-energy-transition/grid2poster",
+    "score": 13,
+    "by": "lyoncy",
+    "descendants": 1,
+    "time": 1779058025
+  },
+  {
+    "rank": 5,
+    "id": 48173708,
+    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+    "url": "https://xca-attacks.github.io/fabricked/",
+    "score": 14,
+    "by": "negura",
+    "descendants": 2,
+    "time": 1779056610
+  },
+  {
+    "rank": 6,
+    "id": 48168668,
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "url": "https://github.com/tech4bot/rk3562deb",
+    "score": 226,
+    "by": "tech4bot",
+    "descendants": 115,
+    "time": 1779023787
+  },
+  {
+    "rank": 7,
+    "id": 48173468,
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+    "score": 63,
+    "by": "ChrisArchitect",
+    "descendants": 40,
+    "time": 1779054330
+  },
+  {
+    "rank": 8,
+    "id": 48152754,
+    "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+    "url": "https://askanastronaut.issinrealtime.org/",
+    "score": 18,
+    "by": "gaws",
+    "descendants": 0,
+    "time": 1778873143
+  },
+  {
+    "rank": 9,
+    "id": 48151251,
+    "title": "Jank now has its own custom IR",
+    "url": "https://jank-lang.org/blog/2026-05-08-optimization/",
+    "score": 24,
+    "by": "DASD",
+    "descendants": 2,
+    "time": 1778865424
+  },
+  {
+    "rank": 10,
+    "id": 48147351,
+    "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+    "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+    "score": 150,
+    "by": "ibobev",
+    "descendants": 130,
+    "time": 1778845153
+  }
+]
