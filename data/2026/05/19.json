@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48187054,
+    "title": "Click",
+    "url": "https://clickclickclick.click/",
+    "score": 100,
+    "by": "andrewzeno",
+    "descendants": 22,
+    "time": 1779145382
+  },
+  {
+    "rank": 2,
+    "id": 48187201,
+    "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+    "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+    "score": 34,
+    "by": "cucho",
+    "descendants": 3,
+    "time": 1779146290
+  },
+  {
+    "rank": 3,
+    "id": 48182281,
+    "title": "Anthropic acquires Stainless",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "score": 344,
+    "by": "tomeraberbach",
+    "descendants": 238,
+    "time": 1779123681
+  },
+  {
+    "rank": 4,
+    "id": 48184322,
+    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "url": "https://hyperpolyglot.org/lisp",
+    "score": 119,
+    "by": "veqq",
+    "descendants": 24,
+    "time": 1779132445
+  },
+  {
+    "rank": 5,
+    "id": 48181125,
+    "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+    "url": "https://archestra.ai/blog/only-responsible-ai",
+    "score": 390,
+    "by": "ildari",
+    "descendants": 186,
+    "time": 1779117859
+  },
+  {
+    "rank": 6,
+    "id": 48183301,
+    "title": "We let AIs run radio stations",
+    "url": "https://andonlabs.com/blog/andon-fm",
+    "score": 134,
+    "by": "lukaspetersson",
+    "descendants": 144,
+    "time": 1779127938
+  },
+  {
+    "rank": 7,
+    "id": 48163389,
+    "title": "The Quiet Renovation at Bitwarden",
+    "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+    "score": 492,
+    "by": "DaSHacka",
+    "descendants": 236,
+    "time": 1778962421
+  },
+  {
+    "rank": 8,
+    "id": 48179677,
+    "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
+    "url": "https://github.com/zakirullin/files.md",
+    "score": 525,
+    "by": "zakirullin",
+    "descendants": 272,
+    "time": 1779111213
+  },
+  {
+    "rank": 9,
+    "id": 48164388,
+    "title": "The Futility of Lava Lamps: What Random Means",
+    "url": "https://loup-vaillant.fr/articles/lava-lamps-and-randomness",
+    "score": 37,
+    "by": "birdculture",
+    "descendants": 20,
+    "time": 1778971237
+  },
+  {
+    "rank": 10,
+    "id": 48182754,
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "score": 738,
+    "by": "nycdatasci",
+    "descendants": 373,
+    "time": 1779125902
+  }
+]

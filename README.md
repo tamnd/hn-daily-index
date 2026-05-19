@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13) | [May 12](#2026-05-12)
+Recent: [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13)
 
-### [2026](data/2026/) (138/138 days)
+### [2026](data/2026/) (139/139 days)
 
-[**May**](data/2026/05/) (18/18)
+[**May**](data/2026/05/) (19/19)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
-| [**18**](#2026-05-18) |  |  |  |  |  |  |
+| [**18**](#2026-05-18) | [**19**](#2026-05-19) |  |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2123,6 +2123,21 @@ Recent: [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16) | 
 </details>
 
 ---
+
+## 2026-05-19
+
+*Tuesday*
+
+1. [Click](https://clickclickclick.click/) (clickclickclick.click) - 100 points by [andrewzeno](https://news.ycombinator.com/user?id=andrewzeno), [22 comments](https://news.ycombinator.com/item?id=48187054)
+2. [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html) (vaticannews.va) - 34 points by [cucho](https://news.ycombinator.com/user?id=cucho), [3 comments](https://news.ycombinator.com/item?id=48187201)
+3. [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) (anthropic.com) - 344 points by [tomeraberbach](https://news.ycombinator.com/user?id=tomeraberbach), [238 comments](https://news.ycombinator.com/item?id=48182281)
+4. [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp) (hyperpolyglot.org) - 119 points by [veqq](https://news.ycombinator.com/user?id=veqq), [24 comments](https://news.ycombinator.com/item?id=48184322)
+5. [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai) (archestra.ai) - 390 points by [ildari](https://news.ycombinator.com/user?id=ildari), [186 comments](https://news.ycombinator.com/item?id=48181125)
+6. [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm) (andonlabs.com) - 134 points by [lukaspetersson](https://news.ycombinator.com/user?id=lukaspetersson), [144 comments](https://news.ycombinator.com/item?id=48183301)
+7. [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) (blog.ppb1701.com) - 492 points by [DaSHacka](https://news.ycombinator.com/user?id=DaSHacka), [236 comments](https://news.ycombinator.com/item?id=48163389)
+8. [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md) (github.com) - 525 points by [zakirullin](https://news.ycombinator.com/user?id=zakirullin), [272 comments](https://news.ycombinator.com/item?id=48179677)
+9. [The Futility of Lava Lamps: What Random Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness) (loup-vaillant.fr) - 37 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [20 comments](https://news.ycombinator.com/item?id=48164388)
+10. [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) (techcrunch.com) - 738 points by [nycdatasci](https://news.ycombinator.com/user?id=nycdatasci), [373 comments](https://news.ycombinator.com/item?id=48182754)
 
 ## 2026-05-18
 

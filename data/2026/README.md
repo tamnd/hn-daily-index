@@ -2,13 +2,28 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [May](05/) (18 days)
+- [May](05/) (19 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-05-19
+
+*Tuesday*
+
+1. [Click](https://clickclickclick.click/) (clickclickclick.click) - 100 points by [andrewzeno](https://news.ycombinator.com/user?id=andrewzeno), [22 comments](https://news.ycombinator.com/item?id=48187054)
+2. [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html) (vaticannews.va) - 34 points by [cucho](https://news.ycombinator.com/user?id=cucho), [3 comments](https://news.ycombinator.com/item?id=48187201)
+3. [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) (anthropic.com) - 344 points by [tomeraberbach](https://news.ycombinator.com/user?id=tomeraberbach), [238 comments](https://news.ycombinator.com/item?id=48182281)
+4. [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp) (hyperpolyglot.org) - 119 points by [veqq](https://news.ycombinator.com/user?id=veqq), [24 comments](https://news.ycombinator.com/item?id=48184322)
+5. [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai) (archestra.ai) - 390 points by [ildari](https://news.ycombinator.com/user?id=ildari), [186 comments](https://news.ycombinator.com/item?id=48181125)
+6. [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm) (andonlabs.com) - 134 points by [lukaspetersson](https://news.ycombinator.com/user?id=lukaspetersson), [144 comments](https://news.ycombinator.com/item?id=48183301)
+7. [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) (blog.ppb1701.com) - 492 points by [DaSHacka](https://news.ycombinator.com/user?id=DaSHacka), [236 comments](https://news.ycombinator.com/item?id=48163389)
+8. [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md) (github.com) - 525 points by [zakirullin](https://news.ycombinator.com/user?id=zakirullin), [272 comments](https://news.ycombinator.com/item?id=48179677)
+9. [The Futility of Lava Lamps: What Random Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness) (loup-vaillant.fr) - 37 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [20 comments](https://news.ycombinator.com/item?id=48164388)
+10. [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) (techcrunch.com) - 738 points by [nycdatasci](https://news.ycombinator.com/user?id=nycdatasci), [373 comments](https://news.ycombinator.com/item?id=48182754)
 
 ## 2026-05-18
 
