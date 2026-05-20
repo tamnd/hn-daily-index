@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14) | [May 13](#2026-05-13)
+Recent: [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14)
 
-### [2026](data/2026/) (139/139 days)
+### [2026](data/2026/) (140/140 days)
 
-[**May**](data/2026/05/) (19/19)
+[**May**](data/2026/05/) (20/20)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
-| [**18**](#2026-05-18) | [**19**](#2026-05-19) |  |  |  |  |  |
+| [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2123,6 +2123,21 @@ Recent: [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17) | 
 </details>
 
 ---
+
+## 2026-05-20
+
+*Wednesday*
+
+1. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (blog.google) - 501 points by [spectraldrift](https://news.ycombinator.com/user?id=spectraldrift), [386 comments](https://news.ycombinator.com/item?id=48196570)
+2. [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) (virtualosmuseum.org) - 548 points by [andreww591](https://news.ycombinator.com/user?id=andreww591), [126 comments](https://news.ycombinator.com/item?id=48195009)
+3. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) (blog.google) - 334 points by [berkeleyjunk](https://news.ycombinator.com/user?id=berkeleyjunk), [496 comments](https://news.ycombinator.com/item?id=48197370)
+4. [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/) (openai.com) - 162 points by [smooke](https://news.ycombinator.com/user?id=smooke), [76 comments](https://news.ycombinator.com/item?id=48198291)
+5. [Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge) (github.com) - 212 points by [zambelli](https://news.ycombinator.com/user?id=zambelli), [78 comments](https://news.ycombinator.com/item?id=48192383)
+6. [Mistral AI Acquires Emmi AI to Create the Leading AI Stack](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) (emmi.ai) - 148 points by [doener](https://news.ycombinator.com/user?id=doener), [34 comments](https://news.ycombinator.com/item?id=48197995)
+7. [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html) (nesbitt.io) - 128 points by [chmaynard](https://news.ycombinator.com/user?id=chmaynard), [60 comments](https://news.ycombinator.com/item?id=48198127)
+8. [Apple unveils new accessibility features](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/) (apple.com) - 574 points by [interpol_p](https://news.ycombinator.com/user?id=interpol_p), [289 comments](https://news.ycombinator.com/item?id=48192224)
+9. [Minnesota becomes first state to ban prediction markets](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets) (npr.org) - 349 points by [ortusdux](https://news.ycombinator.com/user?id=ortusdux), [126 comments](https://news.ycombinator.com/item?id=48197980)
+10. [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/) (distill.pub) - 55 points by [pulkitsh1234](https://news.ycombinator.com/user?id=pulkitsh1234), [5 comments](https://news.ycombinator.com/item?id=48172320)
 
 ## 2026-05-19
 
