@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48212493,
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "score": 645,
+    "by": "tedsanders",
+    "descendants": 458,
+    "time": 1779303930
+  },
+  {
+    "rank": 2,
+    "id": 48207660,
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "score": 462,
+    "by": "Timofeibu",
+    "descendants": 149,
+    "time": 1779284617
+  },
+  {
+    "rank": 3,
+    "id": 48215418,
+    "title": "DOS Zone",
+    "url": "https://dos.zone/",
+    "score": 49,
+    "by": "rglover",
+    "descendants": 11,
+    "time": 1779317607
+  },
+  {
+    "rank": 4,
+    "id": 48212046,
+    "title": "Flipper One Tech Specs",
+    "url": "https://docs.flipper.net/one/general/tech-specs",
+    "score": 216,
+    "by": "gregsadetsky",
+    "descendants": 78,
+    "time": 1779302036
+  },
+  {
+    "rank": 5,
+    "id": 48174920,
+    "title": "How fast is N tokens per second really?",
+    "url": "https://mikeveerman.github.io/tokenspeed/",
+    "score": 280,
+    "by": "hexagr",
+    "descendants": 70,
+    "time": 1779069878
+  },
+  {
+    "rank": 6,
+    "id": 48213651,
+    "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+    "url": "https://legiscan.com/CO/bill/SB051/2026",
+    "score": 60,
+    "by": "ki4jgt",
+    "descendants": 21,
+    "time": 1779308898
+  },
+  {
+    "rank": 7,
+    "id": 48214449,
+    "title": "Google Declaring War on the Web",
+    "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+    "score": 265,
+    "by": "cdrnsf",
+    "descendants": 150,
+    "time": 1779312798
+  },
+  {
+    "rank": 8,
+    "id": 48205626,
+    "title": "Qwen3.7-Max: The Agent Frontier",
+    "url": "https://qwen.ai/blog?id=qwen3.7",
+    "score": 595,
+    "by": "kevinsimper",
+    "descendants": 237,
+    "time": 1779273302
+  },
+  {
+    "rank": 9,
+    "id": 48214017,
+    "title": "Anthropic is expanding to Colossus2. Will use GB200",
+    "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
+    "score": 24,
+    "by": "aurareturn",
+    "descendants": 9,
+    "time": 1779310552
+  },
+  {
+    "rank": 10,
+    "id": 48211134,
+    "title": "Why is Inkwell stuck in review",
+    "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+    "score": 97,
+    "by": "speckx",
+    "descendants": 28,
+    "time": 1779298215
+  }
+]

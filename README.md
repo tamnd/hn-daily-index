@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15) | [May 14](#2026-05-14)
+Recent: [May 21](#2026-05-21) | [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16) | [May 15](#2026-05-15)
 
-### [2026](data/2026/) (140/140 days)
+### [2026](data/2026/) (141/141 days)
 
-[**May**](data/2026/05/) (20/20)
+[**May**](data/2026/05/) (21/21)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
-| [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) |  |  |  |  |
+| [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2123,6 +2123,21 @@ Recent: [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18) | 
 </details>
 
 ---
+
+## 2026-05-21
+
+*Thursday*
+
+1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) (openai.com) - 645 points by [tedsanders](https://news.ycombinator.com/user?id=tedsanders), [458 comments](https://news.ycombinator.com/item?id=48212493)
+2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) (bleepingcomputer.com) - 462 points by [Timofeibu](https://news.ycombinator.com/user?id=Timofeibu), [149 comments](https://news.ycombinator.com/item?id=48207660)
+3. [DOS Zone](https://dos.zone/) (dos.zone) - 49 points by [rglover](https://news.ycombinator.com/user?id=rglover), [11 comments](https://news.ycombinator.com/item?id=48215418)
+4. [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs) (docs.flipper.net) - 216 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [78 comments](https://news.ycombinator.com/item?id=48212046)
+5. [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/) (mikeveerman.github.io) - 280 points by [hexagr](https://news.ycombinator.com/user?id=hexagr), [70 comments](https://news.ycombinator.com/item?id=48174920)
+6. [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026) (legiscan.com) - 60 points by [ki4jgt](https://news.ycombinator.com/user?id=ki4jgt), [21 comments](https://news.ycombinator.com/item?id=48213651)
+7. [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/) (tante.cc) - 265 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [150 comments](https://news.ycombinator.com/item?id=48214449)
+8. [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7) (qwen.ai) - 595 points by [kevinsimper](https://news.ycombinator.com/user?id=kevinsimper), [237 comments](https://news.ycombinator.com/item?id=48205626)
+9. [Anthropic is expanding to Colossus2. Will use GB200](https://xcancel.com/nottombrown/status/2057194829986300375) (xcancel.com) - 24 points by [aurareturn](https://news.ycombinator.com/user?id=aurareturn), [9 comments](https://news.ycombinator.com/item?id=48214017)
+10. [Why is Inkwell stuck in review](https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html) (manton.org) - 97 points by [speckx](https://news.ycombinator.com/user?id=speckx), [28 comments](https://news.ycombinator.com/item?id=48211134)
 
 ## 2026-05-20
 

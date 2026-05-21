@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-21 (Thursday)](#2026-05-21)
 - [2026-05-20 (Wednesday)](#2026-05-20)
 - [2026-05-19 (Tuesday)](#2026-05-19)
 - [2026-05-18 (Monday)](#2026-05-18)
@@ -24,6 +25,21 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-21
+
+*Thursday*
+
+1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) (openai.com) - 645 points by [tedsanders](https://news.ycombinator.com/user?id=tedsanders), [458 comments](https://news.ycombinator.com/item?id=48212493)
+2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) (bleepingcomputer.com) - 462 points by [Timofeibu](https://news.ycombinator.com/user?id=Timofeibu), [149 comments](https://news.ycombinator.com/item?id=48207660)
+3. [DOS Zone](https://dos.zone/) (dos.zone) - 49 points by [rglover](https://news.ycombinator.com/user?id=rglover), [11 comments](https://news.ycombinator.com/item?id=48215418)
+4. [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs) (docs.flipper.net) - 216 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [78 comments](https://news.ycombinator.com/item?id=48212046)
+5. [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/) (mikeveerman.github.io) - 280 points by [hexagr](https://news.ycombinator.com/user?id=hexagr), [70 comments](https://news.ycombinator.com/item?id=48174920)
+6. [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026) (legiscan.com) - 60 points by [ki4jgt](https://news.ycombinator.com/user?id=ki4jgt), [21 comments](https://news.ycombinator.com/item?id=48213651)
+7. [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/) (tante.cc) - 265 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [150 comments](https://news.ycombinator.com/item?id=48214449)
+8. [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7) (qwen.ai) - 595 points by [kevinsimper](https://news.ycombinator.com/user?id=kevinsimper), [237 comments](https://news.ycombinator.com/item?id=48205626)
+9. [Anthropic is expanding to Colossus2. Will use GB200](https://xcancel.com/nottombrown/status/2057194829986300375) (xcancel.com) - 24 points by [aurareturn](https://news.ycombinator.com/user?id=aurareturn), [9 comments](https://news.ycombinator.com/item?id=48214017)
+10. [Why is Inkwell stuck in review](https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html) (manton.org) - 97 points by [speckx](https://news.ycombinator.com/user?id=speckx), [28 comments](https://news.ycombinator.com/item?id=48211134)
 
 ## 2026-05-20
 
