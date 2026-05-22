@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48225297,
+    "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
+    "url": "https://valhovey.github.io/gaia-mary/",
+    "score": 495,
+    "by": "speleo",
+    "descendants": 121,
+    "time": 1779380591
+  },
+  {
+    "rank": 2,
+    "id": 48227860,
+    "title": "Using Kagi Search with Low Vision",
+    "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+    "score": 103,
+    "by": "speckx",
+    "descendants": 16,
+    "time": 1779391936
+  },
+  {
+    "rank": 3,
+    "id": 48227397,
+    "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+    "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+    "score": 144,
+    "by": "speckx",
+    "descendants": 84,
+    "time": 1779389695
+  },
+  {
+    "rank": 4,
+    "id": 48220105,
+    "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+    "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "score": 558,
+    "by": "sofumel",
+    "descendants": 498,
+    "time": 1779356986
+  },
+  {
+    "rank": 5,
+    "id": 48184402,
+    "title": "Was my $48K GPU server worth it?",
+    "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+    "score": 249,
+    "by": "apwheele",
+    "descendants": 188,
+    "time": 1779132783
+  },
+  {
+    "rank": 6,
+    "id": 48223362,
+    "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "url": "https://freenet.org/",
+    "score": 177,
+    "by": "sanity",
+    "descendants": 89,
+    "time": 1779374097
+  },
+  {
+    "rank": 7,
+    "id": 48228788,
+    "title": "Uv is fantastic, but its package management UX is a mess",
+    "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+    "score": 43,
+    "by": "nchagnet",
+    "descendants": 13,
+    "time": 1779396996
+  },
+  {
+    "rank": 8,
+    "id": 48229319,
+    "title": "AI is killing the cheap smartphone",
+    "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+    "score": 23,
+    "by": "d0ks",
+    "descendants": 1,
+    "time": 1779400556
+  },
+  {
+    "rank": 9,
+    "id": 48222733,
+    "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+    "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+    "score": 274,
+    "by": "asenna",
+    "descendants": 89,
+    "time": 1779372097
+  },
+  {
+    "rank": 10,
+    "id": 48225357,
+    "title": "Spotify will start reserving concert tickets for fans",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+    "score": 89,
+    "by": "elffjs",
+    "descendants": 186,
+    "time": 1779380818
+  }
+]

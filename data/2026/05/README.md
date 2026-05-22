@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-22 (Friday)](#2026-05-22)
 - [2026-05-21 (Thursday)](#2026-05-21)
 - [2026-05-20 (Wednesday)](#2026-05-20)
 - [2026-05-19 (Tuesday)](#2026-05-19)
@@ -25,6 +26,21 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-22
+
+*Friday*
+
+1. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) (valhovey.github.io) - 495 points by [speleo](https://news.ycombinator.com/user?id=speleo), [121 comments](https://news.ycombinator.com/item?id=48225297)
+2. [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/) (veroniiiica.com) - 103 points by [speckx](https://news.ycombinator.com/user?id=speckx), [16 comments](https://news.ycombinator.com/item?id=48227860)
+3. [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) (crocidb.com) - 144 points by [speckx](https://news.ycombinator.com/user?id=speckx), [84 comments](https://news.ycombinator.com/item?id=48227397)
+4. [We're testing new ad formats in Search and expanding our Direct Offers pilot](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/) (blog.google) - 558 points by [sofumel](https://news.ycombinator.com/user?id=sofumel), [498 comments](https://news.ycombinator.com/item?id=48220105)
+5. [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/) (rosmine.ai) - 249 points by [apwheele](https://news.ycombinator.com/user?id=apwheele), [188 comments](https://news.ycombinator.com/item?id=48184402)
+6. [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/) (freenet.org) - 177 points by [sanity](https://news.ycombinator.com/user?id=sanity), [89 comments](https://news.ycombinator.com/item?id=48223362)
+7. [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/) (loopwerk.io) - 43 points by [nchagnet](https://news.ycombinator.com/user?id=nchagnet), [13 comments](https://news.ycombinator.com/item?id=48228788)
+8. [AI is killing the cheap smartphone](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone) (davidoks.blog) - 23 points by [d0ks](https://news.ycombinator.com/user?id=d0ks), [1 comments](https://news.ycombinator.com/item?id=48229319)
+9. [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/) (blog.simbastack.com) - 274 points by [asenna](https://news.ycombinator.com/user?id=asenna), [89 comments](https://news.ycombinator.com/item?id=48222733)
+10. [Spotify will start reserving concert tickets for fans](https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/) (hollywoodreporter.com) - 89 points by [elffjs](https://news.ycombinator.com/user?id=elffjs), [186 comments](https://news.ycombinator.com/item?id=48225357)
 
 ## 2026-05-21
 
