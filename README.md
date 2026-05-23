@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17) | [May 16](#2026-05-16)
+Recent: [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17)
 
-### [2026](data/2026/) (142/142 days)
+### [2026](data/2026/) (143/143 days)
 
-[**May**](data/2026/05/) (22/22)
+[**May**](data/2026/05/) (23/23)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
-| [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) |  |  |
+| [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) | [**23**](#2026-05-23) |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2123,6 +2123,21 @@ Recent: [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20) | 
 </details>
 
 ---
+
+## 2026-05-23
+
+*Saturday*
+
+1. [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) (notesbylex.com) - 127 points by [lexandstuff](https://news.ycombinator.com/user?id=lexandstuff), [15 comments](https://news.ycombinator.com/item?id=48241997)
+2. [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) (davidoks.blog) - 451 points by [d0ks](https://news.ycombinator.com/user?id=d0ks), [266 comments](https://news.ycombinator.com/item?id=48237163)
+3. [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) (anthropic.com) - 277 points by [louiereederson](https://news.ycombinator.com/user?id=louiereederson), [183 comments](https://news.ycombinator.com/item?id=48240419)
+4. [Why We've Filed a Referendum](https://www.stopstratos.org) (stopstratos.org) - 30 points by [mrwaffle](https://news.ycombinator.com/user?id=mrwaffle), [2 comments](https://news.ycombinator.com/item?id=48242668)
+5. [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft) (modrinth.com) - 100 points by [Jotalea](https://news.ycombinator.com/user?id=Jotalea), [21 comments](https://news.ycombinator.com/item?id=48213529)
+6. [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) (temertymedicine.utoronto.ca) - 33 points by [colinprince](https://news.ycombinator.com/user?id=colinprince), [16 comments](https://news.ycombinator.com/item?id=48242278)
+7. [Don't just paste the AI at me](https://dontquotetheai.com/) (dontquotetheai.com) - 24 points by [khaosdoctor](https://news.ycombinator.com/user?id=khaosdoctor), [13 comments](https://news.ycombinator.com/item?id=48242648)
+8. [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) (kanbots.dev) - 151 points by [vitriapp](https://news.ycombinator.com/user?id=vitriapp), [89 comments](https://news.ycombinator.com/item?id=48239413)
+9. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) (krebsonsecurity.com) - 112 points by [speckx](https://news.ycombinator.com/user?id=speckx), [31 comments](https://news.ycombinator.com/item?id=48238429)
+10. [I’m Writing Again](https://www.cringely.com/2026/05/21/im-writing-again/) (cringely.com) - 85 points by [dan_hawkins](https://news.ycombinator.com/user?id=dan_hawkins), [21 comments](https://news.ycombinator.com/item?id=48236501)
 
 ## 2026-05-22
 
