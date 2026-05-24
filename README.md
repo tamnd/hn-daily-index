@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18) | [May 17](#2026-05-17)
+Recent: [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18)
 
-### [2026](data/2026/) (143/143 days)
+### [2026](data/2026/) (144/144 days)
 
-[**May**](data/2026/05/) (23/23)
+[**May**](data/2026/05/) (24/24)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  | [**1**](#2026-05-01) | [**2**](#2026-05-02) | [**3**](#2026-05-03) |
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
-| [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) | [**23**](#2026-05-23) |  |
+| [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) | [**23**](#2026-05-23) | [**24**](#2026-05-24) |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2123,6 +2123,21 @@ Recent: [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | 
 </details>
 
 ---
+
+## 2026-05-24
+
+*Sunday*
+
+1. [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) (veronicaexplains.net) - 249 points by [hggh](https://news.ycombinator.com/user?id=hggh), [127 comments](https://news.ycombinator.com/item?id=48250144)
+2. [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html) (susam.net) - 51 points by [adunk](https://news.ycombinator.com/user?id=adunk), [39 comments](https://news.ycombinator.com/item?id=48252192)
+3. [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) (sales-and-dungeons.app) - 25 points by [hyperific](https://news.ycombinator.com/user?id=hyperific), [9 comments](https://news.ycombinator.com/item?id=48232721)
+4. [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) (arslan.io) - 194 points by [James72689](https://news.ycombinator.com/user?id=James72689), [120 comments](https://news.ycombinator.com/item?id=48214311)
+5. [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) (benmyers.dev) - 339 points by [ravenical](https://news.ycombinator.com/user?id=ravenical), [106 comments](https://news.ycombinator.com/item?id=48247325)
+6. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) (nytimes.com) - 460 points by [tlhunter](https://news.ycombinator.com/user?id=tlhunter), [838 comments](https://news.ycombinator.com/item?id=48241890)
+7. [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html) (khz.ac) - 10 points by [nosolace](https://news.ycombinator.com/user?id=nosolace), [1 comments](https://news.ycombinator.com/item?id=48252535)
+8. [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/) (andrewlock.net) - 125 points by [ingve](https://news.ycombinator.com/user?id=ingve), [105 comments](https://news.ycombinator.com/item?id=48234954)
+9. [Hengefinder: Finding when the sun aligns with your street](https://victoriaritvo.com/blog/hengefinder/) (victoriaritvo.com) - 102 points by [evakhoury](https://news.ycombinator.com/user?id=evakhoury), [24 comments](https://news.ycombinator.com/item?id=48241335)
+10. [New map reveals lost roads of the Roman Empire](https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/) (scientificamerican.com) - 33 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [4 comments](https://news.ycombinator.com/item?id=48206543)
 
 ## 2026-05-23
 

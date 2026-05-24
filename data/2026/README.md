@@ -2,13 +2,28 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [May](05/) (23 days)
+- [May](05/) (24 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-05-24
+
+*Sunday*
+
+1. [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) (veronicaexplains.net) - 249 points by [hggh](https://news.ycombinator.com/user?id=hggh), [127 comments](https://news.ycombinator.com/item?id=48250144)
+2. [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html) (susam.net) - 51 points by [adunk](https://news.ycombinator.com/user?id=adunk), [39 comments](https://news.ycombinator.com/item?id=48252192)
+3. [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) (sales-and-dungeons.app) - 25 points by [hyperific](https://news.ycombinator.com/user?id=hyperific), [9 comments](https://news.ycombinator.com/item?id=48232721)
+4. [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) (arslan.io) - 194 points by [James72689](https://news.ycombinator.com/user?id=James72689), [120 comments](https://news.ycombinator.com/item?id=48214311)
+5. [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) (benmyers.dev) - 339 points by [ravenical](https://news.ycombinator.com/user?id=ravenical), [106 comments](https://news.ycombinator.com/item?id=48247325)
+6. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) (nytimes.com) - 460 points by [tlhunter](https://news.ycombinator.com/user?id=tlhunter), [838 comments](https://news.ycombinator.com/item?id=48241890)
+7. [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html) (khz.ac) - 10 points by [nosolace](https://news.ycombinator.com/user?id=nosolace), [1 comments](https://news.ycombinator.com/item?id=48252535)
+8. [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/) (andrewlock.net) - 125 points by [ingve](https://news.ycombinator.com/user?id=ingve), [105 comments](https://news.ycombinator.com/item?id=48234954)
+9. [Hengefinder: Finding when the sun aligns with your street](https://victoriaritvo.com/blog/hengefinder/) (victoriaritvo.com) - 102 points by [evakhoury](https://news.ycombinator.com/user?id=evakhoury), [24 comments](https://news.ycombinator.com/item?id=48241335)
+10. [New map reveals lost roads of the Roman Empire](https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/) (scientificamerican.com) - 33 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [4 comments](https://news.ycombinator.com/item?id=48206543)
 
 ## 2026-05-23
 
