@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20) | [May 19](#2026-05-19) | [May 18](#2026-05-18)
+Recent: [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20) | [May 19](#2026-05-19)
 
-### [2026](data/2026/) (144/144 days)
+### [2026](data/2026/) (145/145 days)
 
-[**May**](data/2026/05/) (24/24)
+[**May**](data/2026/05/) (25/25)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,6 +25,7 @@ Recent: [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | 
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
 | [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) | [**23**](#2026-05-23) | [**24**](#2026-05-24) |
+| [**25**](#2026-05-25) |  |  |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2123,6 +2124,21 @@ Recent: [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | 
 </details>
 
 ---
+
+## 2026-05-25
+
+*Monday*
+
+1. [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) (audiomass.co) - 99 points by [pantelisk](https://news.ycombinator.com/user?id=pantelisk), [25 comments](https://news.ycombinator.com/item?id=48258015)
+2. [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) (esengine.github.io) - 400 points by [Alifatisk](https://news.ycombinator.com/user?id=Alifatisk), [190 comments](https://news.ycombinator.com/item?id=48256953)
+3. [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) (ikesau.co) - 78 points by [ikesau](https://news.ycombinator.com/user?id=ikesau), [52 comments](https://news.ycombinator.com/item?id=48259861)
+4. [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/) (alphapixeldev.com) - 44 points by [miffe](https://news.ycombinator.com/user?id=miffe), [6 comments](https://news.ycombinator.com/item?id=48216146)
+5. [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) (epoch.ai) - 268 points by [intelkishan](https://news.ycombinator.com/user?id=intelkishan), [285 comments](https://news.ycombinator.com/item?id=48258684)
+6. [Using HTTP/2 Cleartext for a server in Go 1.24](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run) (clarityboss.com) - 46 points by [dan_sbl](https://news.ycombinator.com/user?id=dan_sbl), [3 comments](https://news.ycombinator.com/item?id=48195698)
+7. [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) (dougmacdowell.com) - 411 points by [dougdude3339](https://news.ycombinator.com/user?id=dougdude3339), [72 comments](https://news.ycombinator.com/item?id=48223997)
+8. [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445) (arxiv.org) - 159 points by [wek](https://news.ycombinator.com/user?id=wek), [81 comments](https://news.ycombinator.com/item?id=48256912)
+9. [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) (wired.com) - 30 points by [littlexsparkee](https://news.ycombinator.com/user?id=littlexsparkee), [15 comments](https://news.ycombinator.com/item?id=48260117)
+10. [Mastering Dyalog APL](https://mastering.dyalog.com/README.html) (mastering.dyalog.com) - 121 points by [tosh](https://news.ycombinator.com/user?id=tosh), [35 comments](https://news.ycombinator.com/item?id=48256475)
 
 ## 2026-05-24
 
