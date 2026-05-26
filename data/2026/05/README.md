@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-26 (Tuesday)](#2026-05-26)
 - [2026-05-25 (Monday)](#2026-05-25)
 - [2026-05-24 (Sunday)](#2026-05-24)
 - [2026-05-23 (Saturday)](#2026-05-23)
@@ -29,6 +30,21 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-26
+
+*Tuesday*
+
+1. [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) (promptarmor.com) - 165 points by [Kneenex](https://news.ycombinator.com/user?id=Kneenex), [32 comments](https://news.ycombinator.com/item?id=48272354)
+2. [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) (blocksandfiles.com) - 131 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [68 comments](https://news.ycombinator.com/item?id=48270770)
+3. [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115) (support.apple.com) - 11 points by [dragonsenseiguy](https://news.ycombinator.com/user?id=dragonsenseiguy), [0 comments](https://news.ycombinator.com/item?id=48273169)
+4. [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) (mullvad.net) - 242 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [38 comments](https://news.ycombinator.com/item?id=48269580)
+5. [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) (tomshardware.com) - 568 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [249 comments](https://news.ycombinator.com/item?id=48269961)
+6. [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee) (github.com) - 50 points by [boratanrikulu](https://news.ycombinator.com/user?id=boratanrikulu), [27 comments](https://news.ycombinator.com/item?id=48225338)
+7. [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) (nolanlawson.com) - 8 points by [signa11](https://news.ycombinator.com/user?id=signa11), [0 comments](https://news.ycombinator.com/item?id=48272984)
+8. [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) (vatican.va) - 1.3k points by [theletterf](https://news.ycombinator.com/user?id=theletterf), [720 comments](https://news.ycombinator.com/item?id=48265206)
+9. [Toshifumi Suzuki, founder of Seven-Eleven Japan, has died](https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html) (referenceforbusiness.com) - 103 points by [L_Rahman](https://news.ycombinator.com/user?id=L_Rahman), [42 comments](https://news.ycombinator.com/item?id=48268609)
+10. [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) (unix.foo) - 55 points by [zdw](https://news.ycombinator.com/user?id=zdw), [47 comments](https://news.ycombinator.com/item?id=48273030)
 
 ## 2026-05-25
 

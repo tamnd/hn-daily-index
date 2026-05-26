@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20) | [May 19](#2026-05-19)
+Recent: [May 26](#2026-05-26) | [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20)
 
-### [2026](data/2026/) (145/145 days)
+### [2026](data/2026/) (146/146 days)
 
-[**May**](data/2026/05/) (25/25)
+[**May**](data/2026/05/) (26/26)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23) | 
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
 | [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) | [**23**](#2026-05-23) | [**24**](#2026-05-24) |
-| [**25**](#2026-05-25) |  |  |  |  |  |  |
+| [**25**](#2026-05-25) | [**26**](#2026-05-26) |  |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2124,6 +2124,21 @@ Recent: [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23) | 
 </details>
 
 ---
+
+## 2026-05-26
+
+*Tuesday*
+
+1. [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) (promptarmor.com) - 165 points by [Kneenex](https://news.ycombinator.com/user?id=Kneenex), [32 comments](https://news.ycombinator.com/item?id=48272354)
+2. [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) (blocksandfiles.com) - 131 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [68 comments](https://news.ycombinator.com/item?id=48270770)
+3. [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115) (support.apple.com) - 11 points by [dragonsenseiguy](https://news.ycombinator.com/user?id=dragonsenseiguy), [0 comments](https://news.ycombinator.com/item?id=48273169)
+4. [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) (mullvad.net) - 242 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [38 comments](https://news.ycombinator.com/item?id=48269580)
+5. [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) (tomshardware.com) - 568 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [249 comments](https://news.ycombinator.com/item?id=48269961)
+6. [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee) (github.com) - 50 points by [boratanrikulu](https://news.ycombinator.com/user?id=boratanrikulu), [27 comments](https://news.ycombinator.com/item?id=48225338)
+7. [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) (nolanlawson.com) - 8 points by [signa11](https://news.ycombinator.com/user?id=signa11), [0 comments](https://news.ycombinator.com/item?id=48272984)
+8. [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) (vatican.va) - 1.3k points by [theletterf](https://news.ycombinator.com/user?id=theletterf), [720 comments](https://news.ycombinator.com/item?id=48265206)
+9. [Toshifumi Suzuki, founder of Seven-Eleven Japan, has died](https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html) (referenceforbusiness.com) - 103 points by [L_Rahman](https://news.ycombinator.com/user?id=L_Rahman), [42 comments](https://news.ycombinator.com/item?id=48268609)
+10. [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) (unix.foo) - 55 points by [zdw](https://news.ycombinator.com/user?id=zdw), [47 comments](https://news.ycombinator.com/item?id=48273030)
 
 ## 2026-05-25
 

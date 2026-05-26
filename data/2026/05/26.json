@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48272354,
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+    "score": 165,
+    "by": "Kneenex",
+    "descendants": 32,
+    "time": 1779745557
+  },
+  {
+    "rank": 2,
+    "id": 48270770,
+    "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+    "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+    "score": 131,
+    "by": "rbanffy",
+    "descendants": 68,
+    "time": 1779737877
+  },
+  {
+    "rank": 3,
+    "id": 48273169,
+    "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+    "url": "https://support.apple.com/en-us/127115",
+    "score": 11,
+    "by": "dragonsenseiguy",
+    "descendants": 0,
+    "time": 1779752440
+  },
+  {
+    "rank": 4,
+    "id": 48269580,
+    "title": "Exit IP VPN servers mitigation rollout",
+    "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+    "score": 242,
+    "by": "Cider9986",
+    "descendants": 38,
+    "time": 1779731111
+  },
+  {
+    "rank": 5,
+    "id": 48269961,
+    "title": "California moves to exempt Linux from its age-verification law after backlash",
+    "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "score": 568,
+    "by": "rbanffy",
+    "descendants": 249,
+    "time": 1779733198
+  },
+  {
+    "rank": 6,
+    "id": 48225338,
+    "title": "Show HN: Write your BPF programs in Go, not C",
+    "url": "https://github.com/boratanrikulu/gobee",
+    "score": 50,
+    "by": "boratanrikulu",
+    "descendants": 27,
+    "time": 1779380746
+  },
+  {
+    "rank": 7,
+    "id": 48272984,
+    "title": "Using AI to write better code more slowly",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "score": 8,
+    "by": "signa11",
+    "descendants": 0,
+    "time": 1779751019
+  },
+  {
+    "rank": 8,
+    "id": 48265206,
+    "title": "Magnifica Humanitas",
+    "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "score": 1301,
+    "by": "theletterf",
+    "descendants": 720,
+    "time": 1779703889
+  },
+  {
+    "rank": 9,
+    "id": 48268609,
+    "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+    "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+    "score": 103,
+    "by": "L_Rahman",
+    "descendants": 42,
+    "time": 1779726036
+  },
+  {
+    "rank": 10,
+    "id": 48273030,
+    "title": "Nobody cracks open a programming book anymore",
+    "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+    "score": 55,
+    "by": "zdw",
+    "descendants": 47,
+    "time": 1779751317
+  }
+]
