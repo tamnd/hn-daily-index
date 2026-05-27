@@ -2,13 +2,28 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [May](05/) (26 days)
+- [May](05/) (27 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-05-27
+
+*Wednesday*
+
+1. [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) (science.org) - 196 points by [nooks](https://news.ycombinator.com/user?id=nooks), [77 comments](https://news.ycombinator.com/item?id=48284712)
+2. [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) (unsung.aresluna.org) - 224 points by [zdw](https://news.ycombinator.com/user?id=zdw), [51 comments](https://news.ycombinator.com/item?id=48271448)
+3. [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) (djspeckhals.com) - 149 points by [dustin1114](https://news.ycombinator.com/user?id=dustin1114), [36 comments](https://news.ycombinator.com/item?id=48238703)
+4. [Colorado and California Exempt Open Source from Age Attestation](https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation) (system76.com) - 19 points by [pull_my_finger](https://news.ycombinator.com/user?id=pull_my_finger), [1 comments](https://news.ycombinator.com/item?id=48287007)
+5. [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/) (bcantrill.dtrace.org) - 33 points by [cafkafk](https://news.ycombinator.com/user?id=cafkafk), [10 comments](https://news.ycombinator.com/item?id=48275564)
+6. [C array types are weird](https://anselmschueler.com/blogposts/2025-c-pointers/) (anselmschueler.com) - 44 points by [signa11](https://news.ycombinator.com/user?id=signa11), [21 comments](https://news.ycombinator.com/item?id=48263560)
+7. [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943) (medium.com) - 228 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [112 comments](https://news.ycombinator.com/item?id=48285592)
+8. [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind) (github.com) - 115 points by [samuell](https://news.ycombinator.com/user?id=samuell), [29 comments](https://news.ycombinator.com/item?id=48222600)
+9. [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/) (reuters.com) - 748 points by [thm](https://news.ycombinator.com/user?id=thm), [340 comments](https://news.ycombinator.com/item?id=48279316)
+10. [The Steinwinter Supercargo](https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today) (thedrive.com) - 36 points by [itronitron](https://news.ycombinator.com/user?id=itronitron), [4 comments](https://news.ycombinator.com/item?id=48251709)
 
 ## 2026-05-26
 

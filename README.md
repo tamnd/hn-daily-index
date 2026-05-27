@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 26](#2026-05-26) | [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21) | [May 20](#2026-05-20)
+Recent: [May 27](#2026-05-27) | [May 26](#2026-05-26) | [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22) | [May 21](#2026-05-21)
 
-### [2026](data/2026/) (146/146 days)
+### [2026](data/2026/) (147/147 days)
 
-[**May**](data/2026/05/) (26/26)
+[**May**](data/2026/05/) (27/27)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [May 26](#2026-05-26) | [May 25](#2026-05-25) | [May 24](#2026-05-24) | 
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
 | [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) | [**23**](#2026-05-23) | [**24**](#2026-05-24) |
-| [**25**](#2026-05-25) | [**26**](#2026-05-26) |  |  |  |  |  |
+| [**25**](#2026-05-25) | [**26**](#2026-05-26) | [**27**](#2026-05-27) |  |  |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2124,6 +2124,21 @@ Recent: [May 26](#2026-05-26) | [May 25](#2026-05-25) | [May 24](#2026-05-24) | 
 </details>
 
 ---
+
+## 2026-05-27
+
+*Wednesday*
+
+1. [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) (science.org) - 196 points by [nooks](https://news.ycombinator.com/user?id=nooks), [77 comments](https://news.ycombinator.com/item?id=48284712)
+2. [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) (unsung.aresluna.org) - 224 points by [zdw](https://news.ycombinator.com/user?id=zdw), [51 comments](https://news.ycombinator.com/item?id=48271448)
+3. [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) (djspeckhals.com) - 149 points by [dustin1114](https://news.ycombinator.com/user?id=dustin1114), [36 comments](https://news.ycombinator.com/item?id=48238703)
+4. [Colorado and California Exempt Open Source from Age Attestation](https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation) (system76.com) - 19 points by [pull_my_finger](https://news.ycombinator.com/user?id=pull_my_finger), [1 comments](https://news.ycombinator.com/item?id=48287007)
+5. [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/) (bcantrill.dtrace.org) - 33 points by [cafkafk](https://news.ycombinator.com/user?id=cafkafk), [10 comments](https://news.ycombinator.com/item?id=48275564)
+6. [C array types are weird](https://anselmschueler.com/blogposts/2025-c-pointers/) (anselmschueler.com) - 44 points by [signa11](https://news.ycombinator.com/user?id=signa11), [21 comments](https://news.ycombinator.com/item?id=48263560)
+7. [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943) (medium.com) - 228 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [112 comments](https://news.ycombinator.com/item?id=48285592)
+8. [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind) (github.com) - 115 points by [samuell](https://news.ycombinator.com/user?id=samuell), [29 comments](https://news.ycombinator.com/item?id=48222600)
+9. [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/) (reuters.com) - 748 points by [thm](https://news.ycombinator.com/user?id=thm), [340 comments](https://news.ycombinator.com/item?id=48279316)
+10. [The Steinwinter Supercargo](https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today) (thedrive.com) - 36 points by [itronitron](https://news.ycombinator.com/user?id=itronitron), [4 comments](https://news.ycombinator.com/item?id=48251709)
 
 ## 2026-05-26
 
