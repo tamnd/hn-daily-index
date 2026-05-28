@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-28 (Thursday)](#2026-05-28)
 - [2026-05-27 (Wednesday)](#2026-05-27)
 - [2026-05-26 (Tuesday)](#2026-05-26)
 - [2026-05-25 (Monday)](#2026-05-25)
@@ -31,6 +32,20 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-28
+
+*Thursday*
+
+1. [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) (blog.youtube) - 467 points by [nopg](https://news.ycombinator.com/user?id=nopg), [274 comments](https://news.ycombinator.com/item?id=48299753)
+2. [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) (simonwillison.net) - 601 points by [simonw](https://news.ycombinator.com/user?id=simonw), [730 comments](https://news.ycombinator.com/item?id=48296794)
+3. [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d) (radar.cloudflare.com) - 43 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [25 comments](https://news.ycombinator.com/item?id=48301603)
+4. [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) (jacquescorbytuech.com) - 151 points by [iamacyborg](https://news.ycombinator.com/user?id=iamacyborg), [153 comments](https://news.ycombinator.com/item?id=48299220)
+5. [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html) (thran.uk) - 262 points by [speckx](https://news.ycombinator.com/user?id=speckx), [99 comments](https://news.ycombinator.com/item?id=48297645)
+6. [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/) (sverre.me) - 85 points by [homarp](https://news.ycombinator.com/user?id=homarp), [10 comments](https://news.ycombinator.com/item?id=48299623)
+7. [Warm up your MacBook (2019)](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/) (z3ugma.github.io) - 42 points by [kristianp](https://news.ycombinator.com/user?id=kristianp), [38 comments](https://news.ycombinator.com/item?id=48300342)
+8. [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/) (pcgamer.com) - 636 points by [HelloUsername](https://news.ycombinator.com/user?id=HelloUsername), [315 comments](https://news.ycombinator.com/item?id=48296649)
+9. [On Labubu and the Hyperreal](https://2earth.github.io/website/20260525.html) (2earth.github.io) - 62 points by [2earth](https://news.ycombinator.com/user?id=2earth), [65 comments](https://news.ycombinator.com/item?id=48299335)
 
 ## 2026-05-27
 

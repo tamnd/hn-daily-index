@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": 48299753,
+    "title": "YouTube to automatically label AI-generated videos",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "score": 467,
+    "by": "nopg",
+    "descendants": 274,
+    "time": 1779912051
+  },
+  {
+    "rank": 2,
+    "id": 48296794,
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "score": 601,
+    "by": "simonw",
+    "descendants": 730,
+    "time": 1779899953
+  },
+  {
+    "rank": 3,
+    "id": 48301603,
+    "title": "Internet traffic in Iran increasing",
+    "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+    "score": 43,
+    "by": "Cider9986",
+    "descendants": 25,
+    "time": 1779920665
+  },
+  {
+    "rank": 4,
+    "id": 48299220,
+    "title": "What Apple and Google are doing to push notifications",
+    "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+    "score": 151,
+    "by": "iamacyborg",
+    "descendants": 153,
+    "time": 1779909850
+  },
+  {
+    "rank": 5,
+    "id": 48297645,
+    "title": "SimCity 3k in 4k (2025)",
+    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "score": 262,
+    "by": "speckx",
+    "descendants": 99,
+    "time": 1779903389
+  },
+  {
+    "rank": 6,
+    "id": 48299623,
+    "title": "Rust (and Slint) on a Jailbroken Kindle",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "score": 85,
+    "by": "homarp",
+    "descendants": 10,
+    "time": 1779911507
+  },
+  {
+    "rank": 7,
+    "id": 48300342,
+    "title": "Warm up your MacBook (2019)",
+    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+    "score": 42,
+    "by": "kristianp",
+    "descendants": 38,
+    "time": 1779914521
+  },
+  {
+    "rank": 8,
+    "id": 48296649,
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "score": 636,
+    "by": "HelloUsername",
+    "descendants": 315,
+    "time": 1779899321
+  },
+  {
+    "rank": 9,
+    "id": 48299335,
+    "title": "On Labubu and the Hyperreal",
+    "url": "https://2earth.github.io/website/20260525.html",
+    "score": 62,
+    "by": "2earth",
+    "descendants": 65,
+    "time": 1779910307
+  }
+]
