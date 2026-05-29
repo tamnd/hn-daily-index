@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 28](#2026-05-28) | [May 27](#2026-05-27) | [May 26](#2026-05-26) | [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23) | [May 22](#2026-05-22)
+Recent: [May 29](#2026-05-29) | [May 28](#2026-05-28) | [May 27](#2026-05-27) | [May 26](#2026-05-26) | [May 25](#2026-05-25) | [May 24](#2026-05-24) | [May 23](#2026-05-23)
 
-### [2026](data/2026/) (148/148 days)
+### [2026](data/2026/) (149/149 days)
 
-[**May**](data/2026/05/) (28/28)
+[**May**](data/2026/05/) (29/29)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [May 28](#2026-05-28) | [May 27](#2026-05-27) | [May 26](#2026-05-26) | 
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
 | [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) | [**23**](#2026-05-23) | [**24**](#2026-05-24) |
-| [**25**](#2026-05-25) | [**26**](#2026-05-26) | [**27**](#2026-05-27) | [**28**](#2026-05-28) |  |  |  |
+| [**25**](#2026-05-25) | [**26**](#2026-05-26) | [**27**](#2026-05-27) | [**28**](#2026-05-28) | [**29**](#2026-05-29) |  |  |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2124,6 +2124,21 @@ Recent: [May 28](#2026-05-28) | [May 27](#2026-05-27) | [May 26](#2026-05-26) | 
 </details>
 
 ---
+
+## 2026-05-29
+
+*Friday*
+
+1. [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) (anthropic.com) - 1.2k points by [craigmart](https://news.ycombinator.com/user?id=craigmart), [932 comments](https://news.ycombinator.com/item?id=48311647)
+2. [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) (mybricklog.com) - 523 points by [philips](https://news.ycombinator.com/user?id=philips), [286 comments](https://news.ycombinator.com/item?id=48314136)
+3. [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/) (nick.winans.io) - 137 points by [mattrighetti](https://news.ycombinator.com/user?id=mattrighetti), [14 comments](https://news.ycombinator.com/item?id=48314951)
+4. [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895) (discourse.nixos.org) - 13 points by [agnishom](https://news.ycombinator.com/user?id=agnishom), [2 comments](https://news.ycombinator.com/item?id=48317043)
+5. [Various LLM Smells](https://shvbsle.in/various-llm-smells/) (shvbsle.in) - 194 points by [speckx](https://news.ycombinator.com/user?id=speckx), [139 comments](https://news.ycombinator.com/item?id=48313810)
+6. [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/) (chiark.greenend.org.uk) - 120 points by [speckx](https://news.ycombinator.com/user?id=speckx), [48 comments](https://news.ycombinator.com/item?id=48314002)
+7. [Ten Basic Clouds](https://www.noaa.gov/jetstream/clouds/ten-basic-clouds) (noaa.gov) - 14 points by [nopg](https://news.ycombinator.com/user?id=nopg), [3 comments](https://news.ycombinator.com/item?id=48261377)
+8. [I hated writing until I learned there’s a science to it (2024)](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it) (science.org) - 121 points by [o4c](https://news.ycombinator.com/user?id=o4c), [51 comments](https://news.ycombinator.com/item?id=48312528)
+9. [Building durable workflows on Postgres](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution) (dbos.dev) - 250 points by [KraftyOne](https://news.ycombinator.com/user?id=KraftyOne), [106 comments](https://news.ycombinator.com/item?id=48313530)
+10. [News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/) (jeffgeerling.com) - 134 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [96 comments](https://news.ycombinator.com/item?id=48276598)
 
 ## 2026-05-28
 

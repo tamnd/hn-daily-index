@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48311647,
+    "title": "Claude Opus 4.8",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "score": 1172,
+    "by": "craigmart",
+    "descendants": 932,
+    "time": 1779986954
+  },
+  {
+    "rank": 2,
+    "id": 48314136,
+    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "score": 523,
+    "by": "philips",
+    "descendants": 286,
+    "time": 1779996249
+  },
+  {
+    "rank": 3,
+    "id": 48314951,
+    "title": "I made a million dollar product from my dorm room (2025)",
+    "url": "https://nick.winans.io/blog/nice-nano/",
+    "score": 137,
+    "by": "mattrighetti",
+    "descendants": 14,
+    "time": 1779999921
+  },
+  {
+    "rank": 4,
+    "id": 48317043,
+    "title": "Garnix (A Nix CI) is shutting down",
+    "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+    "score": 13,
+    "by": "agnishom",
+    "descendants": 2,
+    "time": 1780011401
+  },
+  {
+    "rank": 5,
+    "id": 48313810,
+    "title": "Various LLM Smells",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "score": 194,
+    "by": "speckx",
+    "descendants": 139,
+    "time": 1779994938
+  },
+  {
+    "rank": 6,
+    "id": 48314002,
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "score": 120,
+    "by": "speckx",
+    "descendants": 48,
+    "time": 1779995754
+  },
+  {
+    "rank": 7,
+    "id": 48261377,
+    "title": "Ten Basic Clouds",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "score": 14,
+    "by": "nopg",
+    "descendants": 3,
+    "time": 1779659575
+  },
+  {
+    "rank": 8,
+    "id": 48312528,
+    "title": "I hated writing until I learned there\u2019s a science to it (2024)",
+    "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+    "score": 121,
+    "by": "o4c",
+    "descendants": 51,
+    "time": 1779989807
+  },
+  {
+    "rank": 9,
+    "id": 48313530,
+    "title": "Building durable workflows on Postgres",
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "score": 250,
+    "by": "KraftyOne",
+    "descendants": 106,
+    "time": 1779993706
+  },
+  {
+    "rank": 10,
+    "id": 48276598,
+    "title": "News about Raspberry Pi 6 and Microcontroller Development",
+    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+    "score": 134,
+    "by": "rbanffy",
+    "descendants": 96,
+    "time": 1779782572
+  }
+]

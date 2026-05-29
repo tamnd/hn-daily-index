@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in May 2026.
 
+- [2026-05-29 (Friday)](#2026-05-29)
 - [2026-05-28 (Thursday)](#2026-05-28)
 - [2026-05-27 (Wednesday)](#2026-05-27)
 - [2026-05-26 (Tuesday)](#2026-05-26)
@@ -32,6 +33,21 @@ Top 10 Hacker News stories for each day in May 2026.
 - [2026-05-01 (Friday)](#2026-05-01)
 
 ---
+
+## 2026-05-29
+
+*Friday*
+
+1. [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) (anthropic.com) - 1.2k points by [craigmart](https://news.ycombinator.com/user?id=craigmart), [932 comments](https://news.ycombinator.com/item?id=48311647)
+2. [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) (mybricklog.com) - 523 points by [philips](https://news.ycombinator.com/user?id=philips), [286 comments](https://news.ycombinator.com/item?id=48314136)
+3. [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/) (nick.winans.io) - 137 points by [mattrighetti](https://news.ycombinator.com/user?id=mattrighetti), [14 comments](https://news.ycombinator.com/item?id=48314951)
+4. [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895) (discourse.nixos.org) - 13 points by [agnishom](https://news.ycombinator.com/user?id=agnishom), [2 comments](https://news.ycombinator.com/item?id=48317043)
+5. [Various LLM Smells](https://shvbsle.in/various-llm-smells/) (shvbsle.in) - 194 points by [speckx](https://news.ycombinator.com/user?id=speckx), [139 comments](https://news.ycombinator.com/item?id=48313810)
+6. [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/) (chiark.greenend.org.uk) - 120 points by [speckx](https://news.ycombinator.com/user?id=speckx), [48 comments](https://news.ycombinator.com/item?id=48314002)
+7. [Ten Basic Clouds](https://www.noaa.gov/jetstream/clouds/ten-basic-clouds) (noaa.gov) - 14 points by [nopg](https://news.ycombinator.com/user?id=nopg), [3 comments](https://news.ycombinator.com/item?id=48261377)
+8. [I hated writing until I learned there’s a science to it (2024)](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it) (science.org) - 121 points by [o4c](https://news.ycombinator.com/user?id=o4c), [51 comments](https://news.ycombinator.com/item?id=48312528)
+9. [Building durable workflows on Postgres](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution) (dbos.dev) - 250 points by [KraftyOne](https://news.ycombinator.com/user?id=KraftyOne), [106 comments](https://news.ycombinator.com/item?id=48313530)
+10. [News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/) (jeffgeerling.com) - 134 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [96 comments](https://news.ycombinator.com/item?id=48276598)
 
 ## 2026-05-28
 
