@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48324853,
+    "title": "You can just say it",
+    "url": "https://noperator.dev/posts/you-can-just-say-it/",
+    "score": 128,
+    "by": "antirez",
+    "descendants": 39,
+    "time": 1780070068
+  },
+  {
+    "rank": 2,
+    "id": 48326802,
+    "title": "SQLite is all you need for durable workflows",
+    "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "score": 314,
+    "by": "tomasol",
+    "descendants": 181,
+    "time": 1780077290
+  },
+  {
+    "rank": 3,
+    "id": 48324712,
+    "title": "The dead economy theory",
+    "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+    "score": 626,
+    "by": "WillDaSilva",
+    "descendants": 811,
+    "time": 1780069584
+  },
+  {
+    "rank": 4,
+    "id": 48325340,
+    "title": "Notes from the Mistral AI Now Summit",
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "score": 300,
+    "by": "vnglst",
+    "descendants": 104,
+    "time": 1780071721
+  },
+  {
+    "rank": 5,
+    "id": 48327962,
+    "title": "Shift will clean homes for free to train future robots",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "score": 70,
+    "by": "evilsimon",
+    "descendants": 93,
+    "time": 1780082192
+  },
+  {
+    "rank": 6,
+    "id": 48328184,
+    "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+    "url": "https://github.com/jmaczan/tiny-vllm",
+    "score": 72,
+    "by": "yu3zhou4",
+    "descendants": 7,
+    "time": 1780083507
+  },
+  {
+    "rank": 7,
+    "id": 48283410,
+    "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+    "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+    "score": 44,
+    "by": "rented_mule",
+    "descendants": 1,
+    "time": 1779818742
+  },
+  {
+    "rank": 8,
+    "id": 48323869,
+    "title": "It's hard to justify buying a Framework 12",
+    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+    "score": 204,
+    "by": "watermelon0",
+    "descendants": 360,
+    "time": 1780066531
+  },
+  {
+    "rank": 9,
+    "id": 48323992,
+    "title": "Bijou64: A variable-length integer encoding",
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "score": 198,
+    "by": "justinweiss",
+    "descendants": 73,
+    "time": 1780067012
+  },
+  {
+    "rank": 10,
+    "id": 48284494,
+    "title": "Snowboard Kids 2 is 100% Decompiled",
+    "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+    "score": 11,
+    "by": "GaggiX",
+    "descendants": 2,
+    "time": 1779822779
+  }
+]

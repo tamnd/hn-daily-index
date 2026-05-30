@@ -2,13 +2,28 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [May](05/) (29 days)
+- [May](05/) (30 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
 - [February](02/) (28 days)
 - [January](01/) (31 days)
 
 ---
+
+## 2026-05-30
+
+*Saturday*
+
+1. [You can just say it](https://noperator.dev/posts/you-can-just-say-it/) (noperator.dev) - 128 points by [antirez](https://news.ycombinator.com/user?id=antirez), [39 comments](https://news.ycombinator.com/item?id=48324853)
+2. [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) (obeli.sk) - 314 points by [tomasol](https://news.ycombinator.com/user?id=tomasol), [181 comments](https://news.ycombinator.com/item?id=48326802)
+3. [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) (owenmcgrann.com) - 626 points by [WillDaSilva](https://news.ycombinator.com/user?id=WillDaSilva), [811 comments](https://news.ycombinator.com/item?id=48324712)
+4. [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) (koenvangilst.nl) - 300 points by [vnglst](https://news.ycombinator.com/user?id=vnglst), [104 comments](https://news.ycombinator.com/item?id=48325340)
+5. [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) (theverge.com) - 70 points by [evilsimon](https://news.ycombinator.com/user?id=evilsimon), [93 comments](https://news.ycombinator.com/item?id=48327962)
+6. [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm) (github.com) - 72 points by [yu3zhou4](https://news.ycombinator.com/user?id=yu3zhou4), [7 comments](https://news.ycombinator.com/item?id=48328184)
+7. [Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/) (blog.prusa3d.com) - 44 points by [rented_mule](https://news.ycombinator.com/user?id=rented_mule), [1 comments](https://news.ycombinator.com/item?id=48283410)
+8. [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) (jeffgeerling.com) - 204 points by [watermelon0](https://news.ycombinator.com/user?id=watermelon0), [360 comments](https://news.ycombinator.com/item?id=48323869)
+9. [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/) (inkandswitch.com) - 198 points by [justinweiss](https://news.ycombinator.com/user?id=justinweiss), [73 comments](https://news.ycombinator.com/item?id=48323992)
+10. [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) (blog.chrislewis.au) - 11 points by [GaggiX](https://news.ycombinator.com/user?id=GaggiX), [2 comments](https://news.ycombinator.com/item?id=48284494)
 
 ## 2026-05-29
 
