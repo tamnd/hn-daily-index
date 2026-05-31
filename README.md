@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28) | [May 27](#2026-05-27) | [May 26](#2026-05-26) | [May 25](#2026-05-25) | [May 24](#2026-05-24)
+Recent: [May 31](#2026-05-31) | [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28) | [May 27](#2026-05-27) | [May 26](#2026-05-26) | [May 25](#2026-05-25)
 
-### [2026](data/2026/) (150/150 days)
+### [2026](data/2026/) (151/151 days)
 
-[**May**](data/2026/05/) (30/30)
+[**May**](data/2026/05/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28) | 
 | [**4**](#2026-05-04) | [**5**](#2026-05-05) | [**6**](#2026-05-06) | [**7**](#2026-05-07) | [**8**](#2026-05-08) | [**9**](#2026-05-09) | [**10**](#2026-05-10) |
 | [**11**](#2026-05-11) | [**12**](#2026-05-12) | [**13**](#2026-05-13) | [**14**](#2026-05-14) | [**15**](#2026-05-15) | [**16**](#2026-05-16) | [**17**](#2026-05-17) |
 | [**18**](#2026-05-18) | [**19**](#2026-05-19) | [**20**](#2026-05-20) | [**21**](#2026-05-21) | [**22**](#2026-05-22) | [**23**](#2026-05-23) | [**24**](#2026-05-24) |
-| [**25**](#2026-05-25) | [**26**](#2026-05-26) | [**27**](#2026-05-27) | [**28**](#2026-05-28) | [**29**](#2026-05-29) | [**30**](#2026-05-30) |  |
+| [**25**](#2026-05-25) | [**26**](#2026-05-26) | [**27**](#2026-05-27) | [**28**](#2026-05-28) | [**29**](#2026-05-29) | [**30**](#2026-05-30) | [**31**](#2026-05-31) |
 
 [**April**](data/2026/04/) (30/30)
 
@@ -2124,6 +2124,21 @@ Recent: [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28) | 
 </details>
 
 ---
+
+## 2026-05-31
+
+*Sunday*
+
+1. [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) (consumerrights.wiki) - 103 points by [antipurist](https://news.ycombinator.com/user?id=antipurist), [32 comments](https://news.ycombinator.com/item?id=48341578)
+2. [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) (brethorsting.com) - 208 points by [aaronbrethorst](https://news.ycombinator.com/user?id=aaronbrethorst), [132 comments](https://news.ycombinator.com/item?id=48340411)
+3. [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) (github.com) - 176 points by [Hawzen](https://news.ycombinator.com/user?id=Hawzen), [50 comments](https://news.ycombinator.com/item?id=48318402)
+4. [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) (newsroom.accenture.com) - 225 points by [Garbage](https://news.ycombinator.com/user?id=Garbage), [114 comments](https://news.ycombinator.com/item?id=48337987)
+5. [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/) (lowendmac.com) - 58 points by [tylerdane](https://news.ycombinator.com/user?id=tylerdane), [27 comments](https://news.ycombinator.com/item?id=48339894)
+6. [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) (github.com) - 47 points by [aidangarske](https://news.ycombinator.com/user?id=aidangarske), [6 comments](https://news.ycombinator.com/item?id=48340422)
+7. [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) (ziglang.org) - 160 points by [kristoff_it](https://news.ycombinator.com/user?id=kristoff_it), [41 comments](https://news.ycombinator.com/item?id=48338673)
+8. [Voxel Space (2017)](https://s-macke.github.io/VoxelSpace/) (s-macke.github.io) - 244 points by [davikr](https://news.ycombinator.com/user?id=davikr), [54 comments](https://news.ycombinator.com/item?id=48336564)
+9. [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/) (remyhax.xyz) - 45 points by [jerrythegerbil](https://news.ycombinator.com/user?id=jerrythegerbil), [25 comments](https://news.ycombinator.com/item?id=48339943)
+10. [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) (openrouter.ai) - 339 points by [freeCandy](https://news.ycombinator.com/user?id=freeCandy), [163 comments](https://news.ycombinator.com/item?id=48338660)
 
 ## 2026-05-30
 
