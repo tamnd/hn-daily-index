@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 01](#2026-06-01) | [May 31](#2026-05-31) | [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28) | [May 27](#2026-05-27) | [May 26](#2026-05-26)
+Recent: [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01) | [May 31](#2026-05-31) | [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28) | [May 27](#2026-05-27)
 
-### [2026](data/2026/) (152/152 days)
+### [2026](data/2026/) (153/153 days)
 
-[**June**](data/2026/06/) (1/1)
+[**June**](data/2026/06/) (2/2)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [**1**](#2026-06-01) |  |  |  |  |  |  |
+| [**1**](#2026-06-01) | [**2**](#2026-06-02) |  |  |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2130,6 +2130,21 @@ Recent: [Jun 01](#2026-06-01) | [May 31](#2026-05-31) | [May 30](#2026-05-30) | 
 </details>
 
 ---
+
+## 2026-06-02
+
+*Tuesday*
+
+1. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) (0xsid.com) - 1.2k points by [ssiddharth](https://news.ycombinator.com/user?id=ssiddharth), [308 comments](https://news.ycombinator.com/item?id=48359102)
+2. [Debug Project](https://debug.com/) (debug.com) - 130 points by [Eridanus2](https://news.ycombinator.com/user?id=Eridanus2), [54 comments](https://news.ycombinator.com/item?id=48362347)
+3. [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/) (openai.com) - 61 points by [typpo](https://news.ycombinator.com/user?id=typpo), [18 comments](https://news.ycombinator.com/item?id=48363132)
+4. [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) (github.com) - 304 points by [prakashqwerty](https://news.ycombinator.com/user?id=prakashqwerty), [109 comments](https://news.ycombinator.com/item?id=48359232)
+5. [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/) (30fps.net) - 173 points by [pplanu](https://news.ycombinator.com/user?id=pplanu), [74 comments](https://news.ycombinator.com/item?id=48360054)
+6. [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) (cs336.stanford.edu) - 341 points by [kristianpaul](https://news.ycombinator.com/user?id=kristianpaul), [42 comments](https://news.ycombinator.com/item?id=48357075)
+7. [GrapheneOS Speech Services version 2 released](https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released) (discuss.grapheneos.org) - 85 points by [pretext](https://news.ycombinator.com/user?id=pretext), [14 comments](https://news.ycombinator.com/item?id=48360871)
+8. [What appear to be biochemical processes may be a natural feature of geology](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/) (quantamagazine.org) - 184 points by [speckx](https://news.ycombinator.com/user?id=speckx), [58 comments](https://news.ycombinator.com/item?id=48357905)
+9. [Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra](https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/) (windowslatest.com) - 122 points by [jbk](https://news.ycombinator.com/user?id=jbk), [312 comments](https://news.ycombinator.com/item?id=48355720)
+10. [Stealing from Biologists to Compile Haskell Faster](https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/) (iankduncan.com) - 87 points by [mooreds](https://news.ycombinator.com/user?id=mooreds), [4 comments](https://news.ycombinator.com/item?id=48338891)
 
 ## 2026-06-01
 

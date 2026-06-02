@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48359102,
+    "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "score": 1243,
+    "by": "ssiddharth",
+    "descendants": 308,
+    "time": 1780331502
+  },
+  {
+    "rank": 2,
+    "id": 48362347,
+    "title": "Debug Project",
+    "url": "https://debug.com/",
+    "score": 130,
+    "by": "Eridanus2",
+    "descendants": 54,
+    "time": 1780346413
+  },
+  {
+    "rank": 3,
+    "id": 48363132,
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "score": 61,
+    "by": "typpo",
+    "descendants": 18,
+    "time": 1780350602
+  },
+  {
+    "rank": 4,
+    "id": 48359232,
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "score": 304,
+    "by": "prakashqwerty",
+    "descendants": 109,
+    "time": 1780332109
+  },
+  {
+    "rank": 5,
+    "id": 48360054,
+    "title": "Should you normalize RGB values by 255 or 256?",
+    "url": "https://30fps.net/pages/255-vs-256-division/",
+    "score": 173,
+    "by": "pplanu",
+    "descendants": 74,
+    "time": 1780335440
+  },
+  {
+    "rank": 6,
+    "id": 48357075,
+    "title": "CS336: Language Modeling from Scratch",
+    "url": "https://cs336.stanford.edu/",
+    "score": 341,
+    "by": "kristianpaul",
+    "descendants": 42,
+    "time": 1780323032
+  },
+  {
+    "rank": 7,
+    "id": 48360871,
+    "title": "GrapheneOS Speech Services version 2 released",
+    "url": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
+    "score": 85,
+    "by": "pretext",
+    "descendants": 14,
+    "time": 1780339193
+  },
+  {
+    "rank": 8,
+    "id": 48357905,
+    "title": "What appear to be biochemical processes may be a natural feature of geology",
+    "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+    "score": 184,
+    "by": "speckx",
+    "descendants": 58,
+    "time": 1780326695
+  },
+  {
+    "rank": 9,
+    "id": 48355720,
+    "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+    "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+    "score": 122,
+    "by": "jbk",
+    "descendants": 312,
+    "time": 1780315469
+  },
+  {
+    "rank": 10,
+    "id": 48338891,
+    "title": "Stealing from Biologists to Compile Haskell Faster",
+    "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+    "score": 87,
+    "by": "mooreds",
+    "descendants": 4,
+    "time": 1780163421
+  }
+]
