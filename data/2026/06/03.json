@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48377404,
+    "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+    "url": "https://github.com/c0dejedi/nbd-vram",
+    "score": 59,
+    "by": "tanelpoder",
+    "descendants": 11,
+    "time": 1780440933
+  },
+  {
+    "rank": 2,
+    "id": 48374466,
+    "title": "MAI-Code-1-Flash",
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "score": 368,
+    "by": "EvanZhouDev",
+    "descendants": 170,
+    "time": 1780426027
+  },
+  {
+    "rank": 3,
+    "id": 48375824,
+    "title": "CT scans of BYD car parts",
+    "url": "https://www.lumafield.com/scan-of-the-month/byd",
+    "score": 182,
+    "by": "viasfo",
+    "descendants": 78,
+    "time": 1780432208
+  },
+  {
+    "rank": 4,
+    "id": 48367223,
+    "title": "California\u2019s university system went all in on AI, now it's tearing itself apart",
+    "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+    "score": 75,
+    "by": "jeffwass",
+    "descendants": 52,
+    "time": 1780386380
+  },
+  {
+    "rank": 5,
+    "id": 48377140,
+    "title": "4K years ago, Mohenjo-daro grew more equal over time",
+    "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+    "score": 27,
+    "by": "marojejian",
+    "descendants": 8,
+    "time": 1780438954
+  },
+  {
+    "rank": 6,
+    "id": 48375016,
+    "title": "Gmail thinks I'm stupid, so I left",
+    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "score": 565,
+    "by": "speckx",
+    "descendants": 349,
+    "time": 1780428460
+  },
+  {
+    "rank": 7,
+    "id": 48375393,
+    "title": "My thoughts after using Clojure for about a month",
+    "url": "https://www.acdw.net/clojure/",
+    "score": 88,
+    "by": "speckx",
+    "descendants": 36,
+    "time": 1780430206
+  },
+  {
+    "rank": 8,
+    "id": 48375150,
+    "title": "Open Repair Data Standard \u2013 Open Repair Alliance",
+    "url": "https://openrepair.org/open-data/open-standard/",
+    "score": 84,
+    "by": "cassepipe",
+    "descendants": 2,
+    "time": 1780429030
+  },
+  {
+    "rank": 9,
+    "id": 48369980,
+    "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+    "score": 370,
+    "by": "eustoria",
+    "descendants": 230,
+    "time": 1780406672
+  },
+  {
+    "rank": 10,
+    "id": 48377631,
+    "title": "LLMs are not the black box you were promised",
+    "url": "https://www.jay.ai/blog/llms-are-not-a-black-box",
+    "score": 7,
+    "by": "_jayhack_",
+    "descendants": 0,
+    "time": 1780442850
+  }
+]

@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01) | [May 31](#2026-05-31) | [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28) | [May 27](#2026-05-27)
+Recent: [Jun 03](#2026-06-03) | [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01) | [May 31](#2026-05-31) | [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28)
 
-### [2026](data/2026/) (153/153 days)
+### [2026](data/2026/) (154/154 days)
 
-[**June**](data/2026/06/) (2/2)
+[**June**](data/2026/06/) (3/3)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [**1**](#2026-06-01) | [**2**](#2026-06-02) |  |  |  |  |  |
+| [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) |  |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2130,6 +2130,21 @@ Recent: [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01) | [May 31](#2026-05-31) | 
 </details>
 
 ---
+
+## 2026-06-03
+
+*Wednesday*
+
+1. [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram) (github.com) - 59 points by [tanelpoder](https://news.ycombinator.com/user?id=tanelpoder), [11 comments](https://news.ycombinator.com/item?id=48377404)
+2. [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/) (microsoft.ai) - 368 points by [EvanZhouDev](https://news.ycombinator.com/user?id=EvanZhouDev), [170 comments](https://news.ycombinator.com/item?id=48374466)
+3. [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd) (lumafield.com) - 182 points by [viasfo](https://news.ycombinator.com/user?id=viasfo), [78 comments](https://news.ycombinator.com/item?id=48375824)
+4. [California’s university system went all in on AI, now it's tearing itself apart](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html) (nytimes.com) - 75 points by [jeffwass](https://news.ycombinator.com/user?id=jeffwass), [52 comments](https://news.ycombinator.com/item?id=48367223)
+5. [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/) (archaeologymag.com) - 27 points by [marojejian](https://news.ycombinator.com/user?id=marojejian), [8 comments](https://news.ycombinator.com/item?id=48377140)
+6. [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) (moddedbear.com) - 565 points by [speckx](https://news.ycombinator.com/user?id=speckx), [349 comments](https://news.ycombinator.com/item?id=48375016)
+7. [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/) (acdw.net) - 88 points by [speckx](https://news.ycombinator.com/user?id=speckx), [36 comments](https://news.ycombinator.com/item?id=48375393)
+8. [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/) (openrepair.org) - 84 points by [cassepipe](https://news.ycombinator.com/user?id=cassepipe), [2 comments](https://news.ycombinator.com/item?id=48375150)
+9. [A walking tour of surveillance infrastructure in Seattle (2020)](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/) (coveillance.org) - 370 points by [eustoria](https://news.ycombinator.com/user?id=eustoria), [230 comments](https://news.ycombinator.com/item?id=48369980)
+10. [LLMs are not the black box you were promised](https://www.jay.ai/blog/llms-are-not-a-black-box) (jay.ai) - 7 points by [_jayhack_](https://news.ycombinator.com/user?id=_jayhack_), [0 comments](https://news.ycombinator.com/item?id=48377631)
 
 ## 2026-06-02
 
