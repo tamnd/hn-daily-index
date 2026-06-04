@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 03](#2026-06-03) | [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01) | [May 31](#2026-05-31) | [May 30](#2026-05-30) | [May 29](#2026-05-29) | [May 28](#2026-05-28)
+Recent: [Jun 04](#2026-06-04) | [Jun 03](#2026-06-03) | [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01) | [May 31](#2026-05-31) | [May 30](#2026-05-30) | [May 29](#2026-05-29)
 
-### [2026](data/2026/) (154/154 days)
+### [2026](data/2026/) (155/155 days)
 
-[**June**](data/2026/06/) (3/3)
+[**June**](data/2026/06/) (4/4)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) |  |  |  |  |
+| [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2130,6 +2130,21 @@ Recent: [Jun 03](#2026-06-03) | [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01) | 
 </details>
 
 ---
+
+## 2026-06-04
+
+*Thursday*
+
+1. [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) (elixir-lang.org) - 488 points by [cloud8421](https://news.ycombinator.com/user?id=cloud8421), [169 comments](https://news.ycombinator.com/item?id=48388324)
+2. [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) (blog.google) - 646 points by [rvz](https://news.ycombinator.com/user?id=rvz), [276 comments](https://news.ycombinator.com/item?id=48385906)
+3. [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/) (burntsushi.net) - 463 points by [Tomte](https://news.ycombinator.com/user?id=Tomte), [130 comments](https://news.ycombinator.com/item?id=48384355)
+4. [The Ü Programming Language](https://github.com/Panzerschrek/U-00DC-Sprache/) (github.com) - 8 points by [deterministic](https://news.ycombinator.com/user?id=deterministic), [1 comments](https://news.ycombinator.com/item?id=48391838)
+5. [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew) (blackmagicdesign.com) - 375 points by [pentagrama](https://news.ycombinator.com/user?id=pentagrama), [178 comments](https://news.ycombinator.com/item?id=48384482)
+6. [Artificial intelligence is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) (theatlantic.com) - 173 points by [lordleft](https://news.ycombinator.com/user?id=lordleft), [300 comments](https://news.ycombinator.com/item?id=48387270)
+7. [Uber's $1,500/month AI limit is a useful signal for AI tool pricing](https://simonwillison.net/2026/Jun/3/uber-caps-usage/) (simonwillison.net) - 345 points by [pdyc](https://news.ycombinator.com/user?id=pdyc), [438 comments](https://news.ycombinator.com/item?id=48383056)
+8. [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html) (opensource.googleblog.com) - 23 points by [ledoge](https://news.ycombinator.com/user?id=ledoge), [12 comments](https://news.ycombinator.com/item?id=48390688)
+9. [Pwnd Blaster: Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/) (blog.nns.ee) - 639 points by [xx_ns](https://news.ycombinator.com/user?id=xx_ns), [100 comments](https://news.ycombinator.com/item?id=48382310)
+10. [Gooey: A GPU-accelerated UI framework for Zig](https://github.com/duanebester/gooey) (github.com) - 129 points by [ksec](https://news.ycombinator.com/user?id=ksec), [41 comments](https://news.ycombinator.com/item?id=48386725)
 
 ## 2026-06-03
 

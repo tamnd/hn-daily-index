@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48388324,
+    "title": "Elixir v1.20: Now a gradually typed language",
+    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "score": 488,
+    "by": "cloud8421",
+    "descendants": 169,
+    "time": 1780513346
+  },
+  {
+    "rank": 2,
+    "id": 48385906,
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "score": 646,
+    "by": "rvz",
+    "descendants": 276,
+    "time": 1780502682
+  },
+  {
+    "rank": 3,
+    "id": 48384355,
+    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "url": "https://burntsushi.net/encephalitis/",
+    "score": 463,
+    "by": "Tomte",
+    "descendants": 130,
+    "time": 1780495806
+  },
+  {
+    "rank": 4,
+    "id": 48391838,
+    "title": "The \u00dc Programming Language",
+    "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+    "score": 8,
+    "by": "deterministic",
+    "descendants": 1,
+    "time": 1780531204
+  },
+  {
+    "rank": 5,
+    "id": 48384482,
+    "title": "DaVinci Resolve 21",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+    "score": 375,
+    "by": "pentagrama",
+    "descendants": 178,
+    "time": 1780496319
+  },
+  {
+    "rank": 6,
+    "id": 48387270,
+    "title": "Artificial intelligence is not conscious \u2013 Ted Chiang",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "score": 173,
+    "by": "lordleft",
+    "descendants": 300,
+    "time": 1780509097
+  },
+  {
+    "rank": 7,
+    "id": 48383056,
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "score": 345,
+    "by": "pdyc",
+    "descendants": 438,
+    "time": 1780489514
+  },
+  {
+    "rank": 8,
+    "id": 48390688,
+    "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+    "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+    "score": 23,
+    "by": "ledoge",
+    "descendants": 12,
+    "time": 1780523723
+  },
+  {
+    "rank": 9,
+    "id": 48382310,
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "score": 639,
+    "by": "xx_ns",
+    "descendants": 100,
+    "time": 1780483980
+  },
+  {
+    "rank": 10,
+    "id": 48386725,
+    "title": "Gooey: A GPU-accelerated UI framework for Zig",
+    "url": "https://github.com/duanebester/gooey",
+    "score": 129,
+    "by": "ksec",
+    "descendants": 41,
+    "time": 1780506747
+  }
+]
