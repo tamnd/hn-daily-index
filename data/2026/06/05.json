@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48405931,
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "score": 54,
+    "by": "Anon84",
+    "descendants": 5,
+    "time": 1780614716
+  },
+  {
+    "rank": 2,
+    "id": 48403980,
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "score": 227,
+    "by": "binyu",
+    "descendants": 75,
+    "time": 1780603880
+  },
+  {
+    "rank": 3,
+    "id": 48398055,
+    "title": "VoidZero Is Joining Cloudflare",
+    "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+    "score": 551,
+    "by": "coloneltcb",
+    "descendants": 246,
+    "time": 1780578051
+  },
+  {
+    "rank": 4,
+    "id": 48405019,
+    "title": "IPv6 zones in URLs are a mistake",
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "score": 66,
+    "by": "xena",
+    "descendants": 50,
+    "time": 1780609354
+  },
+  {
+    "rank": 5,
+    "id": 48400842,
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "score": 297,
+    "by": "meetpateltech",
+    "descendants": 387,
+    "time": 1780590017
+  },
+  {
+    "rank": 6,
+    "id": 48375445,
+    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+    "url": "https://tiki.li/blog/blqsort",
+    "score": 61,
+    "by": "birdculture",
+    "descendants": 7,
+    "time": 1780430454
+  },
+  {
+    "rank": 7,
+    "id": 48404905,
+    "title": "Queen bees emerge from special wax chambers",
+    "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+    "score": 32,
+    "by": "gmays",
+    "descendants": 0,
+    "time": 1780608691
+  },
+  {
+    "rank": 8,
+    "id": 48397028,
+    "title": "Ian's Secure Shoelace Knot",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "score": 488,
+    "by": "mooreds",
+    "descendants": 185,
+    "time": 1780571854
+  },
+  {
+    "rank": 9,
+    "id": 48400588,
+    "title": "Retro-Tech Parenting",
+    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "score": 233,
+    "by": "mawise",
+    "descendants": 160,
+    "time": 1780588955
+  },
+  {
+    "rank": 10,
+    "id": 48399974,
+    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "score": 111,
+    "by": "theanonymousone",
+    "descendants": 11,
+    "time": 1780586280
+  }
+]

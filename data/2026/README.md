@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (4 days)
+- [June](06/) (5 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-05
+
+*Friday*
+
+1. [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032) (arxiv.org) - 54 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [5 comments](https://news.ycombinator.com/item?id=48405931)
+2. [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness) (github.com) - 227 points by [binyu](https://news.ycombinator.com/user?id=binyu), [75 comments](https://news.ycombinator.com/item?id=48403980)
+3. [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) (blog.cloudflare.com) - 551 points by [coloneltcb](https://news.ycombinator.com/user?id=coloneltcb), [246 comments](https://news.ycombinator.com/item?id=48398055)
+4. [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/) (xeiaso.net) - 66 points by [xena](https://news.ycombinator.com/user?id=xena), [50 comments](https://news.ycombinator.com/item?id=48405019)
+5. [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement) (anthropic.com) - 297 points by [meetpateltech](https://news.ycombinator.com/user?id=meetpateltech), [387 comments](https://news.ycombinator.com/item?id=48400842)
+6. [Branchless Quicksort faster than std:sort and pdqsort with C and C++ API](https://tiki.li/blog/blqsort) (tiki.li) - 61 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [7 comments](https://news.ycombinator.com/item?id=48375445)
+7. [Queen bees emerge from special wax chambers](https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06) (cen.acs.org) - 32 points by [gmays](https://news.ycombinator.com/user?id=gmays), [0 comments](https://news.ycombinator.com/item?id=48404905)
+8. [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm) (fieggen.com) - 488 points by [mooreds](https://news.ycombinator.com/user?id=mooreds), [185 comments](https://news.ycombinator.com/item?id=48397028)
+9. [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html) (havenweb.org) - 233 points by [mawise](https://news.ycombinator.com/user?id=mawise), [160 comments](https://news.ycombinator.com/item?id=48400588)
+10. [KVarN: Native vLLM backend for KV-cache quantization by Huawei](https://github.com/huawei-csl/KVarN) (github.com) - 111 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [11 comments](https://news.ycombinator.com/item?id=48399974)
 
 ## 2026-06-04
 
