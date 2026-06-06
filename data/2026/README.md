@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (5 days)
+- [June](06/) (6 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-06
+
+*Saturday*
+
+1. [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt) (bbc.com) - 345 points by [janpot](https://news.ycombinator.com/user?id=janpot), [221 comments](https://news.ycombinator.com/item?id=48413464)
+2. [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable) (github.com) - 289 points by [coffeemug](https://news.ycombinator.com/user?id=coffeemug), [72 comments](https://news.ycombinator.com/item?id=48414367)
+3. [Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/) (blog.google) - 241 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [79 comments](https://news.ycombinator.com/item?id=48414653)
+4. [New method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/) (rochester.edu) - 219 points by [speckx](https://news.ycombinator.com/user?id=speckx), [102 comments](https://news.ycombinator.com/item?id=48413500)
+5. [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click) (mouseless.click) - 433 points by [riddley](https://news.ycombinator.com/user?id=riddley), [180 comments](https://news.ycombinator.com/item?id=48383667)
+6. [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html) (saturnci.com) - 116 points by [laxmena](https://news.ycombinator.com/user?id=laxmena), [44 comments](https://news.ycombinator.com/item?id=48398925)
+7. [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/) (alexispurslane.github.io) - 274 points by [logicprog](https://news.ycombinator.com/user?id=logicprog), [262 comments](https://news.ycombinator.com/item?id=48411635)
+8. [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763) (theregister.com) - 320 points by [toomuchtodo](https://news.ycombinator.com/user?id=toomuchtodo), [105 comments](https://news.ycombinator.com/item?id=48415217)
+9. [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ) (openreview.net) - 78 points by [brandonb](https://news.ycombinator.com/user?id=brandonb), [28 comments](https://news.ycombinator.com/item?id=48416635)
+10. [Conventional Commits encourages focus on the wrong things](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/) (sumnerevans.com) - 249 points by [jsve](https://news.ycombinator.com/user?id=jsve), [199 comments](https://news.ycombinator.com/item?id=48414027)
 
 ## 2026-06-05
 

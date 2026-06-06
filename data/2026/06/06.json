@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48413464,
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "score": 345,
+    "by": "janpot",
+    "descendants": 221,
+    "time": 1780671631
+  },
+  {
+    "rank": 2,
+    "id": 48414367,
+    "title": "pg_durable: Microsoft open sources in-database durable execution",
+    "url": "https://github.com/microsoft/pg_durable",
+    "score": 289,
+    "by": "coffeemug",
+    "descendants": 72,
+    "time": 1780675197
+  },
+  {
+    "rank": 3,
+    "id": 48414653,
+    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "score": 241,
+    "by": "theanonymousone",
+    "descendants": 79,
+    "time": 1780676328
+  },
+  {
+    "rank": 4,
+    "id": 48413500,
+    "title": "New method turns ocean water into drinking water, without waste",
+    "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+    "score": 219,
+    "by": "speckx",
+    "descendants": 102,
+    "time": 1780671843
+  },
+  {
+    "rank": 5,
+    "id": 48383667,
+    "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+    "url": "https://mouseless.click",
+    "score": 433,
+    "by": "riddley",
+    "descendants": 180,
+    "time": 1780492926
+  },
+  {
+    "rank": 6,
+    "id": 48398925,
+    "title": "My Agent Skill for Test-Driven Development",
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "score": 116,
+    "by": "laxmena",
+    "descendants": 44,
+    "time": 1780582240
+  },
+  {
+    "rank": 7,
+    "id": 48411635,
+    "title": "Did Claude increase bugs in rsync?",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "score": 274,
+    "by": "logicprog",
+    "descendants": 262,
+    "time": 1780663413
+  },
+  {
+    "rank": 8,
+    "id": 48415217,
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "score": 320,
+    "by": "toomuchtodo",
+    "descendants": 105,
+    "time": 1780678530
+  },
+  {
+    "rank": 9,
+    "id": 48416635,
+    "title": "Transformers Are Inherently Succinct",
+    "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+    "score": 78,
+    "by": "brandonb",
+    "descendants": 28,
+    "time": 1780685426
+  },
+  {
+    "rank": 10,
+    "id": 48414027,
+    "title": "Conventional Commits encourages focus on the wrong things",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "score": 249,
+    "by": "jsve",
+    "descendants": 199,
+    "time": 1780673978
+  }
+]
