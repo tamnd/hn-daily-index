@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48428025,
+    "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
+    "url": "https://ntsc.rs/",
+    "score": 233,
+    "by": "gregsadetsky",
+    "descendants": 53,
+    "time": 1780773466
+  },
+  {
+    "rank": 2,
+    "id": 48427643,
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "score": 362,
+    "by": "speckx",
+    "descendants": 130,
+    "time": 1780770927
+  },
+  {
+    "rank": 3,
+    "id": 48425528,
+    "title": "Moving beyond fork() + exec()",
+    "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+    "score": 231,
+    "by": "jwilk",
+    "descendants": 251,
+    "time": 1780756460
+  },
+  {
+    "rank": 4,
+    "id": 48425723,
+    "title": "Zeroserve: A zero-config web server you can script with eBPF",
+    "url": "https://su3.io/posts/introducing-zeroserve",
+    "score": 181,
+    "by": "losfair",
+    "descendants": 45,
+    "time": 1780757983
+  },
+  {
+    "rank": 5,
+    "id": 48416264,
+    "title": "Harness engineering: Leveraging Codex in an agent-first world",
+    "url": "https://openai.com/index/harness-engineering/",
+    "score": 7,
+    "by": "pramodbiligiri",
+    "descendants": 0,
+    "time": 1780683606
+  },
+  {
+    "rank": 6,
+    "id": 48424605,
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "score": 221,
+    "by": "tosh",
+    "descendants": 413,
+    "time": 1780750338
+  },
+  {
+    "rank": 7,
+    "id": 48428475,
+    "title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "score": 36,
+    "by": "rohanucla",
+    "descendants": 17,
+    "time": 1780776235
+  },
+  {
+    "rank": 8,
+    "id": 48429957,
+    "title": "Show HN: Keybench \u2013 Scriptable, extensible performance tool for key value stores",
+    "url": "https://github.com/guycipher/keybench",
+    "score": 4,
+    "by": "alexpadula",
+    "descendants": 0,
+    "time": 1780787166
+  },
+  {
+    "rank": 9,
+    "id": 48426202,
+    "title": "You Can Run",
+    "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+    "score": 93,
+    "by": "bryanrasmussen",
+    "descendants": 43,
+    "time": 1780761346
+  },
+  {
+    "rank": 10,
+    "id": 48430077,
+    "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
+    "url": "",
+    "score": 9,
+    "by": "bOZbfU4YdRnJQ",
+    "descendants": 1,
+    "time": 1780788080
+  }
+]

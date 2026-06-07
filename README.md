@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 06](#2026-06-06) | [Jun 05](#2026-06-05) | [Jun 04](#2026-06-04) | [Jun 03](#2026-06-03) | [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01) | [May 31](#2026-05-31)
+Recent: [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06) | [Jun 05](#2026-06-05) | [Jun 04](#2026-06-04) | [Jun 03](#2026-06-03) | [Jun 02](#2026-06-02) | [Jun 01](#2026-06-01)
 
-### [2026](data/2026/) (157/157 days)
+### [2026](data/2026/) (158/158 days)
 
-[**June**](data/2026/06/) (6/6)
+[**June**](data/2026/06/) (7/7)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) |  |
+| [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2130,6 +2130,21 @@ Recent: [Jun 06](#2026-06-06) | [Jun 05](#2026-06-05) | [Jun 04](#2026-06-04) | 
 </details>
 
 ---
+
+## 2026-06-07
+
+*Sunday*
+
+1. [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/) (ntsc.rs) - 233 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [53 comments](https://news.ycombinator.com/item?id=48428025)
+2. [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) (this.weekinsecurity.com) - 362 points by [speckx](https://news.ycombinator.com/user?id=speckx), [130 comments](https://news.ycombinator.com/item?id=48427643)
+3. [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/) (lwn.net) - 231 points by [jwilk](https://news.ycombinator.com/user?id=jwilk), [251 comments](https://news.ycombinator.com/item?id=48425528)
+4. [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve) (su3.io) - 181 points by [losfair](https://news.ycombinator.com/user?id=losfair), [45 comments](https://news.ycombinator.com/item?id=48425723)
+5. [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) (openai.com) - 7 points by [pramodbiligiri](https://news.ycombinator.com/user?id=pramodbiligiri), [0 comments](https://news.ycombinator.com/item?id=48416264)
+6. [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739) (twitter.com) - 221 points by [tosh](https://news.ycombinator.com/user?id=tosh), [413 comments](https://news.ycombinator.com/item?id=48424605)
+7. [Sem: New primitive for code understanding – not LSPs, but entities on top of Git](https://ataraxy-labs.github.io/sem/) (ataraxy-labs.github.io) - 36 points by [rohanucla](https://news.ycombinator.com/user?id=rohanucla), [17 comments](https://news.ycombinator.com/item?id=48428475)
+8. [Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench) (github.com) - 4 points by [alexpadula](https://news.ycombinator.com/user?id=alexpadula), [0 comments](https://news.ycombinator.com/item?id=48429957)
+9. [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives) (magazine.atavist.com) - 93 points by [bryanrasmussen](https://news.ycombinator.com/user?id=bryanrasmussen), [43 comments](https://news.ycombinator.com/item?id=48426202)
+10. [Show HN: Ironwall, a safety-first native programming language and compiler](https://news.ycombinator.com/item?id=48430077) - 9 points by [bOZbfU4YdRnJQ](https://news.ycombinator.com/user?id=bOZbfU4YdRnJQ), [1 comments](https://news.ycombinator.com/item?id=48430077)
 
 ## 2026-06-06
 
