@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in June 2026.
 
+- [2026-06-08 (Monday)](#2026-06-08)
 - [2026-06-07 (Sunday)](#2026-06-07)
 - [2026-06-06 (Saturday)](#2026-06-06)
 - [2026-06-05 (Friday)](#2026-06-05)
@@ -11,6 +12,21 @@ Top 10 Hacker News stories for each day in June 2026.
 - [2026-06-01 (Monday)](#2026-06-01)
 
 ---
+
+## 2026-06-08
+
+*Monday*
+
+1. [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) (gavinray97.github.io) - 324 points by [gavinray](https://news.ycombinator.com/user?id=gavinray), [153 comments](https://news.ycombinator.com/item?id=48437406)
+2. [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) (nik.art) - 122 points by [herbertl](https://news.ycombinator.com/user?id=herbertl), [55 comments](https://news.ycombinator.com/item?id=48437290)
+3. [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) (performance.dev) - 265 points by [howToTestFE](https://news.ycombinator.com/user?id=howToTestFE), [139 comments](https://news.ycombinator.com/item?id=48437609)
+4. [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/) (absurdlyoptimized.com) - 84 points by [bkazez](https://news.ycombinator.com/user?id=bkazez), [28 comments](https://news.ycombinator.com/item?id=48408854)
+5. [What is the purpose of the lost+found folder in Linux and Unix? (2014)](https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix) (unix.stackexchange.com) - 123 points by [tosh](https://news.ycombinator.com/user?id=tosh), [48 comments](https://news.ycombinator.com/item?id=48409474)
+6. [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html) (righto.com) - 69 points by [elpocko](https://news.ycombinator.com/user?id=elpocko), [21 comments](https://news.ycombinator.com/item?id=48436819)
+7. [Do we fear the serializable isolation level more than we fear subtle bugs (2024)](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609) (blog.ydb.tech) - 41 points by [b-man](https://news.ycombinator.com/user?id=b-man), [20 comments](https://news.ycombinator.com/item?id=48384525)
+8. [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt) (alexself.dev) - 52 points by [aself101](https://news.ycombinator.com/user?id=aself101), [17 comments](https://news.ycombinator.com/item?id=48437305)
+9. [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514) (arxiv.org) - 95 points by [ketchup32613](https://news.ycombinator.com/user?id=ketchup32613), [85 comments](https://news.ycombinator.com/item?id=48437568)
+10. [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) (human-in-the-loop.bearblog.dev) - 773 points by [poisonfountain](https://news.ycombinator.com/user?id=poisonfountain), [751 comments](https://news.ycombinator.com/item?id=48434312)
 
 ## 2026-06-07
 
