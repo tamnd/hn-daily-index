@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48452317,
+    "title": "OpenAI Submits S-1 Draft to SEC",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+    "score": 238,
+    "by": "hackerBanana",
+    "descendants": 143,
+    "time": 1780953763
+  },
+  {
+    "rank": 2,
+    "id": 48450646,
+    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+    "score": 343,
+    "by": "g0xA52A2A",
+    "descendants": 108,
+    "time": 1780947748
+  },
+  {
+    "rank": 3,
+    "id": 48449084,
+    "title": "Siri AI",
+    "url": "https://www.apple.com/apple-intelligence/",
+    "score": 368,
+    "by": "0xedb",
+    "descendants": 306,
+    "time": 1780942673
+  },
+  {
+    "rank": 4,
+    "id": 48445554,
+    "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "score": 736,
+    "by": "lizhang",
+    "descendants": 148,
+    "time": 1780927516
+  },
+  {
+    "rank": 5,
+    "id": 48446639,
+    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "score": 479,
+    "by": "gainsurier",
+    "descendants": 327,
+    "time": 1780932453
+  },
+  {
+    "rank": 6,
+    "id": 48449665,
+    "title": "Apple Core AI Framework",
+    "url": "https://developer.apple.com/documentation/coreai/",
+    "score": 159,
+    "by": "hmokiguess",
+    "descendants": 26,
+    "time": 1780944458
+  },
+  {
+    "rank": 7,
+    "id": 48447062,
+    "title": "EU-banned pesticides found in rice, tea and spices",
+    "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+    "score": 212,
+    "by": "john-titor",
+    "descendants": 81,
+    "time": 1780934344
+  },
+  {
+    "rank": 8,
+    "id": 48444228,
+    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+    "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+    "score": 526,
+    "by": "1vuio0pswjnm7",
+    "descendants": 395,
+    "time": 1780919882
+  },
+  {
+    "rank": 9,
+    "id": 48447806,
+    "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, written in Rust",
+    "url": "https://gitdot.io/",
+    "score": 118,
+    "by": "baepaul",
+    "descendants": 112,
+    "time": 1780937531
+  },
+  {
+    "rank": 10,
+    "id": 48413655,
+    "title": "Looking Forward to Postgres 19: Query Hints",
+    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+    "score": 27,
+    "by": "jjgreen",
+    "descendants": 3,
+    "time": 1780672535
+  }
+]

@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06) | [Jun 05](#2026-06-05) | [Jun 04](#2026-06-04) | [Jun 03](#2026-06-03) | [Jun 02](#2026-06-02)
+Recent: [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06) | [Jun 05](#2026-06-05) | [Jun 04](#2026-06-04) | [Jun 03](#2026-06-03)
 
-### [2026](data/2026/) (159/159 days)
+### [2026](data/2026/) (160/160 days)
 
-[**June**](data/2026/06/) (8/8)
+[**June**](data/2026/06/) (9/9)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
-| [**8**](#2026-06-08) |  |  |  |  |  |  |
+| [**8**](#2026-06-08) | [**9**](#2026-06-09) |  |  |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2131,6 +2131,21 @@ Recent: [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06) | 
 </details>
 
 ---
+
+## 2026-06-09
+
+*Tuesday*
+
+1. [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/) (openai.com) - 238 points by [hackerBanana](https://news.ycombinator.com/user?id=hackerBanana), [143 comments](https://news.ycombinator.com/item?id=48452317)
+2. [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf) (signal.org) - 343 points by [g0xA52A2A](https://news.ycombinator.com/user?id=g0xA52A2A), [108 comments](https://news.ycombinator.com/item?id=48450646)
+3. [Siri AI](https://www.apple.com/apple-intelligence/) (apple.com) - 368 points by [0xedb](https://news.ycombinator.com/user?id=0xedb), [306 comments](https://news.ycombinator.com/item?id=48449084)
+4. [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/) (vorpus.github.io) - 736 points by [lizhang](https://news.ycombinator.com/user?id=lizhang), [148 comments](https://news.ycombinator.com/item?id=48445554)
+5. [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) (mimo.xiaomi.com) - 479 points by [gainsurier](https://news.ycombinator.com/user?id=gainsurier), [327 comments](https://news.ycombinator.com/item?id=48446639)
+6. [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/) (developer.apple.com) - 159 points by [hmokiguess](https://news.ycombinator.com/user?id=hmokiguess), [26 comments](https://news.ycombinator.com/item?id=48449665)
+7. [EU-banned pesticides found in rice, tea and spices](https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices) (foodwatch.org) - 212 points by [john-titor](https://news.ycombinator.com/user?id=john-titor), [81 comments](https://news.ycombinator.com/item?id=48447062)
+8. [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) (bbc.com) - 526 points by [1vuio0pswjnm7](https://news.ycombinator.com/user?id=1vuio0pswjnm7), [395 comments](https://news.ycombinator.com/item?id=48444228)
+9. [Show HN: Gitdot – a better GitHub. Open-source, written in Rust](https://gitdot.io/) (gitdot.io) - 118 points by [baepaul](https://news.ycombinator.com/user?id=baepaul), [112 comments](https://news.ycombinator.com/item?id=48447806)
+10. [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints) (pgedge.com) - 27 points by [jjgreen](https://news.ycombinator.com/user?id=jjgreen), [3 comments](https://news.ycombinator.com/item?id=48413655)
 
 ## 2026-06-08
 
