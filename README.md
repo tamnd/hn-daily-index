@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06) | [Jun 05](#2026-06-05) | [Jun 04](#2026-06-04) | [Jun 03](#2026-06-03)
+Recent: [Jun 10](#2026-06-10) | [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06) | [Jun 05](#2026-06-05) | [Jun 04](#2026-06-04)
 
-### [2026](data/2026/) (160/160 days)
+### [2026](data/2026/) (161/161 days)
 
-[**June**](data/2026/06/) (9/9)
+[**June**](data/2026/06/) (10/10)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
-| [**8**](#2026-06-08) | [**9**](#2026-06-09) |  |  |  |  |  |
+| [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) |  |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2131,6 +2131,21 @@ Recent: [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | 
 </details>
 
 ---
+
+## 2026-06-10
+
+*Wednesday*
+
+1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) (anthropic.com) - 1.7k points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [1337 comments](https://news.ycombinator.com/item?id=48463808)
+2. [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/) (github.blog) - 153 points by [plasma](https://news.ycombinator.com/user?id=plasma), [44 comments](https://news.ycombinator.com/item?id=48467705)
+3. [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/) (aarushgupta.io) - 142 points by [ag2718](https://news.ycombinator.com/user?id=ag2718), [15 comments](https://news.ycombinator.com/item?id=48466277)
+4. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) (jonready.com) - 362 points by [mips_avatar](https://news.ycombinator.com/user?id=mips_avatar), [157 comments](https://news.ycombinator.com/item?id=48467896)
+5. [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/) (staniks.github.io) - 750 points by [sklopec](https://news.ycombinator.com/user?id=sklopec), [127 comments](https://news.ycombinator.com/item?id=48459294)
+6. [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/) (blog.oscars.dev) - 21 points by [ozcap](https://news.ycombinator.com/user?id=ozcap), [3 comments](https://news.ycombinator.com/item?id=48468766)
+7. [AI misidentification results in wrongful arrest; man seeks justice](https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/) (wsoctv.com) - 34 points by [text0404](https://news.ycombinator.com/user?id=text0404), [9 comments](https://news.ycombinator.com/item?id=48468789)
+8. [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc) (github.com) - 45 points by [rolph](https://news.ycombinator.com/user?id=rolph), [20 comments](https://news.ycombinator.com/item?id=48467759)
+9. [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/) (techdirt.com) - 369 points by [speckx](https://news.ycombinator.com/user?id=speckx), [150 comments](https://news.ycombinator.com/item?id=48465675)
+10. [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html) (phys.org) - 152 points by [wglb](https://news.ycombinator.com/user?id=wglb), [21 comments](https://news.ycombinator.com/item?id=48451966)
 
 ## 2026-06-09
 

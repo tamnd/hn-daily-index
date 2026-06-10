@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (9 days)
+- [June](06/) (10 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-10
+
+*Wednesday*
+
+1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) (anthropic.com) - 1.7k points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [1337 comments](https://news.ycombinator.com/item?id=48463808)
+2. [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/) (github.blog) - 153 points by [plasma](https://news.ycombinator.com/user?id=plasma), [44 comments](https://news.ycombinator.com/item?id=48467705)
+3. [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/) (aarushgupta.io) - 142 points by [ag2718](https://news.ycombinator.com/user?id=ag2718), [15 comments](https://news.ycombinator.com/item?id=48466277)
+4. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) (jonready.com) - 362 points by [mips_avatar](https://news.ycombinator.com/user?id=mips_avatar), [157 comments](https://news.ycombinator.com/item?id=48467896)
+5. [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/) (staniks.github.io) - 750 points by [sklopec](https://news.ycombinator.com/user?id=sklopec), [127 comments](https://news.ycombinator.com/item?id=48459294)
+6. [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/) (blog.oscars.dev) - 21 points by [ozcap](https://news.ycombinator.com/user?id=ozcap), [3 comments](https://news.ycombinator.com/item?id=48468766)
+7. [AI misidentification results in wrongful arrest; man seeks justice](https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/) (wsoctv.com) - 34 points by [text0404](https://news.ycombinator.com/user?id=text0404), [9 comments](https://news.ycombinator.com/item?id=48468789)
+8. [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc) (github.com) - 45 points by [rolph](https://news.ycombinator.com/user?id=rolph), [20 comments](https://news.ycombinator.com/item?id=48467759)
+9. [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/) (techdirt.com) - 369 points by [speckx](https://news.ycombinator.com/user?id=speckx), [150 comments](https://news.ycombinator.com/item?id=48465675)
+10. [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html) (phys.org) - 152 points by [wglb](https://news.ycombinator.com/user?id=wglb), [21 comments](https://news.ycombinator.com/item?id=48451966)
 
 ## 2026-06-09
 
