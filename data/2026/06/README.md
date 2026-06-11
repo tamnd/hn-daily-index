@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in June 2026.
 
+- [2026-06-11 (Thursday)](#2026-06-11)
 - [2026-06-10 (Wednesday)](#2026-06-10)
 - [2026-06-09 (Tuesday)](#2026-06-09)
 - [2026-06-08 (Monday)](#2026-06-08)
@@ -14,6 +15,21 @@ Top 10 Hacker News stories for each day in June 2026.
 - [2026-06-01 (Monday)](#2026-06-01)
 
 ---
+
+## 2026-06-11
+
+*Thursday*
+
+1. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) (techcrunch.com) - 132 points by [speckx](https://news.ycombinator.com/user?id=speckx), [109 comments](https://news.ycombinator.com/item?id=48478969)
+2. [πFS](https://github.com/philipl/pifs) (github.com) - 468 points by [helterskelter](https://news.ycombinator.com/user?id=helterskelter), [117 comments](https://news.ycombinator.com/item?id=48480978)
+3. [Raspberry Pi 5 – 16GB RAM](https://www.adafruit.com/product/6125?src=raspberrypi) (adafruit.com) - 140 points by [akman](https://news.ycombinator.com/user?id=akman), [166 comments](https://news.ycombinator.com/item?id=48481857)
+4. [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) (smithsonianmag.com) - 61 points by [grahambargeron](https://news.ycombinator.com/user?id=grahambargeron), [32 comments](https://news.ycombinator.com/item?id=48483387)
+5. [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) (support.claude.com) - 124 points by [lebovic](https://news.ycombinator.com/user?id=lebovic), [52 comments](https://news.ycombinator.com/item?id=48464258)
+6. [I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA](https://news.ycombinator.com/item?id=48477135) - 503 points by [eries](https://news.ycombinator.com/user?id=eries), [408 comments](https://news.ycombinator.com/item?id=48477135)
+7. [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science) (spectrum.ieee.org) - 161 points by [pseudolus](https://news.ycombinator.com/user?id=pseudolus), [34 comments](https://news.ycombinator.com/item?id=48479705)
+8. [L'Affaire Siloxane](https://mceglowski.substack.com/p/laffaire-siloxane) (mceglowski.substack.com) - 143 points by [idlewords](https://news.ycombinator.com/user?id=idlewords), [23 comments](https://news.ycombinator.com/item?id=48456808)
+9. [What is it like to be a bat? (1974) [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf) (sas.upenn.edu) - 54 points by [shadow28](https://news.ycombinator.com/user?id=shadow28), [48 comments](https://news.ycombinator.com/item?id=48482293)
+10. [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement) (pgdog.dev) - 368 points by [levkk](https://news.ycombinator.com/user?id=levkk), [186 comments](https://news.ycombinator.com/item?id=48476466)
 
 ## 2026-06-10
 

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48478969,
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "score": 132,
+    "by": "speckx",
+    "descendants": 109,
+    "time": 1781109720
+  },
+  {
+    "rank": 2,
+    "id": 48480978,
+    "title": "\u03c0FS",
+    "url": "https://github.com/philipl/pifs",
+    "score": 468,
+    "by": "helterskelter",
+    "descendants": 117,
+    "time": 1781117694
+  },
+  {
+    "rank": 3,
+    "id": 48481857,
+    "title": "Raspberry Pi 5 \u2013 16GB RAM",
+    "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+    "score": 140,
+    "by": "akman",
+    "descendants": 166,
+    "time": 1781121921
+  },
+  {
+    "rank": 4,
+    "id": 48483387,
+    "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+    "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+    "score": 61,
+    "by": "grahambargeron",
+    "descendants": 32,
+    "time": 1781129272
+  },
+  {
+    "rank": 5,
+    "id": 48464258,
+    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "score": 124,
+    "by": "lebovic",
+    "descendants": 52,
+    "time": 1781025820
+  },
+  {
+    "rank": 6,
+    "id": 48477135,
+    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
+    "url": "",
+    "score": 503,
+    "by": "eries",
+    "descendants": 408,
+    "time": 1781102872
+  },
+  {
+    "rank": 7,
+    "id": 48479705,
+    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+    "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+    "score": 161,
+    "by": "pseudolus",
+    "descendants": 34,
+    "time": 1781112648
+  },
+  {
+    "rank": 8,
+    "id": 48456808,
+    "title": "L'Affaire Siloxane",
+    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+    "score": 143,
+    "by": "idlewords",
+    "descendants": 23,
+    "time": 1780982499
+  },
+  {
+    "rank": 9,
+    "id": 48482293,
+    "title": "What is it like to be a bat? (1974) [pdf]",
+    "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+    "score": 54,
+    "by": "shadow28",
+    "descendants": 48,
+    "time": 1781123707
+  },
+  {
+    "rank": 10,
+    "id": 48476466,
+    "title": "PgDog is funded and coming to a database near you",
+    "url": "https://pgdog.dev/blog/our-funding-announcement",
+    "score": 368,
+    "by": "levkk",
+    "descendants": 186,
+    "time": 1781100179
+  }
+]
