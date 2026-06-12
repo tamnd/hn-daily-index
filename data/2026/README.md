@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (11 days)
+- [June](06/) (12 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-12
+
+*Friday*
+
+1. [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com) (fablepool.com) - 195 points by [matthewbarras](https://news.ycombinator.com/user?id=matthewbarras), [90 comments](https://news.ycombinator.com/item?id=48496539)
+2. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) (brew.sh) - 923 points by [mikemcquaid](https://news.ycombinator.com/user?id=mikemcquaid), [216 comments](https://news.ycombinator.com/item?id=48490024)
+3. [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) (tombedor.dev) - 163 points by [jjfoooo4](https://news.ycombinator.com/user?id=jjfoooo4), [31 comments](https://news.ycombinator.com/item?id=48497609)
+4. [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) (mimo.xiaomi.com) - 409 points by [apeters](https://news.ycombinator.com/user?id=apeters), [231 comments](https://news.ycombinator.com/item?id=48490826)
+5. [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/) (news.utexas.edu) - 17 points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [2 comments](https://news.ycombinator.com/item?id=48497576)
+6. [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) (ourcommons.ca) - 336 points by [hmokiguess](https://news.ycombinator.com/user?id=hmokiguess), [115 comments](https://news.ycombinator.com/item?id=48491830)
+7. [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail) (theverge.com) - 268 points by [rarisma](https://news.ycombinator.com/user?id=rarisma), [277 comments](https://news.ycombinator.com/item?id=48489229)
+8. [Emacs appearances in pop culture](https://ianyepan.github.io/posts/emacs-in-pop-culture/) (ianyepan.github.io) - 239 points by [ggcr](https://news.ycombinator.com/user?id=ggcr), [60 comments](https://news.ycombinator.com/item?id=48474274)
+9. [Ear Training Practice](https://tonedear.com/) (tonedear.com) - 136 points by [mattbit](https://news.ycombinator.com/user?id=mattbit), [72 comments](https://news.ycombinator.com/item?id=48447598)
+10. [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/) (mrbruh.com) - 215 points by [MrBruh](https://news.ycombinator.com/user?id=MrBruh), [94 comments](https://news.ycombinator.com/item?id=48492215)
 
 ## 2026-06-11
 

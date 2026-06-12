@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 11](#2026-06-11) | [Jun 10](#2026-06-10) | [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06) | [Jun 05](#2026-06-05)
+Recent: [Jun 12](#2026-06-12) | [Jun 11](#2026-06-11) | [Jun 10](#2026-06-10) | [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06)
 
-### [2026](data/2026/) (162/162 days)
+### [2026](data/2026/) (163/163 days)
 
-[**June**](data/2026/06/) (11/11)
+[**June**](data/2026/06/) (12/12)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
-| [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) |  |  |  |
+| [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2131,6 +2131,21 @@ Recent: [Jun 11](#2026-06-11) | [Jun 10](#2026-06-10) | [Jun 09](#2026-06-09) | 
 </details>
 
 ---
+
+## 2026-06-12
+
+*Friday*
+
+1. [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com) (fablepool.com) - 195 points by [matthewbarras](https://news.ycombinator.com/user?id=matthewbarras), [90 comments](https://news.ycombinator.com/item?id=48496539)
+2. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) (brew.sh) - 923 points by [mikemcquaid](https://news.ycombinator.com/user?id=mikemcquaid), [216 comments](https://news.ycombinator.com/item?id=48490024)
+3. [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) (tombedor.dev) - 163 points by [jjfoooo4](https://news.ycombinator.com/user?id=jjfoooo4), [31 comments](https://news.ycombinator.com/item?id=48497609)
+4. [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) (mimo.xiaomi.com) - 409 points by [apeters](https://news.ycombinator.com/user?id=apeters), [231 comments](https://news.ycombinator.com/item?id=48490826)
+5. [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/) (news.utexas.edu) - 17 points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [2 comments](https://news.ycombinator.com/item?id=48497576)
+6. [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) (ourcommons.ca) - 336 points by [hmokiguess](https://news.ycombinator.com/user?id=hmokiguess), [115 comments](https://news.ycombinator.com/item?id=48491830)
+7. [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail) (theverge.com) - 268 points by [rarisma](https://news.ycombinator.com/user?id=rarisma), [277 comments](https://news.ycombinator.com/item?id=48489229)
+8. [Emacs appearances in pop culture](https://ianyepan.github.io/posts/emacs-in-pop-culture/) (ianyepan.github.io) - 239 points by [ggcr](https://news.ycombinator.com/user?id=ggcr), [60 comments](https://news.ycombinator.com/item?id=48474274)
+9. [Ear Training Practice](https://tonedear.com/) (tonedear.com) - 136 points by [mattbit](https://news.ycombinator.com/user?id=mattbit), [72 comments](https://news.ycombinator.com/item?id=48447598)
+10. [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/) (mrbruh.com) - 215 points by [MrBruh](https://news.ycombinator.com/user?id=MrBruh), [94 comments](https://news.ycombinator.com/item?id=48492215)
 
 ## 2026-06-11
 
