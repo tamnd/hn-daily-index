@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48510010,
+    "title": "Renault: Electric motors with no rare earths",
+    "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+    "score": 129,
+    "by": "bestouff",
+    "descendants": 31,
+    "time": 1781302083
+  },
+  {
+    "rank": 2,
+    "id": 48505231,
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+    "score": 672,
+    "by": "gmays",
+    "descendants": 169,
+    "time": 1781277324
+  },
+  {
+    "rank": 3,
+    "id": 48510341,
+    "title": "Show HN: Putt.day a daily mini golf game",
+    "url": "https://putt.day/",
+    "score": 45,
+    "by": "ellg",
+    "descendants": 34,
+    "time": 1781304966
+  },
+  {
+    "rank": 4,
+    "id": 48508726,
+    "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+    "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+    "score": 112,
+    "by": "DASD",
+    "descendants": 49,
+    "time": 1781294067
+  },
+  {
+    "rank": 5,
+    "id": 48510046,
+    "title": "Twenty One Zero-Days in FFmpeg",
+    "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+    "score": 61,
+    "by": "redbell",
+    "descendants": 25,
+    "time": 1781302409
+  },
+  {
+    "rank": 6,
+    "id": 48507020,
+    "title": "How to setup a local coding agent on macOS",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "score": 235,
+    "by": "kkm",
+    "descendants": 70,
+    "time": 1781285695
+  },
+  {
+    "rank": 7,
+    "id": 48495928,
+    "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+    "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+    "score": 281,
+    "by": "marc__1",
+    "descendants": 182,
+    "time": 1781209458
+  },
+  {
+    "rank": 8,
+    "id": 48506659,
+    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+    "url": "https://piwodlaiwo.github.io/pirates/",
+    "score": 183,
+    "by": "iweczek",
+    "descendants": 72,
+    "time": 1781284066
+  },
+  {
+    "rank": 9,
+    "id": 48484496,
+    "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
+    "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+    "score": 96,
+    "by": "Cider9986",
+    "descendants": 19,
+    "time": 1781136042
+  },
+  {
+    "rank": 10,
+    "id": 48509182,
+    "title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+    "score": 168,
+    "by": "sschueller",
+    "descendants": 34,
+    "time": 1781296776
+  }
+]

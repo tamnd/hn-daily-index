@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 12](#2026-06-12) | [Jun 11](#2026-06-11) | [Jun 10](#2026-06-10) | [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07) | [Jun 06](#2026-06-06)
+Recent: [Jun 13](#2026-06-13) | [Jun 12](#2026-06-12) | [Jun 11](#2026-06-11) | [Jun 10](#2026-06-10) | [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08) | [Jun 07](#2026-06-07)
 
-### [2026](data/2026/) (163/163 days)
+### [2026](data/2026/) (164/164 days)
 
-[**June**](data/2026/06/) (12/12)
+[**June**](data/2026/06/) (13/13)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
-| [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) |  |  |
+| [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2131,6 +2131,21 @@ Recent: [Jun 12](#2026-06-12) | [Jun 11](#2026-06-11) | [Jun 10](#2026-06-10) | 
 </details>
 
 ---
+
+## 2026-06-13
+
+*Saturday*
+
+1. [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) (renaultgroup.com) - 129 points by [bestouff](https://news.ycombinator.com/user?id=bestouff), [31 comments](https://news.ycombinator.com/item?id=48510010)
+2. [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) (innovativegenomics.org) - 672 points by [gmays](https://news.ycombinator.com/user?id=gmays), [169 comments](https://news.ycombinator.com/item?id=48505231)
+3. [Show HN: Putt.day a daily mini golf game](https://putt.day/) (putt.day) - 45 points by [ellg](https://news.ycombinator.com/user?id=ellg), [34 comments](https://news.ycombinator.com/item?id=48510341)
+4. [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/) (swift.org) - 112 points by [DASD](https://news.ycombinator.com/user?id=DASD), [49 comments](https://news.ycombinator.com/item?id=48508726)
+5. [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg) (depthfirst.com) - 61 points by [redbell](https://news.ycombinator.com/user?id=redbell), [25 comments](https://news.ycombinator.com/item?id=48510046)
+6. [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos) (ikyle.me) - 235 points by [kkm](https://news.ycombinator.com/user?id=kkm), [70 comments](https://news.ycombinator.com/item?id=48507020)
+7. [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571) (twitter.com) - 281 points by [marc__1](https://news.ycombinator.com/user?id=marc__1), [182 comments](https://news.ycombinator.com/item?id=48495928)
+8. [Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/) (piwodlaiwo.github.io) - 183 points by [iweczek](https://news.ycombinator.com/user?id=iweczek), [72 comments](https://news.ycombinator.com/item?id=48506659)
+9. [H.R. 6028 would fundamentally change the U.S. Copyright Office](https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul) (eff.org) - 96 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [19 comments](https://news.ycombinator.com/item?id=48484496)
+10. [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979) (ft.com) - 168 points by [sschueller](https://news.ycombinator.com/user?id=sschueller), [34 comments](https://news.ycombinator.com/item?id=48509182)
 
 ## 2026-06-12
 
