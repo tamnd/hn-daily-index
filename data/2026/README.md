@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (13 days)
+- [June](06/) (14 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-14
+
+*Sunday*
+
+1. [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) (desfontain.es) - 687 points by [nl](https://news.ycombinator.com/user?id=nl), [418 comments](https://news.ycombinator.com/item?id=48517377)
+2. [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314) (twitter.com) - 277 points by [aloknnikhil](https://news.ycombinator.com/user?id=aloknnikhil), [150 comments](https://news.ycombinator.com/item?id=48518684)
+3. [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) (tonsky.me) - 504 points by [ravenical](https://news.ycombinator.com/user?id=ravenical), [167 comments](https://news.ycombinator.com/item?id=48516251)
+4. [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch) (economist.com) - 280 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [93 comments](https://news.ycombinator.com/item?id=48517199)
+5. [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/) (blog.pyodide.org) - 53 points by [agriyakhetarpal](https://news.ycombinator.com/user?id=agriyakhetarpal), [10 comments](https://news.ycombinator.com/item?id=48462759)
+6. [GameBoy Workboy](https://tcrf.net/Workboy) (tcrf.net) - 149 points by [tosh](https://news.ycombinator.com/user?id=tosh), [52 comments](https://news.ycombinator.com/item?id=48519552)
+7. [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/) (chrisdevblog.com) - 68 points by [rasz](https://news.ycombinator.com/user?id=rasz), [14 comments](https://news.ycombinator.com/item?id=48520080)
+8. [Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink) (wsj.com) - 494 points by [ls612](https://news.ycombinator.com/user?id=ls612), [367 comments](https://news.ycombinator.com/item?id=48519092)
+9. [Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661) (news.sky.com) - 185 points by [austinallegro](https://news.ycombinator.com/user?id=austinallegro), [77 comments](https://news.ycombinator.com/item?id=48520807)
+10. [Resurrecting a Soaked, corroded, and damaged Commodore SX‑64 (2025)](https://jerrylparker.com/blogs/posts/sx-64.html) (jerrylparker.com) - 14 points by [hggh](https://news.ycombinator.com/user?id=hggh), [1 comments](https://news.ycombinator.com/item?id=48491968)
 
 ## 2026-06-13
 
