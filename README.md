@@ -13,16 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 14](#2026-06-14) | [Jun 13](#2026-06-13) | [Jun 12](#2026-06-12) | [Jun 11](#2026-06-11) | [Jun 10](#2026-06-10) | [Jun 09](#2026-06-09) | [Jun 08](#2026-06-08)
+Recent: [Jun 15](#2026-06-15) | [Jun 14](#2026-06-14) | [Jun 13](#2026-06-13) | [Jun 12](#2026-06-12) | [Jun 11](#2026-06-11) | [Jun 10](#2026-06-10) | [Jun 09](#2026-06-09)
 
-### [2026](data/2026/) (165/165 days)
+### [2026](data/2026/) (166/166 days)
 
-[**June**](data/2026/06/) (14/14)
+[**June**](data/2026/06/) (15/15)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
+| [**15**](#2026-06-15) |  |  |  |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2131,6 +2132,21 @@ Recent: [Jun 14](#2026-06-14) | [Jun 13](#2026-06-13) | [Jun 12](#2026-06-12) | 
 </details>
 
 ---
+
+## 2026-06-15
+
+*Monday*
+
+1. [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) (andreklein.net) - 73 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [23 comments](https://news.ycombinator.com/item?id=48533848)
+2. [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) (github.com) - 373 points by [tamnd](https://news.ycombinator.com/user?id=tamnd), [84 comments](https://news.ycombinator.com/item?id=48529990)
+3. [What even is food authenticity? Why we guard carbonara, and flatten chicken rice](https://iza.ac/posts/2026/06/food-authenticity/) (iza.ac) - 24 points by [infinitewalk](https://news.ycombinator.com/user?id=infinitewalk), [24 comments](https://news.ycombinator.com/item?id=48533829)
+4. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4) (github.com) - 261 points by [unrvl22](https://news.ycombinator.com/user?id=unrvl22), [142 comments](https://news.ycombinator.com/item?id=48528371)
+5. [Firewood Splitting Simulator](https://screen.toys/firewood/) (screen.toys) - 606 points by [memalign](https://news.ycombinator.com/user?id=memalign), [195 comments](https://news.ycombinator.com/item?id=48471638)
+6. [Chopped, Stored, Secured – The Story of the Hash Function](https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html) (0xkrt26.github.io) - 13 points by [denismenace](https://news.ycombinator.com/user?id=denismenace), [1 comments](https://news.ycombinator.com/item?id=48482951)
+7. [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html) (tumbleweed.nu) - 57 points by [RGBCube](https://news.ycombinator.com/user?id=RGBCube), [6 comments](https://news.ycombinator.com/item?id=48531449)
+8. [Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call](https://traceapp.info) (traceapp.info) - 83 points by [AG342](https://news.ycombinator.com/user?id=AG342), [30 comments](https://news.ycombinator.com/item?id=48521236)
+9. [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779) - 147 points by [david927](https://news.ycombinator.com/user?id=david927), [532 comments](https://news.ycombinator.com/item?id=48528779)
+10. [Segmented type appreciation corner (2018)](https://aresluna.org/segmented-type/) (aresluna.org) - 57 points by [unexpectedVCR](https://news.ycombinator.com/user?id=unexpectedVCR), [14 comments](https://news.ycombinator.com/item?id=48489636)
 
 ## 2026-06-14
 
