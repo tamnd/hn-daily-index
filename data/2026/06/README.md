@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in June 2026.
 
+- [2026-06-16 (Tuesday)](#2026-06-16)
 - [2026-06-15 (Monday)](#2026-06-15)
 - [2026-06-14 (Sunday)](#2026-06-14)
 - [2026-06-13 (Saturday)](#2026-06-13)
@@ -19,6 +20,21 @@ Top 10 Hacker News stories for each day in June 2026.
 - [2026-06-01 (Monday)](#2026-06-01)
 
 ---
+
+## 2026-06-16
+
+*Tuesday*
+
+1. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) (roman.pt) - 584 points by [lwhsiao](https://news.ycombinator.com/user?id=lwhsiao), [112 comments](https://news.ycombinator.com/item?id=48546294)
+2. [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) (richardosgood.com) - 92 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [16 comments](https://news.ycombinator.com/item?id=48547985)
+3. [Iroh 1.0](https://www.iroh.computer/blog/v1) (iroh.computer) - 899 points by [chadfowler](https://news.ycombinator.com/user?id=chadfowler), [277 comments](https://news.ycombinator.com/item?id=48542480)
+4. [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) (michaelenger.com) - 119 points by [speckx](https://news.ycombinator.com/user?id=speckx), [71 comments](https://news.ycombinator.com/item?id=48546441)
+5. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) (tinywind.io) - 561 points by [tinywind](https://news.ycombinator.com/user?id=tinywind), [116 comments](https://news.ycombinator.com/item?id=48543475)
+6. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100) - 623 points by [cloudking](https://news.ycombinator.com/user?id=cloudking), [315 comments](https://news.ycombinator.com/item?id=48542100)
+7. [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/) (goodinternetmagazine.com) - 53 points by [karakoram](https://news.ycombinator.com/user?id=karakoram), [25 comments](https://news.ycombinator.com/item?id=48547566)
+8. [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html) (gmalandrakis.com) - 67 points by [l0new0lf-G](https://news.ycombinator.com/user?id=l0new0lf-G), [81 comments](https://news.ycombinator.com/item?id=48547062)
+9. [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/) (rsgm.dev) - 228 points by [rsgm](https://news.ycombinator.com/user?id=rsgm), [42 comments](https://news.ycombinator.com/item?id=48542433)
+10. [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/) (notnotp.com) - 62 points by [chmaynard](https://news.ycombinator.com/user?id=chmaynard), [54 comments](https://news.ycombinator.com/item?id=48546428)
 
 ## 2026-06-15
 

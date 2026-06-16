@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48546294,
+    "title": "A backdoor in a LinkedIn job offer",
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "score": 584,
+    "by": "lwhsiao",
+    "descendants": 112,
+    "time": 1781553657
+  },
+  {
+    "rank": 2,
+    "id": 48547985,
+    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "score": 92,
+    "by": "sohkamyung",
+    "descendants": 16,
+    "time": 1781563075
+  },
+  {
+    "rank": 3,
+    "id": 48542480,
+    "title": "Iroh 1.0",
+    "url": "https://www.iroh.computer/blog/v1",
+    "score": 899,
+    "by": "chadfowler",
+    "descendants": 277,
+    "time": 1781536386
+  },
+  {
+    "rank": 4,
+    "id": 48546441,
+    "title": "I Love the Computer",
+    "url": "https://michaelenger.com/blog/i-love-the-computer/",
+    "score": 119,
+    "by": "speckx",
+    "descendants": 71,
+    "time": 1781554455
+  },
+  {
+    "rank": 5,
+    "id": 48543475,
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+    "url": "https://tinywind.io",
+    "score": 561,
+    "by": "tinywind",
+    "descendants": 116,
+    "time": 1781540153
+  },
+  {
+    "rank": 6,
+    "id": 48542100,
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "url": "",
+    "score": 623,
+    "by": "cloudking",
+    "descendants": 315,
+    "time": 1781534813
+  },
+  {
+    "rank": 7,
+    "id": 48547566,
+    "title": "Why I email complete strangers",
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "score": 53,
+    "by": "karakoram",
+    "descendants": 25,
+    "time": 1781560630
+  },
+  {
+    "rank": 8,
+    "id": 48547062,
+    "title": "Peopleless economy? Not technically impossible",
+    "url": "https://gmalandrakis.com/writings/ad-economicum.html",
+    "score": 67,
+    "by": "l0new0lf-G",
+    "descendants": 81,
+    "time": 1781557836
+  },
+  {
+    "rank": 9,
+    "id": 48542433,
+    "title": "My Homelab AI Dev Platform",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "score": 228,
+    "by": "rsgm",
+    "descendants": 42,
+    "time": 1781536180
+  },
+  {
+    "rank": 10,
+    "id": 48546428,
+    "title": "What job interviews taught me about Kubernetes",
+    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "score": 62,
+    "by": "chmaynard",
+    "descendants": 54,
+    "time": 1781554357
+  }
+]
