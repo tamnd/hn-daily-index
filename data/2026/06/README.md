@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in June 2026.
 
+- [2026-06-17 (Wednesday)](#2026-06-17)
 - [2026-06-16 (Tuesday)](#2026-06-16)
 - [2026-06-15 (Monday)](#2026-06-15)
 - [2026-06-14 (Sunday)](#2026-06-14)
@@ -20,6 +21,21 @@ Top 10 Hacker News stories for each day in June 2026.
 - [2026-06-01 (Monday)](#2026-06-01)
 
 ---
+
+## 2026-06-17
+
+*Wednesday*
+
+1. [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) (discuss.grapheneos.org) - 297 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [125 comments](https://news.ycombinator.com/item?id=48561654)
+2. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) (vickiboykis.com) - 971 points by [jfb](https://news.ycombinator.com/user?id=jfb), [412 comments](https://news.ycombinator.com/item?id=48555993)
+3. [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/) (mll.sh) - 38 points by [denysvitali](https://news.ycombinator.com/user?id=denysvitali), [2 comments](https://news.ycombinator.com/item?id=48563394)
+4. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) (reuters.com) - 831 points by [itsmarcelg](https://news.ycombinator.com/user?id=itsmarcelg), [1280 comments](https://news.ycombinator.com/item?id=48553224)
+5. [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/) (writings.stephenwolfram.com) - 24 points by [alok-g](https://news.ycombinator.com/user?id=alok-g), [2 comments](https://news.ycombinator.com/item?id=48563609)
+6. [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/) (mareksuppa.com) - 235 points by [mrshu](https://news.ycombinator.com/user?id=mrshu), [135 comments](https://news.ycombinator.com/item?id=48558018)
+7. [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of) (therepublicofletters.substack.com) - 248 points by [pseudolus](https://news.ycombinator.com/user?id=pseudolus), [109 comments](https://news.ycombinator.com/item?id=48557079)
+8. [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/) (ciechanow.ski) - 617 points by [razin](https://news.ycombinator.com/user?id=razin), [114 comments](https://news.ycombinator.com/item?id=48553550)
+9. [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) (gist.github.com) - 219 points by [dzonga](https://news.ycombinator.com/user?id=dzonga), [133 comments](https://news.ycombinator.com/item?id=48558147)
+10. [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/) (tno.nl) - 126 points by [root-parent](https://news.ycombinator.com/user?id=root-parent), [131 comments](https://news.ycombinator.com/item?id=48559188)
 
 ## 2026-06-16
 

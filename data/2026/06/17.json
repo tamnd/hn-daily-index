@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48561654,
+    "title": "GrapheneOS has been ported to Android 17",
+    "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "score": 297,
+    "by": "Cider9986",
+    "descendants": 125,
+    "time": 1781642075
+  },
+  {
+    "rank": 2,
+    "id": 48555993,
+    "title": "Running local models is good now",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "score": 971,
+    "by": "jfb",
+    "descendants": 412,
+    "time": 1781620617
+  },
+  {
+    "rank": 3,
+    "id": 48563394,
+    "title": "Humiliating IIS servers for fun and jail time",
+    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "score": 38,
+    "by": "denysvitali",
+    "descendants": 2,
+    "time": 1781650414
+  },
+  {
+    "rank": 4,
+    "id": 48553224,
+    "title": "SpaceX to buy Cursor for $60B",
+    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "score": 831,
+    "by": "itsmarcelg",
+    "descendants": 1280,
+    "time": 1781606664
+  },
+  {
+    "rank": 5,
+    "id": 48563609,
+    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "score": 24,
+    "by": "alok-g",
+    "descendants": 2,
+    "time": 1781651744
+  },
+  {
+    "rank": 6,
+    "id": 48558018,
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "score": 235,
+    "by": "mrshu",
+    "descendants": 135,
+    "time": 1781628058
+  },
+  {
+    "rank": 7,
+    "id": 48557079,
+    "title": "Calvin and Hobbes and the price of integrity",
+    "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+    "score": 248,
+    "by": "pseudolus",
+    "descendants": 109,
+    "time": 1781624684
+  },
+  {
+    "rank": 8,
+    "id": 48553550,
+    "title": "Mechanical Watch (2022)",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "score": 617,
+    "by": "razin",
+    "descendants": 114,
+    "time": 1781609187
+  },
+  {
+    "rank": 9,
+    "id": 48558147,
+    "title": "Stop Using JWTs",
+    "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+    "score": 219,
+    "by": "dzonga",
+    "descendants": 133,
+    "time": 1781628586
+  },
+  {
+    "rank": 10,
+    "id": 48559188,
+    "title": "GPT\u2011NL: a sovereign language model for the Netherlands",
+    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "score": 126,
+    "by": "root-parent",
+    "descendants": 131,
+    "time": 1781632442
+  }
+]
