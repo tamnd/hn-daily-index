@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16) | [Jun 15](#2026-06-15) | [Jun 14](#2026-06-14) | [Jun 13](#2026-06-13) | [Jun 12](#2026-06-12) | [Jun 11](#2026-06-11)
+Recent: [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16) | [Jun 15](#2026-06-15) | [Jun 14](#2026-06-14) | [Jun 13](#2026-06-13) | [Jun 12](#2026-06-12)
 
-### [2026](data/2026/) (168/168 days)
+### [2026](data/2026/) (169/169 days)
 
-[**June**](data/2026/06/) (17/17)
+[**June**](data/2026/06/) (18/18)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
-| [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) |  |  |  |  |
+| [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2132,6 +2132,21 @@ Recent: [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16) | [Jun 15](#2026-06-15) | 
 </details>
 
 ---
+
+## 2026-06-18
+
+*Thursday*
+
+1. [Lore – Open source version control system designed for scalability](https://lore.org/) (lore.org) - 929 points by [regnerba](https://news.ycombinator.com/user?id=regnerba), [506 comments](https://news.ycombinator.com/item?id=48571081)
+2. [Storied Colors – a catalogue of named colors](https://storiedcolors.com/) (storiedcolors.com) - 64 points by [susiecambria](https://news.ycombinator.com/user?id=susiecambria), [12 comments](https://news.ycombinator.com/item?id=48577374)
+3. [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) (reuters.com) - 316 points by [giuliomagnifico](https://news.ycombinator.com/user?id=giuliomagnifico), [336 comments](https://news.ycombinator.com/item?id=48565498)
+4. [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/) (arstechnica.com) - 218 points by [greenchair](https://news.ycombinator.com/user?id=greenchair), [128 comments](https://news.ycombinator.com/item?id=48577208)
+5. [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) (artificialanalysis.ai) - 764 points by [himata4113](https://news.ycombinator.com/user?id=himata4113), [380 comments](https://news.ycombinator.com/item?id=48567759)
+6. [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra) (browser-use.com) - 188 points by [gregpr07](https://news.ycombinator.com/user?id=gregpr07), [116 comments](https://news.ycombinator.com/item?id=48556561)
+7. [Loreline – Tools for writing interactive fiction](https://loreline.app/en/) (loreline.app) - 56 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [8 comments](https://news.ycombinator.com/item?id=48576395)
+8. [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM) (github.com) - 143 points by [zachdive](https://news.ycombinator.com/user?id=zachdive), [76 comments](https://news.ycombinator.com/item?id=48572553)
+9. [U.S. science is in chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) (scientificamerican.com) - 625 points by [presspot](https://news.ycombinator.com/user?id=presspot), [714 comments](https://news.ycombinator.com/item?id=48568058)
+10. [Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/) (arstechnica.com) - 131 points by [Bender](https://news.ycombinator.com/user?id=Bender), [55 comments](https://news.ycombinator.com/item?id=48576838)
 
 ## 2026-06-17
 
