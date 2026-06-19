@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (18 days)
+- [June](06/) (19 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-19
+
+*Friday*
+
+1. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) (blog.modelcontextprotocol.io) - 60 points by [niyikiza](https://news.ycombinator.com/user?id=niyikiza), [20 comments](https://news.ycombinator.com/item?id=48592163)
+2. [Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative) (nsf.gov) - 21 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [2 comments](https://news.ycombinator.com/item?id=48593093)
+3. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) (orchidfiles.com) - 641 points by [theorchid](https://news.ycombinator.com/user?id=theorchid), [144 comments](https://news.ycombinator.com/item?id=48583928)
+4. [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) (americanexpress.io) - 70 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [23 comments](https://news.ycombinator.com/item?id=48547969)
+5. [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect) (theescapenewsletter.com) - 54 points by [herbertl](https://news.ycombinator.com/user?id=herbertl), [59 comments](https://news.ycombinator.com/item?id=48592832)
+6. [The Korean telecom giant at the center of Anthropic's Mythos controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/) (wired.com) - 90 points by [dstala](https://news.ycombinator.com/user?id=dstala), [61 comments](https://news.ycombinator.com/item?id=48584484)
+7. [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas) (blog.ui.com) - 241 points by [ksec](https://news.ycombinator.com/user?id=ksec), [227 comments](https://news.ycombinator.com/item?id=48585866)
+8. [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) (bluewin.ch) - 666 points by [leonidasrup](https://news.ycombinator.com/user?id=leonidasrup), [523 comments](https://news.ycombinator.com/item?id=48585746)
+9. [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update) (dpolakovic.space) - 37 points by [dpola](https://news.ycombinator.com/user?id=dpola), [5 comments](https://news.ycombinator.com/item?id=48591066)
+10. [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/) (thatprivacyguy.com) - 194 points by [speckx](https://news.ycombinator.com/user?id=speckx), [74 comments](https://news.ycombinator.com/item?id=48589501)
 
 ## 2026-06-18
 

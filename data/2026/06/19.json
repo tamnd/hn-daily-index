@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48592163,
+    "title": "Zero-Touch OAuth for MCP",
+    "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "score": 60,
+    "by": "niyikiza",
+    "descendants": 20,
+    "time": 1781819650
+  },
+  {
+    "rank": 2,
+    "id": 48593093,
+    "title": "Update on Ocean Observatories Initiative",
+    "url": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+    "score": 21,
+    "by": "andsoitis",
+    "descendants": 2,
+    "time": 1781826108
+  },
+  {
+    "rank": 3,
+    "id": 48583928,
+    "title": "I found 10k GitHub repositories distributing Trojan malware",
+    "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+    "score": 641,
+    "by": "theorchid",
+    "descendants": 144,
+    "time": 1781783143
+  },
+  {
+    "rank": 4,
+    "id": 48547969,
+    "title": "Cell-based architecture for resilient payment systems",
+    "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+    "score": 70,
+    "by": "birdculture",
+    "descendants": 23,
+    "time": 1781562993
+  },
+  {
+    "rank": 5,
+    "id": 48592832,
+    "title": "The AirPods Effect",
+    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "score": 54,
+    "by": "herbertl",
+    "descendants": 59,
+    "time": 1781824115
+  },
+  {
+    "rank": 6,
+    "id": 48584484,
+    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "score": 90,
+    "by": "dstala",
+    "descendants": 61,
+    "time": 1781786649
+  },
+  {
+    "rank": 7,
+    "id": 48585866,
+    "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+    "score": 241,
+    "by": "ksec",
+    "descendants": 227,
+    "time": 1781792670
+  },
+  {
+    "rank": 8,
+    "id": 48585746,
+    "title": "Swiss parliament lifts ban on new nuclear power plants",
+    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+    "score": 666,
+    "by": "leonidasrup",
+    "descendants": 523,
+    "time": 1781792227
+  },
+  {
+    "rank": 9,
+    "id": 48591066,
+    "title": "Zork name origin got an update on Wikipedia",
+    "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
+    "score": 37,
+    "by": "dpola",
+    "descendants": 5,
+    "time": 1781814448
+  },
+  {
+    "rank": 10,
+    "id": 48589501,
+    "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20ac1.8M",
+    "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+    "score": 194,
+    "by": "speckx",
+    "descendants": 74,
+    "time": 1781807483
+  }
+]
