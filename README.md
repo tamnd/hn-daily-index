@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16) | [Jun 15](#2026-06-15) | [Jun 14](#2026-06-14) | [Jun 13](#2026-06-13)
+Recent: [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16) | [Jun 15](#2026-06-15) | [Jun 14](#2026-06-14)
 
-### [2026](data/2026/) (170/170 days)
+### [2026](data/2026/) (171/171 days)
 
-[**June**](data/2026/06/) (19/19)
+[**June**](data/2026/06/) (20/20)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
-| [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) |  |  |
+| [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) | [**20**](#2026-06-20) |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2132,6 +2132,21 @@ Recent: [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | 
 </details>
 
 ---
+
+## 2026-06-20
+
+*Saturday*
+
+1. [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) (reuters.com) - 355 points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [220 comments](https://news.ycombinator.com/item?id=48600093)
+2. [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll) (legacy.com) - 146 points by [pgrote](https://news.ycombinator.com/user?id=pgrote), [15 comments](https://news.ycombinator.com/item?id=48602352)
+3. [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) (overreacted.io) - 324 points by [danabramov](https://news.ycombinator.com/user?id=danabramov), [185 comments](https://news.ycombinator.com/item?id=48599515)
+4. [Think of the Children: How to Force Real ID for All Internet Traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/) (nochan.net) - 59 points by [Bender](https://news.ycombinator.com/user?id=Bender), [13 comments](https://news.ycombinator.com/item?id=48602817)
+5. [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929) (theconversation.com) - 170 points by [zeristor](https://news.ycombinator.com/user?id=zeristor), [108 comments](https://news.ycombinator.com/item?id=48514843)
+6. [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) (startupfortune.com) - 604 points by [ck2](https://news.ycombinator.com/user?id=ck2), [288 comments](https://news.ycombinator.com/item?id=48600312)
+7. [Americans express unease over SpaceX's influence on retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk) (theguardian.com) - 92 points by [ValentineC](https://news.ycombinator.com/user?id=ValentineC), [39 comments](https://news.ycombinator.com/item?id=48604186)
+8. [Iran requires insurance on ships using Strait of Hormuz, fees likely to follow](https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow) (lloydslist.com) - 29 points by [decimalenough](https://news.ycombinator.com/user?id=decimalenough), [12 comments](https://news.ycombinator.com/item?id=48604584)
+9. [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html) (brooker.co.za) - 27 points by [KraftyOne](https://news.ycombinator.com/user?id=KraftyOne), [11 comments](https://news.ycombinator.com/item?id=48602918)
+10. [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) (jvm-weekly.com) - 531 points by [philonoist](https://news.ycombinator.com/user?id=philonoist), [326 comments](https://news.ycombinator.com/item?id=48595511)
 
 ## 2026-06-19
 
