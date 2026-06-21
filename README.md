@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16) | [Jun 15](#2026-06-15) | [Jun 14](#2026-06-14)
+Recent: [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16) | [Jun 15](#2026-06-15)
 
-### [2026](data/2026/) (171/171 days)
+### [2026](data/2026/) (172/172 days)
 
-[**June**](data/2026/06/) (20/20)
+[**June**](data/2026/06/) (21/21)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
-| [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) | [**20**](#2026-06-20) |  |
+| [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) | [**20**](#2026-06-20) | [**21**](#2026-06-21) |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2132,6 +2132,21 @@ Recent: [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | 
 </details>
 
 ---
+
+## 2026-06-21
+
+*Sunday*
+
+1. [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books) (notes.lorenzogravina.com) - 117 points by [trms](https://news.ycombinator.com/user?id=trms), [58 comments](https://news.ycombinator.com/item?id=48613631)
+2. [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) (bbc.com) - 50 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [17 comments](https://news.ycombinator.com/item?id=48613755)
+3. [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/) (sibexi.co) - 25 points by [Sibexico](https://news.ycombinator.com/user?id=Sibexico), [4 comments](https://news.ycombinator.com/item?id=48613872)
+4. [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) (smpte.org) - 216 points by [zdw](https://news.ycombinator.com/user?id=zdw), [58 comments](https://news.ycombinator.com/item?id=48610827)
+5. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/) (townsquare.cauenapier.com) - 19 points by [cauenapier](https://news.ycombinator.com/user?id=cauenapier), [7 comments](https://news.ycombinator.com/item?id=48608570)
+6. [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html) (brooker.co.za) - 40 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [7 comments](https://news.ycombinator.com/item?id=48612740)
+7. [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9) (cell.com) - 19 points by [croes](https://news.ycombinator.com/user?id=croes), [0 comments](https://news.ycombinator.com/item?id=48613555)
+8. [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) (lispm.net) - 151 points by [zdw](https://news.ycombinator.com/user?id=zdw), [20 comments](https://news.ycombinator.com/item?id=48610853)
+9. [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html) (neuviemeporte.github.io) - 190 points by [LowLevelMahn](https://news.ycombinator.com/user?id=LowLevelMahn), [57 comments](https://news.ycombinator.com/item?id=48609766)
+10. [CSSQuake](https://cssquake.com/) (cssquake.com) - 445 points by [msalsas](https://news.ycombinator.com/user?id=msalsas), [93 comments](https://news.ycombinator.com/item?id=48608223)
 
 ## 2026-06-20
 

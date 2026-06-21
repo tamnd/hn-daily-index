@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in June 2026.
 
+- [2026-06-21 (Sunday)](#2026-06-21)
 - [2026-06-20 (Saturday)](#2026-06-20)
 - [2026-06-19 (Friday)](#2026-06-19)
 - [2026-06-18 (Thursday)](#2026-06-18)
@@ -24,6 +25,21 @@ Top 10 Hacker News stories for each day in June 2026.
 - [2026-06-01 (Monday)](#2026-06-01)
 
 ---
+
+## 2026-06-21
+
+*Sunday*
+
+1. [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books) (notes.lorenzogravina.com) - 117 points by [trms](https://news.ycombinator.com/user?id=trms), [58 comments](https://news.ycombinator.com/item?id=48613631)
+2. [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) (bbc.com) - 50 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [17 comments](https://news.ycombinator.com/item?id=48613755)
+3. [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/) (sibexi.co) - 25 points by [Sibexico](https://news.ycombinator.com/user?id=Sibexico), [4 comments](https://news.ycombinator.com/item?id=48613872)
+4. [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) (smpte.org) - 216 points by [zdw](https://news.ycombinator.com/user?id=zdw), [58 comments](https://news.ycombinator.com/item?id=48610827)
+5. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/) (townsquare.cauenapier.com) - 19 points by [cauenapier](https://news.ycombinator.com/user?id=cauenapier), [7 comments](https://news.ycombinator.com/item?id=48608570)
+6. [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html) (brooker.co.za) - 40 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [7 comments](https://news.ycombinator.com/item?id=48612740)
+7. [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9) (cell.com) - 19 points by [croes](https://news.ycombinator.com/user?id=croes), [0 comments](https://news.ycombinator.com/item?id=48613555)
+8. [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) (lispm.net) - 151 points by [zdw](https://news.ycombinator.com/user?id=zdw), [20 comments](https://news.ycombinator.com/item?id=48610853)
+9. [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html) (neuviemeporte.github.io) - 190 points by [LowLevelMahn](https://news.ycombinator.com/user?id=LowLevelMahn), [57 comments](https://news.ycombinator.com/item?id=48609766)
+10. [CSSQuake](https://cssquake.com/) (cssquake.com) - 445 points by [msalsas](https://news.ycombinator.com/user?id=msalsas), [93 comments](https://news.ycombinator.com/item?id=48608223)
 
 ## 2026-06-20
 

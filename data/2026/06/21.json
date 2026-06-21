@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48613631,
+    "title": "Pre-2022 Books",
+    "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+    "score": 117,
+    "by": "trms",
+    "descendants": 58,
+    "time": 1781994983
+  },
+  {
+    "rank": 2,
+    "id": 48613755,
+    "title": "Not just books: renting a sewing machine from the library can improve democracy",
+    "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "score": 50,
+    "by": "sohkamyung",
+    "descendants": 17,
+    "time": 1781996051
+  },
+  {
+    "rank": 3,
+    "id": 48613872,
+    "title": "Epoll vs. Io_uring in Linux",
+    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "score": 25,
+    "by": "Sibexico",
+    "descendants": 4,
+    "time": 1781996829
+  },
+  {
+    "rank": 4,
+    "id": 48610827,
+    "title": "SMPTE Makes Its Standards Freely Accessible",
+    "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+    "score": 216,
+    "by": "zdw",
+    "descendants": 58,
+    "time": 1781974896
+  },
+  {
+    "rank": 5,
+    "id": 48608570,
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "url": "https://townsquare.cauenapier.com/",
+    "score": 19,
+    "by": "cauenapier",
+    "descendants": 7,
+    "time": 1781956503
+  },
+  {
+    "rank": 6,
+    "id": 48612740,
+    "title": "Alice is impatient",
+    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "score": 40,
+    "by": "birdculture",
+    "descendants": 7,
+    "time": 1781987574
+  },
+  {
+    "rank": 7,
+    "id": 48613555,
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "score": 19,
+    "by": "croes",
+    "descendants": 0,
+    "time": 1781994172
+  },
+  {
+    "rank": 8,
+    "id": 48610853,
+    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+    "url": "https://www.lispm.net/apps/uhf-x11/",
+    "score": 151,
+    "by": "zdw",
+    "descendants": 20,
+    "time": 1781975064
+  },
+  {
+    "rank": 9,
+    "id": 48609766,
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "score": 190,
+    "by": "LowLevelMahn",
+    "descendants": 57,
+    "time": 1781968203
+  },
+  {
+    "rank": 10,
+    "id": 48608223,
+    "title": "CSSQuake",
+    "url": "https://cssquake.com/",
+    "score": 445,
+    "by": "msalsas",
+    "descendants": 93,
+    "time": 1781952593
+  }
+]
