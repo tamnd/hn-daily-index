@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48622778,
+    "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+    "url": "https://apertvs.ai/",
+    "score": 142,
+    "by": "T-A",
+    "descendants": 46,
+    "time": 1782077383
+  },
+  {
+    "rank": 2,
+    "id": 48622867,
+    "title": "Did my old job only exist because of fraud?",
+    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "score": 142,
+    "by": "advisedwang",
+    "descendants": 51,
+    "time": 1782078053
+  },
+  {
+    "rank": 3,
+    "id": 48622626,
+    "title": "Everything is logarithms",
+    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "score": 76,
+    "by": "E-Reverance",
+    "descendants": 10,
+    "time": 1782076232
+  },
+  {
+    "rank": 4,
+    "id": 48621517,
+    "title": "JSON-LD Explained for Personal Websites",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "score": 144,
+    "by": "ethanhawksley",
+    "descendants": 38,
+    "time": 1782067907
+  },
+  {
+    "rank": 5,
+    "id": 48622731,
+    "title": "PowerFox Browser",
+    "url": "https://powerfox.jazzzny.me/",
+    "score": 54,
+    "by": "thisislife2",
+    "descendants": 16,
+    "time": 1782076993
+  },
+  {
+    "rank": 6,
+    "id": 48622590,
+    "title": "Show HN: Recall \u2013 fully-local project memory for Claude Code",
+    "url": "https://github.com/raiyanyahya/recall",
+    "score": 58,
+    "by": "mateenah",
+    "descendants": 46,
+    "time": 1782075937
+  },
+  {
+    "rank": 7,
+    "id": 48618455,
+    "title": "Identity verification on Claude",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "score": 530,
+    "by": "bathory",
+    "descendants": 481,
+    "time": 1782045853
+  },
+  {
+    "rank": 8,
+    "id": 48623419,
+    "title": "Simple hard way to conjugate Japanese verbs",
+    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+    "score": 17,
+    "by": "valzevul",
+    "descendants": 8,
+    "time": 1782082430
+  },
+  {
+    "rank": 9,
+    "id": 48617990,
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "url": "https://www.beyondallreason.info",
+    "score": 420,
+    "by": "mosiuerbarso",
+    "descendants": 249,
+    "time": 1782041881
+  },
+  {
+    "rank": 10,
+    "id": 48620090,
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "score": 414,
+    "by": "rafaepta",
+    "descendants": 279,
+    "time": 1782058103
+  }
+]

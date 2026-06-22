@@ -13,17 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16) | [Jun 15](#2026-06-15)
+Recent: [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16)
 
-### [2026](data/2026/) (172/172 days)
+### [2026](data/2026/) (173/173 days)
 
-[**June**](data/2026/06/) (21/21)
+[**June**](data/2026/06/) (22/22)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
 | [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) | [**20**](#2026-06-20) | [**21**](#2026-06-21) |
+| [**22**](#2026-06-22) |  |  |  |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2132,6 +2133,21 @@ Recent: [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | 
 </details>
 
 ---
+
+## 2026-06-22
+
+*Monday*
+
+1. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) (apertvs.ai) - 142 points by [T-A](https://news.ycombinator.com/user?id=T-A), [46 comments](https://news.ycombinator.com/item?id=48622778)
+2. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) (david.newgas.net) - 142 points by [advisedwang](https://news.ycombinator.com/user?id=advisedwang), [51 comments](https://news.ycombinator.com/item?id=48622867)
+3. [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) (alexkritchevsky.com) - 76 points by [E-Reverance](https://news.ycombinator.com/user?id=E-Reverance), [10 comments](https://news.ycombinator.com/item?id=48622626)
+4. [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) (hawksley.dev) - 144 points by [ethanhawksley](https://news.ycombinator.com/user?id=ethanhawksley), [38 comments](https://news.ycombinator.com/item?id=48621517)
+5. [PowerFox Browser](https://powerfox.jazzzny.me/) (powerfox.jazzzny.me) - 54 points by [thisislife2](https://news.ycombinator.com/user?id=thisislife2), [16 comments](https://news.ycombinator.com/item?id=48622731)
+6. [Show HN: Recall – fully-local project memory for Claude Code](https://github.com/raiyanyahya/recall) (github.com) - 58 points by [mateenah](https://news.ycombinator.com/user?id=mateenah), [46 comments](https://news.ycombinator.com/item?id=48622590)
+7. [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) (support.claude.com) - 530 points by [bathory](https://news.ycombinator.com/user?id=bathory), [481 comments](https://news.ycombinator.com/item?id=48618455)
+8. [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27) (underreacted.leaflet.pub) - 17 points by [valzevul](https://news.ycombinator.com/user?id=valzevul), [8 comments](https://news.ycombinator.com/item?id=48623419)
+9. [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info) (beyondallreason.info) - 420 points by [mosiuerbarso](https://news.ycombinator.com/user?id=mosiuerbarso), [249 comments](https://news.ycombinator.com/item?id=48617990)
+10. [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) (sandimetz.com) - 414 points by [rafaepta](https://news.ycombinator.com/user?id=rafaepta), [279 comments](https://news.ycombinator.com/item?id=48620090)
 
 ## 2026-06-21
 

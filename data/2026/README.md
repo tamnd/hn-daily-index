@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (21 days)
+- [June](06/) (22 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-22
+
+*Monday*
+
+1. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) (apertvs.ai) - 142 points by [T-A](https://news.ycombinator.com/user?id=T-A), [46 comments](https://news.ycombinator.com/item?id=48622778)
+2. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) (david.newgas.net) - 142 points by [advisedwang](https://news.ycombinator.com/user?id=advisedwang), [51 comments](https://news.ycombinator.com/item?id=48622867)
+3. [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) (alexkritchevsky.com) - 76 points by [E-Reverance](https://news.ycombinator.com/user?id=E-Reverance), [10 comments](https://news.ycombinator.com/item?id=48622626)
+4. [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) (hawksley.dev) - 144 points by [ethanhawksley](https://news.ycombinator.com/user?id=ethanhawksley), [38 comments](https://news.ycombinator.com/item?id=48621517)
+5. [PowerFox Browser](https://powerfox.jazzzny.me/) (powerfox.jazzzny.me) - 54 points by [thisislife2](https://news.ycombinator.com/user?id=thisislife2), [16 comments](https://news.ycombinator.com/item?id=48622731)
+6. [Show HN: Recall – fully-local project memory for Claude Code](https://github.com/raiyanyahya/recall) (github.com) - 58 points by [mateenah](https://news.ycombinator.com/user?id=mateenah), [46 comments](https://news.ycombinator.com/item?id=48622590)
+7. [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) (support.claude.com) - 530 points by [bathory](https://news.ycombinator.com/user?id=bathory), [481 comments](https://news.ycombinator.com/item?id=48618455)
+8. [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27) (underreacted.leaflet.pub) - 17 points by [valzevul](https://news.ycombinator.com/user?id=valzevul), [8 comments](https://news.ycombinator.com/item?id=48623419)
+9. [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info) (beyondallreason.info) - 420 points by [mosiuerbarso](https://news.ycombinator.com/user?id=mosiuerbarso), [249 comments](https://news.ycombinator.com/item?id=48617990)
+10. [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) (sandimetz.com) - 414 points by [rafaepta](https://news.ycombinator.com/user?id=rafaepta), [279 comments](https://news.ycombinator.com/item?id=48620090)
 
 ## 2026-06-21
 
