@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17) | [Jun 16](#2026-06-16)
+Recent: [Jun 23](#2026-06-23) | [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18) | [Jun 17](#2026-06-17)
 
-### [2026](data/2026/) (173/173 days)
+### [2026](data/2026/) (174/174 days)
 
-[**June**](data/2026/06/) (22/22)
+[**June**](data/2026/06/) (23/23)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
 | [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) | [**20**](#2026-06-20) | [**21**](#2026-06-21) |
-| [**22**](#2026-06-22) |  |  |  |  |  |  |
+| [**22**](#2026-06-22) | [**23**](#2026-06-23) |  |  |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2133,6 +2133,21 @@ Recent: [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | 
 </details>
 
 ---
+
+## 2026-06-23
+
+*Tuesday*
+
+1. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) (store.steampowered.com) - 1.1k points by [theschwa](https://news.ycombinator.com/user?id=theschwa), [983 comments](https://news.ycombinator.com/item?id=48632884)
+2. [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2) (unsloth.ai) - 117 points by [TechTechTech](https://news.ycombinator.com/user?id=TechTechTech), [48 comments](https://news.ycombinator.com/item?id=48636377)
+3. [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero) (github.com) - 83 points by [iamnothere](https://news.ycombinator.com/user?id=iamnothere), [21 comments](https://news.ycombinator.com/item?id=48634778)
+4. [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes) (crunchydata.com) - 95 points by [sprawl_](https://news.ycombinator.com/user?id=sprawl_), [60 comments](https://news.ycombinator.com/item?id=48634787)
+5. [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/) (blog.dahl.dev) - 182 points by [aleda145](https://news.ycombinator.com/user?id=aleda145), [63 comments](https://news.ycombinator.com/item?id=48597221)
+6. [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/) (arun.is) - 81 points by [msephton](https://news.ycombinator.com/user?id=msephton), [26 comments](https://news.ycombinator.com/item?id=48634803)
+7. [Cyberdecks, going analog, and convivial technology](https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/) (blog.hydroponictrash.solar) - 7 points by [akkartik](https://news.ycombinator.com/user?id=akkartik), [2 comments](https://news.ycombinator.com/item?id=48605776)
+8. [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/) (hustvl.github.io) - 216 points by [DSemba](https://news.ycombinator.com/user?id=DSemba), [64 comments](https://news.ycombinator.com/item?id=48630171)
+9. [Is it time for a new Embedded Linux build system?](https://yoebuild.org/blog/time-for-a-new-build-system/) (yoebuild.org) - 20 points by [cbrake](https://news.ycombinator.com/user?id=cbrake), [10 comments](https://news.ycombinator.com/item?id=48588247)
+10. [Show HN: Oak – Git alternative designed for agents](https://oak.space/oak/oak) (oak.space) - 137 points by [zdgeier](https://news.ycombinator.com/user?id=zdgeier), [130 comments](https://news.ycombinator.com/item?id=48631726)
 
 ## 2026-06-22
 

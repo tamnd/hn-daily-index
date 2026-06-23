@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48632884,
+    "title": "Steam Machine launches today",
+    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "score": 1109,
+    "by": "theschwa",
+    "descendants": 983,
+    "time": 1782148191
+  },
+  {
+    "rank": 2,
+    "id": 48636377,
+    "title": "Unsloth GLM-5.2 \u2013 How to Run Locally",
+    "url": "https://unsloth.ai/docs/models/glm-5.2",
+    "score": 117,
+    "by": "TechTechTech",
+    "descendants": 48,
+    "time": 1782163261
+  },
+  {
+    "rank": 3,
+    "id": 48634778,
+    "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+    "url": "https://github.com/dorukkumkumoglu/optocamzero",
+    "score": 83,
+    "by": "iamnothere",
+    "descendants": 21,
+    "time": 1782155995
+  },
+  {
+    "rank": 4,
+    "id": 48634787,
+    "title": "British Columbia, Time Zones, and Postgres",
+    "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+    "score": 95,
+    "by": "sprawl_",
+    "descendants": 60,
+    "time": 1782156060
+  },
+  {
+    "rank": 5,
+    "id": 48597221,
+    "title": "My Mathematical Regression",
+    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "score": 182,
+    "by": "aleda145",
+    "descendants": 63,
+    "time": 1781867164
+  },
+  {
+    "rank": 6,
+    "id": 48634803,
+    "title": "Japanese symbols that speak without words",
+    "url": "https://arun.is/blog/japan-symbols/",
+    "score": 81,
+    "by": "msephton",
+    "descendants": 26,
+    "time": 1782156157
+  },
+  {
+    "rank": 7,
+    "id": 48605776,
+    "title": "Cyberdecks, going analog, and convivial technology",
+    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+    "score": 7,
+    "by": "akkartik",
+    "descendants": 2,
+    "time": 1781922561
+  },
+  {
+    "rank": 8,
+    "id": 48630171,
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "url": "https://hustvl.github.io/Moebius/",
+    "score": 216,
+    "by": "DSemba",
+    "descendants": 64,
+    "time": 1782136382
+  },
+  {
+    "rank": 9,
+    "id": 48588247,
+    "title": "Is it time for a new Embedded Linux build system?",
+    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+    "score": 20,
+    "by": "cbrake",
+    "descendants": 10,
+    "time": 1781801825
+  },
+  {
+    "rank": 10,
+    "id": 48631726,
+    "title": "Show HN: Oak \u2013 Git alternative designed for agents",
+    "url": "https://oak.space/oak/oak",
+    "score": 137,
+    "by": "zdgeier",
+    "descendants": 130,
+    "time": 1782142668
+  }
+]
