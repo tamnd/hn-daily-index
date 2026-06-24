@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (23 days)
+- [June](06/) (24 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-24
+
+*Wednesday*
+
+1. [Jerry's Map](http://www.jerrysmap.com/the-map) (jerrysmap.com) - 296 points by [turtleyacht](https://news.ycombinator.com/user?id=turtleyacht), [44 comments](https://news.ycombinator.com/item?id=48649435)
+2. [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/) (swipe.futo.tech) - 222 points by [futohq](https://news.ycombinator.com/user?id=futohq), [73 comments](https://news.ycombinator.com/item?id=48648619)
+3. [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple) (swiftpackageindex.com) - 160 points by [JDevlieghere](https://news.ycombinator.com/user?id=JDevlieghere), [50 comments](https://news.ycombinator.com/item?id=48648779)
+4. [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338) (patreon.com) - 143 points by [ilnmtlbnm](https://news.ycombinator.com/user?id=ilnmtlbnm), [12 comments](https://news.ycombinator.com/item?id=48618481)
+5. [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451) (devblogs.microsoft.com) - 104 points by [saikatsg](https://news.ycombinator.com/user?id=saikatsg), [6 comments](https://news.ycombinator.com/item?id=48648959)
+6. [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html) (ps.tc) - 46 points by [givinguflac](https://news.ycombinator.com/user?id=givinguflac), [12 comments](https://news.ycombinator.com/item?id=48585852)
+7. [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/) (tikz.dev) - 313 points by [DominikPeters](https://news.ycombinator.com/user?id=DominikPeters), [61 comments](https://news.ycombinator.com/item?id=48645437)
+8. [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison) (thedrive.com) - 19 points by [mauvehaus](https://news.ycombinator.com/user?id=mauvehaus), [3 comments](https://news.ycombinator.com/item?id=48633643)
+9. [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/) (lse.ac.uk) - 48 points by [rendx](https://news.ycombinator.com/user?id=rendx), [4 comments](https://news.ycombinator.com/item?id=48653060)
+10. [Inventing the Future, One Lisp Machine at a Time](https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/) (patrickdomanico.com) - 65 points by [pamoroso](https://news.ycombinator.com/user?id=pamoroso), [2 comments](https://news.ycombinator.com/item?id=48631511)
 
 ## 2026-06-23
 

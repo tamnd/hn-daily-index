@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48649435,
+    "title": "Jerry's Map",
+    "url": "http://www.jerrysmap.com/the-map",
+    "score": 296,
+    "by": "turtleyacht",
+    "descendants": 44,
+    "time": 1782240022
+  },
+  {
+    "rank": 2,
+    "id": 48648619,
+    "title": "FUTO Swipe \u2013 A new swipe typing model",
+    "url": "https://swipe.futo.tech/",
+    "score": 222,
+    "by": "futohq",
+    "descendants": 73,
+    "time": 1782237022
+  },
+  {
+    "rank": 3,
+    "id": 48648779,
+    "title": "Swift Package Index joins Apple",
+    "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+    "score": 160,
+    "by": "JDevlieghere",
+    "descendants": 50,
+    "time": 1782237658
+  },
+  {
+    "rank": 4,
+    "id": 48618481,
+    "title": "Printing Gaussian Splats",
+    "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+    "score": 143,
+    "by": "ilnmtlbnm",
+    "descendants": 12,
+    "time": 1782046142
+  },
+  {
+    "rank": 5,
+    "id": 48648959,
+    "title": "In memory of the man who put red and green squiggles under words",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+    "score": 104,
+    "by": "saikatsg",
+    "descendants": 6,
+    "time": 1782238247
+  },
+  {
+    "rank": 6,
+    "id": 48585852,
+    "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+    "url": "https://ps.tc/pages/blog-usbliter8.html",
+    "score": 46,
+    "by": "givinguflac",
+    "descendants": 12,
+    "time": 1781792618
+  },
+  {
+    "rank": 7,
+    "id": 48645437,
+    "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+    "url": "https://tikz.dev/editor/",
+    "score": 313,
+    "by": "DominikPeters",
+    "descendants": 61,
+    "time": 1782224661
+  },
+  {
+    "rank": 8,
+    "id": 48633643,
+    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "score": 19,
+    "by": "mauvehaus",
+    "descendants": 3,
+    "time": 1782151383
+  },
+  {
+    "rank": 9,
+    "id": 48653060,
+    "title": "Extreme Heat conference cancelled due to extreme heat warning",
+    "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+    "score": 48,
+    "by": "rendx",
+    "descendants": 4,
+    "time": 1782257203
+  },
+  {
+    "rank": 10,
+    "id": 48631511,
+    "title": "Inventing the Future, One Lisp Machine at a Time",
+    "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+    "score": 65,
+    "by": "pamoroso",
+    "descendants": 2,
+    "time": 1782141880
+  }
+]
