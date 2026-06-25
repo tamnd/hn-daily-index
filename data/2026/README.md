@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (24 days)
+- [June](06/) (25 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-25
+
+*Thursday*
+
+1. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) (techcrunch.com) - 473 points by [jamdesk](https://news.ycombinator.com/user?id=jamdesk), [303 comments](https://news.ycombinator.com/item?id=48663324)
+2. [PostgreSQL is enough (2024)](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb) (gist.github.com) - 77 points by [Imustaskforhelp](https://news.ycombinator.com/user?id=Imustaskforhelp), [46 comments](https://news.ycombinator.com/item?id=48666433)
+3. [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/) (reuters.com) - 119 points by [timmyd](https://news.ycombinator.com/user?id=timmyd), [30 comments](https://news.ycombinator.com/item?id=48659798)
+4. [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/) (rubyllm.com) - 334 points by [doener](https://news.ycombinator.com/user?id=doener), [52 comments](https://news.ycombinator.com/item?id=48660711)
+5. [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/) (bunny.net) - 837 points by [dabinat](https://news.ycombinator.com/user?id=dabinat), [254 comments](https://news.ycombinator.com/item?id=48657030)
+6. [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw) (greptile.com) - 170 points by [dakshgupta](https://news.ycombinator.com/user?id=dakshgupta), [97 comments](https://news.ycombinator.com/item?id=48660579)
+7. [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) (blog.google) - 155 points by [swolpers](https://news.ycombinator.com/user?id=swolpers), [97 comments](https://news.ycombinator.com/item?id=48662999)
+8. [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/) (blog.omgmog.net) - 157 points by [felixdoerp](https://news.ycombinator.com/user?id=felixdoerp), [102 comments](https://news.ycombinator.com/item?id=48662381)
+9. [45°C cooling design cuts data center water use to near zero](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/) (blogs.nvidia.com) - 162 points by [nitin_flanker](https://news.ycombinator.com/user?id=nitin_flanker), [113 comments](https://news.ycombinator.com/item?id=48660178)
+10. [Crawling BitTorrent DHTs for Fun and Profit [pdf]](https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf) (usenix.org) - 53 points by [dgellow](https://news.ycombinator.com/user?id=dgellow), [21 comments](https://news.ycombinator.com/item?id=48619159)
 
 ## 2026-06-24
 

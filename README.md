@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 24](#2026-06-24) | [Jun 23](#2026-06-23) | [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19) | [Jun 18](#2026-06-18)
+Recent: [Jun 25](#2026-06-25) | [Jun 24](#2026-06-24) | [Jun 23](#2026-06-23) | [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19)
 
-### [2026](data/2026/) (175/175 days)
+### [2026](data/2026/) (176/176 days)
 
-[**June**](data/2026/06/) (24/24)
+[**June**](data/2026/06/) (25/25)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
 | [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) | [**20**](#2026-06-20) | [**21**](#2026-06-21) |
-| [**22**](#2026-06-22) | [**23**](#2026-06-23) | [**24**](#2026-06-24) |  |  |  |  |
+| [**22**](#2026-06-22) | [**23**](#2026-06-23) | [**24**](#2026-06-24) | [**25**](#2026-06-25) |  |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2133,6 +2133,21 @@ Recent: [Jun 24](#2026-06-24) | [Jun 23](#2026-06-23) | [Jun 22](#2026-06-22) | 
 </details>
 
 ---
+
+## 2026-06-25
+
+*Thursday*
+
+1. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) (techcrunch.com) - 473 points by [jamdesk](https://news.ycombinator.com/user?id=jamdesk), [303 comments](https://news.ycombinator.com/item?id=48663324)
+2. [PostgreSQL is enough (2024)](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb) (gist.github.com) - 77 points by [Imustaskforhelp](https://news.ycombinator.com/user?id=Imustaskforhelp), [46 comments](https://news.ycombinator.com/item?id=48666433)
+3. [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/) (reuters.com) - 119 points by [timmyd](https://news.ycombinator.com/user?id=timmyd), [30 comments](https://news.ycombinator.com/item?id=48659798)
+4. [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/) (rubyllm.com) - 334 points by [doener](https://news.ycombinator.com/user?id=doener), [52 comments](https://news.ycombinator.com/item?id=48660711)
+5. [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/) (bunny.net) - 837 points by [dabinat](https://news.ycombinator.com/user?id=dabinat), [254 comments](https://news.ycombinator.com/item?id=48657030)
+6. [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw) (greptile.com) - 170 points by [dakshgupta](https://news.ycombinator.com/user?id=dakshgupta), [97 comments](https://news.ycombinator.com/item?id=48660579)
+7. [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) (blog.google) - 155 points by [swolpers](https://news.ycombinator.com/user?id=swolpers), [97 comments](https://news.ycombinator.com/item?id=48662999)
+8. [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/) (blog.omgmog.net) - 157 points by [felixdoerp](https://news.ycombinator.com/user?id=felixdoerp), [102 comments](https://news.ycombinator.com/item?id=48662381)
+9. [45°C cooling design cuts data center water use to near zero](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/) (blogs.nvidia.com) - 162 points by [nitin_flanker](https://news.ycombinator.com/user?id=nitin_flanker), [113 comments](https://news.ycombinator.com/item?id=48660178)
+10. [Crawling BitTorrent DHTs for Fun and Profit [pdf]](https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf) (usenix.org) - 53 points by [dgellow](https://news.ycombinator.com/user?id=dgellow), [21 comments](https://news.ycombinator.com/item?id=48619159)
 
 ## 2026-06-24
 

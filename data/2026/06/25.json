@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48663324,
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "score": 473,
+    "by": "jamdesk",
+    "descendants": 303,
+    "time": 1782323220
+  },
+  {
+    "rank": 2,
+    "id": 48666433,
+    "title": "PostgreSQL is enough (2024)",
+    "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
+    "score": 77,
+    "by": "Imustaskforhelp",
+    "descendants": 46,
+    "time": 1782340777
+  },
+  {
+    "rank": 3,
+    "id": 48659798,
+    "title": "Qualcomm to Acquire Modular",
+    "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "score": 119,
+    "by": "timmyd",
+    "descendants": 30,
+    "time": 1782308956
+  },
+  {
+    "rank": 4,
+    "id": 48660711,
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "score": 334,
+    "by": "doener",
+    "descendants": 52,
+    "time": 1782312101
+  },
+  {
+    "rank": 5,
+    "id": 48657030,
+    "title": "We\u2019re making Bunny DNS free",
+    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "score": 837,
+    "by": "dabinat",
+    "descendants": 254,
+    "time": 1782291041
+  },
+  {
+    "rank": 6,
+    "id": 48660579,
+    "title": "PR spam today looks like email spam in the early 2000s",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "score": 170,
+    "by": "dakshgupta",
+    "descendants": 97,
+    "time": 1782311532
+  },
+  {
+    "rank": 7,
+    "id": 48662999,
+    "title": "Computer use in Gemini 3.5 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "score": 155,
+    "by": "swolpers",
+    "descendants": 97,
+    "time": 1782321694
+  },
+  {
+    "rank": 8,
+    "id": 48662381,
+    "title": "The Xteink X4 E-Ink Reader",
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "score": 157,
+    "by": "felixdoerp",
+    "descendants": 102,
+    "time": 1782318956
+  },
+  {
+    "rank": 9,
+    "id": 48660178,
+    "title": "45\u00b0C cooling design cuts data center water use to near zero",
+    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "score": 162,
+    "by": "nitin_flanker",
+    "descendants": 113,
+    "time": 1782310211
+  },
+  {
+    "rank": 10,
+    "id": 48619159,
+    "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+    "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
+    "score": 53,
+    "by": "dgellow",
+    "descendants": 21,
+    "time": 1782051168
+  }
+]
