@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in June 2026.
 
+- [2026-06-26 (Friday)](#2026-06-26)
 - [2026-06-25 (Thursday)](#2026-06-25)
 - [2026-06-24 (Wednesday)](#2026-06-24)
 - [2026-06-23 (Tuesday)](#2026-06-23)
@@ -29,6 +30,21 @@ Top 10 Hacker News stories for each day in June 2026.
 - [2026-06-01 (Monday)](#2026-06-01)
 
 ---
+
+## 2026-06-26
+
+*Friday*
+
+1. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) (scrollprize.org) - 904 points by [verditelabs](https://news.ycombinator.com/user?id=verditelabs), [203 comments](https://news.ycombinator.com/item?id=48675179)
+2. [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) (expression.fire.org) - 292 points by [bilsbie](https://news.ycombinator.com/user?id=bilsbie), [135 comments](https://news.ycombinator.com/item?id=48679608)
+3. [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) (unconv.ai) - 95 points by [babelfish](https://news.ycombinator.com/user?id=babelfish), [24 comments](https://news.ycombinator.com/item?id=48679007)
+4. [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os) (github.com) - 69 points by [exploraz](https://news.ycombinator.com/user?id=exploraz), [15 comments](https://news.ycombinator.com/item?id=48642474)
+5. [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/) (explorer.oxide.computer) - 274 points by [darthcloud](https://news.ycombinator.com/user?id=darthcloud), [115 comments](https://news.ycombinator.com/item?id=48631450)
+6. [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)](https://gchandbook.org/) (gchandbook.org) - 17 points by [teleforce](https://news.ycombinator.com/user?id=teleforce), [2 comments](https://news.ycombinator.com/item?id=48680370)
+7. [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology) (newsroom.ibm.com) - 250 points by [porridgeraisin](https://news.ycombinator.com/user?id=porridgeraisin), [145 comments](https://news.ycombinator.com/item?id=48674967)
+8. [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html) (calpaterson.com) - 60 points by [tosh](https://news.ycombinator.com/user?id=tosh), [16 comments](https://news.ycombinator.com/item?id=48678645)
+9. [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge) (github.com) - 183 points by [engomez](https://news.ycombinator.com/user?id=engomez), [81 comments](https://news.ycombinator.com/item?id=48675435)
+10. [Silicon Valley Has an Empathy Vacuum (2016)](https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum) (newyorker.com) - 6 points by [rmason](https://news.ycombinator.com/user?id=rmason), [1 comments](https://news.ycombinator.com/item?id=48680727)
 
 ## 2026-06-25
 

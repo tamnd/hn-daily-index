@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 25](#2026-06-25) | [Jun 24](#2026-06-24) | [Jun 23](#2026-06-23) | [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20) | [Jun 19](#2026-06-19)
+Recent: [Jun 26](#2026-06-26) | [Jun 25](#2026-06-25) | [Jun 24](#2026-06-24) | [Jun 23](#2026-06-23) | [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20)
 
-### [2026](data/2026/) (176/176 days)
+### [2026](data/2026/) (177/177 days)
 
-[**June**](data/2026/06/) (25/25)
+[**June**](data/2026/06/) (26/26)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
 | [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) | [**20**](#2026-06-20) | [**21**](#2026-06-21) |
-| [**22**](#2026-06-22) | [**23**](#2026-06-23) | [**24**](#2026-06-24) | [**25**](#2026-06-25) |  |  |  |
+| [**22**](#2026-06-22) | [**23**](#2026-06-23) | [**24**](#2026-06-24) | [**25**](#2026-06-25) | [**26**](#2026-06-26) |  |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2133,6 +2133,21 @@ Recent: [Jun 25](#2026-06-25) | [Jun 24](#2026-06-24) | [Jun 23](#2026-06-23) | 
 </details>
 
 ---
+
+## 2026-06-26
+
+*Friday*
+
+1. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) (scrollprize.org) - 904 points by [verditelabs](https://news.ycombinator.com/user?id=verditelabs), [203 comments](https://news.ycombinator.com/item?id=48675179)
+2. [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) (expression.fire.org) - 292 points by [bilsbie](https://news.ycombinator.com/user?id=bilsbie), [135 comments](https://news.ycombinator.com/item?id=48679608)
+3. [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) (unconv.ai) - 95 points by [babelfish](https://news.ycombinator.com/user?id=babelfish), [24 comments](https://news.ycombinator.com/item?id=48679007)
+4. [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os) (github.com) - 69 points by [exploraz](https://news.ycombinator.com/user?id=exploraz), [15 comments](https://news.ycombinator.com/item?id=48642474)
+5. [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/) (explorer.oxide.computer) - 274 points by [darthcloud](https://news.ycombinator.com/user?id=darthcloud), [115 comments](https://news.ycombinator.com/item?id=48631450)
+6. [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)](https://gchandbook.org/) (gchandbook.org) - 17 points by [teleforce](https://news.ycombinator.com/user?id=teleforce), [2 comments](https://news.ycombinator.com/item?id=48680370)
+7. [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology) (newsroom.ibm.com) - 250 points by [porridgeraisin](https://news.ycombinator.com/user?id=porridgeraisin), [145 comments](https://news.ycombinator.com/item?id=48674967)
+8. [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html) (calpaterson.com) - 60 points by [tosh](https://news.ycombinator.com/user?id=tosh), [16 comments](https://news.ycombinator.com/item?id=48678645)
+9. [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge) (github.com) - 183 points by [engomez](https://news.ycombinator.com/user?id=engomez), [81 comments](https://news.ycombinator.com/item?id=48675435)
+10. [Silicon Valley Has an Empathy Vacuum (2016)](https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum) (newyorker.com) - 6 points by [rmason](https://news.ycombinator.com/user?id=rmason), [1 comments](https://news.ycombinator.com/item?id=48680727)
 
 ## 2026-06-25
 

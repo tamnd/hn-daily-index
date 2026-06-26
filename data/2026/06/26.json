@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48675179,
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "url": "https://scrollprize.org/firstscroll",
+    "score": 904,
+    "by": "verditelabs",
+    "descendants": 203,
+    "time": 1782402487
+  },
+  {
+    "rank": 2,
+    "id": 48679608,
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "score": 292,
+    "by": "bilsbie",
+    "descendants": 135,
+    "time": 1782423895
+  },
+  {
+    "rank": 3,
+    "id": 48679007,
+    "title": "Un-0: Generating Images with Coupled Oscillators",
+    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "score": 95,
+    "by": "babelfish",
+    "descendants": 24,
+    "time": 1782420602
+  },
+  {
+    "rank": 4,
+    "id": 48642474,
+    "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+    "url": "https://github.com/plbrault/youre-the-os",
+    "score": 69,
+    "by": "exploraz",
+    "descendants": 15,
+    "time": 1782207326
+  },
+  {
+    "rank": 5,
+    "id": 48631450,
+    "title": "Oxide computer 3D rack guided tour",
+    "url": "https://explorer.oxide.computer/",
+    "score": 274,
+    "by": "darthcloud",
+    "descendants": 115,
+    "time": 1782141664
+  },
+  {
+    "rank": 6,
+    "id": 48680370,
+    "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+    "url": "https://gchandbook.org/",
+    "score": 17,
+    "by": "teleforce",
+    "descendants": 2,
+    "time": 1782429030
+  },
+  {
+    "rank": 7,
+    "id": 48674967,
+    "title": "IBM debuts sub-1 nanometer chip technology",
+    "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+    "score": 250,
+    "by": "porridgeraisin",
+    "descendants": 145,
+    "time": 1782401617
+  },
+  {
+    "rank": 8,
+    "id": 48678645,
+    "title": "An oral history of Bank Python (2021)",
+    "url": "https://calpaterson.com/bank-python.html",
+    "score": 60,
+    "by": "tosh",
+    "descendants": 16,
+    "time": 1782418475
+  },
+  {
+    "rank": 9,
+    "id": 48675435,
+    "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "score": 183,
+    "by": "engomez",
+    "descendants": 81,
+    "time": 1782403486
+  },
+  {
+    "rank": 10,
+    "id": 48680727,
+    "title": "Silicon Valley Has an Empathy Vacuum (2016)",
+    "url": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
+    "score": 6,
+    "by": "rmason",
+    "descendants": 1,
+    "time": 1782431613
+  }
+]
