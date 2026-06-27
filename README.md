@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jun 26](#2026-06-26) | [Jun 25](#2026-06-25) | [Jun 24](#2026-06-24) | [Jun 23](#2026-06-23) | [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21) | [Jun 20](#2026-06-20)
+Recent: [Jun 27](#2026-06-27) | [Jun 26](#2026-06-26) | [Jun 25](#2026-06-25) | [Jun 24](#2026-06-24) | [Jun 23](#2026-06-23) | [Jun 22](#2026-06-22) | [Jun 21](#2026-06-21)
 
-### [2026](data/2026/) (177/177 days)
+### [2026](data/2026/) (178/178 days)
 
-[**June**](data/2026/06/) (26/26)
+[**June**](data/2026/06/) (27/27)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [**1**](#2026-06-01) | [**2**](#2026-06-02) | [**3**](#2026-06-03) | [**4**](#2026-06-04) | [**5**](#2026-06-05) | [**6**](#2026-06-06) | [**7**](#2026-06-07) |
 | [**8**](#2026-06-08) | [**9**](#2026-06-09) | [**10**](#2026-06-10) | [**11**](#2026-06-11) | [**12**](#2026-06-12) | [**13**](#2026-06-13) | [**14**](#2026-06-14) |
 | [**15**](#2026-06-15) | [**16**](#2026-06-16) | [**17**](#2026-06-17) | [**18**](#2026-06-18) | [**19**](#2026-06-19) | [**20**](#2026-06-20) | [**21**](#2026-06-21) |
-| [**22**](#2026-06-22) | [**23**](#2026-06-23) | [**24**](#2026-06-24) | [**25**](#2026-06-25) | [**26**](#2026-06-26) |  |  |
+| [**22**](#2026-06-22) | [**23**](#2026-06-23) | [**24**](#2026-06-24) | [**25**](#2026-06-25) | [**26**](#2026-06-26) | [**27**](#2026-06-27) |  |
 
 [**May**](data/2026/05/) (31/31)
 
@@ -2133,6 +2133,21 @@ Recent: [Jun 26](#2026-06-26) | [Jun 25](#2026-06-25) | [Jun 24](#2026-06-24) | 
 </details>
 
 ---
+
+## 2026-06-27
+
+*Saturday*
+
+1. [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) (openai.com) - 779 points by [minimaxir](https://news.ycombinator.com/user?id=minimaxir), [481 comments](https://news.ycombinator.com/item?id=48689028)
+2. [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map) (github.com) - 51 points by [gjvc](https://news.ycombinator.com/user?id=gjvc), [8 comments](https://news.ycombinator.com/item?id=48692090)
+3. [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/) (reuters.com) - 136 points by [bobrenjc93](https://news.ycombinator.com/user?id=bobrenjc93), [67 comments](https://news.ycombinator.com/item?id=48692995)
+4. [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed) (physics.stackexchange.com) - 26 points by [ProxyTracer](https://news.ycombinator.com/user?id=ProxyTracer), [1 comments](https://news.ycombinator.com/item?id=48692946)
+5. [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) (washingtonpost.com) - 756 points by [alain94040](https://news.ycombinator.com/user?id=alain94040), [872 comments](https://news.ycombinator.com/item?id=48690101)
+6. [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm) (blog.doubleword.ai) - 96 points by [kkm](https://news.ycombinator.com/user?id=kkm), [81 comments](https://news.ycombinator.com/item?id=48692058)
+7. [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/) (aws.amazon.com) - 242 points by [justincormack](https://news.ycombinator.com/user?id=justincormack), [141 comments](https://news.ycombinator.com/item?id=48642510)
+8. [We can still stop California's 3D printer surveillance scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme) (eff.org) - 156 points by [hn_acker](https://news.ycombinator.com/user?id=hn_acker), [31 comments](https://news.ycombinator.com/item?id=48692051)
+9. [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels) (healeycodes.com) - 14 points by [healeycodes](https://news.ycombinator.com/user?id=healeycodes), [0 comments](https://news.ycombinator.com/item?id=48673115)
+10. [The "Bizarre Headgear" exhibit at the Sam Noble museum](https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/) (svpow.com) - 65 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [6 comments](https://news.ycombinator.com/item?id=48644111)
 
 ## 2026-06-26
 

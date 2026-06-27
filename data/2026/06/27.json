@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48689028,
+    "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "score": 779,
+    "by": "minimaxir",
+    "descendants": 481,
+    "time": 1782493615
+  },
+  {
+    "rank": 2,
+    "id": 48692090,
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "url": "https://github.com/Tessil/hopscotch-map",
+    "score": 51,
+    "by": "gjvc",
+    "descendants": 8,
+    "time": 1782508708
+  },
+  {
+    "rank": 3,
+    "id": 48692995,
+    "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+    "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "score": 136,
+    "by": "bobrenjc93",
+    "descendants": 67,
+    "time": 1782514108
+  },
+  {
+    "rank": 4,
+    "id": 48692946,
+    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+    "score": 26,
+    "by": "ProxyTracer",
+    "descendants": 1,
+    "time": 1782513809
+  },
+  {
+    "rank": 5,
+    "id": 48690101,
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "score": 756,
+    "by": "alain94040",
+    "descendants": 872,
+    "time": 1782498194
+  },
+  {
+    "rank": 6,
+    "id": 48692058,
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "score": 96,
+    "by": "kkm",
+    "descendants": 81,
+    "time": 1782508487
+  },
+  {
+    "rank": 7,
+    "id": 48642510,
+    "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+    "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "score": 242,
+    "by": "justincormack",
+    "descendants": 141,
+    "time": 1782207575
+  },
+  {
+    "rank": 8,
+    "id": 48692051,
+    "title": "We can still stop California's 3D printer surveillance scheme",
+    "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+    "score": 156,
+    "by": "hn_acker",
+    "descendants": 31,
+    "time": 1782508430
+  },
+  {
+    "rank": 9,
+    "id": 48673115,
+    "title": "A Tiny Compiler for Data-Parallel Kernels",
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "score": 14,
+    "by": "healeycodes",
+    "descendants": 0,
+    "time": 1782394332
+  },
+  {
+    "rank": 10,
+    "id": 48644111,
+    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+    "score": 65,
+    "by": "surprisetalk",
+    "descendants": 6,
+    "time": 1782218709
+  }
+]
