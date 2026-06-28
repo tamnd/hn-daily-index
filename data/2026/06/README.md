@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in June 2026.
 
+- [2026-06-28 (Sunday)](#2026-06-28)
 - [2026-06-27 (Saturday)](#2026-06-27)
 - [2026-06-26 (Friday)](#2026-06-26)
 - [2026-06-25 (Thursday)](#2026-06-25)
@@ -31,6 +32,21 @@ Top 10 Hacker News stories for each day in June 2026.
 - [2026-06-01 (Monday)](#2026-06-01)
 
 ---
+
+## 2026-06-28
+
+*Sunday*
+
+1. [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/) (ipcrawl.com) - 208 points by [arm32](https://news.ycombinator.com/user?id=arm32), [111 comments](https://news.ycombinator.com/item?id=48700834)
+2. [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) (github.com) - 626 points by [binyu](https://news.ycombinator.com/user?id=binyu), [245 comments](https://news.ycombinator.com/item?id=48698617)
+3. [OpenRA](https://www.openra.net/) (openra.net) - 554 points by [tosh](https://news.ycombinator.com/user?id=tosh), [103 comments](https://news.ycombinator.com/item?id=48697560)
+4. [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) (github.com) - 715 points by [aurenvale](https://news.ycombinator.com/user?id=aurenvale), [293 comments](https://news.ycombinator.com/item?id=48696585)
+5. [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html) (evilbit.de) - 17 points by [pawal](https://news.ycombinator.com/user?id=pawal), [0 comments](https://news.ycombinator.com/item?id=48702273)
+6. [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/) (dobrowolski.dev) - 22 points by [shirozuki](https://news.ycombinator.com/user?id=shirozuki), [5 comments](https://news.ycombinator.com/item?id=48701936)
+7. [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design) (spectrum.ieee.org) - 173 points by [Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar), [117 comments](https://news.ycombinator.com/item?id=48660021)
+8. [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil) (github.com) - 75 points by [kageroumado](https://news.ycombinator.com/user?id=kageroumado), [43 comments](https://news.ycombinator.com/item?id=48701512)
+9. [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) (w.pitula.me) - 451 points by [signa11](https://news.ycombinator.com/user?id=signa11), [154 comments](https://news.ycombinator.com/item?id=48696982)
+10. [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/) (cauenapier.com) - 139 points by [eustoria](https://news.ycombinator.com/user?id=eustoria), [65 comments](https://news.ycombinator.com/item?id=48699928)
 
 ## 2026-06-27
 

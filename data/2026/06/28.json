@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48700834,
+    "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+    "url": "https://ipcrawl.com/",
+    "score": 208,
+    "by": "arm32",
+    "descendants": 111,
+    "time": 1782587389
+  },
+  {
+    "rank": 2,
+    "id": 48698617,
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "score": 626,
+    "by": "binyu",
+    "descendants": 245,
+    "time": 1782570660
+  },
+  {
+    "rank": 3,
+    "id": 48697560,
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "score": 554,
+    "by": "tosh",
+    "descendants": 103,
+    "time": 1782562227
+  },
+  {
+    "rank": 4,
+    "id": 48696585,
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "score": 715,
+    "by": "aurenvale",
+    "descendants": 293,
+    "time": 1782551932
+  },
+  {
+    "rank": 5,
+    "id": 48702273,
+    "title": "Choosing a Public DNS Resolver",
+    "url": "https://evilbit.de/dns-resolver-guide.html",
+    "score": 17,
+    "by": "pawal",
+    "descendants": 0,
+    "time": 1782598288
+  },
+  {
+    "rank": 6,
+    "id": 48701936,
+    "title": "Enhancing X11 Application Security with LXC",
+    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "score": 22,
+    "by": "shirozuki",
+    "descendants": 5,
+    "time": 1782595656
+  },
+  {
+    "rank": 7,
+    "id": 48660021,
+    "title": "AI learns the \u201cdark art\u201d of RFIC design",
+    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "score": 173,
+    "by": "Brajeshwar",
+    "descendants": 117,
+    "time": 1782309736
+  },
+  {
+    "rank": 8,
+    "id": 48701512,
+    "title": "Show HN: Adrafinil \u2013 keep a lid-closed Mac awake only while agents work",
+    "url": "https://github.com/kageroumado/adrafinil",
+    "score": 75,
+    "by": "kageroumado",
+    "descendants": 43,
+    "time": 1782592493
+  },
+  {
+    "rank": 9,
+    "id": 48696982,
+    "title": "Fintech Engineering Handbook",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "score": 451,
+    "by": "signa11",
+    "descendants": 154,
+    "time": 1782556133
+  },
+  {
+    "rank": 10,
+    "id": 48699928,
+    "title": "Turn your site into a place people can bump into each other",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "score": 139,
+    "by": "eustoria",
+    "descendants": 65,
+    "time": 1782580280
+  }
+]
