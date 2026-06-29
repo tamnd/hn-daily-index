@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (28 days)
+- [June](06/) (29 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-29
+
+*Monday*
+
+1. [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) (semgrep.dev) - 354 points by [jms703](https://news.ycombinator.com/user?id=jms703), [167 comments](https://news.ycombinator.com/item?id=48709670)
+2. [Xonaly – Canada's Independent Search Engine](https://xonaly.com/) (xonaly.com) - 39 points by [backlit4034](https://news.ycombinator.com/user?id=backlit4034), [19 comments](https://news.ycombinator.com/item?id=48712324)
+3. [A QNX-inspired operating system with selectable kernels](https://qsoe.net) (qsoe.net) - 23 points by [edvinbesic](https://news.ycombinator.com/user?id=edvinbesic), [2 comments](https://news.ycombinator.com/item?id=48712338)
+4. [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013) (arxiv.org) - 26 points by [babelfish](https://news.ycombinator.com/user?id=babelfish), [11 comments](https://news.ycombinator.com/item?id=48712420)
+5. [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html) (dam.stanford.edu) - 131 points by [vga1](https://news.ycombinator.com/user?id=vga1), [46 comments](https://news.ycombinator.com/item?id=48710092)
+6. [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/) (pudding.cool) - 312 points by [xbryanx](https://news.ycombinator.com/user?id=xbryanx), [83 comments](https://news.ycombinator.com/item?id=48707763)
+7. [Professor denounces mass AI fraud on an exam at Brown](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html) (english.elpais.com) - 180 points by [geox](https://news.ycombinator.com/user?id=geox), [245 comments](https://news.ycombinator.com/item?id=48708991)
+8. [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) (antoine.fi) - 312 points by [engmarketer](https://news.ycombinator.com/user?id=engmarketer), [422 comments](https://news.ycombinator.com/item?id=48708941)
+9. [Cigarettes](https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/) (funnelfiasco.com) - 10 points by [aendruk](https://news.ycombinator.com/user?id=aendruk), [0 comments](https://news.ycombinator.com/item?id=48712762)
+10. [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number) (chipsandcheese.com) - 62 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [31 comments](https://news.ycombinator.com/item?id=48710775)
 
 ## 2026-06-28
 

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48709670,
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "score": 354,
+    "by": "jms703",
+    "descendants": 167,
+    "time": 1782669047
+  },
+  {
+    "rank": 2,
+    "id": 48712324,
+    "title": "Xonaly \u2013 Canada's Independent Search Engine",
+    "url": "https://xonaly.com/",
+    "score": 39,
+    "by": "backlit4034",
+    "descendants": 19,
+    "time": 1782685256
+  },
+  {
+    "rank": 3,
+    "id": 48712338,
+    "title": "A QNX-inspired operating system with selectable kernels",
+    "url": "https://qsoe.net",
+    "score": 23,
+    "by": "edvinbesic",
+    "descendants": 2,
+    "time": 1782685311
+  },
+  {
+    "rank": 4,
+    "id": 48712420,
+    "title": "Knowledge Distillation of Black-Box Large Language Models",
+    "url": "https://arxiv.org/abs/2401.07013",
+    "score": 26,
+    "by": "babelfish",
+    "descendants": 11,
+    "time": 1782685924
+  },
+  {
+    "rank": 5,
+    "id": 48710092,
+    "title": "Historical memory prices 1960-2026",
+    "url": "https://dam.stanford.edu/memory-prices.html",
+    "score": 131,
+    "by": "vga1",
+    "descendants": 46,
+    "time": 1782671573
+  },
+  {
+    "rank": 6,
+    "id": 48707763,
+    "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
+    "url": "https://pudding.cool/2026/06/menu-story/",
+    "score": 312,
+    "by": "xbryanx",
+    "descendants": 83,
+    "time": 1782657896
+  },
+  {
+    "rank": 7,
+    "id": 48708991,
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "score": 180,
+    "by": "geox",
+    "descendants": 245,
+    "time": 1782664872
+  },
+  {
+    "rank": 8,
+    "id": 48708941,
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "score": 312,
+    "by": "engmarketer",
+    "descendants": 422,
+    "time": 1782664519
+  },
+  {
+    "rank": 9,
+    "id": 48712762,
+    "title": "Cigarettes",
+    "url": "https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/",
+    "score": 10,
+    "by": "aendruk",
+    "descendants": 0,
+    "time": 1782688337
+  },
+  {
+    "rank": 10,
+    "id": 48710775,
+    "title": "TOP500 at ISC\u201926: We have a New Number 1 Supercomputer",
+    "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+    "score": 62,
+    "by": "rbanffy",
+    "descendants": 31,
+    "time": 1782675480
+  }
+]
