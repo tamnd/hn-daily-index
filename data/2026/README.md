@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [June](06/) (29 days)
+- [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
 - [March](03/) (31 days)
@@ -10,6 +10,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-06-30
+
+*Tuesday*
+
+1. [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) (hccf.onmy.cloud) - 260 points by [HumanCCF](https://news.ycombinator.com/user?id=HumanCCF), [157 comments](https://news.ycombinator.com/item?id=48724230)
+2. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) (quesma.com) - 557 points by [stared](https://news.ycombinator.com/user?id=stared), [481 comments](https://news.ycombinator.com/item?id=48721903)
+3. [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/) (weblog.rogueamoeba.com) - 143 points by [zdw](https://news.ycombinator.com/user?id=zdw), [33 comments](https://news.ycombinator.com/item?id=48698908)
+4. [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html) (phys.org) - 41 points by [wglb](https://news.ycombinator.com/user?id=wglb), [12 comments](https://news.ycombinator.com/item?id=48726073)
+5. [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) (investors.rocketlabcorp.com) - 343 points by [everfrustrated](https://news.ycombinator.com/user?id=everfrustrated), [217 comments](https://news.ycombinator.com/item?id=48719485)
+6. [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) (github.com) - 141 points by [danboarder](https://news.ycombinator.com/user?id=danboarder), [30 comments](https://news.ycombinator.com/item?id=48722052)
+7. [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html) (probablymarcus.com) - 226 points by [mrcslws](https://news.ycombinator.com/user?id=mrcslws), [107 comments](https://news.ycombinator.com/item?id=48720758)
+8. [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision) (theguardian.com) - 400 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [183 comments](https://news.ycombinator.com/item?id=48720924)
+9. [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/) (arstechnica.com) - 69 points by [jnord](https://news.ycombinator.com/user?id=jnord), [30 comments](https://news.ycombinator.com/item?id=48726102)
+10. [Kb – Prolog Knowledge Base](https://github.com/mat-mgm/kb-prolog) (github.com) - 14 points by [triska](https://news.ycombinator.com/user?id=triska), [1 comments](https://news.ycombinator.com/item?id=48697599)
 
 ## 2026-06-29
 

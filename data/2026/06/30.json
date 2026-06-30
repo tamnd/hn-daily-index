@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48724230,
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "score": 260,
+    "by": "HumanCCF",
+    "descendants": 157,
+    "time": 1782762568
+  },
+  {
+    "rank": 2,
+    "id": 48721903,
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "score": 557,
+    "by": "stared",
+    "descendants": 481,
+    "time": 1782752716
+  },
+  {
+    "rank": 3,
+    "id": 48698908,
+    "title": "Free the Icons",
+    "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+    "score": 143,
+    "by": "zdw",
+    "descendants": 33,
+    "time": 1782572717
+  },
+  {
+    "rank": 4,
+    "id": 48726073,
+    "title": "Scientists find molecular-level evidence for two structures in liquid water",
+    "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+    "score": 41,
+    "by": "wglb",
+    "descendants": 12,
+    "time": 1782771506
+  },
+  {
+    "rank": 5,
+    "id": 48719485,
+    "title": "Rocketlab acquires Iridium",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "score": 343,
+    "by": "everfrustrated",
+    "descendants": 217,
+    "time": 1782742164
+  },
+  {
+    "rank": 6,
+    "id": 48722052,
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "url": "https://github.com/deepreinforce-ai/Ornith-1",
+    "score": 141,
+    "by": "danboarder",
+    "descendants": 30,
+    "time": 1782753377
+  },
+  {
+    "rank": 7,
+    "id": 48720758,
+    "title": "A native graphical shell for SSH",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "score": 226,
+    "by": "mrcslws",
+    "descendants": 107,
+    "time": 1782747737
+  },
+  {
+    "rank": 8,
+    "id": 48720924,
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "score": 400,
+    "by": "cdrnsf",
+    "descendants": 183,
+    "time": 1782748464
+  },
+  {
+    "rank": 9,
+    "id": 48726102,
+    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+    "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "score": 69,
+    "by": "jnord",
+    "descendants": 30,
+    "time": 1782771660
+  },
+  {
+    "rank": 10,
+    "id": 48697599,
+    "title": "Kb \u2013 Prolog Knowledge Base",
+    "url": "https://github.com/mat-mgm/kb-prolog",
+    "score": 14,
+    "by": "triska",
+    "descendants": 1,
+    "time": 1782562587
+  }
+]
