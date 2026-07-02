@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (1 days)
+- [July](07/) (2 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-02
+
+*Thursday*
+
+1. [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en) (zcode.z.ai) - 147 points by [chvid](https://news.ycombinator.com/user?id=chvid), [191 comments](https://news.ycombinator.com/item?id=48753715)
+2. [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/) (workerowned.info) - 168 points by [IESAI_ski](https://news.ycombinator.com/user?id=IESAI_ski), [30 comments](https://news.ycombinator.com/item?id=48752905)
+3. [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) (quantamagazine.org) - 694 points by [defrost](https://news.ycombinator.com/user?id=defrost), [239 comments](https://news.ycombinator.com/item?id=48747304)
+4. [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production) (news.cuanschutz.edu) - 35 points by [littlexsparkee](https://news.ycombinator.com/user?id=littlexsparkee), [18 comments](https://news.ycombinator.com/item?id=48754155)
+5. [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) (blog.demofox.org) - 215 points by [atan2](https://news.ycombinator.com/user?id=atan2), [113 comments](https://news.ycombinator.com/item?id=48750710)
+6. [The Underhanded C Contest](https://underhanded-c.org/) (underhanded-c.org) - 24 points by [ccabraldev](https://news.ycombinator.com/user?id=ccabraldev), [3 comments](https://news.ycombinator.com/item?id=48754080)
+7. [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block) (astralcodexten.com) - 28 points by [paulpauper](https://news.ycombinator.com/user?id=paulpauper), [1 comments](https://news.ycombinator.com/item?id=48753524)
+8. [Qualcomm Linux 2.0](https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available) (qualcomm.com) - 37 points by [gilgamesh3](https://news.ycombinator.com/user?id=gilgamesh3), [3 comments](https://news.ycombinator.com/item?id=48753069)
+9. [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) (blog.playstation.com) - 574 points by [Tiberium](https://news.ycombinator.com/user?id=Tiberium), [602 comments](https://news.ycombinator.com/item?id=48745456)
+10. [FFmpeg 9.1's new AAC encoder](https://hydrogenaudio.org/index.php/topic,129691.0.html) (hydrogenaudio.org) - 264 points by [ledoge](https://news.ycombinator.com/user?id=ledoge), [89 comments](https://news.ycombinator.com/item?id=48747116)
 
 ## 2026-07-01
 
