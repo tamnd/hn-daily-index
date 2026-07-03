@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48767347,
+    "title": "Virginia bans sale of geolocation data",
+    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "score": 513,
+    "by": "toomuchtodo",
+    "descendants": 92,
+    "time": 1783026225
+  },
+  {
+    "rank": 2,
+    "id": 48768992,
+    "title": "An American Privacy Emergency",
+    "url": "https://scottaaronson.blog/?p=9902",
+    "score": 153,
+    "by": "flowercalled",
+    "descendants": 45,
+    "time": 1783036866
+  },
+  {
+    "rank": 3,
+    "id": 48768464,
+    "title": "crustc: entirety of `rustc`, translated to C",
+    "url": "https://github.com/FractalFir/crustc",
+    "score": 139,
+    "by": "Philpax",
+    "descendants": 28,
+    "time": 1783033055
+  },
+  {
+    "rank": 4,
+    "id": 48768997,
+    "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+    "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+    "score": 71,
+    "by": "throwaway2027",
+    "descendants": 48,
+    "time": 1783036886
+  },
+  {
+    "rank": 5,
+    "id": 48702874,
+    "title": "Reality has a surprising amount of detail (2017)",
+    "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+    "score": 144,
+    "by": "vinhnx",
+    "descendants": 51,
+    "time": 1782603385
+  },
+  {
+    "rank": 6,
+    "id": 48765663,
+    "title": "Exapunks (2018)",
+    "url": "https://www.zachtronics.com/exapunks/",
+    "score": 221,
+    "by": "yu3zhou4",
+    "descendants": 81,
+    "time": 1783017679
+  },
+  {
+    "rank": 7,
+    "id": 48763035,
+    "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+    "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+    "score": 406,
+    "by": "IngoBlechschmid",
+    "descendants": 190,
+    "time": 1783005916
+  },
+  {
+    "rank": 8,
+    "id": 48768951,
+    "title": "Right to Local Intelligence",
+    "url": "https://righttointelligence.org/",
+    "score": 36,
+    "by": "thoughtpeddler",
+    "descendants": 13,
+    "time": 1783036443
+  },
+  {
+    "rank": 9,
+    "id": 48768336,
+    "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
+    "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+    "score": 57,
+    "by": "FireBeyond",
+    "descendants": 24,
+    "time": 1783032244
+  },
+  {
+    "rank": 10,
+    "id": 48762098,
+    "title": "Podman v6.0.0",
+    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "score": 401,
+    "by": "soheilpro",
+    "descendants": 159,
+    "time": 1783002189
+  }
+]

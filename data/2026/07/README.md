@@ -2,10 +2,26 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-03 (Friday)](#2026-07-03)
 - [2026-07-02 (Thursday)](#2026-07-02)
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-03
+
+*Friday*
+
+1. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) (hunton.com) - 513 points by [toomuchtodo](https://news.ycombinator.com/user?id=toomuchtodo), [92 comments](https://news.ycombinator.com/item?id=48767347)
+2. [An American Privacy Emergency](https://scottaaronson.blog/?p=9902) (scottaaronson.blog) - 153 points by [flowercalled](https://news.ycombinator.com/user?id=flowercalled), [45 comments](https://news.ycombinator.com/item?id=48768992)
+3. [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) (github.com) - 139 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [28 comments](https://news.ycombinator.com/item?id=48768464)
+4. [GitHub is proud to announce that you can now obtain your public repo on CD-ROM](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl) (forms.cloud.microsoft) - 71 points by [throwaway2027](https://news.ycombinator.com/user?id=throwaway2027), [48 comments](https://news.ycombinator.com/item?id=48768997)
+5. [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) (johnsalvatier.org) - 144 points by [vinhnx](https://news.ycombinator.com/user?id=vinhnx), [51 comments](https://news.ycombinator.com/item?id=48702874)
+6. [Exapunks (2018)](https://www.zachtronics.com/exapunks/) (zachtronics.com) - 221 points by [yu3zhou4](https://news.ycombinator.com/user?id=yu3zhou4), [81 comments](https://news.ycombinator.com/item?id=48765663)
+7. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) (mathstodon.xyz) - 406 points by [IngoBlechschmid](https://news.ycombinator.com/user?id=IngoBlechschmid), [190 comments](https://news.ycombinator.com/item?id=48763035)
+8. [Right to Local Intelligence](https://righttointelligence.org/) (righttointelligence.org) - 36 points by [thoughtpeddler](https://news.ycombinator.com/user?id=thoughtpeddler), [13 comments](https://news.ycombinator.com/item?id=48768951)
+9. [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html) (dailymail.com) - 57 points by [FireBeyond](https://news.ycombinator.com/user?id=FireBeyond), [24 comments](https://news.ycombinator.com/item?id=48768336)
+10. [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/) (blog.podman.io) - 401 points by [soheilpro](https://news.ycombinator.com/user?id=soheilpro), [159 comments](https://news.ycombinator.com/item?id=48762098)
 
 ## 2026-07-02
 
