@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48780870,
+    "title": "Giant trees have no trouble pumping water to top branches",
+    "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+    "score": 95,
+    "by": "hhs",
+    "descendants": 43,
+    "time": 1783118429
+  },
+  {
+    "rank": 2,
+    "id": 48780801,
+    "title": "Leanstral 1.5: Proof Abundance for All",
+    "url": "https://mistral.ai/news/leanstral-1-5/",
+    "score": 92,
+    "by": "programLyrique",
+    "descendants": 26,
+    "time": 1783117990
+  },
+  {
+    "rank": 3,
+    "id": 48780417,
+    "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+    "url": "https://www.wafer.ai/blog/glm52-amd",
+    "score": 100,
+    "by": "latchkey",
+    "descendants": 25,
+    "time": 1783115346
+  },
+  {
+    "rank": 4,
+    "id": 48781688,
+    "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
+    "url": "https://mrbruh.com/msicenter/",
+    "score": 25,
+    "by": "MrBruh",
+    "descendants": 7,
+    "time": 1783126664
+  },
+  {
+    "rank": 5,
+    "id": 48780865,
+    "title": "Steam Controller Auto-Charge \u2013 pilot to magnetic charging puck using CV",
+    "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+    "score": 73,
+    "by": "zdw",
+    "descendants": 12,
+    "time": 1783118390
+  },
+  {
+    "rank": 6,
+    "id": 48779454,
+    "title": "SearXNG: A free internet metasearch engine",
+    "url": "https://github.com/searxng/searxng",
+    "score": 136,
+    "by": "theanonymousone",
+    "descendants": 41,
+    "time": 1783109749
+  },
+  {
+    "rank": 7,
+    "id": 48780996,
+    "title": "The circuit that lets your brain think and see",
+    "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+    "score": 41,
+    "by": "hhs",
+    "descendants": 6,
+    "time": 1783119377
+  },
+  {
+    "rank": 8,
+    "id": 48780913,
+    "title": "Amsterdam invented the fire department",
+    "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
+    "score": 42,
+    "by": "zdw",
+    "descendants": 11,
+    "time": 1783118778
+  },
+  {
+    "rank": 9,
+    "id": 48775921,
+    "title": "Jamesob's guide to running SOTA LLMs locally",
+    "url": "https://github.com/jamesob/local-llm",
+    "score": 281,
+    "by": "livestyle",
+    "descendants": 126,
+    "time": 1783091023
+  },
+  {
+    "rank": 10,
+    "id": 48781865,
+    "title": "CueBench for Developers is live: score how well you drive coding agents",
+    "url": "https://app.cuebench.dev",
+    "score": 6,
+    "by": "DillonMehta",
+    "descendants": 1,
+    "time": 1783128649
+  }
+]

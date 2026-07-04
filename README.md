@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 03](#2026-07-03) | [Jul 02](#2026-07-02) | [Jul 01](#2026-07-01) | [Jun 30](#2026-06-30) | [Jun 29](#2026-06-29) | [Jun 28](#2026-06-28) | [Jun 27](#2026-06-27)
+Recent: [Jul 04](#2026-07-04) | [Jul 03](#2026-07-03) | [Jul 02](#2026-07-02) | [Jul 01](#2026-07-01) | [Jun 30](#2026-06-30) | [Jun 29](#2026-06-29) | [Jun 28](#2026-06-28)
 
-### [2026](data/2026/) (184/184 days)
+### [2026](data/2026/) (185/185 days)
 
-[**July**](data/2026/07/) (3/3)
+[**July**](data/2026/07/) (4/4)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) |  |  |
+|  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2140,6 +2140,21 @@ Recent: [Jul 03](#2026-07-03) | [Jul 02](#2026-07-02) | [Jul 01](#2026-07-01) | 
 </details>
 
 ---
+
+## 2026-07-04
+
+*Saturday*
+
+1. [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/) (news.exeter.ac.uk) - 95 points by [hhs](https://news.ycombinator.com/user?id=hhs), [43 comments](https://news.ycombinator.com/item?id=48780870)
+2. [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/) (mistral.ai) - 92 points by [programLyrique](https://news.ycombinator.com/user?id=programLyrique), [26 comments](https://news.ycombinator.com/item?id=48780801)
+3. [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd) (wafer.ai) - 100 points by [latchkey](https://news.ycombinator.com/user?id=latchkey), [25 comments](https://news.ycombinator.com/item?id=48780417)
+4. [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/) (mrbruh.com) - 25 points by [MrBruh](https://news.ycombinator.com/user?id=MrBruh), [7 comments](https://news.ycombinator.com/item?id=48781688)
+5. [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge) (github.com) - 73 points by [zdw](https://news.ycombinator.com/user?id=zdw), [12 comments](https://news.ycombinator.com/item?id=48780865)
+6. [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) (github.com) - 136 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [41 comments](https://news.ycombinator.com/item?id=48779454)
+7. [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see) (engineering.columbia.edu) - 41 points by [hhs](https://news.ycombinator.com/user?id=hhs), [6 comments](https://news.ycombinator.com/item?id=48780996)
+8. [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/) (worksinprogress.co) - 42 points by [zdw](https://news.ycombinator.com/user?id=zdw), [11 comments](https://news.ycombinator.com/item?id=48780913)
+9. [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) (github.com) - 281 points by [livestyle](https://news.ycombinator.com/user?id=livestyle), [126 comments](https://news.ycombinator.com/item?id=48775921)
+10. [CueBench for Developers is live: score how well you drive coding agents](https://app.cuebench.dev) (app.cuebench.dev) - 6 points by [DillonMehta](https://news.ycombinator.com/user?id=DillonMehta), [1 comments](https://news.ycombinator.com/item?id=48781865)
 
 ## 2026-07-03
 
