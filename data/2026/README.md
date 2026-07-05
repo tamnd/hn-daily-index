@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (4 days)
+- [July](07/) (5 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-05
+
+*Sunday*
+
+1. [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/) (stories.tamu.edu) - 147 points by [cybermango](https://news.ycombinator.com/user?id=cybermango), [56 comments](https://news.ycombinator.com/item?id=48790066)
+2. [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) (github.com) - 365 points by [asronline](https://news.ycombinator.com/user?id=asronline), [145 comments](https://news.ycombinator.com/item?id=48788283)
+3. [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) (github.com) - 153 points by [maille](https://news.ycombinator.com/user?id=maille), [50 comments](https://news.ycombinator.com/item?id=48789428)
+4. [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234) (software.annas-archive.gl) - 347 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [183 comments](https://news.ycombinator.com/item?id=48786838)
+5. [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets) (mbl.edu) - 44 points by [hhs](https://news.ycombinator.com/user?id=hhs), [8 comments](https://news.ycombinator.com/item?id=48789712)
+6. [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube) (javoriuski.com) - 495 points by [javxfps](https://news.ycombinator.com/user?id=javxfps), [276 comments](https://news.ycombinator.com/item?id=48786781)
+7. [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) (lucumr.pocoo.org) - 98 points by [leemoore](https://news.ycombinator.com/user?id=leemoore), [33 comments](https://news.ycombinator.com/item?id=48788599)
+8. [Explanation of everything you can see in htop/top on Linux (2019)](https://peteris.rocks/blog/htop/) (peteris.rocks) - 403 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [52 comments](https://news.ycombinator.com/item?id=48784777)
+9. [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) (github.com) - 275 points by [chatmasta](https://news.ycombinator.com/user?id=chatmasta), [128 comments](https://news.ycombinator.com/item?id=48785485)
+10. [Meta's Un-Stable Signature](https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html) (hackerfactor.com) - 20 points by [ementally](https://news.ycombinator.com/user?id=ementally), [1 comments](https://news.ycombinator.com/item?id=48750405)
 
 ## 2026-07-04
 
