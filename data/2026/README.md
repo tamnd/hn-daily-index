@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (5 days)
+- [July](07/) (6 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-06
+
+*Monday*
+
+1. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) (twitter.com) - 64 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [24 comments](https://news.ycombinator.com/item?id=48799614)
+2. [OpenPrinter](https://www.opentools.studio/) (opentools.studio) - 472 points by [bouh](https://news.ycombinator.com/user?id=bouh), [116 comments](https://news.ycombinator.com/item?id=48797916)
+3. [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt) (readtheline.ca) - 90 points by [ClearwayLaw](https://news.ycombinator.com/user?id=ClearwayLaw), [31 comments](https://news.ycombinator.com/item?id=48799256)
+4. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/) (iamwillwang.com) - 91 points by [wxw](https://news.ycombinator.com/user?id=wxw), [23 comments](https://news.ycombinator.com/item?id=48799155)
+5. [Organic Maps](https://organicmaps.app/) (organicmaps.app) - 823 points by [tosh](https://news.ycombinator.com/user?id=tosh), [227 comments](https://news.ycombinator.com/item?id=48794446)
+6. [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io) (homegames.io) - 97 points by [homegamesjoseph](https://news.ycombinator.com/user?id=homegamesjoseph), [30 comments](https://news.ycombinator.com/item?id=48798153)
+7. [The Sneakerweb](https://sneakerweb.org/) (sneakerweb.org) - 10 points by [GalaxyNova](https://news.ycombinator.com/user?id=GalaxyNova), [2 comments](https://news.ycombinator.com/item?id=48799781)
+8. [Does Code Cleanliness Affect Coding Agents?](https://arxiv.org/abs/2605.20049) (arxiv.org) - 34 points by [softwaredoug](https://news.ycombinator.com/user?id=softwaredoug), [13 comments](https://news.ycombinator.com/item?id=48798815)
+9. [Completing a computer science degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera) (notesbylex.com) - 109 points by [lexandstuff](https://news.ycombinator.com/user?id=lexandstuff), [79 comments](https://news.ycombinator.com/item?id=48798061)
+10. [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius) (wysr.xyz) - 29 points by [martialg](https://news.ycombinator.com/user?id=martialg), [3 comments](https://news.ycombinator.com/item?id=48799178)
 
 ## 2026-07-05
 
