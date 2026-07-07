@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05) | [Jul 04](#2026-07-04) | [Jul 03](#2026-07-03) | [Jul 02](#2026-07-02) | [Jul 01](#2026-07-01) | [Jun 30](#2026-06-30)
+Recent: [Jul 07](#2026-07-07) | [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05) | [Jul 04](#2026-07-04) | [Jul 03](#2026-07-03) | [Jul 02](#2026-07-02) | [Jul 01](#2026-07-01)
 
-### [2026](data/2026/) (187/187 days)
+### [2026](data/2026/) (188/188 days)
 
-[**July**](data/2026/07/) (6/6)
+[**July**](data/2026/07/) (7/7)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
-| [**6**](#2026-07-06) |  |  |  |  |  |  |
+| [**6**](#2026-07-06) | [**7**](#2026-07-07) |  |  |  |  |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2141,6 +2141,21 @@ Recent: [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05) | [Jul 04](#2026-07-04) | 
 </details>
 
 ---
+
+## 2026-07-07
+
+*Tuesday*
+
+1. [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle) (github.com) - 171 points by [modinfo](https://news.ycombinator.com/user?id=modinfo), [102 comments](https://news.ycombinator.com/item?id=48811591)
+2. [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) (bradleywoolf.com) - 67 points by [bilsbie](https://news.ycombinator.com/user?id=bilsbie), [17 comments](https://news.ycombinator.com/item?id=48812156)
+3. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) (openwrt.org) - 459 points by [peter_d_sherman](https://news.ycombinator.com/user?id=peter_d_sherman), [181 comments](https://news.ycombinator.com/item?id=48808482)
+4. [CoMaps – FOSS Offline Maps](https://www.comaps.app/) (comaps.app) - 332 points by [basilikum](https://news.ycombinator.com/user?id=basilikum), [64 comments](https://news.ycombinator.com/item?id=48808928)
+5. [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) (martinalderson.com) - 185 points by [martinald](https://news.ycombinator.com/user?id=martinald), [116 comments](https://news.ycombinator.com/item?id=48809877)
+6. [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/) (ternlight-demo.vercel.app) - 80 points by [soycaporal](https://news.ycombinator.com/user?id=soycaporal), [29 comments](https://news.ycombinator.com/item?id=48811644)
+7. [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html) (blog.cr.yp.to) - 49 points by [WatchDog](https://news.ycombinator.com/user?id=WatchDog), [24 comments](https://news.ycombinator.com/item?id=48811887)
+8. [A global workspace in language models](https://www.anthropic.com/research/global-workspace) (anthropic.com) - 281 points by [in-silico](https://news.ycombinator.com/user?id=in-silico), [101 comments](https://news.ycombinator.com/item?id=48808002)
+9. [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context) (kapa.ai) - 60 points by [emil_sorensen](https://news.ycombinator.com/user?id=emil_sorensen), [5 comments](https://news.ycombinator.com/item?id=48809354)
+10. [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals) (spectrum.ieee.org) - 19 points by [sscaryterry](https://news.ycombinator.com/user?id=sscaryterry), [3 comments](https://news.ycombinator.com/item?id=48812055)
 
 ## 2026-07-06
 

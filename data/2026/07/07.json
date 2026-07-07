@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48811591,
+    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+    "url": "https://github.com/MaximeRivest/Riddle",
+    "score": 171,
+    "by": "modinfo",
+    "descendants": 102,
+    "time": 1783378824
+  },
+  {
+    "rank": 2,
+    "id": 48812156,
+    "title": "How to sequence your own DNA at home",
+    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "score": 67,
+    "by": "bilsbie",
+    "descendants": 17,
+    "time": 1783383261
+  },
+  {
+    "rank": 3,
+    "id": 48808482,
+    "title": "OpenWrt One \u2013 Open Hardware Router",
+    "url": "https://openwrt.org/toh/openwrt/one",
+    "score": 459,
+    "by": "peter_d_sherman",
+    "descendants": 181,
+    "time": 1783362192
+  },
+  {
+    "rank": 4,
+    "id": 48808928,
+    "title": "CoMaps \u2013 FOSS Offline Maps",
+    "url": "https://www.comaps.app/",
+    "score": 332,
+    "by": "basilikum",
+    "descendants": 64,
+    "time": 1783364107
+  },
+  {
+    "rank": 5,
+    "id": 48809877,
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "score": 185,
+    "by": "martinald",
+    "descendants": 116,
+    "time": 1783368895
+  },
+  {
+    "rank": 6,
+    "id": 48811644,
+    "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+    "url": "https://ternlight-demo.vercel.app/",
+    "score": 80,
+    "by": "soycaporal",
+    "descendants": 29,
+    "time": 1783379191
+  },
+  {
+    "rank": 7,
+    "id": 48811887,
+    "title": "NSA and IETF: Fairness",
+    "url": "https://blog.cr.yp.to/20260706-fairness.html",
+    "score": 49,
+    "by": "WatchDog",
+    "descendants": 24,
+    "time": 1783380834
+  },
+  {
+    "rank": 8,
+    "id": 48808002,
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "score": 281,
+    "by": "in-silico",
+    "descendants": 101,
+    "time": 1783359848
+  },
+  {
+    "rank": 9,
+    "id": 48809354,
+    "title": "Pruning RAG context down to what the answer actually needs",
+    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "score": 60,
+    "by": "emil_sorensen",
+    "descendants": 5,
+    "time": 1783366104
+  },
+  {
+    "rank": 10,
+    "id": 48812055,
+    "title": "Small AI Models Gain Traction In places with unreliable networks",
+    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "score": 19,
+    "by": "sscaryterry",
+    "descendants": 3,
+    "time": 1783382394
+  }
+]
