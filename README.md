@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 07](#2026-07-07) | [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05) | [Jul 04](#2026-07-04) | [Jul 03](#2026-07-03) | [Jul 02](#2026-07-02) | [Jul 01](#2026-07-01)
+Recent: [Jul 08](#2026-07-08) | [Jul 07](#2026-07-07) | [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05) | [Jul 04](#2026-07-04) | [Jul 03](#2026-07-03) | [Jul 02](#2026-07-02)
 
-### [2026](data/2026/) (188/188 days)
+### [2026](data/2026/) (189/189 days)
 
-[**July**](data/2026/07/) (7/7)
+[**July**](data/2026/07/) (8/8)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
-| [**6**](#2026-07-06) | [**7**](#2026-07-07) |  |  |  |  |  |
+| [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) |  |  |  |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2141,6 +2141,21 @@ Recent: [Jul 07](#2026-07-07) | [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05) | 
 </details>
 
 ---
+
+## 2026-07-08
+
+*Wednesday*
+
+1. [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193) (gao.gov) - 98 points by [Jimmc414](https://news.ycombinator.com/user?id=Jimmc414), [38 comments](https://news.ycombinator.com/item?id=48824826)
+2. [We charge $10k a week to delete AI-generated code](https://odra.dev/slopfix/) (odra.dev) - 208 points by [zie1ony](https://news.ycombinator.com/user?id=zie1ony), [113 comments](https://news.ycombinator.com/item?id=48823359)
+3. [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) (ariya.io) - 296 points by [speckx](https://news.ycombinator.com/user?id=speckx), [68 comments](https://news.ycombinator.com/item?id=48821576)
+4. [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) (streetcomplete.app) - 696 points by [kls0e](https://news.ycombinator.com/user?id=kls0e), [170 comments](https://news.ycombinator.com/item?id=48816883)
+5. [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) (kb.cert.org) - 20 points by [miniBill](https://news.ycombinator.com/user?id=miniBill), [4 comments](https://news.ycombinator.com/item?id=48825749)
+6. [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) (fightchatcontrol.eu) - 447 points by [gasull](https://news.ycombinator.com/user?id=gasull), [144 comments](https://news.ycombinator.com/item?id=48818311)
+7. [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211) (cbc.ca) - 25 points by [throw0101a](https://news.ycombinator.com/user?id=throw0101a), [3 comments](https://news.ycombinator.com/item?id=48786789)
+8. [An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/) (vatsalbakshi.com) - 15 points by [dingobabies](https://news.ycombinator.com/user?id=dingobabies), [3 comments](https://news.ycombinator.com/item?id=48825816)
+9. [Structure and Interpretation of Computer Programs Video Lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) (ocw.mit.edu) - 22 points by [gjvc](https://news.ycombinator.com/user?id=gjvc), [0 comments](https://news.ycombinator.com/item?id=48825664)
+10. [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/) (chiptune-radio.alephvoid.com) - 8 points by [bootbloopers](https://news.ycombinator.com/user?id=bootbloopers), [3 comments](https://news.ycombinator.com/item?id=48826094)
 
 ## 2026-07-07
 

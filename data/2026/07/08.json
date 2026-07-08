@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48824826,
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+    "url": "https://www.gao.gov/products/gao-26-108193",
+    "score": 98,
+    "by": "Jimmc414",
+    "descendants": 38,
+    "time": 1783463038
+  },
+  {
+    "rank": 2,
+    "id": 48823359,
+    "title": "We charge $10k a week to delete AI-generated code",
+    "url": "https://odra.dev/slopfix/",
+    "score": 208,
+    "by": "zie1ony",
+    "descendants": 113,
+    "time": 1783456542
+  },
+  {
+    "rank": 3,
+    "id": 48821576,
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "score": 296,
+    "by": "speckx",
+    "descendants": 68,
+    "time": 1783448650
+  },
+  {
+    "rank": 4,
+    "id": 48816883,
+    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+    "url": "https://streetcomplete.app/",
+    "score": 696,
+    "by": "kls0e",
+    "descendants": 170,
+    "time": 1783427915
+  },
+  {
+    "rank": 5,
+    "id": 48825749,
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "url": "https://kb.cert.org/vuls/id/213560",
+    "score": 20,
+    "by": "miniBill",
+    "descendants": 4,
+    "time": 1783469331
+  },
+  {
+    "rank": 6,
+    "id": 48818311,
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "score": 447,
+    "by": "gasull",
+    "descendants": 144,
+    "time": 1783434195
+  },
+  {
+    "rank": 7,
+    "id": 48786789,
+    "title": "Canada's only watchmaking school still ticking after 80 years",
+    "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+    "score": 25,
+    "by": "throw0101a",
+    "descendants": 3,
+    "time": 1783183584
+  },
+  {
+    "rank": 8,
+    "id": 48825816,
+    "title": "An interactive explorer for Benford's Law across real datasets",
+    "url": "https://vatsalbakshi.com/blog/benfords-law/",
+    "score": 15,
+    "by": "dingobabies",
+    "descendants": 3,
+    "time": 1783469919
+  },
+  {
+    "rank": 9,
+    "id": 48825664,
+    "title": "Structure and Interpretation of Computer Programs Video Lectures",
+    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "score": 22,
+    "by": "gjvc",
+    "descendants": 0,
+    "time": 1783468649
+  },
+  {
+    "rank": 10,
+    "id": 48826094,
+    "title": "Show HN: Chiptune Radio",
+    "url": "https://chiptune-radio.alephvoid.com/",
+    "score": 8,
+    "by": "bootbloopers",
+    "descendants": 3,
+    "time": 1783472119
+  }
+]
