@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48838876,
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "score": 336,
+    "by": "djoldman",
+    "descendants": 67,
+    "time": 1783553863
+  },
+  {
+    "rank": 2,
+    "id": 48839984,
+    "title": "I Think I Have LLM Burnout",
+    "url": "https://www.alecscollon.com/blog/llm-burnout/",
+    "score": 40,
+    "by": "sosodev",
+    "descendants": 21,
+    "time": 1783562188
+  },
+  {
+    "rank": 3,
+    "id": 48839434,
+    "title": "A software engineering interview question I like: computing the median",
+    "url": "https://krisshamloo.com/blog/007",
+    "score": 45,
+    "by": "speckx",
+    "descendants": 39,
+    "time": 1783557482
+  },
+  {
+    "rank": 4,
+    "id": 48837396,
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+    "score": 164,
+    "by": "sk4rekr0w",
+    "descendants": 64,
+    "time": 1783544631
+  },
+  {
+    "rank": 5,
+    "id": 48833116,
+    "title": "Chatto is now open source",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "score": 752,
+    "by": "speckx",
+    "descendants": 202,
+    "time": 1783523990
+  },
+  {
+    "rank": 6,
+    "id": 48839397,
+    "title": "Remote Attestation",
+    "url": "https://www.liamcvw.com/p/remote-attestation",
+    "score": 26,
+    "by": "lcvw",
+    "descendants": 12,
+    "time": 1783557153
+  },
+  {
+    "rank": 7,
+    "id": 48795591,
+    "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
+    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "score": 13,
+    "by": "Narann",
+    "descendants": 3,
+    "time": 1783269580
+  },
+  {
+    "rank": 8,
+    "id": 48832212,
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "score": 420,
+    "by": "ottomengis",
+    "descendants": 96,
+    "time": 1783519757
+  },
+  {
+    "rank": 9,
+    "id": 48836233,
+    "title": "Cloudflare Drop",
+    "url": "https://www.cloudflare.com/drop/",
+    "score": 267,
+    "by": "coloneltcb",
+    "descendants": 135,
+    "time": 1783538306
+  },
+  {
+    "rank": 10,
+    "id": 48829797,
+    "title": "Unicode's transliteration rules are Turing-complete",
+    "url": "https://seriot.ch/computation/uts35/",
+    "score": 40,
+    "by": "beefburger",
+    "descendants": 11,
+    "time": 1783503860
+  }
+]

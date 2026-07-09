@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-09 (Thursday)](#2026-07-09)
 - [2026-07-08 (Wednesday)](#2026-07-08)
 - [2026-07-07 (Tuesday)](#2026-07-07)
 - [2026-07-06 (Monday)](#2026-07-06)
@@ -12,6 +13,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-09
+
+*Thursday*
+
+1. [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) (apnews.com) - 336 points by [djoldman](https://news.ycombinator.com/user?id=djoldman), [67 comments](https://news.ycombinator.com/item?id=48838876)
+2. [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/) (alecscollon.com) - 40 points by [sosodev](https://news.ycombinator.com/user?id=sosodev), [21 comments](https://news.ycombinator.com/item?id=48839984)
+3. [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007) (krisshamloo.com) - 45 points by [speckx](https://news.ycombinator.com/user?id=speckx), [39 comments](https://news.ycombinator.com/item?id=48839434)
+4. [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) (openai.com) - 164 points by [sk4rekr0w](https://news.ycombinator.com/user?id=sk4rekr0w), [64 comments](https://news.ycombinator.com/item?id=48837396)
+5. [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) (hmans.dev) - 752 points by [speckx](https://news.ycombinator.com/user?id=speckx), [202 comments](https://news.ycombinator.com/item?id=48833116)
+6. [Remote Attestation](https://www.liamcvw.com/p/remote-attestation) (liamcvw.com) - 26 points by [lcvw](https://news.ycombinator.com/user?id=lcvw), [12 comments](https://news.ycombinator.com/item?id=48839397)
+7. [Patching MechCommander's "left arm bug" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/) (mhloppy.com) - 13 points by [Narann](https://news.ycombinator.com/user?id=Narann), [3 comments](https://news.ycombinator.com/item?id=48795591)
+8. [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/) (mistral.ai) - 420 points by [ottomengis](https://news.ycombinator.com/user?id=ottomengis), [96 comments](https://news.ycombinator.com/item?id=48832212)
+9. [Cloudflare Drop](https://www.cloudflare.com/drop/) (cloudflare.com) - 267 points by [coloneltcb](https://news.ycombinator.com/user?id=coloneltcb), [135 comments](https://news.ycombinator.com/item?id=48836233)
+10. [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/) (seriot.ch) - 40 points by [beefburger](https://news.ycombinator.com/user?id=beefburger), [11 comments](https://news.ycombinator.com/item?id=48829797)
 
 ## 2026-07-08
 
