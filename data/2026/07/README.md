@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-10 (Friday)](#2026-07-10)
 - [2026-07-09 (Thursday)](#2026-07-09)
 - [2026-07-08 (Wednesday)](#2026-07-08)
 - [2026-07-07 (Tuesday)](#2026-07-07)
@@ -13,6 +14,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-10
+
+*Friday*
+
+1. [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) (github.com) - 399 points by [vforno](https://news.ycombinator.com/user?id=vforno), [104 comments](https://news.ycombinator.com/item?id=48842459)
+2. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) (patrick-breyer.de) - 1.0k points by [rapnie](https://news.ycombinator.com/user?id=rapnie), [487 comments](https://news.ycombinator.com/item?id=48843923)
+3. [GPT-5.6](https://openai.com/index/gpt-5-6/) (openai.com) - 1.1k points by [logickkk1](https://news.ycombinator.com/user?id=logickkk1), [789 comments](https://news.ycombinator.com/item?id=48849066)
+4. [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html) (nytimes.com) - 13 points by [wglb](https://news.ycombinator.com/user?id=wglb), [11 comments](https://news.ycombinator.com/item?id=48854638)
+5. [Show HN: 18 Words](https://18words.com/) (18words.com) - 836 points by [pompomsheep](https://news.ycombinator.com/user?id=pompomsheep), [287 comments](https://news.ycombinator.com/item?id=48845049)
+6. [Focus](https://boz.com/articles/focus) (boz.com) - 21 points by [iacguy](https://news.ycombinator.com/user?id=iacguy), [5 comments](https://news.ycombinator.com/item?id=48854363)
+7. [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429) (kotaku.com) - 302 points by [oumua_don17](https://news.ycombinator.com/user?id=oumua_don17), [115 comments](https://news.ycombinator.com/item?id=48792383)
+8. [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) (alexalejandre.com) - 132 points by [veqq](https://news.ycombinator.com/user?id=veqq), [50 comments](https://news.ycombinator.com/item?id=48849292)
+9. [My Story of 3D Realms / Apogee Part I (2020)](https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/) (joesiegler.blog) - 34 points by [Michelangelo11](https://news.ycombinator.com/user?id=Michelangelo11), [1 comments](https://news.ycombinator.com/item?id=48757291)
+10. [Hy3](https://hy.tencent.com/research/hy3) (hy.tencent.com) - 392 points by [andai](https://news.ycombinator.com/user?id=andai), [86 comments](https://news.ycombinator.com/item?id=48847552)
 
 ## 2026-07-09
 
