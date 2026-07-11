@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 10](#2026-07-10) | [Jul 09](#2026-07-09) | [Jul 08](#2026-07-08) | [Jul 07](#2026-07-07) | [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05) | [Jul 04](#2026-07-04)
+Recent: [Jul 11](#2026-07-11) | [Jul 10](#2026-07-10) | [Jul 09](#2026-07-09) | [Jul 08](#2026-07-08) | [Jul 07](#2026-07-07) | [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05)
 
-### [2026](data/2026/) (191/191 days)
+### [2026](data/2026/) (192/192 days)
 
-[**July**](data/2026/07/) (10/10)
+[**July**](data/2026/07/) (11/11)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
-| [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) |  |  |
+| [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2141,6 +2141,21 @@ Recent: [Jul 10](#2026-07-10) | [Jul 09](#2026-07-09) | [Jul 08](#2026-07-08) | 
 </details>
 
 ---
+
+## 2026-07-11
+
+*Saturday*
+
+1. [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) (brown.edu) - 97 points by [hhs](https://news.ycombinator.com/user?id=hhs), [38 comments](https://news.ycombinator.com/item?id=48866134)
+2. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) (9to5mac.com) - 544 points by [stock_toaster](https://news.ycombinator.com/user?id=stock_toaster), [254 comments](https://news.ycombinator.com/item?id=48865019)
+3. [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) (jeffgeerling.com) - 454 points by [speckx](https://news.ycombinator.com/user?id=speckx), [173 comments](https://news.ycombinator.com/item?id=48861717)
+4. [FreeCAD in the Browser](https://magik.net/freecad/) (magik.net) - 20 points by [cui](https://news.ycombinator.com/user?id=cui), [12 comments](https://news.ycombinator.com/item?id=48867264)
+5. [Meta pulls new AI image feature after days of backlash](https://www.bbc.com/news/articles/c2dy6e8klw0o) (bbc.com) - 18 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [7 comments](https://news.ycombinator.com/item?id=48867233)
+6. [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan) (iroh.computer) - 17 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [0 comments](https://news.ycombinator.com/item?id=48817539)
+7. [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) (cdn.openai.com) - 353 points by [scrlk](https://news.ycombinator.com/user?id=scrlk), [282 comments](https://news.ycombinator.com/item?id=48863490)
+8. [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/) (lwn.net) - 86 points by [chmaynard](https://news.ycombinator.com/user?id=chmaynard), [72 comments](https://news.ycombinator.com/item?id=48864252)
+9. [Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/) (machinelearningmastery.com) - 8 points by [eigenBasis](https://news.ycombinator.com/user?id=eigenBasis), [0 comments](https://news.ycombinator.com/item?id=48867261)
+10. [Combustion engine web-based simulator](https://combustionlab.net) (combustionlab.net) - 119 points by [mytuny](https://news.ycombinator.com/user?id=mytuny), [53 comments](https://news.ycombinator.com/item?id=48795900)
 
 ## 2026-07-10
 

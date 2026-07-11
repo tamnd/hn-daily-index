@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48866134,
+    "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+    "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+    "score": 97,
+    "by": "hhs",
+    "descendants": 38,
+    "time": 1783722644
+  },
+  {
+    "rank": 2,
+    "id": 48865019,
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+    "score": 544,
+    "by": "stock_toaster",
+    "descendants": 254,
+    "time": 1783716429
+  },
+  {
+    "rank": 3,
+    "id": 48861717,
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "score": 454,
+    "by": "speckx",
+    "descendants": 173,
+    "time": 1783699193
+  },
+  {
+    "rank": 4,
+    "id": 48867264,
+    "title": "FreeCAD in the Browser",
+    "url": "https://magik.net/freecad/",
+    "score": 20,
+    "by": "cui",
+    "descendants": 12,
+    "time": 1783730640
+  },
+  {
+    "rank": 5,
+    "id": 48867233,
+    "title": "Meta pulls new AI image feature after days of backlash",
+    "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+    "score": 18,
+    "by": "cdrnsf",
+    "descendants": 7,
+    "time": 1783730436
+  },
+  {
+    "rank": 6,
+    "id": 48817539,
+    "title": "An iroh powered smart fan",
+    "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+    "score": 17,
+    "by": "surprisetalk",
+    "descendants": 0,
+    "time": 1783431017
+  },
+  {
+    "rank": 7,
+    "id": 48863490,
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "score": 353,
+    "by": "scrlk",
+    "descendants": 282,
+    "time": 1783708159
+  },
+  {
+    "rank": 8,
+    "id": 48864252,
+    "title": "An update on residential proxies and the scraper situation",
+    "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+    "score": 86,
+    "by": "chmaynard",
+    "descendants": 72,
+    "time": 1783712314
+  },
+  {
+    "rank": 9,
+    "id": 48867261,
+    "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+    "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+    "score": 8,
+    "by": "eigenBasis",
+    "descendants": 0,
+    "time": 1783730619
+  },
+  {
+    "rank": 10,
+    "id": 48795900,
+    "title": "Combustion engine web-based simulator",
+    "url": "https://combustionlab.net",
+    "score": 119,
+    "by": "mytuny",
+    "descendants": 53,
+    "time": 1783271498
+  }
+]
