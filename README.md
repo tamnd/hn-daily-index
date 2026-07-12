@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 11](#2026-07-11) | [Jul 10](#2026-07-10) | [Jul 09](#2026-07-09) | [Jul 08](#2026-07-08) | [Jul 07](#2026-07-07) | [Jul 06](#2026-07-06) | [Jul 05](#2026-07-05)
+Recent: [Jul 12](#2026-07-12) | [Jul 11](#2026-07-11) | [Jul 10](#2026-07-10) | [Jul 09](#2026-07-09) | [Jul 08](#2026-07-08) | [Jul 07](#2026-07-07) | [Jul 06](#2026-07-06)
 
-### [2026](data/2026/) (192/192 days)
+### [2026](data/2026/) (193/193 days)
 
-[**July**](data/2026/07/) (11/11)
+[**July**](data/2026/07/) (12/12)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
-| [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) |  |
+| [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) | [**12**](#2026-07-12) |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2141,6 +2141,21 @@ Recent: [Jul 11](#2026-07-11) | [Jul 10](#2026-07-10) | [Jul 09](#2026-07-09) | 
 </details>
 
 ---
+
+## 2026-07-12
+
+*Sunday*
+
+1. [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) (iroh.computer) - 92 points by [tionis](https://news.ycombinator.com/user?id=tionis), [24 comments](https://news.ycombinator.com/item?id=48876505)
+2. [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) (antjs.org) - 182 points by [theMackabu](https://news.ycombinator.com/user?id=theMackabu), [79 comments](https://news.ycombinator.com/item?id=48875377)
+3. [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html) (fabiensanglard.net) - 19 points by [ingve](https://news.ycombinator.com/user?id=ingve), [17 comments](https://news.ycombinator.com/item?id=48877269)
+4. [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) (github.com) - 60 points by [mariuz](https://news.ycombinator.com/user?id=mariuz), [16 comments](https://news.ycombinator.com/item?id=48876245)
+5. [A pure scheme web programming tool](https://goeteia.dev) (goeteia.dev) - 9 points by [guenchi](https://news.ycombinator.com/user?id=guenchi), [3 comments](https://news.ycombinator.com/item?id=48877314)
+6. [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext) (ijidonline.com) - 31 points by [thenerdhead](https://news.ycombinator.com/user?id=thenerdhead), [6 comments](https://news.ycombinator.com/item?id=48877192)
+7. [A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com) (slacreditwatch.com) - 14 points by [devd1976](https://news.ycombinator.com/user?id=devd1976), [3 comments](https://news.ycombinator.com/item?id=48877009)
+8. [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) (io-fund.com) - 160 points by [adletbalzhanov](https://news.ycombinator.com/user?id=adletbalzhanov), [57 comments](https://news.ycombinator.com/item?id=48873836)
+9. [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267) (arxiv.org) - 53 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [6 comments](https://news.ycombinator.com/item?id=48849744)
+10. [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber) (triapul.cz) - 7 points by [c-c-c-c-c](https://news.ycombinator.com/user?id=c-c-c-c-c), [1 comments](https://news.ycombinator.com/item?id=48846177)
 
 ## 2026-07-11
 

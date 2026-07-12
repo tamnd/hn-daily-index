@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48876505,
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "score": 92,
+    "by": "tionis",
+    "descendants": 24,
+    "time": 1783809537
+  },
+  {
+    "rank": 2,
+    "id": 48875377,
+    "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+    "url": "https://antjs.org",
+    "score": 182,
+    "by": "theMackabu",
+    "descendants": 79,
+    "time": 1783800438
+  },
+  {
+    "rank": 3,
+    "id": 48877269,
+    "title": "A dock that wakes up reliably",
+    "url": "https://fabiensanglard.net/tb4/index.html",
+    "score": 19,
+    "by": "ingve",
+    "descendants": 17,
+    "time": 1783817290
+  },
+  {
+    "rank": 4,
+    "id": 48876245,
+    "title": "RISCBoy is an open-source portable games console, designed from scratch",
+    "url": "https://github.com/Wren6991/RISCBoy",
+    "score": 60,
+    "by": "mariuz",
+    "descendants": 16,
+    "time": 1783807080
+  },
+  {
+    "rank": 5,
+    "id": 48877314,
+    "title": "A pure scheme web programming tool",
+    "url": "https://goeteia.dev",
+    "score": 9,
+    "by": "guenchi",
+    "descendants": 3,
+    "time": 1783817838
+  },
+  {
+    "rank": 6,
+    "id": 48877192,
+    "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+    "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+    "score": 31,
+    "by": "thenerdhead",
+    "descendants": 6,
+    "time": 1783816508
+  },
+  {
+    "rank": 7,
+    "id": 48877009,
+    "title": "A public ledger of cloud outages and the SLA credits they trigger",
+    "url": "https://slacreditwatch.com",
+    "score": 14,
+    "by": "devd1976",
+    "descendants": 3,
+    "time": 1783814547
+  },
+  {
+    "rank": 8,
+    "id": 48873836,
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "score": 160,
+    "by": "adletbalzhanov",
+    "descendants": 57,
+    "time": 1783790509
+  },
+  {
+    "rank": 9,
+    "id": 48849744,
+    "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+    "url": "https://arxiv.org/abs/2607.07267",
+    "score": 53,
+    "by": "Anon84",
+    "descendants": 6,
+    "time": 1783619060
+  },
+  {
+    "rank": 10,
+    "id": 48846177,
+    "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "score": 7,
+    "by": "c-c-c-c-c",
+    "descendants": 1,
+    "time": 1783606204
+  }
+]
