@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (12 days)
+- [July](07/) (13 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-13
+
+*Monday*
+
+1. [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/) (scrapfly.dev) - 310 points by [joahnn_s](https://news.ycombinator.com/user?id=joahnn_s), [153 comments](https://news.ycombinator.com/item?id=48884853)
+2. [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) (nebusec.ai) - 90 points by [ranger_danger](https://news.ycombinator.com/user?id=ranger_danger), [16 comments](https://news.ycombinator.com/item?id=48834309)
+3. [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/) (shellzine.net) - 78 points by [zdw](https://news.ycombinator.com/user?id=zdw), [17 comments](https://news.ycombinator.com/item?id=48885643)
+4. [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) (floooh.github.io) - 148 points by [naves](https://news.ycombinator.com/user?id=naves), [9 comments](https://news.ycombinator.com/item?id=48884395)
+5. [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html) (vilkeliskis.com) - 50 points by [tadasv](https://news.ycombinator.com/user?id=tadasv), [5 comments](https://news.ycombinator.com/item?id=48885728)
+6. [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics) (susanrigetti.com) - 102 points by [azhenley](https://news.ycombinator.com/user?id=azhenley), [11 comments](https://news.ycombinator.com/item?id=48827126)
+7. [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) - 47 points by [levkk](https://news.ycombinator.com/user?id=levkk), [18 comments](https://news.ycombinator.com/item?id=48886741)
+8. [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html) (guseyn.com) - 47 points by [guseyn](https://news.ycombinator.com/user?id=guseyn), [20 comments](https://news.ycombinator.com/item?id=48885705)
+9. [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984) - 78 points by [david927](https://news.ycombinator.com/user?id=david927), [202 comments](https://news.ycombinator.com/item?id=48884984)
+10. [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) (terrytao.wordpress.com) - 413 points by [subset](https://news.ycombinator.com/user?id=subset), [120 comments](https://news.ycombinator.com/item?id=48880170)
 
 ## 2026-07-12
 
