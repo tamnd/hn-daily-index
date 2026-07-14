@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-14 (Tuesday)](#2026-07-14)
 - [2026-07-13 (Monday)](#2026-07-13)
 - [2026-07-12 (Sunday)](#2026-07-12)
 - [2026-07-11 (Saturday)](#2026-07-11)
@@ -17,6 +18,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-14
+
+*Tuesday*
+
+1. [The Git history command deserves more attention](https://lalitm.com/post/git-history/) (lalitm.com) - 30 points by [turbocon](https://news.ycombinator.com/user?id=turbocon), [5 comments](https://news.ycombinator.com/item?id=48901010)
+2. [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) (scottwillsey.com) - 314 points by [speckx](https://news.ycombinator.com/user?id=speckx), [136 comments](https://news.ycombinator.com/item?id=48896665)
+3. [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) (get-inscribe.com) - 452 points by [get-inscribe](https://news.ycombinator.com/user?id=get-inscribe), [182 comments](https://news.ycombinator.com/item?id=48894752)
+4. [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o) (bbc.com) - 47 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [8 comments](https://news.ycombinator.com/item?id=48900191)
+5. [MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/) (paradigms-of-intelligence.github.io) - 10 points by [jacktang](https://news.ycombinator.com/user?id=jacktang), [0 comments](https://news.ycombinator.com/item?id=48901126)
+6. [Success may not matter if you aren't doing what you love](https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter) (12gramsofcarbon.com) - 13 points by [theahura](https://news.ycombinator.com/user?id=theahura), [0 comments](https://news.ycombinator.com/item?id=48900790)
+7. [Turn your singing voice into printable notes (in the browser)](https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html) (om-intelligence.ch) - 14 points by [busssard](https://news.ycombinator.com/user?id=busssard), [5 comments](https://news.ycombinator.com/item?id=48900686)
+8. [What did SFFA vs. Harvard reveal about admissions?](https://sorting-machine.pages.dev/) (sorting-machine.pages.dev) - 14 points by [StrageMusik](https://news.ycombinator.com/user?id=StrageMusik), [9 comments](https://news.ycombinator.com/item?id=48900796)
+9. [The infinite scroll may become endangered if controversial Calif. law passes](https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php) (sfgate.com) - 80 points by [Stratoscope](https://news.ycombinator.com/user?id=Stratoscope), [132 comments](https://news.ycombinator.com/item?id=48897104)
+10. [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html) (fabiensanglard.net) - 225 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [46 comments](https://news.ycombinator.com/item?id=48893639)
 
 ## 2026-07-13
 

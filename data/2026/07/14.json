@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48901010,
+    "title": "The Git history command deserves more attention",
+    "url": "https://lalitm.com/post/git-history/",
+    "score": 30,
+    "by": "turbocon",
+    "descendants": 5,
+    "time": 1783990631
+  },
+  {
+    "rank": 2,
+    "id": 48896665,
+    "title": "Building and shipping Mac and iOS apps without opening Xcode",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "score": 314,
+    "by": "speckx",
+    "descendants": 136,
+    "time": 1783966936
+  },
+  {
+    "rank": 3,
+    "id": 48894752,
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "score": 452,
+    "by": "get-inscribe",
+    "descendants": 182,
+    "time": 1783958768
+  },
+  {
+    "rank": 4,
+    "id": 48900191,
+    "title": "An Englishwoman who sketched India before photography took hold",
+    "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+    "score": 47,
+    "by": "1659447091",
+    "descendants": 8,
+    "time": 1783984342
+  },
+  {
+    "rank": 5,
+    "id": 48901126,
+    "title": "MorphoHDL: A minimalistic language for growing circuits",
+    "url": "https://paradigms-of-intelligence.github.io/morpho/",
+    "score": 10,
+    "by": "jacktang",
+    "descendants": 0,
+    "time": 1783991850
+  },
+  {
+    "rank": 6,
+    "id": 48900790,
+    "title": "Success may not matter if you aren't doing what you love",
+    "url": "https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter",
+    "score": 13,
+    "by": "theahura",
+    "descendants": 0,
+    "time": 1783988760
+  },
+  {
+    "rank": 7,
+    "id": 48900686,
+    "title": "Turn your singing voice into printable notes (in the browser)",
+    "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
+    "score": 14,
+    "by": "busssard",
+    "descendants": 5,
+    "time": 1783987836
+  },
+  {
+    "rank": 8,
+    "id": 48900796,
+    "title": "What did SFFA vs. Harvard reveal about admissions?",
+    "url": "https://sorting-machine.pages.dev/",
+    "score": 14,
+    "by": "StrageMusik",
+    "descendants": 9,
+    "time": 1783988803
+  },
+  {
+    "rank": 9,
+    "id": 48897104,
+    "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+    "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+    "score": 80,
+    "by": "Stratoscope",
+    "descendants": 132,
+    "time": 1783968833
+  },
+  {
+    "rank": 10,
+    "id": 48893639,
+    "title": "The art and engineering of Sega CD Silpheed",
+    "url": "https://fabiensanglard.net/silpheed/index.html",
+    "score": 225,
+    "by": "ibobev",
+    "descendants": 46,
+    "time": 1783954353
+  }
+]
