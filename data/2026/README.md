@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (14 days)
+- [July](07/) (15 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-15
+
+*Wednesday*
+
+1. [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) (vpd.ca) - 68 points by [LookAtThatBacon](https://news.ycombinator.com/user?id=LookAtThatBacon), [27 comments](https://news.ycombinator.com/item?id=48914644)
+2. [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) (tailscale.com) - 22 points by [jervant](https://news.ycombinator.com/user?id=jervant), [5 comments](https://news.ycombinator.com/item?id=48915004)
+3. [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) (prismml.com) - 435 points by [xenova](https://news.ycombinator.com/user?id=xenova), [160 comments](https://news.ycombinator.com/item?id=48910545)
+4. [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/) (github.blog) - 96 points by [woodruffw](https://news.ycombinator.com/user?id=woodruffw), [61 comments](https://news.ycombinator.com/item?id=48913050)
+5. [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) (lucumr.pocoo.org) - 338 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [165 comments](https://news.ycombinator.com/item?id=48909785)
+6. [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf) (bis.org) - 86 points by [1vuio0pswjnm7](https://news.ycombinator.com/user?id=1vuio0pswjnm7), [32 comments](https://news.ycombinator.com/item?id=48913443)
+7. [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) (mindgard.ai) - 249 points by [Synthetic7346](https://news.ycombinator.com/user?id=Synthetic7346), [107 comments](https://news.ycombinator.com/item?id=48910676)
+8. [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/) (starfleetmath.com) - 17 points by [colin7snyder](https://news.ycombinator.com/user?id=colin7snyder), [3 comments](https://news.ycombinator.com/item?id=48914646)
+9. [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario) (benjamin-bai.com) - 49 points by [kevinjosethomas](https://news.ycombinator.com/user?id=kevinjosethomas), [5 comments](https://news.ycombinator.com/item?id=48913763)
+10. [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/) (lzon.ca) - 24 points by [jpmitchell](https://news.ycombinator.com/user?id=jpmitchell), [27 comments](https://news.ycombinator.com/item?id=48873275)
 
 ## 2026-07-14
 

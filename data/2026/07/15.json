@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48914644,
+    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "url": "https://vpd.ca/",
+    "score": 68,
+    "by": "LookAtThatBacon",
+    "descendants": 27,
+    "time": 1784074553
+  },
+  {
+    "rank": 2,
+    "id": 48915004,
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "url": "https://tailscale.com/security-bulletins",
+    "score": 22,
+    "by": "jervant",
+    "descendants": 5,
+    "time": 1784077706
+  },
+  {
+    "rank": 3,
+    "id": 48910545,
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "score": 435,
+    "by": "xenova",
+    "descendants": 160,
+    "time": 1784051448
+  },
+  {
+    "rank": 4,
+    "id": 48913050,
+    "title": "Dependabot version updates introduce default package cooldown",
+    "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+    "score": 96,
+    "by": "woodruffw",
+    "descendants": 61,
+    "time": 1784063751
+  },
+  {
+    "rank": 5,
+    "id": 48909785,
+    "title": "The Tower Keeps Rising",
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "score": 338,
+    "by": "cdrnsf",
+    "descendants": 165,
+    "time": 1784048274
+  },
+  {
+    "rank": 6,
+    "id": 48913443,
+    "title": "Financing the AI boom: from cash flows to debt [pdf]",
+    "url": "https://www.bis.org/publ/bisbull120.pdf",
+    "score": 86,
+    "by": "1vuio0pswjnm7",
+    "descendants": 32,
+    "time": 1784066316
+  },
+  {
+    "rank": 7,
+    "id": 48910676,
+    "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+    "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+    "score": 249,
+    "by": "Synthetic7346",
+    "descendants": 107,
+    "time": 1784051915
+  },
+  {
+    "rank": 8,
+    "id": 48914646,
+    "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
+    "url": "https://www.starfleetmath.com/",
+    "score": 17,
+    "by": "colin7snyder",
+    "descendants": 3,
+    "time": 1784074556
+  },
+  {
+    "rank": 9,
+    "id": 48913763,
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "score": 49,
+    "by": "kevinjosethomas",
+    "descendants": 5,
+    "time": 1784068247
+  },
+  {
+    "rank": 10,
+    "id": 48873275,
+    "title": "C++20 Improved the For-Loop Syntax",
+    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+    "score": 24,
+    "by": "jpmitchell",
+    "descendants": 27,
+    "time": 1783786219
+  }
+]
