@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (15 days)
+- [July](07/) (16 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-16
+
+*Thursday*
+
+1. [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) (thinkingmachines.ai) - 694 points by [vimarsh6739](https://news.ycombinator.com/user?id=vimarsh6739), [177 comments](https://news.ycombinator.com/item?id=48924912)
+2. [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) (mort.coffee) - 119 points by [gnyeki](https://news.ycombinator.com/user?id=gnyeki), [46 comments](https://news.ycombinator.com/item?id=48928135)
+3. [Grok Build is open source](https://github.com/xai-org/grok-build) (github.com) - 267 points by [skp1995](https://news.ycombinator.com/user?id=skp1995), [312 comments](https://news.ycombinator.com/item?id=48926590)
+4. [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) (siegelendowment.org) - 88 points by [bilsbie](https://news.ycombinator.com/user?id=bilsbie), [37 comments](https://news.ycombinator.com/item?id=48927095)
+5. [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/) (davidobando.github.io) - 19 points by [serial_dev](https://news.ycombinator.com/user?id=serial_dev), [2 comments](https://news.ycombinator.com/item?id=48871721)
+6. [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials) (chemistry.berkeley.edu) - 39 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [10 comments](https://news.ycombinator.com/item?id=48928313)
+7. [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) (reuters.com) - 347 points by [rvz](https://news.ycombinator.com/user?id=rvz), [209 comments](https://news.ycombinator.com/item?id=48915953)
+8. [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html) (blog.greg.technology) - 47 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [13 comments](https://news.ycombinator.com/item?id=48927915)
+9. [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/) (neomindlabs.com) - 234 points by [neomindryan](https://news.ycombinator.com/user?id=neomindryan), [152 comments](https://news.ycombinator.com/item?id=48922434)
+10. [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html) (sqlite.org) - 29 points by [basilikum](https://news.ycombinator.com/user?id=basilikum), [2 comments](https://news.ycombinator.com/item?id=48928343)
 
 ## 2026-07-15
 
