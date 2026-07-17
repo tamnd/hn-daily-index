@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-17 (Friday)](#2026-07-17)
 - [2026-07-16 (Thursday)](#2026-07-16)
 - [2026-07-15 (Wednesday)](#2026-07-15)
 - [2026-07-14 (Tuesday)](#2026-07-14)
@@ -20,6 +21,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-17
+
+*Friday*
+
+1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) (kimi.com) - 1.2k points by [vincent_s](https://news.ycombinator.com/user?id=vincent_s), [739 comments](https://news.ycombinator.com/item?id=48935342)
+2. [Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/) (thenextgennexus.com) - 30 points by [alexey-salmin](https://news.ycombinator.com/user?id=alexey-salmin), [9 comments](https://news.ycombinator.com/item?id=48942250)
+3. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) (opensource.microsoft.com) - 541 points by [jervant](https://news.ycombinator.com/user?id=jervant), [120 comments](https://news.ycombinator.com/item?id=48936426)
+4. [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic) (lmstudio.ai) - 161 points by [minimaxir](https://news.ycombinator.com/user?id=minimaxir), [64 comments](https://news.ycombinator.com/item?id=48939662)
+5. [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive) (earthquake.usgs.gov) - 27 points by [hnburnsy](https://news.ycombinator.com/user?id=hnburnsy), [7 comments](https://news.ycombinator.com/item?id=48942125)
+6. [Decoy Font](https://www.mixfont.com/experiments/decoy-font) (mixfont.com) - 411 points by [ray__](https://news.ycombinator.com/user?id=ray__), [98 comments](https://news.ycombinator.com/item?id=48936584)
+7. [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) (github.com) - 57 points by [mustaphah](https://news.ycombinator.com/user?id=mustaphah), [9 comments](https://news.ycombinator.com/item?id=48941104)
+8. [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) (tryai.dev) - 134 points by [hershyb_](https://news.ycombinator.com/user?id=hershyb_), [143 comments](https://news.ycombinator.com/item?id=48939524)
+9. [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) (blog.google) - 241 points by [xnx](https://news.ycombinator.com/user?id=xnx), [126 comments](https://news.ycombinator.com/item?id=48936451)
+10. [Mathematics of Data Science](https://arxiv.org/abs/2607.11938) (arxiv.org) - 94 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [2 comments](https://news.ycombinator.com/item?id=48939896)
 
 ## 2026-07-16
 

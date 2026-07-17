@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 16](#2026-07-16) | [Jul 15](#2026-07-15) | [Jul 14](#2026-07-14) | [Jul 13](#2026-07-13) | [Jul 12](#2026-07-12) | [Jul 11](#2026-07-11) | [Jul 10](#2026-07-10)
+Recent: [Jul 17](#2026-07-17) | [Jul 16](#2026-07-16) | [Jul 15](#2026-07-15) | [Jul 14](#2026-07-14) | [Jul 13](#2026-07-13) | [Jul 12](#2026-07-12) | [Jul 11](#2026-07-11)
 
-### [2026](data/2026/) (197/197 days)
+### [2026](data/2026/) (198/198 days)
 
-[**July**](data/2026/07/) (16/16)
+[**July**](data/2026/07/) (17/17)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
 | [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) | [**12**](#2026-07-12) |
-| [**13**](#2026-07-13) | [**14**](#2026-07-14) | [**15**](#2026-07-15) | [**16**](#2026-07-16) |  |  |  |
+| [**13**](#2026-07-13) | [**14**](#2026-07-14) | [**15**](#2026-07-15) | [**16**](#2026-07-16) | [**17**](#2026-07-17) |  |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2142,6 +2142,21 @@ Recent: [Jul 16](#2026-07-16) | [Jul 15](#2026-07-15) | [Jul 14](#2026-07-14) | 
 </details>
 
 ---
+
+## 2026-07-17
+
+*Friday*
+
+1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) (kimi.com) - 1.2k points by [vincent_s](https://news.ycombinator.com/user?id=vincent_s), [739 comments](https://news.ycombinator.com/item?id=48935342)
+2. [Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/) (thenextgennexus.com) - 30 points by [alexey-salmin](https://news.ycombinator.com/user?id=alexey-salmin), [9 comments](https://news.ycombinator.com/item?id=48942250)
+3. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) (opensource.microsoft.com) - 541 points by [jervant](https://news.ycombinator.com/user?id=jervant), [120 comments](https://news.ycombinator.com/item?id=48936426)
+4. [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic) (lmstudio.ai) - 161 points by [minimaxir](https://news.ycombinator.com/user?id=minimaxir), [64 comments](https://news.ycombinator.com/item?id=48939662)
+5. [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive) (earthquake.usgs.gov) - 27 points by [hnburnsy](https://news.ycombinator.com/user?id=hnburnsy), [7 comments](https://news.ycombinator.com/item?id=48942125)
+6. [Decoy Font](https://www.mixfont.com/experiments/decoy-font) (mixfont.com) - 411 points by [ray__](https://news.ycombinator.com/user?id=ray__), [98 comments](https://news.ycombinator.com/item?id=48936584)
+7. [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) (github.com) - 57 points by [mustaphah](https://news.ycombinator.com/user?id=mustaphah), [9 comments](https://news.ycombinator.com/item?id=48941104)
+8. [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) (tryai.dev) - 134 points by [hershyb_](https://news.ycombinator.com/user?id=hershyb_), [143 comments](https://news.ycombinator.com/item?id=48939524)
+9. [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) (blog.google) - 241 points by [xnx](https://news.ycombinator.com/user?id=xnx), [126 comments](https://news.ycombinator.com/item?id=48936451)
+10. [Mathematics of Data Science](https://arxiv.org/abs/2607.11938) (arxiv.org) - 94 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [2 comments](https://news.ycombinator.com/item?id=48939896)
 
 ## 2026-07-16
 
