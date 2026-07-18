@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (17 days)
+- [July](07/) (18 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,20 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-18
+
+*Saturday*
+
+1. [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) (localnewsmatters.org) - 275 points by [gnabgib](https://news.ycombinator.com/user?id=gnabgib), [171 comments](https://news.ycombinator.com/item?id=48952880)
+2. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) - 1.1k points by [nprateem](https://news.ycombinator.com/user?id=nprateem), [641 comments](https://news.ycombinator.com/item?id=48945241)
+3. [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) - 327 points by [nicholasjbs](https://news.ycombinator.com/user?id=nicholasjbs), [30 comments](https://news.ycombinator.com/item?id=48949551)
+4. [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) (goliath32.com) - 166 points by [st_goliath](https://news.ycombinator.com/user?id=st_goliath), [49 comments](https://news.ycombinator.com/item?id=48951461)
+5. [Algorithm for NP-Complete Sudoku](https://zenodo.org/records/21420871) (zenodo.org) - 5 points by [LeonardoYMG](https://news.ycombinator.com/user?id=LeonardoYMG), [0 comments](https://news.ycombinator.com/item?id=48954267)
+6. [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier) (isomorphiclabs.com) - 34 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [2 comments](https://news.ycombinator.com/item?id=48953406)
+7. [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) (bbc.com) - 369 points by [neversaydie](https://news.ycombinator.com/user?id=neversaydie), [232 comments](https://news.ycombinator.com/item?id=48947560)
+8. [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/) (prathosh.in) - 50 points by [subinalex](https://news.ycombinator.com/user?id=subinalex), [3 comments](https://news.ycombinator.com/item?id=48896149)
+9. [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/) (pinewind.bearblog.dev) - 8 points by [herbertl](https://news.ycombinator.com/user?id=herbertl), [1 comments](https://news.ycombinator.com/item?id=48954149)
 
 ## 2026-07-17
 
