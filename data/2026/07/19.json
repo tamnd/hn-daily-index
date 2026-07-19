@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48963879,
+    "title": "Transcribe.cpp",
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "score": 50,
+    "by": "sebjones",
+    "descendants": 9,
+    "time": 1784421506
+  },
+  {
+    "rank": 2,
+    "id": 48911793,
+    "title": "Speech Recognition and TTS in less than 500kb",
+    "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+    "score": 278,
+    "by": "petewarden",
+    "descendants": 32,
+    "time": 1784057110
+  },
+  {
+    "rank": 3,
+    "id": 48964015,
+    "title": "Better and Cheaper Than IPTV",
+    "url": "https://github.com/stupside/castor",
+    "score": 18,
+    "by": "xonery",
+    "descendants": 6,
+    "time": 1784422795
+  },
+  {
+    "rank": 4,
+    "id": 48962838,
+    "title": "Classic Amiga titles, free to download",
+    "url": "https://amigafreeware.downer.tech/",
+    "score": 51,
+    "by": "doener",
+    "descendants": 7,
+    "time": 1784411727
+  },
+  {
+    "rank": 5,
+    "id": 48957779,
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "score": 504,
+    "by": "mbustamanter",
+    "descendants": 325,
+    "time": 1784379652
+  },
+  {
+    "rank": 6,
+    "id": 48959090,
+    "title": "If You Build It, They Will Come",
+    "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+    "score": 270,
+    "by": "barry-cotter",
+    "descendants": 100,
+    "time": 1784389021
+  },
+  {
+    "rank": 7,
+    "id": 48962983,
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "score": 219,
+    "by": "gnabgib",
+    "descendants": 104,
+    "time": 1784412819
+  },
+  {
+    "rank": 8,
+    "id": 48962944,
+    "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+    "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+    "score": 34,
+    "by": "amichail",
+    "descendants": 4,
+    "time": 1784412547
+  },
+  {
+    "rank": 9,
+    "id": 48962758,
+    "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+    "url": "https://www.neatnik.net/hardcore-indieweb",
+    "score": 82,
+    "by": "cdrnsf",
+    "descendants": 65,
+    "time": 1784411112
+  },
+  {
+    "rank": 10,
+    "id": 48962893,
+    "title": "Judge a book by its first pages",
+    "url": "https://uncovered.ink",
+    "score": 42,
+    "by": "bookofjoe",
+    "descendants": 31,
+    "time": 1784412151
+  }
+]

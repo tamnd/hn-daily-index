@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-19 (Sunday)](#2026-07-19)
 - [2026-07-18 (Saturday)](#2026-07-18)
 - [2026-07-17 (Friday)](#2026-07-17)
 - [2026-07-16 (Thursday)](#2026-07-16)
@@ -22,6 +23,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-19
+
+*Sunday*
+
+1. [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) (workshop.cjpais.com) - 50 points by [sebjones](https://news.ycombinator.com/user?id=sebjones), [9 comments](https://news.ycombinator.com/item?id=48963879)
+2. [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) (github.com) - 278 points by [petewarden](https://news.ycombinator.com/user?id=petewarden), [32 comments](https://news.ycombinator.com/item?id=48911793)
+3. [Better and Cheaper Than IPTV](https://github.com/stupside/castor) (github.com) - 18 points by [xonery](https://news.ycombinator.com/user?id=xonery), [6 comments](https://news.ycombinator.com/item?id=48964015)
+4. [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/) (amigafreeware.downer.tech) - 51 points by [doener](https://news.ycombinator.com/user?id=doener), [7 comments](https://news.ycombinator.com/item?id=48962838)
+5. [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) (old.reddit.com) - 504 points by [mbustamanter](https://news.ycombinator.com/user?id=mbustamanter), [325 comments](https://news.ycombinator.com/item?id=48957779)
+6. [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come) (benlandautaylor.com) - 270 points by [barry-cotter](https://news.ycombinator.com/user?id=barry-cotter), [100 comments](https://news.ycombinator.com/item?id=48959090)
+7. [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) (petapixel.com) - 219 points by [gnabgib](https://news.ycombinator.com/user?id=gnabgib), [104 comments](https://news.ycombinator.com/item?id=48962983)
+8. [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf) (tug.org) - 34 points by [amichail](https://news.ycombinator.com/user?id=amichail), [4 comments](https://news.ycombinator.com/item?id=48962944)
+9. [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb) (neatnik.net) - 82 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [65 comments](https://news.ycombinator.com/item?id=48962758)
+10. [Judge a book by its first pages](https://uncovered.ink) (uncovered.ink) - 42 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [31 comments](https://news.ycombinator.com/item?id=48962893)
 
 ## 2026-07-18
 
