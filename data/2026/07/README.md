@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-20 (Monday)](#2026-07-20)
 - [2026-07-19 (Sunday)](#2026-07-19)
 - [2026-07-18 (Saturday)](#2026-07-18)
 - [2026-07-17 (Friday)](#2026-07-17)
@@ -23,6 +24,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-20
+
+*Monday*
+
+1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) - 1.6k points by [section33](https://news.ycombinator.com/user?id=section33), [172 comments](https://news.ycombinator.com/item?id=48968606)
+2. [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) (simonwillison.net) - 397 points by [tosh](https://news.ycombinator.com/user?id=tosh), [561 comments](https://news.ycombinator.com/item?id=48966569)
+3. [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming) (smolnero.com) - 115 points by [edgar_ortega](https://news.ycombinator.com/user?id=edgar_ortega), [13 comments](https://news.ycombinator.com/item?id=48907390)
+4. [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) (chipweinberger.com) - 409 points by [chipweinberger](https://news.ycombinator.com/user?id=chipweinberger), [196 comments](https://news.ycombinator.com/item?id=48966713)
+5. [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer) (spectrum.ieee.org) - 40 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [6 comments](https://news.ycombinator.com/item?id=48971938)
+6. [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) (minecraft.net) - 274 points by [ObviouslyFlamer](https://news.ycombinator.com/user?id=ObviouslyFlamer), [183 comments](https://news.ycombinator.com/item?id=48967256)
+7. [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) (raymii.org) - 49 points by [jandeboevrie](https://news.ycombinator.com/user?id=jandeboevrie), [34 comments](https://news.ycombinator.com/item?id=48971566)
+8. [Talk: The Art of Braiding Algorithms](https://pgadey.ca/notes/talk-relatorium-2026/) (pgadey.ca) - 23 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [0 comments](https://news.ycombinator.com/item?id=48920597)
+9. [Who Is America's Homer?](https://www.plough.com/articles/who-is-americas-homer) (plough.com) - 38 points by [samclemens](https://news.ycombinator.com/user?id=samclemens), [82 comments](https://news.ycombinator.com/item?id=48913656)
+10. [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) (github.com) - 321 points by [AmazingTurtle](https://news.ycombinator.com/user?id=AmazingTurtle), [151 comments](https://news.ycombinator.com/item?id=48965850)
 
 ## 2026-07-19
 
