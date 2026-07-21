@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48977128,
+    "title": "Who's afraid of Chinese models?",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "score": 282,
+    "by": "mfiguiere",
+    "descendants": 179,
+    "time": 1784545558
+  },
+  {
+    "rank": 2,
+    "id": 48981703,
+    "title": "Kimi Work",
+    "url": "https://www.kimi.com/products/kimi-work",
+    "score": 405,
+    "by": "ms7892",
+    "descendants": 185,
+    "time": 1784567603
+  },
+  {
+    "rank": 3,
+    "id": 48983382,
+    "title": "Human mathematicians are being outcounterexampled",
+    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "score": 214,
+    "by": "artninja1988",
+    "descendants": 76,
+    "time": 1784574217
+  },
+  {
+    "rank": 4,
+    "id": 48981620,
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "url": "https://jelly-ui.com/",
+    "score": 349,
+    "by": "baldvinmar",
+    "descendants": 137,
+    "time": 1784567259
+  },
+  {
+    "rank": 5,
+    "id": 48978605,
+    "title": "Hacker wipes Romania's land registry database",
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "score": 574,
+    "by": "speckx",
+    "descendants": 326,
+    "time": 1784554113
+  },
+  {
+    "rank": 6,
+    "id": 48986091,
+    "title": "Jellyfin founder Andrew leaves team",
+    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+    "score": 49,
+    "by": "swat535",
+    "descendants": 12,
+    "time": 1784589341
+  },
+  {
+    "rank": 7,
+    "id": 48982681,
+    "title": "Nativ: Run frontier open models locally on your Mac",
+    "url": "https://blaizzy.github.io/nativ/",
+    "score": 184,
+    "by": "aratahikaru5",
+    "descendants": 71,
+    "time": 1784571368
+  },
+  {
+    "rank": 8,
+    "id": 48923130,
+    "title": "The Psychology of Software Teams",
+    "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
+    "score": 29,
+    "by": "dcre",
+    "descendants": 5,
+    "time": 1784132181
+  },
+  {
+    "rank": 9,
+    "id": 48976846,
+    "title": "Airport Simulator",
+    "url": "https://airport.apunen.com/",
+    "score": 712,
+    "by": "apunen",
+    "descendants": 142,
+    "time": 1784543440
+  },
+  {
+    "rank": 10,
+    "id": 48984254,
+    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+    "url": "https://vincentwoo.com/3d/grace_cathedral/",
+    "score": 77,
+    "by": "akanet",
+    "descendants": 14,
+    "time": 1784578244
+  }
+]

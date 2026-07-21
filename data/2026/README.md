@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (20 days)
+- [July](07/) (21 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-21
+
+*Tuesday*
+
+1. [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) (stratechery.com) - 282 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [179 comments](https://news.ycombinator.com/item?id=48977128)
+2. [Kimi Work](https://www.kimi.com/products/kimi-work) (kimi.com) - 405 points by [ms7892](https://news.ycombinator.com/user?id=ms7892), [185 comments](https://news.ycombinator.com/item?id=48981703)
+3. [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) (xenaproject.wordpress.com) - 214 points by [artninja1988](https://news.ycombinator.com/user?id=artninja1988), [76 comments](https://news.ycombinator.com/item?id=48983382)
+4. [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) (jelly-ui.com) - 349 points by [baldvinmar](https://news.ycombinator.com/user?id=baldvinmar), [137 comments](https://news.ycombinator.com/item?id=48981620)
+5. [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) (news.risky.biz) - 574 points by [speckx](https://news.ycombinator.com/user?id=speckx), [326 comments](https://news.ycombinator.com/item?id=48978605)
+6. [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes) (forum.jellyfin.org) - 49 points by [swat535](https://news.ycombinator.com/user?id=swat535), [12 comments](https://news.ycombinator.com/item?id=48986091)
+7. [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/) (blaizzy.github.io) - 184 points by [aratahikaru5](https://news.ycombinator.com/user?id=aratahikaru5), [71 comments](https://news.ycombinator.com/item?id=48982681)
+8. [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389) (routledge.com) - 29 points by [dcre](https://news.ycombinator.com/user?id=dcre), [5 comments](https://news.ycombinator.com/item?id=48923130)
+9. [Airport Simulator](https://airport.apunen.com/) (airport.apunen.com) - 712 points by [apunen](https://news.ycombinator.com/user?id=apunen), [142 comments](https://news.ycombinator.com/item?id=48976846)
+10. [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/) (vincentwoo.com) - 77 points by [akanet](https://news.ycombinator.com/user?id=akanet), [14 comments](https://news.ycombinator.com/item?id=48984254)
 
 ## 2026-07-20
 

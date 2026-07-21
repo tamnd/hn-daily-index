@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19) | [Jul 18](#2026-07-18) | [Jul 17](#2026-07-17) | [Jul 16](#2026-07-16) | [Jul 15](#2026-07-15) | [Jul 14](#2026-07-14)
+Recent: [Jul 21](#2026-07-21) | [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19) | [Jul 18](#2026-07-18) | [Jul 17](#2026-07-17) | [Jul 16](#2026-07-16) | [Jul 15](#2026-07-15)
 
-### [2026](data/2026/) (201/201 days)
+### [2026](data/2026/) (202/202 days)
 
-[**July**](data/2026/07/) (20/20)
+[**July**](data/2026/07/) (21/21)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
 | [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) | [**12**](#2026-07-12) |
 | [**13**](#2026-07-13) | [**14**](#2026-07-14) | [**15**](#2026-07-15) | [**16**](#2026-07-16) | [**17**](#2026-07-17) | [**18**](#2026-07-18) | [**19**](#2026-07-19) |
-| [**20**](#2026-07-20) |  |  |  |  |  |  |
+| [**20**](#2026-07-20) | [**21**](#2026-07-21) |  |  |  |  |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2143,6 +2143,21 @@ Recent: [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19) | [Jul 18](#2026-07-18) | 
 </details>
 
 ---
+
+## 2026-07-21
+
+*Tuesday*
+
+1. [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) (stratechery.com) - 282 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [179 comments](https://news.ycombinator.com/item?id=48977128)
+2. [Kimi Work](https://www.kimi.com/products/kimi-work) (kimi.com) - 405 points by [ms7892](https://news.ycombinator.com/user?id=ms7892), [185 comments](https://news.ycombinator.com/item?id=48981703)
+3. [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) (xenaproject.wordpress.com) - 214 points by [artninja1988](https://news.ycombinator.com/user?id=artninja1988), [76 comments](https://news.ycombinator.com/item?id=48983382)
+4. [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) (jelly-ui.com) - 349 points by [baldvinmar](https://news.ycombinator.com/user?id=baldvinmar), [137 comments](https://news.ycombinator.com/item?id=48981620)
+5. [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) (news.risky.biz) - 574 points by [speckx](https://news.ycombinator.com/user?id=speckx), [326 comments](https://news.ycombinator.com/item?id=48978605)
+6. [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes) (forum.jellyfin.org) - 49 points by [swat535](https://news.ycombinator.com/user?id=swat535), [12 comments](https://news.ycombinator.com/item?id=48986091)
+7. [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/) (blaizzy.github.io) - 184 points by [aratahikaru5](https://news.ycombinator.com/user?id=aratahikaru5), [71 comments](https://news.ycombinator.com/item?id=48982681)
+8. [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389) (routledge.com) - 29 points by [dcre](https://news.ycombinator.com/user?id=dcre), [5 comments](https://news.ycombinator.com/item?id=48923130)
+9. [Airport Simulator](https://airport.apunen.com/) (airport.apunen.com) - 712 points by [apunen](https://news.ycombinator.com/user?id=apunen), [142 comments](https://news.ycombinator.com/item?id=48976846)
+10. [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/) (vincentwoo.com) - 77 points by [akanet](https://news.ycombinator.com/user?id=akanet), [14 comments](https://news.ycombinator.com/item?id=48984254)
 
 ## 2026-07-20
 
