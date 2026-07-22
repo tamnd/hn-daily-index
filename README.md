@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 21](#2026-07-21) | [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19) | [Jul 18](#2026-07-18) | [Jul 17](#2026-07-17) | [Jul 16](#2026-07-16) | [Jul 15](#2026-07-15)
+Recent: [Jul 22](#2026-07-22) | [Jul 21](#2026-07-21) | [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19) | [Jul 18](#2026-07-18) | [Jul 17](#2026-07-17) | [Jul 16](#2026-07-16)
 
-### [2026](data/2026/) (202/202 days)
+### [2026](data/2026/) (203/203 days)
 
-[**July**](data/2026/07/) (21/21)
+[**July**](data/2026/07/) (22/22)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
 | [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) | [**12**](#2026-07-12) |
 | [**13**](#2026-07-13) | [**14**](#2026-07-14) | [**15**](#2026-07-15) | [**16**](#2026-07-16) | [**17**](#2026-07-17) | [**18**](#2026-07-18) | [**19**](#2026-07-19) |
-| [**20**](#2026-07-20) | [**21**](#2026-07-21) |  |  |  |  |  |
+| [**20**](#2026-07-20) | [**21**](#2026-07-21) | [**22**](#2026-07-22) |  |  |  |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2143,6 +2143,21 @@ Recent: [Jul 21](#2026-07-21) | [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19) | 
 </details>
 
 ---
+
+## 2026-07-22
+
+*Wednesday*
+
+1. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) (openai.com) - 725 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [490 comments](https://news.ycombinator.com/item?id=48997548)
+2. [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) (fireworks.ai) - 299 points by [piotrgrabowski](https://news.ycombinator.com/user?id=piotrgrabowski), [166 comments](https://news.ycombinator.com/item?id=48999291)
+3. [FreeInk: Open ecosystem for e-readers](https://freeink.org/) (freeink.org) - 414 points by [FriedPickles](https://news.ycombinator.com/user?id=FriedPickles), [103 comments](https://news.ycombinator.com/item?id=48996318)
+4. [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/) (terrytao.wordpress.com) - 170 points by [jeremyscanvic](https://news.ycombinator.com/user?id=jeremyscanvic), [57 comments](https://news.ycombinator.com/item?id=48998362)
+5. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) (blog.google) - 620 points by [logickkk1](https://news.ycombinator.com/user?id=logickkk1), [493 comments](https://news.ycombinator.com/item?id=48993414)
+6. [Advertise in ChatGPT](https://ads.openai.com/) (ads.openai.com) - 311 points by [montecarl](https://news.ycombinator.com/user?id=montecarl), [311 comments](https://news.ycombinator.com/item?id=48996571)
+7. ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok) (tryai.dev) - 111 points by [hershyb_](https://news.ycombinator.com/user?id=hershyb_), [40 comments](https://news.ycombinator.com/item?id=48998404)
+8. [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef) (e360.yale.edu) - 305 points by [speckx](https://news.ycombinator.com/user?id=speckx), [57 comments](https://news.ycombinator.com/item?id=48993816)
+9. [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) (runtimewire.com) - 245 points by [ryanmerket](https://news.ycombinator.com/user?id=ryanmerket), [220 comments](https://news.ycombinator.com/item?id=48995213)
+10. [Apple defeats liability for not scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm) (blog.ericgoldman.org) - 352 points by [speckx](https://news.ycombinator.com/user?id=speckx), [333 comments](https://news.ycombinator.com/item?id=48992870)
 
 ## 2026-07-21
 

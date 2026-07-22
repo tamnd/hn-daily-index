@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (21 days)
+- [July](07/) (22 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-22
+
+*Wednesday*
+
+1. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) (openai.com) - 725 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [490 comments](https://news.ycombinator.com/item?id=48997548)
+2. [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) (fireworks.ai) - 299 points by [piotrgrabowski](https://news.ycombinator.com/user?id=piotrgrabowski), [166 comments](https://news.ycombinator.com/item?id=48999291)
+3. [FreeInk: Open ecosystem for e-readers](https://freeink.org/) (freeink.org) - 414 points by [FriedPickles](https://news.ycombinator.com/user?id=FriedPickles), [103 comments](https://news.ycombinator.com/item?id=48996318)
+4. [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/) (terrytao.wordpress.com) - 170 points by [jeremyscanvic](https://news.ycombinator.com/user?id=jeremyscanvic), [57 comments](https://news.ycombinator.com/item?id=48998362)
+5. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) (blog.google) - 620 points by [logickkk1](https://news.ycombinator.com/user?id=logickkk1), [493 comments](https://news.ycombinator.com/item?id=48993414)
+6. [Advertise in ChatGPT](https://ads.openai.com/) (ads.openai.com) - 311 points by [montecarl](https://news.ycombinator.com/user?id=montecarl), [311 comments](https://news.ycombinator.com/item?id=48996571)
+7. ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok) (tryai.dev) - 111 points by [hershyb_](https://news.ycombinator.com/user?id=hershyb_), [40 comments](https://news.ycombinator.com/item?id=48998404)
+8. [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef) (e360.yale.edu) - 305 points by [speckx](https://news.ycombinator.com/user?id=speckx), [57 comments](https://news.ycombinator.com/item?id=48993816)
+9. [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) (runtimewire.com) - 245 points by [ryanmerket](https://news.ycombinator.com/user?id=ryanmerket), [220 comments](https://news.ycombinator.com/item?id=48995213)
+10. [Apple defeats liability for not scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm) (blog.ericgoldman.org) - 352 points by [speckx](https://news.ycombinator.com/user?id=speckx), [333 comments](https://news.ycombinator.com/item?id=48992870)
 
 ## 2026-07-21
 

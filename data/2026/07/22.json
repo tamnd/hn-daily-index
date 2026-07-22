@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48997548,
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "score": 725,
+    "by": "mfiguiere",
+    "descendants": 490,
+    "time": 1784664592
+  },
+  {
+    "rank": 2,
+    "id": 48999291,
+    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "url": "https://fireworks.ai/blog/kimik3-fable",
+    "score": 299,
+    "by": "piotrgrabowski",
+    "descendants": 166,
+    "time": 1784673324
+  },
+  {
+    "rank": 3,
+    "id": 48996318,
+    "title": "FreeInk: Open ecosystem for e-readers",
+    "url": "https://freeink.org/",
+    "score": 414,
+    "by": "FriedPickles",
+    "descendants": 103,
+    "time": 1784659146
+  },
+  {
+    "rank": 4,
+    "id": 48998362,
+    "title": "A digestion of the Jacobian conjecture counterexample",
+    "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+    "score": 170,
+    "by": "jeremyscanvic",
+    "descendants": 57,
+    "time": 1784668165
+  },
+  {
+    "rank": 5,
+    "id": 48993414,
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "score": 620,
+    "by": "logickkk1",
+    "descendants": 493,
+    "time": 1784647036
+  },
+  {
+    "rank": 6,
+    "id": 48996571,
+    "title": "Advertise in ChatGPT",
+    "url": "https://ads.openai.com/",
+    "score": 311,
+    "by": "montecarl",
+    "descendants": 311,
+    "time": 1784660324
+  },
+  {
+    "rank": 7,
+    "id": 48998404,
+    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "score": 111,
+    "by": "hershyb_",
+    "descendants": 40,
+    "time": 1784668400
+  },
+  {
+    "rank": 8,
+    "id": 48993816,
+    "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+    "url": "https://e360.yale.edu/digest/benin-coral-reef",
+    "score": 305,
+    "by": "speckx",
+    "descendants": 57,
+    "time": 1784648511
+  },
+  {
+    "rank": 9,
+    "id": 48995213,
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "score": 245,
+    "by": "ryanmerket",
+    "descendants": 220,
+    "time": 1784654046
+  },
+  {
+    "rank": 10,
+    "id": 48992870,
+    "title": "Apple defeats liability for not scanning iCloud for CSAM",
+    "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+    "score": 352,
+    "by": "speckx",
+    "descendants": 333,
+    "time": 1784644301
+  }
+]
