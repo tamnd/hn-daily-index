@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-23 (Thursday)](#2026-07-23)
 - [2026-07-22 (Wednesday)](#2026-07-22)
 - [2026-07-21 (Tuesday)](#2026-07-21)
 - [2026-07-20 (Monday)](#2026-07-20)
@@ -26,6 +27,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-23
+
+*Thursday*
+
+1. [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254) (codeberg.org) - 35 points by [intunderflow](https://news.ycombinator.com/user?id=intunderflow), [6 comments](https://news.ycombinator.com/item?id=49015588)
+2. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) (chatgpt.com) - 625 points by [gmays](https://news.ycombinator.com/user?id=gmays), [382 comments](https://news.ycombinator.com/item?id=49010345)
+3. [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) (resobscura.substack.com) - 167 points by [benbreen](https://news.ycombinator.com/user?id=benbreen), [77 comments](https://news.ycombinator.com/item?id=49007247)
+4. [Run large language models at home, BitTorrent‑style](https://petals.dev/) (petals.dev) - 9 points by [snorbleck](https://news.ycombinator.com/user?id=snorbleck), [0 comments](https://news.ycombinator.com/item?id=49015735)
+5. [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) (github.com) - 374 points by [syrusakbary](https://news.ycombinator.com/user?id=syrusakbary), [72 comments](https://news.ycombinator.com/item?id=49010167)
+6. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) (bento.page) - 662 points by [starfallg](https://news.ycombinator.com/user?id=starfallg), [152 comments](https://news.ycombinator.com/item?id=49008211)
+7. [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) (cnn.com) - 80 points by [effects](https://news.ycombinator.com/user?id=effects), [20 comments](https://news.ycombinator.com/item?id=49014007)
+8. [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) (dylancastillo.co) - 401 points by [dcastm](https://news.ycombinator.com/user?id=dcastm), [156 comments](https://news.ycombinator.com/item?id=49010129)
+9. [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) (mitchellh.com) - 258 points by [WadeGrimridge](https://news.ycombinator.com/user?id=WadeGrimridge), [75 comments](https://news.ycombinator.com/item?id=49010648)
+10. [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid) (github.com) - 69 points by [HenryNdubuaku](https://news.ycombinator.com/user?id=HenryNdubuaku), [12 comments](https://news.ycombinator.com/item?id=49010782)
 
 ## 2026-07-22
 

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49015588,
+    "title": "Codeberg Bans Cryptocurrency Projects",
+    "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+    "score": 35,
+    "by": "intunderflow",
+    "descendants": 6,
+    "time": 1784768816
+  },
+  {
+    "rank": 2,
+    "id": 49010345,
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "score": 625,
+    "by": "gmays",
+    "descendants": 382,
+    "time": 1784741440
+  },
+  {
+    "rank": 3,
+    "id": 49007247,
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "score": 167,
+    "by": "benbreen",
+    "descendants": 77,
+    "time": 1784729885
+  },
+  {
+    "rank": 4,
+    "id": 49015735,
+    "title": "Run large language models at home, BitTorrent\u2011style",
+    "url": "https://petals.dev/",
+    "score": 9,
+    "by": "snorbleck",
+    "descendants": 0,
+    "time": 1784770392
+  },
+  {
+    "rank": 5,
+    "id": 49010167,
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "url": "https://github.com/marcelroed/gigatoken/",
+    "score": 374,
+    "by": "syrusakbary",
+    "descendants": 72,
+    "time": 1784740838
+  },
+  {
+    "rank": 6,
+    "id": 49008211,
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "url": "https://bento.page/slides/",
+    "score": 662,
+    "by": "starfallg",
+    "descendants": 152,
+    "time": 1784733563
+  },
+  {
+    "rank": 7,
+    "id": 49014007,
+    "title": "Medici family mystery may be solved after more than 400 years",
+    "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+    "score": 80,
+    "by": "effects",
+    "descendants": 20,
+    "time": 1784757334
+  },
+  {
+    "rank": 8,
+    "id": 49010129,
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "score": 401,
+    "by": "dcastm",
+    "descendants": 156,
+    "time": 1784740674
+  },
+  {
+    "rank": 9,
+    "id": 49010648,
+    "title": "Everyone Should Know SIMD",
+    "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+    "score": 258,
+    "by": "WadeGrimridge",
+    "descendants": 75,
+    "time": 1784742498
+  },
+  {
+    "rank": 10,
+    "id": 49010782,
+    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+    "url": "https://github.com/cactus-compute/cactus-hybrid",
+    "score": 69,
+    "by": "HenryNdubuaku",
+    "descendants": 12,
+    "time": 1784742989
+  }
+]
