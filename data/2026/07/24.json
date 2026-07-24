@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49028927,
+    "title": "98.css",
+    "url": "https://jdan.github.io/98.css/#status-bar",
+    "score": 227,
+    "by": "lopespm",
+    "descendants": 45,
+    "time": 1784845829
+  },
+  {
+    "rank": 2,
+    "id": 49022152,
+    "title": "Writing by hand is good for your brain",
+    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "score": 983,
+    "by": "dwwoelfel",
+    "descendants": 481,
+    "time": 1784816683
+  },
+  {
+    "rank": 3,
+    "id": 49029538,
+    "title": "The Visual 6502",
+    "url": "http://visual6502.org/JSSim/index.html",
+    "score": 44,
+    "by": "infiniteregrets",
+    "descendants": 14,
+    "time": 1784849802
+  },
+  {
+    "rank": 4,
+    "id": 49026810,
+    "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
+    "url": "",
+    "score": 235,
+    "by": "adam_rida",
+    "descendants": 118,
+    "time": 1784834761
+  },
+  {
+    "rank": 5,
+    "id": 49007221,
+    "title": "The Beam Engine",
+    "url": "https://glinscott.github.io/beam-engine/",
+    "score": 164,
+    "by": "glinscott",
+    "descendants": 55,
+    "time": 1784729804
+  },
+  {
+    "rank": 6,
+    "id": 49024691,
+    "title": "What happened to TheNumbers.com",
+    "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+    "score": 295,
+    "by": "nickthegreek",
+    "descendants": 129,
+    "time": 1784825613
+  },
+  {
+    "rank": 7,
+    "id": 49029133,
+    "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+    "url": "https://arxiv.org/abs/2507.09369",
+    "score": 51,
+    "by": "amelius",
+    "descendants": 38,
+    "time": 1784847073
+  },
+  {
+    "rank": 8,
+    "id": 49023016,
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "score": 730,
+    "by": "theanonymousone",
+    "descendants": 653,
+    "time": 1784819920
+  },
+  {
+    "rank": 9,
+    "id": 49025984,
+    "title": "Building on ATProto",
+    "url": "https://lukekanies.com/writing/building-on-atproto/",
+    "score": 130,
+    "by": "speckx",
+    "descendants": 59,
+    "time": 1784831030
+  },
+  {
+    "rank": 10,
+    "id": 49023019,
+    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "score": 178,
+    "by": "dhorthy",
+    "descendants": 147,
+    "time": 1784819928
+  }
+]

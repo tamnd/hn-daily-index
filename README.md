@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 23](#2026-07-23) | [Jul 22](#2026-07-22) | [Jul 21](#2026-07-21) | [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19) | [Jul 18](#2026-07-18) | [Jul 17](#2026-07-17)
+Recent: [Jul 24](#2026-07-24) | [Jul 23](#2026-07-23) | [Jul 22](#2026-07-22) | [Jul 21](#2026-07-21) | [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19) | [Jul 18](#2026-07-18)
 
-### [2026](data/2026/) (204/204 days)
+### [2026](data/2026/) (205/205 days)
 
-[**July**](data/2026/07/) (23/23)
+[**July**](data/2026/07/) (24/24)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
 | [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) | [**12**](#2026-07-12) |
 | [**13**](#2026-07-13) | [**14**](#2026-07-14) | [**15**](#2026-07-15) | [**16**](#2026-07-16) | [**17**](#2026-07-17) | [**18**](#2026-07-18) | [**19**](#2026-07-19) |
-| [**20**](#2026-07-20) | [**21**](#2026-07-21) | [**22**](#2026-07-22) | [**23**](#2026-07-23) |  |  |  |
+| [**20**](#2026-07-20) | [**21**](#2026-07-21) | [**22**](#2026-07-22) | [**23**](#2026-07-23) | [**24**](#2026-07-24) |  |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2143,6 +2143,21 @@ Recent: [Jul 23](#2026-07-23) | [Jul 22](#2026-07-22) | [Jul 21](#2026-07-21) | 
 </details>
 
 ---
+
+## 2026-07-24
+
+*Friday*
+
+1. [98.css](https://jdan.github.io/98.css/#status-bar) (jdan.github.io) - 227 points by [lopespm](https://news.ycombinator.com/user?id=lopespm), [45 comments](https://news.ycombinator.com/item?id=49028927)
+2. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) (nealstephenson.substack.com) - 983 points by [dwwoelfel](https://news.ycombinator.com/user?id=dwwoelfel), [481 comments](https://news.ycombinator.com/item?id=49022152)
+3. [The Visual 6502](http://visual6502.org/JSSim/index.html) (visual6502.org) - 44 points by [infiniteregrets](https://news.ycombinator.com/user?id=infiniteregrets), [14 comments](https://news.ycombinator.com/item?id=49029538)
+4. [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) - 235 points by [adam_rida](https://news.ycombinator.com/user?id=adam_rida), [118 comments](https://news.ycombinator.com/item?id=49026810)
+5. [The Beam Engine](https://glinscott.github.io/beam-engine/) (glinscott.github.io) - 164 points by [glinscott](https://news.ycombinator.com/user?id=glinscott), [55 comments](https://news.ycombinator.com/item?id=49007221)
+6. [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) (stephenfollows.com) - 295 points by [nickthegreek](https://news.ycombinator.com/user?id=nickthegreek), [129 comments](https://news.ycombinator.com/item?id=49024691)
+7. [A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369) (arxiv.org) - 51 points by [amelius](https://news.ycombinator.com/user?id=amelius), [38 comments](https://news.ycombinator.com/item?id=49029133)
+8. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) (politico.com) - 730 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [653 comments](https://news.ycombinator.com/item?id=49023016)
+9. [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) (lukekanies.com) - 130 points by [speckx](https://news.ycombinator.com/user?id=speckx), [59 comments](https://news.ycombinator.com/item?id=49025984)
+10. [Why Software Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md) (github.com) - 178 points by [dhorthy](https://news.ycombinator.com/user?id=dhorthy), [147 comments](https://news.ycombinator.com/item?id=49023019)
 
 ## 2026-07-23
 

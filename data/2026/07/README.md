@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-24 (Friday)](#2026-07-24)
 - [2026-07-23 (Thursday)](#2026-07-23)
 - [2026-07-22 (Wednesday)](#2026-07-22)
 - [2026-07-21 (Tuesday)](#2026-07-21)
@@ -27,6 +28,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-24
+
+*Friday*
+
+1. [98.css](https://jdan.github.io/98.css/#status-bar) (jdan.github.io) - 227 points by [lopespm](https://news.ycombinator.com/user?id=lopespm), [45 comments](https://news.ycombinator.com/item?id=49028927)
+2. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) (nealstephenson.substack.com) - 983 points by [dwwoelfel](https://news.ycombinator.com/user?id=dwwoelfel), [481 comments](https://news.ycombinator.com/item?id=49022152)
+3. [The Visual 6502](http://visual6502.org/JSSim/index.html) (visual6502.org) - 44 points by [infiniteregrets](https://news.ycombinator.com/user?id=infiniteregrets), [14 comments](https://news.ycombinator.com/item?id=49029538)
+4. [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) - 235 points by [adam_rida](https://news.ycombinator.com/user?id=adam_rida), [118 comments](https://news.ycombinator.com/item?id=49026810)
+5. [The Beam Engine](https://glinscott.github.io/beam-engine/) (glinscott.github.io) - 164 points by [glinscott](https://news.ycombinator.com/user?id=glinscott), [55 comments](https://news.ycombinator.com/item?id=49007221)
+6. [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) (stephenfollows.com) - 295 points by [nickthegreek](https://news.ycombinator.com/user?id=nickthegreek), [129 comments](https://news.ycombinator.com/item?id=49024691)
+7. [A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369) (arxiv.org) - 51 points by [amelius](https://news.ycombinator.com/user?id=amelius), [38 comments](https://news.ycombinator.com/item?id=49029133)
+8. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) (politico.com) - 730 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [653 comments](https://news.ycombinator.com/item?id=49023016)
+9. [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) (lukekanies.com) - 130 points by [speckx](https://news.ycombinator.com/user?id=speckx), [59 comments](https://news.ycombinator.com/item?id=49025984)
+10. [Why Software Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md) (github.com) - 178 points by [dhorthy](https://news.ycombinator.com/user?id=dhorthy), [147 comments](https://news.ycombinator.com/item?id=49023019)
 
 ## 2026-07-23
 
