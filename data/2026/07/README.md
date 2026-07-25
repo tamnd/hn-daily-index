@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-25 (Saturday)](#2026-07-25)
 - [2026-07-24 (Friday)](#2026-07-24)
 - [2026-07-23 (Thursday)](#2026-07-23)
 - [2026-07-22 (Wednesday)](#2026-07-22)
@@ -28,6 +29,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-25
+
+*Saturday*
+
+1. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) (anthropic.com) - 1.3k points by [alvis](https://news.ycombinator.com/user?id=alvis), [711 comments](https://news.ycombinator.com/item?id=49038433)
+2. [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) (dbos.dev) - 204 points by [KraftyOne](https://news.ycombinator.com/user?id=KraftyOne), [37 comments](https://news.ycombinator.com/item?id=49040296)
+3. [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) (artificialanalysis.ai) - 143 points by [aarondong](https://news.ycombinator.com/user?id=aarondong), [86 comments](https://news.ycombinator.com/item?id=49040741)
+4. [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/) (news.st-andrews.ac.uk) - 29 points by [hhs](https://news.ycombinator.com/user?id=hhs), [1 comments](https://news.ycombinator.com/item?id=49042751)
+5. [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/) (globaloilnetwork.staffinganalytics.io) - 101 points by [eliotho](https://news.ycombinator.com/user?id=eliotho), [44 comments](https://news.ycombinator.com/item?id=49020545)
+6. [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) (hhh.hn) - 512 points by [hhh](https://news.ycombinator.com/user?id=hhh), [177 comments](https://news.ycombinator.com/item?id=49034292)
+7. [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) (arstechnica.com) - 494 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [144 comments](https://news.ycombinator.com/item?id=48973835)
+8. [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/) (essenceia.github.io) - 110 points by [random__duck](https://news.ycombinator.com/user?id=random__duck), [33 comments](https://news.ycombinator.com/item?id=48985182)
+9. [If coding has been solved, why does software keep getting worse?](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) (ptrchm.com) - 535 points by [pchm](https://news.ycombinator.com/user?id=pchm), [418 comments](https://news.ycombinator.com/item?id=49033004)
+10. [An old patent inspired the new "Y-zipper", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504) (news.mit.edu) - 132 points by [crescit_eundo](https://news.ycombinator.com/user?id=crescit_eundo), [30 comments](https://news.ycombinator.com/item?id=49008512)
 
 ## 2026-07-24
 
