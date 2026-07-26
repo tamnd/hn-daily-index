@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (25 days)
+- [July](07/) (26 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-26
+
+*Sunday*
+
+1. [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) (anatolyzenkov.com) - 581 points by [Gecko4072](https://news.ycombinator.com/user?id=Gecko4072), [135 comments](https://news.ycombinator.com/item?id=48976262)
+2. [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) (martin.janiczek.cz) - 14 points by [vinhnx](https://news.ycombinator.com/user?id=vinhnx), [3 comments](https://news.ycombinator.com/item?id=49053382)
+3. [Clinical Failure Rates over the Decades: Yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes) (science.org) - 43 points by [EA-3167](https://news.ycombinator.com/user?id=EA-3167), [25 comments](https://news.ycombinator.com/item?id=49052628)
+4. [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) (spectrum.ieee.org) - 127 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [41 comments](https://news.ycombinator.com/item?id=49051947)
+5. [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/) (blog.cloudflare.com) - 35 points by [alphabetatango](https://news.ycombinator.com/user?id=alphabetatango), [14 comments](https://news.ycombinator.com/item?id=49052564)
+6. [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf) (github.com) - 84 points by [oliculipolicula](https://news.ycombinator.com/user?id=oliculipolicula), [46 comments](https://news.ycombinator.com/item?id=49052912)
+7. [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) (claude.com) - 167 points by [mellosouls](https://news.ycombinator.com/user?id=mellosouls), [113 comments](https://news.ycombinator.com/item?id=49051361)
+8. [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/) (box2d.org) - 60 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [15 comments](https://news.ycombinator.com/item?id=49013464)
+9. [LLM Usage in Debian: Three Proposals](https://www.debian.org/vote/2026/vote_002) (debian.org) - 77 points by [zdw](https://news.ycombinator.com/user?id=zdw), [67 comments](https://news.ycombinator.com/item?id=49050859)
+10. [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) (fly.io) - 141 points by [subarctic](https://news.ycombinator.com/user?id=subarctic), [112 comments](https://news.ycombinator.com/item?id=49051369)
 
 ## 2026-07-25
 

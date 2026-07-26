@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 25](#2026-07-25) | [Jul 24](#2026-07-24) | [Jul 23](#2026-07-23) | [Jul 22](#2026-07-22) | [Jul 21](#2026-07-21) | [Jul 20](#2026-07-20) | [Jul 19](#2026-07-19)
+Recent: [Jul 26](#2026-07-26) | [Jul 25](#2026-07-25) | [Jul 24](#2026-07-24) | [Jul 23](#2026-07-23) | [Jul 22](#2026-07-22) | [Jul 21](#2026-07-21) | [Jul 20](#2026-07-20)
 
-### [2026](data/2026/) (206/206 days)
+### [2026](data/2026/) (207/207 days)
 
-[**July**](data/2026/07/) (25/25)
+[**July**](data/2026/07/) (26/26)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  | [**1**](#2026-07-01) | [**2**](#2026-07-02) | [**3**](#2026-07-03) | [**4**](#2026-07-04) | [**5**](#2026-07-05) |
 | [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) | [**12**](#2026-07-12) |
 | [**13**](#2026-07-13) | [**14**](#2026-07-14) | [**15**](#2026-07-15) | [**16**](#2026-07-16) | [**17**](#2026-07-17) | [**18**](#2026-07-18) | [**19**](#2026-07-19) |
-| [**20**](#2026-07-20) | [**21**](#2026-07-21) | [**22**](#2026-07-22) | [**23**](#2026-07-23) | [**24**](#2026-07-24) | [**25**](#2026-07-25) |  |
+| [**20**](#2026-07-20) | [**21**](#2026-07-21) | [**22**](#2026-07-22) | [**23**](#2026-07-23) | [**24**](#2026-07-24) | [**25**](#2026-07-25) | [**26**](#2026-07-26) |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2143,6 +2143,21 @@ Recent: [Jul 25](#2026-07-25) | [Jul 24](#2026-07-24) | [Jul 23](#2026-07-23) | 
 </details>
 
 ---
+
+## 2026-07-26
+
+*Sunday*
+
+1. [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) (anatolyzenkov.com) - 581 points by [Gecko4072](https://news.ycombinator.com/user?id=Gecko4072), [135 comments](https://news.ycombinator.com/item?id=48976262)
+2. [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) (martin.janiczek.cz) - 14 points by [vinhnx](https://news.ycombinator.com/user?id=vinhnx), [3 comments](https://news.ycombinator.com/item?id=49053382)
+3. [Clinical Failure Rates over the Decades: Yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes) (science.org) - 43 points by [EA-3167](https://news.ycombinator.com/user?id=EA-3167), [25 comments](https://news.ycombinator.com/item?id=49052628)
+4. [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) (spectrum.ieee.org) - 127 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [41 comments](https://news.ycombinator.com/item?id=49051947)
+5. [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/) (blog.cloudflare.com) - 35 points by [alphabetatango](https://news.ycombinator.com/user?id=alphabetatango), [14 comments](https://news.ycombinator.com/item?id=49052564)
+6. [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf) (github.com) - 84 points by [oliculipolicula](https://news.ycombinator.com/user?id=oliculipolicula), [46 comments](https://news.ycombinator.com/item?id=49052912)
+7. [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) (claude.com) - 167 points by [mellosouls](https://news.ycombinator.com/user?id=mellosouls), [113 comments](https://news.ycombinator.com/item?id=49051361)
+8. [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/) (box2d.org) - 60 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [15 comments](https://news.ycombinator.com/item?id=49013464)
+9. [LLM Usage in Debian: Three Proposals](https://www.debian.org/vote/2026/vote_002) (debian.org) - 77 points by [zdw](https://news.ycombinator.com/user?id=zdw), [67 comments](https://news.ycombinator.com/item?id=49050859)
+10. [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) (fly.io) - 141 points by [subarctic](https://news.ycombinator.com/user?id=subarctic), [112 comments](https://news.ycombinator.com/item?id=49051369)
 
 ## 2026-07-25
 

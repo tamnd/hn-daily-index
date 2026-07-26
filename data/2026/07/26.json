@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 48976262,
+    "title": "Stolen Buttons",
+    "url": "https://anatolyzenkov.com/stolen-buttons",
+    "score": 581,
+    "by": "Gecko4072",
+    "descendants": 135,
+    "time": 1784539422
+  },
+  {
+    "rank": 2,
+    "id": 49053382,
+    "title": "Systems and Delays",
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "score": 14,
+    "by": "vinhnx",
+    "descendants": 3,
+    "time": 1785026250
+  },
+  {
+    "rank": 3,
+    "id": 49052628,
+    "title": "Clinical Failure Rates over the Decades: Yikes",
+    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "score": 43,
+    "by": "EA-3167",
+    "descendants": 25,
+    "time": 1785020237
+  },
+  {
+    "rank": 4,
+    "id": 49051947,
+    "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+    "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+    "score": 127,
+    "by": "rbanffy",
+    "descendants": 41,
+    "time": 1785016102
+  },
+  {
+    "rank": 5,
+    "id": 49052564,
+    "title": "Cloudflare's new AI traffic options for customers",
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "score": 35,
+    "by": "alphabetatango",
+    "descendants": 14,
+    "time": 1785019849
+  },
+  {
+    "rank": 6,
+    "id": 49052912,
+    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+    "score": 84,
+    "by": "oliculipolicula",
+    "descendants": 46,
+    "time": 1785022370
+  },
+  {
+    "rank": 7,
+    "id": 49051361,
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "score": 167,
+    "by": "mellosouls",
+    "descendants": 113,
+    "time": 1785012155
+  },
+  {
+    "rank": 8,
+    "id": 49013464,
+    "title": "SIMD for Collision",
+    "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+    "score": 60,
+    "by": "birdculture",
+    "descendants": 15,
+    "time": 1784754599
+  },
+  {
+    "rank": 9,
+    "id": 49050859,
+    "title": "LLM Usage in Debian: Three Proposals",
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "score": 77,
+    "by": "zdw",
+    "descendants": 67,
+    "time": 1785008679
+  },
+  {
+    "rank": 10,
+    "id": 49051369,
+    "title": "Turn And Face The Strange",
+    "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+    "score": 141,
+    "by": "subarctic",
+    "descendants": 112,
+    "time": 1785012191
+  }
+]
