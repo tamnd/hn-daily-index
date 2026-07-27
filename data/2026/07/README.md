@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-27 (Monday)](#2026-07-27)
 - [2026-07-26 (Sunday)](#2026-07-26)
 - [2026-07-25 (Saturday)](#2026-07-25)
 - [2026-07-24 (Friday)](#2026-07-24)
@@ -30,6 +31,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-27
+
+*Monday*
+
+1. [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) (nikolays.github.io) - 118 points by [jonbaer](https://news.ycombinator.com/user?id=jonbaer), [18 comments](https://news.ycombinator.com/item?id=49063754)
+2. [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) (beyondloom.com) - 229 points by [tosh](https://news.ycombinator.com/user?id=tosh), [56 comments](https://news.ycombinator.com/item?id=49060856)
+3. [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in) (blackhole.plav.in) - 36 points by [aplavin](https://news.ycombinator.com/user?id=aplavin), [6 comments](https://news.ycombinator.com/item?id=49021270)
+4. [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html) (imperialviolet.org) - 81 points by [zdw](https://news.ycombinator.com/user?id=zdw), [10 comments](https://news.ycombinator.com/item?id=49062291)
+5. [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) (france24.com) - 191 points by [saaaaaam](https://news.ycombinator.com/user?id=saaaaaam), [102 comments](https://news.ycombinator.com/item?id=49060495)
+6. [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) (techspot.com) - 192 points by [eecc](https://news.ycombinator.com/user?id=eecc), [118 comments](https://news.ycombinator.com/item?id=49063022)
+7. [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) (gracefulliberty.com) - 53 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [16 comments](https://news.ycombinator.com/item?id=49062700)
+8. [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) (gamedevs.org) - 116 points by [tosh](https://news.ycombinator.com/user?id=tosh), [35 comments](https://news.ycombinator.com/item?id=49060724)
+9. [Design is compromise](https://stephango.com/design-is-compromise) (stephango.com) - 199 points by [ankitg12](https://news.ycombinator.com/user?id=ankitg12), [74 comments](https://news.ycombinator.com/item?id=49059367)
+10. [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game) (swag.htmx.org) - 365 points by [rcy](https://news.ycombinator.com/user?id=rcy), [113 comments](https://news.ycombinator.com/item?id=49057241)
 
 ## 2026-07-26
 
