@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-28 (Tuesday)](#2026-07-28)
 - [2026-07-27 (Monday)](#2026-07-27)
 - [2026-07-26 (Sunday)](#2026-07-26)
 - [2026-07-25 (Saturday)](#2026-07-25)
@@ -31,6 +32,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-28
+
+*Tuesday*
+
+1. [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) (anthropic.com) - 460 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [637 comments](https://news.ycombinator.com/item?id=49076057)
+2. [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) (github.com) - 120 points by [dhorthy](https://news.ycombinator.com/user?id=dhorthy), [28 comments](https://news.ycombinator.com/item?id=49076391)
+3. [DConf 2026 in London](https://dconf.org/2026/index.html) (dconf.org) - 46 points by [teleforce](https://news.ycombinator.com/user?id=teleforce), [15 comments](https://news.ycombinator.com/item?id=49076840)
+4. [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/) (spacedaily.com) - 49 points by [zdw](https://news.ycombinator.com/user?id=zdw), [19 comments](https://news.ycombinator.com/item?id=49076900)
+5. [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) (theconsensus.dev) - 172 points by [matheusmoreira](https://news.ycombinator.com/user?id=matheusmoreira), [17 comments](https://news.ycombinator.com/item?id=49045474)
+6. [C/C++ projects packaged for Zig](https://github.com/allyourcodebase) (github.com) - 27 points by [jcbhmr](https://news.ycombinator.com/user?id=jcbhmr), [20 comments](https://news.ycombinator.com/item?id=49076791)
+7. [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283) (arxiv.org) - 16 points by [wglb](https://news.ycombinator.com/user?id=wglb), [5 comments](https://news.ycombinator.com/item?id=49077209)
+8. [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) (rise-reforming.com) - 60 points by [george_rose25](https://news.ycombinator.com/user?id=george_rose25), [22 comments](https://news.ycombinator.com/item?id=49074817)
+9. [Three Theses on the Literacy Crisis](https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis) (trevoraleo.substack.com) - 13 points by [samclemens](https://news.ycombinator.com/user?id=samclemens), [6 comments](https://news.ycombinator.com/item?id=49050021)
+10. [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/) (gregoryszorc.com) - 114 points by [jcbhmr](https://news.ycombinator.com/user?id=jcbhmr), [22 comments](https://news.ycombinator.com/item?id=49073942)
 
 ## 2026-07-27
 

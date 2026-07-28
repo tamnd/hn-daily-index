@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49076057,
+    "title": "Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "score": 460,
+    "by": "surprisetalk",
+    "descendants": 637,
+    "time": 1785189829
+  },
+  {
+    "rank": 2,
+    "id": 49076391,
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "score": 120,
+    "by": "dhorthy",
+    "descendants": 28,
+    "time": 1785191872
+  },
+  {
+    "rank": 3,
+    "id": 49076840,
+    "title": "DConf 2026 in London",
+    "url": "https://dconf.org/2026/index.html",
+    "score": 46,
+    "by": "teleforce",
+    "descendants": 15,
+    "time": 1785194059
+  },
+  {
+    "rank": 4,
+    "id": 49076900,
+    "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+    "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+    "score": 49,
+    "by": "zdw",
+    "descendants": 19,
+    "time": 1785194359
+  },
+  {
+    "rank": 5,
+    "id": 49045474,
+    "title": "Watching Go's new garbage collector move through the heap",
+    "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+    "score": 172,
+    "by": "matheusmoreira",
+    "descendants": 17,
+    "time": 1784966119
+  },
+  {
+    "rank": 6,
+    "id": 49076791,
+    "title": "C/C++ projects packaged for Zig",
+    "url": "https://github.com/allyourcodebase",
+    "score": 27,
+    "by": "jcbhmr",
+    "descendants": 20,
+    "time": 1785193790
+  },
+  {
+    "rank": 7,
+    "id": 49077209,
+    "title": "The Burau representation of the braid group is faithful for n = 4",
+    "url": "https://arxiv.org/abs/2607.05283",
+    "score": 16,
+    "by": "wglb",
+    "descendants": 5,
+    "time": 1785195975
+  },
+  {
+    "rank": 8,
+    "id": 49074817,
+    "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
+    "url": "https://www.rise-reforming.com",
+    "score": 60,
+    "by": "george_rose25",
+    "descendants": 22,
+    "time": 1785182302
+  },
+  {
+    "rank": 9,
+    "id": 49050021,
+    "title": "Three Theses on the Literacy Crisis",
+    "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+    "score": 13,
+    "by": "samclemens",
+    "descendants": 6,
+    "time": 1785002759
+  },
+  {
+    "rank": 10,
+    "id": 49073942,
+    "title": "Self-contained highly-portable Python distributions",
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "score": 114,
+    "by": "jcbhmr",
+    "descendants": 22,
+    "time": 1785177811
+  }
+]
