@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49089755,
+    "title": "Codex Security",
+    "url": "https://github.com/openai/codex-security",
+    "score": 347,
+    "by": "bakigul",
+    "descendants": 105,
+    "time": 1785271975
+  },
+  {
+    "rank": 2,
+    "id": 49089814,
+    "title": "Half-Life ported to Mac OS 9",
+    "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+    "score": 152,
+    "by": "freediver",
+    "descendants": 65,
+    "time": 1785272319
+  },
+  {
+    "rank": 3,
+    "id": 49090607,
+    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "url": "https://github.com/twalichiewicz/HNewhere",
+    "score": 126,
+    "by": "twalichiewicz",
+    "descendants": 42,
+    "time": 1785276546
+  },
+  {
+    "rank": 4,
+    "id": 49086788,
+    "title": "Substack writers, you need a website",
+    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "score": 416,
+    "by": "speckx",
+    "descendants": 214,
+    "time": 1785257911
+  },
+  {
+    "rank": 5,
+    "id": 49055816,
+    "title": "Teach yourself programming in ten years (1998)",
+    "url": "https://www.norvig.com/21-days.html",
+    "score": 42,
+    "by": "vinhnx",
+    "descendants": 5,
+    "time": 1785053205
+  },
+  {
+    "rank": 6,
+    "id": 49091738,
+    "title": "The Difference Between a Button and a Link",
+    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "score": 29,
+    "by": "alexpetros",
+    "descendants": 13,
+    "time": 1785283934
+  },
+  {
+    "rank": 7,
+    "id": 49091730,
+    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "url": "https://www.hubble.md/",
+    "score": 29,
+    "by": "handfuloflight",
+    "descendants": 6,
+    "time": 1785283883
+  },
+  {
+    "rank": 8,
+    "id": 49086971,
+    "title": "Steel Bank Common Lisp version 2.6.7",
+    "url": "https://sbcl.org/all-news.html?2.6.7",
+    "score": 199,
+    "by": "tmtvl",
+    "descendants": 83,
+    "time": 1785258714
+  },
+  {
+    "rank": 9,
+    "id": 49091379,
+    "title": "ReFrame \u2013 The EPaper Camera",
+    "url": "https://reframe.camera/",
+    "score": 30,
+    "by": "phil294",
+    "descendants": 7,
+    "time": 1785281229
+  },
+  {
+    "rank": 10,
+    "id": 49085698,
+    "title": "Kimi K3 Architecture Overview and Notes",
+    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "score": 314,
+    "by": "ModelForge",
+    "descendants": 43,
+    "time": 1785253714
+  }
+]

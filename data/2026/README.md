@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (28 days)
+- [July](07/) (29 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-29
+
+*Wednesday*
+
+1. [Codex Security](https://github.com/openai/codex-security) (github.com) - 347 points by [bakigul](https://news.ycombinator.com/user?id=bakigul), [105 comments](https://news.ycombinator.com/item?id=49089755)
+2. [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) (mac-classic.com) - 152 points by [freediver](https://news.ycombinator.com/user?id=freediver), [65 comments](https://news.ycombinator.com/item?id=49089814)
+3. [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) (github.com) - 126 points by [twalichiewicz](https://news.ycombinator.com/user?id=twalichiewicz), [42 comments](https://news.ycombinator.com/item?id=49090607)
+4. [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) (elizabethtai.com) - 416 points by [speckx](https://news.ycombinator.com/user?id=speckx), [214 comments](https://news.ycombinator.com/item?id=49086788)
+5. [Teach yourself programming in ten years (1998)](https://www.norvig.com/21-days.html) (norvig.com) - 42 points by [vinhnx](https://news.ycombinator.com/user?id=vinhnx), [5 comments](https://news.ycombinator.com/item?id=49055816)
+6. [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/) (unplannedobsolescence.com) - 29 points by [alexpetros](https://news.ycombinator.com/user?id=alexpetros), [13 comments](https://news.ycombinator.com/item?id=49091738)
+7. [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/) (hubble.md) - 29 points by [handfuloflight](https://news.ycombinator.com/user?id=handfuloflight), [6 comments](https://news.ycombinator.com/item?id=49091730)
+8. [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7) (sbcl.org) - 199 points by [tmtvl](https://news.ycombinator.com/user?id=tmtvl), [83 comments](https://news.ycombinator.com/item?id=49086971)
+9. [ReFrame – The EPaper Camera](https://reframe.camera/) (reframe.camera) - 30 points by [phil294](https://news.ycombinator.com/user?id=phil294), [7 comments](https://news.ycombinator.com/item?id=49091379)
+10. [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html) (sebastianraschka.com) - 314 points by [ModelForge](https://news.ycombinator.com/user?id=ModelForge), [43 comments](https://news.ycombinator.com/item?id=49085698)
 
 ## 2026-07-28
 
