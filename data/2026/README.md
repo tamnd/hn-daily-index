@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [July](07/) (29 days)
+- [July](07/) (30 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
 - [April](04/) (30 days)
@@ -11,6 +11,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-07-30
+
+*Thursday*
+
+1. [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) (science.org) - 200 points by [YeGoblynQueenne](https://news.ycombinator.com/user?id=YeGoblynQueenne), [114 comments](https://news.ycombinator.com/item?id=49103285)
+2. [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) (christianselig.com) - 387 points by [robbiet480](https://news.ycombinator.com/user?id=robbiet480), [186 comments](https://news.ycombinator.com/item?id=49102774)
+3. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) (github.com) - 655 points by [gitpusher42](https://news.ycombinator.com/user?id=gitpusher42), [227 comments](https://news.ycombinator.com/item?id=49098510)
+4. [Superlogical](https://www.superlogical.com/) (superlogical.com) - 527 points by [yan](https://news.ycombinator.com/user?id=yan), [325 comments](https://news.ycombinator.com/item?id=49098965)
+5. [LLM Honeypot](https://llm2human.pages.dev/) (llm2human.pages.dev) - 51 points by [8thom](https://news.ycombinator.com/user?id=8thom), [19 comments](https://news.ycombinator.com/item?id=49104117)
+6. [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) (digitalfoundry.net) - 293 points by [JLO64](https://news.ycombinator.com/user?id=JLO64), [109 comments](https://news.ycombinator.com/item?id=49099715)
+7. [The Cold Email](https://zachholman.com/posts/cold-email) (zachholman.com) - 88 points by [holman](https://news.ycombinator.com/user?id=holman), [38 comments](https://news.ycombinator.com/item?id=49103089)
+8. [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) (huggingface.co) - 294 points by [artninja1988](https://news.ycombinator.com/user?id=artninja1988), [174 comments](https://news.ycombinator.com/item?id=49089500)
+9. [The Productivity Mirage](https://frantic.im/mirage/) (frantic.im) - 43 points by [msephton](https://news.ycombinator.com/user?id=msephton), [14 comments](https://news.ycombinator.com/item?id=49104335)
+10. [KOReader](https://koreader.rocks/) (koreader.rocks) - 665 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [211 comments](https://news.ycombinator.com/item?id=49095865)
 
 ## 2026-07-29
 
