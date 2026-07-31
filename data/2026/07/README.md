@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in July 2026.
 
+- [2026-07-31 (Friday)](#2026-07-31)
 - [2026-07-30 (Thursday)](#2026-07-30)
 - [2026-07-29 (Wednesday)](#2026-07-29)
 - [2026-07-28 (Tuesday)](#2026-07-28)
@@ -34,6 +35,21 @@ Top 10 Hacker News stories for each day in July 2026.
 - [2026-07-01 (Wednesday)](#2026-07-01)
 
 ---
+
+## 2026-07-31
+
+*Friday*
+
+1. [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) (blog.jim-nielsen.com) - 116 points by [montroser](https://news.ycombinator.com/user?id=montroser), [63 comments](https://news.ycombinator.com/item?id=49117099)
+2. [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) (krebsonsecurity.com) - 576 points by [speckx](https://news.ycombinator.com/user?id=speckx), [339 comments](https://news.ycombinator.com/item?id=49112744)
+3. [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) (geospatialml.com) - 92 points by [volumes94](https://news.ycombinator.com/user?id=volumes94), [34 comments](https://news.ycombinator.com/item?id=49116721)
+4. [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) (github.com) - 208 points by [navs](https://news.ycombinator.com/user?id=navs), [76 comments](https://news.ycombinator.com/item?id=49114639)
+5. [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) (github.blog) - 473 points by [tomzorz](https://news.ycombinator.com/user?id=tomzorz), [165 comments](https://news.ycombinator.com/item?id=49112232)
+6. [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) (deepmind.google) - 478 points by [ai2027](https://news.ycombinator.com/user?id=ai2027), [394 comments](https://news.ycombinator.com/item?id=49111237)
+7. [Destroying a Community with a Gigantic "Clogged Vacuum Cleaner"](https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122) (gizmodo.com) - 60 points by [ghuroo1](https://news.ycombinator.com/user?id=ghuroo1), [34 comments](https://news.ycombinator.com/item?id=49068760)
+8. [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/) (buttondown.com) - 17 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [4 comments](https://news.ycombinator.com/item?id=49073017)
+9. [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release) (rune.build) - 50 points by [ernestrc](https://news.ycombinator.com/user?id=ernestrc), [14 comments](https://news.ycombinator.com/item?id=49116272)
+10. [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/) (chriscoyier.net) - 133 points by [robin_reala](https://news.ycombinator.com/user?id=robin_reala), [38 comments](https://news.ycombinator.com/item?id=49113338)
 
 ## 2026-07-30
 

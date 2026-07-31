@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28) | [Jul 27](#2026-07-27) | [Jul 26](#2026-07-26) | [Jul 25](#2026-07-25) | [Jul 24](#2026-07-24)
+Recent: [Jul 31](#2026-07-31) | [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28) | [Jul 27](#2026-07-27) | [Jul 26](#2026-07-26) | [Jul 25](#2026-07-25)
 
-### [2026](data/2026/) (211/211 days)
+### [2026](data/2026/) (212/212 days)
 
-[**July**](data/2026/07/) (30/30)
+[**July**](data/2026/07/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28) | 
 | [**6**](#2026-07-06) | [**7**](#2026-07-07) | [**8**](#2026-07-08) | [**9**](#2026-07-09) | [**10**](#2026-07-10) | [**11**](#2026-07-11) | [**12**](#2026-07-12) |
 | [**13**](#2026-07-13) | [**14**](#2026-07-14) | [**15**](#2026-07-15) | [**16**](#2026-07-16) | [**17**](#2026-07-17) | [**18**](#2026-07-18) | [**19**](#2026-07-19) |
 | [**20**](#2026-07-20) | [**21**](#2026-07-21) | [**22**](#2026-07-22) | [**23**](#2026-07-23) | [**24**](#2026-07-24) | [**25**](#2026-07-25) | [**26**](#2026-07-26) |
-| [**27**](#2026-07-27) | [**28**](#2026-07-28) | [**29**](#2026-07-29) | [**30**](#2026-07-30) |  |  |  |
+| [**27**](#2026-07-27) | [**28**](#2026-07-28) | [**29**](#2026-07-29) | [**30**](#2026-07-30) | [**31**](#2026-07-31) |  |  |
 
 [**June**](data/2026/06/) (30/30)
 
@@ -2144,6 +2144,21 @@ Recent: [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28) | 
 </details>
 
 ---
+
+## 2026-07-31
+
+*Friday*
+
+1. [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) (blog.jim-nielsen.com) - 116 points by [montroser](https://news.ycombinator.com/user?id=montroser), [63 comments](https://news.ycombinator.com/item?id=49117099)
+2. [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) (krebsonsecurity.com) - 576 points by [speckx](https://news.ycombinator.com/user?id=speckx), [339 comments](https://news.ycombinator.com/item?id=49112744)
+3. [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) (geospatialml.com) - 92 points by [volumes94](https://news.ycombinator.com/user?id=volumes94), [34 comments](https://news.ycombinator.com/item?id=49116721)
+4. [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) (github.com) - 208 points by [navs](https://news.ycombinator.com/user?id=navs), [76 comments](https://news.ycombinator.com/item?id=49114639)
+5. [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) (github.blog) - 473 points by [tomzorz](https://news.ycombinator.com/user?id=tomzorz), [165 comments](https://news.ycombinator.com/item?id=49112232)
+6. [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) (deepmind.google) - 478 points by [ai2027](https://news.ycombinator.com/user?id=ai2027), [394 comments](https://news.ycombinator.com/item?id=49111237)
+7. [Destroying a Community with a Gigantic "Clogged Vacuum Cleaner"](https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122) (gizmodo.com) - 60 points by [ghuroo1](https://news.ycombinator.com/user?id=ghuroo1), [34 comments](https://news.ycombinator.com/item?id=49068760)
+8. [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/) (buttondown.com) - 17 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [4 comments](https://news.ycombinator.com/item?id=49073017)
+9. [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release) (rune.build) - 50 points by [ernestrc](https://news.ycombinator.com/user?id=ernestrc), [14 comments](https://news.ycombinator.com/item?id=49116272)
+10. [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/) (chriscoyier.net) - 133 points by [robin_reala](https://news.ycombinator.com/user?id=robin_reala), [38 comments](https://news.ycombinator.com/item?id=49113338)
 
 ## 2026-07-30
 

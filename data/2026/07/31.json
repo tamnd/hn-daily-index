@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49117099,
+    "title": "The AI Aesthetic",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "score": 116,
+    "by": "montroser",
+    "descendants": 63,
+    "time": 1785453736
+  },
+  {
+    "rank": 2,
+    "id": 49112744,
+    "title": "Read this before you buy that TV streaming stick",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "score": 576,
+    "by": "speckx",
+    "descendants": 339,
+    "time": 1785431093
+  },
+  {
+    "rank": 3,
+    "id": 49116721,
+    "title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "score": 92,
+    "by": "volumes94",
+    "descendants": 34,
+    "time": 1785450791
+  },
+  {
+    "rank": 4,
+    "id": 49114639,
+    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+    "url": "https://github.com/AminBlg/SimpleEnglish",
+    "score": 208,
+    "by": "navs",
+    "descendants": 76,
+    "time": 1785440067
+  },
+  {
+    "rank": 5,
+    "id": 49112232,
+    "title": "Stacked PRs are now live on GitHub",
+    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "score": 473,
+    "by": "tomzorz",
+    "descendants": 165,
+    "time": 1785428776
+  },
+  {
+    "rank": 6,
+    "id": 49111237,
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "score": 478,
+    "by": "ai2027",
+    "descendants": 394,
+    "time": 1785424548
+  },
+  {
+    "rank": 7,
+    "id": 49068760,
+    "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
+    "url": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+    "score": 60,
+    "by": "ghuroo1",
+    "descendants": 34,
+    "time": 1785155630
+  },
+  {
+    "rank": 8,
+    "id": 49073017,
+    "title": "The American Grilled Cheese Sandwich Essay (2024)",
+    "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+    "score": 17,
+    "by": "NaOH",
+    "descendants": 4,
+    "time": 1785173852
+  },
+  {
+    "rank": 9,
+    "id": 49116272,
+    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+    "url": "https://rune.build/blog/rune-1-1-release",
+    "score": 50,
+    "by": "ernestrc",
+    "descendants": 14,
+    "time": 1785448051
+  },
+  {
+    "rank": 10,
+    "id": 49113338,
+    "title": "CodePen 2.0",
+    "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+    "score": 133,
+    "by": "robin_reala",
+    "descendants": 38,
+    "time": 1785433971
+  }
+]
