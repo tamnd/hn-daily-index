@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49124218,
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 890,
+    "by": "Jrh0203",
+    "descendants": 223,
+    "time": 1785511048
+  },
+  {
+    "rank": 2,
+    "id": 49126604,
+    "title": "qm \u2013 Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "score": 468,
+    "by": "tosh",
+    "descendants": 101,
+    "time": 1785521098
+  },
+  {
+    "rank": 3,
+    "id": 49083599,
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "url": "https://weeraman.com/because-we-can/",
+    "score": 170,
+    "by": "aweeraman",
+    "descendants": 69,
+    "time": 1785245485
+  },
+  {
+    "rank": 4,
+    "id": 49117089,
+    "title": "The Absurdity of Albert Camus",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "score": 52,
+    "by": "apollinaire",
+    "descendants": 33,
+    "time": 1785453677
+  },
+  {
+    "rank": 5,
+    "id": 49126765,
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "score": 107,
+    "by": "iamnothere",
+    "descendants": 32,
+    "time": 1785521872
+  },
+  {
+    "rank": 6,
+    "id": 49121196,
+    "title": "Progressive Web Components",
+    "url": "https://arielsalminen.com/2026/progressive-web-components/",
+    "score": 93,
+    "by": "hosteur",
+    "descendants": 14,
+    "time": 1785492280
+  },
+  {
+    "rank": 7,
+    "id": 49124858,
+    "title": "Big Food vs. the People",
+    "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "score": 194,
+    "by": "jruohonen",
+    "descendants": 132,
+    "time": 1785513872
+  },
+  {
+    "rank": 8,
+    "id": 49129990,
+    "title": "How to Exist",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "score": 13,
+    "by": "walterbell",
+    "descendants": 1,
+    "time": 1785543900
+  },
+  {
+    "rank": 9,
+    "id": 49125034,
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "score": 142,
+    "by": "speckx",
+    "descendants": 84,
+    "time": 1785514531
+  },
+  {
+    "rank": 10,
+    "id": 49127306,
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 467,
+    "by": "bluehatbrit",
+    "descendants": 178,
+    "time": 1785524625
+  }
+]
