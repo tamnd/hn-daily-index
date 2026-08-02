@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31) | [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28) | [Jul 27](#2026-07-27) | [Jul 26](#2026-07-26)
+Recent: [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31) | [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28) | [Jul 27](#2026-07-27)
 
-### [2026](data/2026/) (213/213 days)
+### [2026](data/2026/) (214/214 days)
 
-[**August**](data/2026/08/) (1/1)
+[**August**](data/2026/08/) (2/2)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  |  |  |  | [**1**](#2026-08-01) |  |
+|  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2150,6 +2150,21 @@ Recent: [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31) | [Jul 30](#2026-07-30) | 
 </details>
 
 ---
+
+## 2026-08-02
+
+*Sunday*
+
+1. [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) (victoriametrics.com) - 14 points by [Hixon10](https://news.ycombinator.com/user?id=Hixon10), [1 comments](https://news.ycombinator.com/item?id=49140218)
+2. [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) (seed.bytedance.com) - 180 points by [njaremko](https://news.ycombinator.com/user?id=njaremko), [82 comments](https://news.ycombinator.com/item?id=49138302)
+3. [Diátaxis](https://diataxis.fr/) (diataxis.fr) - 197 points by [ryanseys](https://news.ycombinator.com/user?id=ryanseys), [30 comments](https://news.ycombinator.com/item?id=49138188)
+4. [AI financial advice is surprisingly good, especially if you ask right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions) (mitsloan.mit.edu) - 164 points by [foxtrot8672](https://news.ycombinator.com/user?id=foxtrot8672), [119 comments](https://news.ycombinator.com/item?id=49139102)
+5. [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html) (rfc-editor.org) - 22 points by [Jimmc414](https://news.ycombinator.com/user?id=Jimmc414), [0 comments](https://news.ycombinator.com/item?id=49139711)
+6. [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/) (leodemoura.github.io) - 116 points by [juhopitk](https://news.ycombinator.com/user?id=juhopitk), [41 comments](https://news.ycombinator.com/item?id=49137060)
+7. [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28) (kyoto-u.ac.jp) - 35 points by [hhs](https://news.ycombinator.com/user?id=hhs), [11 comments](https://news.ycombinator.com/item?id=49139383)
+8. [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html) (raymii.org) - 65 points by [jandeboevrie](https://news.ycombinator.com/user?id=jandeboevrie), [4 comments](https://news.ycombinator.com/item?id=49137713)
+9. [We accidentally built an LLVM compiler for Jax](https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/) (iza.ac) - 10 points by [infinitewalk](https://news.ycombinator.com/user?id=infinitewalk), [1 comments](https://news.ycombinator.com/item?id=49117303)
+10. [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2) (nostarch.com) - 190 points by [0x54MUR41](https://news.ycombinator.com/user?id=0x54MUR41), [86 comments](https://news.ycombinator.com/item?id=49134599)
 
 ## 2026-08-01
 

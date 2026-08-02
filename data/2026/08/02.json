@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49140218,
+    "title": "Go 1.27 Interactive Tour",
+    "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+    "score": 14,
+    "by": "Hixon10",
+    "descendants": 1,
+    "time": 1785634551
+  },
+  {
+    "rank": 2,
+    "id": 49138302,
+    "title": "Seedance 2.5",
+    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "score": 180,
+    "by": "njaremko",
+    "descendants": 82,
+    "time": 1785617112
+  },
+  {
+    "rank": 3,
+    "id": 49138188,
+    "title": "Di\u00e1taxis",
+    "url": "https://diataxis.fr/",
+    "score": 197,
+    "by": "ryanseys",
+    "descendants": 30,
+    "time": 1785616407
+  },
+  {
+    "rank": 4,
+    "id": 49139102,
+    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "score": 164,
+    "by": "foxtrot8672",
+    "descendants": 119,
+    "time": 1785623112
+  },
+  {
+    "rank": 5,
+    "id": 49139711,
+    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+    "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+    "score": 22,
+    "by": "Jimmc414",
+    "descendants": 0,
+    "time": 1785627895
+  },
+  {
+    "rank": 6,
+    "id": 49137060,
+    "title": "Postmortem for Kernel Soundness Bug #14576",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "score": 116,
+    "by": "juhopitk",
+    "descendants": 41,
+    "time": 1785609140
+  },
+  {
+    "rank": 7,
+    "id": 49139383,
+    "title": "Unraveling the mysteries of habit formation",
+    "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+    "score": 35,
+    "by": "hhs",
+    "descendants": 11,
+    "time": 1785624952
+  },
+  {
+    "rank": 8,
+    "id": 49137713,
+    "title": "But can your calculator run Linux?",
+    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+    "score": 65,
+    "by": "jandeboevrie",
+    "descendants": 4,
+    "time": 1785613488
+  },
+  {
+    "rank": 9,
+    "id": 49117303,
+    "title": "We accidentally built an LLVM compiler for Jax",
+    "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
+    "score": 10,
+    "by": "infinitewalk",
+    "descendants": 1,
+    "time": 1785455165
+  },
+  {
+    "rank": 10,
+    "id": 49134599,
+    "title": "The Art of 64-bit Assembly",
+    "url": "https://nostarch.com/art-64-bit-assembly-v2",
+    "score": 190,
+    "by": "0x54MUR41",
+    "descendants": 86,
+    "time": 1785593340
+  }
+]
