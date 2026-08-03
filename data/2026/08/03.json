@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49149898,
+    "title": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
+    "url": "https://github.com/johnsonjh/cpm386",
+    "score": 22,
+    "by": "TMWNN",
+    "descendants": 5,
+    "time": 1785717490
+  },
+  {
+    "rank": 2,
+    "id": 49149746,
+    "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "score": 41,
+    "by": "pizzaiolo",
+    "descendants": 18,
+    "time": 1785715936
+  },
+  {
+    "rank": 3,
+    "id": 49140998,
+    "title": "Karpathy\u2019s Pelican",
+    "url": "https://twitter.com/karpathy/status/2083749667410727319",
+    "score": 442,
+    "by": "delichon",
+    "descendants": 345,
+    "time": 1785643556
+  },
+  {
+    "rank": 4,
+    "id": 49149966,
+    "title": "Show HN: Isopolis \u2013 isometric pixel map of SF",
+    "url": "https://sf.isopolis.city/",
+    "score": 26,
+    "by": "nuwandavek",
+    "descendants": 5,
+    "time": 1785717998
+  },
+  {
+    "rank": 5,
+    "id": 49122655,
+    "title": "Autoregressive Language Model on the 6502 Processor",
+    "url": "https://mattbeton.com/blog/bitnet-6502.html",
+    "score": 61,
+    "by": "nmstoker",
+    "descendants": 6,
+    "time": 1785503310
+  },
+  {
+    "rank": 6,
+    "id": 49145937,
+    "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+    "url": "https://github.com/wie-project/kakehashi",
+    "score": 184,
+    "by": "vlad_kalinkin",
+    "descendants": 39,
+    "time": 1785688000
+  },
+  {
+    "rank": 7,
+    "id": 49084324,
+    "title": "Note-Taking and Personal Knowledge Management",
+    "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+    "score": 134,
+    "by": "surprisetalk",
+    "descendants": 39,
+    "time": 1785248470
+  },
+  {
+    "rank": 8,
+    "id": 49149805,
+    "title": "Show HN: ssh ssh.place",
+    "url": "https://ssh.place",
+    "score": 19,
+    "by": "jeninh",
+    "descendants": 7,
+    "time": 1785716601
+  },
+  {
+    "rank": 9,
+    "id": 49150181,
+    "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+    "score": 10,
+    "by": "Jimmc414",
+    "descendants": 1,
+    "time": 1785720206
+  },
+  {
+    "rank": 10,
+    "id": 49097961,
+    "title": "Developers are attached to tools because tools encode trust",
+    "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+    "score": 155,
+    "by": "HieronymusBosch",
+    "descendants": 79,
+    "time": 1785335154
+  }
+]

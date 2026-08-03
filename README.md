@@ -13,15 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31) | [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28) | [Jul 27](#2026-07-27)
+Recent: [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31) | [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28)
 
-### [2026](data/2026/) (214/214 days)
+### [2026](data/2026/) (215/215 days)
 
-[**August**](data/2026/08/) (2/2)
+[**August**](data/2026/08/) (3/3)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
+| [**3**](#2026-08-03) |  |  |  |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2150,6 +2151,21 @@ Recent: [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31) | 
 </details>
 
 ---
+
+## 2026-08-03
+
+*Monday*
+
+1. [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386) (github.com) - 22 points by [TMWNN](https://news.ycombinator.com/user?id=TMWNN), [5 comments](https://news.ycombinator.com/item?id=49149898)
+2. [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/) (andreagrandi.it) - 41 points by [pizzaiolo](https://news.ycombinator.com/user?id=pizzaiolo), [18 comments](https://news.ycombinator.com/item?id=49149746)
+3. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) (twitter.com) - 442 points by [delichon](https://news.ycombinator.com/user?id=delichon), [345 comments](https://news.ycombinator.com/item?id=49140998)
+4. [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/) (sf.isopolis.city) - 26 points by [nuwandavek](https://news.ycombinator.com/user?id=nuwandavek), [5 comments](https://news.ycombinator.com/item?id=49149966)
+5. [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html) (mattbeton.com) - 61 points by [nmstoker](https://news.ycombinator.com/user?id=nmstoker), [6 comments](https://news.ycombinator.com/item?id=49122655)
+6. [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi) (github.com) - 184 points by [vlad_kalinkin](https://news.ycombinator.com/user?id=vlad_kalinkin), [39 comments](https://news.ycombinator.com/item?id=49145937)
+7. [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management) (unattributed.cc) - 134 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [39 comments](https://news.ycombinator.com/item?id=49084324)
+8. [Show HN: ssh ssh.place](https://ssh.place) (ssh.place) - 19 points by [jeninh](https://news.ycombinator.com/user?id=jeninh), [7 comments](https://news.ycombinator.com/item?id=49149805)
+9. [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html) (rfc-editor.org) - 10 points by [Jimmc414](https://news.ycombinator.com/user?id=Jimmc414), [1 comments](https://news.ycombinator.com/item?id=49150181)
+10. [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/) (stackoverflow.blog) - 155 points by [HieronymusBosch](https://news.ycombinator.com/user?id=HieronymusBosch), [79 comments](https://news.ycombinator.com/item?id=49097961)
 
 ## 2026-08-02
 
