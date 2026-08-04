@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31) | [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29) | [Jul 28](#2026-07-28)
+Recent: [Aug 04](#2026-08-04) | [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31) | [Jul 30](#2026-07-30) | [Jul 29](#2026-07-29)
 
-### [2026](data/2026/) (215/215 days)
+### [2026](data/2026/) (216/216 days)
 
-[**August**](data/2026/08/) (3/3)
+[**August**](data/2026/08/) (4/4)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
-| [**3**](#2026-08-03) |  |  |  |  |  |  |
+| [**3**](#2026-08-03) | [**4**](#2026-08-04) |  |  |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2151,6 +2151,21 @@ Recent: [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01) | 
 </details>
 
 ---
+
+## 2026-08-04
+
+*Tuesday*
+
+1. [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) (seangoedecke.com) - 449 points by [MaxMussio](https://news.ycombinator.com/user?id=MaxMussio), [195 comments](https://news.ycombinator.com/item?id=49161518)
+2. [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) (science.org) - 24 points by [marojejian](https://news.ycombinator.com/user?id=marojejian), [10 comments](https://news.ycombinator.com/item?id=49099336)
+3. [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) (openai.com) - 434 points by [milkshakes](https://news.ycombinator.com/user?id=milkshakes), [716 comments](https://news.ycombinator.com/item?id=49157930)
+4. [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683) - 107 points by [whoishiring](https://news.ycombinator.com/user?id=whoishiring), [103 comments](https://news.ycombinator.com/item?id=49156683)
+5. [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) (blog.exe.dev) - 504 points by [bryanmikaelian](https://news.ycombinator.com/user?id=bryanmikaelian), [178 comments](https://news.ycombinator.com/item?id=49156111)
+6. [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/) (virtuallyfun.com) - 58 points by [jandeboevrie](https://news.ycombinator.com/user?id=jandeboevrie), [28 comments](https://news.ycombinator.com/item?id=49162086)
+7. [Ask HN: Who wants to be hired? (August 2026)](https://news.ycombinator.com/item?id=49156682) - 54 points by [whoishiring](https://news.ycombinator.com/user?id=whoishiring), [180 comments](https://news.ycombinator.com/item?id=49156682)
+8. [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/) (blog.cloudflare.com) - 145 points by [ascorbic](https://news.ycombinator.com/user?id=ascorbic), [39 comments](https://news.ycombinator.com/item?id=49158581)
+9. [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) (blog.comfy.org) - 255 points by [vblanco](https://news.ycombinator.com/user?id=vblanco), [79 comments](https://news.ycombinator.com/item?id=49155629)
+10. [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) (changelog.complete.org) - 127 points by [roryirvine](https://news.ycombinator.com/user?id=roryirvine), [35 comments](https://news.ycombinator.com/item?id=49158474)
 
 ## 2026-08-03
 

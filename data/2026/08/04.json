@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49161518,
+    "title": "LLMs reward expertise",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "score": 449,
+    "by": "MaxMussio",
+    "descendants": 195,
+    "time": 1785791633
+  },
+  {
+    "rank": 2,
+    "id": 49099336,
+    "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+    "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+    "score": 24,
+    "by": "marojejian",
+    "descendants": 10,
+    "time": 1785341266
+  },
+  {
+    "rank": 3,
+    "id": 49157930,
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "score": 434,
+    "by": "milkshakes",
+    "descendants": 716,
+    "time": 1785774432
+  },
+  {
+    "rank": 4,
+    "id": 49156683,
+    "title": "Ask HN: Who is hiring? (August 2026)",
+    "url": "",
+    "score": 107,
+    "by": "whoishiring",
+    "descendants": 103,
+    "time": 1785769254
+  },
+  {
+    "rank": 5,
+    "id": 49156111,
+    "title": "Devtools must be open source",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "score": 504,
+    "by": "bryanmikaelian",
+    "descendants": 178,
+    "time": 1785766547
+  },
+  {
+    "rank": 6,
+    "id": 49162086,
+    "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+    "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+    "score": 58,
+    "by": "jandeboevrie",
+    "descendants": 28,
+    "time": 1785794689
+  },
+  {
+    "rank": 7,
+    "id": 49156682,
+    "title": "Ask HN: Who wants to be hired? (August 2026)",
+    "url": "",
+    "score": 54,
+    "by": "whoishiring",
+    "descendants": 180,
+    "time": 1785769254
+  },
+  {
+    "rank": 8,
+    "id": 49158581,
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "score": 145,
+    "by": "ascorbic",
+    "descendants": 39,
+    "time": 1785776926
+  },
+  {
+    "rank": 9,
+    "id": 49155629,
+    "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+    "score": 255,
+    "by": "vblanco",
+    "descendants": 79,
+    "time": 1785764083
+  },
+  {
+    "rank": 10,
+    "id": 49158474,
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "score": 127,
+    "by": "roryirvine",
+    "descendants": 35,
+    "time": 1785776530
+  }
+]
