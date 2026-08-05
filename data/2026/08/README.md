@@ -2,12 +2,28 @@
 
 Top 10 Hacker News stories for each day in August 2026.
 
+- [2026-08-05 (Wednesday)](#2026-08-05)
 - [2026-08-04 (Tuesday)](#2026-08-04)
 - [2026-08-03 (Monday)](#2026-08-03)
 - [2026-08-02 (Sunday)](#2026-08-02)
 - [2026-08-01 (Saturday)](#2026-08-01)
 
 ---
+
+## 2026-08-05
+
+*Wednesday*
+
+1. [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) (blog.hartwork.org) - 121 points by [spyc](https://news.ycombinator.com/user?id=spyc), [4 comments](https://news.ycombinator.com/item?id=49176606)
+2. [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963) (queue.acm.org) - 58 points by [tchalla](https://news.ycombinator.com/user?id=tchalla), [25 comments](https://news.ycombinator.com/item?id=49176830)
+3. [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/) (earendil.com) - 102 points by [luispa](https://news.ycombinator.com/user?id=luispa), [28 comments](https://news.ycombinator.com/item?id=49176038)
+4. [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837) (twitter.com) - 171 points by [mattsterett](https://news.ycombinator.com/user?id=mattsterett), [85 comments](https://news.ycombinator.com/item?id=49174900)
+5. [We finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/) (seg6.space) - 61 points by [seg6](https://news.ycombinator.com/user?id=seg6), [43 comments](https://news.ycombinator.com/item?id=49176055)
+6. [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) (mysk.blog) - 37 points by [lapcat](https://news.ycombinator.com/user?id=lapcat), [4 comments](https://news.ycombinator.com/item?id=49176697)
+7. [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/) (mistral.ai) - 310 points by [riadsila](https://news.ycombinator.com/user?id=riadsila), [74 comments](https://news.ycombinator.com/item?id=49171268)
+8. [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html) (techascent.com) - 53 points by [sourdecor](https://news.ycombinator.com/user?id=sourdecor), [5 comments](https://news.ycombinator.com/item?id=49175924)
+9. [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/) (toneyalexander.github.io) - 466 points by [automatoney](https://news.ycombinator.com/user?id=automatoney), [88 comments](https://news.ycombinator.com/item?id=49170165)
+10. [Pass the Passkey: A Novel Attack Surface in Passwordless Authentication](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/) (unit42.paloaltonetworks.com) - 36 points by [jchanimal](https://news.ycombinator.com/user?id=jchanimal), [32 comments](https://news.ycombinator.com/item?id=49176644)
 
 ## 2026-08-04
 

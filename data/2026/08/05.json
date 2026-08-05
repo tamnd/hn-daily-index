@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49176606,
+    "title": "libexpat now funded by the City of Munich for up to 6 months",
+    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+    "score": 121,
+    "by": "spyc",
+    "descendants": 4,
+    "time": 1785885492
+  },
+  {
+    "rank": 2,
+    "id": 49176830,
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "url": "https://queue.acm.org/detail.cfm?id=3807963",
+    "score": 58,
+    "by": "tchalla",
+    "descendants": 25,
+    "time": 1785887452
+  },
+  {
+    "rank": 3,
+    "id": 49176038,
+    "title": "Pi's Minimalism Is Its Advantage",
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "score": 102,
+    "by": "luispa",
+    "descendants": 28,
+    "time": 1785882132
+  },
+  {
+    "rank": 4,
+    "id": 49174900,
+    "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+    "url": "https://twitter.com/gwern/status/2084739205071343837",
+    "score": 171,
+    "by": "mattsterett",
+    "descendants": 85,
+    "time": 1785876497
+  },
+  {
+    "rank": 5,
+    "id": 49176055,
+    "title": "We finally learned to center a div, then browsers added sidebars",
+    "url": "https://seg6.space/posts/center-div/",
+    "score": 61,
+    "by": "seg6",
+    "descendants": 43,
+    "time": 1785882240
+  },
+  {
+    "rank": 6,
+    "id": 49176697,
+    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "score": 37,
+    "by": "lapcat",
+    "descendants": 4,
+    "time": 1785886306
+  },
+  {
+    "rank": 7,
+    "id": 49171268,
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "score": 310,
+    "by": "riadsila",
+    "descendants": 74,
+    "time": 1785861365
+  },
+  {
+    "rank": 8,
+    "id": 49175924,
+    "title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
+    "url": "https://techascent.com/blog/just-ducking-around.html",
+    "score": 53,
+    "by": "sourdecor",
+    "descendants": 5,
+    "time": 1785881383
+  },
+  {
+    "rank": 9,
+    "id": 49170165,
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "score": 466,
+    "by": "automatoney",
+    "descendants": 88,
+    "time": 1785856582
+  },
+  {
+    "rank": 10,
+    "id": 49176644,
+    "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+    "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+    "score": 36,
+    "by": "jchanimal",
+    "descendants": 32,
+    "time": 1785885757
+  }
+]
