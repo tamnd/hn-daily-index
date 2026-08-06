@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49184960,
+    "title": "Discovery Loop",
+    "url": "https://www.discoveryloop.com/",
+    "score": 598,
+    "by": "xtreak29",
+    "descendants": 383,
+    "time": 1785946784
+  },
+  {
+    "rank": 2,
+    "id": 49187256,
+    "title": "Zed DeltaDB",
+    "url": "https://zed.dev/deltadb",
+    "score": 304,
+    "by": "ahamez",
+    "descendants": 156,
+    "time": 1785955974
+  },
+  {
+    "rank": 3,
+    "id": 49189287,
+    "title": "The title cards in Blade Runner are amazing",
+    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "score": 144,
+    "by": "ExMachina73",
+    "descendants": 62,
+    "time": 1785965363
+  },
+  {
+    "rank": 4,
+    "id": 49184755,
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "score": 476,
+    "by": "colesantiago",
+    "descendants": 593,
+    "time": 1785945931
+  },
+  {
+    "rank": 5,
+    "id": 49187575,
+    "title": "Muse Code and Muse Spark 1.2",
+    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "score": 177,
+    "by": "paulkrush",
+    "descendants": 105,
+    "time": 1785957352
+  },
+  {
+    "rank": 6,
+    "id": 49186762,
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "score": 226,
+    "by": "moonikakiss",
+    "descendants": 47,
+    "time": 1785953936
+  },
+  {
+    "rank": 7,
+    "id": 49189075,
+    "title": "Prime Agent: A self-improving RLM agent",
+    "url": "https://www.primeintellect.ai/blog/prime-agent",
+    "score": 105,
+    "by": "Xeophon",
+    "descendants": 19,
+    "time": 1785964317
+  },
+  {
+    "rank": 8,
+    "id": 49185983,
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "score": 171,
+    "by": "hackerBanana",
+    "descendants": 68,
+    "time": 1785950605
+  },
+  {
+    "rank": 9,
+    "id": 49151991,
+    "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+    "url": "https://www.greyblake.com/blog/branchless-rust/",
+    "score": 14,
+    "by": "greyblake",
+    "descendants": 0,
+    "time": 1785739025
+  },
+  {
+    "rank": 10,
+    "id": 49187061,
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "score": 131,
+    "by": "lladnar",
+    "descendants": 141,
+    "time": 1785955069
+  }
+]

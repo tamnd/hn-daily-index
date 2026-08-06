@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (5 days)
+- [August](08/) (6 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-06
+
+*Thursday*
+
+1. [Discovery Loop](https://www.discoveryloop.com/) (discoveryloop.com) - 598 points by [xtreak29](https://news.ycombinator.com/user?id=xtreak29), [383 comments](https://news.ycombinator.com/item?id=49184960)
+2. [Zed DeltaDB](https://zed.dev/deltadb) (zed.dev) - 304 points by [ahamez](https://news.ycombinator.com/user?id=ahamez), [156 comments](https://news.ycombinator.com/item?id=49187256)
+3. [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) (randsinrepose.com) - 144 points by [ExMachina73](https://news.ycombinator.com/user?id=ExMachina73), [62 comments](https://news.ycombinator.com/item?id=49189287)
+4. [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) (blog.google) - 476 points by [colesantiago](https://news.ycombinator.com/user?id=colesantiago), [593 comments](https://news.ycombinator.com/item?id=49184755)
+5. [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) (research.meta.ai) - 177 points by [paulkrush](https://news.ycombinator.com/user?id=paulkrush), [105 comments](https://news.ycombinator.com/item?id=49187575)
+6. [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) (neon.com) - 226 points by [moonikakiss](https://news.ycombinator.com/user?id=moonikakiss), [47 comments](https://news.ycombinator.com/item?id=49186762)
+7. [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent) (primeintellect.ai) - 105 points by [Xeophon](https://news.ycombinator.com/user?id=Xeophon), [19 comments](https://news.ycombinator.com/item?id=49189075)
+8. [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data) (promptarmor.com) - 171 points by [hackerBanana](https://news.ycombinator.com/user?id=hackerBanana), [68 comments](https://news.ycombinator.com/item?id=49185983)
+9. [Branchless Rust: Making a Filter 4x Faster by Removing an If](https://www.greyblake.com/blog/branchless-rust/) (greyblake.com) - 14 points by [greyblake](https://news.ycombinator.com/user?id=greyblake), [0 comments](https://news.ycombinator.com/item?id=49151991)
+10. [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) (blog.fogus.me) - 131 points by [lladnar](https://news.ycombinator.com/user?id=lladnar), [141 comments](https://news.ycombinator.com/item?id=49187061)
 
 ## 2026-08-05
 
