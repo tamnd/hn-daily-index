@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04) | [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01) | [Jul 31](#2026-07-31)
+Recent: [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04) | [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01)
 
-### [2026](data/2026/) (218/218 days)
+### [2026](data/2026/) (219/219 days)
 
-[**August**](data/2026/08/) (6/6)
+[**August**](data/2026/08/) (7/7)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
-| [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) |  |  |  |
+| [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2151,6 +2151,21 @@ Recent: [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04) | 
 </details>
 
 ---
+
+## 2026-08-07
+
+*Friday*
+
+1. [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) (theregister.com) - 388 points by [itvision](https://news.ycombinator.com/user?id=itvision), [308 comments](https://news.ycombinator.com/item?id=49201970)
+2. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) (nso.edu) - 150 points by [neversaydie](https://news.ycombinator.com/user?id=neversaydie), [30 comments](https://news.ycombinator.com/item?id=49184355)
+3. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) (mayerowitz.io) - 892 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [150 comments](https://news.ycombinator.com/item?id=49195231)
+4. [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) (troyhunt.com) - 91 points by [gnabgib](https://news.ycombinator.com/user?id=gnabgib), [15 comments](https://news.ycombinator.com/item?id=49203105)
+5. [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/) (makeuseof.com) - 84 points by [baranul](https://news.ycombinator.com/user?id=baranul), [52 comments](https://news.ycombinator.com/item?id=49152255)
+6. [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) (sciencedaily.com) - 59 points by [Audiophilip](https://news.ycombinator.com/user?id=Audiophilip), [9 comments](https://news.ycombinator.com/item?id=49202716)
+7. [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) (notashelf.dev) - 223 points by [tsak](https://news.ycombinator.com/user?id=tsak), [176 comments](https://news.ycombinator.com/item?id=49199346)
+8. [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) (aleksagordic.com) - 68 points by [sebg](https://news.ycombinator.com/user?id=sebg), [2 comments](https://news.ycombinator.com/item?id=49202852)
+9. [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/) (herdr.dev) - 151 points by [collinmanderson](https://news.ycombinator.com/user?id=collinmanderson), [102 comments](https://news.ycombinator.com/item?id=49201003)
+10. [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/) (openai.com) - 159 points by [tedsanders](https://news.ycombinator.com/user?id=tedsanders), [116 comments](https://news.ycombinator.com/item?id=49199357)
 
 ## 2026-08-06
 

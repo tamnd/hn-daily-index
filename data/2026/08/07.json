@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49201970,
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "score": 388,
+    "by": "itvision",
+    "descendants": 308,
+    "time": 1786047791
+  },
+  {
+    "rank": 2,
+    "id": 49184355,
+    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+    "score": 150,
+    "by": "neversaydie",
+    "descendants": 30,
+    "time": 1785944003
+  },
+  {
+    "rank": 3,
+    "id": 49195231,
+    "title": "Mario Meets Pareto",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "score": 892,
+    "by": "theanonymousone",
+    "descendants": 150,
+    "time": 1786015493
+  },
+  {
+    "rank": 4,
+    "id": 49203105,
+    "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+    "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+    "score": 91,
+    "by": "gnabgib",
+    "descendants": 15,
+    "time": 1786053136
+  },
+  {
+    "rank": 5,
+    "id": 49152255,
+    "title": "I stopped trusting USB-C cable labels and started testing them",
+    "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+    "score": 84,
+    "by": "baranul",
+    "descendants": 52,
+    "time": 1785741177
+  },
+  {
+    "rank": 6,
+    "id": 49202716,
+    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "score": 59,
+    "by": "Audiophilip",
+    "descendants": 9,
+    "time": 1786051112
+  },
+  {
+    "rank": 7,
+    "id": 49199346,
+    "title": "Taste Is All That's Left",
+    "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+    "score": 223,
+    "by": "tsak",
+    "descendants": 176,
+    "time": 1786035693
+  },
+  {
+    "rank": 8,
+    "id": 49202852,
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "score": 68,
+    "by": "sebg",
+    "descendants": 2,
+    "time": 1786051821
+  },
+  {
+    "rank": 9,
+    "id": 49201003,
+    "title": "Herdr is joining Y Combinator. The runtime stays open",
+    "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+    "score": 151,
+    "by": "collinmanderson",
+    "descendants": 102,
+    "time": 1786043661
+  },
+  {
+    "rank": 10,
+    "id": 49199357,
+    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "score": 159,
+    "by": "tedsanders",
+    "descendants": 116,
+    "time": 1786035724
+  }
+]
