@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04) | [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02) | [Aug 01](#2026-08-01)
+Recent: [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04) | [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02)
 
-### [2026](data/2026/) (219/219 days)
+### [2026](data/2026/) (220/220 days)
 
-[**August**](data/2026/08/) (7/7)
+[**August**](data/2026/08/) (8/8)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
-| [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) |  |  |
+| [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2151,6 +2151,21 @@ Recent: [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | 
 </details>
 
 ---
+
+## 2026-08-08
+
+*Saturday*
+
+1. [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) (arcprize.org) - 445 points by [tosh](https://news.ycombinator.com/user?id=tosh), [262 comments](https://news.ycombinator.com/item?id=49214008)
+2. [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) (genesisopenmodels.anl.gov) - 63 points by [moelf](https://news.ycombinator.com/user?id=moelf), [23 comments](https://news.ycombinator.com/item?id=49216946)
+3. [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) (economist.com) - 19 points by [reasonableklout](https://news.ycombinator.com/user?id=reasonableklout), [19 comments](https://news.ycombinator.com/item?id=49217629)
+4. [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) (github.com) - 241 points by [piotrgrabowski](https://news.ycombinator.com/user?id=piotrgrabowski), [55 comments](https://news.ycombinator.com/item?id=49214098)
+5. [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) (ancientlibrary.net) - 141 points by [aagha](https://news.ycombinator.com/user?id=aagha), [47 comments](https://news.ycombinator.com/item?id=49214770)
+6. [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) (noemamag.com) - 398 points by [RickJWagner](https://news.ycombinator.com/user?id=RickJWagner), [527 comments](https://news.ycombinator.com/item?id=49209539)
+7. [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale) (databricks.com) - 158 points by [moonikakiss](https://news.ycombinator.com/user?id=moonikakiss), [166 comments](https://news.ycombinator.com/item?id=49214468)
+8. [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) (openai.com) - 152 points by [artninja1988](https://news.ycombinator.com/user?id=artninja1988), [167 comments](https://news.ycombinator.com/item?id=49213029)
+9. [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/) (sdss.org) - 138 points by [MarcoDewey](https://news.ycombinator.com/user?id=MarcoDewey), [35 comments](https://news.ycombinator.com/item?id=49211921)
+10. [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) (app.dealroom.co) - 377 points by [delduca](https://news.ycombinator.com/user?id=delduca), [252 comments](https://news.ycombinator.com/item?id=49213754)
 
 ## 2026-08-07
 

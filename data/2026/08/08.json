@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49214008,
+    "title": "DeepSeek V4 Flash 0731",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "score": 445,
+    "by": "tosh",
+    "descendants": 262,
+    "time": 1786125380
+  },
+  {
+    "rank": 2,
+    "id": 49216946,
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "score": 63,
+    "by": "moelf",
+    "descendants": 23,
+    "time": 1786141467
+  },
+  {
+    "rank": 3,
+    "id": 49217629,
+    "title": "Should AI labs be treated like the owners of dangerous animals?",
+    "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+    "score": 19,
+    "by": "reasonableklout",
+    "descendants": 19,
+    "time": 1786147411
+  },
+  {
+    "rank": 4,
+    "id": 49214098,
+    "title": "Assembly Hall of Shame",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "score": 241,
+    "by": "piotrgrabowski",
+    "descendants": 55,
+    "time": 1786125690
+  },
+  {
+    "rank": 5,
+    "id": 49214770,
+    "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+    "url": "https://ancientlibrary.net/",
+    "score": 141,
+    "by": "aagha",
+    "descendants": 47,
+    "time": 1786128674
+  },
+  {
+    "rank": 6,
+    "id": 49209539,
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "score": 398,
+    "by": "RickJWagner",
+    "descendants": 527,
+    "time": 1786106547
+  },
+  {
+    "rank": 7,
+    "id": 49214468,
+    "title": "Managing AI Coding Costs at Scale",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "score": 158,
+    "by": "moonikakiss",
+    "descendants": 166,
+    "time": 1786127117
+  },
+  {
+    "rank": 8,
+    "id": 49213029,
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+    "score": 152,
+    "by": "artninja1988",
+    "descendants": 167,
+    "time": 1786120776
+  },
+  {
+    "rank": 9,
+    "id": 49211921,
+    "title": "An all-sky map of half a million supermassive black holes",
+    "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+    "score": 138,
+    "by": "MarcoDewey",
+    "descendants": 35,
+    "time": 1786116293
+  },
+  {
+    "rank": 10,
+    "id": 49213754,
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 377,
+    "by": "delduca",
+    "descendants": 252,
+    "time": 1786124190
+  }
+]
