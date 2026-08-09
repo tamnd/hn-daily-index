@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04) | [Aug 03](#2026-08-03) | [Aug 02](#2026-08-02)
+Recent: [Aug 09](#2026-08-09) | [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04) | [Aug 03](#2026-08-03)
 
-### [2026](data/2026/) (220/220 days)
+### [2026](data/2026/) (221/221 days)
 
-[**August**](data/2026/08/) (8/8)
+[**August**](data/2026/08/) (9/9)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
-| [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) |  |
+| [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2151,6 +2151,21 @@ Recent: [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | 
 </details>
 
 ---
+
+## 2026-08-09
+
+*Sunday*
+
+1. [My server is a phone now](https://seg6.space/posts/phone-server/) (seg6.space) - 73 points by [seg6](https://news.ycombinator.com/user?id=seg6), [29 comments](https://news.ycombinator.com/item?id=49226636)
+2. [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html) (redblobgames.com) - 36 points by [bobbiechen](https://news.ycombinator.com/user?id=bobbiechen), [8 comments](https://news.ycombinator.com/item?id=49079995)
+3. [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) (fastmail.com) - 317 points by [groomlake](https://news.ycombinator.com/user?id=groomlake), [140 comments](https://news.ycombinator.com/item?id=49223082)
+4. [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/) (specification.website) - 341 points by [shaunpud](https://news.ycombinator.com/user?id=shaunpud), [131 comments](https://news.ycombinator.com/item?id=49221668)
+5. [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute) (eclipsefan.org) - 85 points by [MarcoDewey](https://news.ycombinator.com/user?id=MarcoDewey), [18 comments](https://news.ycombinator.com/item?id=49225139)
+6. [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves) (davetech.co.uk) - 54 points by [hakkikonu](https://news.ycombinator.com/user?id=hakkikonu), [15 comments](https://news.ycombinator.com/item?id=49180649)
+7. [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) (hackaday.com) - 156 points by [gumby](https://news.ycombinator.com/user?id=gumby), [86 comments](https://news.ycombinator.com/item?id=49223079)
+8. [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal) (nyujll.com) - 10 points by [like_any_other](https://news.ycombinator.com/user?id=like_any_other), [1 comments](https://news.ycombinator.com/item?id=49226827)
+9. [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) (deepmind.google) - 381 points by [bhavansig](https://news.ycombinator.com/user?id=bhavansig), [115 comments](https://news.ycombinator.com/item?id=49220126)
+10. [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations) (shopify.engineering) - 10 points by [adletbalzhanov](https://news.ycombinator.com/user?id=adletbalzhanov), [0 comments](https://news.ycombinator.com/item?id=49226536)
 
 ## 2026-08-08
 

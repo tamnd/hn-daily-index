@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49226636,
+    "title": "My server is a phone now",
+    "url": "https://seg6.space/posts/phone-server/",
+    "score": 73,
+    "by": "seg6",
+    "descendants": 29,
+    "time": 1786229363
+  },
+  {
+    "rank": 2,
+    "id": 49079995,
+    "title": "Improving Heuristics for A* Pathfinding",
+    "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+    "score": 36,
+    "by": "bobbiechen",
+    "descendants": 8,
+    "time": 1785218682
+  },
+  {
+    "rank": 3,
+    "id": 49223082,
+    "title": "Fastmail offers EU data region",
+    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "score": 317,
+    "by": "groomlake",
+    "descendants": 140,
+    "time": 1786205091
+  },
+  {
+    "rank": 4,
+    "id": 49221668,
+    "title": "_for-sale DNS records",
+    "url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "score": 341,
+    "by": "shaunpud",
+    "descendants": 131,
+    "time": 1786195611
+  },
+  {
+    "rank": 5,
+    "id": 49225139,
+    "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+    "score": 85,
+    "by": "MarcoDewey",
+    "descendants": 18,
+    "time": 1786217888
+  },
+  {
+    "rank": 6,
+    "id": 49180649,
+    "title": "Making difficulty curves in games",
+    "url": "http://www.davetech.co.uk/difficultycurves",
+    "score": 54,
+    "by": "hakkikonu",
+    "descendants": 15,
+    "time": 1785923974
+  },
+  {
+    "rank": 7,
+    "id": 49223079,
+    "title": "Can Intel finally beat ARM on performance per Watt?",
+    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+    "score": 156,
+    "by": "gumby",
+    "descendants": 86,
+    "time": 1786205076
+  },
+  {
+    "rank": 8,
+    "id": 49226827,
+    "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
+    "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
+    "score": 10,
+    "by": "like_any_other",
+    "descendants": 1,
+    "time": 1786231184
+  },
+  {
+    "rank": 9,
+    "id": 49220126,
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "score": 381,
+    "by": "bhavansig",
+    "descendants": 115,
+    "time": 1786180730
+  },
+  {
+    "rank": 10,
+    "id": 49226536,
+    "title": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "score": 10,
+    "by": "adletbalzhanov",
+    "descendants": 0,
+    "time": 1786228370
+  }
+]
