@@ -13,16 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 09](#2026-08-09) | [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04) | [Aug 03](#2026-08-03)
+Recent: [Aug 10](#2026-08-10) | [Aug 09](#2026-08-09) | [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06) | [Aug 05](#2026-08-05) | [Aug 04](#2026-08-04)
 
-### [2026](data/2026/) (221/221 days)
+### [2026](data/2026/) (222/222 days)
 
-[**August**](data/2026/08/) (9/9)
+[**August**](data/2026/08/) (10/10)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
+| [**10**](#2026-08-10) |  |  |  |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2151,6 +2152,21 @@ Recent: [Aug 09](#2026-08-09) | [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07) | 
 </details>
 
 ---
+
+## 2026-08-10
+
+*Monday*
+
+1. [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) (laurentiugabriel.github.io) - 390 points by [laurentiurad](https://news.ycombinator.com/user?id=laurentiurad), [221 comments](https://news.ycombinator.com/item?id=49234675)
+2. [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) (propelmusic.co.nz) - 69 points by [berghoffer](https://news.ycombinator.com/user?id=berghoffer), [33 comments](https://news.ycombinator.com/item?id=49235641)
+3. ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/) (publicdomainreview.org) - 23 points by [Thevet](https://news.ycombinator.com/user?id=Thevet), [1 comments](https://news.ycombinator.com/item?id=49205793)
+4. [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) (blog.terrygodier.com) - 552 points by [satvikpendem](https://news.ycombinator.com/user?id=satvikpendem), [250 comments](https://news.ycombinator.com/item?id=49231154)
+5. [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) - 163 points by [david927](https://news.ycombinator.com/user?id=david927), [623 comments](https://news.ycombinator.com/item?id=49233423)
+6. [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650) (theconversation.com) - 174 points by [jader201](https://news.ycombinator.com/user?id=jader201), [128 comments](https://news.ycombinator.com/item?id=49232253)
+7. [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI) (w3.org) - 179 points by [Klaster_1](https://news.ycombinator.com/user?id=Klaster_1), [40 comments](https://news.ycombinator.com/item?id=49231809)
+8. [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com) (tuxedono2.com) - 41 points by [smartmic](https://news.ycombinator.com/user?id=smartmic), [10 comments](https://news.ycombinator.com/item?id=49235697)
+9. [Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]](https://www.youtube.com/watch?v=GS7CxAtV5Ks) (youtube.com) - 31 points by [jackdoe](https://news.ycombinator.com/user?id=jackdoe), [18 comments](https://news.ycombinator.com/item?id=49203626)
+10. [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition) (economist.com) - 70 points by [simonpure](https://news.ycombinator.com/user?id=simonpure), [38 comments](https://news.ycombinator.com/item?id=49235011)
 
 ## 2026-08-09
 
