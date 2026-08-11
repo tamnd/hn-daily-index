@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49251411,
+    "title": "The UK's War on Anonymity Has Come to America",
+    "url": "https://www.effort.news/uk-lobby",
+    "score": 107,
+    "by": "slowin",
+    "descendants": 37,
+    "time": 1786405550
+  },
+  {
+    "rank": 2,
+    "id": 49246804,
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "url": "https://cactuscompute.com/needle",
+    "score": 159,
+    "by": "HenryNdubuaku",
+    "descendants": 72,
+    "time": 1786382527
+  },
+  {
+    "rank": 3,
+    "id": 49251179,
+    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+    "url": "https://everycube.alen.is/",
+    "score": 38,
+    "by": "Alen123",
+    "descendants": 6,
+    "time": 1786403785
+  },
+  {
+    "rank": 4,
+    "id": 49241679,
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "score": 1025,
+    "by": "riordan",
+    "descendants": 572,
+    "time": 1786356602
+  },
+  {
+    "rank": 5,
+    "id": 49184220,
+    "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "score": 29,
+    "by": "benbreen",
+    "descendants": 6,
+    "time": 1785943343
+  },
+  {
+    "rank": 6,
+    "id": 49243880,
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "score": 354,
+    "by": "root-parent",
+    "descendants": 377,
+    "time": 1786370782
+  },
+  {
+    "rank": 7,
+    "id": 49251702,
+    "title": "Chicken Scheme 6.0 Released",
+    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "score": 7,
+    "by": "eatonphil",
+    "descendants": 0,
+    "time": 1786407855
+  },
+  {
+    "rank": 8,
+    "id": 49251826,
+    "title": "Harry Potter fans force diverting UK-Ireland power link to avoid Dobby's grave",
+    "url": "https://www.bbc.com/news/articles/cy8mgpl27dpo",
+    "score": 4,
+    "by": "yurivish",
+    "descendants": 0,
+    "time": 1786408986
+  },
+  {
+    "rank": 9,
+    "id": 49212449,
+    "title": "Publishing Schematics Before \u201cOpen Source\u201d Was a Word",
+    "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+    "score": 61,
+    "by": "extralongdivisi",
+    "descendants": 15,
+    "time": 1786118348
+  },
+  {
+    "rank": 10,
+    "id": 49208296,
+    "title": "Sonic Pi v5",
+    "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+    "score": 303,
+    "by": "samaaron",
+    "descendants": 79,
+    "time": 1786098394
+  }
+]

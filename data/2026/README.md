@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (10 days)
+- [August](08/) (11 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-11
+
+*Tuesday*
+
+1. [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) (effort.news) - 107 points by [slowin](https://news.ycombinator.com/user?id=slowin), [37 comments](https://news.ycombinator.com/item?id=49251411)
+2. [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle) (cactuscompute.com) - 159 points by [HenryNdubuaku](https://news.ycombinator.com/user?id=HenryNdubuaku), [72 comments](https://news.ycombinator.com/item?id=49246804)
+3. [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) (everycube.alen.is) - 38 points by [Alen123](https://news.ycombinator.com/user?id=Alen123), [6 comments](https://news.ycombinator.com/item?id=49251179)
+4. [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) (research.meta.ai) - 1.0k points by [riordan](https://news.ycombinator.com/user?id=riordan), [572 comments](https://news.ycombinator.com/item?id=49241679)
+5. [The "mechanical miracle" that ruined Mark Twain's life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) (resobscura.substack.com) - 29 points by [benbreen](https://news.ycombinator.com/user?id=benbreen), [6 comments](https://news.ycombinator.com/item?id=49184220)
+6. [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) (ft.com) - 354 points by [root-parent](https://news.ycombinator.com/user?id=root-parent), [377 comments](https://news.ycombinator.com/item?id=49243880)
+7. [Chicken Scheme 6.0 Released](https://code.call-cc.org/releases/6.0.0/NEWS) (code.call-cc.org) - 7 points by [eatonphil](https://news.ycombinator.com/user?id=eatonphil), [0 comments](https://news.ycombinator.com/item?id=49251702)
+8. [Harry Potter fans force diverting UK-Ireland power link to avoid Dobby's grave](https://www.bbc.com/news/articles/cy8mgpl27dpo) (bbc.com) - 4 points by [yurivish](https://news.ycombinator.com/user?id=yurivish), [0 comments](https://news.ycombinator.com/item?id=49251826)
+9. [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704) (fabscene.medium.com) - 61 points by [extralongdivisi](https://news.ycombinator.com/user?id=extralongdivisi), [15 comments](https://news.ycombinator.com/item?id=49212449)
+10. [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392) (patreon.com) - 303 points by [samaaron](https://news.ycombinator.com/user?id=samaaron), [79 comments](https://news.ycombinator.com/item?id=49208296)
 
 ## 2026-08-10
 
