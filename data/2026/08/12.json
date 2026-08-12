@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49266277,
+    "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+    "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+    "score": 84,
+    "by": "michaefe",
+    "descendants": 42,
+    "time": 1786493879
+  },
+  {
+    "rank": 2,
+    "id": 49265051,
+    "title": "WorldClaw Agentic 3D open-world generation at scale",
+    "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+    "score": 107,
+    "by": "EwanG",
+    "descendants": 38,
+    "time": 1786485378
+  },
+  {
+    "rank": 3,
+    "id": 49263497,
+    "title": "Compression is prediction",
+    "url": "https://ngrok.com/blog/compression-is-prediction",
+    "score": 242,
+    "by": "nikolay",
+    "descendants": 102,
+    "time": 1786477784
+  },
+  {
+    "rank": 4,
+    "id": 49263340,
+    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "score": 175,
+    "by": "droidjj",
+    "descendants": 89,
+    "time": 1786476952
+  },
+  {
+    "rank": 5,
+    "id": 49261128,
+    "title": "Mojo 1.0",
+    "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+    "score": 283,
+    "by": "dayanruben",
+    "descendants": 128,
+    "time": 1786467406
+  },
+  {
+    "rank": 6,
+    "id": 49257876,
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://stolen-thoughts.com/",
+    "score": 485,
+    "by": "quantumgarbage",
+    "descendants": 203,
+    "time": 1786454520
+  },
+  {
+    "rank": 7,
+    "id": 49257160,
+    "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "score": 271,
+    "by": "ilamont",
+    "descendants": 343,
+    "time": 1786450987
+  },
+  {
+    "rank": 8,
+    "id": 49262811,
+    "title": "Making holograms with a pen plotter",
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "score": 111,
+    "by": "DemiGuru",
+    "descendants": 11,
+    "time": 1786474295
+  },
+  {
+    "rank": 9,
+    "id": 49226623,
+    "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "url": "https://photosynthesis.camera",
+    "score": 198,
+    "by": "sajomes",
+    "descendants": 204,
+    "time": 1786229230
+  },
+  {
+    "rank": 10,
+    "id": 49196657,
+    "title": "Show HN: Line9 \u2013 A Mermaid rendering engine with its own layout",
+    "url": "https://line9.ai/diagram",
+    "score": 18,
+    "by": "jumpalongjim",
+    "descendants": 3,
+    "time": 1786024074
+  }
+]

@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in August 2026.
 
+- [2026-08-12 (Wednesday)](#2026-08-12)
 - [2026-08-11 (Tuesday)](#2026-08-11)
 - [2026-08-10 (Monday)](#2026-08-10)
 - [2026-08-09 (Sunday)](#2026-08-09)
@@ -15,6 +16,21 @@ Top 10 Hacker News stories for each day in August 2026.
 - [2026-08-01 (Saturday)](#2026-08-01)
 
 ---
+
+## 2026-08-12
+
+*Wednesday*
+
+1. [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26) (cftc.gov) - 84 points by [michaefe](https://news.ycombinator.com/user?id=michaefe), [42 comments](https://news.ycombinator.com/item?id=49266277)
+2. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) (tencent-hunyuan.github.io) - 107 points by [EwanG](https://news.ycombinator.com/user?id=EwanG), [38 comments](https://news.ycombinator.com/item?id=49265051)
+3. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) (ngrok.com) - 242 points by [nikolay](https://news.ycombinator.com/user?id=nikolay), [102 comments](https://news.ycombinator.com/item?id=49263497)
+4. [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) (blogs.nvidia.com) - 175 points by [droidjj](https://news.ycombinator.com/user?id=droidjj), [89 comments](https://news.ycombinator.com/item?id=49263340)
+5. [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) (modular.com) - 283 points by [dayanruben](https://news.ycombinator.com/user?id=dayanruben), [128 comments](https://news.ycombinator.com/item?id=49261128)
+6. [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) (stolen-thoughts.com) - 485 points by [quantumgarbage](https://news.ycombinator.com/user?id=quantumgarbage), [203 comments](https://news.ycombinator.com/item?id=49257876)
+7. [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0) (ft.com) - 271 points by [ilamont](https://news.ycombinator.com/user?id=ilamont), [343 comments](https://news.ycombinator.com/item?id=49257160)
+8. [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/) (blog.jordan.matelsky.com) - 111 points by [DemiGuru](https://news.ycombinator.com/user?id=DemiGuru), [11 comments](https://news.ycombinator.com/item?id=49262811)
+9. [Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo](https://photosynthesis.camera) (photosynthesis.camera) - 198 points by [sajomes](https://news.ycombinator.com/user?id=sajomes), [204 comments](https://news.ycombinator.com/item?id=49226623)
+10. [Show HN: Line9 – A Mermaid rendering engine with its own layout](https://line9.ai/diagram) (line9.ai) - 18 points by [jumpalongjim](https://news.ycombinator.com/user?id=jumpalongjim), [3 comments](https://news.ycombinator.com/item?id=49196657)
 
 ## 2026-08-11
 
