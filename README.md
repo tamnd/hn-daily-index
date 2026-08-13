@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 12](#2026-08-12) | [Aug 11](#2026-08-11) | [Aug 10](#2026-08-10) | [Aug 09](#2026-08-09) | [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07) | [Aug 06](#2026-08-06)
+Recent: [Aug 13](#2026-08-13) | [Aug 12](#2026-08-12) | [Aug 11](#2026-08-11) | [Aug 10](#2026-08-10) | [Aug 09](#2026-08-09) | [Aug 08](#2026-08-08) | [Aug 07](#2026-08-07)
 
-### [2026](data/2026/) (224/224 days)
+### [2026](data/2026/) (225/225 days)
 
-[**August**](data/2026/08/) (12/12)
+[**August**](data/2026/08/) (13/13)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
-| [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) |  |  |  |  |
+| [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2152,6 +2152,21 @@ Recent: [Aug 12](#2026-08-12) | [Aug 11](#2026-08-11) | [Aug 10](#2026-08-10) | 
 </details>
 
 ---
+
+## 2026-08-13
+
+*Thursday*
+
+1. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) (openrouter.ai) - 730 points by [explosion-s](https://news.ycombinator.com/user?id=explosion-s), [278 comments](https://news.ycombinator.com/item?id=49274600)
+2. [Delta](https://zed.dev/blog/introducing-delta) (zed.dev) - 381 points by [khy](https://news.ycombinator.com/user?id=khy), [126 comments](https://news.ycombinator.com/item?id=49276574)
+3. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) (tailscale.com) - 789 points by [ropbear](https://news.ycombinator.com/user?id=ropbear), [141 comments](https://news.ycombinator.com/item?id=49272832)
+4. [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45) (sharktastica.co.uk) - 22 points by [tart-lemonade](https://news.ycombinator.com/user?id=tart-lemonade), [3 comments](https://news.ycombinator.com/item?id=49280103)
+5. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) (huggingface.co) - 487 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [105 comments](https://news.ycombinator.com/item?id=49273478)
+6. [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) (flutter.dev) - 30 points by [gumby271](https://news.ycombinator.com/user?id=gumby271), [23 comments](https://news.ycombinator.com/item?id=49280061)
+7. [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) (okmij.org) - 29 points by [matt_d](https://news.ycombinator.com/user?id=matt_d), [7 comments](https://news.ycombinator.com/item?id=49279928)
+8. [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/) (ballet.dev) - 12 points by [danielkimber](https://news.ycombinator.com/user?id=danielkimber), [1 comments](https://news.ycombinator.com/item?id=49280184)
+9. [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html) (funcall.blogspot.com) - 26 points by [oumua_don17](https://news.ycombinator.com/user?id=oumua_don17), [24 comments](https://news.ycombinator.com/item?id=49269429)
+10. [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) (jonty.github.io) - 458 points by [zoenolan](https://news.ycombinator.com/user?id=zoenolan), [124 comments](https://news.ycombinator.com/item?id=49270953)
 
 ## 2026-08-12
 

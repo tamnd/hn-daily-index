@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (12 days)
+- [August](08/) (13 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-13
+
+*Thursday*
+
+1. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) (openrouter.ai) - 730 points by [explosion-s](https://news.ycombinator.com/user?id=explosion-s), [278 comments](https://news.ycombinator.com/item?id=49274600)
+2. [Delta](https://zed.dev/blog/introducing-delta) (zed.dev) - 381 points by [khy](https://news.ycombinator.com/user?id=khy), [126 comments](https://news.ycombinator.com/item?id=49276574)
+3. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) (tailscale.com) - 789 points by [ropbear](https://news.ycombinator.com/user?id=ropbear), [141 comments](https://news.ycombinator.com/item?id=49272832)
+4. [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45) (sharktastica.co.uk) - 22 points by [tart-lemonade](https://news.ycombinator.com/user?id=tart-lemonade), [3 comments](https://news.ycombinator.com/item?id=49280103)
+5. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) (huggingface.co) - 487 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [105 comments](https://news.ycombinator.com/item?id=49273478)
+6. [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) (flutter.dev) - 30 points by [gumby271](https://news.ycombinator.com/user?id=gumby271), [23 comments](https://news.ycombinator.com/item?id=49280061)
+7. [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) (okmij.org) - 29 points by [matt_d](https://news.ycombinator.com/user?id=matt_d), [7 comments](https://news.ycombinator.com/item?id=49279928)
+8. [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/) (ballet.dev) - 12 points by [danielkimber](https://news.ycombinator.com/user?id=danielkimber), [1 comments](https://news.ycombinator.com/item?id=49280184)
+9. [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html) (funcall.blogspot.com) - 26 points by [oumua_don17](https://news.ycombinator.com/user?id=oumua_don17), [24 comments](https://news.ycombinator.com/item?id=49269429)
+10. [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) (jonty.github.io) - 458 points by [zoenolan](https://news.ycombinator.com/user?id=zoenolan), [124 comments](https://news.ycombinator.com/item?id=49270953)
 
 ## 2026-08-12
 

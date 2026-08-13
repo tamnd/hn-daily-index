@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49274600,
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 730,
+    "by": "explosion-s",
+    "descendants": 278,
+    "time": 1786550690
+  },
+  {
+    "rank": 2,
+    "id": 49276574,
+    "title": "Delta",
+    "url": "https://zed.dev/blog/introducing-delta",
+    "score": 381,
+    "by": "khy",
+    "descendants": 126,
+    "time": 1786558799
+  },
+  {
+    "rank": 3,
+    "id": 49272832,
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 789,
+    "by": "ropbear",
+    "descendants": 141,
+    "time": 1786544550
+  },
+  {
+    "rank": 4,
+    "id": 49280103,
+    "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+    "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+    "score": 22,
+    "by": "tart-lemonade",
+    "descendants": 3,
+    "time": 1786578633
+  },
+  {
+    "rank": 5,
+    "id": 49273478,
+    "title": "Qwen3.8-2.4T",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "score": 487,
+    "by": "Philpax",
+    "descendants": 105,
+    "time": 1786546877
+  },
+  {
+    "rank": 6,
+    "id": 49280061,
+    "title": "What's New in Flutter 3.47",
+    "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+    "score": 30,
+    "by": "gumby271",
+    "descendants": 23,
+    "time": 1786578360
+  },
+  {
+    "rank": 7,
+    "id": 49279928,
+    "title": "Principia Mathematica is modern and insightful",
+    "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "score": 29,
+    "by": "matt_d",
+    "descendants": 7,
+    "time": 1786577181
+  },
+  {
+    "rank": 8,
+    "id": 49280184,
+    "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
+    "url": "https://www.ballet.dev/",
+    "score": 12,
+    "by": "danielkimber",
+    "descendants": 1,
+    "time": 1786579303
+  },
+  {
+    "rank": 9,
+    "id": 49269429,
+    "title": "Why Target Common Lisp for Code Generation?",
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "score": 26,
+    "by": "oumua_don17",
+    "descendants": 24,
+    "time": 1786524053
+  },
+  {
+    "rank": 10,
+    "id": 49270953,
+    "title": "2026 Eclipse Webcams",
+    "url": "https://jonty.github.io/2026_eclipse_webcams/",
+    "score": 458,
+    "by": "zoenolan",
+    "descendants": 124,
+    "time": 1786535581
+  }
+]
