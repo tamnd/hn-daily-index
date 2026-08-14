@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in August 2026.
 
+- [2026-08-14 (Friday)](#2026-08-14)
 - [2026-08-13 (Thursday)](#2026-08-13)
 - [2026-08-12 (Wednesday)](#2026-08-12)
 - [2026-08-11 (Tuesday)](#2026-08-11)
@@ -17,6 +18,21 @@ Top 10 Hacker News stories for each day in August 2026.
 - [2026-08-01 (Saturday)](#2026-08-01)
 
 ---
+
+## 2026-08-14
+
+*Friday*
+
+1. [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) (blog.google) - 608 points by [thisisauserid](https://news.ycombinator.com/user?id=thisisauserid), [339 comments](https://news.ycombinator.com/item?id=49289112)
+2. [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) (atproto.com) - 49 points by [danabramov](https://news.ycombinator.com/user?id=danabramov), [8 comments](https://news.ycombinator.com/item?id=49293324)
+3. [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) (cerebras.ai) - 414 points by [pr337h4m](https://news.ycombinator.com/user?id=pr337h4m), [172 comments](https://news.ycombinator.com/item?id=49289844)
+4. [How AI text watermarking works](https://declaude.org/watermarking/) (declaude.org) - 62 points by [padolsey](https://news.ycombinator.com/user?id=padolsey), [37 comments](https://news.ycombinator.com/item?id=49292932)
+5. [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/) (sparrowmap.com) - 17 points by [paulnpace](https://news.ycombinator.com/user?id=paulnpace), [2 comments](https://news.ycombinator.com/item?id=49293294)
+6. [NP-Overrated](https://gruhn.me/blog/2026-08-13/) (gruhn.me) - 145 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [89 comments](https://news.ycombinator.com/item?id=49291268)
+7. [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) (geoffreylitt.com) - 196 points by [sebg](https://news.ycombinator.com/user?id=sebg), [107 comments](https://news.ycombinator.com/item?id=49290299)
+8. [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/) (donkeybas.com) - 185 points by [jkrauska](https://news.ycombinator.com/user?id=jkrauska), [79 comments](https://news.ycombinator.com/item?id=49289465)
+9. [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) (deepseek.com) - 552 points by [bjin](https://news.ycombinator.com/user?id=bjin), [241 comments](https://news.ycombinator.com/item?id=49285244)
+10. [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1) (docs.mistral.ai) - 248 points by [spelk](https://news.ycombinator.com/user?id=spelk), [97 comments](https://news.ycombinator.com/item?id=49288889)
 
 ## 2026-08-13
 

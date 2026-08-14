@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49289112,
+    "title": "Gemini 3.7 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "score": 608,
+    "by": "thisisauserid",
+    "descendants": 339,
+    "time": 1786641802
+  },
+  {
+    "rank": 2,
+    "id": 49293324,
+    "title": "Bluesky Protocol Services",
+    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "score": 49,
+    "by": "danabramov",
+    "descendants": 8,
+    "time": 1786666468
+  },
+  {
+    "rank": 3,
+    "id": 49289844,
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "score": 414,
+    "by": "pr337h4m",
+    "descendants": 172,
+    "time": 1786644602
+  },
+  {
+    "rank": 4,
+    "id": 49292932,
+    "title": "How AI text watermarking works",
+    "url": "https://declaude.org/watermarking/",
+    "score": 62,
+    "by": "padolsey",
+    "descendants": 37,
+    "time": 1786663015
+  },
+  {
+    "rank": 5,
+    "id": 49293294,
+    "title": "SparrowMap \u2013 Cameras that watch government vehicles",
+    "url": "https://sparrowmap.com/",
+    "score": 17,
+    "by": "paulnpace",
+    "descendants": 2,
+    "time": 1786666204
+  },
+  {
+    "rank": 6,
+    "id": 49291268,
+    "title": "NP-Overrated",
+    "url": "https://gruhn.me/blog/2026-08-13/",
+    "score": 145,
+    "by": "theanonymousone",
+    "descendants": 89,
+    "time": 1786652057
+  },
+  {
+    "rank": 7,
+    "id": 49290299,
+    "title": "Understanding is the new bottleneck",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "score": 196,
+    "by": "sebg",
+    "descendants": 107,
+    "time": 1786646839
+  },
+  {
+    "rank": 8,
+    "id": 49289465,
+    "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+    "url": "https://donkeybas.com/",
+    "score": 185,
+    "by": "jkrauska",
+    "descendants": 79,
+    "time": 1786643150
+  },
+  {
+    "rank": 9,
+    "id": 49285244,
+    "title": "DeepSeek Harness developer preview",
+    "url": "https://deepseek.com/harness/en/",
+    "score": 552,
+    "by": "bjin",
+    "descendants": 241,
+    "time": 1786625882
+  },
+  {
+    "rank": 10,
+    "id": 49288889,
+    "title": "Mistral OCR 4.1",
+    "url": "https://docs.mistral.ai/models/ocr-4-1",
+    "score": 248,
+    "by": "spelk",
+    "descendants": 97,
+    "time": 1786640712
+  }
+]
