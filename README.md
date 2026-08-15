@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 14](#2026-08-14) | [Aug 13](#2026-08-13) | [Aug 12](#2026-08-12) | [Aug 11](#2026-08-11) | [Aug 10](#2026-08-10) | [Aug 09](#2026-08-09) | [Aug 08](#2026-08-08)
+Recent: [Aug 15](#2026-08-15) | [Aug 14](#2026-08-14) | [Aug 13](#2026-08-13) | [Aug 12](#2026-08-12) | [Aug 11](#2026-08-11) | [Aug 10](#2026-08-10) | [Aug 09](#2026-08-09)
 
-### [2026](data/2026/) (226/226 days)
+### [2026](data/2026/) (227/227 days)
 
-[**August**](data/2026/08/) (14/14)
+[**August**](data/2026/08/) (15/15)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
-| [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) |  |  |
+| [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2152,6 +2152,21 @@ Recent: [Aug 14](#2026-08-14) | [Aug 13](#2026-08-13) | [Aug 12](#2026-08-12) | 
 </details>
 
 ---
+
+## 2026-08-15
+
+*Saturday*
+
+1. [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) (huggingface.co) - 870 points by [erdaltoprak](https://news.ycombinator.com/user?id=erdaltoprak), [570 comments](https://news.ycombinator.com/item?id=49299605)
+2. [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) (blog.cryptographyengineering.com) - 168 points by [vslira](https://news.ycombinator.com/user?id=vslira), [109 comments](https://news.ycombinator.com/item?id=49304447)
+3. [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) (dmitry.gr) - 99 points by [kaycebasques](https://news.ycombinator.com/user?id=kaycebasques), [51 comments](https://news.ycombinator.com/item?id=49305492)
+4. [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science) (economist.com) - 20 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [9 comments](https://news.ycombinator.com/item?id=49305708)
+5. [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) (mun-logadan.github.io) - 765 points by [numeri](https://news.ycombinator.com/user?id=numeri), [700 comments](https://news.ycombinator.com/item?id=49296740)
+6. [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) (blog.google) - 268 points by [u1hcw9nx](https://news.ycombinator.com/user?id=u1hcw9nx), [162 comments](https://news.ycombinator.com/item?id=49300314)
+7. [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) (rustdesk.com) - 214 points by [rustdesk](https://news.ycombinator.com/user?id=rustdesk), [93 comments](https://news.ycombinator.com/item?id=49300759)
+8. [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations) (fzakaria.com) - 42 points by [domenkozar](https://news.ycombinator.com/user?id=domenkozar), [6 comments](https://news.ycombinator.com/item?id=49215682)
+9. [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va) (getsmall.xyz) - 34 points by [trezm](https://news.ycombinator.com/user?id=trezm), [21 comments](https://news.ycombinator.com/item?id=49305558)
+10. [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697) (ft.com) - 56 points by [bobstax](https://news.ycombinator.com/user?id=bobstax), [14 comments](https://news.ycombinator.com/item?id=49305927)
 
 ## 2026-08-14
 
