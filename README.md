@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 15](#2026-08-15) | [Aug 14](#2026-08-14) | [Aug 13](#2026-08-13) | [Aug 12](#2026-08-12) | [Aug 11](#2026-08-11) | [Aug 10](#2026-08-10) | [Aug 09](#2026-08-09)
+Recent: [Aug 16](#2026-08-16) | [Aug 15](#2026-08-15) | [Aug 14](#2026-08-14) | [Aug 13](#2026-08-13) | [Aug 12](#2026-08-12) | [Aug 11](#2026-08-11) | [Aug 10](#2026-08-10)
 
-### [2026](data/2026/) (227/227 days)
+### [2026](data/2026/) (228/228 days)
 
-[**August**](data/2026/08/) (15/15)
+[**August**](data/2026/08/) (16/16)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
-| [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) |  |
+| [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2152,6 +2152,21 @@ Recent: [Aug 15](#2026-08-15) | [Aug 14](#2026-08-14) | [Aug 13](#2026-08-13) | 
 </details>
 
 ---
+
+## 2026-08-16
+
+*Sunday*
+
+1. [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) (alz-journals.onlinelibrary.wiley.com) - 337 points by [randycupertino](https://news.ycombinator.com/user?id=randycupertino), [234 comments](https://news.ycombinator.com/item?id=49311651)
+2. [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas) (henrikkarlsson.xyz) - 68 points by [felixbraun](https://news.ycombinator.com/user?id=felixbraun), [17 comments](https://news.ycombinator.com/item?id=49314235)
+3. [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) (science.org) - 80 points by [AnodicElegy](https://news.ycombinator.com/user?id=AnodicElegy), [42 comments](https://news.ycombinator.com/item?id=49313367)
+4. [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) (acc.org) - 132 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [95 comments](https://news.ycombinator.com/item?id=49314403)
+5. [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) (smithsonianmag.com) - 207 points by [gmays](https://news.ycombinator.com/user?id=gmays), [71 comments](https://news.ycombinator.com/item?id=49310682)
+6. [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) (dmitry.gr) - 221 points by [dmitrygr](https://news.ycombinator.com/user?id=dmitrygr), [293 comments](https://news.ycombinator.com/item?id=49298035)
+7. [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) (davidepiffer.com) - 398 points by [rzk](https://news.ycombinator.com/user?id=rzk), [354 comments](https://news.ycombinator.com/item?id=49312845)
+8. [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) (sankalp.bearblog.dev) - 391 points by [tosh](https://news.ycombinator.com/user?id=tosh), [86 comments](https://news.ycombinator.com/item?id=49309549)
+9. [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/) (michael.stapelberg.ch) - 28 points by [ingve](https://news.ycombinator.com/user?id=ingve), [3 comments](https://news.ycombinator.com/item?id=49314579)
+10. [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/) (severe-weather.eu) - 54 points by [dgellow](https://news.ycombinator.com/user?id=dgellow), [15 comments](https://news.ycombinator.com/item?id=49313428)
 
 ## 2026-08-15
 

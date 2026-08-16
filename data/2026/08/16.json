@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49311651,
+    "title": "Semaglutide linked to lower predicted dementia risk",
+    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "score": 337,
+    "by": "randycupertino",
+    "descendants": 234,
+    "time": 1786809533
+  },
+  {
+    "rank": 2,
+    "id": 49314235,
+    "title": "Cultivating a state of mind where new ideas are born (2023)",
+    "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+    "score": 68,
+    "by": "felixbraun",
+    "descendants": 17,
+    "time": 1786827251
+  },
+  {
+    "rank": 3,
+    "id": 49313367,
+    "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "score": 80,
+    "by": "AnodicElegy",
+    "descendants": 42,
+    "time": 1786821173
+  },
+  {
+    "rank": 4,
+    "id": 49314403,
+    "title": "Abdominal fat predicts heart disease risk better than BMI",
+    "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+    "score": 132,
+    "by": "theanonymousone",
+    "descendants": 95,
+    "time": 1786828474
+  },
+  {
+    "rank": 5,
+    "id": 49310682,
+    "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+    "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+    "score": 207,
+    "by": "gmays",
+    "descendants": 71,
+    "time": 1786802689
+  },
+  {
+    "rank": 6,
+    "id": 49298035,
+    "title": "RISC-V: They Should Have Known Better",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "score": 221,
+    "by": "dmitrygr",
+    "descendants": 293,
+    "time": 1786711856
+  },
+  {
+    "rank": 7,
+    "id": 49312845,
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "score": 398,
+    "by": "rzk",
+    "descendants": 354,
+    "time": 1786817582
+  },
+  {
+    "rank": 8,
+    "id": 49309549,
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "score": 391,
+    "by": "tosh",
+    "descendants": 86,
+    "time": 1786791602
+  },
+  {
+    "rank": 9,
+    "id": 49314579,
+    "title": "Tracking down a Zsh history data loss bug",
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "score": 28,
+    "by": "ingve",
+    "descendants": 3,
+    "time": 1786829949
+  },
+  {
+    "rank": 10,
+    "id": 49313428,
+    "title": "Super El Ni\u00f1o Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+    "score": 54,
+    "by": "dgellow",
+    "descendants": 15,
+    "time": 1786821651
+  }
+]
