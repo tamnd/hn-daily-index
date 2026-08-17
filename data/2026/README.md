@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (16 days)
+- [August](08/) (17 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-17
+
+*Monday*
+
+1. [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) (rvembedded.com) - 354 points by [Narishma](https://news.ycombinator.com/user?id=Narishma), [185 comments](https://news.ycombinator.com/item?id=49321717)
+2. [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) (platform.claude.com) - 523 points by [tosh](https://news.ycombinator.com/user?id=tosh), [220 comments](https://news.ycombinator.com/item?id=49319556)
+3. [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) (pikuma.com) - 66 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [27 comments](https://news.ycombinator.com/item?id=49285096)
+4. [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en) (wiki.lowtechlab.org) - 87 points by [Bluestein](https://news.ycombinator.com/user?id=Bluestein), [22 comments](https://news.ycombinator.com/item?id=49259980)
+5. [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/) (bernsteinbear.com) - 35 points by [evakhoury](https://news.ycombinator.com/user?id=evakhoury), [13 comments](https://news.ycombinator.com/item?id=49303776)
+6. [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) (ischool.berkeley.edu) - 7 points by [ronbenton](https://news.ycombinator.com/user?id=ronbenton), [0 comments](https://news.ycombinator.com/item?id=49325185)
+7. [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) (buf.build) - 103 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [75 comments](https://news.ycombinator.com/item?id=49322573)
+8. [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) (vectoral.com) - 221 points by [mlenhard](https://news.ycombinator.com/user?id=mlenhard), [88 comments](https://news.ycombinator.com/item?id=49320611)
+9. [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) (w4g1.dev) - 253 points by [hruvhwe](https://news.ycombinator.com/user?id=hruvhwe), [145 comments](https://news.ycombinator.com/item?id=49322695)
+10. [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/) (math-ai-org.github.io) - 54 points by [homarp](https://news.ycombinator.com/user?id=homarp), [17 comments](https://news.ycombinator.com/item?id=49322330)
 
 ## 2026-08-16
 
