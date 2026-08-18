@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in August 2026.
 
+- [2026-08-18 (Tuesday)](#2026-08-18)
 - [2026-08-17 (Monday)](#2026-08-17)
 - [2026-08-16 (Sunday)](#2026-08-16)
 - [2026-08-15 (Saturday)](#2026-08-15)
@@ -21,6 +22,21 @@ Top 10 Hacker News stories for each day in August 2026.
 - [2026-08-01 (Saturday)](#2026-08-01)
 
 ---
+
+## 2026-08-18
+
+*Tuesday*
+
+1. [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) (timmarinin.net) - 177 points by [gavide](https://news.ycombinator.com/user?id=gavide), [129 comments](https://news.ycombinator.com/item?id=49338459)
+2. [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) (fabiensanglard.net) - 113 points by [shdon](https://news.ycombinator.com/user?id=shdon), [54 comments](https://news.ycombinator.com/item?id=49338328)
+3. [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) (catcrafts.net) - 70 points by [pizzaiolo](https://news.ycombinator.com/user?id=pizzaiolo), [14 comments](https://news.ycombinator.com/item?id=49338285)
+4. [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) (arxiv.org) - 152 points by [linggen](https://news.ycombinator.com/user?id=linggen), [33 comments](https://news.ycombinator.com/item?id=49334991)
+5. [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) (duckdb.org) - 521 points by [ibotty](https://news.ycombinator.com/user?id=ibotty), [91 comments](https://news.ycombinator.com/item?id=49330781)
+6. [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) (openrouter.ai) - 74 points by [Topfi](https://news.ycombinator.com/user?id=Topfi), [15 comments](https://news.ycombinator.com/item?id=49337602)
+7. [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) (githubstatus.com) - 520 points by [SpyCoder77](https://news.ycombinator.com/user?id=SpyCoder77), [903 comments](https://news.ycombinator.com/item?id=49330597)
+8. [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) (wiz.io) - 309 points by [galnagli](https://news.ycombinator.com/user?id=galnagli), [124 comments](https://news.ycombinator.com/item?id=49331423)
+9. [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color)) (en.wikipedia.org) - 299 points by [inigyou](https://news.ycombinator.com/user?id=inigyou), [64 comments](https://news.ycombinator.com/item?id=49270194)
+10. [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/) (blog.roboflow.com) - 297 points by [plurby](https://news.ycombinator.com/user?id=plurby), [152 comments](https://news.ycombinator.com/item?id=49329575)
 
 ## 2026-08-17
 

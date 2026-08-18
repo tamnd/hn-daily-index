@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49338459,
+    "title": "How Bluesky draws its logo on screenshots",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "score": 177,
+    "by": "gavide",
+    "descendants": 129,
+    "time": 1787005240
+  },
+  {
+    "rank": 2,
+    "id": 49338328,
+    "title": "Quake Shareware, a CD-ROM just a little too full",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "score": 113,
+    "by": "shdon",
+    "descendants": 54,
+    "time": 1787004374
+  },
+  {
+    "rank": 3,
+    "id": 49338285,
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "score": 70,
+    "by": "pizzaiolo",
+    "descendants": 14,
+    "time": 1787004077
+  },
+  {
+    "rank": 4,
+    "id": 49334991,
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "url": "https://arxiv.org/abs/2608.13759",
+    "score": 152,
+    "by": "linggen",
+    "descendants": 33,
+    "time": 1786989299
+  },
+  {
+    "rank": 5,
+    "id": 49330781,
+    "title": "A Preview of DuckDB v2.0",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "score": 521,
+    "by": "ibotty",
+    "descendants": 91,
+    "time": 1786974387
+  },
+  {
+    "rank": 6,
+    "id": 49337602,
+    "title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "score": 74,
+    "by": "Topfi",
+    "descendants": 15,
+    "time": 1787000598
+  },
+  {
+    "rank": 7,
+    "id": 49330597,
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "score": 520,
+    "by": "SpyCoder77",
+    "descendants": 903,
+    "time": 1786973706
+  },
+  {
+    "rank": 8,
+    "id": 49331423,
+    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "score": 309,
+    "by": "galnagli",
+    "descendants": 124,
+    "time": 1786976318
+  },
+  {
+    "rank": 9,
+    "id": 49270194,
+    "title": "Olo (Color)",
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "score": 299,
+    "by": "inigyou",
+    "descendants": 64,
+    "time": 1786530374
+  },
+  {
+    "rank": 10,
+    "id": 49329575,
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "score": 297,
+    "by": "plurby",
+    "descendants": 152,
+    "time": 1786968582
+  }
+]
