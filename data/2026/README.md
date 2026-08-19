@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (18 days)
+- [August](08/) (19 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-19
+
+*Wednesday*
+
+1. [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) (github.com) - 120 points by [phoenix120](https://news.ycombinator.com/user?id=phoenix120), [30 comments](https://news.ycombinator.com/item?id=49353221)
+2. [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) (github.com) - 19 points by [zX41ZdbW](https://news.ycombinator.com/user?id=zX41ZdbW), [9 comments](https://news.ycombinator.com/item?id=49354613)
+3. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) (seths.blog) - 891 points by [herbertl](https://news.ycombinator.com/user?id=herbertl), [525 comments](https://news.ycombinator.com/item?id=49345263)
+4. [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) (ikea.com) - 216 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [133 comments](https://news.ycombinator.com/item?id=49349984)
+5. [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) (modelmap.cc) - 16 points by [lizhaoliu](https://news.ycombinator.com/user?id=lizhaoliu), [0 comments](https://news.ycombinator.com/item?id=49354664)
+6. [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) (nicholascharriere.com) - 240 points by [nichochar](https://news.ycombinator.com/user?id=nichochar), [124 comments](https://news.ycombinator.com/item?id=49321298)
+7. [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) (github.com) - 197 points by [fittingopposite](https://news.ycombinator.com/user?id=fittingopposite), [27 comments](https://news.ycombinator.com/item?id=49349898)
+8. [AI usage patterns in software teams](https://linear.app/data) (linear.app) - 28 points by [giuliomagnifico](https://news.ycombinator.com/user?id=giuliomagnifico), [16 comments](https://news.ycombinator.com/item?id=49353432)
+9. [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) (philo.gay) - 391 points by [otherayden](https://news.ycombinator.com/user?id=otherayden), [63 comments](https://news.ycombinator.com/item?id=49344825)
+10. [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) (about.iceland.co.uk) - 429 points by [KolmogorovComp](https://news.ycombinator.com/user?id=KolmogorovComp), [119 comments](https://news.ycombinator.com/item?id=49351324)
 
 ## 2026-08-18
 

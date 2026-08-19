@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49353221,
+    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "score": 120,
+    "by": "phoenix120",
+    "descendants": 30,
+    "time": 1787089833
+  },
+  {
+    "rank": 2,
+    "id": 49354613,
+    "title": "Solo \u2013 a .so loader for static Linux binaries",
+    "url": "https://github.com/pg83/solo",
+    "score": 19,
+    "by": "zX41ZdbW",
+    "descendants": 9,
+    "time": 1787097109
+  },
+  {
+    "rank": 3,
+    "id": 49345263,
+    "title": "The Amazon tax",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "score": 891,
+    "by": "herbertl",
+    "descendants": 525,
+    "time": 1787059358
+  },
+  {
+    "rank": 4,
+    "id": 49349984,
+    "title": "How does IKEA come up with names for its products?",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "score": 216,
+    "by": "NaOH",
+    "descendants": 133,
+    "time": 1787076713
+  },
+  {
+    "rank": 5,
+    "id": 49354664,
+    "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+    "url": "https://modelmap.cc",
+    "score": 16,
+    "by": "lizhaoliu",
+    "descendants": 0,
+    "time": 1787097456
+  },
+  {
+    "rank": 6,
+    "id": 49321298,
+    "title": "Being ambitious and being a dad",
+    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "score": 240,
+    "by": "nichochar",
+    "descendants": 124,
+    "time": 1786896537
+  },
+  {
+    "rank": 7,
+    "id": 49349898,
+    "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "score": 197,
+    "by": "fittingopposite",
+    "descendants": 27,
+    "time": 1787076441
+  },
+  {
+    "rank": 8,
+    "id": 49353432,
+    "title": "AI usage patterns in software teams",
+    "url": "https://linear.app/data",
+    "score": 28,
+    "by": "giuliomagnifico",
+    "descendants": 16,
+    "time": 1787090887
+  },
+  {
+    "rank": 9,
+    "id": 49344825,
+    "title": "Using the railway network as a flatbed scanner",
+    "url": "https://philo.gay/linecam/",
+    "score": 391,
+    "by": "otherayden",
+    "descendants": 63,
+    "time": 1787057034
+  },
+  {
+    "rank": 10,
+    "id": 49351324,
+    "title": "Beware Management Consultants",
+    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+    "score": 429,
+    "by": "KolmogorovComp",
+    "descendants": 119,
+    "time": 1787081391
+  }
+]
