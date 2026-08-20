@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | [Aug 17](#2026-08-17) | [Aug 16](#2026-08-16) | [Aug 15](#2026-08-15) | [Aug 14](#2026-08-14) | [Aug 13](#2026-08-13)
+Recent: [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | [Aug 17](#2026-08-17) | [Aug 16](#2026-08-16) | [Aug 15](#2026-08-15) | [Aug 14](#2026-08-14)
 
-### [2026](data/2026/) (231/231 days)
+### [2026](data/2026/) (232/232 days)
 
-[**August**](data/2026/08/) (19/19)
+[**August**](data/2026/08/) (20/20)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
-| [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) |  |  |  |  |
+| [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2153,6 +2153,21 @@ Recent: [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | [Aug 17](#2026-08-17) | 
 </details>
 
 ---
+
+## 2026-08-20
+
+*Thursday*
+
+1. [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724) (kmbc.com) - 74 points by [cocacola1](https://news.ycombinator.com/user?id=cocacola1), [20 comments](https://news.ycombinator.com/item?id=49368625)
+2. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) (openrouter.ai) - 611 points by [rvz](https://news.ycombinator.com/user?id=rvz), [323 comments](https://news.ycombinator.com/item?id=49364559)
+3. [Go 1.27](https://go.dev/blog/go1.27) (go.dev) - 426 points by [database64128](https://news.ycombinator.com/user?id=database64128), [104 comments](https://news.ycombinator.com/item?id=49365405)
+4. [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023) (grapheneos.social) - 279 points by [Animux](https://news.ycombinator.com/user?id=Animux), [113 comments](https://news.ycombinator.com/item?id=49364745)
+5. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) (sprocketfox.io) - 126 points by [1e1a](https://news.ycombinator.com/user?id=1e1a), [33 comments](https://news.ycombinator.com/item?id=49365841)
+6. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) (unsloth.ai) - 179 points by [jonesy827](https://news.ycombinator.com/user?id=jonesy827), [65 comments](https://news.ycombinator.com/item?id=49365443)
+7. [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka) (coca11272000.wixsite.com) - 14 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [0 comments](https://news.ycombinator.com/item?id=49362001)
+8. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) (sprocketfox.io) - 738 points by [kareiva](https://news.ycombinator.com/user?id=kareiva), [114 comments](https://news.ycombinator.com/item?id=49360015)
+9. [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/) (os8088.com) - 37 points by [jggonz](https://news.ycombinator.com/user?id=jggonz), [24 comments](https://news.ycombinator.com/item?id=49367256)
+10. [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) (casio.com) - 267 points by [__fst__](https://news.ycombinator.com/user?id=__fst__), [215 comments](https://news.ycombinator.com/item?id=49362887)
 
 ## 2026-08-19
 
