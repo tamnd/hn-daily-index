@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (20 days)
+- [August](08/) (21 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-21
+
+*Friday*
+
+1. [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) (mathstodon.xyz) - 29 points by [u1hcw9nx](https://news.ycombinator.com/user?id=u1hcw9nx), [24 comments](https://news.ycombinator.com/item?id=49382041)
+2. [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) (github.blog) - 295 points by [0xedb](https://news.ycombinator.com/user?id=0xedb), [336 comments](https://news.ycombinator.com/item?id=49378957)
+3. [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) (consumerrights.wiki) - 206 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [23 comments](https://news.ycombinator.com/item?id=49378243)
+4. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) (experimental-history.com) - 549 points by [Ariarule](https://news.ycombinator.com/user?id=Ariarule), [252 comments](https://news.ycombinator.com/item?id=49347543)
+5. [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) (blog.curiousquail.com) - 867 points by [speckx](https://news.ycombinator.com/user?id=speckx), [203 comments](https://news.ycombinator.com/item?id=49379550)
+6. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) (blog.laserphile.com) - 869 points by [emctech](https://news.ycombinator.com/user?id=emctech), [285 comments](https://news.ycombinator.com/item?id=49372583)
+7. [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) (jsomers.net) - 192 points by [tyre](https://news.ycombinator.com/user?id=tyre), [71 comments](https://news.ycombinator.com/item?id=49377853)
+8. [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) (chrisburnell.com) - 556 points by [encyclopedism](https://news.ycombinator.com/user?id=encyclopedism), [157 comments](https://news.ycombinator.com/item?id=49362689)
+9. [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) (safedep.io) - 387 points by [abhisek](https://news.ycombinator.com/user?id=abhisek), [359 comments](https://news.ycombinator.com/item?id=49374269)
+10. [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) (danielvaughn.dev) - 209 points by [danielvaughn](https://news.ycombinator.com/user?id=danielvaughn), [114 comments](https://news.ycombinator.com/item?id=49378768)
 
 ## 2026-08-20
 

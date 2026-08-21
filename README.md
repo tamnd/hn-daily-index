@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | [Aug 17](#2026-08-17) | [Aug 16](#2026-08-16) | [Aug 15](#2026-08-15) | [Aug 14](#2026-08-14)
+Recent: [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | [Aug 17](#2026-08-17) | [Aug 16](#2026-08-16) | [Aug 15](#2026-08-15)
 
-### [2026](data/2026/) (232/232 days)
+### [2026](data/2026/) (233/233 days)
 
-[**August**](data/2026/08/) (20/20)
+[**August**](data/2026/08/) (21/21)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
-| [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) |  |  |  |
+| [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2153,6 +2153,21 @@ Recent: [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | 
 </details>
 
 ---
+
+## 2026-08-21
+
+*Friday*
+
+1. [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) (mathstodon.xyz) - 29 points by [u1hcw9nx](https://news.ycombinator.com/user?id=u1hcw9nx), [24 comments](https://news.ycombinator.com/item?id=49382041)
+2. [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) (github.blog) - 295 points by [0xedb](https://news.ycombinator.com/user?id=0xedb), [336 comments](https://news.ycombinator.com/item?id=49378957)
+3. [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) (consumerrights.wiki) - 206 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [23 comments](https://news.ycombinator.com/item?id=49378243)
+4. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) (experimental-history.com) - 549 points by [Ariarule](https://news.ycombinator.com/user?id=Ariarule), [252 comments](https://news.ycombinator.com/item?id=49347543)
+5. [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) (blog.curiousquail.com) - 867 points by [speckx](https://news.ycombinator.com/user?id=speckx), [203 comments](https://news.ycombinator.com/item?id=49379550)
+6. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) (blog.laserphile.com) - 869 points by [emctech](https://news.ycombinator.com/user?id=emctech), [285 comments](https://news.ycombinator.com/item?id=49372583)
+7. [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) (jsomers.net) - 192 points by [tyre](https://news.ycombinator.com/user?id=tyre), [71 comments](https://news.ycombinator.com/item?id=49377853)
+8. [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) (chrisburnell.com) - 556 points by [encyclopedism](https://news.ycombinator.com/user?id=encyclopedism), [157 comments](https://news.ycombinator.com/item?id=49362689)
+9. [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) (safedep.io) - 387 points by [abhisek](https://news.ycombinator.com/user?id=abhisek), [359 comments](https://news.ycombinator.com/item?id=49374269)
+10. [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) (danielvaughn.dev) - 209 points by [danielvaughn](https://news.ycombinator.com/user?id=danielvaughn), [114 comments](https://news.ycombinator.com/item?id=49378768)
 
 ## 2026-08-20
 
