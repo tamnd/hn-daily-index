@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (21 days)
+- [August](08/) (22 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-22
+
+*Saturday*
+
+1. [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) (bandarlabs.github.io) - 411 points by [thepoet](https://news.ycombinator.com/user?id=thepoet), [139 comments](https://news.ycombinator.com/item?id=49390427)
+2. [Felony Bench](https://www.felonybench.com/) (felonybench.com) - 499 points by [colinprince](https://news.ycombinator.com/user?id=colinprince), [222 comments](https://news.ycombinator.com/item?id=49389430)
+3. [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) (newscenter.lbl.gov) - 139 points by [NKosmatos](https://news.ycombinator.com/user?id=NKosmatos), [44 comments](https://news.ycombinator.com/item?id=49392200)
+4. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) (kagi.com) - 994 points by [speckx](https://news.ycombinator.com/user?id=speckx), [335 comments](https://news.ycombinator.com/item?id=49388154)
+5. [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) (thomasdullien.github.io) - 29 points by [tdullien](https://news.ycombinator.com/user?id=tdullien), [7 comments](https://news.ycombinator.com/item?id=49394496)
+6. [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) (lina.sh) - 430 points by [gavide](https://news.ycombinator.com/user?id=gavide), [47 comments](https://news.ycombinator.com/item?id=49387570)
+7. [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com) (ozbrain.com) - 23 points by [dariusmonsef](https://news.ycombinator.com/user?id=dariusmonsef), [9 comments](https://news.ycombinator.com/item?id=49394827)
+8. [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox) (acm.org) - 86 points by [signa11](https://news.ycombinator.com/user?id=signa11), [10 comments](https://news.ycombinator.com/item?id=49327408)
+9. [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) (nytimes.com) - 533 points by [floathub](https://news.ycombinator.com/user?id=floathub), [715 comments](https://news.ycombinator.com/item?id=49386895)
+10. [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) (api-docs.deepseek.com) - 454 points by [dares2573](https://news.ycombinator.com/user?id=dares2573), [143 comments](https://news.ycombinator.com/item?id=49386163)
 
 ## 2026-08-21
 

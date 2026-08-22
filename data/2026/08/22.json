@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49390427,
+    "title": "Kobo can run apps now",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "score": 411,
+    "by": "thepoet",
+    "descendants": 139,
+    "time": 1787329525
+  },
+  {
+    "rank": 2,
+    "id": 49389430,
+    "title": "Felony Bench",
+    "url": "https://www.felonybench.com/",
+    "score": 499,
+    "by": "colinprince",
+    "descendants": 222,
+    "time": 1787325424
+  },
+  {
+    "rank": 3,
+    "id": 49392200,
+    "title": "Scientists release biggest 2D map of the universe",
+    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "score": 139,
+    "by": "NKosmatos",
+    "descendants": 44,
+    "time": 1787337394
+  },
+  {
+    "rank": 4,
+    "id": 49388154,
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "url": "https://kagi.com/changelog#11296",
+    "score": 994,
+    "by": "speckx",
+    "descendants": 335,
+    "time": 1787320597
+  },
+  {
+    "rank": 5,
+    "id": 49394496,
+    "title": "Three important steps in my maturation process",
+    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "score": 29,
+    "by": "tdullien",
+    "descendants": 7,
+    "time": 1787351340
+  },
+  {
+    "rank": 6,
+    "id": 49387570,
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "score": 430,
+    "by": "gavide",
+    "descendants": 47,
+    "time": 1787317888
+  },
+  {
+    "rank": 7,
+    "id": 49394827,
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "url": "https://ozbrain.com",
+    "score": 23,
+    "by": "dariusmonsef",
+    "descendants": 9,
+    "time": 1787353746
+  },
+  {
+    "rank": 8,
+    "id": 49327408,
+    "title": "People of ACM \u2013 Russ Cox",
+    "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+    "score": 86,
+    "by": "signa11",
+    "descendants": 10,
+    "time": 1786950735
+  },
+  {
+    "rank": 9,
+    "id": 49386895,
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "score": 533,
+    "by": "floathub",
+    "descendants": 715,
+    "time": 1787314213
+  },
+  {
+    "rank": 10,
+    "id": 49386163,
+    "title": "DeepSeek-v4-flash-vision-exp",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "score": 454,
+    "by": "dares2573",
+    "descendants": 143,
+    "time": 1787308436
+  }
+]
