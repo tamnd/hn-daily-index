@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | [Aug 17](#2026-08-17) | [Aug 16](#2026-08-16)
+Recent: [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | [Aug 17](#2026-08-17)
 
-### [2026](data/2026/) (234/234 days)
+### [2026](data/2026/) (235/235 days)
 
-[**August**](data/2026/08/) (22/22)
+[**August**](data/2026/08/) (23/23)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | [**1**](#2026-08-01) | [**2**](#2026-08-02) |
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
-| [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) | [**22**](#2026-08-22) |  |
+| [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) | [**22**](#2026-08-22) | [**23**](#2026-08-23) |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2153,6 +2153,21 @@ Recent: [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | 
 </details>
 
 ---
+
+## 2026-08-23
+
+*Sunday*
+
+1. [Scrap](https://twitter.com/moxie/status/2091218652133732491) (twitter.com) - 299 points by [tosh](https://news.ycombinator.com/user?id=tosh), [155 comments](https://news.ycombinator.com/item?id=49402189)
+2. [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) (primeintellect.ai) - 39 points by [stared](https://news.ycombinator.com/user?id=stared), [9 comments](https://news.ycombinator.com/item?id=49404380)
+3. [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) (forum.level1techs.com) - 166 points by [felineflock](https://news.ycombinator.com/user?id=felineflock), [51 comments](https://news.ycombinator.com/item?id=49402232)
+4. [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) (quantumi.sh) - 293 points by [jemoka](https://news.ycombinator.com/user?id=jemoka), [100 comments](https://news.ycombinator.com/item?id=49400408)
+5. [Hister – A private, full content search index that you control](https://hister.org/) (hister.org) - 223 points by [auraham](https://news.ycombinator.com/user?id=auraham), [65 comments](https://news.ycombinator.com/item?id=49351802)
+6. [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) (mail-index.netbsd.org) - 90 points by [gnyeki](https://news.ycombinator.com/user?id=gnyeki), [22 comments](https://news.ycombinator.com/item?id=49402781)
+7. [RF Cafe](https://www.rfcafe.com/) (rfcafe.com) - 144 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [23 comments](https://news.ycombinator.com/item?id=49355659)
+8. [typ.ing](https://typ.ing/) (typ.ing) - 169 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [54 comments](https://news.ycombinator.com/item?id=49346854)
+9. [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) (reuters.com) - 101 points by [olalonde](https://news.ycombinator.com/user?id=olalonde), [37 comments](https://news.ycombinator.com/item?id=49387959)
+10. [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) (geometridae.bearblog.dev) - 186 points by [signa11](https://news.ycombinator.com/user?id=signa11), [92 comments](https://news.ycombinator.com/item?id=49399898)
 
 ## 2026-08-22
 

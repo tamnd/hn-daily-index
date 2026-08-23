@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (22 days)
+- [August](08/) (23 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-23
+
+*Sunday*
+
+1. [Scrap](https://twitter.com/moxie/status/2091218652133732491) (twitter.com) - 299 points by [tosh](https://news.ycombinator.com/user?id=tosh), [155 comments](https://news.ycombinator.com/item?id=49402189)
+2. [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) (primeintellect.ai) - 39 points by [stared](https://news.ycombinator.com/user?id=stared), [9 comments](https://news.ycombinator.com/item?id=49404380)
+3. [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) (forum.level1techs.com) - 166 points by [felineflock](https://news.ycombinator.com/user?id=felineflock), [51 comments](https://news.ycombinator.com/item?id=49402232)
+4. [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) (quantumi.sh) - 293 points by [jemoka](https://news.ycombinator.com/user?id=jemoka), [100 comments](https://news.ycombinator.com/item?id=49400408)
+5. [Hister – A private, full content search index that you control](https://hister.org/) (hister.org) - 223 points by [auraham](https://news.ycombinator.com/user?id=auraham), [65 comments](https://news.ycombinator.com/item?id=49351802)
+6. [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) (mail-index.netbsd.org) - 90 points by [gnyeki](https://news.ycombinator.com/user?id=gnyeki), [22 comments](https://news.ycombinator.com/item?id=49402781)
+7. [RF Cafe](https://www.rfcafe.com/) (rfcafe.com) - 144 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [23 comments](https://news.ycombinator.com/item?id=49355659)
+8. [typ.ing](https://typ.ing/) (typ.ing) - 169 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [54 comments](https://news.ycombinator.com/item?id=49346854)
+9. [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) (reuters.com) - 101 points by [olalonde](https://news.ycombinator.com/user?id=olalonde), [37 comments](https://news.ycombinator.com/item?id=49387959)
+10. [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) (geometridae.bearblog.dev) - 186 points by [signa11](https://news.ycombinator.com/user?id=signa11), [92 comments](https://news.ycombinator.com/item?id=49399898)
 
 ## 2026-08-22
 

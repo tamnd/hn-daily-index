@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49402189,
+    "title": "Scrap",
+    "url": "https://twitter.com/moxie/status/2091218652133732491",
+    "score": 299,
+    "by": "tosh",
+    "descendants": 155,
+    "time": 1787422136
+  },
+  {
+    "rank": 2,
+    "id": 49404380,
+    "title": "NanoGPT Speedrun Frontier",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "score": 39,
+    "by": "stared",
+    "descendants": 9,
+    "time": 1787436867
+  },
+  {
+    "rank": 3,
+    "id": 49402232,
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "score": 166,
+    "by": "felineflock",
+    "descendants": 51,
+    "time": 1787422456
+  },
+  {
+    "rank": 4,
+    "id": 49400408,
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "score": 293,
+    "by": "jemoka",
+    "descendants": 100,
+    "time": 1787410447
+  },
+  {
+    "rank": 5,
+    "id": 49351802,
+    "title": "Hister \u2013 A private, full content search index that you control",
+    "url": "https://hister.org/",
+    "score": 223,
+    "by": "auraham",
+    "descendants": 65,
+    "time": 1787083250
+  },
+  {
+    "rank": 6,
+    "id": 49402781,
+    "title": "NetBSD and my life (2005)",
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "score": 90,
+    "by": "gnyeki",
+    "descendants": 22,
+    "time": 1787425666
+  },
+  {
+    "rank": 7,
+    "id": 49355659,
+    "title": "RF Cafe",
+    "url": "https://www.rfcafe.com/",
+    "score": 144,
+    "by": "gregsadetsky",
+    "descendants": 23,
+    "time": 1787105143
+  },
+  {
+    "rank": 8,
+    "id": 49346854,
+    "title": "typ.ing",
+    "url": "https://typ.ing/",
+    "score": 169,
+    "by": "bookofjoe",
+    "descendants": 54,
+    "time": 1787065973
+  },
+  {
+    "rank": 9,
+    "id": 49387959,
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "score": 101,
+    "by": "olalonde",
+    "descendants": 37,
+    "time": 1787319813
+  },
+  {
+    "rank": 10,
+    "id": 49399898,
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "score": 186,
+    "by": "signa11",
+    "descendants": 92,
+    "time": 1787407699
+  }
+]
