@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18) | [Aug 17](#2026-08-17)
+Recent: [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18)
 
-### [2026](data/2026/) (235/235 days)
+### [2026](data/2026/) (236/236 days)
 
-[**August**](data/2026/08/) (23/23)
+[**August**](data/2026/08/) (24/24)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,6 +25,7 @@ Recent: [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | 
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
 | [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) | [**22**](#2026-08-22) | [**23**](#2026-08-23) |
+| [**24**](#2026-08-24) |  |  |  |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2153,6 +2154,21 @@ Recent: [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | 
 </details>
 
 ---
+
+## 2026-08-24
+
+*Monday*
+
+1. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) (schlarp.com) - 199 points by [schlarpc](https://news.ycombinator.com/user?id=schlarpc), [60 comments](https://news.ycombinator.com/item?id=49413320)
+2. [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) (lalitm.com) - 251 points by [vanpra](https://news.ycombinator.com/user?id=vanpra), [96 comments](https://news.ycombinator.com/item?id=49411643)
+3. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) (ft.com) - 178 points by [naves](https://news.ycombinator.com/user?id=naves), [141 comments](https://news.ycombinator.com/item?id=49411102)
+4. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) (blog.elis.cc) - 162 points by [el1s7](https://news.ycombinator.com/user?id=el1s7), [37 comments](https://news.ycombinator.com/item?id=49411717)
+5. [AI Chip Architectures](https://www.jepeake.com/ai-chip-architectures) (jepeake.com) - 32 points by [Finbarr](https://news.ycombinator.com/user?id=Finbarr), [3 comments](https://news.ycombinator.com/item?id=49405657)
+6. [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) (fabiensanglard.net) - 139 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [71 comments](https://news.ycombinator.com/item?id=49410932)
+7. [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) (earendil.com) - 286 points by [tosh](https://news.ycombinator.com/user?id=tosh), [131 comments](https://news.ycombinator.com/item?id=49409092)
+8. [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) (how.complexsystems.fail) - 229 points by [shortcrct](https://news.ycombinator.com/user?id=shortcrct), [61 comments](https://news.ycombinator.com/item?id=49409473)
+9. [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) (securelist.com) - 207 points by [campuscodi](https://news.ycombinator.com/user?id=campuscodi), [106 comments](https://news.ycombinator.com/item?id=49408550)
+10. [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake) (github.com) - 19 points by [porridgeraisin](https://news.ycombinator.com/user?id=porridgeraisin), [7 comments](https://news.ycombinator.com/item?id=49412909)
 
 ## 2026-08-23
 
