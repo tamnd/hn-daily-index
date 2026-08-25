@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (24 days)
+- [August](08/) (25 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-25
+
+*Tuesday*
+
+1. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) (developer.apple.com) - 190 points by [K7PJP](https://news.ycombinator.com/user?id=K7PJP), [38 comments](https://news.ycombinator.com/item?id=49426564)
+2. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) (twitter.com) - 715 points by [tosh](https://news.ycombinator.com/user?id=tosh), [477 comments](https://news.ycombinator.com/item?id=49420873)
+3. [Moon (2024)](https://ciechanow.ski/moon/) (ciechanow.ski) - 87 points by [simonebrunozzi](https://news.ycombinator.com/user?id=simonebrunozzi), [14 comments](https://news.ycombinator.com/item?id=49426466)
+4. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) (xusheng.dev) - 547 points by [ComputerGuru](https://news.ycombinator.com/user?id=ComputerGuru), [218 comments](https://news.ycombinator.com/item?id=49421158)
+5. [The entire city of San Francisco as a video game](https://sf.thijs.gg/) (sf.thijs.gg) - 325 points by [centrosphere](https://news.ycombinator.com/user?id=centrosphere), [114 comments](https://news.ycombinator.com/item?id=49422784)
+6. [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk) (cnn.com) - 115 points by [related](https://news.ycombinator.com/user?id=related), [90 comments](https://news.ycombinator.com/item?id=49425819)
+7. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) (lectronz.com) - 1.0k points by [l-one-lone](https://news.ycombinator.com/user?id=l-one-lone), [649 comments](https://news.ycombinator.com/item?id=49419237)
+8. [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf) (github.com) - 21 points by [arbayi](https://news.ycombinator.com/user?id=arbayi), [4 comments](https://news.ycombinator.com/item?id=49427001)
+9. [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/) (daily.jstor.org) - 142 points by [herbertl](https://news.ycombinator.com/user?id=herbertl), [289 comments](https://news.ycombinator.com/item?id=49422800)
+10. [Iran Is Using Foreign Criminals to Attack Its Critics Overseas](https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas) (newyorker.com) - 9 points by [firefax](https://news.ycombinator.com/user?id=firefax), [0 comments](https://news.ycombinator.com/item?id=49427046)
 
 ## 2026-08-24
 

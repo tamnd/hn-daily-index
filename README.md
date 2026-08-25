@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19) | [Aug 18](#2026-08-18)
+Recent: [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19)
 
-### [2026](data/2026/) (236/236 days)
+### [2026](data/2026/) (237/237 days)
 
-[**August**](data/2026/08/) (24/24)
+[**August**](data/2026/08/) (25/25)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | 
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
 | [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) | [**22**](#2026-08-22) | [**23**](#2026-08-23) |
-| [**24**](#2026-08-24) |  |  |  |  |  |  |
+| [**24**](#2026-08-24) | [**25**](#2026-08-25) |  |  |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2154,6 +2154,21 @@ Recent: [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | 
 </details>
 
 ---
+
+## 2026-08-25
+
+*Tuesday*
+
+1. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) (developer.apple.com) - 190 points by [K7PJP](https://news.ycombinator.com/user?id=K7PJP), [38 comments](https://news.ycombinator.com/item?id=49426564)
+2. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) (twitter.com) - 715 points by [tosh](https://news.ycombinator.com/user?id=tosh), [477 comments](https://news.ycombinator.com/item?id=49420873)
+3. [Moon (2024)](https://ciechanow.ski/moon/) (ciechanow.ski) - 87 points by [simonebrunozzi](https://news.ycombinator.com/user?id=simonebrunozzi), [14 comments](https://news.ycombinator.com/item?id=49426466)
+4. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) (xusheng.dev) - 547 points by [ComputerGuru](https://news.ycombinator.com/user?id=ComputerGuru), [218 comments](https://news.ycombinator.com/item?id=49421158)
+5. [The entire city of San Francisco as a video game](https://sf.thijs.gg/) (sf.thijs.gg) - 325 points by [centrosphere](https://news.ycombinator.com/user?id=centrosphere), [114 comments](https://news.ycombinator.com/item?id=49422784)
+6. [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk) (cnn.com) - 115 points by [related](https://news.ycombinator.com/user?id=related), [90 comments](https://news.ycombinator.com/item?id=49425819)
+7. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) (lectronz.com) - 1.0k points by [l-one-lone](https://news.ycombinator.com/user?id=l-one-lone), [649 comments](https://news.ycombinator.com/item?id=49419237)
+8. [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf) (github.com) - 21 points by [arbayi](https://news.ycombinator.com/user?id=arbayi), [4 comments](https://news.ycombinator.com/item?id=49427001)
+9. [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/) (daily.jstor.org) - 142 points by [herbertl](https://news.ycombinator.com/user?id=herbertl), [289 comments](https://news.ycombinator.com/item?id=49422800)
+10. [Iran Is Using Foreign Criminals to Attack Its Critics Overseas](https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas) (newyorker.com) - 9 points by [firefax](https://news.ycombinator.com/user?id=firefax), [0 comments](https://news.ycombinator.com/item?id=49427046)
 
 ## 2026-08-24
 
