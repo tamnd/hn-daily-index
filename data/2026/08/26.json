@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49439017,
+    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "score": 233,
+    "by": "sunnynagra",
+    "descendants": 136,
+    "time": 1787684821
+  },
+  {
+    "rank": 2,
+    "id": 49433292,
+    "title": "Apple introduces M6 and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "score": 933,
+    "by": "interpol_p",
+    "descendants": 889,
+    "time": 1787662882
+  },
+  {
+    "rank": 3,
+    "id": 49434378,
+    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "score": 306,
+    "by": "bmulholland",
+    "descendants": 211,
+    "time": 1787666762
+  },
+  {
+    "rank": 4,
+    "id": 49441033,
+    "title": "Python's pre-declared constants are kinda weird",
+    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "score": 129,
+    "by": "rbanffy",
+    "descendants": 91,
+    "time": 1787693942
+  },
+  {
+    "rank": 5,
+    "id": 49433316,
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "score": 695,
+    "by": "interpol_p",
+    "descendants": 442,
+    "time": 1787662997
+  },
+  {
+    "rank": 6,
+    "id": 49441666,
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "url": "https://github.com/runetes/maiao",
+    "score": 20,
+    "by": "zdw",
+    "descendants": 2,
+    "time": 1787697607
+  },
+  {
+    "rank": 7,
+    "id": 49437210,
+    "title": "Black hole singularity is a surface not a point",
+    "url": "https://arxiv.org/abs/2608.21590",
+    "score": 179,
+    "by": "raattgift",
+    "descendants": 125,
+    "time": 1787677369
+  },
+  {
+    "rank": 8,
+    "id": 49440410,
+    "title": "When str.lower() is a security vulnerability in Python \u2013 Seth Larson",
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "score": 49,
+    "by": "rbanffy",
+    "descendants": 25,
+    "time": 1787690943
+  },
+  {
+    "rank": 9,
+    "id": 49441375,
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "url": "https://github.com/swimmingbrain/texbrain",
+    "score": 37,
+    "by": "swimmingbrain",
+    "descendants": 8,
+    "time": 1787695730
+  },
+  {
+    "rank": 10,
+    "id": 49439499,
+    "title": "C2PA Cameras Do Not Survive Contact with Reality",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+    "score": 70,
+    "by": "Retr0id",
+    "descendants": 31,
+    "time": 1787686704
+  }
+]

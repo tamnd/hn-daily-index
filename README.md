@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20) | [Aug 19](#2026-08-19)
+Recent: [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20)
 
-### [2026](data/2026/) (237/237 days)
+### [2026](data/2026/) (238/238 days)
 
-[**August**](data/2026/08/) (25/25)
+[**August**](data/2026/08/) (26/26)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | 
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
 | [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) | [**22**](#2026-08-22) | [**23**](#2026-08-23) |
-| [**24**](#2026-08-24) | [**25**](#2026-08-25) |  |  |  |  |  |
+| [**24**](#2026-08-24) | [**25**](#2026-08-25) | [**26**](#2026-08-26) |  |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2154,6 +2154,21 @@ Recent: [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | 
 </details>
 
 ---
+
+## 2026-08-26
+
+*Wednesday*
+
+1. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) (fda.gov) - 233 points by [sunnynagra](https://news.ycombinator.com/user?id=sunnynagra), [136 comments](https://news.ycombinator.com/item?id=49439017)
+2. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) (apple.com) - 933 points by [interpol_p](https://news.ycombinator.com/user?id=interpol_p), [889 comments](https://news.ycombinator.com/item?id=49433292)
+3. [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) (newsletter.semianalysis.com) - 306 points by [bmulholland](https://news.ycombinator.com/user?id=bmulholland), [211 comments](https://news.ycombinator.com/item?id=49434378)
+4. [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) (sebsite.pw) - 129 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [91 comments](https://news.ycombinator.com/item?id=49441033)
+5. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) (apple.com) - 695 points by [interpol_p](https://news.ycombinator.com/user?id=interpol_p), [442 comments](https://news.ycombinator.com/item?id=49433316)
+6. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) (github.com) - 20 points by [zdw](https://news.ycombinator.com/user?id=zdw), [2 comments](https://news.ycombinator.com/item?id=49441666)
+7. [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) (arxiv.org) - 179 points by [raattgift](https://news.ycombinator.com/user?id=raattgift), [125 comments](https://news.ycombinator.com/item?id=49437210)
+8. [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) (sethmlarson.dev) - 49 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [25 comments](https://news.ycombinator.com/item?id=49440410)
+9. [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) (github.com) - 37 points by [swimmingbrain](https://news.ycombinator.com/user?id=swimmingbrain), [8 comments](https://news.ycombinator.com/item?id=49441375)
+10. [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html) (da.vidbuchanan.co.uk) - 70 points by [Retr0id](https://news.ycombinator.com/user?id=Retr0id), [31 comments](https://news.ycombinator.com/item?id=49439499)
 
 ## 2026-08-25
 

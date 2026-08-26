@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in August 2026.
 
+- [2026-08-26 (Wednesday)](#2026-08-26)
 - [2026-08-25 (Tuesday)](#2026-08-25)
 - [2026-08-24 (Monday)](#2026-08-24)
 - [2026-08-23 (Sunday)](#2026-08-23)
@@ -29,6 +30,21 @@ Top 10 Hacker News stories for each day in August 2026.
 - [2026-08-01 (Saturday)](#2026-08-01)
 
 ---
+
+## 2026-08-26
+
+*Wednesday*
+
+1. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) (fda.gov) - 233 points by [sunnynagra](https://news.ycombinator.com/user?id=sunnynagra), [136 comments](https://news.ycombinator.com/item?id=49439017)
+2. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) (apple.com) - 933 points by [interpol_p](https://news.ycombinator.com/user?id=interpol_p), [889 comments](https://news.ycombinator.com/item?id=49433292)
+3. [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) (newsletter.semianalysis.com) - 306 points by [bmulholland](https://news.ycombinator.com/user?id=bmulholland), [211 comments](https://news.ycombinator.com/item?id=49434378)
+4. [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) (sebsite.pw) - 129 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [91 comments](https://news.ycombinator.com/item?id=49441033)
+5. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) (apple.com) - 695 points by [interpol_p](https://news.ycombinator.com/user?id=interpol_p), [442 comments](https://news.ycombinator.com/item?id=49433316)
+6. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) (github.com) - 20 points by [zdw](https://news.ycombinator.com/user?id=zdw), [2 comments](https://news.ycombinator.com/item?id=49441666)
+7. [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) (arxiv.org) - 179 points by [raattgift](https://news.ycombinator.com/user?id=raattgift), [125 comments](https://news.ycombinator.com/item?id=49437210)
+8. [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) (sethmlarson.dev) - 49 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [25 comments](https://news.ycombinator.com/item?id=49440410)
+9. [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) (github.com) - 37 points by [swimmingbrain](https://news.ycombinator.com/user?id=swimmingbrain), [8 comments](https://news.ycombinator.com/item?id=49441375)
+10. [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html) (da.vidbuchanan.co.uk) - 70 points by [Retr0id](https://news.ycombinator.com/user?id=Retr0id), [31 comments](https://news.ycombinator.com/item?id=49439499)
 
 ## 2026-08-25
 
