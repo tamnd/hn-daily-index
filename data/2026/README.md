@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (26 days)
+- [August](08/) (27 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-27
+
+*Thursday*
+
+1. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) (businessinsider.com) - 792 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [330 comments](https://news.ycombinator.com/item?id=49458161)
+2. [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) (github.com) - 391 points by [GrumpySciGuy](https://news.ycombinator.com/user?id=GrumpySciGuy), [245 comments](https://news.ycombinator.com/item?id=49458418)
+3. [Mechanical Turk shutting down September 30](https://www.mturk.com/) (mturk.com) - 275 points by [tmp10423288442](https://news.ycombinator.com/user?id=tmp10423288442), [82 comments](https://news.ycombinator.com/item?id=49457545)
+4. [Pnpm 12.0](https://pnpm.io/blog/releases/12.0) (pnpm.io) - 30 points by [jcbhmr](https://news.ycombinator.com/user?id=jcbhmr), [12 comments](https://news.ycombinator.com/item?id=49460032)
+5. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) (z.ai) - 966 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [492 comments](https://news.ycombinator.com/item?id=49449507)
+6. [Kusama Yayoi Dies at 97](https://news.jp/i/1465528042000662661) (news.jp) - 129 points by [phantomathkg](https://news.ycombinator.com/user?id=phantomathkg), [11 comments](https://news.ycombinator.com/item?id=49458709)
+7. [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) (github.com) - 537 points by [nderjung](https://news.ycombinator.com/user?id=nderjung), [98 comments](https://news.ycombinator.com/item?id=49452990)
+8. [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) (asahilinux.org) - 200 points by [pizzaiolo](https://news.ycombinator.com/user?id=pizzaiolo), [55 comments](https://news.ycombinator.com/item?id=49456851)
+9. [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html) (nhess.copernicus.org) - 131 points by [totetsu](https://news.ycombinator.com/user?id=totetsu), [59 comments](https://news.ycombinator.com/item?id=49456929)
+10. [Laion Big Video Dataset](https://projects.laion.ai/bvd/) (projects.laion.ai) - 46 points by [ks2048](https://news.ycombinator.com/user?id=ks2048), [7 comments](https://news.ycombinator.com/item?id=49458478)
 
 ## 2026-08-26
 

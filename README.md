@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21) | [Aug 20](#2026-08-20)
+Recent: [Aug 27](#2026-08-27) | [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21)
 
-### [2026](data/2026/) (238/238 days)
+### [2026](data/2026/) (239/239 days)
 
-[**August**](data/2026/08/) (26/26)
+[**August**](data/2026/08/) (27/27)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | 
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
 | [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) | [**22**](#2026-08-22) | [**23**](#2026-08-23) |
-| [**24**](#2026-08-24) | [**25**](#2026-08-25) | [**26**](#2026-08-26) |  |  |  |  |
+| [**24**](#2026-08-24) | [**25**](#2026-08-25) | [**26**](#2026-08-26) | [**27**](#2026-08-27) |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2154,6 +2154,21 @@ Recent: [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | 
 </details>
 
 ---
+
+## 2026-08-27
+
+*Thursday*
+
+1. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) (businessinsider.com) - 792 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [330 comments](https://news.ycombinator.com/item?id=49458161)
+2. [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) (github.com) - 391 points by [GrumpySciGuy](https://news.ycombinator.com/user?id=GrumpySciGuy), [245 comments](https://news.ycombinator.com/item?id=49458418)
+3. [Mechanical Turk shutting down September 30](https://www.mturk.com/) (mturk.com) - 275 points by [tmp10423288442](https://news.ycombinator.com/user?id=tmp10423288442), [82 comments](https://news.ycombinator.com/item?id=49457545)
+4. [Pnpm 12.0](https://pnpm.io/blog/releases/12.0) (pnpm.io) - 30 points by [jcbhmr](https://news.ycombinator.com/user?id=jcbhmr), [12 comments](https://news.ycombinator.com/item?id=49460032)
+5. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) (z.ai) - 966 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [492 comments](https://news.ycombinator.com/item?id=49449507)
+6. [Kusama Yayoi Dies at 97](https://news.jp/i/1465528042000662661) (news.jp) - 129 points by [phantomathkg](https://news.ycombinator.com/user?id=phantomathkg), [11 comments](https://news.ycombinator.com/item?id=49458709)
+7. [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) (github.com) - 537 points by [nderjung](https://news.ycombinator.com/user?id=nderjung), [98 comments](https://news.ycombinator.com/item?id=49452990)
+8. [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) (asahilinux.org) - 200 points by [pizzaiolo](https://news.ycombinator.com/user?id=pizzaiolo), [55 comments](https://news.ycombinator.com/item?id=49456851)
+9. [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html) (nhess.copernicus.org) - 131 points by [totetsu](https://news.ycombinator.com/user?id=totetsu), [59 comments](https://news.ycombinator.com/item?id=49456929)
+10. [Laion Big Video Dataset](https://projects.laion.ai/bvd/) (projects.laion.ai) - 46 points by [ks2048](https://news.ycombinator.com/user?id=ks2048), [7 comments](https://news.ycombinator.com/item?id=49458478)
 
 ## 2026-08-26
 
