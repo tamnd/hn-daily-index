@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 27](#2026-08-27) | [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22) | [Aug 21](#2026-08-21)
+Recent: [Aug 28](#2026-08-28) | [Aug 27](#2026-08-27) | [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24) | [Aug 23](#2026-08-23) | [Aug 22](#2026-08-22)
 
-### [2026](data/2026/) (239/239 days)
+### [2026](data/2026/) (240/240 days)
 
-[**August**](data/2026/08/) (27/27)
+[**August**](data/2026/08/) (28/28)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Aug 27](#2026-08-27) | [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | 
 | [**3**](#2026-08-03) | [**4**](#2026-08-04) | [**5**](#2026-08-05) | [**6**](#2026-08-06) | [**7**](#2026-08-07) | [**8**](#2026-08-08) | [**9**](#2026-08-09) |
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
 | [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) | [**22**](#2026-08-22) | [**23**](#2026-08-23) |
-| [**24**](#2026-08-24) | [**25**](#2026-08-25) | [**26**](#2026-08-26) | [**27**](#2026-08-27) |  |  |  |
+| [**24**](#2026-08-24) | [**25**](#2026-08-25) | [**26**](#2026-08-26) | [**27**](#2026-08-27) | [**28**](#2026-08-28) |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2154,6 +2154,21 @@ Recent: [Aug 27](#2026-08-27) | [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | 
 </details>
 
 ---
+
+## 2026-08-28
+
+*Friday*
+
+1. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) (blog.cloudflare.com) - 718 points by [TangerineDream](https://news.ycombinator.com/user?id=TangerineDream), [216 comments](https://news.ycombinator.com/item?id=49468083)
+2. [Small Models Have Arrived](https://calv.info/small-models-have-arrived) (calv.info) - 613 points by [tosh](https://news.ycombinator.com/user?id=tosh), [282 comments](https://news.ycombinator.com/item?id=49466917)
+3. [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) (modal.cx) - 77 points by [eigenspace](https://news.ycombinator.com/user?id=eigenspace), [37 comments](https://news.ycombinator.com/item?id=49474786)
+4. [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) (github.com) - 152 points by [elyosh](https://news.ycombinator.com/user?id=elyosh), [37 comments](https://news.ycombinator.com/item?id=49471965)
+5. [507 Mechanical Movements](https://507movements.com/) (507movements.com) - 565 points by [helloplanets](https://news.ycombinator.com/user?id=helloplanets), [72 comments](https://news.ycombinator.com/item?id=49465169)
+6. [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) (blog.google) - 263 points by [k9294](https://news.ycombinator.com/user?id=k9294), [83 comments](https://news.ycombinator.com/item?id=49468818)
+7. [Microduck](https://pollen-robotics.com/microduck/) (pollen-robotics.com) - 633 points by [robotswantdata](https://news.ycombinator.com/user?id=robotswantdata), [210 comments](https://news.ycombinator.com/item?id=49462763)
+8. [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) (code.ffmpeg.org) - 229 points by [dclavijo](https://news.ycombinator.com/user?id=dclavijo), [178 comments](https://news.ycombinator.com/item?id=49468642)
+9. [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/) (newscientist.com) - 103 points by [eutropheon](https://news.ycombinator.com/user?id=eutropheon), [96 comments](https://news.ycombinator.com/item?id=49472090)
+10. [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement) (terminal-bench-science.ai) - 74 points by [matt_d](https://news.ycombinator.com/user?id=matt_d), [23 comments](https://news.ycombinator.com/item?id=49472820)
 
 ## 2026-08-27
 

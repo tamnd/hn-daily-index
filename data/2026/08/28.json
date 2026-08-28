@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49468083,
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "score": 718,
+    "by": "TangerineDream",
+    "descendants": 216,
+    "time": 1787851077
+  },
+  {
+    "rank": 2,
+    "id": 49466917,
+    "title": "Small Models Have Arrived",
+    "url": "https://calv.info/small-models-have-arrived",
+    "score": 613,
+    "by": "tosh",
+    "descendants": 282,
+    "time": 1787846218
+  },
+  {
+    "rank": 3,
+    "id": 49474786,
+    "title": "Sovereign Tech Agency invests \u20ac500k in Flatpak",
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "score": 77,
+    "by": "eigenspace",
+    "descendants": 37,
+    "time": 1787895767
+  },
+  {
+    "rank": 4,
+    "id": 49471965,
+    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+    "url": "https://github.com/elyosh/OpenTIE/",
+    "score": 152,
+    "by": "elyosh",
+    "descendants": 37,
+    "time": 1787868647
+  },
+  {
+    "rank": 5,
+    "id": 49465169,
+    "title": "507 Mechanical Movements",
+    "url": "https://507movements.com/",
+    "score": 565,
+    "by": "helloplanets",
+    "descendants": 72,
+    "time": 1787839698
+  },
+  {
+    "rank": 6,
+    "id": 49468818,
+    "title": "Gemini-3.5-Transcribe",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "score": 263,
+    "by": "k9294",
+    "descendants": 83,
+    "time": 1787853822
+  },
+  {
+    "rank": 7,
+    "id": 49462763,
+    "title": "Microduck",
+    "url": "https://pollen-robotics.com/microduck/",
+    "score": 633,
+    "by": "robotswantdata",
+    "descendants": 210,
+    "time": 1787828276
+  },
+  {
+    "rank": 8,
+    "id": 49468642,
+    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+    "score": 229,
+    "by": "dclavijo",
+    "descendants": 178,
+    "time": 1787853220
+  },
+  {
+    "rank": 9,
+    "id": 49472090,
+    "title": "Doctors are finally learning to manage antidepressant withdrawal",
+    "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+    "score": 103,
+    "by": "eutropheon",
+    "descendants": 96,
+    "time": 1787869564
+  },
+  {
+    "rank": 10,
+    "id": 49472820,
+    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+    "url": "https://www.terminal-bench-science.ai/announcement",
+    "score": 74,
+    "by": "matt_d",
+    "descendants": 23,
+    "time": 1787875611
+  }
+]

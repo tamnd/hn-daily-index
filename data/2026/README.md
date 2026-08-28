@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (27 days)
+- [August](08/) (28 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-28
+
+*Friday*
+
+1. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) (blog.cloudflare.com) - 718 points by [TangerineDream](https://news.ycombinator.com/user?id=TangerineDream), [216 comments](https://news.ycombinator.com/item?id=49468083)
+2. [Small Models Have Arrived](https://calv.info/small-models-have-arrived) (calv.info) - 613 points by [tosh](https://news.ycombinator.com/user?id=tosh), [282 comments](https://news.ycombinator.com/item?id=49466917)
+3. [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) (modal.cx) - 77 points by [eigenspace](https://news.ycombinator.com/user?id=eigenspace), [37 comments](https://news.ycombinator.com/item?id=49474786)
+4. [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) (github.com) - 152 points by [elyosh](https://news.ycombinator.com/user?id=elyosh), [37 comments](https://news.ycombinator.com/item?id=49471965)
+5. [507 Mechanical Movements](https://507movements.com/) (507movements.com) - 565 points by [helloplanets](https://news.ycombinator.com/user?id=helloplanets), [72 comments](https://news.ycombinator.com/item?id=49465169)
+6. [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) (blog.google) - 263 points by [k9294](https://news.ycombinator.com/user?id=k9294), [83 comments](https://news.ycombinator.com/item?id=49468818)
+7. [Microduck](https://pollen-robotics.com/microduck/) (pollen-robotics.com) - 633 points by [robotswantdata](https://news.ycombinator.com/user?id=robotswantdata), [210 comments](https://news.ycombinator.com/item?id=49462763)
+8. [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) (code.ffmpeg.org) - 229 points by [dclavijo](https://news.ycombinator.com/user?id=dclavijo), [178 comments](https://news.ycombinator.com/item?id=49468642)
+9. [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/) (newscientist.com) - 103 points by [eutropheon](https://news.ycombinator.com/user?id=eutropheon), [96 comments](https://news.ycombinator.com/item?id=49472090)
+10. [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement) (terminal-bench-science.ai) - 74 points by [matt_d](https://news.ycombinator.com/user?id=matt_d), [23 comments](https://news.ycombinator.com/item?id=49472820)
 
 ## 2026-08-27
 
