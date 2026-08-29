@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (28 days)
+- [August](08/) (29 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-29
+
+*Saturday*
+
+1. [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) (github.com) - 180 points by [hentrep](https://news.ycombinator.com/user?id=hentrep), [60 comments](https://news.ycombinator.com/item?id=49485267)
+2. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) (ckardaris.com) - 687 points by [ckardaris](https://news.ycombinator.com/user?id=ckardaris), [335 comments](https://news.ycombinator.com/item?id=49479837)
+3. [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) (github.com) - 43 points by [rgbimbochamp](https://news.ycombinator.com/user?id=rgbimbochamp), [13 comments](https://news.ycombinator.com/item?id=49486334)
+4. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) (four.htmx.org) - 580 points by [rmsaksida](https://news.ycombinator.com/user?id=rmsaksida), [143 comments](https://news.ycombinator.com/item?id=49478178)
+5. [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) (openai.com) - 264 points by [meetpateltech](https://news.ycombinator.com/user?id=meetpateltech), [97 comments](https://news.ycombinator.com/item?id=49486172)
+6. [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/) (azmirror.com) - 98 points by [hungryhobbit](https://news.ycombinator.com/user?id=hungryhobbit), [76 comments](https://news.ycombinator.com/item?id=49485452)
+7. [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) (vectorian.be) - 74 points by [dev_l1x_be](https://news.ycombinator.com/user?id=dev_l1x_be), [24 comments](https://news.ycombinator.com/item?id=49485532)
+8. [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) (pwning.systems) - 72 points by [matt_d](https://news.ycombinator.com/user?id=matt_d), [14 comments](https://news.ycombinator.com/item?id=49485416)
+9. [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) (github.com) - 50 points by [thclpr](https://news.ycombinator.com/user?id=thclpr), [12 comments](https://news.ycombinator.com/item?id=49486081)
+10. [U.S. sanctions against the A/I Collective](https://www.inventati.org/) (inventati.org) - 534 points by [exiguus](https://news.ycombinator.com/user?id=exiguus), [506 comments](https://news.ycombinator.com/item?id=49477854)
 
 ## 2026-08-28
 
