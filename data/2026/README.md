@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [August](08/) (29 days)
+- [August](08/) (30 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
 - [May](05/) (31 days)
@@ -12,6 +12,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-08-30
+
+*Sunday*
+
+1. [Bug Blindness](https://danluu.com/bug-blind/) (danluu.com) - 82 points by [davidmckenna](https://news.ycombinator.com/user?id=davidmckenna), [29 comments](https://news.ycombinator.com/item?id=49494520)
+2. [FreeCORE TrueNAS Core – Continued](https://freecore.org/) (freecore.org) - 33 points by [sashk](https://news.ycombinator.com/user?id=sashk), [17 comments](https://news.ycombinator.com/item?id=49494856)
+3. [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) (tencent.com) - 210 points by [shenli3514](https://news.ycombinator.com/user?id=shenli3514), [130 comments](https://news.ycombinator.com/item?id=49492632)
+4. [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/) (blog.python.org) - 38 points by [lumpa](https://news.ycombinator.com/user?id=lumpa), [3 comments](https://news.ycombinator.com/item?id=49425252)
+5. [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) (zackbartel.com) - 376 points by [zackb](https://news.ycombinator.com/user?id=zackb), [158 comments](https://news.ycombinator.com/item?id=49415386)
+6. [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/) (science.nasa.gov) - 138 points by [JumpCrisscross](https://news.ycombinator.com/user?id=JumpCrisscross), [67 comments](https://news.ycombinator.com/item?id=49490870)
+7. [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger) (github.com) - 11 points by [gbin](https://news.ycombinator.com/user?id=gbin), [4 comments](https://news.ycombinator.com/item?id=49438865)
+8. [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/) (texastribune.org) - 142 points by [DeepLogin](https://news.ycombinator.com/user?id=DeepLogin), [46 comments](https://news.ycombinator.com/item?id=49494182)
+9. [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/) (tucker.wales) - 122 points by [tuckerwales](https://news.ycombinator.com/user?id=tuckerwales), [50 comments](https://news.ycombinator.com/item?id=49491714)
+10. [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) (dgl.cx) - 180 points by [lioeters](https://news.ycombinator.com/user?id=lioeters), [46 comments](https://news.ycombinator.com/item?id=49426995)
 
 ## 2026-08-29
 

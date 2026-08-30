@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49494520,
+    "title": "Bug Blindness",
+    "url": "https://danluu.com/bug-blind/",
+    "score": 82,
+    "by": "davidmckenna",
+    "descendants": 29,
+    "time": 1788049300
+  },
+  {
+    "rank": 2,
+    "id": 49494856,
+    "title": "FreeCORE TrueNAS Core \u2013 Continued",
+    "url": "https://freecore.org/",
+    "score": 33,
+    "by": "sashk",
+    "descendants": 17,
+    "time": 1788053492
+  },
+  {
+    "rank": 3,
+    "id": 49492632,
+    "title": "Hy4 preview",
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "score": 210,
+    "by": "shenli3514",
+    "descendants": 130,
+    "time": 1788032003
+  },
+  {
+    "rank": 4,
+    "id": 49425252,
+    "title": "RISC-V is now officially supported by CPython",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "score": 38,
+    "by": "lumpa",
+    "descendants": 3,
+    "time": 1787602342
+  },
+  {
+    "rank": 5,
+    "id": 49415386,
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "score": 376,
+    "by": "zackb",
+    "descendants": 158,
+    "time": 1787548163
+  },
+  {
+    "rank": 6,
+    "id": 49490870,
+    "title": "Nancy Grace Roman Space Telescope",
+    "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+    "score": 138,
+    "by": "JumpCrisscross",
+    "descendants": 67,
+    "time": 1788018482
+  },
+  {
+    "rank": 7,
+    "id": 49438865,
+    "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+    "url": "https://github.com/gbin/defragger",
+    "score": 11,
+    "by": "gbin",
+    "descendants": 4,
+    "time": 1787684247
+  },
+  {
+    "rank": 8,
+    "id": 49494182,
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "score": 142,
+    "by": "DeepLogin",
+    "descendants": 46,
+    "time": 1788045437
+  },
+  {
+    "rank": 9,
+    "id": 49491714,
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "url": "https://tucker.wales/writing/bias-towards-action/",
+    "score": 122,
+    "by": "tuckerwales",
+    "descendants": 50,
+    "time": 1788025158
+  },
+  {
+    "rank": 10,
+    "id": 49426995,
+    "title": "SQLite as a Document Database (2020)",
+    "url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "score": 180,
+    "by": "lioeters",
+    "descendants": 46,
+    "time": 1787612410
+  }
+]
