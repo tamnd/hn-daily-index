@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49503601,
+    "title": "\u201cI just chose words carefully\u201d",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "score": 354,
+    "by": "zdw",
+    "descendants": 92,
+    "time": 1788130188
+  },
+  {
+    "rank": 2,
+    "id": 49491791,
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "score": 954,
+    "by": "zdw",
+    "descendants": 460,
+    "time": 1788025741
+  },
+  {
+    "rank": 3,
+    "id": 49504625,
+    "title": "Understanding ChatGPT Work",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "score": 49,
+    "by": "gmays",
+    "descendants": 20,
+    "time": 1788139702
+  },
+  {
+    "rank": 4,
+    "id": 49503934,
+    "title": "Matrox: Graphics for Professionals",
+    "url": "https://www.abortretry.fail/p/matrox",
+    "score": 38,
+    "by": "BirAdam",
+    "descendants": 4,
+    "time": 1788133175
+  },
+  {
+    "rank": 5,
+    "id": 49499867,
+    "title": "Haiku R1/beta6 has been released",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "score": 264,
+    "by": "metrofun",
+    "descendants": 81,
+    "time": 1788105670
+  },
+  {
+    "rank": 6,
+    "id": 49502214,
+    "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+    "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+    "score": 84,
+    "by": "pwg",
+    "descendants": 13,
+    "time": 1788120025
+  },
+  {
+    "rank": 7,
+    "id": 49478426,
+    "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+    "url": "https://wilsonharper.net/projects/businesscard/",
+    "score": 118,
+    "by": "WilsonHarper",
+    "descendants": 12,
+    "time": 1787924892
+  },
+  {
+    "rank": 8,
+    "id": 49435285,
+    "title": "Sort branches by last commit date",
+    "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+    "score": 92,
+    "by": "speckx",
+    "descendants": 34,
+    "time": 1787669820
+  },
+  {
+    "rank": 9,
+    "id": 49502611,
+    "title": "Continuous Diffusion Language Models (CDLM's)",
+    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "score": 63,
+    "by": "peter_d_sherman",
+    "descendants": 24,
+    "time": 1788122813
+  },
+  {
+    "rank": 10,
+    "id": 49501611,
+    "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "score": 76,
+    "by": "SillyUsername",
+    "descendants": 34,
+    "time": 1788115748
+  }
+]

@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Aug 30](#2026-08-30) | [Aug 29](#2026-08-29) | [Aug 28](#2026-08-28) | [Aug 27](#2026-08-27) | [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25) | [Aug 24](#2026-08-24)
+Recent: [Aug 31](#2026-08-31) | [Aug 30](#2026-08-30) | [Aug 29](#2026-08-29) | [Aug 28](#2026-08-28) | [Aug 27](#2026-08-27) | [Aug 26](#2026-08-26) | [Aug 25](#2026-08-25)
 
-### [2026](data/2026/) (242/242 days)
+### [2026](data/2026/) (243/243 days)
 
-[**August**](data/2026/08/) (30/30)
+[**August**](data/2026/08/) (31/31)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -26,6 +26,7 @@ Recent: [Aug 30](#2026-08-30) | [Aug 29](#2026-08-29) | [Aug 28](#2026-08-28) | 
 | [**10**](#2026-08-10) | [**11**](#2026-08-11) | [**12**](#2026-08-12) | [**13**](#2026-08-13) | [**14**](#2026-08-14) | [**15**](#2026-08-15) | [**16**](#2026-08-16) |
 | [**17**](#2026-08-17) | [**18**](#2026-08-18) | [**19**](#2026-08-19) | [**20**](#2026-08-20) | [**21**](#2026-08-21) | [**22**](#2026-08-22) | [**23**](#2026-08-23) |
 | [**24**](#2026-08-24) | [**25**](#2026-08-25) | [**26**](#2026-08-26) | [**27**](#2026-08-27) | [**28**](#2026-08-28) | [**29**](#2026-08-29) | [**30**](#2026-08-30) |
+| [**31**](#2026-08-31) |  |  |  |  |  |  |
 
 [**July**](data/2026/07/) (31/31)
 
@@ -2154,6 +2155,21 @@ Recent: [Aug 30](#2026-08-30) | [Aug 29](#2026-08-29) | [Aug 28](#2026-08-28) | 
 </details>
 
 ---
+
+## 2026-08-31
+
+*Monday*
+
+1. [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) (unsung.aresluna.org) - 354 points by [zdw](https://news.ycombinator.com/user?id=zdw), [92 comments](https://news.ycombinator.com/item?id=49503601)
+2. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) (people.kernel.org) - 954 points by [zdw](https://news.ycombinator.com/user?id=zdw), [460 comments](https://news.ycombinator.com/item?id=49491791)
+3. [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) (simonwillison.net) - 49 points by [gmays](https://news.ycombinator.com/user?id=gmays), [20 comments](https://news.ycombinator.com/item?id=49504625)
+4. [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox) (abortretry.fail) - 38 points by [BirAdam](https://news.ycombinator.com/user?id=BirAdam), [4 comments](https://news.ycombinator.com/item?id=49503934)
+5. [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) (haiku-os.org) - 264 points by [metrofun](https://news.ycombinator.com/user?id=metrofun), [81 comments](https://news.ycombinator.com/item?id=49499867)
+6. [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) (righto.com) - 84 points by [pwg](https://news.ycombinator.com/user?id=pwg), [13 comments](https://news.ycombinator.com/item?id=49502214)
+7. [Show HN: NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/) (wilsonharper.net) - 118 points by [WilsonHarper](https://news.ycombinator.com/user?id=WilsonHarper), [12 comments](https://news.ycombinator.com/item?id=49478426)
+8. [Sort branches by last commit date](https://ryangreenberg.com/til/git-branches-by-commit-date/) (ryangreenberg.com) - 92 points by [speckx](https://news.ycombinator.com/user?id=speckx), [34 comments](https://news.ycombinator.com/item?id=49435285)
+9. [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html) (sander.ai) - 63 points by [peter_d_sherman](https://news.ycombinator.com/user?id=peter_d_sherman), [24 comments](https://news.ycombinator.com/item?id=49502611)
+10. [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb) (github.com) - 76 points by [SillyUsername](https://news.ycombinator.com/user?id=SillyUsername), [34 comments](https://news.ycombinator.com/item?id=49501611)
 
 ## 2026-08-30
 
