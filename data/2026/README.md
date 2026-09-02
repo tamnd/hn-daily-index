@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (1 days)
+- [September](09/) (2 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-02
+
+*Wednesday*
+
+1. [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) (newsonaut.com) - 587 points by [speckx](https://news.ycombinator.com/user?id=speckx), [312 comments](https://news.ycombinator.com/item?id=49527748)
+2. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) (anthropic.com) - 959 points by [denysvitali](https://news.ycombinator.com/user?id=denysvitali), [893 comments](https://news.ycombinator.com/item?id=49525378)
+3. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) (danluu.com) - 444 points by [jatins](https://news.ycombinator.com/user?id=jatins), [519 comments](https://news.ycombinator.com/item?id=49526069)
+4. [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) (baseten.co) - 45 points by [philipkiely](https://news.ycombinator.com/user?id=philipkiely), [7 comments](https://news.ycombinator.com/item?id=49529898)
+5. [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) (masteranza.github.io) - 60 points by [masteranza](https://news.ycombinator.com/user?id=masteranza), [21 comments](https://news.ycombinator.com/item?id=49528895)
+6. [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) (lws.io) - 73 points by [raybb](https://news.ycombinator.com/user?id=raybb), [30 comments](https://news.ycombinator.com/item?id=49529132)
+7. [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) (blog.mozilla.org) - 317 points by [HieronymusBosch](https://news.ycombinator.com/user?id=HieronymusBosch), [109 comments](https://news.ycombinator.com/item?id=49521973)
+8. [Sonic Pi](https://sonic-pi.net/) (sonic-pi.net) - 38 points by [Bluestein](https://news.ycombinator.com/user?id=Bluestein), [5 comments](https://news.ycombinator.com/item?id=49482099)
+9. [Building an interactive instrument for a one-of-a-kind festival](https://benholmen.com/blog/halfmoon-chimes/) (benholmen.com) - 18 points by [tjwds](https://news.ycombinator.com/user?id=tjwds), [2 comments](https://news.ycombinator.com/item?id=49479909)
+10. [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) (simonwillison.net) - 250 points by [timpera](https://news.ycombinator.com/user?id=timpera), [118 comments](https://news.ycombinator.com/item?id=49527396)
 
 ## 2026-09-01
 

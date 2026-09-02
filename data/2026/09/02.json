@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49527748,
+    "title": "Hang on to Your Firefox",
+    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "score": 587,
+    "by": "speckx",
+    "descendants": 312,
+    "time": 1788294651
+  },
+  {
+    "rank": 2,
+    "id": 49525378,
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "score": 959,
+    "by": "denysvitali",
+    "descendants": 893,
+    "time": 1788285233
+  },
+  {
+    "rank": 3,
+    "id": 49526069,
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "score": 444,
+    "by": "jatins",
+    "descendants": 519,
+    "time": 1788287715
+  },
+  {
+    "rank": 4,
+    "id": 49529898,
+    "title": "The efficient frontier of LLM inference",
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "score": 45,
+    "by": "philipkiely",
+    "descendants": 7,
+    "time": 1788306485
+  },
+  {
+    "rank": 5,
+    "id": 49528895,
+    "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+    "url": "https://masteranza.github.io/weedout/",
+    "score": 60,
+    "by": "masteranza",
+    "descendants": 21,
+    "time": 1788300417
+  },
+  {
+    "rank": 6,
+    "id": 49529132,
+    "title": "My local model setup on an M4 Pro Mac Mini",
+    "url": "https://lws.io/blog/my-local-model-setup/",
+    "score": 73,
+    "by": "raybb",
+    "descendants": 30,
+    "time": 1788301852
+  },
+  {
+    "rank": 7,
+    "id": 49521973,
+    "title": "Introducing Ad Blocker for Firefox on iOS",
+    "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+    "score": 317,
+    "by": "HieronymusBosch",
+    "descendants": 109,
+    "time": 1788270409
+  },
+  {
+    "rank": 8,
+    "id": 49482099,
+    "title": "Sonic Pi",
+    "url": "https://sonic-pi.net/",
+    "score": 38,
+    "by": "Bluestein",
+    "descendants": 5,
+    "time": 1787939479
+  },
+  {
+    "rank": 9,
+    "id": 49479909,
+    "title": "Building an interactive instrument for a one-of-a-kind festival",
+    "url": "https://benholmen.com/blog/halfmoon-chimes/",
+    "score": 18,
+    "by": "tjwds",
+    "descendants": 2,
+    "time": 1787930511
+  },
+  {
+    "rank": 10,
+    "id": 49527396,
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "score": 250,
+    "by": "timpera",
+    "descendants": 118,
+    "time": 1788293277
+  }
+]
