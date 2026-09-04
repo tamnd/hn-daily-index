@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49554643,
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "score": 1359,
+    "by": "kibae",
+    "descendants": 1104,
+    "time": 1788460865
+  },
+  {
+    "rank": 2,
+    "id": 49550772,
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "score": 1396,
+    "by": "pavel_lishin",
+    "descendants": 382,
+    "time": 1788447279
+  },
+  {
+    "rank": 3,
+    "id": 49554520,
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "score": 460,
+    "by": "altertable",
+    "descendants": 134,
+    "time": 1788460333
+  },
+  {
+    "rank": 4,
+    "id": 49530807,
+    "title": "New type of dice guarantees no tie when deciding who goes first",
+    "url": "https://www.cbc.ca/lite/story/9.7328614",
+    "score": 44,
+    "by": "colinprince",
+    "descendants": 28,
+    "time": 1788313811
+  },
+  {
+    "rank": 5,
+    "id": 49526453,
+    "title": "The largest electric aircraft just flew [video]",
+    "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+    "score": 210,
+    "by": "feb",
+    "descendants": 137,
+    "time": 1788289354
+  },
+  {
+    "rank": 6,
+    "id": 49559182,
+    "title": "1Password Replied to My Disappointment",
+    "url": "https://nicolalosito.it/2026/09/03/1password-replied-to-my-disappointment/",
+    "score": 26,
+    "by": "backlit4034",
+    "descendants": 16,
+    "time": 1788483630
+  },
+  {
+    "rank": 7,
+    "id": 49552572,
+    "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+    "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+    "score": 168,
+    "by": "speckx",
+    "descendants": 55,
+    "time": 1788452493
+  },
+  {
+    "rank": 8,
+    "id": 49557206,
+    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "score": 107,
+    "by": "screm",
+    "descendants": 35,
+    "time": 1788470434
+  },
+  {
+    "rank": 9,
+    "id": 49550375,
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "score": 206,
+    "by": "rabahs",
+    "descendants": 64,
+    "time": 1788445698
+  },
+  {
+    "rank": 10,
+    "id": 49551760,
+    "title": "K2 Horizon: A connected fleet of six open models",
+    "url": "https://ifm.ai/blog/k2/",
+    "score": 260,
+    "by": "karimf",
+    "descendants": 84,
+    "time": 1788449803
+  }
+]

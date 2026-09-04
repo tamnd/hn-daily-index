@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (3 days)
+- [September](09/) (4 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-04
+
+*Friday*
+
+1. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) (openai.com) - 1.4k points by [kibae](https://news.ycombinator.com/user?id=kibae), [1104 comments](https://news.ycombinator.com/item?id=49554643)
+2. [.name Termination](https://neil.fraser.name/news/2026/09/03/) (neil.fraser.name) - 1.4k points by [pavel_lishin](https://news.ycombinator.com/user?id=pavel_lishin), [382 comments](https://news.ycombinator.com/item?id=49550772)
+3. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) (inference-docs.cerebras.ai) - 460 points by [altertable](https://news.ycombinator.com/user?id=altertable), [134 comments](https://news.ycombinator.com/item?id=49554520)
+4. [New type of dice guarantees no tie when deciding who goes first](https://www.cbc.ca/lite/story/9.7328614) (cbc.ca) - 44 points by [colinprince](https://news.ycombinator.com/user?id=colinprince), [28 comments](https://news.ycombinator.com/item?id=49530807)
+5. [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM) (youtube.com) - 210 points by [feb](https://news.ycombinator.com/user?id=feb), [137 comments](https://news.ycombinator.com/item?id=49526453)
+6. [1Password Replied to My Disappointment](https://nicolalosito.it/2026/09/03/1password-replied-to-my-disappointment/) (nicolalosito.it) - 26 points by [backlit4034](https://news.ycombinator.com/user?id=backlit4034), [16 comments](https://news.ycombinator.com/item?id=49559182)
+7. [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california) (discoverwildlife.com) - 168 points by [speckx](https://news.ycombinator.com/user?id=speckx), [55 comments](https://news.ycombinator.com/item?id=49552572)
+8. [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install) (armature.tech) - 107 points by [screm](https://news.ycombinator.com/user?id=screm), [35 comments](https://news.ycombinator.com/item?id=49557206)
+9. [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) (babyloniantwins.com) - 206 points by [rabahs](https://news.ycombinator.com/user?id=rabahs), [64 comments](https://news.ycombinator.com/item?id=49550375)
+10. [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/) (ifm.ai) - 260 points by [karimf](https://news.ycombinator.com/user?id=karimf), [84 comments](https://news.ycombinator.com/item?id=49551760)
 
 ## 2026-09-03
 
