@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 04](#2026-09-04) | [Sep 03](#2026-09-03) | [Sep 02](#2026-09-02) | [Sep 01](#2026-09-01) | [Aug 31](#2026-08-31) | [Aug 30](#2026-08-30) | [Aug 29](#2026-08-29)
+Recent: [Sep 05](#2026-09-05) | [Sep 04](#2026-09-04) | [Sep 03](#2026-09-03) | [Sep 02](#2026-09-02) | [Sep 01](#2026-09-01) | [Aug 31](#2026-08-31) | [Aug 30](#2026-08-30)
 
-### [2026](data/2026/) (247/247 days)
+### [2026](data/2026/) (248/248 days)
 
-[**September**](data/2026/09/) (4/4)
+[**September**](data/2026/09/) (5/5)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) |  |  |
+|  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2161,6 +2161,21 @@ Recent: [Sep 04](#2026-09-04) | [Sep 03](#2026-09-03) | [Sep 02](#2026-09-02) | 
 </details>
 
 ---
+
+## 2026-09-05
+
+*Saturday*
+
+1. [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) (nvd.nist.gov) - 258 points by [negura](https://news.ycombinator.com/user?id=negura), [146 comments](https://news.ycombinator.com/item?id=49570669)
+2. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) (anthropic.com) - 505 points by [jlebar](https://news.ycombinator.com/user?id=jlebar), [323 comments](https://news.ycombinator.com/item?id=49568506)
+3. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) (collusion.wiki) - 1.5k points by [moultano](https://news.ycombinator.com/user?id=moultano), [1194 comments](https://news.ycombinator.com/item?id=49563355)
+4. [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2) (artificialanalysis.ai) - 53 points by [nojs](https://news.ycombinator.com/user?id=nojs), [16 comments](https://news.ycombinator.com/item?id=49571632)
+5. [Statichost.eu – European static site hosting](https://www.statichost.eu/) (statichost.eu) - 177 points by [p4bl0](https://news.ycombinator.com/user?id=p4bl0), [55 comments](https://news.ycombinator.com/item?id=49569896)
+6. [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra) (openrouter.ai) - 130 points by [Topfi](https://news.ycombinator.com/user?id=Topfi), [69 comments](https://news.ycombinator.com/item?id=49570545)
+7. [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) (mullvad.net) - 259 points by [mywacaday](https://news.ycombinator.com/user?id=mywacaday), [103 comments](https://news.ycombinator.com/item?id=49568579)
+8. [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90) (engineering.atspotify.com) - 43 points by [cebert](https://news.ycombinator.com/user?id=cebert), [14 comments](https://news.ycombinator.com/item?id=49571465)
+9. [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) (eebench.org) - 174 points by [iopapa](https://news.ycombinator.com/user?id=iopapa), [112 comments](https://news.ycombinator.com/item?id=49569366)
+10. [Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/) (npratley.net) - 19 points by [ytch](https://news.ycombinator.com/user?id=ytch), [6 comments](https://news.ycombinator.com/item?id=49571627)
 
 ## 2026-09-04
 
