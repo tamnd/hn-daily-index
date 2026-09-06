@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49582000,
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "score": 138,
+    "by": "zplizzi",
+    "descendants": 41,
+    "time": 1788653009
+  },
+  {
+    "rank": 2,
+    "id": 49580939,
+    "title": "The revolt of the reader",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "score": 130,
+    "by": "chmaynard",
+    "descendants": 40,
+    "time": 1788644269
+  },
+  {
+    "rank": 3,
+    "id": 49580369,
+    "title": "Private German rocket makes history, reaches orbit from European soil",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "score": 382,
+    "by": "bookmtn",
+    "descendants": 200,
+    "time": 1788640298
+  },
+  {
+    "rank": 4,
+    "id": 49578280,
+    "title": "Learn Programming with OCaml",
+    "url": "https://usr.lmf.cnrs.fr/lpo/",
+    "score": 182,
+    "by": "elvis70",
+    "descendants": 74,
+    "time": 1788626702
+  },
+  {
+    "rank": 5,
+    "id": 49576386,
+    "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "score": 286,
+    "by": "networked",
+    "descendants": 87,
+    "time": 1788615398
+  },
+  {
+    "rank": 6,
+    "id": 49580329,
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+    "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+    "score": 61,
+    "by": "gmays",
+    "descendants": 24,
+    "time": 1788639959
+  },
+  {
+    "rank": 7,
+    "id": 49581870,
+    "title": "Chrome again exempts Google from user site data settings",
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "score": 70,
+    "by": "ExMachina73",
+    "descendants": 1,
+    "time": 1788651587
+  },
+  {
+    "rank": 8,
+    "id": 49563355,
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "score": 2120,
+    "by": "moultano",
+    "descendants": 1519,
+    "time": 1788522893
+  },
+  {
+    "rank": 9,
+    "id": 49548852,
+    "title": "How Swiss tables work in Go built-in map",
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+    "score": 47,
+    "by": "valyala",
+    "descendants": 3,
+    "time": 1788436757
+  },
+  {
+    "rank": 10,
+    "id": 49576343,
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "score": 135,
+    "by": "torutofu",
+    "descendants": 19,
+    "time": 1788615065
+  }
+]

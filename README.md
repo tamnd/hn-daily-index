@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 05](#2026-09-05) | [Sep 04](#2026-09-04) | [Sep 03](#2026-09-03) | [Sep 02](#2026-09-02) | [Sep 01](#2026-09-01) | [Aug 31](#2026-08-31) | [Aug 30](#2026-08-30)
+Recent: [Sep 06](#2026-09-06) | [Sep 05](#2026-09-05) | [Sep 04](#2026-09-04) | [Sep 03](#2026-09-03) | [Sep 02](#2026-09-02) | [Sep 01](#2026-09-01) | [Aug 31](#2026-08-31)
 
-### [2026](data/2026/) (248/248 days)
+### [2026](data/2026/) (249/249 days)
 
-[**September**](data/2026/09/) (5/5)
+[**September**](data/2026/09/) (6/6)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) |  |
+|  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2161,6 +2161,21 @@ Recent: [Sep 05](#2026-09-05) | [Sep 04](#2026-09-04) | [Sep 03](#2026-09-03) | 
 </details>
 
 ---
+
+## 2026-09-06
+
+*Sunday*
+
+1. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) (cloudinabottle.org) - 138 points by [zplizzi](https://news.ycombinator.com/user?id=zplizzi), [41 comments](https://news.ycombinator.com/item?id=49582000)
+2. [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) (bcantrill.dtrace.org) - 130 points by [chmaynard](https://news.ycombinator.com/user?id=chmaynard), [40 comments](https://news.ycombinator.com/item?id=49580939)
+3. [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) (space.com) - 382 points by [bookmtn](https://news.ycombinator.com/user?id=bookmtn), [200 comments](https://news.ycombinator.com/item?id=49580369)
+4. [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) (usr.lmf.cnrs.fr) - 182 points by [elvis70](https://news.ycombinator.com/user?id=elvis70), [74 comments](https://news.ycombinator.com/item?id=49578280)
+5. [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) (devquasar.com) - 286 points by [networked](https://news.ycombinator.com/user?id=networked), [87 comments](https://news.ycombinator.com/item?id=49576386)
+6. [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/) (terrytao.wordpress.com) - 61 points by [gmays](https://news.ycombinator.com/user?id=gmays), [24 comments](https://news.ycombinator.com/item?id=49580329)
+7. [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) (lapcatsoftware.com) - 70 points by [ExMachina73](https://news.ycombinator.com/user?id=ExMachina73), [1 comments](https://news.ycombinator.com/item?id=49581870)
+8. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) (collusion.wiki) - 2.1k points by [moultano](https://news.ycombinator.com/user?id=moultano), [1519 comments](https://news.ycombinator.com/item?id=49563355)
+9. [How Swiss tables work in Go built-in map](https://victoriametrics.com/blog/go-swiss-table-map/index.html) (victoriametrics.com) - 47 points by [valyala](https://news.ycombinator.com/user?id=valyala), [3 comments](https://news.ycombinator.com/item?id=49548852)
+10. [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/) (sofiabelen.github.io) - 135 points by [torutofu](https://news.ycombinator.com/user?id=torutofu), [19 comments](https://news.ycombinator.com/item?id=49576343)
 
 ## 2026-09-05
 
