@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49591876,
+    "title": "Making a Python interpreter in 1024 bytes",
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "score": 100,
+    "by": "azhenley",
+    "descendants": 37,
+    "time": 1788736448
+  },
+  {
+    "rank": 2,
+    "id": 49592706,
+    "title": "Ponytail: Lazy Senior Engineer Skill",
+    "url": "https://ponytail.dev/",
+    "score": 22,
+    "by": "zatkin",
+    "descendants": 12,
+    "time": 1788743897
+  },
+  {
+    "rank": 3,
+    "id": 49590611,
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "score": 150,
+    "by": "xena",
+    "descendants": 91,
+    "time": 1788726758
+  },
+  {
+    "rank": 4,
+    "id": 49585644,
+    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "score": 535,
+    "by": "cyb0rg0",
+    "descendants": 349,
+    "time": 1788695803
+  },
+  {
+    "rank": 5,
+    "id": 49590512,
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "score": 205,
+    "by": "Cider9986",
+    "descendants": 135,
+    "time": 1788726240
+  },
+  {
+    "rank": 6,
+    "id": 49590738,
+    "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "url": "https://github.com/marsbos/mador",
+    "score": 69,
+    "by": "bosmarcel",
+    "descendants": 22,
+    "time": 1788727513
+  },
+  {
+    "rank": 7,
+    "id": 49588988,
+    "title": "Nitter and XCancel resume service after legal advice",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "score": 483,
+    "by": "zImPatrick",
+    "descendants": 251,
+    "time": 1788716987
+  },
+  {
+    "rank": 8,
+    "id": 49564609,
+    "title": "The NX bit is not just about security",
+    "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+    "score": 7,
+    "by": "torutofu",
+    "descendants": 0,
+    "time": 1788529645
+  },
+  {
+    "rank": 9,
+    "id": 49591793,
+    "title": "Is mathematics about to enter the conservatory?",
+    "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+    "score": 24,
+    "by": "_alternator_",
+    "descendants": 35,
+    "time": 1788735731
+  },
+  {
+    "rank": 10,
+    "id": 49554622,
+    "title": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
+    "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+    "score": 105,
+    "by": "yubblegum",
+    "descendants": 54,
+    "time": 1788460807
+  }
+]

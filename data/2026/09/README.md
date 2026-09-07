@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in September 2026.
 
+- [2026-09-07 (Monday)](#2026-09-07)
 - [2026-09-06 (Sunday)](#2026-09-06)
 - [2026-09-05 (Saturday)](#2026-09-05)
 - [2026-09-04 (Friday)](#2026-09-04)
@@ -10,6 +11,21 @@ Top 10 Hacker News stories for each day in September 2026.
 - [2026-09-01 (Tuesday)](#2026-09-01)
 
 ---
+
+## 2026-09-07
+
+*Monday*
+
+1. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) (austinhenley.com) - 100 points by [azhenley](https://news.ycombinator.com/user?id=azhenley), [37 comments](https://news.ycombinator.com/item?id=49591876)
+2. [Ponytail: Lazy Senior Engineer Skill](https://ponytail.dev/) (ponytail.dev) - 22 points by [zatkin](https://news.ycombinator.com/user?id=zatkin), [12 comments](https://news.ycombinator.com/item?id=49592706)
+3. [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) (anubis.techaro.lol) - 150 points by [xena](https://news.ycombinator.com/user?id=xena), [91 comments](https://news.ycombinator.com/item?id=49590611)
+4. [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) (bcantrill.dtrace.org) - 535 points by [cyb0rg0](https://news.ycombinator.com/user?id=cyb0rg0), [349 comments](https://news.ycombinator.com/item?id=49585644)
+5. [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649) (grapheneos.social) - 205 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [135 comments](https://news.ycombinator.com/item?id=49590512)
+6. [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador) (github.com) - 69 points by [bosmarcel](https://news.ycombinator.com/user?id=bosmarcel), [22 comments](https://news.ycombinator.com/item?id=49590738)
+7. [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) (github.com) - 483 points by [zImPatrick](https://news.ycombinator.com/user?id=zImPatrick), [251 comments](https://news.ycombinator.com/item?id=49588988)
+8. [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/) (purplesyringa.moe) - 7 points by [torutofu](https://news.ycombinator.com/user?id=torutofu), [0 comments](https://news.ycombinator.com/item?id=49564609)
+9. [Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/) (mbmccoy.dev) - 24 points by [_alternator_](https://news.ycombinator.com/user?id=_alternator_), [35 comments](https://news.ycombinator.com/item?id=49591793)
+10. [Babylonian Lamb Stew with Beets (1750–1730 BCE)](https://babylonian-collection.yale.edu/about/babylonian-cooking) (babylonian-collection.yale.edu) - 105 points by [yubblegum](https://news.ycombinator.com/user?id=yubblegum), [54 comments](https://news.ycombinator.com/item?id=49554622)
 
 ## 2026-09-06
 
