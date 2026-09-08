@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 07](#2026-09-07) | [Sep 06](#2026-09-06) | [Sep 05](#2026-09-05) | [Sep 04](#2026-09-04) | [Sep 03](#2026-09-03) | [Sep 02](#2026-09-02) | [Sep 01](#2026-09-01)
+Recent: [Sep 08](#2026-09-08) | [Sep 07](#2026-09-07) | [Sep 06](#2026-09-06) | [Sep 05](#2026-09-05) | [Sep 04](#2026-09-04) | [Sep 03](#2026-09-03) | [Sep 02](#2026-09-02)
 
-### [2026](data/2026/) (250/250 days)
+### [2026](data/2026/) (251/251 days)
 
-[**September**](data/2026/09/) (7/7)
+[**September**](data/2026/09/) (8/8)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
-| [**7**](#2026-09-07) |  |  |  |  |  |  |
+| [**7**](#2026-09-07) | [**8**](#2026-09-08) |  |  |  |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2162,6 +2162,21 @@ Recent: [Sep 07](#2026-09-07) | [Sep 06](#2026-09-06) | [Sep 05](#2026-09-05) | 
 </details>
 
 ---
+
+## 2026-09-08
+
+*Tuesday*
+
+1. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) (jellyfin.org) - 69 points by [0xC0ncord](https://news.ycombinator.com/user?id=0xC0ncord), [14 comments](https://news.ycombinator.com/item?id=49604861)
+2. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) (mcpherrin.ca) - 94 points by [ahlCVA](https://news.ycombinator.com/user?id=ahlCVA), [19 comments](https://news.ycombinator.com/item?id=49604637)
+3. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) (d2lang.com) - 92 points by [alixanderwang](https://news.ycombinator.com/user?id=alixanderwang), [8 comments](https://news.ycombinator.com/item?id=49604150)
+4. [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) (lax-skyline.parcelscope.net) - 226 points by [rustywasm](https://news.ycombinator.com/user?id=rustywasm), [113 comments](https://news.ycombinator.com/item?id=49601655)
+5. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet) (github.com) - 107 points by [CMDDestory](https://news.ycombinator.com/user?id=CMDDestory), [34 comments](https://news.ycombinator.com/item?id=49603546)
+6. [Disconnect your LG television from the internet, now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now) (appleinsider.com) - 80 points by [harambae](https://news.ycombinator.com/user?id=harambae), [45 comments](https://news.ycombinator.com/item?id=49604537)
+7. [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) (virtualizationhowto.com) - 101 points by [josephcsible](https://news.ycombinator.com/user?id=josephcsible), [49 comments](https://news.ycombinator.com/item?id=49602699)
+8. [Trusting-Trust Attack against an Entire Linux Distribution](https://arxiv.org/abs/2607.24888) (arxiv.org) - 161 points by [signa11](https://news.ycombinator.com/user?id=signa11), [35 comments](https://news.ycombinator.com/item?id=49575515)
+9. [WeatherNext 3](https://deepmind.google/science/weathernext/) (deepmind.google) - 237 points by [matthieu_bl](https://news.ycombinator.com/user?id=matthieu_bl), [61 comments](https://news.ycombinator.com/item?id=49552299)
+10. [Scientists observe Einstein's gravity in the quantum world](https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world) (ox.ac.uk) - 153 points by [mudil](https://news.ycombinator.com/user?id=mudil), [39 comments](https://news.ycombinator.com/item?id=49569838)
 
 ## 2026-09-07
 

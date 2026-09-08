@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49604861,
+    "title": "Jellyfin 12.0",
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+    "score": 69,
+    "by": "0xC0ncord",
+    "descendants": 14,
+    "time": 1788832595
+  },
+  {
+    "rank": 2,
+    "id": 49604637,
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "score": 94,
+    "by": "ahlCVA",
+    "descendants": 19,
+    "time": 1788830219
+  },
+  {
+    "rank": 3,
+    "id": 49604150,
+    "title": "TALA Is Open-Source",
+    "url": "https://d2lang.com/blog/tala-is-open-source/",
+    "score": 92,
+    "by": "alixanderwang",
+    "descendants": 8,
+    "time": 1788824262
+  },
+  {
+    "rank": 4,
+    "id": 49601655,
+    "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+    "url": "https://lax-skyline.parcelscope.net/",
+    "score": 226,
+    "by": "rustywasm",
+    "descendants": 113,
+    "time": 1788807126
+  },
+  {
+    "rank": 5,
+    "id": 49603546,
+    "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
+    "url": "https://github.com/Sadpainy/Stuxnet",
+    "score": 107,
+    "by": "CMDDestory",
+    "descendants": 34,
+    "time": 1788819158
+  },
+  {
+    "rank": 6,
+    "id": 49604537,
+    "title": "Disconnect your LG television from the internet, now",
+    "url": "https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now",
+    "score": 80,
+    "by": "harambae",
+    "descendants": 45,
+    "time": 1788829248
+  },
+  {
+    "rank": 7,
+    "id": 49602699,
+    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+    "score": 101,
+    "by": "josephcsible",
+    "descendants": 49,
+    "time": 1788813175
+  },
+  {
+    "rank": 8,
+    "id": 49575515,
+    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+    "url": "https://arxiv.org/abs/2607.24888",
+    "score": 161,
+    "by": "signa11",
+    "descendants": 35,
+    "time": 1788607518
+  },
+  {
+    "rank": 9,
+    "id": 49552299,
+    "title": "WeatherNext 3",
+    "url": "https://deepmind.google/science/weathernext/",
+    "score": 237,
+    "by": "matthieu_bl",
+    "descendants": 61,
+    "time": 1788451568
+  },
+  {
+    "rank": 10,
+    "id": 49569838,
+    "title": "Scientists observe Einstein's gravity in the quantum world",
+    "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+    "score": 153,
+    "by": "mudil",
+    "descendants": 39,
+    "time": 1788553732
+  }
+]

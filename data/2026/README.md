@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (7 days)
+- [September](09/) (8 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-08
+
+*Tuesday*
+
+1. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) (jellyfin.org) - 69 points by [0xC0ncord](https://news.ycombinator.com/user?id=0xC0ncord), [14 comments](https://news.ycombinator.com/item?id=49604861)
+2. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) (mcpherrin.ca) - 94 points by [ahlCVA](https://news.ycombinator.com/user?id=ahlCVA), [19 comments](https://news.ycombinator.com/item?id=49604637)
+3. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) (d2lang.com) - 92 points by [alixanderwang](https://news.ycombinator.com/user?id=alixanderwang), [8 comments](https://news.ycombinator.com/item?id=49604150)
+4. [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) (lax-skyline.parcelscope.net) - 226 points by [rustywasm](https://news.ycombinator.com/user?id=rustywasm), [113 comments](https://news.ycombinator.com/item?id=49601655)
+5. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet) (github.com) - 107 points by [CMDDestory](https://news.ycombinator.com/user?id=CMDDestory), [34 comments](https://news.ycombinator.com/item?id=49603546)
+6. [Disconnect your LG television from the internet, now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now) (appleinsider.com) - 80 points by [harambae](https://news.ycombinator.com/user?id=harambae), [45 comments](https://news.ycombinator.com/item?id=49604537)
+7. [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) (virtualizationhowto.com) - 101 points by [josephcsible](https://news.ycombinator.com/user?id=josephcsible), [49 comments](https://news.ycombinator.com/item?id=49602699)
+8. [Trusting-Trust Attack against an Entire Linux Distribution](https://arxiv.org/abs/2607.24888) (arxiv.org) - 161 points by [signa11](https://news.ycombinator.com/user?id=signa11), [35 comments](https://news.ycombinator.com/item?id=49575515)
+9. [WeatherNext 3](https://deepmind.google/science/weathernext/) (deepmind.google) - 237 points by [matthieu_bl](https://news.ycombinator.com/user?id=matthieu_bl), [61 comments](https://news.ycombinator.com/item?id=49552299)
+10. [Scientists observe Einstein's gravity in the quantum world](https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world) (ox.ac.uk) - 153 points by [mudil](https://news.ycombinator.com/user?id=mudil), [39 comments](https://news.ycombinator.com/item?id=49569838)
 
 ## 2026-09-07
 
