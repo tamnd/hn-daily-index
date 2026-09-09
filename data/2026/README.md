@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (8 days)
+- [September](09/) (9 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-09
+
+*Wednesday*
+
+1. [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance) (current.fas.harvard.edu) - 33 points by [jodacola](https://news.ycombinator.com/user?id=jodacola), [6 comments](https://news.ycombinator.com/item?id=49619906)
+2. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) (ai.meta.com) - 340 points by [yks](https://news.ycombinator.com/user?id=yks), [344 comments](https://news.ycombinator.com/item?id=49615537)
+3. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) (openreview.net) - 102 points by [paimapi](https://news.ycombinator.com/user?id=paimapi), [51 comments](https://news.ycombinator.com/item?id=49617581)
+4. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf) (cims.nyu.edu) - 1.3k points by [procedurecall](https://news.ycombinator.com/user?id=procedurecall), [566 comments](https://news.ycombinator.com/item?id=49605915)
+5. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) (nishantjosh.dev) - 155 points by [cat-whisperer](https://news.ycombinator.com/user?id=cat-whisperer), [37 comments](https://news.ycombinator.com/item?id=49617255)
+6. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) (blog.google) - 500 points by [utiiiD](https://news.ycombinator.com/user?id=utiiiD), [115 comments](https://news.ycombinator.com/item?id=49611251)
+7. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/) (gpu-lexer.vercel.app) - 13 points by [bpierre](https://news.ycombinator.com/user?id=bpierre), [2 comments](https://news.ycombinator.com/item?id=49619464)
+8. [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html) (martinfowler.com) - 9 points by [saikatsg](https://news.ycombinator.com/user?id=saikatsg), [1 comments](https://news.ycombinator.com/item?id=49579482)
+9. [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) (blackmagicdesign.com) - 360 points by [tosh](https://news.ycombinator.com/user?id=tosh), [157 comments](https://news.ycombinator.com/item?id=49610181)
+10. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) (openai.com) - 1.1k points by [tedsanders](https://news.ycombinator.com/user?id=tedsanders), [982 comments](https://news.ycombinator.com/item?id=49613262)
 
 ## 2026-09-08
 

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49619906,
+    "title": "Harvard study predicts most suicide attempts a week in advance",
+    "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+    "score": 33,
+    "by": "jodacola",
+    "descendants": 6,
+    "time": 1788919633
+  },
+  {
+    "rank": 2,
+    "id": 49615537,
+    "title": "Muse \u2013 Meta\u2019s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "score": 340,
+    "by": "yks",
+    "descendants": 344,
+    "time": 1788895500
+  },
+  {
+    "rank": 3,
+    "id": 49617581,
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "score": 102,
+    "by": "paimapi",
+    "descendants": 51,
+    "time": 1788904058
+  },
+  {
+    "rank": 4,
+    "id": 49605915,
+    "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "score": 1318,
+    "by": "procedurecall",
+    "descendants": 566,
+    "time": 1788846148
+  },
+  {
+    "rank": 5,
+    "id": 49617255,
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "score": 155,
+    "by": "cat-whisperer",
+    "descendants": 37,
+    "time": 1788902531
+  },
+  {
+    "rank": 6,
+    "id": 49611251,
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "score": 500,
+    "by": "utiiiD",
+    "descendants": 115,
+    "time": 1788879345
+  },
+  {
+    "rank": 7,
+    "id": 49619464,
+    "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+    "url": "https://gpu-lexer.vercel.app/",
+    "score": 13,
+    "by": "bpierre",
+    "descendants": 2,
+    "time": 1788916490
+  },
+  {
+    "rank": 8,
+    "id": 49579482,
+    "title": "An Accidental Blackboard",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+    "score": 9,
+    "by": "saikatsg",
+    "descendants": 1,
+    "time": 1788634225
+  },
+  {
+    "rank": 9,
+    "id": 49610181,
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "score": 360,
+    "by": "tosh",
+    "descendants": 157,
+    "time": 1788874613
+  },
+  {
+    "rank": 10,
+    "id": 49613262,
+    "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "score": 1142,
+    "by": "tedsanders",
+    "descendants": 982,
+    "time": 1788887601
+  }
+]
