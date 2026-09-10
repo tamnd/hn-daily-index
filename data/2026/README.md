@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (9 days)
+- [September](09/) (10 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-10
+
+*Thursday*
+
+1. [iPhone Duo](https://www.apple.com/iphone-duo/) (apple.com) - 929 points by [thecosmicfrog](https://news.ycombinator.com/user?id=thecosmicfrog), [1730 comments](https://news.ycombinator.com/item?id=49630931)
+2. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) (tailwindcss.com) - 905 points by [EdwinHoksberg](https://news.ycombinator.com/user?id=EdwinHoksberg), [359 comments](https://news.ycombinator.com/item?id=49626190)
+3. [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) (tautology.town) - 392 points by [evakhoury](https://news.ycombinator.com/user?id=evakhoury), [227 comments](https://news.ycombinator.com/item?id=49614280)
+4. [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) (apple.com) - 386 points by [awad](https://news.ycombinator.com/user?id=awad), [314 comments](https://news.ycombinator.com/item?id=49630253)
+5. [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe) (spectrum.ieee.org) - 227 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [427 comments](https://news.ycombinator.com/item?id=49629886)
+6. [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/) (thomasahle.com) - 19 points by [thomasahle](https://news.ycombinator.com/user?id=thomasahle), [4 comments](https://news.ycombinator.com/item?id=49623398)
+7. [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/) (nomanssky.com) - 308 points by [Limb](https://news.ycombinator.com/user?id=Limb), [330 comments](https://news.ycombinator.com/item?id=49628493)
+8. [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/) (apple.com) - 292 points by [meetpateltech](https://news.ycombinator.com/user?id=meetpateltech), [300 comments](https://news.ycombinator.com/item?id=49630151)
+9. [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260) (cognition.com) - 46 points by [samyok](https://news.ycombinator.com/user?id=samyok), [6 comments](https://news.ycombinator.com/item?id=49633534)
+10. [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) (magazine.sebastianraschka.com) - 357 points by [ModelForge](https://news.ycombinator.com/user?id=ModelForge), [126 comments](https://news.ycombinator.com/item?id=49627370)
 
 ## 2026-09-09
 

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49630931,
+    "title": "iPhone Duo",
+    "url": "https://www.apple.com/iphone-duo/",
+    "score": 929,
+    "by": "thecosmicfrog",
+    "descendants": 1730,
+    "time": 1788977743
+  },
+  {
+    "rank": 2,
+    "id": 49626190,
+    "title": "Shopify acquires Tailwind",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "score": 905,
+    "by": "EdwinHoksberg",
+    "descendants": 359,
+    "time": 1788960431
+  },
+  {
+    "rank": 3,
+    "id": 49614280,
+    "title": "What do Visa and Mastercard do? An intro to card networks",
+    "url": "https://tautology.town/2026/06/01/card-networks.html",
+    "score": 392,
+    "by": "evakhoury",
+    "descendants": 227,
+    "time": 1788891065
+  },
+  {
+    "rank": 4,
+    "id": 49630253,
+    "title": "AirPods 5",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "score": 386,
+    "by": "awad",
+    "descendants": 314,
+    "time": 1788975564
+  },
+  {
+    "rank": 5,
+    "id": 49629886,
+    "title": "Growing proof that autonomous cars save lives",
+    "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+    "score": 227,
+    "by": "bookofjoe",
+    "descendants": 427,
+    "time": 1788974099
+  },
+  {
+    "rank": 6,
+    "id": 49623398,
+    "title": "Show HN: Compute polynomials twice as fast",
+    "url": "https://thomasahle.com/fast-polynomials/",
+    "score": 19,
+    "by": "thomasahle",
+    "descendants": 4,
+    "time": 1788944038
+  },
+  {
+    "rank": 7,
+    "id": 49628493,
+    "title": "No Man's Sky Cosmos",
+    "url": "https://www.nomanssky.com/cosmos-update/",
+    "score": 308,
+    "by": "Limb",
+    "descendants": 330,
+    "time": 1788968862
+  },
+  {
+    "rank": 8,
+    "id": 49630151,
+    "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+    "score": 292,
+    "by": "meetpateltech",
+    "descendants": 300,
+    "time": 1788975200
+  },
+  {
+    "rank": 9,
+    "id": 49633534,
+    "title": "Factoring RSA 260",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "score": 46,
+    "by": "samyok",
+    "descendants": 6,
+    "time": 1788984968
+  },
+  {
+    "rank": 10,
+    "id": 49627370,
+    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "score": 357,
+    "by": "ModelForge",
+    "descendants": 126,
+    "time": 1788964667
+  }
+]
