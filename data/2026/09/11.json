@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49643982,
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "score": 806,
+    "by": "fnthawar2",
+    "descendants": 539,
+    "time": 1789049371
+  },
+  {
+    "rank": 2,
+    "id": 49639408,
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "score": 697,
+    "by": "pred_",
+    "descendants": 639,
+    "time": 1789022983
+  },
+  {
+    "rank": 3,
+    "id": 49652237,
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "score": 25,
+    "by": "rguiscard",
+    "descendants": 3,
+    "time": 1789088456
+  },
+  {
+    "rank": 4,
+    "id": 49649213,
+    "title": "OpenAI Agents API",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "score": 147,
+    "by": "aquir",
+    "descendants": 93,
+    "time": 1789069402
+  },
+  {
+    "rank": 5,
+    "id": 49652105,
+    "title": "Google will buy half the electricity of a nuclear power plant",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "score": 89,
+    "by": "lukaspetersson",
+    "descendants": 65,
+    "time": 1789087361
+  },
+  {
+    "rank": 6,
+    "id": 49645393,
+    "title": "Don't let anyone take away your big box of cables",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "score": 338,
+    "by": "Brajeshwar",
+    "descendants": 262,
+    "time": 1789054042
+  },
+  {
+    "rank": 7,
+    "id": 49652028,
+    "title": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
+    "url": "https://map-yue2.github.io/",
+    "score": 45,
+    "by": "sexy_seedbox",
+    "descendants": 42,
+    "time": 1789086806
+  },
+  {
+    "rank": 8,
+    "id": 49645443,
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "url": "https://cognition.com/blog/swe-2",
+    "score": 360,
+    "by": "seelos",
+    "descendants": 152,
+    "time": 1789054187
+  },
+  {
+    "rank": 9,
+    "id": 49649124,
+    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "score": 91,
+    "by": "auberonedu",
+    "descendants": 58,
+    "time": 1789068860
+  },
+  {
+    "rank": 10,
+    "id": 49651372,
+    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "url": "https://system76.com/workstations/thelio-mira-ai",
+    "score": 35,
+    "by": "jonifico",
+    "descendants": 26,
+    "time": 1789081806
+  }
+]

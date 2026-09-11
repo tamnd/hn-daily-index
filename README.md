@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08) | [Sep 07](#2026-09-07) | [Sep 06](#2026-09-06) | [Sep 05](#2026-09-05) | [Sep 04](#2026-09-04)
+Recent: [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08) | [Sep 07](#2026-09-07) | [Sep 06](#2026-09-06) | [Sep 05](#2026-09-05)
 
-### [2026](data/2026/) (253/253 days)
+### [2026](data/2026/) (254/254 days)
 
-[**September**](data/2026/09/) (10/10)
+[**September**](data/2026/09/) (11/11)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
-| [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) |  |  |  |
+| [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2162,6 +2162,21 @@ Recent: [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08) | 
 </details>
 
 ---
+
+## 2026-09-11
+
+*Friday*
+
+1. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) (shopify.engineering) - 806 points by [fnthawar2](https://news.ycombinator.com/user?id=fnthawar2), [539 comments](https://news.ycombinator.com/item?id=49643982)
+2. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) (mathstodon.xyz) - 697 points by [pred_](https://news.ycombinator.com/user?id=pred_), [639 comments](https://news.ycombinator.com/item?id=49639408)
+3. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/) (upsocl.com) - 25 points by [rguiscard](https://news.ycombinator.com/user?id=rguiscard), [3 comments](https://news.ycombinator.com/item?id=49652237)
+4. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) (developers.openai.com) - 147 points by [aquir](https://news.ycombinator.com/user?id=aquir), [93 comments](https://news.ycombinator.com/item?id=49649213)
+5. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o) (bbc.com) - 89 points by [lukaspetersson](https://news.ycombinator.com/user?id=lukaspetersson), [65 comments](https://news.ycombinator.com/item?id=49652105)
+6. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) (blog.jim-nielsen.com) - 338 points by [Brajeshwar](https://news.ycombinator.com/user?id=Brajeshwar), [262 comments](https://news.ycombinator.com/item?id=49645393)
+7. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/) (map-yue2.github.io) - 45 points by [sexy_seedbox](https://news.ycombinator.com/user?id=sexy_seedbox), [42 comments](https://news.ycombinator.com/item?id=49652028)
+8. [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) (cognition.com) - 360 points by [seelos](https://news.ycombinator.com/user?id=seelos), [152 comments](https://news.ycombinator.com/item?id=49645443)
+9. [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) (auberon.xyz) - 91 points by [auberonedu](https://news.ycombinator.com/user?id=auberonedu), [58 comments](https://news.ycombinator.com/item?id=49649124)
+10. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai) (system76.com) - 35 points by [jonifico](https://news.ycombinator.com/user?id=jonifico), [26 comments](https://news.ycombinator.com/item?id=49651372)
 
 ## 2026-09-10
 
