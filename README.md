@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08) | [Sep 07](#2026-09-07) | [Sep 06](#2026-09-06) | [Sep 05](#2026-09-05)
+Recent: [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08) | [Sep 07](#2026-09-07) | [Sep 06](#2026-09-06)
 
-### [2026](data/2026/) (254/254 days)
+### [2026](data/2026/) (255/255 days)
 
-[**September**](data/2026/09/) (11/11)
+[**September**](data/2026/09/) (12/12)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
-| [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) |  |  |
+| [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2162,6 +2162,21 @@ Recent: [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | 
 </details>
 
 ---
+
+## 2026-09-12
+
+*Saturday*
+
+1. [A misalignment of AI in mathematics](https://mathandai.org/) (mathandai.org) - 682 points by [meredydd](https://news.ycombinator.com/user?id=meredydd), [714 comments](https://news.ycombinator.com/item?id=49662371)
+2. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) (dayzlegame.com) - 330 points by [nickabe](https://news.ycombinator.com/user?id=nickabe), [177 comments](https://news.ycombinator.com/item?id=49662990)
+3. [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) (cel.cs.brown.edu) - 164 points by [wcrichton](https://news.ycombinator.com/user?id=wcrichton), [33 comments](https://news.ycombinator.com/item?id=49626718)
+4. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) (rubyhack.ai) - 383 points by [chao-](https://news.ycombinator.com/user?id=chao-), [224 comments](https://news.ycombinator.com/item?id=49666735)
+5. [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) (dwarkesh.com) - 46 points by [artninja1988](https://news.ycombinator.com/user?id=artninja1988), [28 comments](https://news.ycombinator.com/item?id=49665711)
+6. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) (github.com) - 208 points by [microtonal](https://news.ycombinator.com/user?id=microtonal), [131 comments](https://news.ycombinator.com/item?id=49663373)
+7. [Project Blinkenlights](https://blinkenlights.de/en/) (blinkenlights.de) - 56 points by [doener](https://news.ycombinator.com/user?id=doener), [23 comments](https://news.ycombinator.com/item?id=49666146)
+8. [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) (github.com) - 100 points by [kennethwolters](https://news.ycombinator.com/user?id=kennethwolters), [38 comments](https://news.ycombinator.com/item?id=49662767)
+9. [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ) (github.com) - 32 points by [mirza_rizvi](https://news.ycombinator.com/user?id=mirza_rizvi), [12 comments](https://news.ycombinator.com/item?id=49665864)
+10. [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) (snap.berkeley.edu) - 117 points by [dr_kiszonka](https://news.ycombinator.com/user?id=dr_kiszonka), [61 comments](https://news.ycombinator.com/item?id=49662214)
 
 ## 2026-09-11
 

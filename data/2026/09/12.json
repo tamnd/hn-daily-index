@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49662371,
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "score": 682,
+    "by": "meredydd",
+    "descendants": 714,
+    "time": 1789148712
+  },
+  {
+    "rank": 2,
+    "id": 49662990,
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "score": 330,
+    "by": "nickabe",
+    "descendants": 177,
+    "time": 1789151095
+  },
+  {
+    "rank": 3,
+    "id": 49626718,
+    "title": "A Design Space Exploration of Async/Await",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "score": 164,
+    "by": "wcrichton",
+    "descendants": 33,
+    "time": 1788962390
+  },
+  {
+    "rank": 4,
+    "id": 49666735,
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "score": 383,
+    "by": "chao-",
+    "descendants": 224,
+    "time": 1789168662
+  },
+  {
+    "rank": 5,
+    "id": 49665711,
+    "title": "AI researchers debate how close we are to recursive self-improvement",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "score": 46,
+    "by": "artninja1988",
+    "descendants": 28,
+    "time": 1789162529
+  },
+  {
+    "rank": 6,
+    "id": 49663373,
+    "title": "GrapheneOS' rewritten Messages app is released",
+    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+    "score": 208,
+    "by": "microtonal",
+    "descendants": 131,
+    "time": 1789152636
+  },
+  {
+    "rank": 7,
+    "id": 49666146,
+    "title": "Project Blinkenlights",
+    "url": "https://blinkenlights.de/en/",
+    "score": 56,
+    "by": "doener",
+    "descendants": 23,
+    "time": 1789164900
+  },
+  {
+    "rank": 8,
+    "id": 49662767,
+    "title": "Litelm: LiteLLM Without the Bloat",
+    "url": "https://github.com/kennethwolters/litelm",
+    "score": 100,
+    "by": "kennethwolters",
+    "descendants": 38,
+    "time": 1789150220
+  },
+  {
+    "rank": 9,
+    "id": 49665864,
+    "title": "Show HN: ResolveHQ \u2013 A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "url": "https://github.com/mirza-rizvi/ResolveHQ",
+    "score": 32,
+    "by": "mirza_rizvi",
+    "descendants": 12,
+    "time": 1789163280
+  },
+  {
+    "rank": 10,
+    "id": 49662214,
+    "title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study",
+    "url": "https://snap.berkeley.edu/",
+    "score": 117,
+    "by": "dr_kiszonka",
+    "descendants": 61,
+    "time": 1789148171
+  }
+]
