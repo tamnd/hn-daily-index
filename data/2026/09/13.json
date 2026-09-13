@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49674050,
+    "title": "Make your first edit to OpenStreetMap",
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "score": 348,
+    "by": "juliantigler",
+    "descendants": 81,
+    "time": 1789230308
+  },
+  {
+    "rank": 2,
+    "id": 49676820,
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "score": 132,
+    "by": "theanonymousone",
+    "descendants": 67,
+    "time": 1789244748
+  },
+  {
+    "rank": 3,
+    "id": 49673098,
+    "title": "Nvidia is the central bank of AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "score": 406,
+    "by": "tolugenius",
+    "descendants": 273,
+    "time": 1789225707
+  },
+  {
+    "rank": 4,
+    "id": 49678783,
+    "title": "Align AI and Mathematics\u2013To Something Else",
+    "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+    "score": 16,
+    "by": "nitrogenpuddle",
+    "descendants": 2,
+    "time": 1789260468
+  },
+  {
+    "rank": 5,
+    "id": 49678969,
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "score": 14,
+    "by": "jonifico",
+    "descendants": 12,
+    "time": 1789262551
+  },
+  {
+    "rank": 6,
+    "id": 49619848,
+    "title": "Apple iPod Engraver (2019)",
+    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+    "score": 135,
+    "by": "NaOH",
+    "descendants": 31,
+    "time": 1788919057
+  },
+  {
+    "rank": 7,
+    "id": 49678548,
+    "title": "Recurrent Looped Transformer",
+    "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+    "score": 14,
+    "by": "MayCXC",
+    "descendants": 4,
+    "time": 1789257922
+  },
+  {
+    "rank": 8,
+    "id": 49636479,
+    "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+    "url": "https://eiln.github.io/posts/ane-dma.html",
+    "score": 87,
+    "by": "eiln",
+    "descendants": 15,
+    "time": 1788999370
+  },
+  {
+    "rank": 9,
+    "id": 49678683,
+    "title": "Everyone should slow down AI development except for me",
+    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "score": 150,
+    "by": "xena",
+    "descendants": 60,
+    "time": 1789259444
+  },
+  {
+    "rank": 10,
+    "id": 49625056,
+    "title": "Stabilizing Rust's Never Type",
+    "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+    "score": 147,
+    "by": "cjd8",
+    "descendants": 35,
+    "time": 1788955065
+  }
+]

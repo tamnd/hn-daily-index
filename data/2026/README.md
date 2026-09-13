@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (12 days)
+- [September](09/) (13 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-13
+
+*Sunday*
+
+1. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) (high5apps.github.io) - 348 points by [juliantigler](https://news.ycombinator.com/user?id=juliantigler), [81 comments](https://news.ycombinator.com/item?id=49674050)
+2. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) (withspecific.com) - 132 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [67 comments](https://news.ycombinator.com/item?id=49676820)
+3. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) (economist.com) - 406 points by [tolugenius](https://news.ycombinator.com/user?id=tolugenius), [273 comments](https://news.ycombinator.com/item?id=49673098)
+4. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/) (liorpachter.wordpress.com) - 16 points by [nitrogenpuddle](https://news.ycombinator.com/user?id=nitrogenpuddle), [2 comments](https://news.ycombinator.com/item?id=49678783)
+5. [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) (yoshuabengio.org) - 14 points by [jonifico](https://news.ycombinator.com/user?id=jonifico), [12 comments](https://news.ycombinator.com/item?id=49678969)
+6. [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) (dunstanorchard.com) - 135 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [31 comments](https://news.ycombinator.com/item?id=49619848)
+7. [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/) (yifanzhang-pro.github.io) - 14 points by [MayCXC](https://news.ycombinator.com/user?id=MayCXC), [4 comments](https://news.ycombinator.com/item?id=49678548)
+8. [Getting 50 GB/S Back from the Apple Neural Engine](https://eiln.github.io/posts/ane-dma.html) (eiln.github.io) - 87 points by [eiln](https://news.ycombinator.com/user?id=eiln), [15 comments](https://news.ycombinator.com/item?id=49636479)
+9. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) (xeiaso.net) - 150 points by [xena](https://news.ycombinator.com/user?id=xena), [60 comments](https://news.ycombinator.com/item?id=49678683)
+10. [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) (lwn.net) - 147 points by [cjd8](https://news.ycombinator.com/user?id=cjd8), [35 comments](https://news.ycombinator.com/item?id=49625056)
 
 ## 2026-09-12
 

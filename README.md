@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08) | [Sep 07](#2026-09-07) | [Sep 06](#2026-09-06)
+Recent: [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08) | [Sep 07](#2026-09-07)
 
-### [2026](data/2026/) (255/255 days)
+### [2026](data/2026/) (256/256 days)
 
-[**September**](data/2026/09/) (12/12)
+[**September**](data/2026/09/) (13/13)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
-| [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) |  |
+| [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2162,6 +2162,21 @@ Recent: [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | 
 </details>
 
 ---
+
+## 2026-09-13
+
+*Sunday*
+
+1. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) (high5apps.github.io) - 348 points by [juliantigler](https://news.ycombinator.com/user?id=juliantigler), [81 comments](https://news.ycombinator.com/item?id=49674050)
+2. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) (withspecific.com) - 132 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [67 comments](https://news.ycombinator.com/item?id=49676820)
+3. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) (economist.com) - 406 points by [tolugenius](https://news.ycombinator.com/user?id=tolugenius), [273 comments](https://news.ycombinator.com/item?id=49673098)
+4. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/) (liorpachter.wordpress.com) - 16 points by [nitrogenpuddle](https://news.ycombinator.com/user?id=nitrogenpuddle), [2 comments](https://news.ycombinator.com/item?id=49678783)
+5. [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) (yoshuabengio.org) - 14 points by [jonifico](https://news.ycombinator.com/user?id=jonifico), [12 comments](https://news.ycombinator.com/item?id=49678969)
+6. [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) (dunstanorchard.com) - 135 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [31 comments](https://news.ycombinator.com/item?id=49619848)
+7. [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/) (yifanzhang-pro.github.io) - 14 points by [MayCXC](https://news.ycombinator.com/user?id=MayCXC), [4 comments](https://news.ycombinator.com/item?id=49678548)
+8. [Getting 50 GB/S Back from the Apple Neural Engine](https://eiln.github.io/posts/ane-dma.html) (eiln.github.io) - 87 points by [eiln](https://news.ycombinator.com/user?id=eiln), [15 comments](https://news.ycombinator.com/item?id=49636479)
+9. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) (xeiaso.net) - 150 points by [xena](https://news.ycombinator.com/user?id=xena), [60 comments](https://news.ycombinator.com/item?id=49678683)
+10. [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) (lwn.net) - 147 points by [cjd8](https://news.ycombinator.com/user?id=cjd8), [35 comments](https://news.ycombinator.com/item?id=49625056)
 
 ## 2026-09-12
 
