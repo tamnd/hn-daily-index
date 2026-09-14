@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49688695,
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "score": 525,
+    "by": "u1hcw9nx",
+    "descendants": 234,
+    "time": 1789333573
+  },
+  {
+    "rank": 2,
+    "id": 49686445,
+    "title": "Why is Google still serving dodgy ads?",
+    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "score": 628,
+    "by": "iamflimflam1",
+    "descendants": 297,
+    "time": 1789321064
+  },
+  {
+    "rank": 3,
+    "id": 49638510,
+    "title": "Spaceships (Reverse Asteroid)",
+    "url": "https://spaceships.treybastian.com/",
+    "score": 38,
+    "by": "zdw",
+    "descendants": 13,
+    "time": 1789015472
+  },
+  {
+    "rank": 4,
+    "id": 49689048,
+    "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+    "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+    "score": 105,
+    "by": "Cider9986",
+    "descendants": 49,
+    "time": 1789336024
+  },
+  {
+    "rank": 5,
+    "id": 49690260,
+    "title": "Open-Source AI and Open Models Reading List",
+    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "score": 29,
+    "by": "simonpure",
+    "descendants": 1,
+    "time": 1789345371
+  },
+  {
+    "rank": 6,
+    "id": 49642645,
+    "title": "Julia 1.13 highlights",
+    "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+    "score": 169,
+    "by": "eigenspace",
+    "descendants": 12,
+    "time": 1789043245
+  },
+  {
+    "rank": 7,
+    "id": 49684393,
+    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+    "score": 388,
+    "by": "Levitating",
+    "descendants": 177,
+    "time": 1789309716
+  },
+  {
+    "rank": 8,
+    "id": 49683953,
+    "title": "Data collected by cars and sold to third parties",
+    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "score": 324,
+    "by": "bookofjoe",
+    "descendants": 165,
+    "time": 1789307108
+  },
+  {
+    "rank": 9,
+    "id": 49690174,
+    "title": "Apple's Dimensional Drawings",
+    "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+    "score": 29,
+    "by": "herbertl",
+    "descendants": 4,
+    "time": 1789344681
+  },
+  {
+    "rank": 10,
+    "id": 49690943,
+    "title": "Show HN: Is It Greg?",
+    "url": "https://github.com/antoineleclair/is-it-greg",
+    "score": 22,
+    "by": "antoineleclair",
+    "descendants": 6,
+    "time": 1789351121
+  }
+]

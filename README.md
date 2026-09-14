@@ -13,16 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08) | [Sep 07](#2026-09-07)
+Recent: [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08)
 
-### [2026](data/2026/) (256/256 days)
+### [2026](data/2026/) (257/257 days)
 
-[**September**](data/2026/09/) (13/13)
+[**September**](data/2026/09/) (14/14)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
+| [**14**](#2026-09-14) |  |  |  |  |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2162,6 +2163,21 @@ Recent: [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | 
 </details>
 
 ---
+
+## 2026-09-14
+
+*Monday*
+
+1. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) (vals.ai) - 525 points by [u1hcw9nx](https://news.ycombinator.com/user?id=u1hcw9nx), [234 comments](https://news.ycombinator.com/item?id=49688695)
+2. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) (atomic14.com) - 628 points by [iamflimflam1](https://news.ycombinator.com/user?id=iamflimflam1), [297 comments](https://news.ycombinator.com/item?id=49686445)
+3. [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) (spaceships.treybastian.com) - 38 points by [zdw](https://news.ycombinator.com/user?id=zdw), [13 comments](https://news.ycombinator.com/item?id=49638510)
+4. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) (community.signalusers.org) - 105 points by [Cider9986](https://news.ycombinator.com/user?id=Cider9986), [49 comments](https://news.ycombinator.com/item?id=49689048)
+5. [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list) (interconnects.ai) - 29 points by [simonpure](https://news.ycombinator.com/user?id=simonpure), [1 comments](https://news.ycombinator.com/item?id=49690260)
+6. [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) (julialang.org) - 169 points by [eigenspace](https://news.ycombinator.com/user?id=eigenspace), [12 comments](https://news.ycombinator.com/item?id=49642645)
+7. [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) (lesswrong.com) - 388 points by [Levitating](https://news.ycombinator.com/user?id=Levitating), [177 comments](https://news.ycombinator.com/item?id=49684393)
+8. [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data) (theverge.com) - 324 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [165 comments](https://news.ycombinator.com/item?id=49683953)
+9. [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/) (developer.apple.com) - 29 points by [herbertl](https://news.ycombinator.com/user?id=herbertl), [4 comments](https://news.ycombinator.com/item?id=49690174)
+10. [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg) (github.com) - 22 points by [antoineleclair](https://news.ycombinator.com/user?id=antoineleclair), [6 comments](https://news.ycombinator.com/item?id=49690943)
 
 ## 2026-09-13
 
