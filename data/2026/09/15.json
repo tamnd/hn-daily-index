@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49706656,
+    "title": "Show HN: Sunk Cost \u2013 How long until a local LLM rig pays for itself?",
+    "url": "https://sunkcost.ai/",
+    "score": 28,
+    "by": "rlindsey123",
+    "descendants": 25,
+    "time": 1789436263
+  },
+  {
+    "rank": 2,
+    "id": 49701004,
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+    "score": 415,
+    "by": "throw0101d",
+    "descendants": 476,
+    "time": 1789408229
+  },
+  {
+    "rank": 3,
+    "id": 49700477,
+    "title": "Pion, an agent designed to run any company autonomously",
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "score": 303,
+    "by": "lukaspetersson",
+    "descendants": 339,
+    "time": 1789406166
+  },
+  {
+    "rank": 4,
+    "id": 49704246,
+    "title": "Charts built for Chat",
+    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "score": 115,
+    "by": "thingsilearned",
+    "descendants": 38,
+    "time": 1789420974
+  },
+  {
+    "rank": 5,
+    "id": 49705442,
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "url": "https://github.com/JamesRyanATX/fcbnerd",
+    "score": 42,
+    "by": "fretlessjazz",
+    "descendants": 5,
+    "time": 1789426896
+  },
+  {
+    "rank": 6,
+    "id": 49675817,
+    "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "score": 30,
+    "by": "arunbahl",
+    "descendants": 4,
+    "time": 1789239100
+  },
+  {
+    "rank": 7,
+    "id": 49673689,
+    "title": "Compressing a Flag to 11 Bits",
+    "url": "https://read.vantezzen.io/miniflags",
+    "score": 79,
+    "by": "bennett_dev",
+    "descendants": 37,
+    "time": 1789228663
+  },
+  {
+    "rank": 8,
+    "id": 49694296,
+    "title": "XCancel service is suspended until further notice",
+    "url": "https://xcancel.com/#",
+    "score": 481,
+    "by": "gaganyaan",
+    "descendants": 786,
+    "time": 1789379510
+  },
+  {
+    "rank": 9,
+    "id": 49697477,
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "score": 42,
+    "by": "nathannaveen",
+    "descendants": 12,
+    "time": 1789396163
+  },
+  {
+    "rank": 10,
+    "id": 49699158,
+    "title": "Distributed Systems Classics (2017)",
+    "url": "https://nvartolomei.com/dist-sys-classics/",
+    "score": 246,
+    "by": "grep_it",
+    "descendants": 56,
+    "time": 1789401721
+  }
+]

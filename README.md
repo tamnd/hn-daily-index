@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09) | [Sep 08](#2026-09-08)
+Recent: [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09)
 
-### [2026](data/2026/) (257/257 days)
+### [2026](data/2026/) (258/258 days)
 
-[**September**](data/2026/09/) (14/14)
+[**September**](data/2026/09/) (15/15)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
-| [**14**](#2026-09-14) |  |  |  |  |  |  |
+| [**14**](#2026-09-14) | [**15**](#2026-09-15) |  |  |  |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2163,6 +2163,21 @@ Recent: [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | 
 </details>
 
 ---
+
+## 2026-09-15
+
+*Tuesday*
+
+1. [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) (sunkcost.ai) - 28 points by [rlindsey123](https://news.ycombinator.com/user?id=rlindsey123), [25 comments](https://news.ycombinator.com/item?id=49706656)
+2. [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) (apple.com) - 415 points by [throw0101d](https://news.ycombinator.com/user?id=throw0101d), [476 comments](https://news.ycombinator.com/item?id=49701004)
+3. [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) (andonlabs.com) - 303 points by [lukaspetersson](https://news.ycombinator.com/user?id=lukaspetersson), [339 comments](https://news.ycombinator.com/item?id=49700477)
+4. [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) (dbtcharts.com) - 115 points by [thingsilearned](https://news.ycombinator.com/user?id=thingsilearned), [38 comments](https://news.ycombinator.com/item?id=49704246)
+5. [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) (github.com) - 42 points by [fretlessjazz](https://news.ycombinator.com/user?id=fretlessjazz), [5 comments](https://news.ycombinator.com/item?id=49705442)
+6. [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) (arkeonews.net) - 30 points by [arunbahl](https://news.ycombinator.com/user?id=arunbahl), [4 comments](https://news.ycombinator.com/item?id=49675817)
+7. [Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags) (read.vantezzen.io) - 79 points by [bennett_dev](https://news.ycombinator.com/user?id=bennett_dev), [37 comments](https://news.ycombinator.com/item?id=49673689)
+8. [XCancel service is suspended until further notice](https://xcancel.com/#) (xcancel.com) - 481 points by [gaganyaan](https://news.ycombinator.com/user?id=gaganyaan), [786 comments](https://news.ycombinator.com/item?id=49694296)
+9. [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/) (nathannaveen.dev) - 42 points by [nathannaveen](https://news.ycombinator.com/user?id=nathannaveen), [12 comments](https://news.ycombinator.com/item?id=49697477)
+10. [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) (nvartolomei.com) - 246 points by [grep_it](https://news.ycombinator.com/user?id=grep_it), [56 comments](https://news.ycombinator.com/item?id=49699158)
 
 ## 2026-09-14
 
