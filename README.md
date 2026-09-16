@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10) | [Sep 09](#2026-09-09)
+Recent: [Sep 16](#2026-09-16) | [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10)
 
-### [2026](data/2026/) (258/258 days)
+### [2026](data/2026/) (259/259 days)
 
-[**September**](data/2026/09/) (15/15)
+[**September**](data/2026/09/) (16/16)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
-| [**14**](#2026-09-14) | [**15**](#2026-09-15) |  |  |  |  |  |
+| [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) |  |  |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2163,6 +2163,21 @@ Recent: [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | 
 </details>
 
 ---
+
+## 2026-09-16
+
+*Wednesday*
+
+1. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) (typesafe.ai) - 842 points by [albelfio](https://news.ycombinator.com/user?id=albelfio), [276 comments](https://news.ycombinator.com/item?id=49717558)
+2. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) (github.com) - 1.4k points by [arnemunthekaas](https://news.ycombinator.com/user?id=arnemunthekaas), [183 comments](https://news.ycombinator.com/item?id=49711544)
+3. [An update on wayback machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) (blog.archive.org) - 411 points by [ChrisArchitect](https://news.ycombinator.com/user?id=ChrisArchitect), [219 comments](https://news.ycombinator.com/item?id=49716176)
+4. [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) (blog.google) - 322 points by [leumon](https://news.ycombinator.com/user?id=leumon), [198 comments](https://news.ycombinator.com/item?id=49715947)
+5. [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) (rheinmetall.github.io) - 138 points by [summarity](https://news.ycombinator.com/user?id=summarity), [42 comments](https://news.ycombinator.com/item?id=49718928)
+6. [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) (blog.cloudflare.com) - 18 points by [djfergus](https://news.ycombinator.com/user?id=djfergus), [5 comments](https://news.ycombinator.com/item?id=49721435)
+7. [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) (strix.ai) - 234 points by [bearsyankees](https://news.ycombinator.com/user?id=bearsyankees), [124 comments](https://news.ycombinator.com/item?id=49716476)
+8. [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) (nand2mario.github.io) - 45 points by [zdw](https://news.ycombinator.com/user?id=zdw), [10 comments](https://news.ycombinator.com/item?id=49719938)
+9. [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) (codyho.dev) - 178 points by [ADevWithAnIdea](https://news.ycombinator.com/user?id=ADevWithAnIdea), [114 comments](https://news.ycombinator.com/item?id=49717638)
+10. [Sierra digital cameras on the Apple II](https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/) (colino.net) - 25 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [4 comments](https://news.ycombinator.com/item?id=49680916)
 
 ## 2026-09-15
 

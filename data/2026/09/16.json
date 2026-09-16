@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49717558,
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "score": 842,
+    "by": "albelfio",
+    "descendants": 276,
+    "time": 1789500303
+  },
+  {
+    "rank": 2,
+    "id": 49711544,
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "score": 1354,
+    "by": "arnemunthekaas",
+    "descendants": 183,
+    "time": 1789475470
+  },
+  {
+    "rank": 3,
+    "id": 49716176,
+    "title": "An update on wayback machine access",
+    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+    "score": 411,
+    "by": "ChrisArchitect",
+    "descendants": 219,
+    "time": 1789494738
+  },
+  {
+    "rank": 4,
+    "id": 49715947,
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "score": 322,
+    "by": "leumon",
+    "descendants": 198,
+    "time": 1789493898
+  },
+  {
+    "rank": 5,
+    "id": 49718928,
+    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+    "score": 138,
+    "by": "summarity",
+    "descendants": 42,
+    "time": 1789506467
+  },
+  {
+    "rank": 6,
+    "id": 49721435,
+    "title": "Stay discoverable in search while disallowing AI training",
+    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "score": 18,
+    "by": "djfergus",
+    "descendants": 5,
+    "time": 1789525518
+  },
+  {
+    "rank": 7,
+    "id": 49716476,
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "score": 234,
+    "by": "bearsyankees",
+    "descendants": 124,
+    "time": 1789495884
+  },
+  {
+    "rank": 8,
+    "id": 49719938,
+    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+    "score": 45,
+    "by": "zdw",
+    "descendants": 10,
+    "time": 1789512655
+  },
+  {
+    "rank": 9,
+    "id": 49717638,
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "url": "https://codyho.dev/blog/gpu-driver/",
+    "score": 178,
+    "by": "ADevWithAnIdea",
+    "descendants": 114,
+    "time": 1789500603
+  },
+  {
+    "rank": 10,
+    "id": 49680916,
+    "title": "Sierra digital cameras on the Apple II",
+    "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
+    "score": 25,
+    "by": "ibobev",
+    "descendants": 4,
+    "time": 1789283480
+  }
+]
