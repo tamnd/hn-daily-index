@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (16 days)
+- [September](09/) (17 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-17
+
+*Thursday*
+
+1. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) (developer.nvidia.com) - 343 points by [nonmaskable](https://news.ycombinator.com/user?id=nonmaskable), [136 comments](https://news.ycombinator.com/item?id=49724881)
+2. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) (rohanbansal.com) - 423 points by [polyphilz](https://news.ycombinator.com/user?id=polyphilz), [86 comments](https://news.ycombinator.com/item?id=49731285)
+3. [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) (mimo.xiaomi.com) - 291 points by [krackers](https://news.ycombinator.com/user?id=krackers), [74 comments](https://news.ycombinator.com/item?id=49732270)
+4. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) (arxiv.org) - 150 points by [matt_d](https://news.ycombinator.com/user?id=matt_d), [20 comments](https://news.ycombinator.com/item?id=49732931)
+5. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) (filipovski.net) - 106 points by [afilipovski](https://news.ycombinator.com/user?id=afilipovski), [46 comments](https://news.ycombinator.com/item?id=49732513)
+6. [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) (will-keleher.com) - 415 points by [signa11](https://news.ycombinator.com/user?id=signa11), [187 comments](https://news.ycombinator.com/item?id=49729000)
+7. [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus) (amazon.science) - 33 points by [Betelbuddy](https://news.ycombinator.com/user?id=Betelbuddy), [2 comments](https://news.ycombinator.com/item?id=49700153)
+8. [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve) (johnjwang.com) - 120 points by [johnjwang](https://news.ycombinator.com/user?id=johnjwang), [45 comments](https://news.ycombinator.com/item?id=49719596)
+9. [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/) (openspec.dev) - 79 points by [etoxin](https://news.ycombinator.com/user?id=etoxin), [32 comments](https://news.ycombinator.com/item?id=49734264)
+10. [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html) (zartbot.github.io) - 14 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [0 comments](https://news.ycombinator.com/item?id=49735410)
 
 ## 2026-09-16
 

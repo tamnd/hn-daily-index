@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49724881,
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "score": 343,
+    "by": "nonmaskable",
+    "descendants": 136,
+    "time": 1789557353
+  },
+  {
+    "rank": 2,
+    "id": 49731285,
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "score": 423,
+    "by": "polyphilz",
+    "descendants": 86,
+    "time": 1789584600
+  },
+  {
+    "rank": 3,
+    "id": 49732270,
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "score": 291,
+    "by": "krackers",
+    "descendants": 74,
+    "time": 1789589358
+  },
+  {
+    "rank": 4,
+    "id": 49732931,
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "url": "https://arxiv.org/abs/2609.16338",
+    "score": 150,
+    "by": "matt_d",
+    "descendants": 20,
+    "time": 1789592364
+  },
+  {
+    "rank": 5,
+    "id": 49732513,
+    "title": "Backups Aren't Simple",
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "score": 106,
+    "by": "afilipovski",
+    "descendants": 46,
+    "time": 1789590436
+  },
+  {
+    "rank": 6,
+    "id": 49729000,
+    "title": "Small programming tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "score": 415,
+    "by": "signa11",
+    "descendants": 187,
+    "time": 1789574207
+  },
+  {
+    "rank": 7,
+    "id": 49700153,
+    "title": "Developing provably correct Rust code with Verus",
+    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+    "score": 33,
+    "by": "Betelbuddy",
+    "descendants": 2,
+    "time": 1789405070
+  },
+  {
+    "rank": 8,
+    "id": 49719596,
+    "title": "The engineering behind the US Strategic Petroleum Reserve",
+    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "score": 120,
+    "by": "johnjwang",
+    "descendants": 45,
+    "time": 1789510525
+  },
+  {
+    "rank": 9,
+    "id": 49734264,
+    "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+    "url": "https://openspec.dev/",
+    "score": 79,
+    "by": "etoxin",
+    "descendants": 32,
+    "time": 1789599999
+  },
+  {
+    "rank": 10,
+    "id": 49735410,
+    "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+    "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+    "score": 14,
+    "by": "mfiguiere",
+    "descendants": 0,
+    "time": 1789609187
+  }
+]

@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 16](#2026-09-16) | [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11) | [Sep 10](#2026-09-10)
+Recent: [Sep 17](#2026-09-17) | [Sep 16](#2026-09-16) | [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12) | [Sep 11](#2026-09-11)
 
-### [2026](data/2026/) (259/259 days)
+### [2026](data/2026/) (260/260 days)
 
-[**September**](data/2026/09/) (16/16)
+[**September**](data/2026/09/) (17/17)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
-| [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) |  |  |  |  |
+| [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) | [**17**](#2026-09-17) |  |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2163,6 +2163,21 @@ Recent: [Sep 16](#2026-09-16) | [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | 
 </details>
 
 ---
+
+## 2026-09-17
+
+*Thursday*
+
+1. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) (developer.nvidia.com) - 343 points by [nonmaskable](https://news.ycombinator.com/user?id=nonmaskable), [136 comments](https://news.ycombinator.com/item?id=49724881)
+2. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) (rohanbansal.com) - 423 points by [polyphilz](https://news.ycombinator.com/user?id=polyphilz), [86 comments](https://news.ycombinator.com/item?id=49731285)
+3. [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) (mimo.xiaomi.com) - 291 points by [krackers](https://news.ycombinator.com/user?id=krackers), [74 comments](https://news.ycombinator.com/item?id=49732270)
+4. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) (arxiv.org) - 150 points by [matt_d](https://news.ycombinator.com/user?id=matt_d), [20 comments](https://news.ycombinator.com/item?id=49732931)
+5. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) (filipovski.net) - 106 points by [afilipovski](https://news.ycombinator.com/user?id=afilipovski), [46 comments](https://news.ycombinator.com/item?id=49732513)
+6. [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) (will-keleher.com) - 415 points by [signa11](https://news.ycombinator.com/user?id=signa11), [187 comments](https://news.ycombinator.com/item?id=49729000)
+7. [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus) (amazon.science) - 33 points by [Betelbuddy](https://news.ycombinator.com/user?id=Betelbuddy), [2 comments](https://news.ycombinator.com/item?id=49700153)
+8. [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve) (johnjwang.com) - 120 points by [johnjwang](https://news.ycombinator.com/user?id=johnjwang), [45 comments](https://news.ycombinator.com/item?id=49719596)
+9. [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/) (openspec.dev) - 79 points by [etoxin](https://news.ycombinator.com/user?id=etoxin), [32 comments](https://news.ycombinator.com/item?id=49734264)
+10. [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html) (zartbot.github.io) - 14 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [0 comments](https://news.ycombinator.com/item?id=49735410)
 
 ## 2026-09-16
 
