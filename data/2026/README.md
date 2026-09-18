@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (17 days)
+- [September](09/) (18 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-18
+
+*Friday*
+
+1. [Astra for Law](https://openai.com/index/astra-for-law/) (openai.com) - 345 points by [vertigoruntime](https://news.ycombinator.com/user?id=vertigoruntime), [373 comments](https://news.ycombinator.com/item?id=49745940)
+2. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) (prismml.com) - 258 points by [JonSchneider](https://news.ycombinator.com/user?id=JonSchneider), [82 comments](https://news.ycombinator.com/item?id=49746618)
+3. [Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe](https://github.com/aardappel/goose/tree/master) (github.com) - 36 points by [bobbydigitales](https://news.ycombinator.com/user?id=bobbydigitales), [32 comments](https://news.ycombinator.com/item?id=49748954)
+4. [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) (bend-lang.com) - 313 points by [nicolas-siplis](https://news.ycombinator.com/user?id=nicolas-siplis), [163 comments](https://news.ycombinator.com/item?id=49746163)
+5. [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) (github.com) - 485 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [138 comments](https://news.ycombinator.com/item?id=49743097)
+6. [Wax motor](https://en.wikipedia.org/wiki/Wax_motor) (en.wikipedia.org) - 261 points by [mhb](https://news.ycombinator.com/user?id=mhb), [50 comments](https://news.ycombinator.com/item?id=49726007)
+7. [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) (global.fujitsu) - 523 points by [my123](https://news.ycombinator.com/user?id=my123), [198 comments](https://news.ycombinator.com/item?id=49715813)
+8. [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) (qwen.ai) - 44 points by [jjcm](https://news.ycombinator.com/user?id=jjcm), [7 comments](https://news.ycombinator.com/item?id=49747925)
+9. [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006) (netnod.se) - 14 points by [TMWNN](https://news.ycombinator.com/user?id=TMWNN), [3 comments](https://news.ycombinator.com/item?id=49748957)
+10. [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/) (flet.dev) - 65 points by [absqueued](https://news.ycombinator.com/user?id=absqueued), [36 comments](https://news.ycombinator.com/item?id=49746290)
 
 ## 2026-09-17
 

@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49745940,
+    "title": "Astra for Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "score": 345,
+    "by": "vertigoruntime",
+    "descendants": 373,
+    "time": 1789676268
+  },
+  {
+    "rank": 2,
+    "id": 49746618,
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "score": 258,
+    "by": "JonSchneider",
+    "descendants": 82,
+    "time": 1789679611
+  },
+  {
+    "rank": 3,
+    "id": 49748954,
+    "title": "Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe",
+    "url": "https://github.com/aardappel/goose/tree/master",
+    "score": 36,
+    "by": "bobbydigitales",
+    "descendants": 32,
+    "time": 1789693494
+  },
+  {
+    "rank": 4,
+    "id": 49746163,
+    "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+    "url": "https://bend-lang.com/",
+    "score": 313,
+    "by": "nicolas-siplis",
+    "descendants": 163,
+    "time": 1789677373
+  },
+  {
+    "rank": 5,
+    "id": 49743097,
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "url": "https://github.com/asciimoo/hister",
+    "score": 485,
+    "by": "bookofjoe",
+    "descendants": 138,
+    "time": 1789662337
+  },
+  {
+    "rank": 6,
+    "id": 49726007,
+    "title": "Wax motor",
+    "url": "https://en.wikipedia.org/wiki/Wax_motor",
+    "score": 261,
+    "by": "mhb",
+    "descendants": 50,
+    "time": 1789562114
+  },
+  {
+    "rank": 7,
+    "id": 49715813,
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "score": 523,
+    "by": "my123",
+    "descendants": 198,
+    "time": 1789493318
+  },
+  {
+    "rank": 8,
+    "id": 49747925,
+    "title": "Alibaba releases Qwen 3.8 Omni Flash",
+    "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "score": 44,
+    "by": "jjcm",
+    "descendants": 7,
+    "time": 1789686348
+  },
+  {
+    "rank": 9,
+    "id": 49748957,
+    "title": "Telstra outage: The night a network decided the year was 2006",
+    "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+    "score": 14,
+    "by": "TMWNN",
+    "descendants": 3,
+    "time": 1789693503
+  },
+  {
+    "rank": 10,
+    "id": 49746290,
+    "title": "Flet 1.0 \u2013 Build cross-platform apps in Python",
+    "url": "https://flet.dev/",
+    "score": 65,
+    "by": "absqueued",
+    "descendants": 36,
+    "time": 1789677868
+  }
+]
