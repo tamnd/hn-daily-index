@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 18](#2026-09-18) | [Sep 17](#2026-09-17) | [Sep 16](#2026-09-16) | [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13) | [Sep 12](#2026-09-12)
+Recent: [Sep 19](#2026-09-19) | [Sep 18](#2026-09-18) | [Sep 17](#2026-09-17) | [Sep 16](#2026-09-16) | [Sep 15](#2026-09-15) | [Sep 14](#2026-09-14) | [Sep 13](#2026-09-13)
 
-### [2026](data/2026/) (261/261 days)
+### [2026](data/2026/) (262/262 days)
 
-[**September**](data/2026/09/) (18/18)
+[**September**](data/2026/09/) (19/19)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
-| [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) | [**17**](#2026-09-17) | [**18**](#2026-09-18) |  |  |
+| [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) | [**17**](#2026-09-17) | [**18**](#2026-09-18) | [**19**](#2026-09-19) |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2163,6 +2163,21 @@ Recent: [Sep 18](#2026-09-18) | [Sep 17](#2026-09-17) | [Sep 16](#2026-09-16) | 
 </details>
 
 ---
+
+## 2026-09-19
+
+*Saturday*
+
+1. [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) (grapheneos.social) - 572 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [272 comments](https://news.ycombinator.com/item?id=49758736)
+2. [The Contract on America](https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html) (3quarksdaily.com) - 9 points by [hkhn](https://news.ycombinator.com/user?id=hkhn), [2 comments](https://news.ycombinator.com/item?id=49762573)
+3. [Cloudflare Quick Tunnels](https://try.cloudflare.com/) (try.cloudflare.com) - 595 points by [jcbhmr](https://news.ycombinator.com/user?id=jcbhmr), [254 comments](https://news.ycombinator.com/item?id=49754785)
+4. [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) (jepedersen.dk) - 6 points by [jegp](https://news.ycombinator.com/user?id=jegp), [2 comments](https://news.ycombinator.com/item?id=49762687)
+5. [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) (blog.cloudflare.com) - 246 points by [f311a](https://news.ycombinator.com/user?id=f311a), [47 comments](https://news.ycombinator.com/item?id=49758580)
+6. [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) (sockpuppet.org) - 404 points by [joeriddles](https://news.ycombinator.com/user?id=joeriddles), [277 comments](https://news.ycombinator.com/item?id=49747070)
+7. [The Farnese letter](https://simonklee.dk/farnese-letter) (simonklee.dk) - 30 points by [grigolin](https://news.ycombinator.com/user?id=grigolin), [5 comments](https://news.ycombinator.com/item?id=49744036)
+8. [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) (developer.apple.com) - 117 points by [CameronBanga](https://news.ycombinator.com/user?id=CameronBanga), [68 comments](https://news.ycombinator.com/item?id=49758419)
+9. [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) (donjon.ledger.com) - 162 points by [synack](https://news.ycombinator.com/user?id=synack), [56 comments](https://news.ycombinator.com/item?id=49757050)
+10. [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/) (liveworld.info) - 13 points by [harisingh1612](https://news.ycombinator.com/user?id=harisingh1612), [12 comments](https://news.ycombinator.com/item?id=49762099)
 
 ## 2026-09-18
 

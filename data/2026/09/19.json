@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49758736,
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "score": 572,
+    "by": "theanonymousone",
+    "descendants": 272,
+    "time": 1789758189
+  },
+  {
+    "rank": 2,
+    "id": 49762573,
+    "title": "The Contract on America",
+    "url": "https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html",
+    "score": 9,
+    "by": "hkhn",
+    "descendants": 2,
+    "time": 1789783254
+  },
+  {
+    "rank": 3,
+    "id": 49754785,
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "score": 595,
+    "by": "jcbhmr",
+    "descendants": 254,
+    "time": 1789741121
+  },
+  {
+    "rank": 4,
+    "id": 49762687,
+    "title": "Science Is Open Software",
+    "url": "https://jepedersen.dk/blog/202505_research/",
+    "score": 6,
+    "by": "jegp",
+    "descendants": 2,
+    "time": 1789784495
+  },
+  {
+    "rank": 5,
+    "id": 49758580,
+    "title": "Saving another 100TB of RAM",
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "score": 246,
+    "by": "f311a",
+    "descendants": 47,
+    "time": 1789757506
+  },
+  {
+    "rank": 6,
+    "id": 49747070,
+    "title": "How to Write with an LLM",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "score": 404,
+    "by": "joeriddles",
+    "descendants": 277,
+    "time": 1789681718
+  },
+  {
+    "rank": 7,
+    "id": 49744036,
+    "title": "The Farnese letter",
+    "url": "https://simonklee.dk/farnese-letter",
+    "score": 30,
+    "by": "grigolin",
+    "descendants": 5,
+    "time": 1789666741
+  },
+  {
+    "rank": 8,
+    "id": 49758419,
+    "title": "Xcode 27.1 Beta Release Notes",
+    "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "score": 117,
+    "by": "CameronBanga",
+    "descendants": 68,
+    "time": 1789756771
+  },
+  {
+    "rank": 9,
+    "id": 49757050,
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "score": 162,
+    "by": "synack",
+    "descendants": 56,
+    "time": 1789750458
+  },
+  {
+    "rank": 10,
+    "id": 49762099,
+    "title": "Show HN: LiveWorld \u2013 Every 24/7 YouTube live camera on one globe",
+    "url": "https://liveworld.info/",
+    "score": 13,
+    "by": "harisingh1612",
+    "descendants": 12,
+    "time": 1789777834
+  }
+]

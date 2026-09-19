@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (18 days)
+- [September](09/) (19 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-19
+
+*Saturday*
+
+1. [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) (grapheneos.social) - 572 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [272 comments](https://news.ycombinator.com/item?id=49758736)
+2. [The Contract on America](https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html) (3quarksdaily.com) - 9 points by [hkhn](https://news.ycombinator.com/user?id=hkhn), [2 comments](https://news.ycombinator.com/item?id=49762573)
+3. [Cloudflare Quick Tunnels](https://try.cloudflare.com/) (try.cloudflare.com) - 595 points by [jcbhmr](https://news.ycombinator.com/user?id=jcbhmr), [254 comments](https://news.ycombinator.com/item?id=49754785)
+4. [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) (jepedersen.dk) - 6 points by [jegp](https://news.ycombinator.com/user?id=jegp), [2 comments](https://news.ycombinator.com/item?id=49762687)
+5. [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) (blog.cloudflare.com) - 246 points by [f311a](https://news.ycombinator.com/user?id=f311a), [47 comments](https://news.ycombinator.com/item?id=49758580)
+6. [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) (sockpuppet.org) - 404 points by [joeriddles](https://news.ycombinator.com/user?id=joeriddles), [277 comments](https://news.ycombinator.com/item?id=49747070)
+7. [The Farnese letter](https://simonklee.dk/farnese-letter) (simonklee.dk) - 30 points by [grigolin](https://news.ycombinator.com/user?id=grigolin), [5 comments](https://news.ycombinator.com/item?id=49744036)
+8. [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) (developer.apple.com) - 117 points by [CameronBanga](https://news.ycombinator.com/user?id=CameronBanga), [68 comments](https://news.ycombinator.com/item?id=49758419)
+9. [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) (donjon.ledger.com) - 162 points by [synack](https://news.ycombinator.com/user?id=synack), [56 comments](https://news.ycombinator.com/item?id=49757050)
+10. [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/) (liveworld.info) - 13 points by [harisingh1612](https://news.ycombinator.com/user?id=harisingh1612), [12 comments](https://news.ycombinator.com/item?id=49762099)
 
 ## 2026-09-18
 
