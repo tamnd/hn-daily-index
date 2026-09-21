@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (20 days)
+- [September](09/) (21 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-21
+
+*Monday*
+
+1. [Google's Open Agentic Orchestrator](https://agentexecutor.io) (agentexecutor.io) - 250 points by [blazarquasar](https://news.ycombinator.com/user?id=blazarquasar), [98 comments](https://news.ycombinator.com/item?id=49780797)
+2. [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) (en.sedaily.com) - 365 points by [giuliomagnifico](https://news.ycombinator.com/user?id=giuliomagnifico), [237 comments](https://news.ycombinator.com/item?id=49778029)
+3. [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) (libroot.org) - 193 points by [EXHades](https://news.ycombinator.com/user?id=EXHades), [102 comments](https://news.ycombinator.com/item?id=49780820)
+4. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) (buchodi.com) - 625 points by [lmbbuchodi](https://news.ycombinator.com/user?id=lmbbuchodi), [333 comments](https://news.ycombinator.com/item?id=49776729)
+5. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) (qwen.ai) - 518 points by [jmillikin](https://news.ycombinator.com/user?id=jmillikin), [156 comments](https://news.ycombinator.com/item?id=49775499)
+6. [The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/) (datagubbe.se) - 101 points by [tobr](https://news.ycombinator.com/user?id=tobr), [25 comments](https://news.ycombinator.com/item?id=49768336)
+7. [Amiga Unix, Again](https://amigaux.org/) (amigaux.org) - 23 points by [doener](https://news.ycombinator.com/user?id=doener), [8 comments](https://news.ycombinator.com/item?id=49781436)
+8. [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/) (pirateface.co) - 458 points by [skepticalgenius](https://news.ycombinator.com/user?id=skepticalgenius), [137 comments](https://news.ycombinator.com/item?id=49776699)
+9. [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/) (truthout.org) - 310 points by [paimapi](https://news.ycombinator.com/user?id=paimapi), [199 comments](https://news.ycombinator.com/item?id=49780630)
+10. [Singapore’s National Library Board offers micropayments to build reading habits](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books) (gadgetreview.com) - 184 points by [geox](https://news.ycombinator.com/user?id=geox), [85 comments](https://news.ycombinator.com/item?id=49776717)
 
 ## 2026-09-20
 
