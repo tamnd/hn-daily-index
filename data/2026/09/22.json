@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49792730,
+    "title": "Xiaomi MiMo v2.6",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "score": 590,
+    "by": "volf_",
+    "descendants": 301,
+    "time": 1790021532
+  },
+  {
+    "rank": 2,
+    "id": 49794615,
+    "title": "Spymarks, Not Watermarks",
+    "url": "https://brand.io/article/spymarks/",
+    "score": 161,
+    "by": "possibilistic",
+    "descendants": 38,
+    "time": 1790031829
+  },
+  {
+    "rank": 3,
+    "id": 49794330,
+    "title": "I don't want to read what you didn't write",
+    "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+    "score": 327,
+    "by": "mooreds",
+    "descendants": 118,
+    "time": 1790029841
+  },
+  {
+    "rank": 4,
+    "id": 49792342,
+    "title": "Transformers Explained Visually",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "score": 224,
+    "by": "aray07",
+    "descendants": 38,
+    "time": 1790019829
+  },
+  {
+    "rank": 5,
+    "id": 49795579,
+    "title": "Claude Status \u2013 Elevated errors for multiple models",
+    "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+    "score": 70,
+    "by": "corvad",
+    "descendants": 51,
+    "time": 1790039119
+  },
+  {
+    "rank": 6,
+    "id": 49787436,
+    "title": "What Sun got wrong",
+    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+    "score": 514,
+    "by": "chmaynard",
+    "descendants": 303,
+    "time": 1789999398
+  },
+  {
+    "rank": 7,
+    "id": 49787726,
+    "title": "Attention is all you have",
+    "url": "https://alicegg.tech/2026/09/21/attention",
+    "score": 601,
+    "by": "zer0tonin",
+    "descendants": 181,
+    "time": 1790000816
+  },
+  {
+    "rank": 8,
+    "id": 49791939,
+    "title": "NASA\u2019s Mars Sample Return mission is dead",
+    "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+    "score": 321,
+    "by": "Muhammad523",
+    "descendants": 257,
+    "time": 1790018052
+  },
+  {
+    "rank": 9,
+    "id": 49792067,
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "url": "https://linear.app/now/ci-bottleneck-reworked",
+    "score": 153,
+    "by": "julian_digital",
+    "descendants": 160,
+    "time": 1790018613
+  },
+  {
+    "rank": 10,
+    "id": 49794736,
+    "title": "Looking forward to Git 2.56 \u2013 and 3.0",
+    "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+    "score": 40,
+    "by": "chmaynard",
+    "descendants": 7,
+    "time": 1790032611
+  }
+]

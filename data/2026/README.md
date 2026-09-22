@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (21 days)
+- [September](09/) (22 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-22
+
+*Tuesday*
+
+1. [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) (mimo.xiaomi.com) - 590 points by [volf_](https://news.ycombinator.com/user?id=volf_), [301 comments](https://news.ycombinator.com/item?id=49792730)
+2. [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) (brand.io) - 161 points by [possibilistic](https://news.ycombinator.com/user?id=possibilistic), [38 comments](https://news.ycombinator.com/item?id=49794615)
+3. [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) (blog.colinbreck.com) - 327 points by [mooreds](https://news.ycombinator.com/user?id=mooreds), [118 comments](https://news.ycombinator.com/item?id=49794330)
+4. [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) (poloclub.github.io) - 224 points by [aray07](https://news.ycombinator.com/user?id=aray07), [38 comments](https://news.ycombinator.com/item?id=49792342)
+5. [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh) (status.claude.com) - 70 points by [corvad](https://news.ycombinator.com/user?id=corvad), [51 comments](https://news.ycombinator.com/item?id=49795579)
+6. [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) (bcantrill.dtrace.org) - 514 points by [chmaynard](https://news.ycombinator.com/user?id=chmaynard), [303 comments](https://news.ycombinator.com/item?id=49787436)
+7. [Attention is all you have](https://alicegg.tech/2026/09/21/attention) (alicegg.tech) - 601 points by [zer0tonin](https://news.ycombinator.com/user?id=zer0tonin), [181 comments](https://news.ycombinator.com/item?id=49787726)
+8. [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) (science.org) - 321 points by [Muhammad523](https://news.ycombinator.com/user?id=Muhammad523), [257 comments](https://news.ycombinator.com/item?id=49791939)
+9. [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) (linear.app) - 153 points by [julian_digital](https://news.ycombinator.com/user?id=julian_digital), [160 comments](https://news.ycombinator.com/item?id=49792067)
+10. [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/) (lwn.net) - 40 points by [chmaynard](https://news.ycombinator.com/user?id=chmaynard), [7 comments](https://news.ycombinator.com/item?id=49794736)
 
 ## 2026-09-21
 
