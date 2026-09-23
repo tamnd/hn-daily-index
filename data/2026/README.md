@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (22 days)
+- [September](09/) (23 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-23
+
+*Wednesday*
+
+1. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) (openai.com) - 1.2k points by [OfficialTurkey](https://news.ycombinator.com/user?id=OfficialTurkey), [627 comments](https://news.ycombinator.com/item?id=49805509)
+2. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) (anthropic.com) - 1.3k points by [km144](https://news.ycombinator.com/user?id=km144), [836 comments](https://news.ycombinator.com/item?id=49803892)
+3. ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) (404media.co) - 443 points by [spenvo](https://news.ycombinator.com/user?id=spenvo), [311 comments](https://news.ycombinator.com/item?id=49805278)
+4. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) (cryptocellar.org) - 576 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [362 comments](https://news.ycombinator.com/item?id=49801324)
+5. [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI) (github.com) - 84 points by [nateb2022](https://news.ycombinator.com/user?id=nateb2022), [24 comments](https://news.ycombinator.com/item?id=49781862)
+6. [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) (foxscript.org) - 198 points by [boredjohnny](https://news.ycombinator.com/user?id=boredjohnny), [138 comments](https://news.ycombinator.com/item?id=49808023)
+7. [What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals) (kqed.org) - 133 points by [Jtsummers](https://news.ycombinator.com/user?id=Jtsummers), [188 comments](https://news.ycombinator.com/item?id=49796379)
+8. [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro) (bbc.com) - 4 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [1 comments](https://news.ycombinator.com/item?id=49810829)
+9. [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) (blog.trailofbits.com) - 172 points by [aray07](https://news.ycombinator.com/user?id=aray07), [95 comments](https://news.ycombinator.com/item?id=49806335)
+10. [Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5) (artificialanalysis.ai) - 242 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [72 comments](https://news.ycombinator.com/item?id=49804316)
 
 ## 2026-09-22
 

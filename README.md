@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 22](#2026-09-22) | [Sep 21](#2026-09-21) | [Sep 20](#2026-09-20) | [Sep 19](#2026-09-19) | [Sep 18](#2026-09-18) | [Sep 17](#2026-09-17) | [Sep 16](#2026-09-16)
+Recent: [Sep 23](#2026-09-23) | [Sep 22](#2026-09-22) | [Sep 21](#2026-09-21) | [Sep 20](#2026-09-20) | [Sep 19](#2026-09-19) | [Sep 18](#2026-09-18) | [Sep 17](#2026-09-17)
 
-### [2026](data/2026/) (265/265 days)
+### [2026](data/2026/) (266/266 days)
 
-[**September**](data/2026/09/) (22/22)
+[**September**](data/2026/09/) (23/23)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
 | [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) | [**17**](#2026-09-17) | [**18**](#2026-09-18) | [**19**](#2026-09-19) | [**20**](#2026-09-20) |
-| [**21**](#2026-09-21) | [**22**](#2026-09-22) |  |  |  |  |  |
+| [**21**](#2026-09-21) | [**22**](#2026-09-22) | [**23**](#2026-09-23) |  |  |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2164,6 +2164,21 @@ Recent: [Sep 22](#2026-09-22) | [Sep 21](#2026-09-21) | [Sep 20](#2026-09-20) | 
 </details>
 
 ---
+
+## 2026-09-23
+
+*Wednesday*
+
+1. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) (openai.com) - 1.2k points by [OfficialTurkey](https://news.ycombinator.com/user?id=OfficialTurkey), [627 comments](https://news.ycombinator.com/item?id=49805509)
+2. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) (anthropic.com) - 1.3k points by [km144](https://news.ycombinator.com/user?id=km144), [836 comments](https://news.ycombinator.com/item?id=49803892)
+3. ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) (404media.co) - 443 points by [spenvo](https://news.ycombinator.com/user?id=spenvo), [311 comments](https://news.ycombinator.com/item?id=49805278)
+4. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) (cryptocellar.org) - 576 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [362 comments](https://news.ycombinator.com/item?id=49801324)
+5. [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI) (github.com) - 84 points by [nateb2022](https://news.ycombinator.com/user?id=nateb2022), [24 comments](https://news.ycombinator.com/item?id=49781862)
+6. [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) (foxscript.org) - 198 points by [boredjohnny](https://news.ycombinator.com/user?id=boredjohnny), [138 comments](https://news.ycombinator.com/item?id=49808023)
+7. [What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals) (kqed.org) - 133 points by [Jtsummers](https://news.ycombinator.com/user?id=Jtsummers), [188 comments](https://news.ycombinator.com/item?id=49796379)
+8. [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro) (bbc.com) - 4 points by [1659447091](https://news.ycombinator.com/user?id=1659447091), [1 comments](https://news.ycombinator.com/item?id=49810829)
+9. [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) (blog.trailofbits.com) - 172 points by [aray07](https://news.ycombinator.com/user?id=aray07), [95 comments](https://news.ycombinator.com/item?id=49806335)
+10. [Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5) (artificialanalysis.ai) - 242 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [72 comments](https://news.ycombinator.com/item?id=49804316)
 
 ## 2026-09-22
 

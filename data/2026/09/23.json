@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49805509,
+    "title": "GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "score": 1235,
+    "by": "OfficialTurkey",
+    "descendants": 627,
+    "time": 1790100034
+  },
+  {
+    "rank": 2,
+    "id": 49803892,
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "score": 1255,
+    "by": "km144",
+    "descendants": 836,
+    "time": 1790094545
+  },
+  {
+    "rank": 3,
+    "id": 49805278,
+    "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+    "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+    "score": 443,
+    "by": "spenvo",
+    "descendants": 311,
+    "time": 1790099162
+  },
+  {
+    "rank": 4,
+    "id": 49801324,
+    "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "score": 576,
+    "by": "sohkamyung",
+    "descendants": 362,
+    "time": 1790085135
+  },
+  {
+    "rank": 5,
+    "id": 49781862,
+    "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+    "url": "https://github.com/xCuri0/ReBarUEFI",
+    "score": 84,
+    "by": "nateb2022",
+    "descendants": 24,
+    "time": 1789952866
+  },
+  {
+    "rank": 6,
+    "id": 49808023,
+    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+    "url": "https://foxscript.org/",
+    "score": 198,
+    "by": "boredjohnny",
+    "descendants": 138,
+    "time": 1790110830
+  },
+  {
+    "rank": 7,
+    "id": 49796379,
+    "title": "What California is learning from solar panels built over irrigation canals",
+    "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+    "score": 133,
+    "by": "Jtsummers",
+    "descendants": 188,
+    "time": 1790046605
+  },
+  {
+    "rank": 8,
+    "id": 49810829,
+    "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+    "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+    "score": 4,
+    "by": "1659447091",
+    "descendants": 1,
+    "time": 1790129632
+  },
+  {
+    "rank": 9,
+    "id": 49806335,
+    "title": "SAML: A fractal of bad design",
+    "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+    "score": 172,
+    "by": "aray07",
+    "descendants": 95,
+    "time": 1790103437
+  },
+  {
+    "rank": 10,
+    "id": 49804316,
+    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+    "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+    "score": 242,
+    "by": "theanonymousone",
+    "descendants": 72,
+    "time": 1790095891
+  }
+]
