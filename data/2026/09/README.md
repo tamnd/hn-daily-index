@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in September 2026.
 
+- [2026-09-24 (Thursday)](#2026-09-24)
 - [2026-09-23 (Wednesday)](#2026-09-23)
 - [2026-09-22 (Tuesday)](#2026-09-22)
 - [2026-09-21 (Monday)](#2026-09-21)
@@ -27,6 +28,21 @@ Top 10 Hacker News stories for each day in September 2026.
 - [2026-09-01 (Tuesday)](#2026-09-01)
 
 ---
+
+## 2026-09-24
+
+*Thursday*
+
+1. [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) (qualcomm.com) - 180 points by [aaronday](https://news.ycombinator.com/user?id=aaronday), [76 comments](https://news.ycombinator.com/item?id=49823582)
+2. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) (anthropic.com) - 525 points by [raahelb](https://news.ycombinator.com/user?id=raahelb), [545 comments](https://news.ycombinator.com/item?id=49820134)
+3. [Meta VR Glasses](https://www.meta.com/vr-glasses/) (meta.com) - 254 points by [polymorph1sm](https://news.ycombinator.com/user?id=polymorph1sm), [217 comments](https://news.ycombinator.com/item?id=49824268)
+4. [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) (kenklippenstein.com) - 31 points by [nmeagent](https://news.ycombinator.com/user?id=nmeagent), [13 comments](https://news.ycombinator.com/item?id=49824686)
+5. [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) (fly.io) - 138 points by [Rapzid](https://news.ycombinator.com/user?id=Rapzid), [90 comments](https://news.ycombinator.com/item?id=49822555)
+6. [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) (blog.arxiv.org) - 67 points by [JohnHammersley](https://news.ycombinator.com/user?id=JohnHammersley), [11 comments](https://news.ycombinator.com/item?id=49823664)
+7. [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) (github.com) - 15 points by [WanjohiRyan](https://news.ycombinator.com/user?id=WanjohiRyan), [7 comments](https://news.ycombinator.com/item?id=49824864)
+8. [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) (mini-itx.com) - 63 points by [doubletwoyou](https://news.ycombinator.com/user?id=doubletwoyou), [10 comments](https://news.ycombinator.com/item?id=49796372)
+9. [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5) (artificialanalysis.ai) - 56 points by [Retro_Dev](https://news.ycombinator.com/user?id=Retro_Dev), [27 comments](https://news.ycombinator.com/item?id=49823348)
+10. [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html) (pointinthecloud.com) - 383 points by [avidly](https://news.ycombinator.com/user?id=avidly), [89 comments](https://news.ycombinator.com/item?id=49817469)
 
 ## 2026-09-23
 

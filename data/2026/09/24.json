@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49823582,
+    "title": "Linux support is coming to Snapdragon X2 Series",
+    "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+    "score": 180,
+    "by": "aaronday",
+    "descendants": 76,
+    "time": 1790203096
+  },
+  {
+    "rank": 2,
+    "id": 49820134,
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "score": 525,
+    "by": "raahelb",
+    "descendants": 545,
+    "time": 1790186807
+  },
+  {
+    "rank": 3,
+    "id": 49824268,
+    "title": "Meta VR Glasses",
+    "url": "https://www.meta.com/vr-glasses/",
+    "score": 254,
+    "by": "polymorph1sm",
+    "descendants": 217,
+    "time": 1790207276
+  },
+  {
+    "rank": 4,
+    "id": 49824686,
+    "title": "Feds Target AI Critics as \"Foreign Agents\"",
+    "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+    "score": 31,
+    "by": "nmeagent",
+    "descendants": 13,
+    "time": 1790210491
+  },
+  {
+    "rank": 5,
+    "id": 49822555,
+    "title": "VSCode's SSH Agent Is Bananas (2025)",
+    "url": "https://fly.io/blog/vscode-ssh-wtf/",
+    "score": 138,
+    "by": "Rapzid",
+    "descendants": 90,
+    "time": 1790197308
+  },
+  {
+    "rank": 6,
+    "id": 49823664,
+    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+    "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+    "score": 67,
+    "by": "JohnHammersley",
+    "descendants": 11,
+    "time": 1790203549
+  },
+  {
+    "rank": 7,
+    "id": 49824864,
+    "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+    "url": "https://github.com/nestrilabs/virtio-nvgpu",
+    "score": 15,
+    "by": "WanjohiRyan",
+    "descendants": 7,
+    "time": 1790211743
+  },
+  {
+    "rank": 8,
+    "id": 49796372,
+    "title": "The \"Windows XP Box\" (2003)",
+    "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+    "score": 63,
+    "by": "doubletwoyou",
+    "descendants": 10,
+    "time": 1790046544
+  },
+  {
+    "rank": 9,
+    "id": 49823348,
+    "title": "Mercury 2.5 LLM hits 770 tokens per second",
+    "url": "https://artificialanalysis.ai/models/mercury-2-5",
+    "score": 56,
+    "by": "Retro_Dev",
+    "descendants": 27,
+    "time": 1790201779
+  },
+  {
+    "rank": 10,
+    "id": 49817469,
+    "title": "Fixing the Portobello Police Station Clock",
+    "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "score": 383,
+    "by": "avidly",
+    "descendants": 89,
+    "time": 1790176733
+  }
+]
