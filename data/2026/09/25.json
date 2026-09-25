@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49831968,
+    "title": "F-Droid 2.0",
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "score": 981,
+    "by": "daveoc64",
+    "descendants": 267,
+    "time": 1790263572
+  },
+  {
+    "rank": 2,
+    "id": 49823738,
+    "title": "Show HN: Make cursed fonts like Times New Bastard",
+    "url": "https://bastardica.mitpit.com",
+    "score": 509,
+    "by": "MitPitt",
+    "descendants": 71,
+    "time": 1790204008
+  },
+  {
+    "rank": 3,
+    "id": 49839510,
+    "title": "Jev and System One Models: Calibration Beats Accuracy",
+    "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+    "score": 7,
+    "by": "pansuriyakartik",
+    "descendants": 2,
+    "time": 1790303061
+  },
+  {
+    "rank": 4,
+    "id": 49833867,
+    "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+    "url": "https://github.com/devdotfast/whiteboard",
+    "score": 215,
+    "by": "sidharthkmenon",
+    "descendants": 85,
+    "time": 1790270496
+  },
+  {
+    "rank": 5,
+    "id": 49832938,
+    "title": "Why is the liver so weirdly regenerative?",
+    "url": "https://dynomight.substack.com/p/liver",
+    "score": 284,
+    "by": "jbotz",
+    "descendants": 162,
+    "time": 1790266980
+  },
+  {
+    "rank": 6,
+    "id": 49800085,
+    "title": "Fearless SIMD v1.0",
+    "url": "https://linebender.org/blog/fearless-simd-1-0/",
+    "score": 202,
+    "by": "verdagon",
+    "descendants": 31,
+    "time": 1790079817
+  },
+  {
+    "rank": 7,
+    "id": 49801436,
+    "title": "2DWillNeverDie",
+    "url": "https://2dwillneverdie.com/",
+    "score": 132,
+    "by": "surprisetalk",
+    "descendants": 11,
+    "time": 1790085608
+  },
+  {
+    "rank": 8,
+    "id": 49817680,
+    "title": "Rails World 2026 Opening Keynote [video]",
+    "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "score": 256,
+    "by": "an0malous",
+    "descendants": 273,
+    "time": 1790177613
+  },
+  {
+    "rank": 9,
+    "id": 49823568,
+    "title": "Toyota is taking the Corolla electric",
+    "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+    "score": 242,
+    "by": "cisc",
+    "descendants": 401,
+    "time": 1790203048
+  },
+  {
+    "rank": 10,
+    "id": 49802510,
+    "title": "Writing Parquet files using Haskell",
+    "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+    "score": 29,
+    "by": "cosmic_quanta",
+    "descendants": 3,
+    "time": 1790089359
+  }
+]

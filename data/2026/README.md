@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (24 days)
+- [September](09/) (25 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-25
+
+*Friday*
+
+1. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) (f-droid.org) - 981 points by [daveoc64](https://news.ycombinator.com/user?id=daveoc64), [267 comments](https://news.ycombinator.com/item?id=49831968)
+2. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) (bastardica.mitpit.com) - 509 points by [MitPitt](https://news.ycombinator.com/user?id=MitPitt), [71 comments](https://news.ycombinator.com/item?id=49823738)
+3. [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions) (kartikpansuriya.com) - 7 points by [pansuriyakartik](https://news.ycombinator.com/user?id=pansuriyakartik), [2 comments](https://news.ycombinator.com/item?id=49839510)
+4. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) (github.com) - 215 points by [sidharthkmenon](https://news.ycombinator.com/user?id=sidharthkmenon), [85 comments](https://news.ycombinator.com/item?id=49833867)
+5. [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) (dynomight.substack.com) - 284 points by [jbotz](https://news.ycombinator.com/user?id=jbotz), [162 comments](https://news.ycombinator.com/item?id=49832938)
+6. [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/) (linebender.org) - 202 points by [verdagon](https://news.ycombinator.com/user?id=verdagon), [31 comments](https://news.ycombinator.com/item?id=49800085)
+7. [2DWillNeverDie](https://2dwillneverdie.com/) (2dwillneverdie.com) - 132 points by [surprisetalk](https://news.ycombinator.com/user?id=surprisetalk), [11 comments](https://news.ycombinator.com/item?id=49801436)
+8. [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY) (youtube.com) - 256 points by [an0malous](https://news.ycombinator.com/user?id=an0malous), [273 comments](https://news.ycombinator.com/item?id=49817680)
+9. [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/) (electrek.co) - 242 points by [cisc](https://news.ycombinator.com/user?id=cisc), [401 comments](https://news.ycombinator.com/item?id=49823568)
+10. [Writing Parquet files using Haskell](https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html) (datahaskell.org) - 29 points by [cosmic_quanta](https://news.ycombinator.com/user?id=cosmic_quanta), [3 comments](https://news.ycombinator.com/item?id=49802510)
 
 ## 2026-09-24
 
