@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [September](09/) (25 days)
+- [September](09/) (26 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
 - [June](06/) (30 days)
@@ -13,6 +13,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-09-26
+
+*Saturday*
+
+1. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) (swarmtraces.org) - 251 points by [specked-citrus](https://news.ycombinator.com/user?id=specked-citrus), [155 comments](https://news.ycombinator.com/item?id=49849985)
+2. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) (ollaya.dev) - 355 points by [Ardakilic](https://news.ycombinator.com/user?id=Ardakilic), [102 comments](https://news.ycombinator.com/item?id=49848269)
+3. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) (jev-pokemon.vercel.app) - 163 points by [pancomplex](https://news.ycombinator.com/user?id=pancomplex), [71 comments](https://news.ycombinator.com/item?id=49845172)
+4. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) (aymannadeem.com) - 122 points by [jmvldz](https://news.ycombinator.com/user?id=jmvldz), [136 comments](https://news.ycombinator.com/item?id=49840054)
+5. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/) (sockpuppet.org) - 94 points by [fratellobigio](https://news.ycombinator.com/user?id=fratellobigio), [169 comments](https://news.ycombinator.com/item?id=49850305)
+6. [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/) (cbsnews.com) - 63 points by [pseudolus](https://news.ycombinator.com/user?id=pseudolus), [5 comments](https://news.ycombinator.com/item?id=49852302)
+7. [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) (go.dev) - 366 points by [yurivish](https://news.ycombinator.com/user?id=yurivish), [136 comments](https://news.ycombinator.com/item?id=49843269)
+8. [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) (github.com) - 317 points by [alentred](https://news.ycombinator.com/user?id=alentred), [101 comments](https://news.ycombinator.com/item?id=49843174)
+9. [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale) (dbos.dev) - 9 points by [KraftyOne](https://news.ycombinator.com/user?id=KraftyOne), [2 comments](https://news.ycombinator.com/item?id=49835096)
+10. [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395) (techcommunity.microsoft.com) - 115 points by [luispa](https://news.ycombinator.com/user?id=luispa), [83 comments](https://news.ycombinator.com/item?id=49849832)
 
 ## 2026-09-25
 

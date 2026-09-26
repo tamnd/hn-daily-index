@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | [Sep 23](#2026-09-23) | [Sep 22](#2026-09-22) | [Sep 21](#2026-09-21) | [Sep 20](#2026-09-20) | [Sep 19](#2026-09-19)
+Recent: [Sep 26](#2026-09-26) | [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | [Sep 23](#2026-09-23) | [Sep 22](#2026-09-22) | [Sep 21](#2026-09-21) | [Sep 20](#2026-09-20)
 
-### [2026](data/2026/) (268/268 days)
+### [2026](data/2026/) (269/269 days)
 
-[**September**](data/2026/09/) (25/25)
+[**September**](data/2026/09/) (26/26)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
 | [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) | [**17**](#2026-09-17) | [**18**](#2026-09-18) | [**19**](#2026-09-19) | [**20**](#2026-09-20) |
-| [**21**](#2026-09-21) | [**22**](#2026-09-22) | [**23**](#2026-09-23) | [**24**](#2026-09-24) | [**25**](#2026-09-25) |  |  |
+| [**21**](#2026-09-21) | [**22**](#2026-09-22) | [**23**](#2026-09-23) | [**24**](#2026-09-24) | [**25**](#2026-09-25) | [**26**](#2026-09-26) |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2164,6 +2164,21 @@ Recent: [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | [Sep 23](#2026-09-23) | 
 </details>
 
 ---
+
+## 2026-09-26
+
+*Saturday*
+
+1. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) (swarmtraces.org) - 251 points by [specked-citrus](https://news.ycombinator.com/user?id=specked-citrus), [155 comments](https://news.ycombinator.com/item?id=49849985)
+2. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) (ollaya.dev) - 355 points by [Ardakilic](https://news.ycombinator.com/user?id=Ardakilic), [102 comments](https://news.ycombinator.com/item?id=49848269)
+3. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) (jev-pokemon.vercel.app) - 163 points by [pancomplex](https://news.ycombinator.com/user?id=pancomplex), [71 comments](https://news.ycombinator.com/item?id=49845172)
+4. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) (aymannadeem.com) - 122 points by [jmvldz](https://news.ycombinator.com/user?id=jmvldz), [136 comments](https://news.ycombinator.com/item?id=49840054)
+5. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/) (sockpuppet.org) - 94 points by [fratellobigio](https://news.ycombinator.com/user?id=fratellobigio), [169 comments](https://news.ycombinator.com/item?id=49850305)
+6. [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/) (cbsnews.com) - 63 points by [pseudolus](https://news.ycombinator.com/user?id=pseudolus), [5 comments](https://news.ycombinator.com/item?id=49852302)
+7. [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) (go.dev) - 366 points by [yurivish](https://news.ycombinator.com/user?id=yurivish), [136 comments](https://news.ycombinator.com/item?id=49843269)
+8. [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) (github.com) - 317 points by [alentred](https://news.ycombinator.com/user?id=alentred), [101 comments](https://news.ycombinator.com/item?id=49843174)
+9. [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale) (dbos.dev) - 9 points by [KraftyOne](https://news.ycombinator.com/user?id=KraftyOne), [2 comments](https://news.ycombinator.com/item?id=49835096)
+10. [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395) (techcommunity.microsoft.com) - 115 points by [luispa](https://news.ycombinator.com/user?id=luispa), [83 comments](https://news.ycombinator.com/item?id=49849832)
 
 ## 2026-09-25
 
