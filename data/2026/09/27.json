@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49844657,
+    "title": "Does Georgism work? Five years later",
+    "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+    "score": 169,
+    "by": "silveraxe93",
+    "descendants": 103,
+    "time": 1790344118
+  },
+  {
+    "rank": 2,
+    "id": 49842764,
+    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "url": "https://github.com/InfinityLoop1308/PipePipe",
+    "score": 329,
+    "by": "Qision",
+    "descendants": 190,
+    "time": 1790333740
+  },
+  {
+    "rank": 3,
+    "id": 49859112,
+    "title": "DeepSeek Elastic Compute (DSec)",
+    "url": "https://arxiv.org/abs/2609.22978",
+    "score": 168,
+    "by": "shenli3514",
+    "descendants": 55,
+    "time": 1790446961
+  },
+  {
+    "rank": 4,
+    "id": 49856988,
+    "title": "Go Concurrency Distilled",
+    "url": "https://antonz.org/go-concurrency-distilled/",
+    "score": 52,
+    "by": "chmaynard",
+    "descendants": 14,
+    "time": 1790433289
+  },
+  {
+    "rank": 5,
+    "id": 49858513,
+    "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+    "url": "https://github.com/reladraw/reladraw",
+    "score": 204,
+    "by": "jpwalsh234",
+    "descendants": 57,
+    "time": 1790442640
+  },
+  {
+    "rank": 6,
+    "id": 49857656,
+    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "score": 37,
+    "by": "flxflx",
+    "descendants": 23,
+    "time": 1790437744
+  },
+  {
+    "rank": 7,
+    "id": 49839567,
+    "title": "Evolving programming languages in the AI era",
+    "url": "https://dashbit.co/blog/evolving-ai-era",
+    "score": 41,
+    "by": "pjm331",
+    "descendants": 34,
+    "time": 1790303679
+  },
+  {
+    "rank": 8,
+    "id": 49832768,
+    "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "url": "https://www.movingimagearchive.com/",
+    "score": 120,
+    "by": "momentmaker",
+    "descendants": 25,
+    "time": 1790266302
+  },
+  {
+    "rank": 9,
+    "id": 49858676,
+    "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+    "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+    "score": 35,
+    "by": "pwg",
+    "descendants": 6,
+    "time": 1790443614
+  },
+  {
+    "rank": 10,
+    "id": 49857729,
+    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "score": 114,
+    "by": "parasitid",
+    "descendants": 32,
+    "time": 1790438194
+  }
+]

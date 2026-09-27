@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 26](#2026-09-26) | [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | [Sep 23](#2026-09-23) | [Sep 22](#2026-09-22) | [Sep 21](#2026-09-21) | [Sep 20](#2026-09-20)
+Recent: [Sep 27](#2026-09-27) | [Sep 26](#2026-09-26) | [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | [Sep 23](#2026-09-23) | [Sep 22](#2026-09-22) | [Sep 21](#2026-09-21)
 
-### [2026](data/2026/) (269/269 days)
+### [2026](data/2026/) (270/270 days)
 
-[**September**](data/2026/09/) (26/26)
+[**September**](data/2026/09/) (27/27)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  | [**1**](#2026-09-01) | [**2**](#2026-09-02) | [**3**](#2026-09-03) | [**4**](#2026-09-04) | [**5**](#2026-09-05) | [**6**](#2026-09-06) |
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
 | [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) | [**17**](#2026-09-17) | [**18**](#2026-09-18) | [**19**](#2026-09-19) | [**20**](#2026-09-20) |
-| [**21**](#2026-09-21) | [**22**](#2026-09-22) | [**23**](#2026-09-23) | [**24**](#2026-09-24) | [**25**](#2026-09-25) | [**26**](#2026-09-26) |  |
+| [**21**](#2026-09-21) | [**22**](#2026-09-22) | [**23**](#2026-09-23) | [**24**](#2026-09-24) | [**25**](#2026-09-25) | [**26**](#2026-09-26) | [**27**](#2026-09-27) |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2164,6 +2164,21 @@ Recent: [Sep 26](#2026-09-26) | [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | 
 </details>
 
 ---
+
+## 2026-09-27
+
+*Sunday*
+
+1. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) (astralcodexten.com) - 169 points by [silveraxe93](https://news.ycombinator.com/user?id=silveraxe93), [103 comments](https://news.ycombinator.com/item?id=49844657)
+2. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) (github.com) - 329 points by [Qision](https://news.ycombinator.com/user?id=Qision), [190 comments](https://news.ycombinator.com/item?id=49842764)
+3. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) (arxiv.org) - 168 points by [shenli3514](https://news.ycombinator.com/user?id=shenli3514), [55 comments](https://news.ycombinator.com/item?id=49859112)
+4. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) (antonz.org) - 52 points by [chmaynard](https://news.ycombinator.com/user?id=chmaynard), [14 comments](https://news.ycombinator.com/item?id=49856988)
+5. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) (github.com) - 204 points by [jpwalsh234](https://news.ycombinator.com/user?id=jpwalsh234), [57 comments](https://news.ycombinator.com/item?id=49858513)
+6. [Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash) (privatemode.ai) - 37 points by [flxflx](https://news.ycombinator.com/user?id=flxflx), [23 comments](https://news.ycombinator.com/item?id=49857656)
+7. [Evolving programming languages in the AI era](https://dashbit.co/blog/evolving-ai-era) (dashbit.co) - 41 points by [pjm331](https://news.ycombinator.com/user?id=pjm331), [34 comments](https://news.ycombinator.com/item?id=49839567)
+8. [A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/) (movingimagearchive.com) - 120 points by [momentmaker](https://news.ycombinator.com/user?id=momentmaker), [25 comments](https://news.ycombinator.com/item?id=49832768)
+9. [Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html) (righto.com) - 35 points by [pwg](https://news.ycombinator.com/user?id=pwg), [6 comments](https://news.ycombinator.com/item?id=49858676)
+10. [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent) (tangled.org) - 114 points by [parasitid](https://news.ycombinator.com/user?id=parasitid), [32 comments](https://news.ycombinator.com/item?id=49857729)
 
 ## 2026-09-26
 
