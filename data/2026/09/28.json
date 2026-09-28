@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49872723,
+    "title": "Owed a billion dollars in Nvidia stock",
+    "url": "https://colo.to/nvidia-stock-narrative.html",
+    "score": 64,
+    "by": "Eric_Gullichsen",
+    "descendants": 19,
+    "time": 1790561113
+  },
+  {
+    "rank": 2,
+    "id": 49872472,
+    "title": "Self-parking car using genetic algorithm (2021)",
+    "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+    "score": 41,
+    "by": "trekhleb",
+    "descendants": 5,
+    "time": 1790558492
+  },
+  {
+    "rank": 3,
+    "id": 49868830,
+    "title": "Ember-1",
+    "url": "https://fireworks.ai/blog/ember-1",
+    "score": 371,
+    "by": "gmays",
+    "descendants": 187,
+    "time": 1790530313
+  },
+  {
+    "rank": 4,
+    "id": 49870367,
+    "title": "When did Google get so weird?",
+    "url": "https://sancho.bearblog.dev/google-weird/",
+    "score": 866,
+    "by": "sancho-panza",
+    "descendants": 462,
+    "time": 1790539974
+  },
+  {
+    "rank": 5,
+    "id": 49870070,
+    "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
+    "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+    "score": 80,
+    "by": "midnightfish",
+    "descendants": 30,
+    "time": 1790537825
+  },
+  {
+    "rank": 6,
+    "id": 49844629,
+    "title": "The state of SIMD in Rust in 2026",
+    "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+    "score": 102,
+    "by": "verdagon",
+    "descendants": 21,
+    "time": 1790343994
+  },
+  {
+    "rank": 7,
+    "id": 49852600,
+    "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+    "url": "https://github.com/dashersw/coyopedal",
+    "score": 27,
+    "by": "arbayi",
+    "descendants": 7,
+    "time": 1790389490
+  },
+  {
+    "rank": 8,
+    "id": 49857281,
+    "title": "There is more to code review than (automatable) detection",
+    "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+    "score": 76,
+    "by": "utiiiD",
+    "descendants": 40,
+    "time": 1790435188
+  },
+  {
+    "rank": 9,
+    "id": 49869574,
+    "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+    "url": "https://loficities.com/",
+    "score": 187,
+    "by": "safaelmali",
+    "descendants": 84,
+    "time": 1790534670
+  },
+  {
+    "rank": 10,
+    "id": 49870837,
+    "title": "Lunar Terminator Paradox",
+    "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+    "score": 49,
+    "by": "dima55",
+    "descendants": 33,
+    "time": 1790543177
+  }
+]

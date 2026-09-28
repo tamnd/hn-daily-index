@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in September 2026.
 
+- [2026-09-28 (Monday)](#2026-09-28)
 - [2026-09-27 (Sunday)](#2026-09-27)
 - [2026-09-26 (Saturday)](#2026-09-26)
 - [2026-09-25 (Friday)](#2026-09-25)
@@ -31,6 +32,21 @@ Top 10 Hacker News stories for each day in September 2026.
 - [2026-09-01 (Tuesday)](#2026-09-01)
 
 ---
+
+## 2026-09-28
+
+*Monday*
+
+1. [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) (colo.to) - 64 points by [Eric_Gullichsen](https://news.ycombinator.com/user?id=Eric_Gullichsen), [19 comments](https://news.ycombinator.com/item?id=49872723)
+2. [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) (trekhleb.dev) - 41 points by [trekhleb](https://news.ycombinator.com/user?id=trekhleb), [5 comments](https://news.ycombinator.com/item?id=49872472)
+3. [Ember-1](https://fireworks.ai/blog/ember-1) (fireworks.ai) - 371 points by [gmays](https://news.ycombinator.com/user?id=gmays), [187 comments](https://news.ycombinator.com/item?id=49868830)
+4. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) (sancho.bearblog.dev) - 866 points by [sancho-panza](https://news.ycombinator.com/user?id=sancho-panza), [462 comments](https://news.ycombinator.com/item?id=49870367)
+5. [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) (quora.com) - 80 points by [midnightfish](https://news.ycombinator.com/user?id=midnightfish), [30 comments](https://news.ycombinator.com/item?id=49870070)
+6. [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/) (shnatsel.github.io) - 102 points by [verdagon](https://news.ycombinator.com/user?id=verdagon), [21 comments](https://news.ycombinator.com/item?id=49844629)
+7. [Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06](https://github.com/dashersw/coyopedal) (github.com) - 27 points by [arbayi](https://news.ycombinator.com/user?id=arbayi), [7 comments](https://news.ycombinator.com/item?id=49852600)
+8. [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/) (adaptivecapacitylabs.com) - 76 points by [utiiiD](https://news.ycombinator.com/user?id=utiiiD), [40 comments](https://news.ycombinator.com/item?id=49857281)
+9. [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/) (loficities.com) - 187 points by [safaelmali](https://news.ycombinator.com/user?id=safaelmali), [84 comments](https://news.ycombinator.com/item?id=49869574)
+10. [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html) (notes.secretsauce.net) - 49 points by [dima55](https://news.ycombinator.com/user?id=dima55), [33 comments](https://news.ycombinator.com/item?id=49870837)
 
 ## 2026-09-27
 
