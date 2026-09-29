@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | [Sep 26](#2026-09-26) | [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | [Sep 23](#2026-09-23) | [Sep 22](#2026-09-22)
+Recent: [Sep 29](#2026-09-29) | [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | [Sep 26](#2026-09-26) | [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | [Sep 23](#2026-09-23)
 
-### [2026](data/2026/) (271/271 days)
+### [2026](data/2026/) (272/272 days)
 
-[**September**](data/2026/09/) (28/28)
+[**September**](data/2026/09/) (29/29)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | [Sep 26](#2026-09-26) | 
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
 | [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) | [**17**](#2026-09-17) | [**18**](#2026-09-18) | [**19**](#2026-09-19) | [**20**](#2026-09-20) |
 | [**21**](#2026-09-21) | [**22**](#2026-09-22) | [**23**](#2026-09-23) | [**24**](#2026-09-24) | [**25**](#2026-09-25) | [**26**](#2026-09-26) | [**27**](#2026-09-27) |
-| [**28**](#2026-09-28) |  |  |  |  |  |  |
+| [**28**](#2026-09-28) | [**29**](#2026-09-29) |  |  |  |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2165,6 +2165,21 @@ Recent: [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | [Sep 26](#2026-09-26) | 
 </details>
 
 ---
+
+## 2026-09-29
+
+*Tuesday*
+
+1. [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) (github.com) - 341 points by [firelex](https://news.ycombinator.com/user?id=firelex), [136 comments](https://news.ycombinator.com/item?id=49883844)
+2. [U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982](https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html) (oilprice.com) - 72 points by [thelastgallon](https://news.ycombinator.com/user?id=thelastgallon), [34 comments](https://news.ycombinator.com/item?id=49887337)
+3. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) (mubi.com) - 448 points by [piotrgrabowski](https://news.ycombinator.com/user?id=piotrgrabowski), [235 comments](https://news.ycombinator.com/item?id=49880036)
+4. [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) (lolchat.rip) - 44 points by [henrychannel](https://news.ycombinator.com/user?id=henrychannel), [28 comments](https://news.ycombinator.com/item?id=49886195)
+5. [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) (stateofutopia.com) - 157 points by [logicallee](https://news.ycombinator.com/user?id=logicallee), [66 comments](https://news.ycombinator.com/item?id=49882781)
+6. [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) (archaeologymag.com) - 94 points by [yusufaytas](https://news.ycombinator.com/user?id=yusufaytas), [25 comments](https://news.ycombinator.com/item?id=49855059)
+7. [Tank Body Problem](http://www.jimsitu.com) (jimsitu.com) - 28 points by [jimbooonooo](https://news.ycombinator.com/user?id=jimbooonooo), [7 comments](https://news.ycombinator.com/item?id=49886482)
+8. [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops) (kqed.org) - 90 points by [randycupertino](https://news.ycombinator.com/user?id=randycupertino), [231 comments](https://news.ycombinator.com/item?id=49883539)
+9. [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/) (arstechnica.com) - 75 points by [gumby](https://news.ycombinator.com/user?id=gumby), [39 comments](https://news.ycombinator.com/item?id=49883536)
+10. [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) (anthropic.com) - 639 points by [D2OQZG8l5BI1S06](https://news.ycombinator.com/user?id=D2OQZG8l5BI1S06), [432 comments](https://news.ycombinator.com/item?id=49881850)
 
 ## 2026-09-28
 
