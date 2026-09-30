@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Sep 29](#2026-09-29) | [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | [Sep 26](#2026-09-26) | [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24) | [Sep 23](#2026-09-23)
+Recent: [Sep 30](#2026-09-30) | [Sep 29](#2026-09-29) | [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | [Sep 26](#2026-09-26) | [Sep 25](#2026-09-25) | [Sep 24](#2026-09-24)
 
-### [2026](data/2026/) (272/272 days)
+### [2026](data/2026/) (273/273 days)
 
-[**September**](data/2026/09/) (29/29)
+[**September**](data/2026/09/) (30/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Sep 29](#2026-09-29) | [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | 
 | [**7**](#2026-09-07) | [**8**](#2026-09-08) | [**9**](#2026-09-09) | [**10**](#2026-09-10) | [**11**](#2026-09-11) | [**12**](#2026-09-12) | [**13**](#2026-09-13) |
 | [**14**](#2026-09-14) | [**15**](#2026-09-15) | [**16**](#2026-09-16) | [**17**](#2026-09-17) | [**18**](#2026-09-18) | [**19**](#2026-09-19) | [**20**](#2026-09-20) |
 | [**21**](#2026-09-21) | [**22**](#2026-09-22) | [**23**](#2026-09-23) | [**24**](#2026-09-24) | [**25**](#2026-09-25) | [**26**](#2026-09-26) | [**27**](#2026-09-27) |
-| [**28**](#2026-09-28) | [**29**](#2026-09-29) |  |  |  |  |  |
+| [**28**](#2026-09-28) | [**29**](#2026-09-29) | [**30**](#2026-09-30) |  |  |  |  |
 
 [**August**](data/2026/08/) (31/31)
 
@@ -2165,6 +2165,21 @@ Recent: [Sep 29](#2026-09-29) | [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | 
 </details>
 
 ---
+
+## 2026-09-30
+
+*Wednesday*
+
+1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) (github.com) - 323 points by [bryan0](https://news.ycombinator.com/user?id=bryan0), [140 comments](https://news.ycombinator.com/item?id=49901736)
+2. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) (postalemployeenetwork.com) - 185 points by [ilamont](https://news.ycombinator.com/user?id=ilamont), [110 comments](https://news.ycombinator.com/item?id=49899090)
+3. [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/) (space.bl2.net) - 144 points by [wanick](https://news.ycombinator.com/user?id=wanick), [33 comments](https://news.ycombinator.com/item?id=49898778)
+4. [America.gov](https://america.gov/) (america.gov) - 410 points by [plesiv](https://news.ycombinator.com/user?id=plesiv), [334 comments](https://news.ycombinator.com/item?id=49893509)
+5. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) (openai.com) - 821 points by [crorella](https://news.ycombinator.com/user?id=crorella), [752 comments](https://news.ycombinator.com/item?id=49896586)
+6. [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) (github.com) - 250 points by [therepanic](https://news.ycombinator.com/user?id=therepanic), [134 comments](https://news.ycombinator.com/item?id=49895304)
+7. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) (spectrum.ieee.org) - 453 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [265 comments](https://news.ycombinator.com/item?id=49892245)
+8. [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev) (magazine.sebastianraschka.com) - 47 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [1 comments](https://news.ycombinator.com/item?id=49891203)
+9. [Backblaze drive stats for Q2 2026](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/) (backblaze.com) - 105 points by [HieronymusBosch](https://news.ycombinator.com/user?id=HieronymusBosch), [17 comments](https://news.ycombinator.com/item?id=49893002)
+10. [Needed 1+1, built a functional programming language](https://hereticpleb.vercel.app/blog/needed-one-plus-one/) (hereticpleb.vercel.app) - 45 points by [birdculture](https://news.ycombinator.com/user?id=birdculture), [14 comments](https://news.ycombinator.com/item?id=49895864)
 
 ## 2026-09-29
 
