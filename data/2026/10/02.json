@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49926069,
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "score": 860,
+    "by": "sergiotapia",
+    "descendants": 292,
+    "time": 1790883185
+  },
+  {
+    "rank": 2,
+    "id": 49928121,
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "url": "https://lwn.net/Articles/1097401/",
+    "score": 153,
+    "by": "luispa",
+    "descendants": 81,
+    "time": 1790896244
+  },
+  {
+    "rank": 3,
+    "id": 49923692,
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "score": 454,
+    "by": "jasondavies",
+    "descendants": 166,
+    "time": 1790871537
+  },
+  {
+    "rank": 4,
+    "id": 49926628,
+    "title": "Automatic Transmission \u2013 a data-privacy study of connected vehicles",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "score": 146,
+    "by": "rafaelc",
+    "descendants": 141,
+    "time": 1790886207
+  },
+  {
+    "rank": 5,
+    "id": 49926536,
+    "title": "SvelteKit 3",
+    "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+    "score": 148,
+    "by": "sampsn",
+    "descendants": 58,
+    "time": 1790885663
+  },
+  {
+    "rank": 6,
+    "id": 49922569,
+    "title": "Ask HN: Who is hiring? (October 2026)",
+    "url": "",
+    "score": 165,
+    "by": "whoishiring",
+    "descendants": 174,
+    "time": 1790866927
+  },
+  {
+    "rank": 7,
+    "id": 49925969,
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "score": 262,
+    "by": "paulsmith",
+    "descendants": 32,
+    "time": 1790882648
+  },
+  {
+    "rank": 8,
+    "id": 49926917,
+    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+    "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+    "score": 91,
+    "by": "benbreen",
+    "descendants": 16,
+    "time": 1790887717
+  },
+  {
+    "rank": 9,
+    "id": 49920160,
+    "title": "StreetComplete on iOS is now in public beta",
+    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "score": 533,
+    "by": "Snowly",
+    "descendants": 135,
+    "time": 1790852397
+  },
+  {
+    "rank": 10,
+    "id": 49929113,
+    "title": "How Singapore's government-run dating service works",
+    "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+    "score": 10,
+    "by": "danielfoster",
+    "descendants": 3,
+    "time": 1790906212
+  }
+]

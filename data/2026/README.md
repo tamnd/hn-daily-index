@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (1 days)
+- [October](10/) (2 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-02
+
+*Friday*
+
+1. [Pi 1.0](https://earendil.com/posts/pi-1-0/) (earendil.com) - 860 points by [sergiotapia](https://news.ycombinator.com/user?id=sergiotapia), [292 comments](https://news.ycombinator.com/item?id=49926069)
+2. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) (lwn.net) - 153 points by [luispa](https://news.ycombinator.com/user?id=luispa), [81 comments](https://news.ycombinator.com/item?id=49928121)
+3. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) (blog.cloudflare.com) - 454 points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [166 comments](https://news.ycombinator.com/item?id=49923692)
+4. [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html) (automatictransmission.khoury.northeastern.edu) - 146 points by [rafaelc](https://news.ycombinator.com/user?id=rafaelc), [141 comments](https://news.ycombinator.com/item?id=49926628)
+5. [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) (svelte.dev) - 148 points by [sampsn](https://news.ycombinator.com/user?id=sampsn), [58 comments](https://news.ycombinator.com/item?id=49926536)
+6. [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) - 165 points by [whoishiring](https://news.ycombinator.com/user?id=whoishiring), [174 comments](https://news.ycombinator.com/item?id=49922569)
+7. [Pi Durable](https://earendil.com/posts/pi-durable/) (earendil.com) - 262 points by [paulsmith](https://news.ycombinator.com/user?id=paulsmith), [32 comments](https://news.ycombinator.com/item?id=49925969)
+8. [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness) (resobscura.substack.com) - 91 points by [benbreen](https://news.ycombinator.com/user?id=benbreen), [16 comments](https://news.ycombinator.com/item?id=49926917)
+9. [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) (github.com) - 533 points by [Snowly](https://news.ycombinator.com/user?id=Snowly), [135 comments](https://news.ycombinator.com/item?id=49920160)
+10. [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) (singapore-samizdat.com) - 10 points by [danielfoster](https://news.ycombinator.com/user?id=danielfoster), [3 comments](https://news.ycombinator.com/item?id=49929113)
 
 ## 2026-10-01
 
