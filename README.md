@@ -13,15 +13,15 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 02](#2026-10-02) | [Oct 01](#2026-10-01) | [Sep 30](#2026-09-30) | [Sep 29](#2026-09-29) | [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27) | [Sep 26](#2026-09-26)
+Recent: [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02) | [Oct 01](#2026-10-01) | [Sep 30](#2026-09-30) | [Sep 29](#2026-09-29) | [Sep 28](#2026-09-28) | [Sep 27](#2026-09-27)
 
-### [2026](data/2026/) (275/275 days)
+### [2026](data/2026/) (276/276 days)
 
-[**October**](data/2026/10/) (2/2)
+[**October**](data/2026/10/) (3/3)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) |  |  |
+|  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2171,6 +2171,21 @@ Recent: [Oct 02](#2026-10-02) | [Oct 01](#2026-10-01) | [Sep 30](#2026-09-30) | 
 </details>
 
 ---
+
+## 2026-10-03
+
+*Saturday*
+
+1. [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) (newgrounds.com) - 50 points by [azhenley](https://news.ycombinator.com/user?id=azhenley), [5 comments](https://news.ycombinator.com/item?id=49940394)
+2. [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) (yuka.dev) - 136 points by [signa11](https://news.ycombinator.com/user?id=signa11), [61 comments](https://news.ycombinator.com/item?id=49933869)
+3. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) (eff.org) - 542 points by [hn_acker](https://news.ycombinator.com/user?id=hn_acker), [235 comments](https://news.ycombinator.com/item?id=49927754)
+4. [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) (ntsb.gov) - 21 points by [sdko](https://news.ycombinator.com/user?id=sdko), [9 comments](https://news.ycombinator.com/item?id=49940467)
+5. [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) (bsky.app) - 217 points by [mariuz](https://news.ycombinator.com/user?id=mariuz), [50 comments](https://news.ycombinator.com/item?id=49932147)
+6. [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) (nytimes.com) - 334 points by [CoryOndrejka](https://news.ycombinator.com/user?id=CoryOndrejka), [86 comments](https://news.ycombinator.com/item?id=49925184)
+7. [Apple Pass Designer](https://developer.apple.com/pass-designer/) (developer.apple.com) - 342 points by [soheilpro](https://news.ycombinator.com/user?id=soheilpro), [224 comments](https://news.ycombinator.com/item?id=49937276)
+8. [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) (breakthroughjournal.org) - 108 points by [timpera](https://news.ycombinator.com/user?id=timpera), [44 comments](https://news.ycombinator.com/item?id=49940219)
+9. [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) (arstechnica.com) - 191 points by [PaulHoule](https://news.ycombinator.com/user?id=PaulHoule), [91 comments](https://news.ycombinator.com/item?id=49933740)
+10. [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) (erictopol.substack.com) - 192 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [49 comments](https://news.ycombinator.com/item?id=49926411)
 
 ## 2026-10-02
 
