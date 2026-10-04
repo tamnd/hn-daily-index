@@ -2,11 +2,27 @@
 
 Top 10 Hacker News stories for each day in October 2026.
 
+- [2026-10-04 (Sunday)](#2026-10-04)
 - [2026-10-03 (Saturday)](#2026-10-03)
 - [2026-10-02 (Friday)](#2026-10-02)
 - [2026-10-01 (Thursday)](#2026-10-01)
 
 ---
+
+## 2026-10-04
+
+*Sunday*
+
+1. [Inside Anthropic's Quest to Instill Morality into Its A.I. Models](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) (nytimes.com) - 17 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [11 comments](https://news.ycombinator.com/item?id=49950052)
+2. [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) (simonwillison.net) - 262 points by [elffjs](https://news.ycombinator.com/user?id=elffjs), [141 comments](https://news.ycombinator.com/item?id=49949235)
+3. [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) - 207 points by [paveworld](https://news.ycombinator.com/user?id=paveworld), [31 comments](https://news.ycombinator.com/item?id=49949438)
+4. [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) (cosmowenman.substack.com) - 111 points by [CosmoWenman](https://news.ycombinator.com/user?id=CosmoWenman), [57 comments](https://news.ycombinator.com/item?id=49946355)
+5. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) (phoronix.com) - 179 points by [speckx](https://news.ycombinator.com/user?id=speckx), [21 comments](https://news.ycombinator.com/item?id=49946895)
+6. [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) (notoriousbfg.com) - 251 points by [trwhite](https://news.ycombinator.com/user?id=trwhite), [62 comments](https://news.ycombinator.com/item?id=49946393)
+7. [So You Think You Could Be an Electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) (asteriskmag.com) - 46 points by [zdw](https://news.ycombinator.com/user?id=zdw), [22 comments](https://news.ycombinator.com/item?id=49910462)
+8. [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/) (ben.stolovitz.com) - 117 points by [citelao](https://news.ycombinator.com/user?id=citelao), [58 comments](https://news.ycombinator.com/item?id=49947631)
+9. [Celebrating the 100th birthday of the kidney donated to him as a teenager](https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/) (whec.com) - 159 points by [gscott](https://news.ycombinator.com/user?id=gscott), [41 comments](https://news.ycombinator.com/item?id=49923873)
+10. [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) (aleph-alpha.com) - 543 points by [bastitx](https://news.ycombinator.com/user?id=bastitx), [307 comments](https://news.ycombinator.com/item?id=49942706)
 
 ## 2026-10-03
 

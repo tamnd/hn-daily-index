@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49950052,
+    "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "score": 17,
+    "by": "bookofjoe",
+    "descendants": 11,
+    "time": 1791081262
+  },
+  {
+    "rank": 2,
+    "id": 49949235,
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "score": 262,
+    "by": "elffjs",
+    "descendants": 141,
+    "time": 1791073216
+  },
+  {
+    "rank": 3,
+    "id": 49949438,
+    "title": "Bob Cringely Has Died",
+    "url": "",
+    "score": 207,
+    "by": "paveworld",
+    "descendants": 31,
+    "time": 1791075052
+  },
+  {
+    "rank": 4,
+    "id": 49946355,
+    "title": "Treachery in the Rodin Museum 3D scan verdict",
+    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+    "score": 111,
+    "by": "CosmoWenman",
+    "descendants": 57,
+    "time": 1791050487
+  },
+  {
+    "rank": 5,
+    "id": 49946895,
+    "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "score": 179,
+    "by": "speckx",
+    "descendants": 21,
+    "time": 1791054888
+  },
+  {
+    "rank": 6,
+    "id": 49946393,
+    "title": "Hole Punch: Sling your spaceship around gravitational fields",
+    "url": "https://notoriousbfg.com/hole-punch/",
+    "score": 251,
+    "by": "trwhite",
+    "descendants": 62,
+    "time": 1791050805
+  },
+  {
+    "rank": 7,
+    "id": 49910462,
+    "title": "So You Think You Could Be an Electrician?",
+    "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+    "score": 46,
+    "by": "zdw",
+    "descendants": 22,
+    "time": 1790783007
+  },
+  {
+    "rank": 8,
+    "id": 49947631,
+    "title": "Reasons I didn't become an EMT, ranked",
+    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+    "score": 117,
+    "by": "citelao",
+    "descendants": 58,
+    "time": 1791060555
+  },
+  {
+    "rank": 9,
+    "id": 49923873,
+    "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+    "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+    "score": 159,
+    "by": "gscott",
+    "descendants": 41,
+    "time": 1790872360
+  },
+  {
+    "rank": 10,
+    "id": 49942706,
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "score": 543,
+    "by": "bastitx",
+    "descendants": 307,
+    "time": 1791020164
+  }
+]
