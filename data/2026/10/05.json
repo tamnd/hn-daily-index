@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49959869,
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "score": 87,
+    "by": "llm_nerd",
+    "descendants": 40,
+    "time": 1791165248
+  },
+  {
+    "rank": 2,
+    "id": 49953495,
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "score": 645,
+    "by": "snehesht",
+    "descendants": 302,
+    "time": 1791118313
+  },
+  {
+    "rank": 3,
+    "id": 49957812,
+    "title": "In the wake of closure, a digital archive of animated materials appears online",
+    "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+    "score": 53,
+    "by": "rdmuser",
+    "descendants": 4,
+    "time": 1791147688
+  },
+  {
+    "rank": 4,
+    "id": 49960084,
+    "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+    "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+    "score": 43,
+    "by": "ericmay",
+    "descendants": 14,
+    "time": 1791167505
+  },
+  {
+    "rank": 5,
+    "id": 49930690,
+    "title": "Quantitative Finance with OCaml",
+    "url": "https://qcaml.com/index.html",
+    "score": 25,
+    "by": "leonry",
+    "descendants": 2,
+    "time": 1790925274
+  },
+  {
+    "rank": 6,
+    "id": 49943637,
+    "title": "Infidel goes wild",
+    "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+    "score": 88,
+    "by": "tobr",
+    "descendants": 14,
+    "time": 1791029980
+  },
+  {
+    "rank": 7,
+    "id": 49932236,
+    "title": "The Tao of Backup",
+    "url": "http://www.taobackup.com/index.html",
+    "score": 49,
+    "by": "vntok",
+    "descendants": 10,
+    "time": 1790939976
+  },
+  {
+    "rank": 8,
+    "id": 49959865,
+    "title": "A tribute to one of the best games on the Atari 2600",
+    "url": "https://plicerin.github.io/riverraid-rom-port/",
+    "score": 10,
+    "by": "plicerin",
+    "descendants": 4,
+    "time": 1791165240
+  },
+  {
+    "rank": 9,
+    "id": 49956681,
+    "title": "A browser-native classic Visual Basic VB6 IDE",
+    "url": "https://wieslawsoltes.github.io/VB6/",
+    "score": 108,
+    "by": "wiso",
+    "descendants": 46,
+    "time": 1791139757
+  },
+  {
+    "rank": 10,
+    "id": 49957116,
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "score": 415,
+    "by": "privacyisntdead",
+    "descendants": 270,
+    "time": 1791142945
+  }
+]

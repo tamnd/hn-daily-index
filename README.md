@@ -13,15 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02) | [Oct 01](#2026-10-01) | [Sep 30](#2026-09-30) | [Sep 29](#2026-09-29) | [Sep 28](#2026-09-28)
+Recent: [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02) | [Oct 01](#2026-10-01) | [Sep 30](#2026-09-30) | [Sep 29](#2026-09-29)
 
-### [2026](data/2026/) (277/277 days)
+### [2026](data/2026/) (278/278 days)
 
-[**October**](data/2026/10/) (4/4)
+[**October**](data/2026/10/) (5/5)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
+| [**5**](#2026-10-05) |  |  |  |  |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2171,6 +2172,21 @@ Recent: [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02) | 
 </details>
 
 ---
+
+## 2026-10-05
+
+*Monday*
+
+1. [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/) (motorsport.com) - 87 points by [llm_nerd](https://news.ycombinator.com/user?id=llm_nerd), [40 comments](https://news.ycombinator.com/item?id=49959869)
+2. [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) (github.com) - 645 points by [snehesht](https://news.ycombinator.com/user?id=snehesht), [302 comments](https://news.ycombinator.com/item?id=49953495)
+3. [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) (filmstories.co.uk) - 53 points by [rdmuser](https://news.ycombinator.com/user?id=rdmuser), [4 comments](https://news.ycombinator.com/item?id=49957812)
+4. [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) (themoscowtimes.com) - 43 points by [ericmay](https://news.ycombinator.com/user?id=ericmay), [14 comments](https://news.ycombinator.com/item?id=49960084)
+5. [Quantitative Finance with OCaml](https://qcaml.com/index.html) (qcaml.com) - 25 points by [leonry](https://news.ycombinator.com/user?id=leonry), [2 comments](https://news.ycombinator.com/item?id=49930690)
+6. [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) (blog.zarfhome.com) - 88 points by [tobr](https://news.ycombinator.com/user?id=tobr), [14 comments](https://news.ycombinator.com/item?id=49943637)
+7. [The Tao of Backup](http://www.taobackup.com/index.html) (taobackup.com) - 49 points by [vntok](https://news.ycombinator.com/user?id=vntok), [10 comments](https://news.ycombinator.com/item?id=49932236)
+8. [A tribute to one of the best games on the Atari 2600](https://plicerin.github.io/riverraid-rom-port/) (plicerin.github.io) - 10 points by [plicerin](https://news.ycombinator.com/user?id=plicerin), [4 comments](https://news.ycombinator.com/item?id=49959865)
+9. [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/) (wieslawsoltes.github.io) - 108 points by [wiso](https://news.ycombinator.com/user?id=wiso), [46 comments](https://news.ycombinator.com/item?id=49956681)
+10. [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) (github.com) - 415 points by [privacyisntdead](https://news.ycombinator.com/user?id=privacyisntdead), [270 comments](https://news.ycombinator.com/item?id=49957116)
 
 ## 2026-10-04
 
