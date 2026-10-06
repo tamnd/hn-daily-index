@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49973839,
+    "title": "Open Source as We Know It Is Dead",
+    "url": "https://jross.me/open-source-as-we-know-it-is-dead/",
+    "score": 34,
+    "by": "vinhnx",
+    "descendants": 14,
+    "time": 1791257505
+  },
+  {
+    "rank": 2,
+    "id": 49973598,
+    "title": "Why Common Lisp Is Now the Best Programming Language",
+    "url": "https://www.vivienhenz.com/common-lisp",
+    "score": 21,
+    "by": "misterchocolat",
+    "descendants": 14,
+    "time": 1791255111
+  },
+  {
+    "rank": 3,
+    "id": 49969183,
+    "title": "Beam: Reflection's 501B open-weight model",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "score": 369,
+    "by": "Philpax",
+    "descendants": 110,
+    "time": 1791227795
+  },
+  {
+    "rank": 4,
+    "id": 49971230,
+    "title": "Find the flattest route between any two points in SF",
+    "url": "https://flattensf.com/",
+    "score": 142,
+    "by": "ishan0102",
+    "descendants": 47,
+    "time": 1791236450
+  },
+  {
+    "rank": 5,
+    "id": 49970871,
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "url": "https://qlabs.sh/research/dust",
+    "score": 135,
+    "by": "E-Reverance",
+    "descendants": 30,
+    "time": 1791234907
+  },
+  {
+    "rank": 6,
+    "id": 49971921,
+    "title": "Example.com just launched the biggest redesign in decades",
+    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "score": 123,
+    "by": "jgx0",
+    "descendants": 75,
+    "time": 1791240911
+  },
+  {
+    "rank": 7,
+    "id": 49972730,
+    "title": "Photopea creator weighs in on Photosuite project",
+    "url": "https://github.com/eolix/photosuite/issues/77",
+    "score": 69,
+    "by": "montag",
+    "descendants": 31,
+    "time": 1791247304
+  },
+  {
+    "rank": 8,
+    "id": 49972419,
+    "title": "AI tutoring with Khanmigo in a two-year school experiment",
+    "url": "https://edworkingpapers.com/ai26-1551",
+    "score": 52,
+    "by": "bryan0",
+    "descendants": 37,
+    "time": 1791244845
+  },
+  {
+    "rank": 9,
+    "id": 49945588,
+    "title": "An algorithmic failure beneath the secret ballot",
+    "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+    "score": 50,
+    "by": "leecoursey",
+    "descendants": 14,
+    "time": 1791044587
+  },
+  {
+    "rank": 10,
+    "id": 49970667,
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "score": 257,
+    "by": "outlier99",
+    "descendants": 179,
+    "time": 1791234021
+  }
+]

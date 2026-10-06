@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in October 2026.
 
+- [2026-10-06 (Tuesday)](#2026-10-06)
 - [2026-10-05 (Monday)](#2026-10-05)
 - [2026-10-04 (Sunday)](#2026-10-04)
 - [2026-10-03 (Saturday)](#2026-10-03)
@@ -9,6 +10,21 @@ Top 10 Hacker News stories for each day in October 2026.
 - [2026-10-01 (Thursday)](#2026-10-01)
 
 ---
+
+## 2026-10-06
+
+*Tuesday*
+
+1. [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/) (jross.me) - 34 points by [vinhnx](https://news.ycombinator.com/user?id=vinhnx), [14 comments](https://news.ycombinator.com/item?id=49973839)
+2. [Why Common Lisp Is Now the Best Programming Language](https://www.vivienhenz.com/common-lisp) (vivienhenz.com) - 21 points by [misterchocolat](https://news.ycombinator.com/user?id=misterchocolat), [14 comments](https://news.ycombinator.com/item?id=49973598)
+3. [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) (reflection.ai) - 369 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [110 comments](https://news.ycombinator.com/item?id=49969183)
+4. [Find the flattest route between any two points in SF](https://flattensf.com/) (flattensf.com) - 142 points by [ishan0102](https://news.ycombinator.com/user?id=ishan0102), [47 comments](https://news.ycombinator.com/item?id=49971230)
+5. [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust) (qlabs.sh) - 135 points by [E-Reverance](https://news.ycombinator.com/user?id=E-Reverance), [30 comments](https://news.ycombinator.com/item?id=49970871)
+6. [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history) (debugbear.com) - 123 points by [jgx0](https://news.ycombinator.com/user?id=jgx0), [75 comments](https://news.ycombinator.com/item?id=49971921)
+7. [Photopea creator weighs in on Photosuite project](https://github.com/eolix/photosuite/issues/77) (github.com) - 69 points by [montag](https://news.ycombinator.com/user?id=montag), [31 comments](https://news.ycombinator.com/item?id=49972730)
+8. [AI tutoring with Khanmigo in a two-year school experiment](https://edworkingpapers.com/ai26-1551) (edworkingpapers.com) - 52 points by [bryan0](https://news.ycombinator.com/user?id=bryan0), [37 comments](https://news.ycombinator.com/item?id=49972419)
+9. [An algorithmic failure beneath the secret ballot](https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/) (blog.citp.princeton.edu) - 50 points by [leecoursey](https://news.ycombinator.com/user?id=leecoursey), [14 comments](https://news.ycombinator.com/item?id=49945588)
+10. [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) (vals.ai) - 257 points by [outlier99](https://news.ycombinator.com/user?id=outlier99), [179 comments](https://news.ycombinator.com/item?id=49970667)
 
 ## 2026-10-05
 
