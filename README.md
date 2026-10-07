@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02) | [Oct 01](#2026-10-01) | [Sep 30](#2026-09-30)
+Recent: [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02) | [Oct 01](#2026-10-01)
 
-### [2026](data/2026/) (279/279 days)
+### [2026](data/2026/) (280/280 days)
 
-[**October**](data/2026/10/) (6/6)
+[**October**](data/2026/10/) (7/7)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
-| [**5**](#2026-10-05) | [**6**](#2026-10-06) |  |  |  |  |  |
+| [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) |  |  |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2172,6 +2172,21 @@ Recent: [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | 
 </details>
 
 ---
+
+## 2026-10-07
+
+*Wednesday*
+
+1. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) (openai.com) - 573 points by [OfficialTurkey](https://news.ycombinator.com/user?id=OfficialTurkey), [509 comments](https://news.ycombinator.com/item?id=49984923)
+2. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) (mistral.ai) - 1.6k points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [981 comments](https://news.ycombinator.com/item?id=49977979)
+3. [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) (strandsagents.com) - 56 points by [gmays](https://news.ycombinator.com/user?id=gmays), [5 comments](https://news.ycombinator.com/item?id=49987076)
+4. [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) (developers.openai.com) - 186 points by [chiefstorm](https://news.ycombinator.com/user?id=chiefstorm), [81 comments](https://news.ycombinator.com/item?id=49984025)
+5. [The cost of lies: A Mineserver story](https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272) (jeremyreimer.com) - 32 points by [luu](https://news.ycombinator.com/user?id=luu), [8 comments](https://news.ycombinator.com/item?id=49950865)
+6. [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/) (penguin-mail.com) - 104 points by [kavourias](https://news.ycombinator.com/user?id=kavourias), [48 comments](https://news.ycombinator.com/item?id=49984716)
+7. [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) (nanochess.org) - 9 points by [nanochess](https://news.ycombinator.com/user?id=nanochess), [1 comments](https://news.ycombinator.com/item?id=49987675)
+8. [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) (blog.google) - 256 points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [31 comments](https://news.ycombinator.com/item?id=49980487)
+9. [Claude Code’s suggested message feature: I think the real customer is the model](https://www.zohaib.cc/blog/smartest-claude-code-feature) (zohaib.cc) - 134 points by [zed_labs_dev](https://news.ycombinator.com/user?id=zed_labs_dev), [71 comments](https://news.ycombinator.com/item?id=49981905)
+10. [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock) (github.com) - 19 points by [jayhoon](https://news.ycombinator.com/user?id=jayhoon), [4 comments](https://news.ycombinator.com/item?id=49986862)
 
 ## 2026-10-06
 

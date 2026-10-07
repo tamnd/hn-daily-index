@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 49984923,
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "score": 573,
+    "by": "OfficialTurkey",
+    "descendants": 509,
+    "time": 1791325041
+  },
+  {
+    "rank": 2,
+    "id": 49977979,
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "score": 1631,
+    "by": "Philpax",
+    "descendants": 981,
+    "time": 1791292549
+  },
+  {
+    "rank": 3,
+    "id": 49987076,
+    "title": "Strands Decider 2B: a small, open-source, decision model",
+    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+    "score": 56,
+    "by": "gmays",
+    "descendants": 5,
+    "time": 1791338531
+  },
+  {
+    "rank": 4,
+    "id": 49984025,
+    "title": "Decisions API is in public beta",
+    "url": "https://developers.openai.com/api/docs/guides/decisions",
+    "score": 186,
+    "by": "chiefstorm",
+    "descendants": 81,
+    "time": 1791320245
+  },
+  {
+    "rank": 5,
+    "id": 49950865,
+    "title": "The cost of lies: A Mineserver story",
+    "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+    "score": 32,
+    "by": "luu",
+    "descendants": 8,
+    "time": 1791091032
+  },
+  {
+    "rank": 6,
+    "id": 49984716,
+    "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+    "url": "https://penguin-mail.com/",
+    "score": 104,
+    "by": "kavourias",
+    "descendants": 48,
+    "time": 1791323983
+  },
+  {
+    "rank": 7,
+    "id": 49987675,
+    "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+    "url": "https://nanochess.org/la_cueva_bbs.html",
+    "score": 9,
+    "by": "nanochess",
+    "descendants": 1,
+    "time": 1791343005
+  },
+  {
+    "rank": 8,
+    "id": 49980487,
+    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "score": 256,
+    "by": "ilreb",
+    "descendants": 31,
+    "time": 1791302629
+  },
+  {
+    "rank": 9,
+    "id": 49981905,
+    "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
+    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+    "score": 134,
+    "by": "zed_labs_dev",
+    "descendants": 71,
+    "time": 1791309634
+  },
+  {
+    "rank": 10,
+    "id": 49986862,
+    "title": "ESP32-C3 Adblock",
+    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+    "score": 19,
+    "by": "jayhoon",
+    "descendants": 4,
+    "time": 1791337161
+  }
+]
