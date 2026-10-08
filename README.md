@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02) | [Oct 01](#2026-10-01)
+Recent: [Oct 08](#2026-10-08) | [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02)
 
-### [2026](data/2026/) (280/280 days)
+### [2026](data/2026/) (281/281 days)
 
-[**October**](data/2026/10/) (7/7)
+[**October**](data/2026/10/) (8/8)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
-| [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) |  |  |  |  |
+| [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) |  |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2172,6 +2172,21 @@ Recent: [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | 
 </details>
 
 ---
+
+## 2026-10-08
+
+*Thursday*
+
+1. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) (anthropic.com) - 738 points by [sfkgtbor](https://news.ycombinator.com/user?id=sfkgtbor), [373 comments](https://news.ycombinator.com/item?id=49996437)
+2. [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) (news.mit.edu) - 977 points by [muglug](https://news.ycombinator.com/user?id=muglug), [110 comments](https://news.ycombinator.com/item?id=49998895)
+3. [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html) (100r.ca) - 44 points by [Muhammad523](https://news.ycombinator.com/user?id=Muhammad523), [7 comments](https://news.ycombinator.com/item?id=49970767)
+4. [How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't](https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t) (science.org) - 101 points by [pavel_lishin](https://news.ycombinator.com/user?id=pavel_lishin), [44 comments](https://news.ycombinator.com/item?id=49969073)
+5. [Cleo (Mathematician)](https://en.wikipedia.org/wiki/Cleo_(mathematician)) (en.wikipedia.org) - 69 points by [djoldman](https://news.ycombinator.com/user?id=djoldman), [7 comments](https://news.ycombinator.com/item?id=49982445)
+6. ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/) (404media.co) - 87 points by [gumby](https://news.ycombinator.com/user?id=gumby), [34 comments](https://news.ycombinator.com/item?id=49998066)
+7. [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) (bigwords.page) - 404 points by [SpeakingOfBrad](https://news.ycombinator.com/user?id=SpeakingOfBrad), [118 comments](https://news.ycombinator.com/item?id=49994443)
+8. [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) (openai.com) - 540 points by [joshuawright11](https://news.ycombinator.com/user?id=joshuawright11), [281 comments](https://news.ycombinator.com/item?id=49996425)
+9. [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) (developer.chrome.com) - 509 points by [AshleysBrain](https://news.ycombinator.com/user?id=AshleysBrain), [344 comments](https://news.ycombinator.com/item?id=49991227)
+10. [In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html) (nytimes.com) - 39 points by [gumby](https://news.ycombinator.com/user?id=gumby), [3 comments](https://news.ycombinator.com/item?id=49996406)
 
 ## 2026-10-07
 
