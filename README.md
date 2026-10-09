@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 08](#2026-10-08) | [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03) | [Oct 02](#2026-10-02)
+Recent: [Oct 09](#2026-10-09) | [Oct 08](#2026-10-08) | [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03)
 
-### [2026](data/2026/) (281/281 days)
+### [2026](data/2026/) (282/282 days)
 
-[**October**](data/2026/10/) (8/8)
+[**October**](data/2026/10/) (9/9)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
-| [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) |  |  |  |
+| [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2172,6 +2172,21 @@ Recent: [Oct 08](#2026-10-08) | [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | 
 </details>
 
 ---
+
+## 2026-10-09
+
+*Friday*
+
+1. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) (cactuscompute.com) - 611 points by [gmays](https://news.ycombinator.com/user?id=gmays), [135 comments](https://news.ycombinator.com/item?id=50008427)
+2. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/) (lwn.net) - 38 points by [signa11](https://news.ycombinator.com/user?id=signa11), [17 comments](https://news.ycombinator.com/item?id=50015074)
+3. [Theranos.world](https://www.theranos.world/) (theranos.world) - 339 points by [kbyatnal](https://news.ycombinator.com/user?id=kbyatnal), [125 comments](https://news.ycombinator.com/item?id=50009295)
+4. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) (dexerto.com) - 494 points by [ck2](https://news.ycombinator.com/user?id=ck2), [311 comments](https://news.ycombinator.com/item?id=49995495)
+5. [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/) (unsung.aresluna.org) - 18 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [10 comments](https://news.ycombinator.com/item?id=50015515)
+6. [Bevy 0.20](https://bevy.org/news/bevy-0-20/) (bevy.org) - 88 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [14 comments](https://news.ycombinator.com/item?id=50013610)
+7. [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) (antonfrolov.substack.com) - 466 points by [soheilpro](https://news.ycombinator.com/user?id=soheilpro), [81 comments](https://news.ycombinator.com/item?id=49986882)
+8. [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) (dgt.is) - 492 points by [jonotime](https://news.ycombinator.com/user?id=jonotime), [411 comments](https://news.ycombinator.com/item?id=50000488)
+9. [Yes, and](https://htmx.org/essays/yes-and/) (htmx.org) - 251 points by [Michelangelo11](https://news.ycombinator.com/user?id=Michelangelo11), [80 comments](https://news.ycombinator.com/item?id=50003796)
+10. [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/) (ken.arneson.name) - 137 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [43 comments](https://news.ycombinator.com/item?id=50010470)
 
 ## 2026-10-08
 

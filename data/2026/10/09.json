@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50008427,
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "score": 611,
+    "by": "gmays",
+    "descendants": 135,
+    "time": 1791478779
+  },
+  {
+    "rank": 2,
+    "id": 50015074,
+    "title": "Reducing undefined behavior in the C language",
+    "url": "https://lwn.net/Articles/1095811/",
+    "score": 38,
+    "by": "signa11",
+    "descendants": 17,
+    "time": 1791511373
+  },
+  {
+    "rank": 3,
+    "id": 50009295,
+    "title": "Theranos.world",
+    "url": "https://www.theranos.world/",
+    "score": 339,
+    "by": "kbyatnal",
+    "descendants": 125,
+    "time": 1791481909
+  },
+  {
+    "rank": 4,
+    "id": 49995495,
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "score": 494,
+    "by": "ck2",
+    "descendants": 311,
+    "time": 1791392190
+  },
+  {
+    "rank": 5,
+    "id": 50015515,
+    "title": "Keyboard differences between Windows and Macs",
+    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+    "score": 18,
+    "by": "sohkamyung",
+    "descendants": 10,
+    "time": 1791515285
+  },
+  {
+    "rank": 6,
+    "id": 50013610,
+    "title": "Bevy 0.20",
+    "url": "https://bevy.org/news/bevy-0-20/",
+    "score": 88,
+    "by": "Philpax",
+    "descendants": 14,
+    "time": 1791500270
+  },
+  {
+    "rank": 7,
+    "id": 49986882,
+    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+    "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+    "score": 466,
+    "by": "soheilpro",
+    "descendants": 81,
+    "time": 1791337263
+  },
+  {
+    "rank": 8,
+    "id": 50000488,
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+    "score": 492,
+    "by": "jonotime",
+    "descendants": 411,
+    "time": 1791418488
+  },
+  {
+    "rank": 9,
+    "id": 50003796,
+    "title": "Yes, and",
+    "url": "https://htmx.org/essays/yes-and/",
+    "score": 251,
+    "by": "Michelangelo11",
+    "descendants": 80,
+    "time": 1791452898
+  },
+  {
+    "rank": 10,
+    "id": 50010470,
+    "title": "The value of not getting to the point (2015)",
+    "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+    "score": 137,
+    "by": "NaOH",
+    "descendants": 43,
+    "time": 1791486296
+  }
+]

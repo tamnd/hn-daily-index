@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (8 days)
+- [October](10/) (9 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-09
+
+*Friday*
+
+1. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) (cactuscompute.com) - 611 points by [gmays](https://news.ycombinator.com/user?id=gmays), [135 comments](https://news.ycombinator.com/item?id=50008427)
+2. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/) (lwn.net) - 38 points by [signa11](https://news.ycombinator.com/user?id=signa11), [17 comments](https://news.ycombinator.com/item?id=50015074)
+3. [Theranos.world](https://www.theranos.world/) (theranos.world) - 339 points by [kbyatnal](https://news.ycombinator.com/user?id=kbyatnal), [125 comments](https://news.ycombinator.com/item?id=50009295)
+4. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) (dexerto.com) - 494 points by [ck2](https://news.ycombinator.com/user?id=ck2), [311 comments](https://news.ycombinator.com/item?id=49995495)
+5. [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/) (unsung.aresluna.org) - 18 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [10 comments](https://news.ycombinator.com/item?id=50015515)
+6. [Bevy 0.20](https://bevy.org/news/bevy-0-20/) (bevy.org) - 88 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [14 comments](https://news.ycombinator.com/item?id=50013610)
+7. [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) (antonfrolov.substack.com) - 466 points by [soheilpro](https://news.ycombinator.com/user?id=soheilpro), [81 comments](https://news.ycombinator.com/item?id=49986882)
+8. [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) (dgt.is) - 492 points by [jonotime](https://news.ycombinator.com/user?id=jonotime), [411 comments](https://news.ycombinator.com/item?id=50000488)
+9. [Yes, and](https://htmx.org/essays/yes-and/) (htmx.org) - 251 points by [Michelangelo11](https://news.ycombinator.com/user?id=Michelangelo11), [80 comments](https://news.ycombinator.com/item?id=50003796)
+10. [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/) (ken.arneson.name) - 137 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [43 comments](https://news.ycombinator.com/item?id=50010470)
 
 ## 2026-10-08
 
