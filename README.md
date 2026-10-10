@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 09](#2026-10-09) | [Oct 08](#2026-10-08) | [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04) | [Oct 03](#2026-10-03)
+Recent: [Oct 10](#2026-10-10) | [Oct 09](#2026-10-09) | [Oct 08](#2026-10-08) | [Oct 07](#2026-10-07) | [Oct 06](#2026-10-06) | [Oct 05](#2026-10-05) | [Oct 04](#2026-10-04)
 
-### [2026](data/2026/) (282/282 days)
+### [2026](data/2026/) (283/283 days)
 
-[**October**](data/2026/10/) (9/9)
+[**October**](data/2026/10/) (10/10)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
-| [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) |  |  |
+| [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2172,6 +2172,21 @@ Recent: [Oct 09](#2026-10-09) | [Oct 08](#2026-10-08) | [Oct 07](#2026-10-07) | 
 </details>
 
 ---
+
+## 2026-10-10
+
+*Saturday*
+
+1. [REA Reverse – Engineer Anything](https://rea.tools/) (rea.tools) - 288 points by [modinfo](https://news.ycombinator.com/user?id=modinfo), [91 comments](https://news.ycombinator.com/item?id=50028275)
+2. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) (deno.com) - 1.2k points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [595 comments](https://news.ycombinator.com/item?id=50019911)
+3. [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) (beaksec.github.io) - 64 points by [g-b-r](https://news.ycombinator.com/user?id=g-b-r), [22 comments](https://news.ycombinator.com/item?id=50029123)
+4. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) (minesweeper.mikelacher.com) - 847 points by [robin_reala](https://news.ycombinator.com/user?id=robin_reala), [165 comments](https://news.ycombinator.com/item?id=50022292)
+5. [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo) (usenix.org) - 94 points by [ortusdux](https://news.ycombinator.com/user?id=ortusdux), [16 comments](https://news.ycombinator.com/item?id=49997481)
+6. [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) (typesafe.ai) - 337 points by [tosh](https://news.ycombinator.com/user?id=tosh), [240 comments](https://news.ycombinator.com/item?id=50023450)
+7. [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) (carrierexplode.com) - 273 points by [simplyalec](https://news.ycombinator.com/user?id=simplyalec), [35 comments](https://news.ycombinator.com/item?id=50024499)
+8. [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/) (blog.janestreet.com) - 58 points by [jsomers](https://news.ycombinator.com/user?id=jsomers), [22 comments](https://news.ycombinator.com/item?id=50021410)
+9. [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/) (lwn.net) - 56 points by [peter_d_sherman](https://news.ycombinator.com/user?id=peter_d_sherman), [6 comments](https://news.ycombinator.com/item?id=50027853)
+10. [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/) (kyushu-u.ac.jp) - 10 points by [Betelbuddy](https://news.ycombinator.com/user?id=Betelbuddy), [0 comments](https://news.ycombinator.com/item?id=49981264)
 
 ## 2026-10-09
 

@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in October 2026.
 
+- [2026-10-10 (Saturday)](#2026-10-10)
 - [2026-10-09 (Friday)](#2026-10-09)
 - [2026-10-08 (Thursday)](#2026-10-08)
 - [2026-10-07 (Wednesday)](#2026-10-07)
@@ -13,6 +14,21 @@ Top 10 Hacker News stories for each day in October 2026.
 - [2026-10-01 (Thursday)](#2026-10-01)
 
 ---
+
+## 2026-10-10
+
+*Saturday*
+
+1. [REA Reverse – Engineer Anything](https://rea.tools/) (rea.tools) - 288 points by [modinfo](https://news.ycombinator.com/user?id=modinfo), [91 comments](https://news.ycombinator.com/item?id=50028275)
+2. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) (deno.com) - 1.2k points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [595 comments](https://news.ycombinator.com/item?id=50019911)
+3. [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) (beaksec.github.io) - 64 points by [g-b-r](https://news.ycombinator.com/user?id=g-b-r), [22 comments](https://news.ycombinator.com/item?id=50029123)
+4. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) (minesweeper.mikelacher.com) - 847 points by [robin_reala](https://news.ycombinator.com/user?id=robin_reala), [165 comments](https://news.ycombinator.com/item?id=50022292)
+5. [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo) (usenix.org) - 94 points by [ortusdux](https://news.ycombinator.com/user?id=ortusdux), [16 comments](https://news.ycombinator.com/item?id=49997481)
+6. [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) (typesafe.ai) - 337 points by [tosh](https://news.ycombinator.com/user?id=tosh), [240 comments](https://news.ycombinator.com/item?id=50023450)
+7. [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) (carrierexplode.com) - 273 points by [simplyalec](https://news.ycombinator.com/user?id=simplyalec), [35 comments](https://news.ycombinator.com/item?id=50024499)
+8. [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/) (blog.janestreet.com) - 58 points by [jsomers](https://news.ycombinator.com/user?id=jsomers), [22 comments](https://news.ycombinator.com/item?id=50021410)
+9. [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/) (lwn.net) - 56 points by [peter_d_sherman](https://news.ycombinator.com/user?id=peter_d_sherman), [6 comments](https://news.ycombinator.com/item?id=50027853)
+10. [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/) (kyushu-u.ac.jp) - 10 points by [Betelbuddy](https://news.ycombinator.com/user?id=Betelbuddy), [0 comments](https://news.ycombinator.com/item?id=49981264)
 
 ## 2026-10-09
 
