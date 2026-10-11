@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50038634,
+    "title": "WallHop \u2013 12ft.io is gone, so I built a replacement",
+    "url": "https://wallhop.io/",
+    "score": 140,
+    "by": "TheWaffleHax",
+    "descendants": 59,
+    "time": 1791679608
+  },
+  {
+    "rank": 2,
+    "id": 50037949,
+    "title": "Build your own decision model",
+    "url": "https://nishtahir.com/build-your-own-decision-model/",
+    "score": 158,
+    "by": "softwaredoug",
+    "descendants": 31,
+    "time": 1791672610
+  },
+  {
+    "rank": 3,
+    "id": 50039092,
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "score": 43,
+    "by": "davikr",
+    "descendants": 28,
+    "time": 1791684158
+  },
+  {
+    "rank": 4,
+    "id": 49991852,
+    "title": "2D Vehicles",
+    "url": "https://patkerr.co.uk/2d-vehicles/",
+    "score": 382,
+    "by": "Michelangelo11",
+    "descendants": 85,
+    "time": 1791376240
+  },
+  {
+    "rank": 5,
+    "id": 50036864,
+    "title": "A city-building game in which the city would prefer you didn't",
+    "url": "https://housing.over.pizza/",
+    "score": 217,
+    "by": "JumpCrisscross",
+    "descendants": 80,
+    "time": 1791664310
+  },
+  {
+    "rank": 6,
+    "id": 50038623,
+    "title": "PSPi 6 \u2013 Raspberry Pi in a PSP",
+    "url": "https://github.com/othermod/PSPi-Version-6",
+    "score": 26,
+    "by": "therepanic",
+    "descendants": 3,
+    "time": 1791679549
+  },
+  {
+    "rank": 7,
+    "id": 50029487,
+    "title": "The Lightbulb Computer",
+    "url": "https://lightbulbcomputer.com/",
+    "score": 288,
+    "by": "oskarth",
+    "descendants": 45,
+    "time": 1791605546
+  },
+  {
+    "rank": 8,
+    "id": 50017247,
+    "title": "Nix wrote half of my debugger",
+    "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+    "score": 152,
+    "by": "ingve",
+    "descendants": 28,
+    "time": 1791530948
+  },
+  {
+    "rank": 9,
+    "id": 50038473,
+    "title": "Veda: The First Agentic Hobby Operating System",
+    "url": "https://github.com/vahmoh25/Veda",
+    "score": 29,
+    "by": "vahmohh",
+    "descendants": 3,
+    "time": 1791678153
+  },
+  {
+    "rank": 10,
+    "id": 50015833,
+    "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+    "url": "https://hangul.ink/blog/hangul-day",
+    "score": 13,
+    "by": "jbaudanza",
+    "descendants": 2,
+    "time": 1791518296
+  }
+]

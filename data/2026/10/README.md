@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in October 2026.
 
+- [2026-10-11 (Sunday)](#2026-10-11)
 - [2026-10-10 (Saturday)](#2026-10-10)
 - [2026-10-09 (Friday)](#2026-10-09)
 - [2026-10-08 (Thursday)](#2026-10-08)
@@ -14,6 +15,21 @@ Top 10 Hacker News stories for each day in October 2026.
 - [2026-10-01 (Thursday)](#2026-10-01)
 
 ---
+
+## 2026-10-11
+
+*Sunday*
+
+1. [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/) (wallhop.io) - 140 points by [TheWaffleHax](https://news.ycombinator.com/user?id=TheWaffleHax), [59 comments](https://news.ycombinator.com/item?id=50038634)
+2. [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) (nishtahir.com) - 158 points by [softwaredoug](https://news.ycombinator.com/user?id=softwaredoug), [31 comments](https://news.ycombinator.com/item?id=50037949)
+3. [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/) (momo5502.com) - 43 points by [davikr](https://news.ycombinator.com/user?id=davikr), [28 comments](https://news.ycombinator.com/item?id=50039092)
+4. [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) (patkerr.co.uk) - 382 points by [Michelangelo11](https://news.ycombinator.com/user?id=Michelangelo11), [85 comments](https://news.ycombinator.com/item?id=49991852)
+5. [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) (housing.over.pizza) - 217 points by [JumpCrisscross](https://news.ycombinator.com/user?id=JumpCrisscross), [80 comments](https://news.ycombinator.com/item?id=50036864)
+6. [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6) (github.com) - 26 points by [therepanic](https://news.ycombinator.com/user?id=therepanic), [3 comments](https://news.ycombinator.com/item?id=50038623)
+7. [The Lightbulb Computer](https://lightbulbcomputer.com/) (lightbulbcomputer.com) - 288 points by [oskarth](https://news.ycombinator.com/user?id=oskarth), [45 comments](https://news.ycombinator.com/item?id=50029487)
+8. [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger) (fzakaria.com) - 152 points by [ingve](https://news.ycombinator.com/user?id=ingve), [28 comments](https://news.ycombinator.com/item?id=50017247)
+9. [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda) (github.com) - 29 points by [vahmohh](https://news.ycombinator.com/user?id=vahmohh), [3 comments](https://news.ycombinator.com/item?id=50038473)
+10. [Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes](https://hangul.ink/blog/hangul-day) (hangul.ink) - 13 points by [jbaudanza](https://news.ycombinator.com/user?id=jbaudanza), [2 comments](https://news.ycombinator.com/item?id=50015833)
 
 ## 2026-10-10
 
