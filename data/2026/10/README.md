@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in October 2026.
 
+- [2026-10-12 (Monday)](#2026-10-12)
 - [2026-10-11 (Sunday)](#2026-10-11)
 - [2026-10-10 (Saturday)](#2026-10-10)
 - [2026-10-09 (Friday)](#2026-10-09)
@@ -15,6 +16,21 @@ Top 10 Hacker News stories for each day in October 2026.
 - [2026-10-01 (Thursday)](#2026-10-01)
 
 ---
+
+## 2026-10-12
+
+*Monday*
+
+1. [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography) (americanscientist.org) - 89 points by [cainxinth](https://news.ycombinator.com/user?id=cainxinth), [38 comments](https://news.ycombinator.com/item?id=50049411)
+2. [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) (nanolathe.gg) - 408 points by [jttnr](https://news.ycombinator.com/user?id=jttnr), [177 comments](https://news.ycombinator.com/item?id=50045984)
+3. [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) (royfish.dev) - 149 points by [royfish](https://news.ycombinator.com/user?id=royfish), [61 comments](https://news.ycombinator.com/item?id=50048642)
+4. [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/) (cartographers-nk.wonyoung.so) - 205 points by [edent](https://news.ycombinator.com/user?id=edent), [38 comments](https://news.ycombinator.com/item?id=50047091)
+5. [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/) (jverzani.github.io) - 16 points by [subset](https://news.ycombinator.com/user?id=subset), [1 comments](https://news.ycombinator.com/item?id=50034206)
+6. [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) (twitter.com) - 299 points by [albertzeyer](https://news.ycombinator.com/user?id=albertzeyer), [478 comments](https://news.ycombinator.com/item?id=50047422)
+7. [Tattoos you can turn on and off](https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off) (livescience.com) - 20 points by [MortyDev](https://news.ycombinator.com/user?id=MortyDev), [6 comments](https://news.ycombinator.com/item?id=50047802)
+8. [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/) (terrytao.wordpress.com) - 42 points by [smilelamp](https://news.ycombinator.com/user?id=smilelamp), [0 comments](https://news.ycombinator.com/item?id=50049133)
+9. [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/) (purplesyringa.moe) - 23 points by [zX41ZdbW](https://news.ycombinator.com/user?id=zX41ZdbW), [2 comments](https://news.ycombinator.com/item?id=50039608)
+10. [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf) (teorth.github.io) - 343 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [391 comments](https://news.ycombinator.com/item?id=50043026)
 
 ## 2026-10-11
 
