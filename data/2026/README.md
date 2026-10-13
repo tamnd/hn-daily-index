@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (12 days)
+- [October](10/) (13 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-13
+
+*Tuesday*
+
+1. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) (jsomers.net) - 103 points by [jsomers](https://news.ycombinator.com/user?id=jsomers), [2 comments](https://news.ycombinator.com/item?id=50041866)
+2. [GLM-Legal](https://z.ai/blog/glm-legal) (z.ai) - 470 points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [262 comments](https://news.ycombinator.com/item?id=50058507)
+3. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) (intel.com) - 103 points by [hurricanepootis](https://news.ycombinator.com/user?id=hurricanepootis), [43 comments](https://news.ycombinator.com/item?id=50063365)
+4. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) (prophitt.me) - 429 points by [prophittcorey](https://news.ycombinator.com/user?id=prophittcorey), [176 comments](https://news.ycombinator.com/item?id=50058528)
+5. [Who is vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/) (purplesyringa.moe) - 134 points by [pngmangi](https://news.ycombinator.com/user?id=pngmangi), [14 comments](https://news.ycombinator.com/item?id=50063138)
+6. [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) (tomshardware.com) - 490 points by [Zeekaas](https://news.ycombinator.com/user?id=Zeekaas), [690 comments](https://news.ycombinator.com/item?id=50055304)
+7. [China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/) (japannews.yomiuri.co.jp) - 45 points by [mushstory](https://news.ycombinator.com/user?id=mushstory), [16 comments](https://news.ycombinator.com/item?id=50065805)
+8. [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas) (github.com) - 59 points by [khalidkhair](https://news.ycombinator.com/user?id=khalidkhair), [25 comments](https://news.ycombinator.com/item?id=50063717)
+9. [Auto Research: Integer multiplication below n log n](https://app.getsupers.com/auto-research) (app.getsupers.com) - 28 points by [swesnow](https://news.ycombinator.com/user?id=swesnow), [6 comments](https://news.ycombinator.com/item?id=50047664)
+10. [Strengthening our defenses against distillation attacks](https://www.anthropic.com/research/distillation-defenses) (anthropic.com) - 17 points by [porridgeraisin](https://news.ycombinator.com/user?id=porridgeraisin), [30 comments](https://news.ycombinator.com/item?id=50065553)
 
 ## 2026-10-12
 
