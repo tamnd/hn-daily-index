@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (13 days)
+- [October](10/) (14 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-14
+
+*Wednesday*
+
+1. [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) (jjmaxwell4.com) - 637 points by [jjmaxwell4](https://news.ycombinator.com/user?id=jjmaxwell4), [170 comments](https://news.ycombinator.com/item?id=50093568)
+2. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) (anoma.ly) - 221 points by [gmays](https://news.ycombinator.com/user?id=gmays), [87 comments](https://news.ycombinator.com/item?id=50094994)
+3. [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) (typesafe.ai) - 135 points by [emschwartz](https://news.ycombinator.com/user?id=emschwartz), [52 comments](https://news.ycombinator.com/item?id=50095353)
+4. [Tiny Little Office](https://tinylittleoffice.com/) (tinylittleoffice.com) - 72 points by [donohoe](https://news.ycombinator.com/user?id=donohoe), [13 comments](https://news.ycombinator.com/item?id=50096142)
+5. [Passkeys are not a trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/) (scotthelme.co.uk) - 431 points by [speckx](https://news.ycombinator.com/user?id=speckx), [606 comments](https://news.ycombinator.com/item?id=50088935)
+6. [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists) (mapwriting.substack.com) - 343 points by [doitLP](https://news.ycombinator.com/user?id=doitLP), [270 comments](https://news.ycombinator.com/item?id=50050553)
+7. [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse) (go.dev) - 186 points by [allddd](https://news.ycombinator.com/user?id=allddd), [30 comments](https://news.ycombinator.com/item?id=50090369)
+8. [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) (csoonline.com) - 815 points by [latexr](https://news.ycombinator.com/user?id=latexr), [437 comments](https://news.ycombinator.com/item?id=50091788)
+9. [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years) (dataforprogress.org) - 160 points by [hubraumhugo](https://news.ycombinator.com/user?id=hubraumhugo), [229 comments](https://news.ycombinator.com/item?id=50089921)
+10. [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18) (nytpu.com) - 65 points by [adunk](https://news.ycombinator.com/user?id=adunk), [12 comments](https://news.ycombinator.com/item?id=50093612)
 
 ## 2026-10-13
 
