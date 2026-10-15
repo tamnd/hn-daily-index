@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (14 days)
+- [October](10/) (15 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-15
+
+*Thursday*
+
+1. [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) (research.meta.ai) - 576 points by [bigwheels](https://news.ycombinator.com/user?id=bigwheels), [326 comments](https://news.ycombinator.com/item?id=50107379)
+2. [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) (viceconsole.fyi) - 193 points by [BrunoBernardino](https://news.ycombinator.com/user?id=BrunoBernardino), [100 comments](https://news.ycombinator.com/item?id=50109715)
+3. [Neural networks are clean](https://already-clean.goodfire.com/) (already-clean.goodfire.com) - 466 points by [themgt](https://news.ycombinator.com/user?id=themgt), [178 comments](https://news.ycombinator.com/item?id=50105647)
+4. [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) (thereallo.dev) - 186 points by [speckx](https://news.ycombinator.com/user?id=speckx), [72 comments](https://news.ycombinator.com/item?id=50108872)
+5. [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) (github.com) - 473 points by [FinalDestiny](https://news.ycombinator.com/user?id=FinalDestiny), [190 comments](https://news.ycombinator.com/item?id=50103338)
+6. [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/) (zachlandes.com) - 262 points by [zlandes86](https://news.ycombinator.com/user?id=zlandes86), [122 comments](https://news.ycombinator.com/item?id=50106023)
+7. [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) (citizenlab.ca) - 364 points by [jcomp](https://news.ycombinator.com/user?id=jcomp), [531 comments](https://news.ycombinator.com/item?id=50101813)
+8. [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3) (krea.ai) - 230 points by [dvrp](https://news.ycombinator.com/user?id=dvrp), [78 comments](https://news.ycombinator.com/item?id=50105648)
+9. [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts) (support.withings.com) - 135 points by [johnbehnke](https://news.ycombinator.com/user?id=johnbehnke), [111 comments](https://news.ycombinator.com/item?id=50109375)
+10. [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4) (eink.com) - 116 points by [Perroboc](https://news.ycombinator.com/user?id=Perroboc), [68 comments](https://news.ycombinator.com/item?id=50108229)
 
 ## 2026-10-14
 
