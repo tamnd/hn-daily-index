@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50112657,
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "score": 1107,
+    "by": "shekhar101",
+    "descendants": 2014,
+    "time": 1792114365
+  },
+  {
+    "rank": 2,
+    "id": 50122800,
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 595,
+    "by": "ahlCVA",
+    "descendants": 249,
+    "time": 1792176959
+  },
+  {
+    "rank": 3,
+    "id": 50123580,
+    "title": "FLUX 3 Image Klein",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "score": 89,
+    "by": "gmays",
+    "descendants": 19,
+    "time": 1792180033
+  },
+  {
+    "rank": 4,
+    "id": 50122431,
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "score": 158,
+    "by": "Anon84",
+    "descendants": 44,
+    "time": 1792175555
+  },
+  {
+    "rank": 5,
+    "id": 50118981,
+    "title": "Waymo in Toronto",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+    "score": 244,
+    "by": "ChrisArchitect",
+    "descendants": 345,
+    "time": 1792161857
+  },
+  {
+    "rank": 6,
+    "id": 50122034,
+    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+    "score": 143,
+    "by": "7402",
+    "descendants": 125,
+    "time": 1792173977
+  },
+  {
+    "rank": 7,
+    "id": 50122878,
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "score": 104,
+    "by": "speckx",
+    "descendants": 29,
+    "time": 1792177277
+  },
+  {
+    "rank": 8,
+    "id": 50083673,
+    "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+    "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+    "score": 58,
+    "by": "giuliomagnifico",
+    "descendants": 4,
+    "time": 1791962472
+  },
+  {
+    "rank": 9,
+    "id": 50122736,
+    "title": "C++26: The New Debugging Header",
+    "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+    "score": 53,
+    "by": "jandeboevrie",
+    "descendants": 5,
+    "time": 1792176759
+  },
+  {
+    "rank": 10,
+    "id": 50120224,
+    "title": "JPEG XL vs. AVIF for web use-cases",
+    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "score": 183,
+    "by": "farlight",
+    "descendants": 142,
+    "time": 1792167122
+  }
+]

@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14) | [Oct 13](#2026-10-13) | [Oct 12](#2026-10-12) | [Oct 11](#2026-10-11) | [Oct 10](#2026-10-10) | [Oct 09](#2026-10-09)
+Recent: [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14) | [Oct 13](#2026-10-13) | [Oct 12](#2026-10-12) | [Oct 11](#2026-10-11) | [Oct 10](#2026-10-10)
 
-### [2026](data/2026/) (288/288 days)
+### [2026](data/2026/) (289/289 days)
 
-[**October**](data/2026/10/) (15/15)
+[**October**](data/2026/10/) (16/16)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
-| [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) |  |  |  |
+| [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2173,6 +2173,21 @@ Recent: [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14) | [Oct 13](#2026-10-13) | 
 </details>
 
 ---
+
+## 2026-10-16
+
+*Friday*
+
+1. [Tesla Roadster](https://www.tesla.com/roadster) (tesla.com) - 1.1k points by [shekhar101](https://news.ycombinator.com/user?id=shekhar101), [2014 comments](https://news.ycombinator.com/item?id=50112657)
+2. [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) (anthropic.com) - 595 points by [ahlCVA](https://news.ycombinator.com/user?id=ahlCVA), [249 comments](https://news.ycombinator.com/item?id=50122800)
+3. [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein) (bfl.ai) - 89 points by [gmays](https://news.ycombinator.com/user?id=gmays), [19 comments](https://news.ycombinator.com/item?id=50123580)
+4. [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) (github.com) - 158 points by [Anon84](https://news.ycombinator.com/user?id=Anon84), [44 comments](https://news.ycombinator.com/item?id=50122431)
+5. [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/) (waymo.com) - 244 points by [ChrisArchitect](https://news.ycombinator.com/user?id=ChrisArchitect), [345 comments](https://news.ycombinator.com/item?id=50118981)
+6. [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear) (arrl.org) - 143 points by [7402](https://news.ycombinator.com/user?id=7402), [125 comments](https://news.ycombinator.com/item?id=50122034)
+7. [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) (alexwang.ai) - 104 points by [speckx](https://news.ycombinator.com/user?id=speckx), [29 comments](https://news.ycombinator.com/item?id=50122878)
+8. [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/) (hub.jhu.edu) - 58 points by [giuliomagnifico](https://news.ycombinator.com/user?id=giuliomagnifico), [4 comments](https://news.ycombinator.com/item?id=50083673)
+9. [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging) (sandordargo.com) - 53 points by [jandeboevrie](https://news.ycombinator.com/user?id=jandeboevrie), [5 comments](https://news.ycombinator.com/item?id=50122736)
+10. [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) (jakearchibald.com) - 183 points by [farlight](https://news.ycombinator.com/user?id=farlight), [142 comments](https://news.ycombinator.com/item?id=50120224)
 
 ## 2026-10-15
 
