@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50126253,
+    "title": "Bleached corals thrive within days when touching healthy neighbour",
+    "url": "https://www.nature.com/articles/d41586-026-03266-x",
+    "score": 268,
+    "by": "alkyon",
+    "descendants": 56,
+    "time": 1792193907
+  },
+  {
+    "rank": 2,
+    "id": 50126312,
+    "title": "Dam removals are bringing fish back across the northeastern United States",
+    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+    "score": 158,
+    "by": "sohkamyung",
+    "descendants": 45,
+    "time": 1792194451
+  },
+  {
+    "rank": 3,
+    "id": 50136198,
+    "title": "Retired Penn professor arrested for blocking Uber Eats robot",
+    "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l",
+    "score": 28,
+    "by": "johnnyApplePRNG",
+    "descendants": 7,
+    "time": 1792279908
+  },
+  {
+    "rank": 4,
+    "id": 50100994,
+    "title": "Furifont, a Japanese font that shows furigana",
+    "url": "https://furifont.antfu.me/",
+    "score": 234,
+    "by": "plaguna",
+    "descendants": 48,
+    "time": 1792054110
+  },
+  {
+    "rank": 5,
+    "id": 50129045,
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "score": 667,
+    "by": "theykk",
+    "descendants": 562,
+    "time": 1792225285
+  },
+  {
+    "rank": 6,
+    "id": 50100366,
+    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+    "url": "https://github.com/antirez/c64-hw-simulator",
+    "score": 128,
+    "by": "antirez",
+    "descendants": 22,
+    "time": 1792048694
+  },
+  {
+    "rank": 7,
+    "id": 50132193,
+    "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+    "url": "https://pele.run/",
+    "score": 194,
+    "by": "dchest",
+    "descendants": 22,
+    "time": 1792252509
+  },
+  {
+    "rank": 8,
+    "id": 50131213,
+    "title": "Making chicken transparent using Dorito dust",
+    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "score": 240,
+    "by": "crescit_eundo",
+    "descendants": 64,
+    "time": 1792245328
+  },
+  {
+    "rank": 9,
+    "id": 50090927,
+    "title": "Types of types: Haskell's Kind system",
+    "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+    "score": 25,
+    "by": "Thom2503",
+    "descendants": 16,
+    "time": 1791997231
+  },
+  {
+    "rank": 10,
+    "id": 50132870,
+    "title": "Gold is now the top U.S. export",
+    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+    "score": 194,
+    "by": "iamnothere",
+    "descendants": 110,
+    "time": 1792256767
+  }
+]

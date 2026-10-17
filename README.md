@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14) | [Oct 13](#2026-10-13) | [Oct 12](#2026-10-12) | [Oct 11](#2026-10-11) | [Oct 10](#2026-10-10)
+Recent: [Oct 17](#2026-10-17) | [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14) | [Oct 13](#2026-10-13) | [Oct 12](#2026-10-12) | [Oct 11](#2026-10-11)
 
-### [2026](data/2026/) (289/289 days)
+### [2026](data/2026/) (290/290 days)
 
-[**October**](data/2026/10/) (16/16)
+[**October**](data/2026/10/) (17/17)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
-| [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) |  |  |
+| [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) | [**17**](#2026-10-17) |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2173,6 +2173,21 @@ Recent: [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14) | 
 </details>
 
 ---
+
+## 2026-10-17
+
+*Saturday*
+
+1. [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) (nature.com) - 268 points by [alkyon](https://news.ycombinator.com/user?id=alkyon), [56 comments](https://news.ycombinator.com/item?id=50126253)
+2. [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/) (smithsonianmag.com) - 158 points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [45 comments](https://news.ycombinator.com/item?id=50126312)
+3. [Retired Penn professor arrested for blocking Uber Eats robot](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l) (phillyvoice.com) - 28 points by [johnnyApplePRNG](https://news.ycombinator.com/user?id=johnnyApplePRNG), [7 comments](https://news.ycombinator.com/item?id=50136198)
+4. [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/) (furifont.antfu.me) - 234 points by [plaguna](https://news.ycombinator.com/user?id=plaguna), [48 comments](https://news.ycombinator.com/item?id=50100994)
+5. [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) (huggingface.co) - 667 points by [theykk](https://news.ycombinator.com/user?id=theykk), [562 comments](https://news.ycombinator.com/item?id=50129045)
+6. [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator) (github.com) - 128 points by [antirez](https://news.ycombinator.com/user?id=antirez), [22 comments](https://news.ycombinator.com/item?id=50100366)
+7. [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) (pele.run) - 194 points by [dchest](https://news.ycombinator.com/user?id=dchest), [22 comments](https://news.ycombinator.com/item?id=50132193)
+8. [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) (chillphysicsenjoyer.substack.com) - 240 points by [crescit_eundo](https://news.ycombinator.com/user?id=crescit_eundo), [64 comments](https://news.ycombinator.com/item?id=50131213)
+9. [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/) (thunk.blog) - 25 points by [Thom2503](https://news.ycombinator.com/user?id=Thom2503), [16 comments](https://news.ycombinator.com/item?id=50090927)
+10. [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export) (numismaticnews.net) - 194 points by [iamnothere](https://news.ycombinator.com/user?id=iamnothere), [110 comments](https://news.ycombinator.com/item?id=50132870)
 
 ## 2026-10-16
 
