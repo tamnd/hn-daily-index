@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50145337,
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "score": 154,
+    "by": "allinonai",
+    "descendants": 91,
+    "time": 1792356494
+  },
+  {
+    "rank": 2,
+    "id": 50142573,
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "score": 278,
+    "by": "tosh",
+    "descendants": 116,
+    "time": 1792341120
+  },
+  {
+    "rank": 3,
+    "id": 50136150,
+    "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+    "score": 114,
+    "by": "mdp2021",
+    "descendants": 57,
+    "time": 1792279595
+  },
+  {
+    "rank": 4,
+    "id": 50144066,
+    "title": "Free Pascal compiler now supports dynamic packages",
+    "url": "https://www.getlazarus.org/dynamic/",
+    "score": 100,
+    "by": "sysrpl",
+    "descendants": 14,
+    "time": 1792349284
+  },
+  {
+    "rank": 5,
+    "id": 50141076,
+    "title": "RepRapMicron",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "score": 321,
+    "by": "RobotToaster",
+    "descendants": 51,
+    "time": 1792331328
+  },
+  {
+    "rank": 6,
+    "id": 50136979,
+    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+    "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+    "score": 100,
+    "by": "gmays",
+    "descendants": 71,
+    "time": 1792287488
+  },
+  {
+    "rank": 7,
+    "id": 50143536,
+    "title": "PalmOS Lemmings",
+    "url": "https://github.com/ardiri/palmos-lemmings",
+    "score": 80,
+    "by": "memalign",
+    "descendants": 22,
+    "time": 1792346219
+  },
+  {
+    "rank": 8,
+    "id": 50145715,
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "score": 25,
+    "by": "zoozla",
+    "descendants": 13,
+    "time": 1792359370
+  },
+  {
+    "rank": 9,
+    "id": 50138531,
+    "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "score": 530,
+    "by": "fagnerbrack",
+    "descendants": 252,
+    "time": 1792306236
+  },
+  {
+    "rank": 10,
+    "id": 50122058,
+    "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+    "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+    "score": 35,
+    "by": "zoobab",
+    "descendants": 9,
+    "time": 1792174064
+  }
+]

@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (17 days)
+- [October](10/) (18 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-18
+
+*Sunday*
+
+1. [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) (arxiv.org) - 154 points by [allinonai](https://news.ycombinator.com/user?id=allinonai), [91 comments](https://news.ycombinator.com/item?id=50145337)
+2. [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) (karrisaarinen.com) - 278 points by [tosh](https://news.ycombinator.com/user?id=tosh), [116 comments](https://news.ycombinator.com/item?id=50142573)
+3. [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) (youtube.com) - 114 points by [mdp2021](https://news.ycombinator.com/user?id=mdp2021), [57 comments](https://news.ycombinator.com/item?id=50136150)
+4. [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/) (getlazarus.org) - 100 points by [sysrpl](https://news.ycombinator.com/user?id=sysrpl), [14 comments](https://news.ycombinator.com/item?id=50144066)
+5. [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) (github.com) - 321 points by [RobotToaster](https://news.ycombinator.com/user?id=RobotToaster), [51 comments](https://news.ycombinator.com/item?id=50141076)
+6. [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky) (sciencealert.com) - 100 points by [gmays](https://news.ycombinator.com/user?id=gmays), [71 comments](https://news.ycombinator.com/item?id=50136979)
+7. [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings) (github.com) - 80 points by [memalign](https://news.ycombinator.com/user?id=memalign), [22 comments](https://news.ycombinator.com/item?id=50143536)
+8. [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp) (github.com) - 25 points by [zoozla](https://news.ycombinator.com/user?id=zoozla), [13 comments](https://news.ycombinator.com/item?id=50145715)
+9. [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) (api-docs.deepseek.com) - 530 points by [fagnerbrack](https://news.ycombinator.com/user?id=fagnerbrack), [252 comments](https://news.ycombinator.com/item?id=50138531)
+10. [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/) (quentinkaiser.be) - 35 points by [zoobab](https://news.ycombinator.com/user?id=zoobab), [9 comments](https://news.ycombinator.com/item?id=50122058)
 
 ## 2026-10-17
 
