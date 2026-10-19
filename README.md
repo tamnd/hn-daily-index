@@ -13,17 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 18](#2026-10-18) | [Oct 17](#2026-10-17) | [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14) | [Oct 13](#2026-10-13) | [Oct 12](#2026-10-12)
+Recent: [Oct 19](#2026-10-19) | [Oct 18](#2026-10-18) | [Oct 17](#2026-10-17) | [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14) | [Oct 13](#2026-10-13)
 
-### [2026](data/2026/) (291/291 days)
+### [2026](data/2026/) (292/292 days)
 
-[**October**](data/2026/10/) (18/18)
+[**October**](data/2026/10/) (19/19)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
 | [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) | [**17**](#2026-10-17) | [**18**](#2026-10-18) |
+| [**19**](#2026-10-19) |  |  |  |  |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2173,6 +2174,21 @@ Recent: [Oct 18](#2026-10-18) | [Oct 17](#2026-10-17) | [Oct 16](#2026-10-16) | 
 </details>
 
 ---
+
+## 2026-10-19
+
+*Monday*
+
+1. [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) (minimax.io) - 346 points by [jtg](https://news.ycombinator.com/user?id=jtg), [151 comments](https://news.ycombinator.com/item?id=50154540)
+2. [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) (youtube.com) - 339 points by [hakonjdjohnsen](https://news.ycombinator.com/user?id=hakonjdjohnsen), [63 comments](https://news.ycombinator.com/item?id=50150089)
+3. [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) (bsd.network) - 62 points by [doener](https://news.ycombinator.com/user?id=doener), [10 comments](https://news.ycombinator.com/item?id=50158138)
+4. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) (marc.info) - 484 points by [iamnothere](https://news.ycombinator.com/user?id=iamnothere), [162 comments](https://news.ycombinator.com/item?id=50152307)
+5. [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0) (youtube.com) - 138 points by [evakhoury](https://news.ycombinator.com/user?id=evakhoury), [54 comments](https://news.ycombinator.com/item?id=50136126)
+6. [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark) (josie.lol) - 152 points by [pfeifferj](https://news.ycombinator.com/user?id=pfeifferj), [68 comments](https://news.ycombinator.com/item?id=50158100)
+7. [One Hash Bloom Filters](https://calabro.io/ohbf) (calabro.io) - 26 points by [jcalabro](https://news.ycombinator.com/user?id=jcalabro), [1 comments](https://news.ycombinator.com/item?id=50157865)
+8. [Android apps running native on macOS](https://github.com/kksimp/Mac.apk) (github.com) - 239 points by [flocked](https://news.ycombinator.com/user?id=flocked), [111 comments](https://news.ycombinator.com/item?id=50154624)
+9. [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) (chriskiehl.com) - 403 points by [goostavos](https://news.ycombinator.com/user?id=goostavos), [381 comments](https://news.ycombinator.com/item?id=50134472)
+10. [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/) (mistral.ai) - 531 points by [groar](https://news.ycombinator.com/user?id=groar), [98 comments](https://news.ycombinator.com/item?id=50150434)
 
 ## 2026-10-18
 

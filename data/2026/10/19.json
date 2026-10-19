@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50154540,
+    "title": "MiniMax M3.1 Flash",
+    "url": "https://www.minimax.io/blog/minimax-m31f",
+    "score": 346,
+    "by": "jtg",
+    "descendants": 151,
+    "time": 1792427949
+  },
+  {
+    "rank": 2,
+    "id": 50150089,
+    "title": "I built a drone with only one motor [video]",
+    "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+    "score": 339,
+    "by": "hakonjdjohnsen",
+    "descendants": 63,
+    "time": 1792400707
+  },
+  {
+    "rank": 3,
+    "id": 50158138,
+    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+    "url": "https://bsd.network/@brynet/117407035545900963",
+    "score": 62,
+    "by": "doener",
+    "descendants": 10,
+    "time": 1792444305
+  },
+  {
+    "rank": 4,
+    "id": 50152307,
+    "title": "Wine ported to OpenBSD",
+    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "score": 484,
+    "by": "iamnothere",
+    "descendants": 162,
+    "time": 1792416934
+  },
+  {
+    "rank": 5,
+    "id": 50136126,
+    "title": "RuneScape Bench: MMOs for Agents [video]",
+    "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+    "score": 138,
+    "by": "evakhoury",
+    "descendants": 54,
+    "time": 1792279445
+  },
+  {
+    "rank": 6,
+    "id": 50158100,
+    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+    "url": "https://josie.lol/blog/linux-rtx-spark",
+    "score": 152,
+    "by": "pfeifferj",
+    "descendants": 68,
+    "time": 1792444098
+  },
+  {
+    "rank": 7,
+    "id": 50157865,
+    "title": "One Hash Bloom Filters",
+    "url": "https://calabro.io/ohbf",
+    "score": 26,
+    "by": "jcalabro",
+    "descendants": 1,
+    "time": 1792443008
+  },
+  {
+    "rank": 8,
+    "id": 50154624,
+    "title": "Android apps running native on macOS",
+    "url": "https://github.com/kksimp/Mac.apk",
+    "score": 239,
+    "by": "flocked",
+    "descendants": 111,
+    "time": 1792428330
+  },
+  {
+    "rank": 9,
+    "id": 50134472,
+    "title": "It's still ok to enjoy programming",
+    "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+    "score": 403,
+    "by": "goostavos",
+    "descendants": 381,
+    "time": 1792266800
+  },
+  {
+    "rank": 10,
+    "id": 50150434,
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "score": 531,
+    "by": "groar",
+    "descendants": 98,
+    "time": 1792403972
+  }
+]
