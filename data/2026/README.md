@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (19 days)
+- [October](10/) (20 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-20
+
+*Tuesday*
+
+1. [SimCity, but with Permits](https://permit.petercai.com/) (permit.petercai.com) - 480 points by [pcai](https://news.ycombinator.com/user?id=pcai), [256 comments](https://news.ycombinator.com/item?id=50170593)
+2. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) (krebsonsecurity.com) - 49 points by [Bender](https://news.ycombinator.com/user?id=Bender), [12 comments](https://news.ycombinator.com/item?id=50173487)
+3. [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) (github.com) - 2.1k points by [ggcr](https://news.ycombinator.com/user?id=ggcr), [818 comments](https://news.ycombinator.com/item?id=50163277)
+4. [Voxtral 3](https://mistral.ai/news/voxtral-3/) (mistral.ai) - 488 points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [133 comments](https://news.ycombinator.com/item?id=50168396)
+5. [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) (thebeliever.net) - 20 points by [gaplong](https://news.ycombinator.com/user?id=gaplong), [6 comments](https://news.ycombinator.com/item?id=50173891)
+6. [What shall I teach my son?](https://stevekrouse.com/ends) (stevekrouse.com) - 219 points by [Curiositry](https://news.ycombinator.com/user?id=Curiositry), [290 comments](https://news.ycombinator.com/item?id=50169707)
+7. [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) (github.com) - 241 points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [57 comments](https://news.ycombinator.com/item?id=50169053)
+8. [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md) (github.com) - 141 points by [dhorthy](https://news.ycombinator.com/user?id=dhorthy), [63 comments](https://news.ycombinator.com/item?id=50108717)
+9. [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/) (blogs.lse.ac.uk) - 81 points by [jruohonen](https://news.ycombinator.com/user?id=jruohonen), [35 comments](https://news.ycombinator.com/item?id=50170917)
+10. [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) (teddysvoronos.com) - 471 points by [evanb](https://news.ycombinator.com/user?id=evanb), [245 comments](https://news.ycombinator.com/item?id=50165208)
 
 ## 2026-10-19
 
