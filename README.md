@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19) | [Oct 18](#2026-10-18) | [Oct 17](#2026-10-17) | [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15) | [Oct 14](#2026-10-14)
+Recent: [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19) | [Oct 18](#2026-10-18) | [Oct 17](#2026-10-17) | [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15)
 
-### [2026](data/2026/) (293/293 days)
+### [2026](data/2026/) (294/295 days)
 
-[**October**](data/2026/10/) (20/20)
+[**October**](data/2026/10/) (21/22)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
 | [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) | [**17**](#2026-10-17) | [**18**](#2026-10-18) |
-| [**19**](#2026-10-19) | [**20**](#2026-10-20) |  |  |  |  |  |
+| [**19**](#2026-10-19) | [**20**](#2026-10-20) | 21 | [**22**](#2026-10-22) |  |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2174,6 +2174,21 @@ Recent: [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19) | [Oct 18](#2026-10-18) | 
 </details>
 
 ---
+
+## 2026-10-22
+
+*Thursday*
+
+1. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) (quad9.net) - 949 points by [farrokhi](https://news.ycombinator.com/user?id=farrokhi), [343 comments](https://news.ycombinator.com/item?id=50195959)
+2. [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) (github.com) - 275 points by [niemandhier](https://news.ycombinator.com/user?id=niemandhier), [141 comments](https://news.ycombinator.com/item?id=50198675)
+3. [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) (techspot.com) - 440 points by [oidar](https://news.ycombinator.com/user?id=oidar), [435 comments](https://news.ycombinator.com/item?id=50194833)
+4. [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) (taler.net) - 213 points by [dewey](https://news.ycombinator.com/user?id=dewey), [78 comments](https://news.ycombinator.com/item?id=50197404)
+5. [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) (anthropic.com) - 13 points by [johnbender](https://news.ycombinator.com/user?id=johnbender), [1 comments](https://news.ycombinator.com/item?id=50202217)
+6. [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) (modelcompare.ai) - 202 points by [rakannimer](https://news.ycombinator.com/user?id=rakannimer), [242 comments](https://news.ycombinator.com/item?id=50197313)
+7. [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) (github.com) - 308 points by [aghuang](https://news.ycombinator.com/user?id=aghuang), [118 comments](https://news.ycombinator.com/item?id=50196718)
+8. [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai) (github.com) - 113 points by [maxilevi](https://news.ycombinator.com/user?id=maxilevi), [28 comments](https://news.ycombinator.com/item?id=50199389)
+9. [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) (pepsipu.com) - 693 points by [ledoge](https://news.ycombinator.com/user?id=ledoge), [242 comments](https://news.ycombinator.com/item?id=50192536)
+10. [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation) (musicalform.substack.com) - 384 points by [gumby](https://news.ycombinator.com/user?id=gumby), [190 comments](https://news.ycombinator.com/item?id=50150163)
 
 ## 2026-10-20
 
