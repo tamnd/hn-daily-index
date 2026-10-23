@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19) | [Oct 18](#2026-10-18) | [Oct 17](#2026-10-17) | [Oct 16](#2026-10-16) | [Oct 15](#2026-10-15)
+Recent: [Oct 23](#2026-10-23) | [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19) | [Oct 18](#2026-10-18) | [Oct 17](#2026-10-17) | [Oct 16](#2026-10-16)
 
-### [2026](data/2026/) (294/295 days)
+### [2026](data/2026/) (295/296 days)
 
-[**October**](data/2026/10/) (21/22)
+[**October**](data/2026/10/) (22/23)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  | [**1**](#2026-10-01) | [**2**](#2026-10-02) | [**3**](#2026-10-03) | [**4**](#2026-10-04) |
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
 | [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) | [**17**](#2026-10-17) | [**18**](#2026-10-18) |
-| [**19**](#2026-10-19) | [**20**](#2026-10-20) | 21 | [**22**](#2026-10-22) |  |  |  |
+| [**19**](#2026-10-19) | [**20**](#2026-10-20) | 21 | [**22**](#2026-10-22) | [**23**](#2026-10-23) |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2174,6 +2174,21 @@ Recent: [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19) | 
 </details>
 
 ---
+
+## 2026-10-23
+
+*Friday*
+
+1. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) (kimi.ai) - 658 points by [Jowsey](https://news.ycombinator.com/user?id=Jowsey), [420 comments](https://news.ycombinator.com/item?id=50212065)
+2. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) (music.apple.com) - 517 points by [frizlab](https://news.ycombinator.com/user?id=frizlab), [177 comments](https://news.ycombinator.com/item?id=50207910)
+3. [CVE Tracker](https://cve.0xosprey.com/) (cve.0xosprey.com) - 72 points by [Group_B](https://news.ycombinator.com/user?id=Group_B), [15 comments](https://news.ycombinator.com/item?id=50215530)
+4. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) (blog.calif.io) - 707 points by [pavel_lishin](https://news.ycombinator.com/user?id=pavel_lishin), [467 comments](https://news.ycombinator.com/item?id=50211474)
+5. [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) (block.xyz) - 186 points by [dsr12](https://news.ycombinator.com/user?id=dsr12), [80 comments](https://news.ycombinator.com/item?id=50213925)
+6. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) (edjefferson.com) - 1.2k points by [sohkamyung](https://news.ycombinator.com/user?id=sohkamyung), [223 comments](https://news.ycombinator.com/item?id=50202285)
+7. [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) (pudding.cool) - 222 points by [xnx](https://news.ycombinator.com/user?id=xnx), [65 comments](https://news.ycombinator.com/item?id=50169499)
+8. [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill) (eff.org) - 292 points by [hn_acker](https://news.ycombinator.com/user?id=hn_acker), [150 comments](https://news.ycombinator.com/item?id=50202114)
+9. [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (theverge.com) - 228 points by [JustSkyfall](https://news.ycombinator.com/user?id=JustSkyfall), [109 comments](https://news.ycombinator.com/item?id=50214218)
+10. [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) (nitter.click) - 4 points by [cowlevel](https://news.ycombinator.com/user?id=cowlevel), [1 comments](https://news.ycombinator.com/item?id=50216791)
 
 ## 2026-10-22
 

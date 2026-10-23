@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50212065,
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "score": 658,
+    "by": "Jowsey",
+    "descendants": 420,
+    "time": 1792774748
+  },
+  {
+    "rank": 2,
+    "id": 50207910,
+    "title": "Apple Music 404 Not Found",
+    "url": "https://music.apple.com/this-url-doesnt-exist",
+    "score": 517,
+    "by": "frizlab",
+    "descendants": 177,
+    "time": 1792758527
+  },
+  {
+    "rank": 3,
+    "id": 50215530,
+    "title": "CVE Tracker",
+    "url": "https://cve.0xosprey.com/",
+    "score": 72,
+    "by": "Group_B",
+    "descendants": 15,
+    "time": 1792790507
+  },
+  {
+    "rank": 4,
+    "id": 50211474,
+    "title": "Today, we hacked what we'd set out to hack: the iPhone",
+    "url": "https://blog.calif.io/p/iphone",
+    "score": 707,
+    "by": "pavel_lishin",
+    "descendants": 467,
+    "time": 1792772510
+  },
+  {
+    "rank": 5,
+    "id": 50213925,
+    "title": "Dessa: the most authentic full-duplex speech model ever built",
+    "url": "https://block.xyz/dessa",
+    "score": 186,
+    "by": "dsr12",
+    "descendants": 80,
+    "time": 1792782594
+  },
+  {
+    "rank": 6,
+    "id": 50202285,
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "url": "https://edjefferson.com/localwiki/",
+    "score": 1199,
+    "by": "sohkamyung",
+    "descendants": 223,
+    "time": 1792710078
+  },
+  {
+    "rank": 7,
+    "id": 50169499,
+    "title": "The Real Kevin Bacon",
+    "url": "https://pudding.cool/2026/10/kevin-bacon/",
+    "score": 222,
+    "by": "xnx",
+    "descendants": 65,
+    "time": 1792516205
+  },
+  {
+    "rank": 8,
+    "id": 50202114,
+    "title": "Canadians are running out of time to oppose Bill C-22",
+    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+    "score": 292,
+    "by": "hn_acker",
+    "descendants": 150,
+    "time": 1792708999
+  },
+  {
+    "rank": 9,
+    "id": 50214218,
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "score": 228,
+    "by": "JustSkyfall",
+    "descendants": 109,
+    "time": 1792784055
+  },
+  {
+    "rank": 10,
+    "id": 50216791,
+    "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+    "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+    "score": 4,
+    "by": "cowlevel",
+    "descendants": 1,
+    "time": 1792798217
+  }
+]
