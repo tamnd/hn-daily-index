@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in October 2026.
 
+- [2026-10-24 (Saturday)](#2026-10-24)
 - [2026-10-23 (Friday)](#2026-10-23)
 - [2026-10-22 (Thursday)](#2026-10-22)
 - [2026-10-20 (Tuesday)](#2026-10-20)
@@ -26,6 +27,21 @@ Top 10 Hacker News stories for each day in October 2026.
 - [2026-10-01 (Thursday)](#2026-10-01)
 
 ---
+
+## 2026-10-24
+
+*Saturday*
+
+1. [We should be more ambitious with the software we build](https://danluu.com/ambitious/) (danluu.com) - 70 points by [ltratt](https://news.ycombinator.com/user?id=ltratt), [41 comments](https://news.ycombinator.com/item?id=50225695)
+2. [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) (stealmybitcoin.com) - 352 points by [cloudlandsdev](https://news.ycombinator.com/user?id=cloudlandsdev), [198 comments](https://news.ycombinator.com/item?id=50224916)
+3. [The Goose Programming Language](https://aardappel.github.io/goose/) (aardappel.github.io) - 181 points by [bobbydigitales](https://news.ycombinator.com/user?id=bobbydigitales), [138 comments](https://news.ycombinator.com/item?id=50224100)
+4. [America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) (apricitas.io) - 17 points by [gnabgib](https://news.ycombinator.com/user?id=gnabgib), [9 comments](https://news.ycombinator.com/item?id=50226419)
+5. [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) (blog.roku.com) - 241 points by [cxr](https://news.ycombinator.com/user?id=cxr), [159 comments](https://news.ycombinator.com/item?id=50222622)
+6. [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) (missileer.watch) - 97 points by [liotier](https://news.ycombinator.com/user?id=liotier), [63 comments](https://news.ycombinator.com/item?id=50224422)
+7. [Small Programs and Languages](https://ratfactor.com/cards/pl-small) (ratfactor.com) - 17 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [0 comments](https://news.ycombinator.com/item?id=50225674)
+8. [SpeedCrunch 1.1](https://www.speedcrunch.org/) (speedcrunch.org) - 53 points by [LordNibbler](https://news.ycombinator.com/user?id=LordNibbler), [8 comments](https://news.ycombinator.com/item?id=50224210)
+9. [Full Disk Encryption on Fedora with TPM2](https://www.apalrd.net/posts/2026/ent_luks/) (apalrd.net) - 22 points by [speckx](https://news.ycombinator.com/user?id=speckx), [28 comments](https://news.ycombinator.com/item?id=50194602)
+10. [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/) (rootkitlabs.com) - 13 points by [machinehum](https://news.ycombinator.com/user?id=machinehum), [0 comments](https://news.ycombinator.com/item?id=50172432)
 
 ## 2026-10-23
 
