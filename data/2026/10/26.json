@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50234474,
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "score": 334,
+    "by": "jumploops",
+    "descendants": 59,
+    "time": 1792952634
+  },
+  {
+    "rank": 2,
+    "id": 50197108,
+    "title": "Overgrown, when plants invade your abandoned tabs",
+    "url": "https://charliegerard.dev/blog/overgrown-extension/",
+    "score": 109,
+    "by": "speckx",
+    "descendants": 30,
+    "time": 1792684341
+  },
+  {
+    "rank": 3,
+    "id": 50237078,
+    "title": "F-Zero X on Nintendo 3DS",
+    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+    "score": 11,
+    "by": "bpierre",
+    "descendants": 2,
+    "time": 1792970850
+  },
+  {
+    "rank": 4,
+    "id": 50235738,
+    "title": "What goes into making an animated film?",
+    "url": "https://www.disneyanimation.com/process/",
+    "score": 73,
+    "by": "embedding-shape",
+    "descendants": 31,
+    "time": 1792960029
+  },
+  {
+    "rank": 5,
+    "id": 50235017,
+    "title": "Why I Am a Programmer",
+    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+    "score": 107,
+    "by": "jruohonen",
+    "descendants": 33,
+    "time": 1792955491
+  },
+  {
+    "rank": 6,
+    "id": 50235780,
+    "title": "The State of Context Engineering",
+    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+    "score": 59,
+    "by": "pchristensen",
+    "descendants": 13,
+    "time": 1792960351
+  },
+  {
+    "rank": 7,
+    "id": 50233779,
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "score": 394,
+    "by": "sungam",
+    "descendants": 189,
+    "time": 1792948538
+  },
+  {
+    "rank": 8,
+    "id": 50236081,
+    "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+    "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+    "score": 189,
+    "by": "consumer451",
+    "descendants": 87,
+    "time": 1792962508
+  },
+  {
+    "rank": 9,
+    "id": 50233929,
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "url": "https://talkweb.eu/openweb/4558/",
+    "score": 369,
+    "by": "Tomte",
+    "descendants": 180,
+    "time": 1792949455
+  },
+  {
+    "rank": 10,
+    "id": 50236102,
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "score": 88,
+    "by": "minimaxir",
+    "descendants": 113,
+    "time": 1792962691
+  }
+]

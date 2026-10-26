@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in October 2026.
 
+- [2026-10-26 (Monday)](#2026-10-26)
 - [2026-10-24 (Saturday)](#2026-10-24)
 - [2026-10-23 (Friday)](#2026-10-23)
 - [2026-10-22 (Thursday)](#2026-10-22)
@@ -27,6 +28,21 @@ Top 10 Hacker News stories for each day in October 2026.
 - [2026-10-01 (Thursday)](#2026-10-01)
 
 ---
+
+## 2026-10-26
+
+*Monday*
+
+1. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) (imaginationlibrary.com) - 334 points by [jumploops](https://news.ycombinator.com/user?id=jumploops), [59 comments](https://news.ycombinator.com/item?id=50234474)
+2. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) (charliegerard.dev) - 109 points by [speckx](https://news.ycombinator.com/user?id=speckx), [30 comments](https://news.ycombinator.com/item?id=50197108)
+3. [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html) (hypnotize.works) - 11 points by [bpierre](https://news.ycombinator.com/user?id=bpierre), [2 comments](https://news.ycombinator.com/item?id=50237078)
+4. [What goes into making an animated film?](https://www.disneyanimation.com/process/) (disneyanimation.com) - 73 points by [embedding-shape](https://news.ycombinator.com/user?id=embedding-shape), [31 comments](https://news.ycombinator.com/item?id=50235738)
+5. [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) (alfie.wtf) - 107 points by [jruohonen](https://news.ycombinator.com/user?id=jruohonen), [33 comments](https://news.ycombinator.com/item?id=50235017)
+6. [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html) (dbreunig.com) - 59 points by [pchristensen](https://news.ycombinator.com/user?id=pchristensen), [13 comments](https://news.ycombinator.com/item?id=50235780)
+7. [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) (lynchlab.net) - 394 points by [sungam](https://news.ycombinator.com/user?id=sungam), [189 comments](https://news.ycombinator.com/item?id=50233779)
+8. [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/) (reuters.com) - 189 points by [consumer451](https://news.ycombinator.com/user?id=consumer451), [87 comments](https://news.ycombinator.com/item?id=50236081)
+9. [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) (talkweb.eu) - 369 points by [Tomte](https://news.ycombinator.com/user?id=Tomte), [180 comments](https://news.ycombinator.com/item?id=50233929)
+10. [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) (minimaxir.com) - 88 points by [minimaxir](https://news.ycombinator.com/user?id=minimaxir), [113 comments](https://news.ycombinator.com/item?id=50236102)
 
 ## 2026-10-24
 
