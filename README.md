@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19) | [Oct 18](#2026-10-18)
+Recent: [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19)
 
-### [2026](data/2026/) (297/299 days)
+### [2026](data/2026/) (298/300 days)
 
-[**October**](data/2026/10/) (24/26)
+[**October**](data/2026/10/) (25/27)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | 
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
 | [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) | [**17**](#2026-10-17) | [**18**](#2026-10-18) |
 | [**19**](#2026-10-19) | [**20**](#2026-10-20) | 21 | [**22**](#2026-10-22) | [**23**](#2026-10-23) | [**24**](#2026-10-24) | 25 |
-| [**26**](#2026-10-26) |  |  |  |  |  |  |
+| [**26**](#2026-10-26) | [**27**](#2026-10-27) |  |  |  |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2175,6 +2175,21 @@ Recent: [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | 
 </details>
 
 ---
+
+## 2026-10-27
+
+*Tuesday*
+
+1. [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/) (openai.com) - 254 points by [jonluca](https://news.ycombinator.com/user?id=jonluca), [111 comments](https://news.ycombinator.com/item?id=50251344)
+2. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) (github.com) - 157 points by [vok](https://news.ycombinator.com/user?id=vok), [68 comments](https://news.ycombinator.com/item?id=50251661)
+3. [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068) (nautil.us) - 45 points by [prmph](https://news.ycombinator.com/user?id=prmph), [23 comments](https://news.ycombinator.com/item?id=50252457)
+4. [CorridorKey 2.0](https://corridorkey.com/) (corridorkey.com) - 171 points by [ravenical](https://news.ycombinator.com/user?id=ravenical), [53 comments](https://news.ycombinator.com/item?id=50251127)
+5. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) (magazine.sebastianraschka.com) - 526 points by [sgiannopoulos](https://news.ycombinator.com/user?id=sgiannopoulos), [79 comments](https://news.ycombinator.com/item?id=50245138)
+6. [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) (blog.cloudflare.com) - 42 points by [wondersky](https://news.ycombinator.com/user?id=wondersky), [8 comments](https://news.ycombinator.com/item?id=50252159)
+7. [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) (github.com) - 178 points by [adamnemecek](https://news.ycombinator.com/user?id=adamnemecek), [134 comments](https://news.ycombinator.com/item?id=50248371)
+8. [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219) (twitter.com) - 33 points by [MrBuddyCasino](https://news.ycombinator.com/user?id=MrBuddyCasino), [8 comments](https://news.ycombinator.com/item?id=50204697)
+9. [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) (css-tricks.com) - 367 points by [edent](https://news.ycombinator.com/user?id=edent), [86 comments](https://news.ycombinator.com/item?id=50245831)
+10. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) (blog.enlyth.com) - 253 points by [enlyth](https://news.ycombinator.com/user?id=enlyth), [157 comments](https://news.ycombinator.com/item?id=50248055)
 
 ## 2026-10-26
 

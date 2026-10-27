@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50251344,
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "score": 254,
+    "by": "jonluca",
+    "descendants": 111,
+    "time": 1793050528
+  },
+  {
+    "rank": 2,
+    "id": 50251661,
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "score": 157,
+    "by": "vok",
+    "descendants": 68,
+    "time": 1793051955
+  },
+  {
+    "rank": 3,
+    "id": 50252457,
+    "title": "Just Imagining a Workout Can Make You Stronger",
+    "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+    "score": 45,
+    "by": "prmph",
+    "descendants": 23,
+    "time": 1793056107
+  },
+  {
+    "rank": 4,
+    "id": 50251127,
+    "title": "CorridorKey 2.0",
+    "url": "https://corridorkey.com/",
+    "score": 171,
+    "by": "ravenical",
+    "descendants": 53,
+    "time": 1793049485
+  },
+  {
+    "rank": 5,
+    "id": 50245138,
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "score": 526,
+    "by": "sgiannopoulos",
+    "descendants": 79,
+    "time": 1793027519
+  },
+  {
+    "rank": 6,
+    "id": 50252159,
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "score": 42,
+    "by": "wondersky",
+    "descendants": 8,
+    "time": 1793054508
+  },
+  {
+    "rank": 7,
+    "id": 50248371,
+    "title": "Type Server Protocol",
+    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "score": 178,
+    "by": "adamnemecek",
+    "descendants": 134,
+    "time": 1793038489
+  },
+  {
+    "rank": 8,
+    "id": 50204697,
+    "title": "A Printer Printing onto Paper",
+    "url": "https://twitter.com/macrofying/status/2112904628509528219",
+    "score": 33,
+    "by": "MrBuddyCasino",
+    "descendants": 8,
+    "time": 1792731690
+  },
+  {
+    "rank": 9,
+    "id": 50245831,
+    "title": "CSS-Tricks has a new owner",
+    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "score": 367,
+    "by": "edent",
+    "descendants": 86,
+    "time": 1793029883
+  },
+  {
+    "rank": 10,
+    "id": 50248055,
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "score": 253,
+    "by": "enlyth",
+    "descendants": 157,
+    "time": 1793037415
+  }
+]
