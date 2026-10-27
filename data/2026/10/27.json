@@ -1,102 +1,102 @@
 [
   {
     "rank": 1,
-    "id": 50251344,
-    "title": "Working with academic communities to build scientific understanding",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "score": 254,
-    "by": "jonluca",
-    "descendants": 111,
-    "time": 1793050528
+    "id": 50261319,
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "score": 673,
+    "by": "acossta",
+    "descendants": 410,
+    "time": 1793117161
   },
   {
     "rank": 2,
-    "id": 50251661,
-    "title": "The Exponential Time Hypothesis Is False [pdf]",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "score": 157,
-    "by": "vok",
-    "descendants": 68,
-    "time": 1793051955
+    "id": 50261998,
+    "title": "Ghostty 1.4",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "score": 674,
+    "by": "deaux",
+    "descendants": 209,
+    "time": 1793119882
   },
   {
     "rank": 3,
-    "id": 50252457,
-    "title": "Just Imagining a Workout Can Make You Stronger",
-    "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
-    "score": 45,
-    "by": "prmph",
-    "descendants": 23,
-    "time": 1793056107
+    "id": 50264857,
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "score": 165,
+    "by": "figmert",
+    "descendants": 95,
+    "time": 1793130921
   },
   {
     "rank": 4,
-    "id": 50251127,
-    "title": "CorridorKey 2.0",
-    "url": "https://corridorkey.com/",
-    "score": 171,
-    "by": "ravenical",
-    "descendants": 53,
-    "time": 1793049485
+    "id": 50265609,
+    "title": "Early progress on accelerating drug development with Claude",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "score": 89,
+    "by": "dataking",
+    "descendants": 81,
+    "time": 1793134242
   },
   {
     "rank": 5,
-    "id": 50245138,
-    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "score": 526,
-    "by": "sgiannopoulos",
-    "descendants": 79,
-    "time": 1793027519
+    "id": 50264853,
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "score": 145,
+    "by": "Luc",
+    "descendants": 89,
+    "time": 1793130906
   },
   {
     "rank": 6,
-    "id": 50252159,
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "score": 42,
-    "by": "wondersky",
-    "descendants": 8,
-    "time": 1793054508
+    "id": 50265594,
+    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+    "score": 76,
+    "by": "sthlmb",
+    "descendants": 22,
+    "time": 1793134129
   },
   {
     "rank": 7,
-    "id": 50248371,
-    "title": "Type Server Protocol",
-    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "score": 178,
-    "by": "adamnemecek",
-    "descendants": 134,
-    "time": 1793038489
+    "id": 50266780,
+    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+    "score": 21,
+    "by": "tsxng",
+    "descendants": 25,
+    "time": 1793140275
   },
   {
     "rank": 8,
-    "id": 50204697,
-    "title": "A Printer Printing onto Paper",
-    "url": "https://twitter.com/macrofying/status/2112904628509528219",
-    "score": 33,
-    "by": "MrBuddyCasino",
-    "descendants": 8,
-    "time": 1792731690
+    "id": 50261352,
+    "title": "New 14\u2011inch MacBook Pro with M6",
+    "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "score": 262,
+    "by": "beex",
+    "descendants": 312,
+    "time": 1793117312
   },
   {
     "rank": 9,
-    "id": 50245831,
-    "title": "CSS-Tricks has a new owner",
-    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-    "score": 367,
-    "by": "edent",
-    "descendants": 86,
-    "time": 1793029883
+    "id": 50265128,
+    "title": "Four Months of Zig",
+    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+    "score": 57,
+    "by": "ibobev",
+    "descendants": 30,
+    "time": 1793132007
   },
   {
     "rank": 10,
-    "id": 50248055,
-    "title": "Oldest GUI application that still runs on Windows 11",
-    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "score": 253,
-    "by": "enlyth",
-    "descendants": 157,
-    "time": 1793037415
+    "id": 50224079,
+    "title": "An examination of lost firefly species of the US and Canada",
+    "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+    "score": 70,
+    "by": "bryanrasmussen",
+    "descendants": 10,
+    "time": 1792868682
   }
 ]
