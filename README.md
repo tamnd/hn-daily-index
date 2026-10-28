@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20) | [Oct 19](#2026-10-19)
+Recent: [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20)
 
-### [2026](data/2026/) (298/300 days)
+### [2026](data/2026/) (299/301 days)
 
-[**October**](data/2026/10/) (25/27)
+[**October**](data/2026/10/) (26/28)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | 
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
 | [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) | [**17**](#2026-10-17) | [**18**](#2026-10-18) |
 | [**19**](#2026-10-19) | [**20**](#2026-10-20) | 21 | [**22**](#2026-10-22) | [**23**](#2026-10-23) | [**24**](#2026-10-24) | 25 |
-| [**26**](#2026-10-26) | [**27**](#2026-10-27) |  |  |  |  |  |
+| [**26**](#2026-10-26) | [**27**](#2026-10-27) | [**28**](#2026-10-28) |  |  |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2175,6 +2175,21 @@ Recent: [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | 
 </details>
 
 ---
+
+## 2026-10-28
+
+*Wednesday*
+
+1. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) (nullpt.rs) - 727 points by [hazebooth](https://news.ycombinator.com/user?id=hazebooth), [166 comments](https://news.ycombinator.com/item?id=50276998)
+2. [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) (carmelitegothic.com) - 386 points by [bschne](https://news.ycombinator.com/user?id=bschne), [112 comments](https://news.ycombinator.com/item?id=50274409)
+3. [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) (blog.google) - 760 points by [acossta](https://news.ycombinator.com/user?id=acossta), [625 comments](https://news.ycombinator.com/item?id=50276792)
+4. [Why Birds Can Fly over Mount Everest](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864) (lede-v2.nautil.us) - 37 points by [andsoitis](https://news.ycombinator.com/user?id=andsoitis), [8 comments](https://news.ycombinator.com/item?id=50220975)
+5. [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key) (v12.sh) - 61 points by [ledoge](https://news.ycombinator.com/user?id=ledoge), [31 comments](https://news.ycombinator.com/item?id=50280722)
+6. [A Health Update](https://furbo.org/2026/10/28/a-health-update/) (furbo.org) - 42 points by [frizlab](https://news.ycombinator.com/user?id=frizlab), [3 comments](https://news.ycombinator.com/item?id=50280974)
+7. [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/) (formlabs.com) - 90 points by [mhb](https://news.ycombinator.com/user?id=mhb), [69 comments](https://news.ycombinator.com/item?id=50281044)
+8. [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) (alpinelinux.org) - 3 points by [sashk](https://news.ycombinator.com/user?id=sashk), [0 comments](https://news.ycombinator.com/item?id=50282544)
+9. [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/) (apple.com) - 475 points by [etothet](https://news.ycombinator.com/user?id=etothet), [820 comments](https://news.ycombinator.com/item?id=50276940)
+10. [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax) (surgehq.ai) - 189 points by [landonxi](https://news.ycombinator.com/user?id=landonxi), [112 comments](https://news.ycombinator.com/item?id=50275626)
 
 ## 2026-10-27
 
