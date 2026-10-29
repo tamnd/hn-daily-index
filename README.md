@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | [Oct 22](#2026-10-22) | [Oct 20](#2026-10-20)
+Recent: [Oct 29](#2026-10-29) | [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | [Oct 22](#2026-10-22)
 
-### [2026](data/2026/) (299/301 days)
+### [2026](data/2026/) (300/302 days)
 
-[**October**](data/2026/10/) (26/28)
+[**October**](data/2026/10/) (27/29)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | 
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
 | [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) | [**17**](#2026-10-17) | [**18**](#2026-10-18) |
 | [**19**](#2026-10-19) | [**20**](#2026-10-20) | 21 | [**22**](#2026-10-22) | [**23**](#2026-10-23) | [**24**](#2026-10-24) | 25 |
-| [**26**](#2026-10-26) | [**27**](#2026-10-27) | [**28**](#2026-10-28) |  |  |  |  |
+| [**26**](#2026-10-26) | [**27**](#2026-10-27) | [**28**](#2026-10-28) | [**29**](#2026-10-29) |  |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2175,6 +2175,21 @@ Recent: [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | 
 </details>
 
 ---
+
+## 2026-10-29
+
+*Thursday*
+
+1. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) (arkm.com) - 526 points by [Tiberium](https://news.ycombinator.com/user?id=Tiberium), [289 comments](https://news.ycombinator.com/item?id=50296470)
+2. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) (mistral.ai) - 1.1k points by [kuberwastaken](https://news.ycombinator.com/user?id=kuberwastaken), [324 comments](https://news.ycombinator.com/item?id=50289418)
+3. [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html) (labs.ycombinator.com) - 99 points by [sandslash](https://news.ycombinator.com/user?id=sandslash), [35 comments](https://news.ycombinator.com/item?id=50296486)
+4. [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/) (claremontreviewofbooks.com) - 23 points by [beatstop](https://news.ycombinator.com/user?id=beatstop), [4 comments](https://news.ycombinator.com/item?id=50296947)
+5. [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/) (journal.animationstudies.org) - 22 points by [simonebrunozzi](https://news.ycombinator.com/user?id=simonebrunozzi), [1 comments](https://news.ycombinator.com/item?id=50297089)
+6. [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer) (github.com) - 80 points by [airinei](https://news.ycombinator.com/user?id=airinei), [7 comments](https://news.ycombinator.com/item?id=50295450)
+7. [El Niño Is Flooding California's Coasts with the Highest Tides to Come](https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574) (gizmodo.com) - 35 points by [gumby](https://news.ycombinator.com/user?id=gumby), [6 comments](https://news.ycombinator.com/item?id=50296585)
+8. [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/) (sidbala.com) - 301 points by [ea016](https://news.ycombinator.com/user?id=ea016), [118 comments](https://news.ycombinator.com/item?id=50291054)
+9. [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html) (nytimes.com) - 2.2k points by [j4mie](https://news.ycombinator.com/user?id=j4mie), [430 comments](https://news.ycombinator.com/item?id=50294702)
+10. [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer) (github.com) - 7 points by [falperc](https://news.ycombinator.com/user?id=falperc), [1 comments](https://news.ycombinator.com/item?id=50297697)
 
 ## 2026-10-28
 

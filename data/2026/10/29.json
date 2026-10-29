@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50296470,
+    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "score": 526,
+    "by": "Tiberium",
+    "descendants": 289,
+    "time": 1793309939
+  },
+  {
+    "rank": 2,
+    "id": 50289418,
+    "title": "We're releasing the weights of Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "score": 1136,
+    "by": "kuberwastaken",
+    "descendants": 324,
+    "time": 1793283201
+  },
+  {
+    "rank": 3,
+    "id": 50296486,
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "score": 99,
+    "by": "sandslash",
+    "descendants": 35,
+    "time": 1793310028
+  },
+  {
+    "rank": 4,
+    "id": 50296947,
+    "title": "The Great American Rascal: Tom Sawyer at 150",
+    "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+    "score": 23,
+    "by": "beatstop",
+    "descendants": 4,
+    "time": 1793312063
+  },
+  {
+    "rank": 5,
+    "id": 50297089,
+    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+    "url": "https://journal.animationstudies.org/article/id/66/",
+    "score": 22,
+    "by": "simonebrunozzi",
+    "descendants": 1,
+    "time": 1793312798
+  },
+  {
+    "rank": 6,
+    "id": 50295450,
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "url": "https://github.com/SheepSeb/tinyworldformer",
+    "score": 80,
+    "by": "airinei",
+    "descendants": 7,
+    "time": 1793305948
+  },
+  {
+    "rank": 7,
+    "id": 50296585,
+    "title": "El Ni\u00f1o Is Flooding California's Coasts with the Highest Tides to Come",
+    "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+    "score": 35,
+    "by": "gumby",
+    "descendants": 6,
+    "time": 1793310515
+  },
+  {
+    "rank": 8,
+    "id": 50291054,
+    "title": "H.264 Is Magic (2016)",
+    "url": "https://sidbala.com/h-264-is-magic/",
+    "score": 301,
+    "by": "ea016",
+    "descendants": 118,
+    "time": 1793289183
+  },
+  {
+    "rank": 9,
+    "id": 50294702,
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "score": 2156,
+    "by": "j4mie",
+    "descendants": 430,
+    "time": 1793302899
+  },
+  {
+    "rank": 10,
+    "id": 50297697,
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "score": 7,
+    "by": "falperc",
+    "descendants": 1,
+    "time": 1793316346
+  }
+]
