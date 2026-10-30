@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Oct 29](#2026-10-29) | [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23) | [Oct 22](#2026-10-22)
+Recent: [Oct 30](#2026-10-30) | [Oct 29](#2026-10-29) | [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | [Oct 26](#2026-10-26) | [Oct 24](#2026-10-24) | [Oct 23](#2026-10-23)
 
-### [2026](data/2026/) (300/302 days)
+### [2026](data/2026/) (301/303 days)
 
-[**October**](data/2026/10/) (27/29)
+[**October**](data/2026/10/) (28/30)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Oct 29](#2026-10-29) | [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | 
 | [**5**](#2026-10-05) | [**6**](#2026-10-06) | [**7**](#2026-10-07) | [**8**](#2026-10-08) | [**9**](#2026-10-09) | [**10**](#2026-10-10) | [**11**](#2026-10-11) |
 | [**12**](#2026-10-12) | [**13**](#2026-10-13) | [**14**](#2026-10-14) | [**15**](#2026-10-15) | [**16**](#2026-10-16) | [**17**](#2026-10-17) | [**18**](#2026-10-18) |
 | [**19**](#2026-10-19) | [**20**](#2026-10-20) | 21 | [**22**](#2026-10-22) | [**23**](#2026-10-23) | [**24**](#2026-10-24) | 25 |
-| [**26**](#2026-10-26) | [**27**](#2026-10-27) | [**28**](#2026-10-28) | [**29**](#2026-10-29) |  |  |  |
+| [**26**](#2026-10-26) | [**27**](#2026-10-27) | [**28**](#2026-10-28) | [**29**](#2026-10-29) | [**30**](#2026-10-30) |  |  |
 
 [**September**](data/2026/09/) (30/30)
 
@@ -2175,6 +2175,21 @@ Recent: [Oct 29](#2026-10-29) | [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27) | 
 </details>
 
 ---
+
+## 2026-10-30
+
+*Friday*
+
+1. [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) (virtuallyfun.com) - 216 points by [DHowett](https://news.ycombinator.com/user?id=DHowett), [55 comments](https://news.ycombinator.com/item?id=50307190)
+2. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) (phorion.io) - 732 points by [_chall](https://news.ycombinator.com/user?id=_chall), [458 comments](https://news.ycombinator.com/item?id=50300683)
+3. [Northflank Breached](https://status.northflank.com) (status.northflank.com) - 340 points by [js4ever](https://news.ycombinator.com/user?id=js4ever), [258 comments](https://news.ycombinator.com/item?id=50305025)
+4. [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) (github.com) - 26 points by [costco](https://news.ycombinator.com/user?id=costco), [4 comments](https://news.ycombinator.com/item?id=50277379)
+5. [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris) (blue-continuum.com) - 66 points by [dnetesn](https://news.ycombinator.com/user?id=dnetesn), [13 comments](https://news.ycombinator.com/item?id=50309314)
+6. [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html) (blog.persistent.info) - 87 points by [ecliptik](https://news.ycombinator.com/user?id=ecliptik), [25 comments](https://news.ycombinator.com/item?id=50309029)
+7. [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) (techpolicy.press) - 168 points by [raybb](https://news.ycombinator.com/user?id=raybb), [72 comments](https://news.ycombinator.com/item?id=50263837)
+8. [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) (firezone.dev) - 45 points by [wh33zle](https://news.ycombinator.com/user?id=wh33zle), [4 comments](https://news.ycombinator.com/item?id=50310398)
+9. [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) (github.com) - 171 points by [dbreunig](https://news.ycombinator.com/user?id=dbreunig), [105 comments](https://news.ycombinator.com/item?id=50306442)
+10. [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921) (sciencenorway.no) - 69 points by [dxs](https://news.ycombinator.com/user?id=dxs), [20 comments](https://news.ycombinator.com/item?id=50309266)
 
 ## 2026-10-29
 

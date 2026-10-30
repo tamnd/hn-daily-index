@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (27 days)
+- [October](10/) (28 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-30
+
+*Friday*
+
+1. [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) (virtuallyfun.com) - 216 points by [DHowett](https://news.ycombinator.com/user?id=DHowett), [55 comments](https://news.ycombinator.com/item?id=50307190)
+2. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) (phorion.io) - 732 points by [_chall](https://news.ycombinator.com/user?id=_chall), [458 comments](https://news.ycombinator.com/item?id=50300683)
+3. [Northflank Breached](https://status.northflank.com) (status.northflank.com) - 340 points by [js4ever](https://news.ycombinator.com/user?id=js4ever), [258 comments](https://news.ycombinator.com/item?id=50305025)
+4. [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) (github.com) - 26 points by [costco](https://news.ycombinator.com/user?id=costco), [4 comments](https://news.ycombinator.com/item?id=50277379)
+5. [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris) (blue-continuum.com) - 66 points by [dnetesn](https://news.ycombinator.com/user?id=dnetesn), [13 comments](https://news.ycombinator.com/item?id=50309314)
+6. [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html) (blog.persistent.info) - 87 points by [ecliptik](https://news.ycombinator.com/user?id=ecliptik), [25 comments](https://news.ycombinator.com/item?id=50309029)
+7. [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) (techpolicy.press) - 168 points by [raybb](https://news.ycombinator.com/user?id=raybb), [72 comments](https://news.ycombinator.com/item?id=50263837)
+8. [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) (firezone.dev) - 45 points by [wh33zle](https://news.ycombinator.com/user?id=wh33zle), [4 comments](https://news.ycombinator.com/item?id=50310398)
+9. [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) (github.com) - 171 points by [dbreunig](https://news.ycombinator.com/user?id=dbreunig), [105 comments](https://news.ycombinator.com/item?id=50306442)
+10. [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921) (sciencenorway.no) - 69 points by [dxs](https://news.ycombinator.com/user?id=dxs), [20 comments](https://news.ycombinator.com/item?id=50309266)
 
 ## 2026-10-29
 
