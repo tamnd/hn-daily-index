@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [October](10/) (28 days)
+- [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
 - [July](07/) (31 days)
@@ -14,6 +14,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-10-31
+
+*Saturday*
+
+1. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) (karpathy.bearblog.dev) - 528 points by [karpathy](https://news.ycombinator.com/user?id=karpathy), [194 comments](https://news.ycombinator.com/item?id=50319510)
+2. [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) (atlasum.net) - 273 points by [oger](https://news.ycombinator.com/user?id=oger), [133 comments](https://news.ycombinator.com/item?id=50319143)
+3. [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) (smithsonianmag.com) - 49 points by [ecares](https://news.ycombinator.com/user?id=ecares), [12 comments](https://news.ycombinator.com/item?id=50320963)
+4. [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles) (spectrum.ieee.org) - 13 points by [dverlaeckt80](https://news.ycombinator.com/user?id=dverlaeckt80), [2 comments](https://news.ycombinator.com/item?id=50321130)
+5. [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/) (pivotlake.io) - 103 points by [ntur1337](https://news.ycombinator.com/user?id=ntur1337), [33 comments](https://news.ycombinator.com/item?id=50318720)
+6. [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood) (learnfromx.com) - 50 points by [lakesare](https://news.ycombinator.com/user?id=lakesare), [33 comments](https://news.ycombinator.com/item?id=50320028)
+7. [First response from the Project Suncatcher prototype satellite](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/) (blog.google) - 11 points by [praccu](https://news.ycombinator.com/user?id=praccu), [3 comments](https://news.ycombinator.com/item?id=50313051)
+8. [Surviving "The Graduate"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate) (newyorker.com) - 41 points by [samizdis](https://news.ycombinator.com/user?id=samizdis), [10 comments](https://news.ycombinator.com/item?id=50319563)
+9. [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html) (daemonology.net) - 76 points by [gslin](https://news.ycombinator.com/user?id=gslin), [26 comments](https://news.ycombinator.com/item?id=50319061)
+10. [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394) (piefed.world) - 292 points by [DeepLogin](https://news.ycombinator.com/user?id=DeepLogin), [172 comments](https://news.ycombinator.com/item?id=50314666)
 
 ## 2026-10-30
 

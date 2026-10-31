@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 528,
+    "by": "karpathy",
+    "descendants": 194,
+    "time": 1793476613
+  },
+  {
+    "rank": 2,
+    "id": 50319143,
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "score": 273,
+    "by": "oger",
+    "descendants": 133,
+    "time": 1793474190
+  },
+  {
+    "rank": 3,
+    "id": 50320963,
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "score": 49,
+    "by": "ecares",
+    "descendants": 12,
+    "time": 1793486466
+  },
+  {
+    "rank": 4,
+    "id": 50321130,
+    "title": "When Electric Cars Were for Women",
+    "url": "https://spectrum.ieee.org/early-electric-vehicles",
+    "score": 13,
+    "by": "dverlaeckt80",
+    "descendants": 2,
+    "time": 1793488092
+  },
+  {
+    "rank": 5,
+    "id": 50318720,
+    "title": "It's the Memory Latency, Stupid",
+    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+    "score": 103,
+    "by": "ntur1337",
+    "descendants": 33,
+    "time": 1793471896
+  },
+  {
+    "rank": 6,
+    "id": 50320028,
+    "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+    "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+    "score": 50,
+    "by": "lakesare",
+    "descendants": 33,
+    "time": 1793479599
+  },
+  {
+    "rank": 7,
+    "id": 50313051,
+    "title": "First response from the Project Suncatcher prototype satellite",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+    "score": 11,
+    "by": "praccu",
+    "descendants": 3,
+    "time": 1793418840
+  },
+  {
+    "rank": 8,
+    "id": 50319563,
+    "title": "Surviving \"The Graduate\"",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+    "score": 41,
+    "by": "samizdis",
+    "descendants": 10,
+    "time": 1793476926
+  },
+  {
+    "rank": 9,
+    "id": 50319061,
+    "title": "The Duty of a Scholar",
+    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+    "score": 76,
+    "by": "gslin",
+    "descendants": 26,
+    "time": 1793473656
+  },
+  {
+    "rank": 10,
+    "id": 50314666,
+    "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+    "url": "https://piefed.world/post/1503394",
+    "score": 292,
+    "by": "DeepLogin",
+    "descendants": 172,
+    "time": 1793442221
+  }
+]
