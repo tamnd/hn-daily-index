@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50326821,
+    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "score": 812,
+    "by": "roansh",
+    "descendants": 165,
+    "time": 1793548708
+  },
+  {
+    "rank": 2,
+    "id": 50330939,
+    "title": "U.S. workers took home their smallest share of capital since at least 1947",
+    "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+    "score": 100,
+    "by": "qlte",
+    "descendants": 15,
+    "time": 1793575231
+  },
+  {
+    "rank": 3,
+    "id": 50319510,
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "score": 2209,
+    "by": "karpathy",
+    "descendants": 532,
+    "time": 1793476613
+  },
+  {
+    "rank": 4,
+    "id": 50299811,
+    "title": "Nibnib: Image compression with extreme decompression speed",
+    "url": "https://github.com/raphlinus/nibnib",
+    "score": 74,
+    "by": "raphlinus",
+    "descendants": 7,
+    "time": 1793333826
+  },
+  {
+    "rank": 5,
+    "id": 50271106,
+    "title": "Tips for more effective fuzz testing with AFL++",
+    "url": "https://nullprogram.com/blog/2025/02/05/",
+    "score": 65,
+    "by": "luu",
+    "descendants": 10,
+    "time": 1793180772
+  },
+  {
+    "rank": 6,
+    "id": 50330456,
+    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "score": 74,
+    "by": "throwoutway",
+    "descendants": 43,
+    "time": 1793571045
+  },
+  {
+    "rank": 7,
+    "id": 50328896,
+    "title": "Ask HN: Which TV do you recommend for privacy?",
+    "url": "",
+    "score": 85,
+    "by": "LecroJS",
+    "descendants": 151,
+    "time": 1793561727
+  },
+  {
+    "rank": 8,
+    "id": 50328251,
+    "title": "Mathematics has changed. Let's act like it",
+    "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "score": 199,
+    "by": "smilelamp",
+    "descendants": 212,
+    "time": 1793557722
+  },
+  {
+    "rank": 9,
+    "id": 50325253,
+    "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+    "url": "https://github.com/ivankovic/omnidiff",
+    "score": 139,
+    "by": "FabCH",
+    "descendants": 38,
+    "time": 1793538150
+  },
+  {
+    "rank": 10,
+    "id": 50303088,
+    "title": "Keeping Up Appearances \u2013 The women taking over the funeral industry",
+    "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+    "score": 5,
+    "by": "TMWNN",
+    "descendants": 0,
+    "time": 1793364008
+  }
+]
