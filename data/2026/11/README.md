@@ -2,9 +2,25 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-02 (Monday)](#2026-11-02)
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-02
+
+*Monday*
+
+1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) (rikiyat.github.io) - 1.7k points by [dbreunig](https://news.ycombinator.com/user?id=dbreunig), [550 comments](https://news.ycombinator.com/item?id=50341174)
+2. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) - 492 points by [aarushyadav](https://news.ycombinator.com/user?id=aarushyadav), [268 comments](https://news.ycombinator.com/item?id=50340088)
+3. [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) (namedaisy.com) - 257 points by [xoobdev](https://news.ycombinator.com/user?id=xoobdev), [286 comments](https://news.ycombinator.com/item?id=50339397)
+4. [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/) (momentic.ai) - 111 points by [wuweiweiwu](https://news.ycombinator.com/user?id=wuweiweiwu), [73 comments](https://news.ycombinator.com/item?id=50339913)
+5. [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) (blog.mistys-internet.website) - 357 points by [ingve](https://news.ycombinator.com/user?id=ingve), [89 comments](https://news.ycombinator.com/item?id=50336518)
+6. [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/) (techpolicy.press) - 98 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [53 comments](https://news.ycombinator.com/item?id=50344919)
+7. [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/) (p.migdal.pl) - 193 points by [stared](https://news.ycombinator.com/user?id=stared), [35 comments](https://news.ycombinator.com/item?id=50339221)
+8. [Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened) (regenerator1.com) - 110 points by [cdrnsf](https://news.ycombinator.com/user?id=cdrnsf), [121 comments](https://news.ycombinator.com/item?id=50344958)
+9. [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/) (apple.com) - 62 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [52 comments](https://news.ycombinator.com/item?id=50344670)
+10. [Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728) - 163 points by [whoishiring](https://news.ycombinator.com/user?id=whoishiring), [134 comments](https://news.ycombinator.com/item?id=50338728)
 
 ## 2026-11-01
 
