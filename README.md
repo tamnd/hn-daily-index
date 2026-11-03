@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 02](#2026-11-02) | [Nov 01](#2026-11-01) | [Oct 31](#2026-10-31) | [Oct 30](#2026-10-30) | [Oct 29](#2026-10-29) | [Oct 28](#2026-10-28) | [Oct 27](#2026-10-27)
+Recent: [Nov 03](#2026-11-03) | [Nov 02](#2026-11-02) | [Nov 01](#2026-11-01) | [Oct 31](#2026-10-31) | [Oct 30](#2026-10-30) | [Oct 29](#2026-10-29) | [Oct 28](#2026-10-28)
 
-### [2026](data/2026/) (304/306 days)
+### [2026](data/2026/) (305/307 days)
 
-[**November**](data/2026/11/) (2/2)
+[**November**](data/2026/11/) (3/3)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
-| [**2**](#2026-11-02) |  |  |  |  |  |  |
+| [**2**](#2026-11-02) | [**3**](#2026-11-03) |  |  |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2182,6 +2182,21 @@ Recent: [Nov 02](#2026-11-02) | [Nov 01](#2026-11-01) | [Oct 31](#2026-10-31) | 
 </details>
 
 ---
+
+## 2026-11-03
+
+*Tuesday*
+
+1. [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) (arxiv.org) - 155 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [18 comments](https://news.ycombinator.com/item?id=50358582)
+2. [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/) (webkit.org) - 208 points by [paddingtone](https://news.ycombinator.com/user?id=paddingtone), [134 comments](https://news.ycombinator.com/item?id=50358562)
+3. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) (interdb.jp) - 60 points by [ibobev](https://news.ycombinator.com/user?id=ibobev), [2 comments](https://news.ycombinator.com/item?id=50358702)
+4. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) (blog.nns.ee) - 570 points by [xx_ns](https://news.ycombinator.com/user?id=xx_ns), [227 comments](https://news.ycombinator.com/item?id=50339288)
+5. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) (neufangled.com) - 326 points by [nharada](https://news.ycombinator.com/user?id=nharada), [126 comments](https://news.ycombinator.com/item?id=50354358)
+6. [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) (hackertv.org) - 132 points by [dsalzman](https://news.ycombinator.com/user?id=dsalzman), [31 comments](https://news.ycombinator.com/item?id=50346755)
+7. [Japan's Jimi 'Mundane' Halloween Costumes of 2026](https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/) (spoon-tamago.com) - 79 points by [zdw](https://news.ycombinator.com/user?id=zdw), [14 comments](https://news.ycombinator.com/item?id=50333131)
+8. [macOS 27 does not support CoreStorage volumes](https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/) (wadetregaskis.com) - 85 points by [colejohnson66](https://news.ycombinator.com/user?id=colejohnson66), [44 comments](https://news.ycombinator.com/item?id=50356944)
+9. [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) (simonwillison.net) - 456 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [142 comments](https://news.ycombinator.com/item?id=50355251)
+10. [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) (arstechnica.com) - 353 points by [bookofjoe](https://news.ycombinator.com/user?id=bookofjoe), [142 comments](https://news.ycombinator.com/item?id=50336918)
 
 ## 2026-11-02
 
