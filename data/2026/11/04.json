@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50371246,
+    "title": "Residential proxies detected on White House network",
+    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "score": 503,
+    "by": "Rasbora",
+    "descendants": 148,
+    "time": 1793825118
+  },
+  {
+    "rank": 2,
+    "id": 50369925,
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "url": "https://www.ricursive.com/ripple",
+    "score": 197,
+    "by": "Philpax",
+    "descendants": 67,
+    "time": 1793818409
+  },
+  {
+    "rank": 3,
+    "id": 50364336,
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "score": 1014,
+    "by": "pseudolus",
+    "descendants": 612,
+    "time": 1793793137
+  },
+  {
+    "rank": 4,
+    "id": 50370610,
+    "title": "Insects don't swarm at LED lights",
+    "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+    "score": 143,
+    "by": "speckx",
+    "descendants": 86,
+    "time": 1793821823
+  },
+  {
+    "rank": 5,
+    "id": 50372164,
+    "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "url": "https://icode4.coffee/?p=1746",
+    "score": 38,
+    "by": "muricula",
+    "descendants": 2,
+    "time": 1793829709
+  },
+  {
+    "rank": 6,
+    "id": 50369106,
+    "title": "A new Go API for JSON",
+    "url": "https://go.dev/blog/jsonv2",
+    "score": 201,
+    "by": "olexsmir",
+    "descendants": 85,
+    "time": 1793814731
+  },
+  {
+    "rank": 7,
+    "id": 50366999,
+    "title": "Kimi K3.1 Pro model weights are out",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "score": 330,
+    "by": "abrarthought",
+    "descendants": 86,
+    "time": 1793806230
+  },
+  {
+    "rank": 8,
+    "id": 50370654,
+    "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "score": 81,
+    "by": "peter_d_sherman",
+    "descendants": 39,
+    "time": 1793822114
+  },
+  {
+    "rank": 9,
+    "id": 50369503,
+    "title": "Conductor is joining Meta",
+    "url": "https://www.conductor.build/announcement",
+    "score": 83,
+    "by": "kenrose",
+    "descendants": 128,
+    "time": 1793816560
+  },
+  {
+    "rank": 10,
+    "id": 50372360,
+    "title": "Less Popular Than Coal",
+    "url": "https://www.argmin.net/p/less-popular-than-coal",
+    "score": 28,
+    "by": "_delirium",
+    "descendants": 14,
+    "time": 1793831184
+  }
+]

@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 03](#2026-11-03) | [Nov 02](#2026-11-02) | [Nov 01](#2026-11-01) | [Oct 31](#2026-10-31) | [Oct 30](#2026-10-30) | [Oct 29](#2026-10-29) | [Oct 28](#2026-10-28)
+Recent: [Nov 04](#2026-11-04) | [Nov 03](#2026-11-03) | [Nov 02](#2026-11-02) | [Nov 01](#2026-11-01) | [Oct 31](#2026-10-31) | [Oct 30](#2026-10-30) | [Oct 29](#2026-10-29)
 
-### [2026](data/2026/) (305/307 days)
+### [2026](data/2026/) (306/308 days)
 
-[**November**](data/2026/11/) (3/3)
+[**November**](data/2026/11/) (4/4)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
-| [**2**](#2026-11-02) | [**3**](#2026-11-03) |  |  |  |  |  |
+| [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) |  |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2182,6 +2182,21 @@ Recent: [Nov 03](#2026-11-03) | [Nov 02](#2026-11-02) | [Nov 01](#2026-11-01) | 
 </details>
 
 ---
+
+## 2026-11-04
+
+*Wednesday*
+
+1. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) (layer3intel.com) - 503 points by [Rasbora](https://news.ycombinator.com/user?id=Rasbora), [148 comments](https://news.ycombinator.com/item?id=50371246)
+2. [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple) (ricursive.com) - 197 points by [Philpax](https://news.ycombinator.com/user?id=Philpax), [67 comments](https://news.ycombinator.com/item?id=50369925)
+3. [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) (spectrum.ieee.org) - 1.0k points by [pseudolus](https://news.ycombinator.com/user?id=pseudolus), [612 comments](https://news.ycombinator.com/item?id=50364336)
+4. [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/) (birdsoutsidemywindow.org) - 143 points by [speckx](https://news.ycombinator.com/user?id=speckx), [86 comments](https://news.ycombinator.com/item?id=50370610)
+5. [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746) (icode4.coffee) - 38 points by [muricula](https://news.ycombinator.com/user?id=muricula), [2 comments](https://news.ycombinator.com/item?id=50372164)
+6. [A new Go API for JSON](https://go.dev/blog/jsonv2) (go.dev) - 201 points by [olexsmir](https://news.ycombinator.com/user?id=olexsmir), [85 comments](https://news.ycombinator.com/item?id=50369106)
+7. [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) (huggingface.co) - 330 points by [abrarthought](https://news.ycombinator.com/user?id=abrarthought), [86 comments](https://news.ycombinator.com/item?id=50366999)
+8. [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra) (qualcomm.com) - 81 points by [peter_d_sherman](https://news.ycombinator.com/user?id=peter_d_sherman), [39 comments](https://news.ycombinator.com/item?id=50370654)
+9. [Conductor is joining Meta](https://www.conductor.build/announcement) (conductor.build) - 83 points by [kenrose](https://news.ycombinator.com/user?id=kenrose), [128 comments](https://news.ycombinator.com/item?id=50369503)
+10. [Less Popular Than Coal](https://www.argmin.net/p/less-popular-than-coal) (argmin.net) - 28 points by [_delirium](https://news.ycombinator.com/user?id=_delirium), [14 comments](https://news.ycombinator.com/item?id=50372360)
 
 ## 2026-11-03
 
