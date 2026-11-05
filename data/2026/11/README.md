@@ -2,12 +2,28 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-05 (Thursday)](#2026-11-05)
 - [2026-11-04 (Wednesday)](#2026-11-04)
 - [2026-11-03 (Tuesday)](#2026-11-03)
 - [2026-11-02 (Monday)](#2026-11-02)
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-05
+
+*Thursday*
+
+1. [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) (github.com) - 273 points by [motoroco](https://news.ycombinator.com/user?id=motoroco), [77 comments](https://news.ycombinator.com/item?id=50385272)
+2. [Search for everyone](https://kagi.com/changelog#11820) (kagi.com) - 422 points by [elashri](https://news.ycombinator.com/user?id=elashri), [215 comments](https://news.ycombinator.com/item?id=50383740)
+3. [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) (cve.org) - 245 points by [kuberwastaken](https://news.ycombinator.com/user?id=kuberwastaken), [67 comments](https://news.ycombinator.com/item?id=50384233)
+4. [sshole](https://sshhole.com) (sshhole.com) - 2.2k points by [josemrb](https://news.ycombinator.com/user?id=josemrb), [559 comments](https://news.ycombinator.com/item?id=50378228)
+5. [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) (alpinelinux.org) - 554 points by [pantalaimon](https://news.ycombinator.com/user?id=pantalaimon), [118 comments](https://news.ycombinator.com/item?id=50379704)
+6. [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/) (naut.ca) - 164 points by [rubatuga](https://news.ycombinator.com/user?id=rubatuga), [74 comments](https://news.ycombinator.com/item?id=50383057)
+7. [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/) (tencent.com) - 72 points by [gmays](https://news.ycombinator.com/user?id=gmays), [1 comments](https://news.ycombinator.com/item?id=50383963)
+8. [Window Sweaters](https://github.com/saragordic/window-sweaters) (github.com) - 216 points by [nickswalker](https://news.ycombinator.com/user?id=nickswalker), [77 comments](https://news.ycombinator.com/item?id=50381383)
+9. [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet) (github.com) - 70 points by [NathanFlurry](https://news.ycombinator.com/user?id=NathanFlurry), [37 comments](https://news.ycombinator.com/item?id=50381687)
+10. [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/) (salon.com) - 352 points by [mkeeter](https://news.ycombinator.com/user?id=mkeeter), [125 comments](https://news.ycombinator.com/item?id=50383739)
 
 ## 2026-11-04
 

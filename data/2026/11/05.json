@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50385272,
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 273,
+    "by": "motoroco",
+    "descendants": 77,
+    "time": 1793917035
+  },
+  {
+    "rank": 2,
+    "id": 50383740,
+    "title": "Search for everyone",
+    "url": "https://kagi.com/changelog#11820",
+    "score": 422,
+    "by": "elashri",
+    "descendants": 215,
+    "time": 1793909014
+  },
+  {
+    "rank": 3,
+    "id": 50384233,
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "score": 245,
+    "by": "kuberwastaken",
+    "descendants": 67,
+    "time": 1793911422
+  },
+  {
+    "rank": 4,
+    "id": 50378228,
+    "title": "sshole",
+    "url": "https://sshhole.com",
+    "score": 2234,
+    "by": "josemrb",
+    "descendants": 559,
+    "time": 1793881142
+  },
+  {
+    "rank": 5,
+    "id": 50379704,
+    "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "score": 554,
+    "by": "pantalaimon",
+    "descendants": 118,
+    "time": 1793889860
+  },
+  {
+    "rank": 6,
+    "id": 50383057,
+    "title": "The Hackintosh Reborn",
+    "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "score": 164,
+    "by": "rubatuga",
+    "descendants": 74,
+    "time": 1793905702
+  },
+  {
+    "rank": 7,
+    "id": 50383963,
+    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "score": 72,
+    "by": "gmays",
+    "descendants": 1,
+    "time": 1793910103
+  },
+  {
+    "rank": 8,
+    "id": 50381383,
+    "title": "Window Sweaters",
+    "url": "https://github.com/saragordic/window-sweaters",
+    "score": 216,
+    "by": "nickswalker",
+    "descendants": 77,
+    "time": 1793897414
+  },
+  {
+    "rank": 9,
+    "id": 50381687,
+    "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+    "url": "https://github.com/rivet-dev/rivet",
+    "score": 70,
+    "by": "NathanFlurry",
+    "descendants": 37,
+    "time": 1793899062
+  },
+  {
+    "rank": 10,
+    "id": 50383739,
+    "title": "Goodbye from Salon",
+    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "score": 352,
+    "by": "mkeeter",
+    "descendants": 125,
+    "time": 1793909009
+  }
+]
