@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50399657,
+    "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+    "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+    "score": 57,
+    "by": "doener",
+    "descendants": 19,
+    "time": 1794006046
+  },
+  {
+    "rank": 2,
+    "id": 50397429,
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "score": 281,
+    "by": "theanomaly",
+    "descendants": 61,
+    "time": 1793994531
+  },
+  {
+    "rank": 3,
+    "id": 50397219,
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "score": 144,
+    "by": "SerCe",
+    "descendants": 68,
+    "time": 1793993618
+  },
+  {
+    "rank": 4,
+    "id": 50391456,
+    "title": "Tesla to wind down Cybertruck production",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "score": 792,
+    "by": "PLenz",
+    "descendants": 1622,
+    "time": 1793967231
+  },
+  {
+    "rank": 5,
+    "id": 50397994,
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "score": 162,
+    "by": "yurivish",
+    "descendants": 119,
+    "time": 1793996843
+  },
+  {
+    "rank": 6,
+    "id": 50388001,
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "score": 256,
+    "by": "ChrisArchitect",
+    "descendants": 205,
+    "time": 1793937628
+  },
+  {
+    "rank": 7,
+    "id": 50399569,
+    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "score": 38,
+    "by": "Aldipower",
+    "descendants": 13,
+    "time": 1794005443
+  },
+  {
+    "rank": 8,
+    "id": 50399859,
+    "title": "No CVE Today, Please",
+    "url": "https://nocveday.com/",
+    "score": 14,
+    "by": "metalnix",
+    "descendants": 3,
+    "time": 1794007206
+  },
+  {
+    "rank": 9,
+    "id": 50394855,
+    "title": "First steps in bare-metal programming using UEFI",
+    "url": "https://kevinboone.me/efitest_index.html",
+    "score": 168,
+    "by": "LaSombra",
+    "descendants": 31,
+    "time": 1793983829
+  },
+  {
+    "rank": 10,
+    "id": 50397017,
+    "title": "Restaurant Delivery Payment-Skimming Campaign",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "score": 72,
+    "by": "fiej",
+    "descendants": 29,
+    "time": 1793992767
+  }
+]

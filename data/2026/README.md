@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (5 days)
+- [November](11/) (6 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-06
+
+*Friday*
+
+1. [CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/) (ievchina.com) - 57 points by [doener](https://news.ycombinator.com/user?id=doener), [19 comments](https://news.ycombinator.com/item?id=50399657)
+2. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) (hightouch.com) - 281 points by [theanomaly](https://news.ycombinator.com/user?id=theanomaly), [61 comments](https://news.ycombinator.com/item?id=50397429)
+3. [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape) (pwn.ai) - 144 points by [SerCe](https://news.ycombinator.com/user?id=SerCe), [68 comments](https://news.ycombinator.com/item?id=50397219)
+4. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) (nbcnews.com) - 792 points by [PLenz](https://news.ycombinator.com/user?id=PLenz), [1622 comments](https://news.ycombinator.com/item?id=50391456)
+5. [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) (planned-obsolescence.org) - 162 points by [yurivish](https://news.ycombinator.com/user?id=yurivish), [119 comments](https://news.ycombinator.com/item?id=50397994)
+6. [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) (reuters.com) - 256 points by [ChrisArchitect](https://news.ycombinator.com/user?id=ChrisArchitect), [205 comments](https://news.ycombinator.com/item?id=50388001)
+7. [ChatGPT silently passes data between connectors and the bounty wants an ID card](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053) (community.openai.com) - 38 points by [Aldipower](https://news.ycombinator.com/user?id=Aldipower), [13 comments](https://news.ycombinator.com/item?id=50399569)
+8. [No CVE Today, Please](https://nocveday.com/) (nocveday.com) - 14 points by [metalnix](https://news.ycombinator.com/user?id=metalnix), [3 comments](https://news.ycombinator.com/item?id=50399859)
+9. [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) (kevinboone.me) - 168 points by [LaSombra](https://news.ycombinator.com/user?id=LaSombra), [31 comments](https://news.ycombinator.com/item?id=50394855)
+10. [Restaurant Delivery Payment-Skimming Campaign](https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming) (infohawk.com) - 72 points by [fiej](https://news.ycombinator.com/user?id=fiej), [29 comments](https://news.ycombinator.com/item?id=50397017)
 
 ## 2026-11-05
 
