@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-07 (Saturday)](#2026-11-07)
 - [2026-11-06 (Friday)](#2026-11-06)
 - [2026-11-05 (Thursday)](#2026-11-05)
 - [2026-11-04 (Wednesday)](#2026-11-04)
@@ -10,6 +11,21 @@ Top 10 Hacker News stories for each day in November 2026.
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-07
+
+*Saturday*
+
+1. [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) (hunch.net) - 327 points by [srean](https://news.ycombinator.com/user?id=srean), [188 comments](https://news.ycombinator.com/item?id=50406563)
+2. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) (blog.bosscher.ch) - 281 points by [LaurensBER](https://news.ycombinator.com/user?id=LaurensBER), [66 comments](https://news.ycombinator.com/item?id=50406670)
+3. [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (apiiro.com) - 106 points by [shmulc](https://news.ycombinator.com/user?id=shmulc), [74 comments](https://news.ycombinator.com/item?id=50407882)
+4. [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) (theguardian.com) - 312 points by [user_7832](https://news.ycombinator.com/user?id=user_7832), [216 comments](https://news.ycombinator.com/item?id=50406111)
+5. [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/) (github.blog) - 14 points by [xiaoyu2006](https://news.ycombinator.com/user?id=xiaoyu2006), [2 comments](https://news.ycombinator.com/item?id=50408931)
+6. [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) (eli.thegreenplace.net) - 22 points by [germanrabbit](https://news.ycombinator.com/user?id=germanrabbit), [4 comments](https://news.ycombinator.com/item?id=50408713)
+7. [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe) (github.com) - 177 points by [hedgerow-dev](https://news.ycombinator.com/user?id=hedgerow-dev), [38 comments](https://news.ycombinator.com/item?id=50406292)
+8. [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/) (maxxbench.unlap.ai) - 171 points by [antiuniverse](https://news.ycombinator.com/user?id=antiuniverse), [55 comments](https://news.ycombinator.com/item?id=50406222)
+9. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) (nfsu2.xyz) - 775 points by [fluxusars](https://news.ycombinator.com/user?id=fluxusars), [221 comments](https://news.ycombinator.com/item?id=50403052)
+10. [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/) (arstechnica.com) - 40 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [8 comments](https://news.ycombinator.com/item?id=50377661)
 
 ## 2026-11-06
 

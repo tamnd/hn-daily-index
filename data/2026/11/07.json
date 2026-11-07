@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50406563,
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "url": "https://hunch.net/?p=13764006",
+    "score": 327,
+    "by": "srean",
+    "descendants": 188,
+    "time": 1794074537
+  },
+  {
+    "rank": 2,
+    "id": 50406670,
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "score": 281,
+    "by": "LaurensBER",
+    "descendants": 66,
+    "time": 1794075132
+  },
+  {
+    "rank": 3,
+    "id": 50407882,
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "score": 106,
+    "by": "shmulc",
+    "descendants": 74,
+    "time": 1794084332
+  },
+  {
+    "rank": 4,
+    "id": 50406111,
+    "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+    "score": 312,
+    "by": "user_7832",
+    "descendants": 216,
+    "time": 1794071196
+  },
+  {
+    "rank": 5,
+    "id": 50408931,
+    "title": "GitHub New pull request overview page in public preview",
+    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "score": 14,
+    "by": "xiaoyu2006",
+    "descendants": 2,
+    "time": 1794092980
+  },
+  {
+    "rank": 6,
+    "id": 50408713,
+    "title": "Making any integer with four 2s (2025)",
+    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "score": 22,
+    "by": "germanrabbit",
+    "descendants": 4,
+    "time": 1794091138
+  },
+  {
+    "rank": 7,
+    "id": 50406292,
+    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "url": "https://github.com/hedgerow-dev/coldframe",
+    "score": 177,
+    "by": "hedgerow-dev",
+    "descendants": 38,
+    "time": 1794072450
+  },
+  {
+    "rank": 8,
+    "id": 50406222,
+    "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "score": 171,
+    "by": "antiuniverse",
+    "descendants": 55,
+    "time": 1794071940
+  },
+  {
+    "rank": 9,
+    "id": 50403052,
+    "title": "Need for Speed Underground 2 online in the browser",
+    "url": "https://nfsu2.xyz/",
+    "score": 775,
+    "by": "fluxusars",
+    "descendants": 221,
+    "time": 1794044196
+  },
+  {
+    "rank": 10,
+    "id": 50377661,
+    "title": "Uranium cubes reveal why the German nuclear project failed",
+    "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "score": 40,
+    "by": "rbanffy",
+    "descendants": 8,
+    "time": 1793875924
+  }
+]
