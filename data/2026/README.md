@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (7 days)
+- [November](11/) (8 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-08
+
+*Sunday*
+
+1. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) (ketchup3d.github.io) - 66 points by [dcoulmbe](https://news.ycombinator.com/user?id=dcoulmbe), [5 comments](https://news.ycombinator.com/item?id=50418176)
+2. [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407) - 85 points by [david927](https://news.ycombinator.com/user?id=david927), [349 comments](https://news.ycombinator.com/item?id=50417407)
+3. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) (chimera-vocal-synth.vercel.app) - 34 points by [nmstoker](https://news.ycombinator.com/user?id=nmstoker), [7 comments](https://news.ycombinator.com/item?id=50418182)
+4. [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/) (duxlabs.dev) - 162 points by [indigodaddy](https://news.ycombinator.com/user?id=indigodaddy), [52 comments](https://news.ycombinator.com/item?id=50416053)
+5. [Declarative Dragging](https://declarative-dragging.github.io/) (declarative-dragging.github.io) - 276 points by [smusamashah](https://news.ycombinator.com/user?id=smusamashah), [33 comments](https://news.ycombinator.com/item?id=50368481)
+6. [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) (mailroute.net) - 200 points by [xmddmx](https://news.ycombinator.com/user?id=xmddmx), [160 comments](https://news.ycombinator.com/item?id=50416158)
+7. [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) (thestateofai.com) - 542 points by [TheWiggles](https://news.ycombinator.com/user?id=TheWiggles), [329 comments](https://news.ycombinator.com/item?id=50415628)
+8. [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough) (ftrain.com) - 49 points by [edward](https://news.ycombinator.com/user?id=edward), [23 comments](https://news.ycombinator.com/item?id=50416456)
+9. [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company) (axios.com) - 238 points by [karimf](https://news.ycombinator.com/user?id=karimf), [229 comments](https://news.ycombinator.com/item?id=50418016)
+10. [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf) (isocpp.org) - 4 points by [acossta](https://news.ycombinator.com/user?id=acossta), [0 comments](https://news.ycombinator.com/item?id=50418818)
 
 ## 2026-11-07
 

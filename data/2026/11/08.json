@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50418176,
+    "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+    "url": "https://ketchup3d.github.io/app/",
+    "score": 66,
+    "by": "dcoulmbe",
+    "descendants": 5,
+    "time": 1794177335
+  },
+  {
+    "rank": 2,
+    "id": 50417407,
+    "title": "Ask HN: What are you working on? (November 2026)",
+    "url": "",
+    "score": 85,
+    "by": "david927",
+    "descendants": 349,
+    "time": 1794172820
+  },
+  {
+    "rank": 3,
+    "id": 50418182,
+    "title": "Chimera Vocal Synth",
+    "url": "https://chimera-vocal-synth.vercel.app/",
+    "score": 34,
+    "by": "nmstoker",
+    "descendants": 7,
+    "time": 1794177363
+  },
+  {
+    "rank": 4,
+    "id": 50416053,
+    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "url": "https://duxlabs.dev/",
+    "score": 162,
+    "by": "indigodaddy",
+    "descendants": 52,
+    "time": 1794164931
+  },
+  {
+    "rank": 5,
+    "id": 50368481,
+    "title": "Declarative Dragging",
+    "url": "https://declarative-dragging.github.io/",
+    "score": 276,
+    "by": "smusamashah",
+    "descendants": 33,
+    "time": 1793811907
+  },
+  {
+    "rank": 6,
+    "id": 50416158,
+    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "score": 200,
+    "by": "xmddmx",
+    "descendants": 160,
+    "time": 1794165632
+  },
+  {
+    "rank": 7,
+    "id": 50415628,
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "score": 542,
+    "by": "TheWiggles",
+    "descendants": 329,
+    "time": 1794161767
+  },
+  {
+    "rank": 8,
+    "id": 50416456,
+    "title": "The Web Is More Than Enough, by Paul Ford",
+    "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "score": 49,
+    "by": "edward",
+    "descendants": 23,
+    "time": 1794167312
+  },
+  {
+    "rank": 9,
+    "id": 50418016,
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+    "score": 238,
+    "by": "karimf",
+    "descendants": 229,
+    "time": 1794176409
+  },
+  {
+    "rank": 10,
+    "id": 50418818,
+    "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+    "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+    "score": 4,
+    "by": "acossta",
+    "descendants": 0,
+    "time": 1794180481
+  }
+]

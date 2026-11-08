@@ -13,16 +13,16 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 07](#2026-11-07) | [Nov 06](#2026-11-06) | [Nov 05](#2026-11-05) | [Nov 04](#2026-11-04) | [Nov 03](#2026-11-03) | [Nov 02](#2026-11-02) | [Nov 01](#2026-11-01)
+Recent: [Nov 08](#2026-11-08) | [Nov 07](#2026-11-07) | [Nov 06](#2026-11-06) | [Nov 05](#2026-11-05) | [Nov 04](#2026-11-04) | [Nov 03](#2026-11-03) | [Nov 02](#2026-11-02)
 
-### [2026](data/2026/) (309/311 days)
+### [2026](data/2026/) (310/312 days)
 
-[**November**](data/2026/11/) (7/7)
+[**November**](data/2026/11/) (8/8)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
-| [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) |  |
+| [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2182,6 +2182,21 @@ Recent: [Nov 07](#2026-11-07) | [Nov 06](#2026-11-06) | [Nov 05](#2026-11-05) | 
 </details>
 
 ---
+
+## 2026-11-08
+
+*Sunday*
+
+1. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) (ketchup3d.github.io) - 66 points by [dcoulmbe](https://news.ycombinator.com/user?id=dcoulmbe), [5 comments](https://news.ycombinator.com/item?id=50418176)
+2. [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407) - 85 points by [david927](https://news.ycombinator.com/user?id=david927), [349 comments](https://news.ycombinator.com/item?id=50417407)
+3. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) (chimera-vocal-synth.vercel.app) - 34 points by [nmstoker](https://news.ycombinator.com/user?id=nmstoker), [7 comments](https://news.ycombinator.com/item?id=50418182)
+4. [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/) (duxlabs.dev) - 162 points by [indigodaddy](https://news.ycombinator.com/user?id=indigodaddy), [52 comments](https://news.ycombinator.com/item?id=50416053)
+5. [Declarative Dragging](https://declarative-dragging.github.io/) (declarative-dragging.github.io) - 276 points by [smusamashah](https://news.ycombinator.com/user?id=smusamashah), [33 comments](https://news.ycombinator.com/item?id=50368481)
+6. [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) (mailroute.net) - 200 points by [xmddmx](https://news.ycombinator.com/user?id=xmddmx), [160 comments](https://news.ycombinator.com/item?id=50416158)
+7. [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) (thestateofai.com) - 542 points by [TheWiggles](https://news.ycombinator.com/user?id=TheWiggles), [329 comments](https://news.ycombinator.com/item?id=50415628)
+8. [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough) (ftrain.com) - 49 points by [edward](https://news.ycombinator.com/user?id=edward), [23 comments](https://news.ycombinator.com/item?id=50416456)
+9. [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company) (axios.com) - 238 points by [karimf](https://news.ycombinator.com/user?id=karimf), [229 comments](https://news.ycombinator.com/item?id=50418016)
+10. [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf) (isocpp.org) - 4 points by [acossta](https://news.ycombinator.com/user?id=acossta), [0 comments](https://news.ycombinator.com/item?id=50418818)
 
 ## 2026-11-07
 
