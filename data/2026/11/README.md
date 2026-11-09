@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-09 (Monday)](#2026-11-09)
 - [2026-11-08 (Sunday)](#2026-11-08)
 - [2026-11-07 (Saturday)](#2026-11-07)
 - [2026-11-06 (Friday)](#2026-11-06)
@@ -12,6 +13,21 @@ Top 10 Hacker News stories for each day in November 2026.
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-09
+
+*Monday*
+
+1. [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) (postalpro.usps.com) - 385 points by [munro](https://news.ycombinator.com/user?id=munro), [193 comments](https://news.ycombinator.com/item?id=50431058)
+2. [TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/) (blog.google) - 137 points by [_benx_](https://news.ycombinator.com/user?id=_benx_), [18 comments](https://news.ycombinator.com/item?id=50432831)
+3. [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2) (artificialanalysis.ai) - 251 points by [theanonymousone](https://news.ycombinator.com/user?id=theanonymousone), [164 comments](https://news.ycombinator.com/item?id=50431144)
+4. [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/) (github.com) - 307 points by [gf74918](https://news.ycombinator.com/user?id=gf74918), [62 comments](https://news.ycombinator.com/item?id=50429426)
+5. [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) (payments.ca) - 444 points by [ocd](https://news.ycombinator.com/user?id=ocd), [252 comments](https://news.ycombinator.com/item?id=50427362)
+6. [E-means: 10x faster k-means at equal loss](https://e-means.github.io/) (e-means.github.io) - 240 points by [porridgeraisin](https://news.ycombinator.com/user?id=porridgeraisin), [14 comments](https://news.ycombinator.com/item?id=50429734)
+7. [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember) (research.meta.ai) - 223 points by [dvaplima](https://news.ycombinator.com/user?id=dvaplima), [93 comments](https://news.ycombinator.com/item?id=50429024)
+8. [CUI – Native UI components for C](https://yappologistic.github.io/CUI/) (yappologistic.github.io) - 138 points by [hilti](https://news.ycombinator.com/user?id=hilti), [70 comments](https://news.ycombinator.com/item?id=50430621)
+9. [Tracking the Harm of DOGE Cuts](https://www.clasp.org/doge-tracker/) (clasp.org) - 52 points by [Alien1Being](https://news.ycombinator.com/user?id=Alien1Being), [1 comments](https://news.ycombinator.com/item?id=50433978)
+10. [Fold Epic Paper Airplanes](https://www.foldableflight.com) (foldableflight.com) - 809 points by [vismit2000](https://news.ycombinator.com/user?id=vismit2000), [133 comments](https://news.ycombinator.com/item?id=50424581)
 
 ## 2026-11-08
 

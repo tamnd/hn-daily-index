@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50431058,
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "url": "https://postalpro.usps.com/zcb",
+    "score": 385,
+    "by": "munro",
+    "descendants": 193,
+    "time": 1794254339
+  },
+  {
+    "rank": 2,
+    "id": 50432831,
+    "title": "TPUs",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "score": 137,
+    "by": "_benx_",
+    "descendants": 18,
+    "time": 1794261417
+  },
+  {
+    "rank": 3,
+    "id": 50431144,
+    "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "score": 251,
+    "by": "theanonymousone",
+    "descendants": 164,
+    "time": 1794254695
+  },
+  {
+    "rank": 4,
+    "id": 50429426,
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "score": 307,
+    "by": "gf74918",
+    "descendants": 62,
+    "time": 1794248678
+  },
+  {
+    "rank": 5,
+    "id": 50427362,
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "score": 444,
+    "by": "ocd",
+    "descendants": 252,
+    "time": 1794240045
+  },
+  {
+    "rank": 6,
+    "id": 50429734,
+    "title": "E-means: 10x faster k-means at equal loss",
+    "url": "https://e-means.github.io/",
+    "score": 240,
+    "by": "porridgeraisin",
+    "descendants": 14,
+    "time": 1794249943
+  },
+  {
+    "rank": 7,
+    "id": 50429024,
+    "title": "Our Smallest, Most Efficient Model: Muse Ember",
+    "url": "https://research.meta.ai/blog/muse-ember",
+    "score": 223,
+    "by": "dvaplima",
+    "descendants": 93,
+    "time": 1794247126
+  },
+  {
+    "rank": 8,
+    "id": 50430621,
+    "title": "CUI \u2013 Native UI components for C",
+    "url": "https://yappologistic.github.io/CUI/",
+    "score": 138,
+    "by": "hilti",
+    "descendants": 70,
+    "time": 1794252916
+  },
+  {
+    "rank": 9,
+    "id": 50433978,
+    "title": "Tracking the Harm of DOGE Cuts",
+    "url": "https://www.clasp.org/doge-tracker/",
+    "score": 52,
+    "by": "Alien1Being",
+    "descendants": 1,
+    "time": 1794267654
+  },
+  {
+    "rank": 10,
+    "id": 50424581,
+    "title": "Fold Epic Paper Airplanes",
+    "url": "https://www.foldableflight.com",
+    "score": 809,
+    "by": "vismit2000",
+    "descendants": 133,
+    "time": 1794226762
+  }
+]
