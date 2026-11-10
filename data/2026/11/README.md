@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-10 (Tuesday)](#2026-11-10)
 - [2026-11-09 (Monday)](#2026-11-09)
 - [2026-11-08 (Sunday)](#2026-11-08)
 - [2026-11-07 (Saturday)](#2026-11-07)
@@ -13,6 +14,21 @@ Top 10 Hacker News stories for each day in November 2026.
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-10
+
+*Tuesday*
+
+1. [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) (theautopian.com) - 260 points by [NaOH](https://news.ycombinator.com/user?id=NaOH), [182 comments](https://news.ycombinator.com/item?id=50445401)
+2. [After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) (vulncheck.com) - 101 points by [panic](https://news.ycombinator.com/user?id=panic), [24 comments](https://news.ycombinator.com/item?id=50447074)
+3. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) (neil.fraser.name) - 637 points by [p4bl0](https://news.ycombinator.com/user?id=p4bl0), [140 comments](https://news.ycombinator.com/item?id=50442736)
+4. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) (docodethatmatters.com) - 649 points by [skittleson](https://news.ycombinator.com/user?id=skittleson), [230 comments](https://news.ycombinator.com/item?id=50441707)
+5. [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html) (teorth.github.io) - 95 points by [digital55](https://news.ycombinator.com/user?id=digital55), [16 comments](https://news.ycombinator.com/item?id=50446246)
+6. [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) (lwn.net) - 264 points by [speckx](https://news.ycombinator.com/user?id=speckx), [122 comments](https://news.ycombinator.com/item?id=50443824)
+7. [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/) (rvpn.org) - 49 points by [michaelsbradley](https://news.ycombinator.com/user?id=michaelsbradley), [37 comments](https://news.ycombinator.com/item?id=50446714)
+8. [Val Town is winding down](https://blog.val.town/winding-down) (blog.val.town) - 281 points by [tosh](https://news.ycombinator.com/user?id=tosh), [75 comments](https://news.ycombinator.com/item?id=50443427)
+9. [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) (deepmind.google) - 559 points by [ilreb](https://news.ycombinator.com/user?id=ilreb), [174 comments](https://news.ycombinator.com/item?id=50439193)
+10. [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) (github.com) - 229 points by [paulirish](https://news.ycombinator.com/user?id=paulirish), [65 comments](https://news.ycombinator.com/item?id=50443812)
 
 ## 2026-11-09
 

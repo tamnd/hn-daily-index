@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50445401,
+    "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+    "score": 260,
+    "by": "NaOH",
+    "descendants": 182,
+    "time": 1794340246
+  },
+  {
+    "rank": 2,
+    "id": 50447074,
+    "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "score": 101,
+    "by": "panic",
+    "descendants": 24,
+    "time": 1794349076
+  },
+  {
+    "rank": 3,
+    "id": 50442736,
+    "title": ".name Grandfathered",
+    "url": "https://neil.fraser.name/news/2026/11/10/",
+    "score": 637,
+    "by": "p4bl0",
+    "descendants": 140,
+    "time": 1794328664
+  },
+  {
+    "rank": 4,
+    "id": 50441707,
+    "title": "Smart home devices should work without the internet",
+    "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+    "score": 649,
+    "by": "skittleson",
+    "descendants": 230,
+    "time": 1794324320
+  },
+  {
+    "rank": 5,
+    "id": 50446246,
+    "title": "Six Math Essentials by Terence Tao",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "score": 95,
+    "by": "digital55",
+    "descendants": 16,
+    "time": 1794344324
+  },
+  {
+    "rank": 6,
+    "id": 50443824,
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "score": 264,
+    "by": "speckx",
+    "descendants": 122,
+    "time": 1794333722
+  },
+  {
+    "rank": 7,
+    "id": 50446714,
+    "title": "rVPN \u2013 stealth VPN with end-to-end encryption",
+    "url": "https://rvpn.org/",
+    "score": 49,
+    "by": "michaelsbradley",
+    "descendants": 37,
+    "time": 1794346970
+  },
+  {
+    "rank": 8,
+    "id": 50443427,
+    "title": "Val Town is winding down",
+    "url": "https://blog.val.town/winding-down",
+    "score": 281,
+    "by": "tosh",
+    "descendants": 75,
+    "time": 1794331874
+  },
+  {
+    "rank": 9,
+    "id": 50439193,
+    "title": "AlphaProof Code",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "score": 559,
+    "by": "ilreb",
+    "descendants": 174,
+    "time": 1794312672
+  },
+  {
+    "rank": 10,
+    "id": 50443812,
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "score": 229,
+    "by": "paulirish",
+    "descendants": 65,
+    "time": 1794333675
+  }
+]
