@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (10 days)
+- [November](11/) (11 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-11
+
+*Wednesday*
+
+1. [AWS emulator](https://github.com/aws/aws-emulator) (github.com) - 594 points by [super_linear](https://news.ycombinator.com/user?id=super_linear), [201 comments](https://news.ycombinator.com/item?id=50456631)
+2. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) (discuss.python.org) - 787 points by [ayhanfuat](https://news.ycombinator.com/user?id=ayhanfuat), [82 comments](https://news.ycombinator.com/item?id=50450488)
+3. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) (cbsnews.com) - 276 points by [herpderperator](https://news.ycombinator.com/user?id=herpderperator), [251 comments](https://news.ycombinator.com/item?id=50458900)
+4. [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/) (mcmillen.dev) - 55 points by [zenincognito](https://news.ycombinator.com/user?id=zenincognito), [10 comments](https://news.ycombinator.com/item?id=50459745)
+5. [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/) (hugovk.dev) - 71 points by [gslin](https://news.ycombinator.com/user?id=gslin), [14 comments](https://news.ycombinator.com/item?id=50459485)
+6. [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) (michael.bacarella.com) - 383 points by [mbac32768](https://news.ycombinator.com/user?id=mbac32768), [189 comments](https://news.ycombinator.com/item?id=50455394)
+7. [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) (blog.google) - 216 points by [iamdelirium](https://news.ycombinator.com/user?id=iamdelirium), [73 comments](https://news.ycombinator.com/item?id=50456791)
+8. [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt) (commandlinesystems.com) - 122 points by [ggcr](https://news.ycombinator.com/user?id=ggcr), [43 comments](https://news.ycombinator.com/item?id=50458208)
+9. [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008) (twitter.com) - 115 points by [alexmolas](https://news.ycombinator.com/user?id=alexmolas), [39 comments](https://news.ycombinator.com/item?id=50459776)
+10. [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela) (github.com) - 11 points by [iceboundrock](https://news.ycombinator.com/user?id=iceboundrock), [4 comments](https://news.ycombinator.com/item?id=50460154)
 
 ## 2026-11-10
 

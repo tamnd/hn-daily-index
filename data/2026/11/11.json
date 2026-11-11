@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50456631,
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "score": 594,
+    "by": "super_linear",
+    "descendants": 201,
+    "time": 1794421298
+  },
+  {
+    "rank": 2,
+    "id": 50450488,
+    "title": "Tim Peters has died",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "score": 787,
+    "by": "ayhanfuat",
+    "descendants": 82,
+    "time": 1794380597
+  },
+  {
+    "rank": 3,
+    "id": 50458900,
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "score": 276,
+    "by": "herpderperator",
+    "descendants": 251,
+    "time": 1794432275
+  },
+  {
+    "rank": 4,
+    "id": 50459745,
+    "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "score": 55,
+    "by": "zenincognito",
+    "descendants": 10,
+    "time": 1794436463
+  },
+  {
+    "rank": 5,
+    "id": 50459485,
+    "title": "Lock Your GitHub Actions",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "score": 71,
+    "by": "gslin",
+    "descendants": 14,
+    "time": 1794435401
+  },
+  {
+    "rank": 6,
+    "id": 50455394,
+    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "score": 383,
+    "by": "mbac32768",
+    "descendants": 189,
+    "time": 1794415124
+  },
+  {
+    "rank": 7,
+    "id": 50456791,
+    "title": "Gemini Decisions API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "score": 216,
+    "by": "iamdelirium",
+    "descendants": 73,
+    "time": 1794421962
+  },
+  {
+    "rank": 8,
+    "id": 50458208,
+    "title": "Emacs in the Age of Magic",
+    "url": "https://commandlinesystems.com/magic.txt",
+    "score": 122,
+    "by": "ggcr",
+    "descendants": 43,
+    "time": 1794428792
+  },
+  {
+    "rank": 9,
+    "id": 50459776,
+    "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+    "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+    "score": 115,
+    "by": "alexmolas",
+    "descendants": 39,
+    "time": 1794436595
+  },
+  {
+    "rank": 10,
+    "id": 50460154,
+    "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+    "url": "https://github.com/tylertms/Stela",
+    "score": 11,
+    "by": "iceboundrock",
+    "descendants": 4,
+    "time": 1794438158
+  }
+]
