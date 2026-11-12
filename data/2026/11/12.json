@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50467087,
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 2761,
+    "by": "lldb",
+    "descendants": 2632,
+    "time": 1794491549
+  },
+  {
+    "rank": 2,
+    "id": 50475735,
+    "title": "Why You Should Expect an AI Crash",
+    "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+    "score": 71,
+    "by": "toomuchtodo",
+    "descendants": 38,
+    "time": 1794524911
+  },
+  {
+    "rank": 3,
+    "id": 50472038,
+    "title": "Rust 1.100",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "score": 332,
+    "by": "mbStavola",
+    "descendants": 140,
+    "time": 1794508745
+  },
+  {
+    "rank": 4,
+    "id": 50472260,
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "score": 247,
+    "by": "jonbaer",
+    "descendants": 59,
+    "time": 1794509521
+  },
+  {
+    "rank": 5,
+    "id": 50474361,
+    "title": "Foundation Models framework",
+    "url": "https://developer.apple.com/foundation-models-framework/",
+    "score": 89,
+    "by": "kermatt",
+    "descendants": 11,
+    "time": 1794518006
+  },
+  {
+    "rank": 6,
+    "id": 50472490,
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "score": 174,
+    "by": "cybermango",
+    "descendants": 80,
+    "time": 1794510333
+  },
+  {
+    "rank": 7,
+    "id": 50470488,
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "url": "https://github.com/simpsoka/zigzag",
+    "score": 277,
+    "by": "simpsoka",
+    "descendants": 115,
+    "time": 1794502962
+  },
+  {
+    "rank": 8,
+    "id": 50471731,
+    "title": "Service degradation on Microsoft 365",
+    "url": "https://status.cloud.microsoft/",
+    "score": 419,
+    "by": "dkpk",
+    "descendants": 407,
+    "time": 1794507648
+  },
+  {
+    "rank": 9,
+    "id": 50471761,
+    "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "score": 126,
+    "by": "ozirus",
+    "descendants": 14,
+    "time": 1794507742
+  },
+  {
+    "rank": 10,
+    "id": 50468888,
+    "title": "I'm making LLMs work on small and old devices",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "score": 266,
+    "by": "mrashad74",
+    "descendants": 88,
+    "time": 1794496990
+  }
+]

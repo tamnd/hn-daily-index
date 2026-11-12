@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (11 days)
+- [November](11/) (12 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-12
+
+*Thursday*
+
+1. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) (apnews.com) - 2.8k points by [lldb](https://news.ycombinator.com/user?id=lldb), [2632 comments](https://news.ycombinator.com/item?id=50467087)
+2. [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash) (economist.com) - 71 points by [toomuchtodo](https://news.ycombinator.com/user?id=toomuchtodo), [38 comments](https://news.ycombinator.com/item?id=50475735)
+3. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) (blog.rust-lang.org) - 332 points by [mbStavola](https://news.ycombinator.com/user?id=mbStavola), [140 comments](https://news.ycombinator.com/item?id=50472038)
+4. [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) (antigravity.google) - 247 points by [jonbaer](https://news.ycombinator.com/user?id=jonbaer), [59 comments](https://news.ycombinator.com/item?id=50472260)
+5. [Foundation Models framework](https://developer.apple.com/foundation-models-framework/) (developer.apple.com) - 89 points by [kermatt](https://news.ycombinator.com/user?id=kermatt), [11 comments](https://news.ycombinator.com/item?id=50474361)
+6. [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) (smithsonianmag.com) - 174 points by [cybermango](https://news.ycombinator.com/user?id=cybermango), [80 comments](https://news.ycombinator.com/item?id=50472490)
+7. [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) (github.com) - 277 points by [simpsoka](https://news.ycombinator.com/user?id=simpsoka), [115 comments](https://news.ycombinator.com/item?id=50470488)
+8. [Service degradation on Microsoft 365](https://status.cloud.microsoft/) (status.cloud.microsoft) - 419 points by [dkpk](https://news.ycombinator.com/user?id=dkpk), [407 comments](https://news.ycombinator.com/item?id=50471731)
+9. [22-Year-Old PostgreSQL Bug Turned into Remote Code Execution](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/) (mehmetince.net) - 126 points by [ozirus](https://news.ycombinator.com/user?id=ozirus), [14 comments](https://news.ycombinator.com/item?id=50471761)
+10. [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) (github.com) - 266 points by [mrashad74](https://news.ycombinator.com/user?id=mrashad74), [88 comments](https://news.ycombinator.com/item?id=50468888)
 
 ## 2026-11-11
 
