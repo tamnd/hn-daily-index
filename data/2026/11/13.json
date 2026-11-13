@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50489641,
+    "title": "FAA issues national ground stop",
+    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+    "score": 1088,
+    "by": "zulln",
+    "descendants": 660,
+    "time": 1794603953
+  },
+  {
+    "rank": 2,
+    "id": 50490593,
+    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "url": "https://orcasairband.com/",
+    "score": 114,
+    "by": "mmaunder",
+    "descendants": 29,
+    "time": 1794607464
+  },
+  {
+    "rank": 3,
+    "id": 50488325,
+    "title": "FM-1 Workbench",
+    "url": "https://open.m-vave.com/fm1-workbench",
+    "score": 167,
+    "by": "simonebrunozzi",
+    "descendants": 93,
+    "time": 1794597242
+  },
+  {
+    "rank": 4,
+    "id": 50474959,
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "score": 654,
+    "by": "scottjg",
+    "descendants": 192,
+    "time": 1794520989
+  },
+  {
+    "rank": 5,
+    "id": 50488470,
+    "title": "Found: A protein that drives ageing without unleashing inflammation",
+    "url": "https://www.nature.com/articles/d41586-026-03638-3",
+    "score": 97,
+    "by": "gumby",
+    "descendants": 18,
+    "time": 1794597921
+  },
+  {
+    "rank": 6,
+    "id": 50487185,
+    "title": "After 600 experiments, here's what I discovered about JEPA world models",
+    "url": "https://haddyalchaer.com/jepa",
+    "score": 199,
+    "by": "halcdev",
+    "descendants": 33,
+    "time": 1794592528
+  },
+  {
+    "rank": 7,
+    "id": 50488464,
+    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "score": 87,
+    "by": "gmays",
+    "descendants": 18,
+    "time": 1794597887
+  },
+  {
+    "rank": 8,
+    "id": 50482379,
+    "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "score": 431,
+    "by": "voxleone",
+    "descendants": 301,
+    "time": 1794571824
+  },
+  {
+    "rank": 9,
+    "id": 50488835,
+    "title": "Live-migration support in FreeBSD and bhyve coming",
+    "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+    "score": 55,
+    "by": "JohnDohnBohn",
+    "descendants": 9,
+    "time": 1794599922
+  },
+  {
+    "rank": 10,
+    "id": 50489083,
+    "title": "Big tech is here to let us down",
+    "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+    "score": 195,
+    "by": "speckx",
+    "descendants": 171,
+    "time": 1794601230
+  }
+]

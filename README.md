@@ -13,17 +13,17 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 12](#2026-11-12) | [Nov 11](#2026-11-11) | [Nov 10](#2026-11-10) | [Nov 09](#2026-11-09) | [Nov 08](#2026-11-08) | [Nov 07](#2026-11-07) | [Nov 06](#2026-11-06)
+Recent: [Nov 13](#2026-11-13) | [Nov 12](#2026-11-12) | [Nov 11](#2026-11-11) | [Nov 10](#2026-11-10) | [Nov 09](#2026-11-09) | [Nov 08](#2026-11-08) | [Nov 07](#2026-11-07)
 
-### [2026](data/2026/) (314/316 days)
+### [2026](data/2026/) (315/317 days)
 
-[**November**](data/2026/11/) (12/12)
+[**November**](data/2026/11/) (13/13)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
-| [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) |  |  |  |
+| [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2183,6 +2183,21 @@ Recent: [Nov 12](#2026-11-12) | [Nov 11](#2026-11-11) | [Nov 10](#2026-11-10) | 
 </details>
 
 ---
+
+## 2026-11-13
+
+*Friday*
+
+1. [FAA issues national ground stop](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) (nbcnews.com) - 1.1k points by [zulln](https://news.ycombinator.com/user?id=zulln), [660 comments](https://news.ycombinator.com/item?id=50489641)
+2. [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) (orcasairband.com) - 114 points by [mmaunder](https://news.ycombinator.com/user?id=mmaunder), [29 comments](https://news.ycombinator.com/item?id=50490593)
+3. [FM-1 Workbench](https://open.m-vave.com/fm1-workbench) (open.m-vave.com) - 167 points by [simonebrunozzi](https://news.ycombinator.com/user?id=simonebrunozzi), [93 comments](https://news.ycombinator.com/item?id=50488325)
+4. [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) (scottjg.com) - 654 points by [scottjg](https://news.ycombinator.com/user?id=scottjg), [192 comments](https://news.ycombinator.com/item?id=50474959)
+5. [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3) (nature.com) - 97 points by [gumby](https://news.ycombinator.com/user?id=gumby), [18 comments](https://news.ycombinator.com/item?id=50488470)
+6. [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa) (haddyalchaer.com) - 199 points by [halcdev](https://news.ycombinator.com/user?id=halcdev), [33 comments](https://news.ycombinator.com/item?id=50487185)
+7. [Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider) (perplexity.ai) - 87 points by [gmays](https://news.ycombinator.com/user?id=gmays), [18 comments](https://news.ycombinator.com/item?id=50488464)
+8. [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291) (science.org) - 431 points by [voxleone](https://news.ycombinator.com/user?id=voxleone), [301 comments](https://news.ycombinator.com/item?id=50482379)
+9. [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/) (gyptazy.com) - 55 points by [JohnDohnBohn](https://news.ycombinator.com/user?id=JohnDohnBohn), [9 comments](https://news.ycombinator.com/item?id=50488835)
+10. [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down) (blog.jsweeting.me) - 195 points by [speckx](https://news.ycombinator.com/user?id=speckx), [171 comments](https://news.ycombinator.com/item?id=50489083)
 
 ## 2026-11-12
 

@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (12 days)
+- [November](11/) (13 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-13
+
+*Friday*
+
+1. [FAA issues national ground stop](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) (nbcnews.com) - 1.1k points by [zulln](https://news.ycombinator.com/user?id=zulln), [660 comments](https://news.ycombinator.com/item?id=50489641)
+2. [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) (orcasairband.com) - 114 points by [mmaunder](https://news.ycombinator.com/user?id=mmaunder), [29 comments](https://news.ycombinator.com/item?id=50490593)
+3. [FM-1 Workbench](https://open.m-vave.com/fm1-workbench) (open.m-vave.com) - 167 points by [simonebrunozzi](https://news.ycombinator.com/user?id=simonebrunozzi), [93 comments](https://news.ycombinator.com/item?id=50488325)
+4. [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) (scottjg.com) - 654 points by [scottjg](https://news.ycombinator.com/user?id=scottjg), [192 comments](https://news.ycombinator.com/item?id=50474959)
+5. [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3) (nature.com) - 97 points by [gumby](https://news.ycombinator.com/user?id=gumby), [18 comments](https://news.ycombinator.com/item?id=50488470)
+6. [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa) (haddyalchaer.com) - 199 points by [halcdev](https://news.ycombinator.com/user?id=halcdev), [33 comments](https://news.ycombinator.com/item?id=50487185)
+7. [Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider) (perplexity.ai) - 87 points by [gmays](https://news.ycombinator.com/user?id=gmays), [18 comments](https://news.ycombinator.com/item?id=50488464)
+8. [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291) (science.org) - 431 points by [voxleone](https://news.ycombinator.com/user?id=voxleone), [301 comments](https://news.ycombinator.com/item?id=50482379)
+9. [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/) (gyptazy.com) - 55 points by [JohnDohnBohn](https://news.ycombinator.com/user?id=JohnDohnBohn), [9 comments](https://news.ycombinator.com/item?id=50488835)
+10. [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down) (blog.jsweeting.me) - 195 points by [speckx](https://news.ycombinator.com/user?id=speckx), [171 comments](https://news.ycombinator.com/item?id=50489083)
 
 ## 2026-11-12
 
