@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-14 (Saturday)](#2026-11-14)
 - [2026-11-13 (Friday)](#2026-11-13)
 - [2026-11-12 (Thursday)](#2026-11-12)
 - [2026-11-11 (Wednesday)](#2026-11-11)
@@ -17,6 +18,21 @@ Top 10 Hacker News stories for each day in November 2026.
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-14
+
+*Saturday*
+
+1. [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) (spacex.com) - 506 points by [ls612](https://news.ycombinator.com/user?id=ls612), [310 comments](https://news.ycombinator.com/item?id=50500963)
+2. [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) (crissyfield.de) - 584 points by [armcat](https://news.ycombinator.com/user?id=armcat), [239 comments](https://news.ycombinator.com/item?id=50499017)
+3. [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) (zwischenzugs.com) - 181 points by [umerf](https://news.ycombinator.com/user?id=umerf), [83 comments](https://news.ycombinator.com/item?id=50499038)
+4. [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957) (retrocomputing.stackexchange.com) - 32 points by [Skyfall106](https://news.ycombinator.com/user?id=Skyfall106), [5 comments](https://news.ycombinator.com/item?id=50501594)
+5. [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) (tube.kockatoo.org) - 360 points by [mrkn1](https://news.ycombinator.com/user?id=mrkn1), [75 comments](https://news.ycombinator.com/item?id=50496976)
+6. [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) (blog.pypi.org) - 192 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [86 comments](https://news.ycombinator.com/item?id=50497892)
+7. [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html) (techspot.com) - 52 points by [madihaa](https://news.ycombinator.com/user?id=madihaa), [26 comments](https://news.ycombinator.com/item?id=50501631)
+8. [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) (so.long.thanks.fish) - 484 points by [casi](https://news.ycombinator.com/user?id=casi), [273 comments](https://news.ycombinator.com/item?id=50440709)
+9. [Seagate's new hybrid drive raises some old questions](https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/) (arstechnica.com) - 61 points by [PaulHoule](https://news.ycombinator.com/user?id=PaulHoule), [36 comments](https://news.ycombinator.com/item?id=50453901)
+10. [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) (research.google) - 153 points by [acossta](https://news.ycombinator.com/user?id=acossta), [35 comments](https://news.ycombinator.com/item?id=50496811)
 
 ## 2026-11-13
 
