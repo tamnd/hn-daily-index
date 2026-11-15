@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-15 (Sunday)](#2026-11-15)
 - [2026-11-14 (Saturday)](#2026-11-14)
 - [2026-11-13 (Friday)](#2026-11-13)
 - [2026-11-12 (Thursday)](#2026-11-12)
@@ -18,6 +19,21 @@ Top 10 Hacker News stories for each day in November 2026.
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-15
+
+*Sunday*
+
+1. [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) (ransomnews.com) - 103 points by [hspeiser](https://news.ycombinator.com/user?id=hspeiser), [54 comments](https://news.ycombinator.com/item?id=50511395)
+2. [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/) (blog.archive.org) - 30 points by [CharlesW](https://news.ycombinator.com/user?id=CharlesW), [6 comments](https://news.ycombinator.com/item?id=50511806)
+3. [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) (bruceroettgers.eu) - 113 points by [bcye](https://news.ycombinator.com/user?id=bcye), [31 comments](https://news.ycombinator.com/item?id=50509837)
+4. [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) (youtube.com) - 152 points by [nharada](https://news.ycombinator.com/user?id=nharada), [57 comments](https://news.ycombinator.com/item?id=50509308)
+5. [Handwriting, as a Font](https://ductus.sorenblank.com) (ductus.sorenblank.com) - 89 points by [coinfused](https://news.ycombinator.com/user?id=coinfused), [20 comments](https://news.ycombinator.com/item?id=50509972)
+6. [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/) (baron.by.dai.studio) - 59 points by [ranger_danger](https://news.ycombinator.com/user?id=ranger_danger), [9 comments](https://news.ycombinator.com/item?id=50510296)
+7. ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html) (nytimes.com) - 143 points by [gumby](https://news.ycombinator.com/user?id=gumby), [105 comments](https://news.ycombinator.com/item?id=50509023)
+8. [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) (macanorak.com) - 397 points by [MacAnorak](https://news.ycombinator.com/user?id=MacAnorak), [220 comments](https://news.ycombinator.com/item?id=50506719)
+9. [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/) (wreg.com) - 30 points by [mikhael](https://news.ycombinator.com/user?id=mikhael), [8 comments](https://news.ycombinator.com/item?id=50511899)
+10. [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI) (youtube.com) - 310 points by [envoked](https://news.ycombinator.com/user?id=envoked), [157 comments](https://news.ycombinator.com/item?id=50463399)
 
 ## 2026-11-14
 
