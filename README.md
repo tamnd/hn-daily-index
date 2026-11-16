@@ -13,17 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | [Nov 13](#2026-11-13) | [Nov 12](#2026-11-12) | [Nov 11](#2026-11-11) | [Nov 10](#2026-11-10) | [Nov 09](#2026-11-09)
+Recent: [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | [Nov 13](#2026-11-13) | [Nov 12](#2026-11-12) | [Nov 11](#2026-11-11) | [Nov 10](#2026-11-10)
 
-### [2026](data/2026/) (317/319 days)
+### [2026](data/2026/) (318/320 days)
 
-[**November**](data/2026/11/) (15/15)
+[**November**](data/2026/11/) (16/16)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
+| [**16**](#2026-11-16) |  |  |  |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2183,6 +2184,21 @@ Recent: [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | [Nov 13](#2026-11-13) | 
 </details>
 
 ---
+
+## 2026-11-16
+
+*Monday*
+
+1. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) (cs.cmu.edu) - 452 points by [pcompeau](https://news.ycombinator.com/user?id=pcompeau), [82 comments](https://news.ycombinator.com/item?id=50522980)
+2. [BugMeNot has closed](https://www.bugmenot.com/) (bugmenot.com) - 228 points by [lode](https://news.ycombinator.com/user?id=lode), [112 comments](https://news.ycombinator.com/item?id=50523601)
+3. [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) (xusheng.dev) - 49 points by [cwaffles](https://news.ycombinator.com/user?id=cwaffles), [15 comments](https://news.ycombinator.com/item?id=50524736)
+4. [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/) (krebsonsecurity.com) - 57 points by [ronfriedhaber](https://news.ycombinator.com/user?id=ronfriedhaber), [14 comments](https://news.ycombinator.com/item?id=50524225)
+5. [World's Largest Brands Infected With Malware Via Optimizely](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) (blog.report-uri.com) - 98 points by [martinald](https://news.ycombinator.com/user?id=martinald), [16 comments](https://news.ycombinator.com/item?id=50523300)
+6. [OpenCode Browse](https://opencode.ai/product/browse) (opencode.ai) - 69 points by [mfiguiere](https://news.ycombinator.com/user?id=mfiguiere), [35 comments](https://news.ycombinator.com/item?id=50523459)
+7. [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) (news.cornell.edu) - 196 points by [PaulHoule](https://news.ycombinator.com/user?id=PaulHoule), [192 comments](https://news.ycombinator.com/item?id=50520182)
+8. [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) (burntsushi.net) - 284 points by [burntsushi](https://news.ycombinator.com/user?id=burntsushi), [67 comments](https://news.ycombinator.com/item?id=50519744)
+9. [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/) (blog.startifact.com) - 157 points by [speckx](https://news.ycombinator.com/user?id=speckx), [91 comments](https://news.ycombinator.com/item?id=50522563)
+10. [Technical issue at JPMorgan Chase triggers online banking delays for US banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) (apnews.com) - 689 points by [samk3nny](https://news.ycombinator.com/user?id=samk3nny), [550 comments](https://news.ycombinator.com/item?id=50521045)
 
 ## 2026-11-15
 
