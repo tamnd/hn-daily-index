@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50538240,
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/",
+    "score": 391,
+    "by": "werrett",
+    "descendants": 100,
+    "time": 1794949888
+  },
+  {
+    "rank": 2,
+    "id": 50535230,
+    "title": "GPT\u20116.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "score": 1024,
+    "by": "jasondavies",
+    "descendants": 645,
+    "time": 1794937603
+  },
+  {
+    "rank": 3,
+    "id": 50538994,
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "score": 167,
+    "by": "subset",
+    "descendants": 29,
+    "time": 1794953614
+  },
+  {
+    "rank": 4,
+    "id": 50537156,
+    "title": "jQuery 4.1.0",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "score": 225,
+    "by": "petecooper",
+    "descendants": 121,
+    "time": 1794945040
+  },
+  {
+    "rank": 5,
+    "id": 50534631,
+    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "score": 341,
+    "by": "louiereederson",
+    "descendants": 175,
+    "time": 1794935526
+  },
+  {
+    "rank": 6,
+    "id": 50535885,
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "score": 261,
+    "by": "lemonish97",
+    "descendants": 123,
+    "time": 1794939913
+  },
+  {
+    "rank": 7,
+    "id": 50535992,
+    "title": "Phrack 73 Released",
+    "url": "https://phrack.org/issues/73/introduction_md",
+    "score": 245,
+    "by": "notmine1337",
+    "descendants": 24,
+    "time": 1794940285
+  },
+  {
+    "rank": 8,
+    "id": 50536813,
+    "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+    "score": 220,
+    "by": "dxs",
+    "descendants": 67,
+    "time": 1794943527
+  },
+  {
+    "rank": 9,
+    "id": 50532849,
+    "title": "Highly classified US national security communications network goes down",
+    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "score": 425,
+    "by": "monkeydust",
+    "descendants": 518,
+    "time": 1794929908
+  },
+  {
+    "rank": 10,
+    "id": 50539747,
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "score": 12,
+    "by": "digitaldragon",
+    "descendants": 2,
+    "time": 1794958378
+  }
+]

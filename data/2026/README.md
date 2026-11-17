@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (16 days)
+- [November](11/) (17 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-17
+
+*Tuesday*
+
+1. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) (calif.io) - 391 points by [werrett](https://news.ycombinator.com/user?id=werrett), [100 comments](https://news.ycombinator.com/item?id=50538240)
+2. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) (openai.com) - 1.0k points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [645 comments](https://news.ycombinator.com/item?id=50535230)
+3. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) (blog.cloudflare.com) - 167 points by [subset](https://news.ycombinator.com/user?id=subset), [29 comments](https://news.ycombinator.com/item?id=50538994)
+4. [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0) (github.com) - 225 points by [petecooper](https://news.ycombinator.com/user?id=petecooper), [121 comments](https://news.ycombinator.com/item?id=50537156)
+5. [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) (ft.com) - 341 points by [louiereederson](https://news.ycombinator.com/user?id=louiereederson), [175 comments](https://news.ycombinator.com/item?id=50534631)
+6. [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) (microsoft.ai) - 261 points by [lemonish97](https://news.ycombinator.com/user?id=lemonish97), [123 comments](https://news.ycombinator.com/item?id=50535885)
+7. [Phrack 73 Released](https://phrack.org/issues/73/introduction_md) (phrack.org) - 245 points by [notmine1337](https://news.ycombinator.com/user?id=notmine1337), [24 comments](https://news.ycombinator.com/item?id=50535992)
+8. [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969) (sciencenorway.no) - 220 points by [dxs](https://news.ycombinator.com/user?id=dxs), [67 comments](https://news.ycombinator.com/item?id=50536813)
+9. [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) (cnn.com) - 425 points by [monkeydust](https://news.ycombinator.com/user?id=monkeydust), [518 comments](https://news.ycombinator.com/item?id=50532849)
+10. [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions) (wiki.archiveteam.org) - 12 points by [digitaldragon](https://news.ycombinator.com/user?id=digitaldragon), [2 comments](https://news.ycombinator.com/item?id=50539747)
 
 ## 2026-11-16
 

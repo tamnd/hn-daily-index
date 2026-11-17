@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | [Nov 13](#2026-11-13) | [Nov 12](#2026-11-12) | [Nov 11](#2026-11-11) | [Nov 10](#2026-11-10)
+Recent: [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | [Nov 13](#2026-11-13) | [Nov 12](#2026-11-12) | [Nov 11](#2026-11-11)
 
-### [2026](data/2026/) (318/320 days)
+### [2026](data/2026/) (319/321 days)
 
-[**November**](data/2026/11/) (16/16)
+[**November**](data/2026/11/) (17/17)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
-| [**16**](#2026-11-16) |  |  |  |  |  |  |
+| [**16**](#2026-11-16) | [**17**](#2026-11-17) |  |  |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2184,6 +2184,21 @@ Recent: [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | 
 </details>
 
 ---
+
+## 2026-11-17
+
+*Tuesday*
+
+1. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) (calif.io) - 391 points by [werrett](https://news.ycombinator.com/user?id=werrett), [100 comments](https://news.ycombinator.com/item?id=50538240)
+2. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) (openai.com) - 1.0k points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [645 comments](https://news.ycombinator.com/item?id=50535230)
+3. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) (blog.cloudflare.com) - 167 points by [subset](https://news.ycombinator.com/user?id=subset), [29 comments](https://news.ycombinator.com/item?id=50538994)
+4. [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0) (github.com) - 225 points by [petecooper](https://news.ycombinator.com/user?id=petecooper), [121 comments](https://news.ycombinator.com/item?id=50537156)
+5. [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) (ft.com) - 341 points by [louiereederson](https://news.ycombinator.com/user?id=louiereederson), [175 comments](https://news.ycombinator.com/item?id=50534631)
+6. [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) (microsoft.ai) - 261 points by [lemonish97](https://news.ycombinator.com/user?id=lemonish97), [123 comments](https://news.ycombinator.com/item?id=50535885)
+7. [Phrack 73 Released](https://phrack.org/issues/73/introduction_md) (phrack.org) - 245 points by [notmine1337](https://news.ycombinator.com/user?id=notmine1337), [24 comments](https://news.ycombinator.com/item?id=50535992)
+8. [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969) (sciencenorway.no) - 220 points by [dxs](https://news.ycombinator.com/user?id=dxs), [67 comments](https://news.ycombinator.com/item?id=50536813)
+9. [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) (cnn.com) - 425 points by [monkeydust](https://news.ycombinator.com/user?id=monkeydust), [518 comments](https://news.ycombinator.com/item?id=50532849)
+10. [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions) (wiki.archiveteam.org) - 12 points by [digitaldragon](https://news.ycombinator.com/user?id=digitaldragon), [2 comments](https://news.ycombinator.com/item?id=50539747)
 
 ## 2026-11-16
 
