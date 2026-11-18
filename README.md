@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | [Nov 13](#2026-11-13) | [Nov 12](#2026-11-12) | [Nov 11](#2026-11-11)
+Recent: [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | [Nov 13](#2026-11-13) | [Nov 12](#2026-11-12)
 
-### [2026](data/2026/) (319/321 days)
+### [2026](data/2026/) (320/322 days)
 
-[**November**](data/2026/11/) (17/17)
+[**November**](data/2026/11/) (18/18)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
-| [**16**](#2026-11-16) | [**17**](#2026-11-17) |  |  |  |  |  |
+| [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) |  |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2184,6 +2184,21 @@ Recent: [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | 
 </details>
 
 ---
+
+## 2026-11-18
+
+*Wednesday*
+
+1. [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) (wiz.io) - 1.1k points by [speedping](https://news.ycombinator.com/user?id=speedping), [483 comments](https://news.ycombinator.com/item?id=50547374)
+2. [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) (microsoft.ai) - 411 points by [gmays](https://news.ycombinator.com/user?id=gmays), [286 comments](https://news.ycombinator.com/item?id=50548021)
+3. [Inside Deutsche Bank](https://www.inside-db.com/) (inside-db.com) - 523 points by [gyre007](https://news.ycombinator.com/user?id=gyre007), [185 comments](https://news.ycombinator.com/item?id=50547620)
+4. [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b) (radixark.com) - 112 points by [de_sty](https://news.ycombinator.com/user?id=de_sty), [31 comments](https://news.ycombinator.com/item?id=50551046)
+5. [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) (europeanbusinessmagazine.com) - 316 points by [Betelbuddy](https://news.ycombinator.com/user?id=Betelbuddy), [145 comments](https://news.ycombinator.com/item?id=50547777)
+6. [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) (techstackups.com) - 567 points by [ritzaco](https://news.ycombinator.com/user?id=ritzaco), [213 comments](https://news.ycombinator.com/item?id=50545958)
+7. [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) (blog.google) - 334 points by [yigitdemirag](https://news.ycombinator.com/user?id=yigitdemirag), [324 comments](https://news.ycombinator.com/item?id=50552424)
+8. [Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/) (engineering.fb.com) - 29 points by [acossta](https://news.ycombinator.com/user?id=acossta), [5 comments](https://news.ycombinator.com/item?id=50510385)
+9. [A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/) (science.nasa.gov) - 18 points by [wawayanda](https://news.ycombinator.com/user?id=wawayanda), [2 comments](https://news.ycombinator.com/item?id=50524227)
+10. [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/) (openai.com) - 147 points by [vighneshiyer](https://news.ycombinator.com/user?id=vighneshiyer), [88 comments](https://news.ycombinator.com/item?id=50549493)
 
 ## 2026-11-17
 

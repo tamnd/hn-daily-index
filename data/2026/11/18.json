@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50547374,
+    "title": "Unauthenticated remote code execution in Nginx",
+    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "score": 1057,
+    "by": "speedping",
+    "descendants": 483,
+    "time": 1795015195
+  },
+  {
+    "rank": 2,
+    "id": 50548021,
+    "title": "Seven new models at scalable price-performance",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "score": 411,
+    "by": "gmays",
+    "descendants": 286,
+    "time": 1795018104
+  },
+  {
+    "rank": 3,
+    "id": 50547620,
+    "title": "Inside Deutsche Bank",
+    "url": "https://www.inside-db.com/",
+    "score": 523,
+    "by": "gyre007",
+    "descendants": 185,
+    "time": 1795016313
+  },
+  {
+    "rank": 4,
+    "id": 50551046,
+    "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "score": 112,
+    "by": "de_sty",
+    "descendants": 31,
+    "time": 1795030756
+  },
+  {
+    "rank": 5,
+    "id": 50547777,
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "score": 316,
+    "by": "Betelbuddy",
+    "descendants": 145,
+    "time": 1795016974
+  },
+  {
+    "rank": 6,
+    "id": 50545958,
+    "title": "DNS resolvers are the wrong place to fight piracy",
+    "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+    "score": 567,
+    "by": "ritzaco",
+    "descendants": 213,
+    "time": 1795007882
+  },
+  {
+    "rank": 7,
+    "id": 50552424,
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "score": 334,
+    "by": "yigitdemirag",
+    "descendants": 324,
+    "time": 1795037647
+  },
+  {
+    "rank": 8,
+    "id": 50510385,
+    "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+    "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+    "score": 29,
+    "by": "acossta",
+    "descendants": 5,
+    "time": 1794774642
+  },
+  {
+    "rank": 9,
+    "id": 50524227,
+    "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "score": 18,
+    "by": "wawayanda",
+    "descendants": 2,
+    "time": 1794867571
+  },
+  {
+    "rank": 10,
+    "id": 50549493,
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "score": 147,
+    "by": "vighneshiyer",
+    "descendants": 88,
+    "time": 1795023947
+  }
+]
