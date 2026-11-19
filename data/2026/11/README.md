@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-19 (Thursday)](#2026-11-19)
 - [2026-11-18 (Wednesday)](#2026-11-18)
 - [2026-11-17 (Tuesday)](#2026-11-17)
 - [2026-11-16 (Monday)](#2026-11-16)
@@ -22,6 +23,21 @@ Top 10 Hacker News stories for each day in November 2026.
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-19
+
+*Thursday*
+
+1. [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) (reuters.com) - 822 points by [wslh](https://news.ycombinator.com/user?id=wslh), [1573 comments](https://news.ycombinator.com/item?id=50562754)
+2. [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) (newscientist.com) - 470 points by [cybermango](https://news.ycombinator.com/user?id=cybermango), [67 comments](https://news.ycombinator.com/item?id=50563066)
+3. [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21) (synology.com) - 69 points by [choult](https://news.ycombinator.com/user?id=choult), [33 comments](https://news.ycombinator.com/item?id=50567209)
+4. [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) (anthropic.com) - 345 points by [cybermango](https://news.ycombinator.com/user?id=cybermango), [155 comments](https://news.ycombinator.com/item?id=50563148)
+5. [RegExr: Temporarily Offline](https://regexr.com/) (regexr.com) - 24 points by [somebudyelse](https://news.ycombinator.com/user?id=somebudyelse), [16 comments](https://news.ycombinator.com/item?id=50567374)
+6. [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/) (ocw.mit.edu) - 70 points by [o4c](https://news.ycombinator.com/user?id=o4c), [13 comments](https://news.ycombinator.com/item?id=50528119)
+7. [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) (blog.harrison.page) - 721 points by [harrisonpage](https://news.ycombinator.com/user?id=harrisonpage), [306 comments](https://news.ycombinator.com/item?id=50519231)
+8. [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) (globalcommercegraph.com) - 172 points by [dev1one1](https://news.ycombinator.com/user?id=dev1one1), [88 comments](https://news.ycombinator.com/item?id=50564159)
+9. [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news) (cornholenews.news) - 178 points by [cornholemedia](https://news.ycombinator.com/user?id=cornholemedia), [87 comments](https://news.ycombinator.com/item?id=50561515)
+10. [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o) (youtube.com) - 62 points by [sandslash](https://news.ycombinator.com/user?id=sandslash), [116 comments](https://news.ycombinator.com/item?id=50564366)
 
 ## 2026-11-18
 
