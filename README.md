@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14) | [Nov 13](#2026-11-13)
+Recent: [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14)
 
-### [2026](data/2026/) (321/323 days)
+### [2026](data/2026/) (322/324 days)
 
-[**November**](data/2026/11/) (19/19)
+[**November**](data/2026/11/) (20/20)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
-| [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) | [**19**](#2026-11-19) |  |  |  |
+| [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) | [**19**](#2026-11-19) | [**20**](#2026-11-20) |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2184,6 +2184,21 @@ Recent: [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17) | 
 </details>
 
 ---
+
+## 2026-11-20
+
+*Friday*
+
+1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) (math216.wordpress.com) - 1.4k points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [634 comments](https://news.ycombinator.com/item?id=50579568)
+2. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) (thinkingmachines.ai) - 555 points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [93 comments](https://news.ycombinator.com/item?id=50581260)
+3. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) (alpo.ge) - 2.3k points by [iamronaldo](https://news.ycombinator.com/user?id=iamronaldo), [1548 comments](https://news.ycombinator.com/item?id=50574968)
+4. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) (ninlive.com) - 55 points by [CharlesW](https://news.ycombinator.com/user?id=CharlesW), [9 comments](https://news.ycombinator.com/item?id=50583274)
+5. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) (manidoraisamy.com) - 253 points by [QueensGambit](https://news.ycombinator.com/user?id=QueensGambit), [162 comments](https://news.ycombinator.com/item?id=50579331)
+6. [GitHub nuked me with no reason, and (so far) no ability to contact a human](https://nate.mecca1.net/posts/2026-11-20_help/) (nate.mecca1.net) - 30 points by [01nate](https://news.ycombinator.com/user?id=01nate), [10 comments](https://news.ycombinator.com/item?id=50583911)
+7. [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) (terrytao.wordpress.com) - 302 points by [archon1410](https://news.ycombinator.com/user?id=archon1410), [118 comments](https://news.ycombinator.com/item?id=50578358)
+8. [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) (arxiv.org) - 320 points by [lwhsiao](https://news.ycombinator.com/user?id=lwhsiao), [106 comments](https://news.ycombinator.com/item?id=50577265)
+9. [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon) (github.com) - 43 points by [RubenLtke](https://news.ycombinator.com/user?id=RubenLtke), [24 comments](https://news.ycombinator.com/item?id=50582629)
+10. [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/) (github.com) - 247 points by [trotro](https://news.ycombinator.com/user?id=trotro), [77 comments](https://news.ycombinator.com/item?id=50576232)
 
 ## 2026-11-19
 

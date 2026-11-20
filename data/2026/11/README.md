@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-20 (Friday)](#2026-11-20)
 - [2026-11-19 (Thursday)](#2026-11-19)
 - [2026-11-18 (Wednesday)](#2026-11-18)
 - [2026-11-17 (Tuesday)](#2026-11-17)
@@ -23,6 +24,21 @@ Top 10 Hacker News stories for each day in November 2026.
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-20
+
+*Friday*
+
+1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) (math216.wordpress.com) - 1.4k points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [634 comments](https://news.ycombinator.com/item?id=50579568)
+2. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) (thinkingmachines.ai) - 555 points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [93 comments](https://news.ycombinator.com/item?id=50581260)
+3. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) (alpo.ge) - 2.3k points by [iamronaldo](https://news.ycombinator.com/user?id=iamronaldo), [1548 comments](https://news.ycombinator.com/item?id=50574968)
+4. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) (ninlive.com) - 55 points by [CharlesW](https://news.ycombinator.com/user?id=CharlesW), [9 comments](https://news.ycombinator.com/item?id=50583274)
+5. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) (manidoraisamy.com) - 253 points by [QueensGambit](https://news.ycombinator.com/user?id=QueensGambit), [162 comments](https://news.ycombinator.com/item?id=50579331)
+6. [GitHub nuked me with no reason, and (so far) no ability to contact a human](https://nate.mecca1.net/posts/2026-11-20_help/) (nate.mecca1.net) - 30 points by [01nate](https://news.ycombinator.com/user?id=01nate), [10 comments](https://news.ycombinator.com/item?id=50583911)
+7. [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) (terrytao.wordpress.com) - 302 points by [archon1410](https://news.ycombinator.com/user?id=archon1410), [118 comments](https://news.ycombinator.com/item?id=50578358)
+8. [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) (arxiv.org) - 320 points by [lwhsiao](https://news.ycombinator.com/user?id=lwhsiao), [106 comments](https://news.ycombinator.com/item?id=50577265)
+9. [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon) (github.com) - 43 points by [RubenLtke](https://news.ycombinator.com/user?id=RubenLtke), [24 comments](https://news.ycombinator.com/item?id=50582629)
+10. [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/) (github.com) - 247 points by [trotro](https://news.ycombinator.com/user?id=trotro), [77 comments](https://news.ycombinator.com/item?id=50576232)
 
 ## 2026-11-19
 
