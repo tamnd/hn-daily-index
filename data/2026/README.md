@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (20 days)
+- [November](11/) (21 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-21
+
+*Saturday*
+
+1. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) (theguardian.com) - 482 points by [rafaelc](https://news.ycombinator.com/user?id=rafaelc), [120 comments](https://news.ycombinator.com/item?id=50582069)
+2. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) (leanprover-community.github.io) - 777 points by [g-b-r](https://news.ycombinator.com/user?id=g-b-r), [615 comments](https://news.ycombinator.com/item?id=50589618)
+3. [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) (github.com) - 320 points by [k__](https://news.ycombinator.com/user?id=k__), [87 comments](https://news.ycombinator.com/item?id=50591853)
+4. [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) (science.org) - 492 points by [beginning_end](https://news.ycombinator.com/user?id=beginning_end), [323 comments](https://news.ycombinator.com/item?id=50588982)
+5. [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) (gov.br) - 702 points by [dvaplima](https://news.ycombinator.com/user?id=dvaplima), [224 comments](https://news.ycombinator.com/item?id=50532613)
+6. [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body) (notnottalmud.substack.com) - 118 points by [jger15](https://news.ycombinator.com/user?id=jger15), [45 comments](https://news.ycombinator.com/item?id=50583028)
+7. [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer) (github.com) - 30 points by [sebaandrada](https://news.ycombinator.com/user?id=sebaandrada), [2 comments](https://news.ycombinator.com/item?id=50594132)
+8. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) (math216.wordpress.com) - 2.4k points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [1151 comments](https://news.ycombinator.com/item?id=50579568)
+9. [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) (blog.tymscar.com) - 448 points by [soheilpro](https://news.ycombinator.com/user?id=soheilpro), [219 comments](https://news.ycombinator.com/item?id=50587875)
+10. [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/) (jespino.github.io) - 112 points by [valyala](https://news.ycombinator.com/user?id=valyala), [19 comments](https://news.ycombinator.com/item?id=50591260)
 
 ## 2026-11-20
 

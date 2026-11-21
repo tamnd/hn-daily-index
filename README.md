@@ -13,18 +13,18 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15) | [Nov 14](#2026-11-14)
+Recent: [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16) | [Nov 15](#2026-11-15)
 
-### [2026](data/2026/) (322/324 days)
+### [2026](data/2026/) (323/325 days)
 
-[**November**](data/2026/11/) (20/20)
+[**November**](data/2026/11/) (21/21)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |  | [**1**](#2026-11-01) |
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
-| [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) | [**19**](#2026-11-19) | [**20**](#2026-11-20) |  |  |
+| [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) | [**19**](#2026-11-19) | [**20**](#2026-11-20) | [**21**](#2026-11-21) |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2184,6 +2184,21 @@ Recent: [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | 
 </details>
 
 ---
+
+## 2026-11-21
+
+*Saturday*
+
+1. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) (theguardian.com) - 482 points by [rafaelc](https://news.ycombinator.com/user?id=rafaelc), [120 comments](https://news.ycombinator.com/item?id=50582069)
+2. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) (leanprover-community.github.io) - 777 points by [g-b-r](https://news.ycombinator.com/user?id=g-b-r), [615 comments](https://news.ycombinator.com/item?id=50589618)
+3. [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) (github.com) - 320 points by [k__](https://news.ycombinator.com/user?id=k__), [87 comments](https://news.ycombinator.com/item?id=50591853)
+4. [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) (science.org) - 492 points by [beginning_end](https://news.ycombinator.com/user?id=beginning_end), [323 comments](https://news.ycombinator.com/item?id=50588982)
+5. [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) (gov.br) - 702 points by [dvaplima](https://news.ycombinator.com/user?id=dvaplima), [224 comments](https://news.ycombinator.com/item?id=50532613)
+6. [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body) (notnottalmud.substack.com) - 118 points by [jger15](https://news.ycombinator.com/user?id=jger15), [45 comments](https://news.ycombinator.com/item?id=50583028)
+7. [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer) (github.com) - 30 points by [sebaandrada](https://news.ycombinator.com/user?id=sebaandrada), [2 comments](https://news.ycombinator.com/item?id=50594132)
+8. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) (math216.wordpress.com) - 2.4k points by [jasondavies](https://news.ycombinator.com/user?id=jasondavies), [1151 comments](https://news.ycombinator.com/item?id=50579568)
+9. [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) (blog.tymscar.com) - 448 points by [soheilpro](https://news.ycombinator.com/user?id=soheilpro), [219 comments](https://news.ycombinator.com/item?id=50587875)
+10. [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/) (jespino.github.io) - 112 points by [valyala](https://news.ycombinator.com/user?id=valyala), [19 comments](https://news.ycombinator.com/item?id=50591260)
 
 ## 2026-11-20
 
