@@ -2,6 +2,7 @@
 
 Top 10 Hacker News stories for each day in November 2026.
 
+- [2026-11-22 (Sunday)](#2026-11-22)
 - [2026-11-21 (Saturday)](#2026-11-21)
 - [2026-11-20 (Friday)](#2026-11-20)
 - [2026-11-19 (Thursday)](#2026-11-19)
@@ -25,6 +26,21 @@ Top 10 Hacker News stories for each day in November 2026.
 - [2026-11-01 (Sunday)](#2026-11-01)
 
 ---
+
+## 2026-11-22
+
+*Sunday*
+
+1. [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3) (claude.ai) - 72 points by [Qision](https://news.ycombinator.com/user?id=Qision), [19 comments](https://news.ycombinator.com/item?id=50605045)
+2. [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) (audubon.org) - 300 points by [gaws](https://news.ycombinator.com/user?id=gaws), [123 comments](https://news.ycombinator.com/item?id=50602843)
+3. [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) (gpupartner.com) - 135 points by [Retell15](https://news.ycombinator.com/user?id=Retell15), [47 comments](https://news.ycombinator.com/item?id=50603845)
+4. [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20) (gl-inet.com) - 29 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [9 comments](https://news.ycombinator.com/item?id=50604988)
+5. [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) (apnews.com) - 56 points by [graemep](https://news.ycombinator.com/user?id=graemep), [1 comments](https://news.ycombinator.com/item?id=50547698)
+6. [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf) (ias.edu) - 34 points by [hectormauer](https://news.ycombinator.com/user?id=hectormauer), [3 comments](https://news.ycombinator.com/item?id=50604472)
+7. [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/) (smallsf.com) - 100 points by [dutilh](https://news.ycombinator.com/user?id=dutilh), [38 comments](https://news.ycombinator.com/item?id=50603589)
+8. [Nyx, the Oldest Internet Service Provider](https://nyx.net/) (nyx.net) - 73 points by [o_-_o](https://news.ycombinator.com/user?id=o_-_o), [8 comments](https://news.ycombinator.com/item?id=50603465)
+9. [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) (openai.com) - 447 points by [acossta](https://news.ycombinator.com/user?id=acossta), [302 comments](https://news.ycombinator.com/item?id=50601525)
+10. [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/) (fosscomics.com) - 22 points by [joonehur](https://news.ycombinator.com/user?id=joonehur), [7 comments](https://news.ycombinator.com/item?id=50604123)
 
 ## 2026-11-21
 
