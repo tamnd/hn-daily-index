@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17) | [Nov 16](#2026-11-16)
+Recent: [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17)
 
-### [2026](data/2026/) (324/326 days)
+### [2026](data/2026/) (325/327 days)
 
-[**November**](data/2026/11/) (22/22)
+[**November**](data/2026/11/) (23/23)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,6 +25,7 @@ Recent: [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | 
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
 | [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) | [**19**](#2026-11-19) | [**20**](#2026-11-20) | [**21**](#2026-11-21) | [**22**](#2026-11-22) |
+| [**23**](#2026-11-23) |  |  |  |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2184,6 +2185,21 @@ Recent: [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | 
 </details>
 
 ---
+
+## 2026-11-23
+
+*Monday*
+
+1. [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) (cnbc.com) - 1.9k points by [jaz](https://news.ycombinator.com/user?id=jaz), [3030 comments](https://news.ycombinator.com/item?id=50611576)
+2. [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) (stalw.art) - 95 points by [shaunpud](https://news.ycombinator.com/user?id=shaunpud), [55 comments](https://news.ycombinator.com/item?id=50620349)
+3. [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) (ladybird.org) - 1.3k points by [janvdberg](https://news.ycombinator.com/user?id=janvdberg), [312 comments](https://news.ycombinator.com/item?id=50614249)
+4. [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp) (github.com) - 158 points by [mikeryan52](https://news.ycombinator.com/user?id=mikeryan52), [109 comments](https://news.ycombinator.com/item?id=50620102)
+5. [GPUI is getting its own repository](https://github.com/zed-industries/gpui) (github.com) - 75 points by [EvilGoose](https://news.ycombinator.com/user?id=EvilGoose), [15 comments](https://news.ycombinator.com/item?id=50619103)
+6. [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/) (arm.jonpalmisc.com) - 781 points by [tech234a](https://news.ycombinator.com/user?id=tech234a), [160 comments](https://news.ycombinator.com/item?id=50617499)
+7. [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4) (z.ai) - 1.0k points by [foohis](https://news.ycombinator.com/user?id=foohis), [334 comments](https://news.ycombinator.com/item?id=50609685)
+8. [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/) (bored.com) - 63 points by [susam](https://news.ycombinator.com/user?id=susam), [18 comments](https://news.ycombinator.com/item?id=50619207)
+9. [Dario is hyping the dangers so OSS models are illegal and he stays in control](https://twitter.com/ylecun/status/2124550037912920090) (twitter.com) - 990 points by [MrBuddyCasino](https://news.ycombinator.com/user?id=MrBuddyCasino), [575 comments](https://news.ycombinator.com/item?id=50615308)
+10. [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF) (huggingface.co) - 107 points by [toebee](https://news.ycombinator.com/user?id=toebee), [20 comments](https://news.ycombinator.com/item?id=50611402)
 
 ## 2026-11-22
 

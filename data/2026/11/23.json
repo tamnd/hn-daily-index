@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50611576,
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "score": 1940,
+    "by": "jaz",
+    "descendants": 3030,
+    "time": 1795442418
+  },
+  {
+    "rank": 2,
+    "id": 50620349,
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "score": 95,
+    "by": "shaunpud",
+    "descendants": 55,
+    "time": 1795473149
+  },
+  {
+    "rank": 3,
+    "id": 50614249,
+    "title": "Ladybird is now in alpha",
+    "url": "https://ladybird.org/posts/alpha/",
+    "score": 1306,
+    "by": "janvdberg",
+    "descendants": 312,
+    "time": 1795450392
+  },
+  {
+    "rank": 4,
+    "id": 50620102,
+    "title": "VP \u2260 VNP over Every Field",
+    "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "score": 158,
+    "by": "mikeryan52",
+    "descendants": 109,
+    "time": 1795471750
+  },
+  {
+    "rank": 5,
+    "id": 50619103,
+    "title": "GPUI is getting its own repository",
+    "url": "https://github.com/zed-industries/gpui",
+    "score": 75,
+    "by": "EvilGoose",
+    "descendants": 15,
+    "time": 1795467174
+  },
+  {
+    "rank": 6,
+    "id": 50617499,
+    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+    "url": "https://arm.jonpalmisc.com/",
+    "score": 781,
+    "by": "tech234a",
+    "descendants": 160,
+    "time": 1795461475
+  },
+  {
+    "rank": 7,
+    "id": 50609685,
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "url": "https://z.ai/blog/glm-5.4",
+    "score": 1024,
+    "by": "foohis",
+    "descendants": 334,
+    "time": 1795428403
+  },
+  {
+    "rank": 8,
+    "id": 50619207,
+    "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+    "url": "https://www.bored.com/",
+    "score": 63,
+    "by": "susam",
+    "descendants": 18,
+    "time": 1795467676
+  },
+  {
+    "rank": 9,
+    "id": 50615308,
+    "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+    "url": "https://twitter.com/ylecun/status/2124550037912920090",
+    "score": 990,
+    "by": "MrBuddyCasino",
+    "descendants": 575,
+    "time": 1795453646
+  },
+  {
+    "rank": 10,
+    "id": 50611402,
+    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+    "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "score": 107,
+    "by": "toebee",
+    "descendants": 20,
+    "time": 1795441358
+  }
+]
