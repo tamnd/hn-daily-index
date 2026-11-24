@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50633922,
+    "title": "Ternary Bonsai 2.5 27B",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "score": 277,
+    "by": "b0m",
+    "descendants": 92,
+    "time": 1795550883
+  },
+  {
+    "rank": 2,
+    "id": 50634658,
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "score": 121,
+    "by": "acossta",
+    "descendants": 25,
+    "time": 1795554142
+  },
+  {
+    "rank": 3,
+    "id": 50634426,
+    "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+    "url": "",
+    "score": 55,
+    "by": "harshithl1777",
+    "descendants": 32,
+    "time": 1795553055
+  },
+  {
+    "rank": 4,
+    "id": 50630594,
+    "title": "Active intrusion campaign against Check Point security management servers",
+    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "score": 251,
+    "by": "louiereederson",
+    "descendants": 115,
+    "time": 1795537937
+  },
+  {
+    "rank": 5,
+    "id": 50625265,
+    "title": "G\u00f6del Enigma",
+    "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+    "score": 61,
+    "by": "benbreen",
+    "descendants": 22,
+    "time": 1795508162
+  },
+  {
+    "rank": 6,
+    "id": 50598555,
+    "title": "The Spray Bottle",
+    "url": "https://mechanical-pencil.com/products/spray-bottle",
+    "score": 327,
+    "by": "vinhnx",
+    "descendants": 93,
+    "time": 1795346190
+  },
+  {
+    "rank": 7,
+    "id": 50635698,
+    "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+    "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+    "score": 17,
+    "by": "atlun",
+    "descendants": 18,
+    "time": 1795559201
+  },
+  {
+    "rank": 8,
+    "id": 50609483,
+    "title": "Calculate how many mesh radio nodes your city needs",
+    "url": "https://meshcoveragecalculator.lalala.ing/",
+    "score": 67,
+    "by": "joshcsimmons",
+    "descendants": 8,
+    "time": 1795427217
+  },
+  {
+    "rank": 9,
+    "id": 50633424,
+    "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+    "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+    "score": 57,
+    "by": "Artgor",
+    "descendants": 1,
+    "time": 1795549243
+  },
+  {
+    "rank": 10,
+    "id": 50635271,
+    "title": "Heart attack and stroke risk detectable decades in advance",
+    "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+    "score": 94,
+    "by": "gmays",
+    "descendants": 35,
+    "time": 1795557081
+  }
+]

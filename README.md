@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18) | [Nov 17](#2026-11-17)
+Recent: [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18)
 
-### [2026](data/2026/) (325/327 days)
+### [2026](data/2026/) (326/328 days)
 
-[**November**](data/2026/11/) (23/23)
+[**November**](data/2026/11/) (24/24)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | 
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
 | [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) | [**19**](#2026-11-19) | [**20**](#2026-11-20) | [**21**](#2026-11-21) | [**22**](#2026-11-22) |
-| [**23**](#2026-11-23) |  |  |  |  |  |  |
+| [**23**](#2026-11-23) | [**24**](#2026-11-24) |  |  |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2185,6 +2185,21 @@ Recent: [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | 
 </details>
 
 ---
+
+## 2026-11-24
+
+*Tuesday*
+
+1. [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) (prismml.com) - 277 points by [b0m](https://news.ycombinator.com/user?id=b0m), [92 comments](https://news.ycombinator.com/item?id=50633922)
+2. [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) (openai.com) - 121 points by [acossta](https://news.ycombinator.com/user?id=acossta), [25 comments](https://news.ycombinator.com/item?id=50634658)
+3. [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426) - 55 points by [harshithl1777](https://news.ycombinator.com/user?id=harshithl1777), [32 comments](https://news.ycombinator.com/item?id=50634426)
+4. [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) (greynoise.io) - 251 points by [louiereederson](https://news.ycombinator.com/user?id=louiereederson), [115 comments](https://news.ycombinator.com/item?id=50630594)
+5. [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description) (helsinki.fi) - 61 points by [benbreen](https://news.ycombinator.com/user?id=benbreen), [22 comments](https://news.ycombinator.com/item?id=50625265)
+6. [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle) (mechanical-pencil.com) - 327 points by [vinhnx](https://news.ycombinator.com/user?id=vinhnx), [93 comments](https://news.ycombinator.com/item?id=50598555)
+7. [Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available) (goodhartlabs.com) - 17 points by [atlun](https://news.ycombinator.com/user?id=atlun), [18 comments](https://news.ycombinator.com/item?id=50635698)
+8. [Calculate how many mesh radio nodes your city needs](https://meshcoveragecalculator.lalala.ing/) (meshcoveragecalculator.lalala.ing) - 67 points by [joshcsimmons](https://news.ycombinator.com/user?id=joshcsimmons), [8 comments](https://news.ycombinator.com/item?id=50609483)
+9. [From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu) (andlukyane.com) - 57 points by [Artgor](https://news.ycombinator.com/user?id=Artgor), [1 comments](https://news.ycombinator.com/item?id=50633424)
+10. [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance) (ed.ac.uk) - 94 points by [gmays](https://news.ycombinator.com/user?id=gmays), [35 comments](https://news.ycombinator.com/item?id=50635271)
 
 ## 2026-11-23
 
