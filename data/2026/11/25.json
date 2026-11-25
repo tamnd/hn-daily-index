@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50644817,
+    "title": "1Password Security Incident",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "score": 1044,
+    "by": "lxhrstn",
+    "descendants": 447,
+    "time": 1795627106
+  },
+  {
+    "rank": 2,
+    "id": 50648823,
+    "title": "Jev is (probably) Qwen3.5-35B-A3B",
+    "url": "https://modaic.dev/blog/latency-doesnt-lie",
+    "score": 103,
+    "by": "csoham",
+    "descendants": 8,
+    "time": 1795647424
+  },
+  {
+    "rank": 3,
+    "id": 50648050,
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "url": "https://github.com/lsernau/grh-lean",
+    "score": 195,
+    "by": "nb-t",
+    "descendants": 88,
+    "time": 1795643290
+  },
+  {
+    "rank": 4,
+    "id": 50647673,
+    "title": "The New York Times tells photographers not to use the latest Photoshop",
+    "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+    "score": 132,
+    "by": "rmason",
+    "descendants": 65,
+    "time": 1795641482
+  },
+  {
+    "rank": 5,
+    "id": 50601280,
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+    "score": 194,
+    "by": "bjin",
+    "descendants": 57,
+    "time": 1795365888
+  },
+  {
+    "rank": 6,
+    "id": 50647158,
+    "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+    "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+    "score": 101,
+    "by": "handfuloflight",
+    "descendants": 46,
+    "time": 1795638939
+  },
+  {
+    "rank": 7,
+    "id": 50647181,
+    "title": "Slow Ubuntu security response times",
+    "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "score": 94,
+    "by": "gslin",
+    "descendants": 32,
+    "time": 1795639080
+  },
+  {
+    "rank": 8,
+    "id": 50643129,
+    "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+    "score": 422,
+    "by": "gumby",
+    "descendants": 100,
+    "time": 1795619672
+  },
+  {
+    "rank": 9,
+    "id": 50647161,
+    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+    "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "score": 63,
+    "by": "dm",
+    "descendants": 19,
+    "time": 1795638950
+  },
+  {
+    "rank": 10,
+    "id": 50646108,
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+    "url": "https://scottaaronson.blog/?p=10379",
+    "score": 785,
+    "by": "Kotlopou",
+    "descendants": 636,
+    "time": 1795633887
+  }
+]

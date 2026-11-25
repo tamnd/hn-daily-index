@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19) | [Nov 18](#2026-11-18)
+Recent: [Nov 25](#2026-11-25) | [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19)
 
-### [2026](data/2026/) (326/328 days)
+### [2026](data/2026/) (327/329 days)
 
-[**November**](data/2026/11/) (24/24)
+[**November**](data/2026/11/) (25/25)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | 
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
 | [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) | [**19**](#2026-11-19) | [**20**](#2026-11-20) | [**21**](#2026-11-21) | [**22**](#2026-11-22) |
-| [**23**](#2026-11-23) | [**24**](#2026-11-24) |  |  |  |  |  |
+| [**23**](#2026-11-23) | [**24**](#2026-11-24) | [**25**](#2026-11-25) |  |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2185,6 +2185,21 @@ Recent: [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | 
 </details>
 
 ---
+
+## 2026-11-25
+
+*Wednesday*
+
+1. [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) (1password.com) - 1.0k points by [lxhrstn](https://news.ycombinator.com/user?id=lxhrstn), [447 comments](https://news.ycombinator.com/item?id=50644817)
+2. [Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie) (modaic.dev) - 103 points by [csoham](https://news.ycombinator.com/user?id=csoham), [8 comments](https://news.ycombinator.com/item?id=50648823)
+3. [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) (github.com) - 195 points by [nb-t](https://news.ycombinator.com/user?id=nb-t), [88 comments](https://news.ycombinator.com/item?id=50648050)
+4. [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/) (dpreview.com) - 132 points by [rmason](https://news.ycombinator.com/user?id=rmason), [65 comments](https://news.ycombinator.com/item?id=50647673)
+5. [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) (bjin.github.io) - 194 points by [bjin](https://news.ycombinator.com/user?id=bjin), [57 comments](https://news.ycombinator.com/item?id=50601280)
+6. [72-Hour Fasting Can Reset Your Immune System, USC Study Shows](https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/) (scienceinhand.com) - 101 points by [handfuloflight](https://news.ycombinator.com/user?id=handfuloflight), [46 comments](https://news.ycombinator.com/item?id=50647158)
+7. [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9) (openwall.com) - 94 points by [gslin](https://news.ycombinator.com/user?id=gslin), [32 comments](https://news.ycombinator.com/item?id=50647181)
+8. [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) (vox.com) - 422 points by [gumby](https://news.ycombinator.com/user?id=gumby), [100 comments](https://news.ycombinator.com/item?id=50643129)
+9. [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362) (opensec.in) - 63 points by [dm](https://news.ycombinator.com/user?id=dm), [19 comments](https://news.ycombinator.com/item?id=50647161)
+10. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) (scottaaronson.blog) - 785 points by [Kotlopou](https://news.ycombinator.com/user?id=Kotlopou), [636 comments](https://news.ycombinator.com/item?id=50646108)
 
 ## 2026-11-24
 
