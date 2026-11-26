@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (25 days)
+- [November](11/) (26 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-26
+
+*Thursday*
+
+1. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) (janlukas.blog) - 179 points by [jlelse](https://news.ycombinator.com/user?id=jlelse), [104 comments](https://news.ycombinator.com/item?id=50660180)
+2. [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) (worksinprogress.co) - 195 points by [dverlaeckt80](https://news.ycombinator.com/user?id=dverlaeckt80), [34 comments](https://news.ycombinator.com/item?id=50659841)
+3. [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) (devnull.land) - 265 points by [julianlam](https://news.ycombinator.com/user?id=julianlam), [64 comments](https://news.ycombinator.com/item?id=50657265)
+4. [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) (github.com) - 226 points by [iantongeorge](https://news.ycombinator.com/user?id=iantongeorge), [303 comments](https://news.ycombinator.com/item?id=50657530)
+5. [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) (krebsonsecurity.com) - 188 points by [Bender](https://news.ycombinator.com/user?id=Bender), [85 comments](https://news.ycombinator.com/item?id=50657645)
+6. [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip) (github.com) - 63 points by [zerosegfaults](https://news.ycombinator.com/user?id=zerosegfaults), [14 comments](https://news.ycombinator.com/item?id=50658632)
+7. [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) (github.com) - 448 points by [saikatsg](https://news.ycombinator.com/user?id=saikatsg), [234 comments](https://news.ycombinator.com/item?id=50653667)
+8. [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/) (topcitedscientists.com) - 23 points by [kkk4seis](https://news.ycombinator.com/user?id=kkk4seis), [11 comments](https://news.ycombinator.com/item?id=50658910)
+9. [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app) (olumino.app) - 58 points by [Wiyseful](https://news.ycombinator.com/user?id=Wiyseful), [33 comments](https://news.ycombinator.com/item?id=50651099)
+10. [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026) (science.org) - 50 points by [dverlaeckt80](https://news.ycombinator.com/user?id=dverlaeckt80), [6 comments](https://news.ycombinator.com/item?id=50657936)
 
 ## 2026-11-25
 

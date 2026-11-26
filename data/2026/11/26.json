@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "id": 50660180,
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "score": 179,
+    "by": "jlelse",
+    "descendants": 104,
+    "time": 1795729665
+  },
+  {
+    "rank": 2,
+    "id": 50659841,
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "score": 195,
+    "by": "dverlaeckt80",
+    "descendants": 34,
+    "time": 1795727285
+  },
+  {
+    "rank": 3,
+    "id": 50657265,
+    "title": "AMD-specific fork of llama.cpp",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "score": 265,
+    "by": "julianlam",
+    "descendants": 64,
+    "time": 1795713089
+  },
+  {
+    "rank": 4,
+    "id": 50657530,
+    "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+    "url": "https://github.com/antonpictures/youtube-punisher",
+    "score": 226,
+    "by": "iantongeorge",
+    "descendants": 303,
+    "time": 1795714607
+  },
+  {
+    "rank": 5,
+    "id": 50657645,
+    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "score": 188,
+    "by": "Bender",
+    "descendants": 85,
+    "time": 1795715265
+  },
+  {
+    "rank": 6,
+    "id": 50658632,
+    "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+    "url": "https://github.com/eisenzopf/rvoip",
+    "score": 63,
+    "by": "zerosegfaults",
+    "descendants": 14,
+    "time": 1795720689
+  },
+  {
+    "rank": 7,
+    "id": 50653667,
+    "title": "Intel One Mono font (2023)",
+    "url": "https://github.com/intel/intel-one-mono",
+    "score": 448,
+    "by": "saikatsg",
+    "descendants": 234,
+    "time": 1795687861
+  },
+  {
+    "rank": 8,
+    "id": 50658910,
+    "title": "Top-cited AI scientists at four US companies compared",
+    "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+    "score": 23,
+    "by": "kkk4seis",
+    "descendants": 11,
+    "time": 1795722271
+  },
+  {
+    "rank": 9,
+    "id": 50651099,
+    "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+    "url": "https://olumino.app",
+    "score": 58,
+    "by": "Wiyseful",
+    "descendants": 33,
+    "time": 1795663986
+  },
+  {
+    "rank": 10,
+    "id": 50657936,
+    "title": "George Whitesides, 1939-2026",
+    "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+    "score": 50,
+    "by": "dverlaeckt80",
+    "descendants": 6,
+    "time": 1795716787
+  }
+]

@@ -13,11 +13,11 @@ A daily archive of the top 10 stories on [Hacker News](https://news.ycombinator.
 ## Contents
 
 
-Recent: [Nov 25](#2026-11-25) | [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20) | [Nov 19](#2026-11-19)
+Recent: [Nov 26](#2026-11-26) | [Nov 25](#2026-11-25) | [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | [Nov 22](#2026-11-22) | [Nov 21](#2026-11-21) | [Nov 20](#2026-11-20)
 
-### [2026](data/2026/) (327/329 days)
+### [2026](data/2026/) (328/330 days)
 
-[**November**](data/2026/11/) (25/25)
+[**November**](data/2026/11/) (26/26)
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Recent: [Nov 25](#2026-11-25) | [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | 
 | [**2**](#2026-11-02) | [**3**](#2026-11-03) | [**4**](#2026-11-04) | [**5**](#2026-11-05) | [**6**](#2026-11-06) | [**7**](#2026-11-07) | [**8**](#2026-11-08) |
 | [**9**](#2026-11-09) | [**10**](#2026-11-10) | [**11**](#2026-11-11) | [**12**](#2026-11-12) | [**13**](#2026-11-13) | [**14**](#2026-11-14) | [**15**](#2026-11-15) |
 | [**16**](#2026-11-16) | [**17**](#2026-11-17) | [**18**](#2026-11-18) | [**19**](#2026-11-19) | [**20**](#2026-11-20) | [**21**](#2026-11-21) | [**22**](#2026-11-22) |
-| [**23**](#2026-11-23) | [**24**](#2026-11-24) | [**25**](#2026-11-25) |  |  |  |  |
+| [**23**](#2026-11-23) | [**24**](#2026-11-24) | [**25**](#2026-11-25) | [**26**](#2026-11-26) |  |  |  |
 
 [**October**](data/2026/10/) (29/31)
 
@@ -2185,6 +2185,21 @@ Recent: [Nov 25](#2026-11-25) | [Nov 24](#2026-11-24) | [Nov 23](#2026-11-23) | 
 </details>
 
 ---
+
+## 2026-11-26
+
+*Thursday*
+
+1. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) (janlukas.blog) - 179 points by [jlelse](https://news.ycombinator.com/user?id=jlelse), [104 comments](https://news.ycombinator.com/item?id=50660180)
+2. [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) (worksinprogress.co) - 195 points by [dverlaeckt80](https://news.ycombinator.com/user?id=dverlaeckt80), [34 comments](https://news.ycombinator.com/item?id=50659841)
+3. [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) (devnull.land) - 265 points by [julianlam](https://news.ycombinator.com/user?id=julianlam), [64 comments](https://news.ycombinator.com/item?id=50657265)
+4. [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) (github.com) - 226 points by [iantongeorge](https://news.ycombinator.com/user?id=iantongeorge), [303 comments](https://news.ycombinator.com/item?id=50657530)
+5. [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) (krebsonsecurity.com) - 188 points by [Bender](https://news.ycombinator.com/user?id=Bender), [85 comments](https://news.ycombinator.com/item?id=50657645)
+6. [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip) (github.com) - 63 points by [zerosegfaults](https://news.ycombinator.com/user?id=zerosegfaults), [14 comments](https://news.ycombinator.com/item?id=50658632)
+7. [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) (github.com) - 448 points by [saikatsg](https://news.ycombinator.com/user?id=saikatsg), [234 comments](https://news.ycombinator.com/item?id=50653667)
+8. [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/) (topcitedscientists.com) - 23 points by [kkk4seis](https://news.ycombinator.com/user?id=kkk4seis), [11 comments](https://news.ycombinator.com/item?id=50658910)
+9. [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app) (olumino.app) - 58 points by [Wiyseful](https://news.ycombinator.com/user?id=Wiyseful), [33 comments](https://news.ycombinator.com/item?id=50651099)
+10. [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026) (science.org) - 50 points by [dverlaeckt80](https://news.ycombinator.com/user?id=dverlaeckt80), [6 comments](https://news.ycombinator.com/item?id=50657936)
 
 ## 2026-11-25
 
