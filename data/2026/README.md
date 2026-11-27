@@ -2,7 +2,7 @@
 
 Top 10 Hacker News stories for each day in 2026.
 
-- [November](11/) (26 days)
+- [November](11/) (27 days)
 - [October](10/) (29 days)
 - [September](09/) (30 days)
 - [August](08/) (31 days)
@@ -15,6 +15,21 @@ Top 10 Hacker News stories for each day in 2026.
 - [January](01/) (31 days)
 
 ---
+
+## 2026-11-27
+
+*Friday*
+
+1. [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) (generativehistory.substack.com) - 245 points by [dr_red_dog](https://news.ycombinator.com/user?id=dr_red_dog), [160 comments](https://news.ycombinator.com/item?id=50643158)
+2. [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) (infohawk.com) - 394 points by [scanr](https://news.ycombinator.com/user?id=scanr), [200 comments](https://news.ycombinator.com/item?id=50668145)
+3. [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64) (github.com) - 208 points by [MickyTheMouse](https://news.ycombinator.com/user?id=MickyTheMouse), [59 comments](https://news.ycombinator.com/item?id=50669765)
+4. [Source Control from Hell](https://frantic.im/git/) (frantic.im) - 35 points by [emschwartz](https://news.ycombinator.com/user?id=emschwartz), [18 comments](https://news.ycombinator.com/item?id=50672142)
+5. [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/) (progrium.github.io) - 45 points by [rbanffy](https://news.ycombinator.com/user?id=rbanffy), [9 comments](https://news.ycombinator.com/item?id=50672008)
+6. [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html) (citroenet.org.uk) - 117 points by [o4c](https://news.ycombinator.com/user?id=o4c), [42 comments](https://news.ycombinator.com/item?id=50662313)
+7. [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/) (bouncemarket.minhanhday.com) - 319 points by [mday404](https://news.ycombinator.com/user?id=mday404), [110 comments](https://news.ycombinator.com/item?id=50667726)
+8. [Build your own amp modeler: $78 DIY pedal kit from TONE3000](https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit) (guitarworld.com) - 13 points by [gregsadetsky](https://news.ycombinator.com/user?id=gregsadetsky), [1 comments](https://news.ycombinator.com/item?id=50631823)
+9. [The AT&T Unix PC (3B1) VM](https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/) (virtuallyfun.com) - 50 points by [ok123456](https://news.ycombinator.com/user?id=ok123456), [9 comments](https://news.ycombinator.com/item?id=50670841)
+10. [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform) (oag.state.va.us) - 219 points by [DeepLogin](https://news.ycombinator.com/user?id=DeepLogin), [117 comments](https://news.ycombinator.com/item?id=50670855)
 
 ## 2026-11-26
 
